@@ -1,0 +1,185 @@
+[
+    "\n5.7.1 STAINING\r\n\n\nThis assay is performed in the Oncology Laboratory in the: \r\n\n\nMolecular Pathology Room:  Microtomy\r\n\n\nMain laboratory: Immunohistochemistry staining\r\n\n\nExtraction Room: Drying out and mounting\r\n\n\nNotes on the protocol \r\n\n\nAntigen retrieval is performed by warm incubation in EDTA buffers \\(ph8). The main problem with this method is that some epitopes are irreversibly damaged by heat, something which is more likely to occur if the tissue is poorly fixed. Special adhesive layers are used to avoid tissue cuts becoming unstuck \\(See section 5.5.2). The method of antigen retrieval, incubation time and concentration of the antibody vary according to the staining used \\(see table below). This is performed at 95ºC, except for PDL1 which is carried out at 100ºCX.\r\n\n\n\r\n\n\nMicrotomy",
+    {
+        "title": "1.",
+        "body": "Cutting is carried out as described in SOP-003.\r\n  Immunohistochemistry staining"
+    },
+    {
+        "title": "2.",
+        "body": "Enter the cases to be processed with the VENTANA BenchMark ULTRA \\(ROCHE) and print the labels."
+    },
+    {
+        "title": "3.",
+        "body": "Check the jars of reagents and residues \\(fill or empty as necessary). \r\n  - Ventana CC1 ULTRA\r\n\n\n- Ventana EZ PREP 10X\r\n\n\n- Ventana LCS ULTRA\r\n\n\n- Ventana Reaction Buffer\r\n\n\n- Ventana SSC\r\n\n\n- Fill the rest with distilled water \r\n\n\n- If full, empty the waste jar into the appropriate residue jar"
+    },
+    {
+        "title": "4.",
+        "body": "Place the VENTANA KIT Ultraview, Optiview and/or Optiview Amplification Kit rack, as well as the rack with the vials of antibody to be used into the machine"
+    },
+    {
+        "title": "5.",
+        "body": "Label the samples and place on the shelves."
+    },
+    {
+        "title": "6.",
+        "body": "Press start. The machine will begin scanning the reagents and samples and the process will initiate. \r\n  \r\n\n\n\r\n\n\nSteps"
+    },
+    {
+        "title": "11.",
+        "body": "Heat the carrier at 60ºC and incubate for 4 minutes"
+    },
+    {
+        "title": "12.",
+        "body": "Wash 3 times with EZ PREP solution at 72ºC to remove the paraffin"
+    },
+    {
+        "title": "13.",
+        "body": "Heat the glass slide to 36ºC and perform 3 washes with reaction buffer"
+    },
+    {
+        "title": "14.",
+        "body": "Apply a drop of UV DAB inhibitor and incubate for 4 minutes to stop the endogenous peroxidase from working"
+    },
+    {
+        "title": "15.",
+        "body": "Perform 2 washes with reaction buffer"
+    },
+    {
+        "title": "16.",
+        "body": "Apply a drop of the primary antibody and incubate for a specific period depending of the antibody \\(see table) \r\n  Ultraview Kit \\(UV)"
+    },
+    {
+        "title": "17.",
+        "body": "Perform 2 washes with reaction buffer"
+    },
+    {
+        "title": "18.",
+        "body": "Apply a drop of UV HRP Multimer and incubate for 8 minutes"
+    },
+    {
+        "title": "19.",
+        "body": "Perform 2 washes with reaction buffer"
+    },
+    {
+        "title": "20.",
+        "body": "Apply a drop of UV DAB Chromogen and a drop of UV DAB H2O2 and incubate for 8 minutes"
+    },
+    {
+        "title": "21.",
+        "body": "Perform 1 wash with reaction buffer"
+    },
+    {
+        "title": "22.",
+        "body": "Apply a drop of UV DAB Copper and incubate for 4 minutes"
+    },
+    {
+        "title": "23.",
+        "body": "Perform 1 wash with reaction buffer"
+    },
+    {
+        "title": "24.",
+        "body": "Apply a drop of Hematoxylin and incubate for 4 minutes, except for the LKB1 antibody which is incubated for 8 minutes"
+    },
+    {
+        "title": "25.",
+        "body": "Perform 2 washes with reaction buffer"
+    },
+    {
+        "title": "26.",
+        "body": "Apply a drop of Bluing and incubate for 4 minutes"
+    },
+    {
+        "title": "27.",
+        "body": "Perform 2 washes with reaction buffer \r\n  Optiview Kit \\(OV)"
+    },
+    {
+        "title": "17.",
+        "body": "Perform 3 washes with reaction buffer"
+    },
+    {
+        "title": "18.",
+        "body": "Apply a drop of OV HQ universal linker, incubate for 12 minutes and perform 3 washes with reaction buffer"
+    },
+    {
+        "title": "19.",
+        "body": "Apply a drop of OV HRP Multimer, incubate for 12 minutes and perform 2 washes with reaction buffer"
+    },
+    {
+        "title": "20.",
+        "body": "Apply a drop of OV Amplifier and a drop of OV Amplification H2O2 and incubate for 12 minutes"
+    },
+    {
+        "title": "21.",
+        "body": "Perform 2 washes with reaction buffer"
+    },
+    {
+        "title": "22.",
+        "body": "Apply a drop of OV Amplification Multimer and incubate for 8 minutes"
+    },
+    {
+        "title": "23.",
+        "body": "Perform 3 washes with reaction buffer"
+    },
+    {
+        "title": "24.",
+        "body": "Apply a drop of OV H2O2 and a drop of OV DAB, incubate for 8 minutes and perform 1 wash with reaction buffer"
+    },
+    {
+        "title": "25.",
+        "body": "Apply a drop of OV Copper, incubate for 4 minutes and perform 1 wash with reaction buffer"
+    },
+    {
+        "title": "26.",
+        "body": "Apply a drop of Hematoxylin, incubate for 4 minutes and perform 2 washes with reaction buffer"
+    },
+    {
+        "title": "27.",
+        "body": "Apply a drop of Bluing, incubate for 4 minutes and perform 2 washes with reaction buffer \r\n  Notes: Steps 21-23 refer to the Optiview Amplification Kit and are not performed for the pFGFR1 antibody.  \r\n\n\nDrying out and mounting samples"
+    },
+    {
+        "title": "28.",
+        "body": "After staining, the cut is soaked in soapy water to remove oils remaining from the staining process."
+    },
+    {
+        "title": "29.",
+        "body": "Incubate the sample for 2 minutes in 70% ethanol"
+    },
+    {
+        "title": "30.",
+        "body": "Incubate the sample for 2 minutes in 96% ethanol"
+    },
+    {
+        "title": "31.",
+        "body": "Incubate the sample for 2 minutes in absolute ethanol"
+    },
+    {
+        "title": "32.",
+        "body": "Incubate the sample for 2 minutes in xylene"
+    },
+    {
+        "title": "33.",
+        "body": "Leave to dry"
+    },
+    {
+        "title": "34.",
+        "body": "Apply a drop of DPX to the sample"
+    },
+    {
+        "title": "35.",
+        "body": "Place a glass cover over the whole of the tissue and remove bubbles by applying gentle pressure"
+    },
+    {
+        "title": "36.",
+        "body": [
+            "Leave to dry and observe under the microscope \r\n  \r\n\n\n\r\n\n\n\r\n\n\nOnce the sample is determined to be evaluable, the scheme to be followed for antibodies is:",
+            {
+                "title": "a)",
+                "body": "According to the proportion of stained tumoral cells"
+            },
+            {
+                "title": "b)",
+                "body": "According to the intensity of neoplastic cells stained: \r\n\n\n- 0 \\(lack of intensity) \r\n\n\n- 1 \\(weak staining) \r\n\n\n- 2 \\(moderate staining)\r\n\n\n- 3 \\(intense staining)"
+            }
+        ]
+    }
+]

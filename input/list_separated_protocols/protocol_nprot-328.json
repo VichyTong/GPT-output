@@ -1,0 +1,81 @@
+[
+    {
+        "title": "**Preparation of retinal cells**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Bleed mice by aspirating blood from the heart: Insert a 24G needle, on a 1ml syringe, below the rib cage in the center, directed slightly to the left and downwards at an angle of about 15-20<sup>o</sup> to the surface"
+            },
+            {
+                "title": "2|",
+                "body": "Enucleate eyes and put in complete medium in Petri dish for immediate retinal isolation."
+            },
+            {
+                "title": "3|",
+                "body": "Under a dissecting microscope cut along the limbus of the eye and carefully remove the lens and cornea; peel the retina off carefully and cut off the attachment at the optic nerve."
+            },
+            {
+                "title": "4|",
+                "body": "Mince retina tissue in collagenase/DNase digestion buffer\r\n\n\nBuffer: Complete medium containing collagenase \\(1mg/ml) + DNase \\(10ug/ml)"
+            },
+            {
+                "title": "5|",
+                "body": "Incubate retina in DNAse buffer at 37°C for 3hrs."
+            },
+            {
+                "title": "6|",
+                "body": "Pipette cells intermittently \\(every 30 or 60 minutes) using 10 ml pipette."
+            },
+            {
+                "title": "7|",
+                "body": "After 3 hrs quench digestion reaction with 5-10 fold volume 10% FBS in medium."
+            },
+            {
+                "title": "8|",
+                "body": "Fill tube with medium and centrifuge at 1200rpm for 10minutes"
+            },
+            {
+                "title": "9|",
+                "body": "Wash pellet in complete medium \\(2X)"
+            },
+            {
+                "title": "10|",
+                "body": "Count the retinal cells"
+            }
+        ]
+    },
+    {
+        "title": "**Retina organ-TH17 Co-culture system**",
+        "body": [
+            ":",
+            {
+                "title": "1|",
+                "body": "Isolate naive syngeneic CD4+ T-helper cells \\(>95%)"
+            },
+            {
+                "title": "2|",
+                "body": "Culture the naïve T cells in medium containing anti-CD3/anti-CD28 Abs under TH17 polarizing condition \\[TGF-β1 \\(10ng/ml), IL-6 \\(10ng/ml) anti-IFNγ \\(10 µg/ml) and anti-IL-4 \\(10µg/ml) Abs) for 48 hours"
+            },
+            {
+                "title": "3|",
+                "body": "Add differentiating TH17 cells to freshly isolated retina cells \\(1 TH17 cell: 5 retina cells)"
+            },
+            {
+                "title": "4|",
+                "body": "Propagate co-culture for additional 48 hours under the TH17 polarizing condition in the presence or absence of 10µg/ml anti-IL-27p28 Abs"
+            },
+            {
+                "title": "5|",
+                "body": "Controls: retinal cells alone; Differentiating TH17 cells alone."
+            },
+            {
+                "title": "6|",
+                "body": "Add PMA and Ionomycin for last 5 hours and Golgistop for last 1 hour as described above into the cultures."
+            },
+            {
+                "title": "7|",
+                "body": "Perform four-color cell surface/intracellular staining using antibodies against CD4, IL-17, IFN-γ, and CD44 and isotype control antibodies."
+            }
+        ]
+    }
+]

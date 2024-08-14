@@ -1,0 +1,449 @@
+[
+    "\nLibrary construction",
+    {
+        "title": "1.",
+        "body": "To randomize codons coding for M. barkeri PylS residues A267, Y271, and L274, order forward PCR primers from Sigma with degenerative nucleotides NNK for the codon 267, 271, and 274"
+    },
+    {
+        "title": "2.",
+        "body": "Setup PCR reactions \r\n  PrimeSTAR Max mix \\(2x) 500 μl\r\n\n\npKW-PylS \\(50 ng/μl) 1 μl\r\n\n\nForward primer \\(50 μM) 10 μl\r\n\n\nReverse primer \\(50 μM) 10 μl\r\n\n\nH2O 479 μl\r\n\n\nTotal 1000 μl"
+    },
+    {
+        "title": "3.",
+        "body": "Distribute the PCR mixture into 20 x 50 μl reactions, and run PCR reactions \\(25 cycles)\r\n  98 °C 30 sec\r\n\n\n98 °C 10 sec\r\n\n\n55 °C 15 sec\r\n\n\n72 °C\r\n\n\n72 °C 5 min\r\n\n\n10 min\r\n\n\n4 °C ∞"
+    },
+    {
+        "title": "4.",
+        "body": "Pool the PCR reactions, add 200 μl 6x DNA loading dye, and mix thoroughly. Prepare 1% agarose gel in 0.5% TAE buffer and add SYBR Safe DNA dye to a final concentration of 0.01%.  Separate the PCR products by electrophoresis at 90V for 25 min"
+    },
+    {
+        "title": "5.",
+        "body": "With the aid of blue light transilluminator, cut the gel containing the desired PCR products, and extract the DNA using QIAquick Gel Extraction Kit following the manufacturer’s instructions. Elute the DNA with 10% EB buffer diluted in H2O"
+    },
+    {
+        "title": "6.",
+        "body": [
+            "Setup restriction digestion reaction and incubate at 37 °C for 4 hrs\r\n  NEB Cutsmart buffer \\(10x) 100 μl\r\n\n\nDNA from",
+            {
+                "title": "Step 5",
+                "body": "600 μl\r\n\n\nBsaI-HF  30 μl\r\n\n\nDpnI-HF 10 μl\r\n\n\nH2O 260 μl\r\n\n\nTotal 1000 μl"
+            }
+        ]
+    },
+    {
+        "title": "7.",
+        "body": "Add 5 ml PB buffer into the restrictive digestion reaction, mix well, and purify using QIAprep Spin Miniprep Columns. Elute the DNA with a total of 120 μl 10% EB \\(diluted in H2O)"
+    },
+    {
+        "title": "8.",
+        "body": "Setup T4 ligation reaction and incubate at 16°C for 16 hrs\r\n  T4 ligase buffer \\(10x) 100 μl\r\n\n\nColumn purified DNA from step 7 120 μl\r\n\n\nT4 DNA ligase  10 μl\r\n\n\nH2O 770 μl\r\n\n\nTotal 1000 μl"
+    },
+    {
+        "title": "9.",
+        "body": "Add 100 μl 3M sodium acetate \\(pH = 5.2) into the DNA ligation reaction; add 3 ml 100% ethanol into the reaction, mix thoroughly"
+    },
+    {
+        "title": "10.",
+        "body": "Incubate for 4 hrs at RT, and further incubate for 16 hrs at -20°C"
+    },
+    {
+        "title": "11.",
+        "body": "Centrifuge at 20,000 g for 30 min, and carefully decant the supernatant; centrifuge briefly again and use pipette to remove the remaining liquid. Resuspend the DNA pellet in 10% EB \\(diluted in H2O)"
+    },
+    {
+        "title": "12.",
+        "body": "Snap freeze the resuspended DNA in liquid nitrogen and concentrate by lyophilization to 20 μl"
+    },
+    {
+        "title": "13.",
+        "body": "Transform the concentrated DNA into MegaX DH10B electrocompetent cells by electroporation and recover in pre-warmed SOC medium for 70 min at 37°C"
+    },
+    {
+        "title": "14.",
+        "body": "Transfer the recovered cells into fresh 250 ml LB medium containing 50 μg/ml kanamycin. Incubate the culture at 37°C for 6 hrs"
+    },
+    {
+        "title": "15.",
+        "body": "Centrifuge at 7,000 g for 10 min to pellet the cells"
+    },
+    {
+        "title": "16.",
+        "body": "Extract the plasmids by QIAGEN Plasmid Plus Midi Kit following the manufacturer’s instructions"
+    },
+    {
+        "title": "17.",
+        "body": "To randomize codons coding for M. barkeri PylS residue C313, order forward PCR primers from Sigma with degenerate nucleotides NNK for the codon 313."
+    },
+    {
+        "title": "18.",
+        "body": [
+            "Setup PCR reactions \r\n  PrimeSTAR Max mix \\(2x) 500 μl\r\n\n\nPlasmid from",
+            {
+                "title": "Step 16",
+                "body": "\\(50 ng/μl) 1 μl\r\n\n\nForward primer \\(50 μM) 10 μl\r\n\n\nReverse primer \\(50 μM) 10 μl\r\n\n\nH2O 479 μl\r\n\n\nTotal 1000 μl"
+            }
+        ]
+    },
+    {
+        "title": "19.",
+        "body": "Repeat Step 3-16 for the randomization of codon 313"
+    },
+    {
+        "title": "20.",
+        "body": "To randomize codons coding for M. barkeri PylS residue M241, order forward PCR primers from Sigma with degenerative nucleotides NNK for the codon 241"
+    },
+    {
+        "title": "21.",
+        "body": [
+            "Setup PCR reactions \r\n  PrimeSTAR Max mix \\(2x) 500 μl\r\n\n\nPlasmid from",
+            {
+                "title": "Step 19",
+                "body": "\\(50 ng/μl) 1 μl\r\n\n\nForward primer \\(50 μM) 10 μl\r\n\n\nReverse primer \\(50 μM) 10 μl\r\n\n\nH2O 479 μl\r\n\n\nTotal 1000 μl"
+            }
+        ]
+    },
+    {
+        "title": "22.",
+        "body": "Repeat Step 3-16 for the randomization of codon M241. The plasmids extracted at the end is the PylS library used in the following selection steps\r\n  Parallel positive selection"
+    },
+    {
+        "title": "23.",
+        "body": "To transform pREP_PylT_CAT\\(112TAG) into DH10B cells, aliquot 50 μl ice-cold MegaX DH10B electrocompetent cells into 2 mm electroporation cuvette. Add 0.5 μl pREP_PylT_CAT\\(112TAG) \\(50 ng/μl) into the cells and electroporate with the setting of 2,500 V. Immediately add 1 ml SOC into the cuvette and incubate at 37°C for 60 min with constant shaking at 220 rpm"
+    },
+    {
+        "title": "24.",
+        "body": "Plate 30 μl recovered cells onto LB agar plate containing 25 μg/ml tetracyclin. Air-dry the plate and incubate the plate at 37°C overnight"
+    },
+    {
+        "title": "25.",
+        "body": "Pick a single colony from the plate and inoculate into 5 ml LB medium containing 25 μg/ml tetracyclin. Incubate at 37°C overnight with constant shaking at 220 rpm"
+    },
+    {
+        "title": "26.",
+        "body": "Dilute the overnight culture into 1 L fresh LB medium with 25 μg/ml tetracyclin and incubate at 37°C with constant shaking at 220 rpm. Monitor the OD600 by spectrophotometer"
+    },
+    {
+        "title": "27.",
+        "body": "When cell density reaches around OD600 = 0.5-0.6, transfer the flask into ice water and cool down for 20 min. Pre-cool the centrifuge to 4°C at the same time. Keep the cells below 4°C from now on"
+    },
+    {
+        "title": "28.",
+        "body": "Centrifuge at 4,000 g for 12 min, and carefully decant the supernatant LB medium without disturbing the cell pellet. Resuspend the cells with 1 L ice-cold water"
+    },
+    {
+        "title": "29.",
+        "body": "Centrifuge at 4,000 g for 12 min, carefully decant the supernatant, and resuspend the cells with 1 L ice-cold 10% glycerol"
+    },
+    {
+        "title": "30.",
+        "body": "Centrifuge at 4,000 g for 12 min, carefully decant the supernatant, and resuspend the cells in 50 ml ice-cold 10% glycerol"
+    },
+    {
+        "title": "31.",
+        "body": "Centrifuge at 4,000 g for 12 min, carefully decant the supernatant, and resuspend the cells in 1 ml ice-cold 10% glycerol"
+    },
+    {
+        "title": "32.",
+        "body": [
+            "Aliquot 3 x 90 μl cells into 2 mm electroporation cuvette. Add 2 μl PylS library from",
+            {
+                "title": "Step 22",
+                "body": "\\(200 ng/μl) into each cuvette and electroporate with the setting of 2,500 V. Immediately add 1 ml SOC into each cuvette and incubate at 37°C for 60 min with constant shaking at 220 rpm. Snap freeze the rest of the competent cells in liquid nitrogen. These cells can maintain their competency for at least 6 months at -80°C"
+            }
+        ]
+    },
+    {
+        "title": "33.",
+        "body": "After incubation, transfer the recovered cells from each cuvette into three flasks of 250 ml fresh LB medium containing 50 μg/ml kanamycin and 25 μg/ml tetracyclin. incubate the three cultures at 37°C overnight with constant shaking at 220 rpm"
+    },
+    {
+        "title": "34.",
+        "body": "From each of the three overnight cultures \\(#1, #2, and #3), take 5 ml and pellet the cells by centrifuging at 4,000 g for 12 min. Extract the plasmids from each cell pellet using Qiagen Miniprep Kit following the manufacturer’s instructions. Label them as Pre-1, Pre-2, and Pre-3."
+    },
+    {
+        "title": "35.",
+        "body": "Prepare six 200 ml fresh LB medium with 50 μg/ml kanamycin and 25 μg/ml tetracyclin. Add 1 mM photo-caged lysine \\(PCK) into three of the cultures \\(+1, +2, and +3). Label the rest three cultures as -1, -2, and -3."
+    },
+    {
+        "title": "36.",
+        "body": "Transfer 2 ml overnight culture #1 into either +1 culture and -1 culture. Do the same dilution also for culture #2 and #3. Incubate at 37°C with constant shaking at 220 rpm. Monitor the OD600 by spectrophotometer"
+    },
+    {
+        "title": "37.",
+        "body": "Prepare six LB agar plate \\(25 cm x 25 cm square plate) containing 25 μg/ml kanamycin, 12.5 μg/ml tetracyclin, and 100 μg/ml chloramphenicol. Add 1 mM PCK into three LB agar plates. Label six plates as -1, -2, -3, +1, +2, and +3 accordingly"
+    },
+    {
+        "title": "38.",
+        "body": [
+            "When the cultures in",
+            {
+                "title": "Step 36",
+                "body": "reach around OD600 = 0.6, pipette 2 ml culture and spread evenly onto the corresponding LB plate. Air-dry the plates and incubate at 37°C for 40 hrs"
+            }
+        ]
+    },
+    {
+        "title": "39.",
+        "body": "To collect cells from each plate, add 50 ml PBS to each plate, use L-shape plastic spreader to carefully dissociate the colonies. Transfer the dissociated cells into 50-ml tubes and pellet cells by centrifugation at 7,000 g for 10 min"
+    },
+    {
+        "title": "40.",
+        "body": "Extract the plasmids from each cell pellet using QIAGEN Plasmid Plus Midi Kit following the manufacturer’s instructions. Label the six plasmid extracts as Post -1, Post -2, Post -3, Post +1, Post +2, and Post +3, respectively\r\n  Sample preparation for deep sequencing"
+    },
+    {
+        "title": "41.",
+        "body": [
+            "Order DNA primers to amplify the target region on the PylS plasmid for deep sequencing. From 5’ to 3’ both the forward and the reverse primer consisted of the following:",
+            {
+                "title": "1)",
+                "body": "Illumina adapter \\(forward ‘P5’ primer sequence: AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT, reverse ‘P7’ primer sequence: CAAGCAGAAGACGGCATACGAGATCGGTCTCGGCATTCCTGCTGAACCGCTCTTCCGATCT),"
+            },
+            {
+                "title": "2)",
+                "body": "four degenerate nucleotides \\(NNNN),"
+            },
+            {
+                "title": "3)",
+                "body": "hexanucleotide barcode sequence to allow for sample multiplexing 1 \\(the following table), and"
+            },
+            {
+                "title": "4)",
+                "body": "primer binding sites specific to the sequences flanking the library sites \\(F: CGGCGGAATATGTGGAAC, R: CAGCCGCTGCCCATT)\r\n  Barcode ID Sequence\r\n\n\nFwd1 ACCTCA\r\n\n\nFwd2 CCTTCT\r\n\n\nFwd3 CTACCT\r\n\n\nFwd4 CTCACA\r\n\n\nFwd5 CTCGAA\r\n\n\nFwd6 GGAGAA\r\n\n\nFwd7 GGATCT\r\n\n\nFwd8 TCGACT\r\n\n\nFwd9 AACACC\r\n\n\nFwd10 GAGTCA\r\n\n\nFwd11 GTAACC\r\n\n\nRev1 ATGTCC\r\n\n\nRev2 CAACTC\r\n\n\nRev3 CACAGT\r\n\n\nRev4 CGTAGA"
+            }
+        ]
+    },
+    {
+        "title": "42.",
+        "body": [
+            "Setup PCR reactions to amplify the region of interest on PylS plasmid\r\n  KAPA HiFi HotStart ReadyMix \\(2x) 10 μl\r\n\n\nPlasmid extracted from",
+            {
+                "title": "Step 34",
+                "body": [
+                    "and 40  1 μl\r\n\n\nForward primer \\(50 μM) 0.3 μl\r\n\n\nReverse primer \\(50 μM) 0.3 μl\r\n\n\nH2O 8.4 μl\r\n\n\nTotal 20 μl\r\n\n\n     Use primers with different barcode \\(listed in step",
+                    {
+                        "title": "41)",
+                        "body": "combinations for different sample amplification:\r\n\n\nSample Forward barcode Reverse Barcode\r\n\n\nPre 1 Fwd1 Rev1\r\n\n\nPre 2 Fwd2 Rev1\r\n\n\nPre 3 Fwd3 Rev1\r\n\n\nPost -1 Fwd4 Rev1\r\n\n\nPost -2 Fwd5 Rev1\r\n\n\nPost -3 Fwd6 Rev1\r\n\n\nPost +1 Fwd7 Rev1\r\n\n\nPost +2 Fwd8 Rev1\r\n\n\nPost +3 Fwd9 Rev1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "43.",
+        "body": "Run PCR reactions  \\(18 cycles)\r\n  95 °C 3 min\r\n\n\n95 °C 20 sec\r\n\n\n60 °C 15 sec\r\n\n\n72 °C\r\n\n\n72 °C 1 min\r\n\n\n10 min\r\n\n\n4 °C ∞"
+    },
+    {
+        "title": "44.",
+        "body": "Purify PCR products by gel extraction using the E-Gel SizeSelect Agarose Gel 2% kit following the manufacturer’s instructions. In brief, insert the gel into the E-Gel iBase Power System, load PCR reactions into wells and start electrophoresis using the built-in power supply. Monitor the DNA migration using the built-in blue light transilluminator. Pause the run when the desired bands migrate into the wells for extraction. Transfer the well contents to eppendorf tubes."
+    },
+    {
+        "title": "45.",
+        "body": "Dilute the extracted PCR products 1 in 106 in qPCR Dilution Buffer. Perform sequential dilution by diluting 10 µl extracted PCR products in 990 µl buffer. Repeat the dilution twice more. Keep the diluted DNA samples on ice and use within two hours"
+    },
+    {
+        "title": "46.",
+        "body": [
+            "Setup qPCR reactions with Kapa Illumina Complete Kit Universal\r\n  KAPA SYBR Fast qPCR Master Mix \\(2x) 5 μl\r\n\n\nDiluted template DNA \\(from Step",
+            {
+                "title": "45)",
+                "body": "4 μl\r\n\n\nROX Low 0.2 μl\r\n\n\nH2O 0.8 μl\r\n\n\nTotal 10 μl\r\n\n\n    Setup triplicates reactions for each template DNA sample. Also setup reactions for DNA standards provided in the kit."
+            }
+        ]
+    },
+    {
+        "title": "47.",
+        "body": "Run qPCR reactions \\(40 cycles)\r\n  95 °C 5 min\r\n\n\n95 °C 30 sec\r\n\n\n60 °C 45 sec"
+    },
+    {
+        "title": "48.",
+        "body": "Fit CT values against log-transformed DNA standard concentrations. Use the resulting the linear regression function to infer the concentrations of the other DNA samples with the respective CT values."
+    },
+    {
+        "title": "49.",
+        "body": "Use water to dilute each DNA sample to a final concentration of 2 nM."
+    },
+    {
+        "title": "50.",
+        "body": "Mix same volume of 2 nM DNA from each sample. Freeze and keep at -20°C before use\r\n  Deep Sequencing Setup"
+    },
+    {
+        "title": "51.",
+        "body": [
+            "Follow the Illumina MiSeq Reagent Kit v2 \\(300-cycle) instructions to prepare 2 nM DNA adapter-tagged DNA for next-generation sequencing. In brief, mix 10 μl DNA sample \\(pooled 2 nM sample from Step",
+            {
+                "title": "50)",
+                "body": "with 10 μl freshly prepared 0.2 N NaOH. Briefly vortex and centrifuge at 250 g for 1 min. Incubate for 5 min at RT"
+            }
+        ]
+    },
+    {
+        "title": "52.",
+        "body": "Add 10 μl 200 mM Tris-HCl pH ="
+    },
+    {
+        "title": "7.",
+        "body": "Briefly vortex and centrifuge at 250 g for 1 min"
+    },
+    {
+        "title": "53.",
+        "body": "Dilute with 970 μl HT buffer to a final DNA concentration of 20 pM"
+    },
+    {
+        "title": "54.",
+        "body": [
+            "Mix 600 μl DNA sample from",
+            {
+                "title": "Step 53",
+                "body": "with 400 μl HT buffer to further dilute DNA to 12 pM"
+            }
+        ]
+    },
+    {
+        "title": "55.",
+        "body": "For PhiX control prepration, dilute the 10 nM PhiX Sequencing Control v3 to 2 nM in H2O. Perform Step 51-54 to further prepare the 12 pM PhiX control."
+    },
+    {
+        "title": "56.",
+        "body": [
+            "Spike in 10% PhiX by mixing 900 μl 12 pM DNA sample from",
+            {
+                "title": "Step 54",
+                "body": "with 100 μl 12 pM PhiX control from Step"
+            }
+        ]
+    },
+    {
+        "title": "55.",
+        "body": "Load the combined 1 ml sample into MiSeq Reagent Kit v2 \\(300-cycle). Set up the rest of deep sequencing run according to manufacturer’s instructions. Perform deep sequencing on a MiSeq Sequencer.\r\n  Data Analysis"
+    },
+    {
+        "title": "57.",
+        "body": "Process raw deep sequencing reads using bespoke scripts written in the programming language Python. Each paired end read was first trimmed to 141 nucleotides. Paired end read 1 was concatenated with the reverse-complement of paired end read"
+    },
+    {
+        "title": "2.",
+        "body": "The assembly was matched using regular expressions against a pattern specifying the expected sequence string with degeneracy specified for the sequence barcode and for each library site. For matching sequences, the degenerate sites were extracted and collected into a comma-separated file together with the detected barcode ID"
+    },
+    {
+        "title": "58.",
+        "body": "Construct an m x n counts table N of m unique mutants in n conditions. Each entry kij corresponded to mutant i in condition j. To identify the m mutants and their corresponding read counts, all unique rows in the comma-separated file were collected and their occurrences were counted."
+    },
+    {
+        "title": "59.",
+        "body": "Implement the DESeq algorithm 2 in the Matlab R2014a \\(Mathworks) software using instructions provided online \\(http://uk.mathworks.com/help/bioinfo/examples/identifying-differentially-expressed-genes-from-rna-seq-data.html). Use the DESeq algorithm to identify sequences that are enriched in Post +1/+2/+3 relative to Post -1/-2/-3. Correct the resulting p-values for multiple testing using the procedure by Benjamini and Hochberg, yielding the False Discovery Rate \\(FDR)"
+    },
+    {
+        "title": "3.",
+        "body": "Phenotypic validation"
+    },
+    {
+        "title": "60.",
+        "body": "For validation of the hits, order DNA primers to mutate codon 267/271/274 on the wild type PylS sequence to the mutant sequences that are statistically significant. Setup PCR reactions\r\n\n\nPrimeSTAR Max mix \\(2x) 25 μl\r\n\n\npKW-PylS-PylT \\(50 ng/μl) 0.5 μl\r\n\n\nForward primer \\(50 μM) 0.5 μl\r\n\n\nReverse primer \\(50 μM) 0.5 μl\r\n\n\nH2O 23.5 μl\r\n\n\nTotal 50 μl"
+    },
+    {
+        "title": "61.",
+        "body": "Repeat step 3-8 to purify, digest, and ligate the PCR products"
+    },
+    {
+        "title": "62.",
+        "body": "Transform the concentrated DNA to MegaX DH10B electrocompetent cells by electroporation and recover in pre-warmed SOC medium for 60 min at 37°C"
+    },
+    {
+        "title": "63.",
+        "body": "Spread 60 μl recovered cells onto LB agar plate containing 50 μg/ml kanamycin and incubate the plates at 37°C overnight"
+    },
+    {
+        "title": "64.",
+        "body": "Pick three colonies from each plate and inoculate individually into 5 ml fresh LB medium containing 50 μg/ml kanamycin and incubate at 37°C overnight with constant shaking at 220 rpm"
+    },
+    {
+        "title": "65.",
+        "body": "Pellet the cells by centrifuging at 4,000 g for 12 min. Extract the plasmids from each cell pellet using Qiagen Miniprep Kit following the manufacturer’s instructions"
+    },
+    {
+        "title": "66.",
+        "body": "Confirm the mutation by sequencing the plasmid"
+    },
+    {
+        "title": "67.",
+        "body": "Repeat Steps 60-66 to introduce mutations on codon 241 and codon 313 if necessary\r\n  68.Transform pBAD_sfGFP\\(150TAG)-His6 to MegaX DH10B electrocompetent cells by electroporation and recover in pre-warmed SOC medium for 60 min at 37°C"
+    },
+    {
+        "title": "69.",
+        "body": "Spread 30 μl recovered cells onto LB agar plate containing 25 μg/ml tetracycline and incubate the plates at 37°C overnight"
+    },
+    {
+        "title": "70.",
+        "body": "Pick a single colony and inoculate into 5 ml LB medium containing 25 μg/ml tetracycline and incubate at 37°C overnight with constant shaking at 220 rpm"
+    },
+    {
+        "title": "71.",
+        "body": "Dilute the overnight culture into fresh 1 L LB medium. Prepare electrocompetent DH10B cells by repeating steps 27-31"
+    },
+    {
+        "title": "72.",
+        "body": [
+            "Aliquot 50 μl competent cells into 2 mm electroporation cuvette. Add 1 μl PylS plasmid containing wild type or mutated sequence from",
+            {
+                "title": "Step 66",
+                "body": "into each cuvette and electroporate with the setting of 2,500 V. Immediately add 1 ml SOC into each cuvette and incubate at 37°C for 60 min with constant shaking at 220 rpm. Snap freeze the rest of the competent cells in liquid nitrogen. These cells can maintain their competency for at least 6 months at -80°C"
+            }
+        ]
+    },
+    {
+        "title": "73.",
+        "body": "After incubation, spread 60 μl recovered cells onto an LB agar plate containing 25 μg/ml tetracycline and 50 μg/ml kanamycin.  Incubate the plates at 37°C overnight"
+    },
+    {
+        "title": "74.",
+        "body": "Pick a single colony from each plate and inoculate into 5 ml fresh LB medium containing 25 μg/ml tetracycline and 50 μg/ml kanamycin.  Incubate at 37°C overnight with constant shaking at 220 rpm"
+    },
+    {
+        "title": "75.",
+        "body": "Dilute 500 μl overnight culture into 25 ml fresh LB medium containing 10 μg/ml tetracycline, 25 μg/ml kanamycin, 0.2% \\(w/v) L-Arabinose, and 1 mM PCK.  Incubate at 37°C for 16hrs with constant shaking at 220 rpm"
+    },
+    {
+        "title": "76.",
+        "body": "Pellet down cells by centrifugation at 7,000 g for 10 min"
+    },
+    {
+        "title": "77.",
+        "body": "Resuspend cells in 1 ml His-tag Lysis Buffer and transfer to 1.7 ml eppendorf tube. Rotate end-by-end for 15 min at RT"
+    },
+    {
+        "title": "78.",
+        "body": "Centrifuge at 20,000 g for 20 min"
+    },
+    {
+        "title": "79.",
+        "body": "Transfer the supernatant to a new tube, add 30 μl Ni-NTA resin pre-washed three times with His-tag Lysis Buffer. Rotate end-by-end for 10 min at RT"
+    },
+    {
+        "title": "80.",
+        "body": "Centrifuge at 1,000 g for 1 min. Carefully remove supernatant without disturbing the resin"
+    },
+    {
+        "title": "81.",
+        "body": "Resuspend resin with 1 ml His-tag washing Buffer. Rotate end-by-end a few times by hand"
+    },
+    {
+        "title": "82.",
+        "body": "Repeat Step 80-81 for four more times"
+    },
+    {
+        "title": "83.",
+        "body": "Centrifuge at 1,000 g for 1 min. Carefully remove supernatant without disturbing the resin. Resuspend resin with 100 μl His-tag Elution Buffer. Rotate end-by-end a few times by hand. Centrifuge again at 1,000 g for 1 min."
+    },
+    {
+        "title": "84.",
+        "body": "Transfer the supernatant to a new tube. Estimate the protein concentration by Nanodrop."
+    },
+    {
+        "title": "85.",
+        "body": "Dilute the protein to the final concentration of 0.1 mg/ml with H2O and inject 5 μl to electrospray ionization mass spectrometer. Use 0.2 % formic acid in H2O as buffer A, and 0.2 % formic acid in acetonitrile \\(MeCN) as buffer B. Samples were injected into Phenomenex Jupiter C4 column \\(150 × 2 mm, 5 μm) and subsequently into the mass spectrometer using a fully automated system."
+    },
+    {
+        "title": "86.",
+        "body": "Theoretical average molecular weight of proteins with unnatural amino acids was calculated by first computing the theoretical molecular weight of wild-type protein using an online tool \\(http://www.peptidesynthetics.co.uk/tools/), and then manually correcting for the theoretical molecular weight of unnatural amino acids."
+    }
+]

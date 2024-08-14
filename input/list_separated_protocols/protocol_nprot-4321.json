@@ -1,0 +1,390 @@
+[
+    {
+        "title": "**Isolation of brain and dissection of the tissue from sub-ventricular zone \\(SVZ):**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare the working bench with all requirements: the sterile dissection instruments, dissection solution, petridishes, microscope etc."
+            },
+            {
+                "title": "2.",
+                "body": "Prepare 4 sets of dissection instruments: separate set for the skin, skull, for removal of the brain and to cut out the desired region of the tissue. This will reduce the chances of contamination."
+            },
+            {
+                "title": "3.",
+                "body": "The set of sterile micro dissection instruments for isolating the tissue region of interest should be dipped in sterile dissection solution to avoid ethanol contact with the tissue."
+            },
+            {
+                "title": "4.",
+                "body": "Wipe the entire dissection area with 70% ethanol to reduce contamination."
+            },
+            {
+                "title": "5.",
+                "body": "Prepare a spray bottle with 70% ethanol and a box of ear buds to wipe the head before and after decapitating."
+            },
+            {
+                "title": "6.",
+                "body": "Set the water bath to 37°C."
+            },
+            {
+                "title": "7.",
+                "body": "Lay down tissue papers on the working bench to avoid bloodstains."
+            },
+            {
+                "title": "8.",
+                "body": "Place the animal on the tissue paper and spray the head with 70% ethanol."
+            },
+            {
+                "title": "9.",
+                "body": "Now place the animal in proper position and decapitate."
+            },
+            {
+                "title": "10.",
+                "body": "To remove blood, wipe with an ear bud and later spray the head again with 70% ethanol."
+            },
+            {
+                "title": "11.",
+                "body": "Make a midline incision in the skin with a scissor over the entire length of the skull."
+            },
+            {
+                "title": "12.",
+                "body": "Reveal the surface of the skull by reflecting the skin."
+            },
+            {
+                "title": "13.",
+                "body": "Hold the skin tightly on both sides with fingers below the ears or alternatively, hold the head in position using a pointed forceps pierced under the eyes."
+            },
+            {
+                "title": "14.",
+                "body": "Cut the skull on both the sides with small scissors and if needed make a midline incision in the skull over the entire length. Take care to minimize any damage to the brain tissue during cutting."
+            },
+            {
+                "title": "15.",
+                "body": "Break off the skull with forceps."
+            },
+            {
+                "title": "16.",
+                "body": "Scoop the brain out with the help of an iris spatula."
+            },
+            {
+                "title": "17.",
+                "body": "Transfer the brain into a 60mm petri dish with ice-cold tissue dissection solution."
+            },
+            {
+                "title": "18.",
+                "body": "Strip the meninges from the surface of the brain by looking under the dissection microscope. \\("
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "the meninges and associated blood vessels are sources of contaminating cell in culture)",
+            {
+                "title": "19.",
+                "body": "Rinse thoroughly and place the brain into a second 60mm petridish with ice-cold tissue dissection solution."
+            },
+            {
+                "title": "20.",
+                "body": "Under the dissecting microscope, cut the brain into 3 coronal sections so as to obtain the mid brain region intact and then carefully isolate the SVZ region with the help of the microscissors. \\("
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "All regions of the brain can give rise to neurospheres in culture but the SVZ region yields higher number of neurospheres).",
+            {
+                "title": "21.",
+                "body": "Transfer the dissected tissue into another petridish with cold tissue dissection solution."
+            },
+            {
+                "title": "22.",
+                "body": "Cut the tissue into smaller pieces using the microscissors."
+            }
+        ]
+    },
+    {
+        "title": "**Pool the tissue sections from at least 3 brains to obtain enough cells to seed 5 T-75 flasks.**",
+        "body": [
+            {
+                "title": "23.",
+                "body": "Transfer this petridish with the tissue pieces to the tissue culture hood."
+            },
+            {
+                "title": "24.",
+                "body": "With the help of a pipette, transfer the entire contents of the petridish into a 15ml falcon tube."
+            },
+            {
+                "title": "25.",
+                "body": "Centrifuge for 5mins at 1000rpm."
+            },
+            {
+                "title": "26.",
+                "body": "Remove the supernatant and add 1ml of enzyme mix."
+            },
+            {
+                "title": "27.",
+                "body": "Place the tube in water bath at 37°C for maximum 15minutes. As neonatal tissue dissociates quickly, the tissue should be triturated with pipette briefly after every 5 minutes to check the dissociation status."
+            },
+            {
+                "title": "28.",
+                "body": "Stop the reaction as soon as the tissue is fully digested by adding 10ml of 1x DPBS."
+            },
+            {
+                "title": "29.",
+                "body": "Centrifuge for 8 mins at 2500 rpm and remove the supernatant."
+            },
+            {
+                "title": "30.",
+                "body": "Add 4ml of trypsin inhibitor. Prepare this solution by dissolving 4mg Trypsin inhibitor in 4ml serum free media and filter sterilize through 0.22μm filter. Always prepare this solution fresh."
+            },
+            {
+                "title": "31.",
+                "body": "Triturate adequately to break up the pellet and take care to minimize the introduction of air bubbles."
+            },
+            {
+                "title": "32.",
+                "body": "Place the tube in water bath for 10 mins."
+            },
+            {
+                "title": "33.",
+                "body": "Centrifuge for 8 mins at 2500 rpm and remove the supernatant."
+            },
+            {
+                "title": "34.",
+                "body": "Re-suspend the cells in 1ml Serum free medium containing EGF and FGF and triturate sufficiently to produce a single cell suspension."
+            },
+            {
+                "title": "35.",
+                "body": "Count the cells if needed and plate them accordingly in T-75 suspension culture flasks with 15ml serum free media containing epidermal growth factor \\(EFG) and fibroblast growth factor \\(FGF)."
+            },
+            {
+                "title": "36.",
+                "body": "Incubate at 37°C with 5% CO<sub>2</sub> and 3% O<sub>2</sub>"
+            }
+        ]
+    },
+    {
+        "title": "**Expansion of neural stem cells and neurosphere formation:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Observe the flasks after 24hrs in the incubator for any signs of contamination."
+            },
+            {
+                "title": "2.",
+                "body": "One day after, add 5ml of the serum free growth media to each flask making the final volume to 20ml in each flask."
+            },
+            {
+                "title": "3.",
+                "body": "Leave the flasks in the incubator for 2 days till small spheres start forming."
+            },
+            {
+                "title": "4.",
+                "body": "Neurosphere formation generally takes 5 to 6 days after seeding."
+            }
+        ]
+    },
+    {
+        "title": "**Generation of OPCs from neurospheres:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Once the neurospheres are formed \\(sphere size around 100-200μm), the culture is ready for oligosphere induction."
+            },
+            {
+                "title": "2.",
+                "body": "Gradually change the EGF/FGF containing neurosphere growth medium with B104 conditioned medium containing oligosphere medium by replacing half \\(10ml) of the former medium with the latter medium every alternate day for 2 weeks."
+            },
+            {
+                "title": "3.",
+                "body": "During this phase, the cells tend to proliferate only for the first 2-4 days and later they enter a stationary phase."
+            },
+            {
+                "title": "4.",
+                "body": "After 2 weeks the cells are ready for experiments."
+            },
+            {
+                "title": "5.",
+                "body": "The oligospheres can now be passaged using TrypLE<sup>TM</sup> as mentioned below."
+            }
+        ]
+    },
+    {
+        "title": "**Passage of oligospheres:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transfer the spheres in medium to a falcon tube. \\("
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "Do not take the spheres or cells that have attached to the surface at the time of passaging. Only the floating spheres should be taken.)",
+            {
+                "title": "2.",
+                "body": "Centrifuge for 5mins at 1000rpm."
+            },
+            {
+                "title": "3.",
+                "body": "Remove the supernatant and add 2ml of TrypLE<sup>TM</sup> to the tube and pipette to resuspend the spheres."
+            },
+            {
+                "title": "4.",
+                "body": "Place the tube in water bath for 5-10mins at 37°C. \\("
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "The time of incubation should be adjusted depending upon the size of the spheres, as bigger spheres take more time to dissociate).",
+            {
+                "title": "5.",
+                "body": "Use the pipette to dissociate remaining clumps and once the spheres are dissociated, add 25ml of 1xPBS to stop the reaction."
+            },
+            {
+                "title": "6.",
+                "body": "Centrifuge for 8mins at 2000rpm."
+            },
+            {
+                "title": "7.",
+                "body": "Remove the supernatant and resuspend the cell pellet in 1ml oligosphere media."
+            },
+            {
+                "title": "8.",
+                "body": "Culture the cell suspension in oligosphere medium at an appropriate cell density. Spheres should form again after 5-7 days."
+            },
+            {
+                "title": "9.",
+                "body": "Alternatively, the cells can also be plated to grow as adherent cells on poly-ornithine coated plates. However, culturing the cells as adherent cells for longer time induces differentiation in the cells."
+            }
+        ]
+    },
+    {
+        "title": "**B104 NEUROBLASTOMA CELL LINE**",
+        "body": []
+    },
+    {
+        "title": "**Culture method:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Grow the cells in T-75 tissue culture treated flasks for adherent cells."
+            },
+            {
+                "title": "2.",
+                "body": "Cells are cultured with 18ml growth media."
+            },
+            {
+                "title": "3.",
+                "body": "Complete media change should be done twice a week."
+            },
+            {
+                "title": "4.",
+                "body": "The cells must be passaged once in a week or depending upon the cell density."
+            }
+        ]
+    },
+    {
+        "title": "**Passage method:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "When the flask is more than 90% confluent, then the cells are ready to be passaged."
+            },
+            {
+                "title": "2.",
+                "body": "Remove all the media from the flasks and wash with 10ml PBS."
+            },
+            {
+                "title": "3.",
+                "body": "Add 2ml of TrypLETM and shake the flask gently for 2mins till all the cells are detached from the surface."
+            },
+            {
+                "title": "4.",
+                "body": "Add 10ml PBS to stop trypsinization."
+            },
+            {
+                "title": "5.",
+                "body": "Transfer this volume to a 50ml falcon tube."
+            },
+            {
+                "title": "6.",
+                "body": "Wash the flask again with 10ml PBS and transfer this also to the 50ml falcon tube."
+            },
+            {
+                "title": "7.",
+                "body": "Centrifuge at 1100rpm for 8 mins."
+            },
+            {
+                "title": "8.",
+                "body": "Decant the supernatant and resuspend the pellet in 1ml medium."
+            },
+            {
+                "title": "9.",
+                "body": "Count the cells if needed."
+            },
+            {
+                "title": "10.",
+                "body": "Seed the appropriate volume of cell suspension into freshly prepared flasks with 18ml medium."
+            },
+            {
+                "title": "11.",
+                "body": "Keep in the incubator at 37°C, 5% CO2 and atmospheric air."
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of B104 conditioned media \\(B104 CM):**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Culture the B104 neuroblastoma cells in B104 growth medium \\(i.e. DMEM/F12 with 10% FCS and 4.5g/L glucose) until confluent."
+            },
+            {
+                "title": "2.",
+                "body": "Remove the culture media from the flask completely and wash with 10ml of 1X Puck’s BSS."
+            },
+            {
+                "title": "3.",
+                "body": "Now feed with 20ml N2 medium \\(for T-75 flask)."
+            },
+            {
+                "title": "4.",
+                "body": "Keep in the incubator at 37°C and 5% CO2 for 4 days."
+            },
+            {
+                "title": "5.",
+                "body": "After 4 days, collect the medium and add PMSF to a final conc. of 1μg/ml \\(i.e. 1μl of stock solution per 10ml media)."
+            },
+            {
+                "title": "6.",
+                "body": "Mix quickly by swirling."
+            },
+            {
+                "title": "7.",
+                "body": "Centrifuge at 2000g for 30mins in a swinging bucket centrifuge at 4°C."
+            },
+            {
+                "title": "8.",
+                "body": "Filter the supernatant with a 0.22μm filter and retain the filtered supernatant."
+            },
+            {
+                "title": "9.",
+                "body": "Aliquot appropriate volumes and store at -80°C. \\(It can be stored upto 6 months at -80̊°C)"
+            },
+            {
+                "title": "10.",
+                "body": "To minimize variation between cultures, conditioned medium form each batch should be tested before use."
+            },
+            {
+                "title": "11.",
+                "body": "Freeze-thaw cycles should be minimized with not more than 2 freeze-thaw cycles."
+            }
+        ]
+    }
+]

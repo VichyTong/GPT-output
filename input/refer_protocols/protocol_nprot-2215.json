@@ -1,0 +1,20 @@
+[
+    {
+        "index": 3,
+        "string": "Collect blood from patients using P100 tubes according to the manufacturer\u2019s recommendation or in other serum/plasma tubes as previously described for proteomics.<sup>6,7</sup>\r\n  ",
+        "phrase": "as previously described",
+        "refer": "None."
+    },
+    {
+        "index": 95,
+        "string": "The DigestPro workstation adds solutions to the 96 well plate containing the gel pieces using needles and removes liquid through laser made holes on the bottom of the plate by applying nitrogen pressure as previously described.<sup>10</sup> Prepare 18 ng/\u03bcl bovine trypsin and place inside the automated robot in its inactive form by storing in acidic conditions \\(10% \\(v/v) acetonitrile, 1 mM HCl).\r\n  ",
+        "phrase": "as previously described",
+        "refer": "as previously described refers to the process of removing liquid through laser made holes on the bottom of the plate by applying nitrogen pressure."
+    },
+    {
+        "index": 122,
+        "string": "Perform mass spectrometric analysis as previously described.<sup>11</sup>",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the method or procedure for performing mass spectrometric analysis that was described earlier in the text."
+    }
+]

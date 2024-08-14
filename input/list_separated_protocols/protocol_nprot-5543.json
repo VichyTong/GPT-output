@@ -1,0 +1,109 @@
+[
+    {
+        "title": "**Exosome purification**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Thaw samples on ice."
+            },
+            {
+                "title": "2.",
+                "body": "Add 100 µL of Exoquick-TC precipitation solution to 500 µL of urine in a 1.5 mL microfuge tube."
+            },
+            {
+                "title": "3.",
+                "body": "Mix well by inversion 3 times."
+            },
+            {
+                "title": "4.",
+                "body": "Incubate overnight at 4°C."
+            },
+            {
+                "title": "5.",
+                "body": "Centrifuge ExoQuick/urine mixture at 16,000 x g for 2 min."
+            },
+            {
+                "title": "6.",
+                "body": "Remove supernatant by pipetting \\(leaving behind 50 µL). Keep the exosome pellet."
+            },
+            {
+                "title": "7.",
+                "body": "Add 350 µL Lysis buffer to exosome pellet and vortex 15s."
+            },
+            {
+                "title": "8.",
+                "body": "Place at room temperature for 5 min \\(to allow complete lysis)."
+            }
+        ]
+    },
+    {
+        "title": "**exoRNA purification**",
+        "body": [
+            {
+                "title": "9.",
+                "body": "Add 200 µL of 100% ethanol."
+            },
+            {
+                "title": "10.",
+                "body": "Vortex for 10s."
+            },
+            {
+                "title": "11.",
+                "body": "Assemble spin column and collection tube."
+            },
+            {
+                "title": "12.",
+                "body": "Transfer all \\(600 µL) to spin column."
+            },
+            {
+                "title": "13.",
+                "body": "Centrifuge at 16,000 x g for 1 min. \\(Spin longer if the solution has not flowed through.)"
+            },
+            {
+                "title": "14.",
+                "body": "Discard flow-through."
+            },
+            {
+                "title": "15.",
+                "body": "Add 400 µL wash buffer."
+            },
+            {
+                "title": "16.",
+                "body": "Centrifuge at 16,000 x g for 1 min."
+            },
+            {
+                "title": "17.",
+                "body": "Repeat steps 15 and 16 once more."
+            }
+        ]
+    },
+    {
+        "title": "**exoRNA elution**",
+        "body": [
+            {
+                "title": "18.",
+                "body": "Discard flow-through."
+            },
+            {
+                "title": "19.",
+                "body": "Centrifuge at 16,000 x g for 2 min to dry."
+            },
+            {
+                "title": "20.",
+                "body": "Transfer spin column to fresh collection tube."
+            },
+            {
+                "title": "21.",
+                "body": "Add 14 µL RNase-free water directly to membrane in spin column.<sup>1</sup>"
+            },
+            {
+                "title": "22.",
+                "body": "Centrifuge at 400 x g for 2 min.<sup>2</sup>"
+            },
+            {
+                "title": "23.",
+                "body": "Increase speed to 16,000 x g and centrifuge for 1 min."
+            }
+        ]
+    }
+]

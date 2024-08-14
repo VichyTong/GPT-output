@@ -1,0 +1,50 @@
+[
+    {
+        "title": "1)",
+        "body": "Prepare poly-D-lysinated  coverslips \\(poly-D-lysine 50 μg/ml)"
+    },
+    {
+        "title": "2)",
+        "body": "Plate 15-20x10<sup>3</sup> cells per coverslip \\(12 mm diameter) 2 days before the oligofection."
+    },
+    {
+        "title": "3)",
+        "body": "Mix 175μl Optimem + 1-10μl siRNA oligos \\(200 nM ) per coverslip."
+    },
+    {
+        "title": "4)",
+        "body": "Mix 11μl Optimem + 4μl Oligofectamine per coverslip and leave for 7 minutes."
+    },
+    {
+        "title": "5)",
+        "body": "Mix solution obtained in"
+    },
+    {
+        "title": "2)",
+        "body": "and"
+    },
+    {
+        "title": "3)",
+        "body": "and leave for 15 minutes."
+    },
+    {
+        "title": "6)",
+        "body": "During the incubation time, change the medium of senescent cells: remove old medium and add 800μl Optimem per coverslip."
+    },
+    {
+        "title": "7)",
+        "body": "Add mix obtained in"
+    },
+    {
+        "title": "4)",
+        "body": "to senescent cells already in 800μl Optimem."
+    },
+    {
+        "title": "8)",
+        "body": "Leave cells in the incubator for at least 4 hours."
+    },
+    {
+        "title": "9)",
+        "body": "Without removing the Optimem medium, add 1ml of medium used to culture the senescent cells without antibiotics with 20% FCS or FBS."
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "name": "T cells 0",
+        "description": "Day 1: Isolate T cells from OT-1 mice using T cell enrichment column "
+    },
+    {
+        "name": "T cells 1",
+        "description": "And transfer 5-6 X 10<sup>6</sup> cells intravenously into CD45.1 mice."
+    },
+    {
+        "name": "MDSC 0",
+        "description": "Isolate MDSC from 3 week  tumor-bearing mice \\(EL4 or MC38) using biotin-Gr-1 and streptavidin beads \\(Miltenyi biotech, CA) antibody and  transfer 4-5 X 10<sup>6</sup> cells intravenously into mice which have received OT-1 T cells."
+    },
+    {
+        "name": "SIINFEKL peptide 0",
+        "description": "Immunize mice with SIINFEKL peptide 100 ug in 100 ul PBS plus 100 ul of incomplete Freund&#x2019;s adjuvant."
+    },
+    {
+        "name": "spleens 0",
+        "description": "Harvest spleens from mice "
+    },
+    {
+        "name": "T cells 2",
+        "description": "And prepare a single cell suspension.\r\n  "
+    },
+    {
+        "name": "T cells 3",
+        "description": "Pellet the cells by centrifugation \\(1700 RPM 5 min) at room temperature \\(RT) "
+    },
+    {
+        "name": "supernatant 0",
+        "description": "And aspirate the supernatant. \r\n  "
+    },
+    {
+        "name": "T cells 4",
+        "description": "3. Resuspend the pellet in 5 ml/spleen of ACK Lysis Buffer. \r\n  "
+    },
+    {
+        "name": "T cells 5",
+        "description": "4. Incubate at RT for 4-5 minutes with occasional shaking. \r\n  "
+    },
+    {
+        "name": "T cells 6",
+        "description": "5. Stop the reaction by adding 40-50 &#x3BC;l of PBS. \r\n  6."
+    },
+    {
+        "name": "T cells 7",
+        "description": "Wash the cells with PBS twice \\(1700 RPM  5 min) at RT.  \r\n  "
+    },
+    {
+        "name": "Cy5 labeled MHC-Ig dimer 0",
+        "description": "8. Prepare a serial dilution \\(2000 nM &#x2013; 12.5 nM) of 20 &#x3BC;l of Cy5 labeled MHC-Ig dimer in a FACS tube.\r\n  "
+    },
+    {
+        "name": "T cells 8",
+        "description": "Adjust cells to a concentration of 10<sup>7</sup> cells/ml in FACS wash buffer \r\n  10."
+    },
+    {
+        "name": "Cy5 labeled MHC-Ig dimer 1",
+        "description": "Add 10 ul aliquot of cells to the FACS tube with the MHC-Ig dimer.   \r\n  "
+    },
+    {
+        "name": "T cells 9",
+        "description": "Without any washing add FITC labeled anti-CD8 and PE labeled anti-CD45.1 antibodies to each aliquot.\r\n  "
+    },
+    {
+        "name": "T cells 10",
+        "description": "And wash two times before flow cytometric analysis.\r\n  "
+    }
+]

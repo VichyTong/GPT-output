@@ -1,0 +1,237 @@
+[
+    "\nSELECTION OF GENE OR SEQUENCE FOR ANALYSIS\r\n\n\n• to avoid excess signals from hybridized probes, there should be no more than 2 alleles of the gene to be analyzed, and ideally there should be no pseudogenes\r\n\n\n• the gene or sequence should not contain matrix attachment sites, which might impede migration during electrophoresis; in most cases this must be determined in pilot experiments.\r\n\n\n• the gene should be expressed throughout the cell cycle, to ensure that the template strand is actively transcribed in each cell\r\n\n\n• the ‘non-transcribed’ strand of the gene should not also serve as a template for transcription\r\n\n\n• the size of the sequence should be about 100-300 kb to ensure that a significant percentage of the DNA strands can be damaged with very low doses of DNA damaging agents. We have found that treatments that result in lesions in 20-30% of the strands permit measurable levels of damage, while minimizing instances of more than 1 lesion per strand; 1-10 lesions per 10<sup>6</sup> nucleotides fall within the limits of resolution for the comet assay.\r\n\n\n\r\n\n\nSYNTHESIS OF PROBES BY PCR \r\n\n\nThe procedure for probe preparation is shown in figure",
+    {
+        "title": "1.",
+        "body": "Primers should be selected for the synthesis of <sub>40-50 probes, each </sub>250 bp in length, to cover ~10 kb of each terminus of the sequence of interest. Primers can be selected using freeware such as Gene Fisher, http://bibiserv.techfak.uni-bielefeld.de/genefisher2/. Each probe is synthesized in a separate PCR, then purified and verified before labelling with fluorophores. Approximately 50 fluorescent probes are required to obtain a detectable signal, thus 50 independent PCR syntheses must be carried out to generate probes for each DNA strand target.\r\n\n\nImportant: designate a separated work area and use reagents, pipets, tips, etc. exclusively for PCR"
+    },
+    {
+        "title": "1.",
+        "body": "Prepare 90 μl of reagent mix for each reaction; several reactions can be run simultaneously\r\n  400 pmol each primer pair \\(forward primer labelled with biotin, natural reverse primer)\r\n\n\n20 nmol each dATP, dCTP, and dGTP \r\n\n\n6.7 nmol dTTP \r\n\n\n13.3 nmol aminoallyl-dUTP \r\n\n\n2.5 units Taq polymerase \r\n\n\n10 μl 10X CoralLoad PCR buffer \r\n\n\nDNAse and RNAse-free water to 90 μl"
+    },
+    {
+        "title": "2.",
+        "body": "Add 90 μl of the reagent mix to each PCR tube containing 10 μl of template DNA \\(BAC clone, genomic library, etc.). The optimal amount of template should be determined experimentally."
+    },
+    {
+        "title": "3.",
+        "body": "Perform PCR at 94°C for 1 min, 50°C for 1 min, and 72°C for 1 min for 30 cycles, followed by a last extension at 72°C for 10 min."
+    },
+    {
+        "title": "4.",
+        "body": "Purify PCR products with a PCR purification kit, store at -20°C. \r\n  \r\n\n\n\r\n\n\nPURIFICATION OF SINGLE STRAND DNA PROBES"
+    },
+    {
+        "title": "5.",
+        "body": "Incubate PCR products \\(pool products from several PCR syntheses) with 60 μg of streptavidin-coated beads at room temperature for 30 min."
+    },
+    {
+        "title": "6.",
+        "body": "Use a magnet \\(stir bar) to pellet beads for 5 min, remove the supernatant."
+    },
+    {
+        "title": "7.",
+        "body": "Add 6 μl 0.1 M NaOH to pellet, incubate at room temperature for 10 min, pellet beads for 5 min, and save the supernatant containing the non-biotinylated DNA."
+    },
+    {
+        "title": "8.",
+        "body": "Denature streptavidin in the pellets with 10 μl 10 mM EDTA, 95% formamide at 90°C for 3 min. Pellet beads for 5 min, save the supernatant containing the biotinylated DNA."
+    },
+    {
+        "title": "9.",
+        "body": "Probes might not be completely denatured. To improve the yield, add 10 μl water to the pellet and repeat steps 6-8; electrophorese samples of each single-stranded probe and from the pellet in 1.5% standard agarose gels to assess the efficiency of denaturation."
+    },
+    {
+        "title": "10.",
+        "body": "If there is a significant portion of double-stranded probes, each single-stranded probe must be gel-purified after electrophoresis on 1.5 % agarose gels; remaining double stranded probes may also be gel-purified and denatured as in steps 7-8."
+    },
+    {
+        "title": "11.",
+        "body": "Purify both strands using a nucleotide removal kit."
+    },
+    {
+        "title": "12.",
+        "body": "Determine DNA concentration by optical density at 260 nm. Single-stranded probes can be stored at -20°C for 12 months. \r\n  \r\n\n\nVERIFICATION OF THE PURITY OF THE SYNTHESIZED PROBES"
+    },
+    {
+        "title": "13.",
+        "body": "To reanneal single-stranded probes, mix equal amounts of the complementary strands in annealing buffer \\(10 mM Tris, 50 mM NaCl, 1 mM EDTA, pH 7.5); heat to 95°C for 5 min and cool slowly to room temperature."
+    },
+    {
+        "title": "14.",
+        "body": "Electrophorese the double-stranded PCR product, separated single-stranded DNAs, and annealed double-stranded DNA in 1.5 % standard agarose gels. Purified single-stranded probes with biotin should run slightly behind the probes without biotin; both single-stranded probes should have less mobility than double-stranded PCR products, and the reannealed single strands should exhibit the identical mobility as the original double-stranded DNA \\(figure 2A). \r\n  \r\n\n\nLABELLING PROBES WITH FLUOROPHORES"
+    },
+    {
+        "title": "15.",
+        "body": "The amino groups on the DNA strands are coupled with N-hydroxysuccinimide \\(NHS) ester modified fluorophores in reactions containing 1 μg of combined probes complementary to the same stretch of DNA from several PCR reactions, complimentary to one strand, 3 μmol NaHCO<sub>3</sub>, 20 μg Alexa fluorophore, and 2 μl DMSO in 10 μl total volume."
+    },
+    {
+        "title": "16.",
+        "body": "Incubate at room temperature for 2 hrs."
+    },
+    {
+        "title": "17.",
+        "body": "Purify labelled probes with a nucleotide removal kit, elute with DNAse/RNAse free water."
+    },
+    {
+        "title": "18.",
+        "body": "Final probe concentration should be 0.1 μg/μl."
+    },
+    {
+        "title": "19.",
+        "body": [
+            "To verify labelling, electrophorese 2 sets of probes through 1.5 % standard agarose gels, obtain an image of the gel to document fluorescence in the labelled probes; stain the gel with 3 μg/ml ethidium bromide to compare the migration of the DNA \\(figure 2B lanes 1 and",
+            {
+                "title": "2)",
+                "body": [
+                    "and the fluorophores \\(figure 2B lanes 3 and",
+                    {
+                        "title": "4).",
+                        "body": "Or determine optical density at 488 and 594 nm for Alexa green and red respectively \\(figure 2C). Fluorescent probes can be stored at -20°C for 12 months. \r\n  \r\n\n\nLABELLING NUMBER\r\n\n\nTo determine the labelling number \\(NL) of the probes, use the expression \r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/2685/original/protex.2013.074_equation_1.PNG?1379692237\">See figure in Figures section.</a>  \r\n\n\n\r\n\n\nwhere _N<sub>L</sub>_ is the number of fluorophore moieties per 100 bases, _A_<sub>base</sub> is the absorption of fluorescently labelled probes at 260 nm, and _A_<sub>dye</sub> is the absorption of fluorescently labelled probes at the maximum absorption wavelength of the fluorophore \\(Alexa 488: 492 nm, Alexa 594: 588 nm). ε<sub>base</sub> and ε<sub>dye</sub> are the molar extinction coefficients of the base and the fluorophore, respectively \\(single-stranded DNA: 8910 cm<sup>-1</sup>M<sup>-1</sup>, Alexa 488: 62000 cm<sup>-1</sup>M<sup>-1</sup>, Alexa 594: 80400 cm<sup>-1</sup>M<sup>-1</sup>). α is the ratio of absorption of the fluorophore at 260 nm to that at the maximum absorption wavelength \\(Alexa 488: 0.30, Alexa 594: 0.43).\r\n\n\nThe optimal labelling number is 5 for maximal fluorescence and minimal quenching.\r\n\n\n\r\n\n\nPREPARATION OF SLIDES FOR FISH\r\n\n\nProcess cells for the single-cell electrophoresis \\(comet) assay. Prepare enough slides for hybridization with probes for each of the complementary strands of the sequence of interest."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "20.",
+        "body": "Remove slides from the electrophoresis apparatus."
+    },
+    {
+        "title": "21.",
+        "body": [
+            "Wash slides with neutralizing buffer \\(0.4 M Tris pH",
+            {
+                "title": "8)",
+                "body": "three times at 4°C, 5 minutes each."
+            }
+        ]
+    },
+    {
+        "title": "22.",
+        "body": "Place slides in 100% ethanol for 30 min at 4°C."
+    },
+    {
+        "title": "23.",
+        "body": "Place slides in 0.5 M NaOH for 25 min at room temperature \\(RT)."
+    },
+    {
+        "title": "24.",
+        "body": "Wash slides with 70% ethanol for 5 min at RT."
+    },
+    {
+        "title": "25.",
+        "body": "Wash slides with 85% ethanol for 5 min at RT."
+    },
+    {
+        "title": "26.",
+        "body": "Wash slides with 95% ethanol for 5 min at RT.\r\n  Note: Dispose of used ethanol solutions according to your institution’s rules for hazardous chemicals."
+    },
+    {
+        "title": "27.",
+        "body": "Let slides air-dry overnight in the dark.\r\n  Slides can be stored for several days.\r\n\n\n\r\n\n\nHYBRIDIZATION\r\n\n\nThe overall procedure is illustrated in figure"
+    },
+    {
+        "title": "3.",
+        "body": []
+    },
+    {
+        "title": "28.",
+        "body": "Prepare Cot-1 DNA, which hybridizes to repetitive sequences in the probes, thus reducing background signal: ethanol precipitate, evaporate, dissolve in water to 1 μg/μl, aliquote and store at -20°C."
+    },
+    {
+        "title": "29.",
+        "body": "For each slide mix 5-10 μg Cot-1 DNA with 5 to 10 ng pooled single-stranded fluorescent probes for the 5’ and 3’ termini of one of the strands. Vacuum-dry the mixture."
+    },
+    {
+        "title": "27.",
+        "body": "Dissolve the DNA mixture in 10 μl hybridization solution \\(10% Dextran sulphate, 0.3 M NaCl, 30 mM Na citrate, 50% formamide)."
+    },
+    {
+        "title": "28.",
+        "body": "Keep the DNA mixture on ice; set up a water bath or heat block at 73°C."
+    },
+    {
+        "title": "29.",
+        "body": "Heat the DNA mixture to 73°C for 5 min."
+    },
+    {
+        "title": "30.",
+        "body": "Incubate the DNA at 37°C for 20 min on a heat block or water bath."
+    },
+    {
+        "title": "31.",
+        "body": "Pre-warm dried slides to 37°C in moist chamber for 5 min. Moist chambers can be made out of boxes for 1000 ml pipet tips, with ~1” of water in the bottom and the slides on the tip rack."
+    },
+    {
+        "title": "32.",
+        "body": "Add 10 μl of the hybridization mixture to the center of each slide. Cover with 24 x 60 mm coverslip."
+    },
+    {
+        "title": "33.",
+        "body": "Incubate in moist chamber at 37°C overnight.\r\n  \r\n\n\nSLIDE WASHING"
+    },
+    {
+        "title": "34.",
+        "body": "Prepare wash solutions:\r\n  a. Wash 1: 2x SSPE \\(20x SSPE is 22 mM EDTA, 0.2 M NaH<sub>2</sub>PO<sub>4</sub>, 3.6 M NaCl, 0.22 N NaOH, pH 7.8-8.0), 50% formamide in water\r\n\n\nb. Wash 2: 2x SSPE in water\r\n\n\nc. Wash 3: 1x SSPE in water"
+    },
+    {
+        "title": "35.",
+        "body": "Wash slides twice for 15 min with Wash 1 at 37°C"
+    },
+    {
+        "title": "36.",
+        "body": "Wash slides once for 15 min with Wash 2 at 37°C"
+    },
+    {
+        "title": "37.",
+        "body": "Wash slides once for 10 min with Wash 3 at RT"
+    },
+    {
+        "title": "38.",
+        "body": "Let slides air-dry for at least 2 hours at RT.\r\n  Slides can be stored for 1-2 days; longer periods may cause fading of the fluorescence.\r\n\n\n\r\n\n\nCOUNTERSTAINING AND VISUALIZATION"
+    },
+    {
+        "title": "39.",
+        "body": "Prepare a solution with 1 μg/ml DAPI in 1x PBS; this can be stored in the dark and used repeatedly for > 1 year."
+    },
+    {
+        "title": "40.",
+        "body": "Immerse the slides in staining solution at room temperature in the dark for 15 min."
+    },
+    {
+        "title": "41.",
+        "body": "Gently dab with paper towel or tissue to dry all the moisture, or quickly dip slides into 100% ethanol to dehydrate, and air-dry the slides in the dark."
+    },
+    {
+        "title": "42.",
+        "body": "Add 20 μl of Prolong Gold mounting medium. Cover with 24 x 60 mm coverslip and cure for 1 hour in the dark."
+    },
+    {
+        "title": "43.",
+        "body": "Store at 4ºC in the dark until ready to view.\r\n  \r\n\n\nANALYSIS OF STRAND-SPECIFIC REPAIR"
+    },
+    {
+        "title": "44.",
+        "body": "Locate comets with the DAPI filter and the 20x or 40x lens; switch to 100x magnification using immersion oil and appropriate filters to view probes for one of the strands. Limit the time of exposure to the microscope light to avoid photobleaching of the fluorescence. Each cell should have 1 pair of spots, one red and one green, for each allele of the gene. Photograph images obtained with each filter, superimpose the blue, red and green images and determine whether the spots appear together \\(less than 3 μm) or apart \\(more then 3 μm). Examples are shown in figure"
+    },
+    {
+        "title": "4.",
+        "body": []
+    },
+    {
+        "title": "45.",
+        "body": "Make a notation for each comet on a sheet such as in the example below; add the total number of breaks, which can be expressed as the % of the total, i.e. if there are 12 breaks in 30 cells with 2 alleles each, 20% of the strands are broken. Repeat the entire process with a parallel set of slides with probes for the opposite strand; data from triplicate experiments should be averaged and errors calculated to apply statistical analysis.\r\n  \r\n\n\nCell type, treatment, time point, etc.\r\n\n\nComet number Broken strands\r\n\n\n1 \r\n\n\n2 \r\n\n\n… N \r\n\n\nTotal \\(Sum of breaks)\r\n\n\n\r\n\n\nANALYSIS OF GLOBAL GENOMIC REPAIR"
+    },
+    {
+        "title": "46.",
+        "body": "Use 40x magnification to capture images of whole comets."
+    },
+    {
+        "title": "47.",
+        "body": "Import comet images into a software program for analysis. Public domain software include NIH Image \\(PC, http://rsb.info.nih.gov/nih-image/), ImageJ \\(Mac, http://rsbweb.nih.gov/ij/) and CASP \\(www.casplab.com); commercial packages include Comet Assay IV \\(Perceptive Instruments), and Komet \\(Andor)."
+    },
+    {
+        "title": "48.",
+        "body": "Quantify the signal from the DNA in heads and tails, and from a dark area to assess background fluorescence. Some programs automatically detect comets, identify heads and tails, subtract backgrounds and quantify signals. We use ImageJ to perform these tasks manually. The data are imported to a spreadsheet \\(Microsoft Excel) designed to calculate and subtract the backgrounds for heads and tails proportionally to the sizes of the respective hand-drawn areas; the percent DNA in tails and/or the Olive moment is calculated for 30-100 comets in each slide. The entire biological experiment should be performed at least three times, starting with the cells in culture."
+    }
+]

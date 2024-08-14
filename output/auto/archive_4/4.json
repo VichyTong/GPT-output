@@ -1,0 +1,43 @@
+[
+    {
+        "title": "1",
+        "body": [
+            {
+                "sentence": "Dissolve 15ul Tris-EDTA and store -20\u00b0C.",
+                "result": [
+                    {
+                        "DISSOLVE": {
+                            "emit": [
+                                {
+                                    "reagent0": "15ul Tris-EDTA"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "15ul Tris-EDTA"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "STORE": {
+                            "emit": [
+                                {
+                                    "reagent0": "15ul Tris-EDTA"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "15ul Tris-EDTA"
+                                },
+                                {
+                                    "temperature": "-20\u00b0C"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

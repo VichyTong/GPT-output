@@ -1,0 +1,528 @@
+[
+    "\nCRITICAL STEP: During the whole procedure it is crucial to keep all working spaces sterile.\r\n\n\n\r\n\n\n",
+    {
+        "title": "**Faecal sample dilution**",
+        "body": [
+            "\r\n\n\nTIMING: 5 min per sample",
+            {
+                "title": "1|",
+                "body": "Weigh the faecal material \\(50 mg) and add 500 μL of sterile PBS to attain a 10% \\(m/v) suspension."
+            }
+        ]
+    },
+    {
+        "title": "**Sample homogenisation**",
+        "body": [
+            "TIMING: 1 min per sample",
+            {
+                "title": "2|",
+                "body": [
+                    "Set the MINILYS homogeniser for 3000 rpm \\(speed",
+                    {
+                        "title": "1)",
+                        "body": "for 60 seconds using 2 mL tubes with O-ring\r\n\n\ncaps.\r\n\n\nCRITICAL STEP: Tubes should not have any type of beads, this results in massive loss of viruses. Without homogenisation filters are more likely to clog."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Centrifugation**",
+        "body": [
+            " TIMING: 3 min",
+            {
+                "title": "3|",
+                "body": "Centrifuge at 17000g for 3 min. Retrieve at least 150 μL of the supernatant for the next step."
+            }
+        ]
+    },
+    {
+        "title": "**Filtration**",
+        "body": [
+            " TIMING: 1 min per sample",
+            {
+                "title": "4|",
+                "body": "Filter the supernatant obtained in a 0.8 μm \\(PES) filter at 17000g for 1 min.\r\n\n\nTROUBLESHOOTING: In case of clogging of the filter membrane consider further diluting the sample or replace the spin membrane with a new one and transfer the remaining supernatant. Alternatively, a pre-filtration step with a larger pore size of 10 μm could be performed."
+            }
+        ]
+    },
+    {
+        "title": "**Nuclease treatment**",
+        "body": [
+            " TIMING: 2h",
+            {
+                "title": "5|",
+                "body": "Set a heating block for 37 ̊C."
+            },
+            {
+                "title": "6|",
+                "body": "Add 7 μL of 20x homemade buffer \\(1M Tris, 100 mM CaCl<sub>2</sub> and 30 mM MgCL<sub>2</sub>, pH=8) to 130 μL of sample filtrate."
+            },
+            {
+                "title": "7|",
+                "body": "Add 2 μL of benzonase and 1μL of micrococcal nuclease."
+            },
+            {
+                "title": "8|",
+                "body": "Mix by gently inverting the tubes 3 times."
+            },
+            {
+                "title": "9|",
+                "body": "Incubate for 2h at 37 ̊C"
+            },
+            {
+                "title": "10|",
+                "body": "Stop the reaction by adding 7 μL of 10 nM EDTA and freeze samples at –80°C for 24h or preferably proceed for extraction.\r\n\n\n▪ PAUSE POINT"
+            }
+        ]
+    },
+    {
+        "title": "**Extraction**",
+        "body": [
+            " TIMING: 25 min for 1 sample. \r\n\n\n1h30min for 24 samples.\r\n\n\nExtraction is performed using the QIAamp® Viral RNA Mini kit from Qiagen, without carrier RNA. Change gloves between steps and use aerosol-barrier tips. To avoid contamination do not place tubes immediately next to each other in the rack. Please note that even though it is an RNA extraction kit, DNA will also be extracted.",
+            {
+                "title": "11|",
+                "body": "Mix in an RNAse-free 2 mL tube the following:\r\n\n\n560 μL AVL buffer\r\n\n\n140 μL sample after nuclease treatment\r\n\n\n\r\n\n\nCRITICAL STEP: Do not add carrier RNA to the AVL buffer."
+            },
+            {
+                "title": "12|",
+                "body": "Mix the mixture by pulse vortexing."
+            },
+            {
+                "title": "13|",
+                "body": "Incubate at room temperature for 10 min."
+            },
+            {
+                "title": "14|",
+                "body": "Change gloves."
+            },
+            {
+                "title": "15|",
+                "body": "Briefly centrifuge the mixture with a microcentrifuge."
+            },
+            {
+                "title": "16|",
+                "body": "Add 560 μL of absolute ethanol to the sample mixture.\r\n\n\nCRITICAL STEP: Mix very well by pulse-vortex."
+            },
+            {
+                "title": "17|",
+                "body": "Briefly centrifuge the mixture with a microcentrifuge."
+            },
+            {
+                "title": "18|",
+                "body": "Add 630 μL of the sample mixture to the spin column.\r\n\n\nCRITICAL STEP: Do not touch the column rim with the pipet."
+            },
+            {
+                "title": "19|",
+                "body": "Centrifuge at 6000_g_ for 1 min, change the collection tube and repeat steps 18 and 19."
+            },
+            {
+                "title": "20|",
+                "body": "Add to the spin column the following:\r\n\n\n500 μL AW1 buffer \r\n\n\nCRITICAL STEP: Prepare the AW1 buffer according to the guidelines of the supplier, as it is originally as a concentrate."
+            },
+            {
+                "title": "21|",
+                "body": "Centrifuge at 6000_g_ for 1 min, change the collection tube."
+            },
+            {
+                "title": "22|",
+                "body": "Add to the spin column the following:\r\n\n\n500 μL AW2 buffer \r\n\n\nCRITICAL STEP: Prepare the AW2 buffer, as it is originally as a concentrate."
+            },
+            {
+                "title": "23|",
+                "body": "Centrifuge at 20 000_g_ for 3 min, change the collection tube."
+            },
+            {
+                "title": "24|",
+                "body": "Centrifuge at 20 000_g_ for 1 min. Place the spin column in an RNAse-free 1.5 mL tube."
+            },
+            {
+                "title": "25|",
+                "body": "Add 60 μL of AVE \\(elution buffer) to the spin column and incubate for 1 minute.\r\n\n\n                      \r\n\n\nCRITICAL STEP: Pipet the AVE buffer directly onto the filter membrane without touching it with the pipet tip."
+            },
+            {
+                "title": "26|",
+                "body": "Centrifuge at 6000g for 1 min."
+            },
+            {
+                "title": "27|",
+                "body": "Store viral RNA and DNA at –80°C.\r\n\n\n▪ PAUSE POINT"
+            }
+        ]
+    },
+    {
+        "title": "**Amplification**",
+        "body": [
+            " TIMING: 3h30\r\n\n\nAmplification is performed using a modified WTA2 \\(Complete Whole Transcriptome Amplification Kit) protocol from Sigma Aldrich.\r\n\n\nCRITICAL STEP: The number of cycles chosen depends on the input material. Typically we recommend 17 cycles, however for samples with expected low viral DNA and RNA content, an increase to 22 cycles should be considered. Similarly for samples with a high level of input material, 12 cycles can be used.",
+            {
+                "title": "29|",
+                "body": "Mix 0.5 μL of Library Synthesis Solution with 2.82 μL of extracted viral sample by pipetting and incubate in a thermocycler programmed for 95°C for 2 minutes then cool down to 18°C."
+            },
+            {
+                "title": "30|",
+                "body": "To the cooled-primed DNA and RNA \\(18°C) sample, immediately add the following:\r\n\n\n0.78 μL RNAse free water\r\n\n\n0.5 μL Library Synthesis Buffer\r\n\n\n0.4 μL Library Synthesis Enzyme"
+            },
+            {
+                "title": "31|",
+                "body": "Mix and incubate in a thermocycler programmed for:\r\n\n\n18°C for 10 minutes \r\n\n\n25°C for 10 minutes \r\n\n\n37°C for 30 minutes \r\n\n\n42°C for 10 minutes \r\n\n\n70°C for 20 minutes \r\n\n\n4°C"
+            },
+            {
+                "title": "32|",
+                "body": "To the DNA library add the following mix to each sample:\r\n\n\n7.5 μL Amplification mix \r\n\n\n60.2 μL RNAse free water\r\n\n\n1.5 μL WTA dNTP mix \r\n\n\n0.75 μL Amplification enzyme"
+            },
+            {
+                "title": "33|",
+                "body": "Mix by pipetting and incubate in a thermocycler programmed for:\r\n\n\n94°C for 2 minutes."
+            }
+        ]
+    },
+    {
+        "title": "**94°C for 30 seconds**",
+        "body": []
+    },
+    {
+        "title": "**70°C for 5 minutes**",
+        "body": []
+    },
+    {
+        "title": "**x17 cycles**",
+        "body": [
+            {
+                "title": "34|",
+                "body": "Purify the PCR product using any standard PCR purification kit. We use the MSB® SPIN PCRAPACE from Stratec as follows:"
+            },
+            {
+                "title": "35|",
+                "body": "Add 500 μL of binding buffer to the 75 μL of WTA2 amplification product.\r\n\n\nCRITICAL STEP: Binding buffer is a concentrate, 99.7% isopropanol needs to be added accordingly."
+            },
+            {
+                "title": "36|",
+                "body": "Place the spin filter in a 2 mL receiver tube and add the 575 μL of mixture."
+            },
+            {
+                "title": "37|",
+                "body": "Centrifuge at 11000g for 3 min."
+            },
+            {
+                "title": "38|",
+                "body": "Place the spin filter in a 1.5 mL receiver tube. Elute in 50 μL of elution buffer."
+            },
+            {
+                "title": "39|",
+                "body": "Incubate for 1 min."
+            },
+            {
+                "title": "40|",
+                "body": "Centrifuge at 11000g for 1 min."
+            },
+            {
+                "title": "41|",
+                "body": "Store amplified DNA at –80°C.\r\n\n\n▪ PAUSE POINT"
+            }
+        ]
+    },
+    {
+        "title": "**WTA2 amplification product concentration measurement using Qubit**",
+        "body": [
+            " TIMING: 5-10 min",
+            {
+                "title": "42|",
+                "body": "Measure the concentration of each WTA2 purified product by Qubit.\r\n\n\nConcentration is measured using the Qubit dsDNA HS assay kit, which provides 2 standards. Tubes should be purchased separate."
+            },
+            {
+                "title": "43|",
+                "body": "Set up the required number of 0.5 mL Qubit tubes for the 2 standards and samples \\(n samples +2)."
+            },
+            {
+                "title": "44|",
+                "body": "Prepare a working solution by adding per sample 199 μL of Qubit dsDNA HS Buffer and 1 μL of Qubit dsDNA HS Reagent. We recommend to prepare 10% extra of working solution to assure enough volume."
+            },
+            {
+                "title": "45|",
+                "body": "Load 190 μL of working solution in the standard tubes and 199 μL in the tubes for samples."
+            },
+            {
+                "title": "46|",
+                "body": "Add 10 μL of standard to the respective tubes and 1 μL of sample in each sample tube."
+            },
+            {
+                "title": "47|",
+                "body": "Mix by pulse-vortexing and incubate for 2 minutes at room temperature."
+            },
+            {
+                "title": "48|",
+                "body": "On the Home Screen of the Qubit Fluorometer, press dsDNA High Sensitivity as the assay type and run a new calibration."
+            },
+            {
+                "title": "49|",
+                "body": "Read standard #1 and standard #2."
+            },
+            {
+                "title": "50|",
+                "body": "Read the samples concentration."
+            },
+            {
+                "title": "51|",
+                "body": "Calculate concentration according to the manual."
+            }
+        ]
+    },
+    {
+        "title": "**Library preparation**",
+        "body": [
+            " TIMING: 1h\r\n\n\nLibrary preparation is performed using an adjusted protocol for the Nextera XT DNA sample\r\n\n\npreparation kit from Illumina.\r\n\n\nCRITICAL STEP: Perform the following reactions on ice.\r\n\n\nCRITICAL STEP: Make a dilution from the WTA2 purified product according to the Qubit measurement to 1.2 ng/μl to be used as input material.\r\n\n\nCRITICAL STEP: The number of cycles chosen \\(15) and the extension time depends on the input material and the optimal fragment size. In this protocol, the tagmentation time was decreased from 5 to 4 min \\(resulting in longer fragments) and the PCR extension was increased to 45 sec. Consider testing other combinations of conditions for optimal results with your specific samples. Additional guidance can be found in the library preparation section of the study of Picelli et al \\(Full-length RNA- seq from single cells using Smart-seq2, 2013).",
+            {
+                "title": "52|",
+                "body": "Mix the following in 200 μl PCR tubes in order to achieve DNA tagmentation:\r\n\n\n5 μL Tagment Buffer \r\n\n\n2.5 μL Amplicon tagment mix \r\n\n\n2.5 μL Amplified DNA \\(1.2 ng/μl)"
+            },
+            {
+                "title": "53|",
+                "body": "Centrifuge at 280g for 1 min \\(or using a microcentrifuge for 1 min)"
+            },
+            {
+                "title": "54|",
+                "body": "Incubate in a thermocycler for 4 min at 55°C, followed by cooling to 10°C and proceed\r\n\n\nimmediately to next step."
+            },
+            {
+                "title": "55|",
+                "body": "Stop tagmentation by adding the following to the 10μl of tagmented DNA :\r\n\n\n2.5 μL Neutralize Tagment Buffer"
+            },
+            {
+                "title": "56|",
+                "body": "Centrifuge at 280_g_ for 1 min \\(or using a microcentrifuge for 1 min)"
+            },
+            {
+                "title": "57|",
+                "body": "To the tagmented DNA \\(12.5 μl) add the following:\r\n\n\n2.5 μL Primer 1 \\(i7, N70X)\r\n\n\n2.5 μL Primer 2 \\(i5, S50X) \r\n\n\n7.5 μL Nextera PCR master mix\r\n\n\n\r\n\n\nCRITICAL STEP: Nextera primers are not provided together with the library preparation kit and need to be purchased separate. A careful choice of primers is advised to assure unique combinations of indices per sample."
+            },
+            {
+                "title": "58|",
+                "body": "Centrifuge at 280_g_ for 1 min \\(or using a microcentrifuge for 1 min)"
+            },
+            {
+                "title": "59|",
+                "body": "Incubate in a thermocycler programmed for:\r\n\n\n72°C for 3 minutes 95°C for 30s"
+            }
+        ]
+    },
+    {
+        "title": "**95°C for 10 s**",
+        "body": []
+    },
+    {
+        "title": "**55°C for 30 s**",
+        "body": []
+    },
+    {
+        "title": "**72°C for 45 s**",
+        "body": "x"
+    },
+    {
+        "title": "**15 cycles**",
+        "body": [
+            "4°C",
+            {
+                "title": "60|",
+                "body": "Store amplified DNA at 4°C for maximum 24h or proceed to PCR clean-up. \r\n\n\n▪ PAUSE POINT"
+            }
+        ]
+    },
+    {
+        "title": "**PCR purification using AMPure beads**",
+        "body": [
+            " TIMING: 45 min",
+            {
+                "title": "61|",
+                "body": "Prepare fresh 80% ethanol and vortex AMPure beads for a few seconds."
+            },
+            {
+                "title": "62|",
+                "body": "Mix the following by pipetting until an homogeneous solution is obtained\r\n\n\n25 μL PCR product \r\n\n\n15 μL AMPure beads"
+            },
+            {
+                "title": "63|",
+                "body": "Incubate at room temperature for 5 min."
+            },
+            {
+                "title": "64|",
+                "body": "Place the plate in the magnetic stand for 2 min."
+            },
+            {
+                "title": "65|",
+                "body": "VERY carefully remove and discard supernatants."
+            },
+            {
+                "title": "66|",
+                "body": "Keeping the plate on the magnetic stand, add 200 μl of 80% ethanol to each sample."
+            },
+            {
+                "title": "67|",
+                "body": "Incubate the plate/tube at room temperature for ≥ 30s."
+            },
+            {
+                "title": "68|",
+                "body": "Carefully remove and discard the ethanol. Repeat this step once."
+            },
+            {
+                "title": "69|",
+                "body": "Try to remove all residual ethanol by pipetting. Incubate at room temperature for about 3 min\r\n\n\nwithout drying the beads.\r\n\n\nCRITICAL STEP: Watch the beads and if you observe cracks, proceed for next step immediately. The time can be highly variable depending on the temperature and humidity inside the lab."
+            },
+            {
+                "title": "70|",
+                "body": "Thoroughly resuspend the beads in 26.25 μl of 10 mM Tris-HCl \\(pH 8.0) by pipetting them up and down 10 times."
+            },
+            {
+                "title": "71|",
+                "body": "Incubate the plate at room temperature for 2 min to elute DNA from the beads."
+            },
+            {
+                "title": "67|",
+                "body": "Place the plate on the magnetic stand for 2 min."
+            },
+            {
+                "title": "72|",
+                "body": "Carefully transfer 25 μl of the supernatant to new RNAse free tubes."
+            },
+            {
+                "title": "73|",
+                "body": "Store amplified DNA at –80°C.\r\n\n\n▪ PAUSE POINT"
+            }
+        ]
+    },
+    {
+        "title": "**DNA library concentration measurement using Qubit**",
+        "body": [
+            " TIMING: 5-10 min",
+            {
+                "title": "74|",
+                "body": "Measure the concentration of each library by Qubit as described from step"
+            },
+            {
+                "title": "42|",
+                "body": "to"
+            },
+            {
+                "title": "51|",
+                "body": "DNA library size distribution and quality check using the Bioanalyzer  TIMING: 1h"
+            },
+            {
+                "title": "75|",
+                "body": "Check the size distribution on an Agilent high-sensitivity chip \\(Bioanalyzer). Each chip can load 11 samples."
+            },
+            {
+                "title": "76|",
+                "body": "Remove all reagents from the fridge \\(4°C) and allow them to reach room temperature for around 30 minutes before use. Keep dye and prepared gels from light."
+            },
+            {
+                "title": "77|",
+                "body": "Set up the chip priming station’s lever to the lowest position. Adjust the IKA vortex mixer to 2400 rpm."
+            },
+            {
+                "title": "78|",
+                "body": "Start the software, select assays: High Sensitivity DNA assay. Name your sample wells on the software."
+            },
+            {
+                "title": "79|",
+                "body": "Prepare the gel-dye mix by adding 15 μL of dye \\(blue-capped tube) to the red-capped tube."
+            },
+            {
+                "title": "80|",
+                "body": "Vortex the dye mixture and transfer it to a spin filter."
+            },
+            {
+                "title": "81|",
+                "body": "Centrifuge for 10 minutes at 2240g and discard the filter.\r\n\n\nCRITICAL STEP: Gel-dye mix should be kept for maximum 6 weeks within preparation and it is sufficient for 5 chips. Protect from light."
+            },
+            {
+                "title": "82|",
+                "body": "Pipette 9 μL of gel-dye mix in well at the bottom of the well to prevent air bubbles."
+            },
+            {
+                "title": "83|",
+                "body": "To pressurise the gel-dye mix, place the chip in the priming station, lock it \\(click sound)."
+            },
+            {
+                "title": "84|",
+                "body": "Position the syringe on 1 mL, set the timer for 1 min."
+            },
+            {
+                "title": "85|",
+                "body": "Press the plunger of the syringe down until it is held by the clip and time it."
+            },
+            {
+                "title": "86|",
+                "body": "After 1 min, release the clip and make sure it moves up to 0.3 mL. Pull the plunger to the 1 mL position."
+            },
+            {
+                "title": "87|",
+                "body": "Open the priming station and add 9 μL of gel-dye mix in the remaining G wells."
+            },
+            {
+                "title": "84|",
+                "body": "Load 5 μL of marker \\(green-capped tube) in all sample wells and ladder well."
+            },
+            {
+                "title": "88|",
+                "body": "Load 1 μL of ladder \\(yellow-capped tube) in the ladder well."
+            },
+            {
+                "title": "89|",
+                "body": "Pipette 1 μL of sample in each 11 sample wells."
+            },
+            {
+                "title": "90|",
+                "body": "Vortex the chip for 1 min in the IKA vortex mixer and start your run within 5 min."
+            },
+            {
+                "title": "88|",
+                "body": "Place the chip in the Bioanalyzer and close its lid carefully."
+            },
+            {
+                "title": "91|",
+                "body": "Check that the selection of dsDNA, High sensitivity DNA option is selected and the names of the samples are correctly filled in."
+            },
+            {
+                "title": "92|",
+                "body": "Start the run. A full run takes around 40min. ▪ \r\n\n\n\r\n\n\nEXPECTED OUTCOME\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4431/thumbnail/BA.png?1461936021\">See figure in Figures section.</a>\r\n\n\n\r\n\n\nSize distribution varies according to the amount of DNA used, tagmentation time and extension time. Therefore, these can be adjusted to obtain a desired size distribution."
+            }
+        ]
+    },
+    {
+        "title": "**DNA library quantification by qPCR**",
+        "body": [
+            " TIMING: 1h\r\n\n\nQuantification the libraries concentration by qPCR using the Universal KAPA library quantification kit.",
+            {
+                "title": "93|",
+                "body": "Thaw all reagents from the kit: Master mix+ Primer premix, ROX and standards."
+            },
+            {
+                "title": "94|",
+                "body": "Prepare 1:1000 and 1:2000 dilutions of the libraries in 10 mM Tris-HCl, pH 8.0."
+            },
+            {
+                "title": "95|",
+                "body": "If the kit is used for the first time, add the 10X Primer Premix \\(1 mL) to the 2X KAPA SYBR® FAST qPCR Master Mix \\(5 mL) and mix. Add appropriate ROX \\(High or Low) depending on the qPCR instrument in your lab \\(0.2 mL)."
+            },
+            {
+                "title": "96|",
+                "body": "Prepare your master mix accordingly for samples, six standards and appropriate replicates:\r\n\n\n12.4 μL 2x qPCR Master Mix+ 10x Primer premix + 50x ROX \r\n\n\n3.6 μL RNAse free-water\r\n\n\n\r\n\n\nCRITICAL STEP: For more reproducible results we recommend duplicates or triplicates of sample and standards."
+            },
+            {
+                "title": "97|",
+                "body": "Pipette 16 μL of mix into each qPCR well."
+            },
+            {
+                "title": "98|",
+                "body": "Add 4 μL of standard or sample, accordingly."
+            },
+            {
+                "title": "99|",
+                "body": "Perform your qPCR with the following cycling conditions:\r\n\n\n95°C for 5 minutes\r\n\n\n95°C for 30 s|\r\n\n\n60°C for 45 s| 35 cycles\r\n\n\nOPTIONAL: Perform a melting curve analysis: 65-95°C"
+            }
+        ]
+    },
+    {
+        "title": "**Pooling of the libraries into a 4 nM solution**",
+        "body": "TIMING:  30 min\r\n\n\nThe 4 nM concentration aims for a higher cluster density.\r\n\n\n100| Dilute the libraries aiming for 4 nM solution using the concentration obtained for the qPCR and the average size from the Bioanalyzer.\r\n\n\n101| Make a pool taking into account the number of reads desired per sample. \r\n\n\nCRITICAL STEP: Do not mix on the same pool samples with the same double indexing."
+    }
+]

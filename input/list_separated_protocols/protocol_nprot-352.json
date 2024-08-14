@@ -1,0 +1,325 @@
+[
+    {
+        "title": "**A. Cell Preparation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Sacrifice mouse and harvest spleen."
+            },
+            {
+                "title": "2.",
+                "body": "Place spleen in a 15ml polypropylene tube containing 5 ml of cRPMI.  Keep on ice until ready to use."
+            },
+            {
+                "title": "3.",
+                "body": "Pour the spleen and media into a cell culture dish containing a wire mesh screen."
+            },
+            {
+                "title": "4.",
+                "body": "Prepare a single cell suspension of the splenocytes by gently pushing the spleen tissue through the wire screen with the rubber plunger end of a 5 ml syringe. Use as little force as possible. Most connective tissue should remain on screen."
+            },
+            {
+                "title": "5.",
+                "body": "Transfer cell suspension from the culture dish into a 15 ml polypropylene tube."
+            },
+            {
+                "title": "6.",
+                "body": "Place the 15 ml tube, containing the cell suspension, upright on ice for 3-5 minutes \\(until clumps settle to bottom)."
+            },
+            {
+                "title": "7.",
+                "body": "Transfer the cell suspension to a 50 ml tube with a pipet. Leave the clumps behind."
+            },
+            {
+                "title": "8.",
+                "body": "Dilute the cell suspension to 50 ml by adding 1X PBS."
+            },
+            {
+                "title": "9.",
+                "body": "Centrifuge cells @ 400 x g for 5 minutes at room temperature.  Discard supernatant."
+            },
+            {
+                "title": "10.",
+                "body": "Add 3–5 ml of 1X PharmLyse to cell pellet and mix by gently pipetting up and down."
+            },
+            {
+                "title": "11.",
+                "body": "Let cell suspension stand at room temperature for 7 minutes."
+            },
+            {
+                "title": "12.",
+                "body": "Add 10 ml of cRPMI to the cells and mix by gently pipetting up and down."
+            },
+            {
+                "title": "13.",
+                "body": "Pass cell suspension through a 40 µm cell strainer into a fresh 50 ml tube."
+            },
+            {
+                "title": "14.",
+                "body": "Dilute the cell suspension to 50 ml by adding 1X PBS."
+            },
+            {
+                "title": "15.",
+                "body": "Centrifuge cells @ 400 x g for 5 minutes at room temperature.  Discard supernatant."
+            },
+            {
+                "title": "16.",
+                "body": "Wash with 1X PBS two more times \\(repeat steps 14 and 15)."
+            },
+            {
+                "title": "17.",
+                "body": "Resuspend cells in 5 ml of cRPMI."
+            },
+            {
+                "title": "18.",
+                "body": "Count the splenocytes and bring the sample to a concentration of 10x10<sup>6</sup> cells/ml in cRPMI."
+            }
+        ]
+    },
+    {
+        "title": "**B. Preparation of Activation and Staining Reagents**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "PMA:  Prepare a stock solution of 1 mg/ml in DMSO, aliquot and store at -20°C.  This solution is stable at -20°C for at least six months. On day of experiment, serially dilute an aliquot of PMA stock from freezer 1:1000 in PBS to make 1 μg/ml concentration."
+            },
+            {
+                "title": "2.",
+                "body": "Ionomycin:  Prepare a stock solution of 1 mg/ml in DMSO, aliquot and store at -20°C.  This solution is stable at -20°C for at least six months. On day of experiment, dilute an aliquot of frozen ionomycin stock 1:10 in PBS to make 100 μg/ml concentration."
+            },
+            {
+                "title": "3.",
+                "body": "Peptide:  Peptides representing optimal antigenic epitopes are superior to whole proteins for _in vitro_ restimulation.  Prepare a sterile peptide stock solution of 2 mM in DMSO, aliquot and store at -80°C.  This solution is stable at -80°C for at least six months. On day of experiment, serially dilute the frozen peptide aliquot 1:1000 in cRPMI to make 2 µM concentration."
+            },
+            {
+                "title": "4.",
+                "body": "CD107a/CD107b-FITC Cocktail: on day of experiment combine 0.1 µg CD107a-FITC with 0.5 µg CD107b-FITC in 1X PBS. Prepare enough for all required wells such that 10 µl of the cocktail is added to each well."
+            },
+            {
+                "title": "5.",
+                "body": "Fc Block: Add Fc block to FACS wash buffer at a 1:50 ratio. Make enough to add 100 μl per well \\(98 μl FACS wash buffer + 2 μl Fc block per well)."
+            },
+            {
+                "title": "6.",
+                "body": "Prepare cell surface staining mAbs at optimal \\(previously determined) concentrations by diluting in FACS wash buffer. Mix all surface mAbs in the same tube so that the total volume added per well is 50 μl."
+            },
+            {
+                "title": "7.",
+                "body": "Prepare intracellular staining mAbs \\(i.e., cytokines) at optimal \\(previously determined) concentrations by diluting in Perm Wash buffer. Mix all intracellular staining mAbs in the same tube so that the total volume added per well is 50 μl."
+            }
+        ]
+    },
+    {
+        "title": "**C. Activation and Staining**",
+        "body": [
+            {
+                "title": "1.",
+                "body": [
+                    "Prepare working stock of PMA+Ionomycin activating reagent. 100 μl of working stock is needed for every well. To prepare 1 ml, add 2 μl of GolgiPlug, 2 μl of GolgiStop, 40 μl of the diluted PMA \\(prepared in",
+                    {
+                        "title": "Step 1",
+                        "body": "of previous section), and 40 μl of the diluted ionomycin \\(prepared in"
+                    },
+                    {
+                        "title": "Step 2",
+                        "body": "of previous section) to 916 µl cRPMI.  Store on ice until ready to use. Discard leftovers after activation."
+                    }
+                ]
+            },
+            {
+                "title": "2.",
+                "body": "Prepare working stock of unstimulated control. 100 μl of working stock is needed for every well. To prepare 1 ml, add 2 μl of GolgiPlug and 2 μl of GolgiStop to 996 µl cRPMI. Store on ice until ready to use. Discard leftovers after activation."
+            },
+            {
+                "title": "3.",
+                "body": [
+                    "Prepare working stock of peptide activating reagent. 100 μl of working stock is needed for every well. To prepare 1 ml, add 2 μl of GolgiPlug, 2 μl of GolgiStop, and 1 μl of the diluted peptide \\(prepared in",
+                    {
+                        "title": "Step 3",
+                        "body": "of previous section) to 995 µl cRPMI. Store on ice until ready to use.  Discard leftovers after activation."
+                    }
+                ]
+            },
+            {
+                "title": "4.",
+                "body": "Dispense 100 μl of cell suspension \\(1x106 cells) into appropriate wells of a 96-well round-bottom cell culture plate. Avoid cell clumps and cells which have settled to the bottom of the tube."
+            },
+            {
+                "title": "5.",
+                "body": "Dispense cells into additional wells \\(one well per color plus an unstained control) for use as instrument setup and compensation controls. These cells will be stained with a single antibody each \\(e.g., CD4-FITC, CD4-PE, CD4-PE-Cy7, CD4-PerCP-Cy5.5, or CD4-APC)."
+            },
+            {
+                "title": "6.",
+                "body": "Add 100 μl of the working stock of each activator to the appropriate wells."
+            },
+            {
+                "title": "7.",
+                "body": [
+                    "Add 10 μl of CD107a/CD107b-FITC cocktail \\(prepared in",
+                    {
+                        "title": "Step 4",
+                        "body": "of previous section) to each well as required."
+                    }
+                ]
+            },
+            {
+                "title": "8.",
+                "body": "Mix wells by pipetting up and down several times."
+            },
+            {
+                "title": "9.",
+                "body": "Incubate 5-6 hrs at 37°C, 7% CO2."
+            },
+            {
+                "title": "10.",
+                "body": "Optional step – after incubation, the procedure can be interrupted for overnight storage \\(not to exceed 20 hours) of cells by transferring the plate to 4°C \\(refrigerator)."
+            },
+            {
+                "title": "11.",
+                "body": "Centrifuge the plate at 400 x g for 5 min at 4°C."
+            },
+            {
+                "title": "12.",
+                "body": "Remove supernatant from the wells by quickly “flicking” the plate upside down."
+            },
+            {
+                "title": "13.",
+                "body": [
+                    "Add 100 μl Fc block \\(prepared in",
+                    {
+                        "title": "Step 5",
+                        "body": "of previous section) to each well and mix by pipetting up and down."
+                    }
+                ]
+            },
+            {
+                "title": "14.",
+                "body": "Incubate plate on ice for 20 min."
+            },
+            {
+                "title": "15.",
+                "body": "Add 100 μl of FACS wash buffer to each well."
+            },
+            {
+                "title": "16.",
+                "body": "Centrifuge the plate at 400 x g for 5 min at 4°C."
+            },
+            {
+                "title": "17.",
+                "body": "Remove supernatant by flicking the plate."
+            },
+            {
+                "title": "18.",
+                "body": [
+                    "Add 50 μl of cell surface staining mAbs \\(prepared in",
+                    {
+                        "title": "Step 6",
+                        "body": "of previous section) to the appropriate wells, mix by pipetting up and down."
+                    }
+                ]
+            },
+            {
+                "title": "19.",
+                "body": "Incubate in the dark, on ice, for 30 min."
+            },
+            {
+                "title": "20.",
+                "body": "Add 150 μl of FACS wash buffer to each well."
+            },
+            {
+                "title": "21.",
+                "body": "Centrifuge the plate at 400 x g for 5 min at 4°C."
+            },
+            {
+                "title": "22.",
+                "body": "Remove supernatant by flicking the plate."
+            },
+            {
+                "title": "23.",
+                "body": "Add 200 μl FACS wash buffer to each well, mix by pipetting up and down."
+            },
+            {
+                "title": "24.",
+                "body": "Centrifuge the plate at 400 x g for 5 min at 4°C."
+            },
+            {
+                "title": "25.",
+                "body": "Remove supernatant by flicking the plate."
+            },
+            {
+                "title": "26.",
+                "body": "Add 100 μl Cytofix/Cytoperm to each well and mix by pipetting up and down."
+            },
+            {
+                "title": "27.",
+                "body": "Incubate in the dark, on ice, for 30 min."
+            },
+            {
+                "title": "28.",
+                "body": "Optional - procedure can be interrupted at this point by freezing the cells. Wrap plate in parafilm and foil. Transfer to a -80°C freezer. To continue the procedure, thaw the plate at 37°C for ~20 min."
+            },
+            {
+                "title": "29.",
+                "body": "Add 100 μl of 1X Perm Wash Buffer to each well."
+            },
+            {
+                "title": "30.",
+                "body": "Centrifuge the plate at 500 x g for 5 min. Note that the cells are permeabilized and fixed at this point and require stronger centrifugation to pellet.  Be sure to centrifuge at 500 x g for this and all following centrifugation steps"
+            },
+            {
+                "title": "31.",
+                "body": "Remove supernatant by flicking the plate."
+            },
+            {
+                "title": "32.",
+                "body": [
+                    "Add 50 μl of intracellular staining mAb \\(prepared in",
+                    {
+                        "title": "Step 7",
+                        "body": "of previous section) to appropriate wells, mix by pipetting up and down."
+                    }
+                ]
+            },
+            {
+                "title": "33.",
+                "body": "Incubate in the dark, on ice, for 30 min."
+            },
+            {
+                "title": "34.",
+                "body": "Add 150 μl Perm Wash buffer to each well."
+            },
+            {
+                "title": "35.",
+                "body": "Centrifuge the plate at 500 x g for 5 min at 4°C."
+            },
+            {
+                "title": "36.",
+                "body": "Remove supernatant by flicking the plate."
+            },
+            {
+                "title": "37.",
+                "body": "Add 200 μl Perm Wash buffer to each well, mix by pipetting up and down."
+            },
+            {
+                "title": "38.",
+                "body": "Centrifuge the plate at 500 x g for 5 min at 4°C."
+            },
+            {
+                "title": "39.",
+                "body": "Remove supernatant by flicking the plate."
+            },
+            {
+                "title": "40.",
+                "body": "Add 200 μl of FACS wash buffer to each well, mix by pipetting up and down."
+            },
+            {
+                "title": "41.",
+                "body": "Cells are ready for acquisition \\(leave cells in the plate for acquisition on an HTS plate reader, or transfer samples to 12x75 ml tubes for single tube acquisition)."
+            },
+            {
+                "title": "42.",
+                "body": "Acquire samples on a BD LSRII or equivalent multicolor flow cytometer. Acquire at least 30,000 CD4+ or CD8+ T cells."
+            }
+        ]
+    }
+]

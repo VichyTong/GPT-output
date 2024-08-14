@@ -1,0 +1,82 @@
+[
+    {
+        "title": "**HeLa Protein Preparation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Grow HeLa Kyoto cells in DMEM and arrest the growth with nocodazol over night."
+            },
+            {
+                "title": "2.",
+                "body": "Harvest cells with a scraper and wash three times with PBS. One tray \\(25 cm x 25 cm; 100 mL medium) generates approximately 4 mg of protein."
+            },
+            {
+                "title": "3.",
+                "body": "Suspend the cell pellet in lysis buffer using twice its volume and disrupt the cell membrane by pulling the suspension through a thin needle \\(first 21 then 27 gauge). Centrifuge the suspension at 500 g in a cooling centrifuge \\(4°C) for 15 min."
+            }
+        ]
+    },
+    {
+        "title": "**Acetone precipitation of proteins**",
+        "body": [
+            {
+                "title": "4.",
+                "body": "Add 5 times the volume of chilled acetone to the protein solution and incubate the sample at minus 30 °C."
+            },
+            {
+                "title": "5.",
+                "body": "Centrifuge the suspension at 500 g in a cooling centrifuge \\(4°C) for  30 min."
+            },
+            {
+                "title": "6.",
+                "body": "Discard the supernatant and carefully suspend the protein pellet with 80% chilled acetone and repeat the centrifugation."
+            },
+            {
+                "title": "7.",
+                "body": "Air-dry the pellet avoiding complete desiccation and dissolve the protein pellet in the digestion buffer \\(8 M urea, 0.5 M ammoniumbicarbonat) to a protein concentration of 5 µg/µL. The protein solution should have a pH of 8.0. in our laboratory we measure protein concentration using a Bradford assay."
+            }
+        ]
+    },
+    {
+        "title": "**Reduction and alkylation of proteins**",
+        "body": [
+            {
+                "title": "8.",
+                "body": "Add 1 µg DTT stock solution up to a final concentration of 0.05 µg DTT per µg protein and incubate the sample for 30 min at 56 °C, shaking."
+            },
+            {
+                "title": "9.",
+                "body": "Next add iodoacetamide to a final concentration of 0.25 µg per µg protein and incubate the sample for 30 min at room temperature in the dark."
+            },
+            {
+                "title": "10.",
+                "body": "Quench the reaction by adding DTT stock solution up to a final concentration of 0.25 µg DTT per µg protein"
+            }
+        ]
+    },
+    {
+        "title": "**Digestion with Lys-C**",
+        "body": [
+            {
+                "title": "11.",
+                "body": "Dilute the sample to 6 M urea with 50 mM ammoniumbicarbonat buffer and add Lys-C to a final concentration of 1 µg per 50 µg protein."
+            },
+            {
+                "title": "12.",
+                "body": "Incubate the sample at 30 °C for 2 h. Next, digest the predigested protein sample with trypsin starting with diluting the solution to 0.8 M urea with 50mM ammoniumbicarbonat buffer."
+            },
+            {
+                "title": "13.",
+                "body": "Add 1 µg trypsin per 60 µg protein and incubate the sample for 2 h at 37 °C."
+            },
+            {
+                "title": "14.",
+                "body": "Add another aliquot of 1 µg trypsin per 60 µg protein and incubate the sample at 37 °C over night. The digest is stopped by acidifying the sample to a pH of 2 by adding TFA."
+            },
+            {
+                "title": "15.",
+                "body": "Peptide mixtures should and stored in aliquots at minus 80º C."
+            }
+        ]
+    }
+]

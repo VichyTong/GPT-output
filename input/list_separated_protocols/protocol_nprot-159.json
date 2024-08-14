@@ -1,0 +1,38 @@
+[
+    {
+        "title": "**Immunizations of mice**",
+        "body": ""
+    },
+    {
+        "title": "**1**",
+        "body": "Perform precipitation of keyhole limpet hemocyanin \\(KLH) or DNP-KLH in alum as described \\(2)."
+    },
+    {
+        "title": "**2**",
+        "body": "Inject 100 µg of KLH or DNP-KLH precipitated in alum in a total volume of 300 µl \\(volume adjusted with PBS) into the peritoneal cavity. Collect serum at d 0, d 7, and d 14 and make serial dilutions in PBS."
+    },
+    {
+        "title": "**ELISA for antibody isotype determination**",
+        "body": ""
+    },
+    {
+        "title": "**3**",
+        "body": "Coat 96-well MaxiSorp<sup>TM</sup> ELISA plates with 50 µl/well of DNP-ovalbumin \\(5 µg/ml in PBS), incubate overnight at 4 ˚C \\(3)."
+    },
+    {
+        "title": "**4**",
+        "body": "Wash with PBS + 0.05% Tween 20, block for 3 h with PBS + 2.5% bovine serum albumin. Wash 3x with PBS + 0.05% Tween 20."
+    },
+    {
+        "title": "**5**",
+        "body": "Add diluted serum in triplicates, incubate overnight at 4 ˚C. Wash 3x with PBS + 0.05% Tween 20."
+    },
+    {
+        "title": "**6**",
+        "body": "Add alkaline phospatase-labeled mouse IgM- and subclass IgG-specific antibodies \\(working dilutions 1:250 – 1:500 in PBS + 2.5% bovine serum albumin). Incubate at 25 ˚C for 1 h. Wash 5x with PBS + 0.05% Tween 20."
+    },
+    {
+        "title": "**7**",
+        "body": "Add 100 µl per well of alkaline phosphatase substrate solution. Read optical density of each well at 405 nm at 10 min and 20 min after substrate addition."
+    }
+]

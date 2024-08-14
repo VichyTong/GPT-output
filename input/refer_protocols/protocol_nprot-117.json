@@ -1,0 +1,14 @@
+[
+    {
+        "index": 18,
+        "string": "3)  Couple highly purified and structurally and functionally intact human CRP and SAP, isolated as previously described<sup>18</sup>, to CNBr activated Sepharose&#xAE; as previously described<sup>19,20</sup>.  ",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the method of isolating and coupling highly purified and structurally and functionally intact human CRP and SAP to CNBr activated Sepharose."
+    },
+    {
+        "index": 42,
+        "string": "8)  Keep human CRP, isolated as previously described<sup>18</sup> and stored at -80&#xB0;C until prior the study, at 2-4&#xB0;C at a concentration of 8.7 mg/ml in TC buffer.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the method of isolating human CRP, which is described in reference 18."
+    }
+]

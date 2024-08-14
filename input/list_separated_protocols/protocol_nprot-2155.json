@@ -1,0 +1,119 @@
+[
+    "\nI. Total cholesterol analysis",
+    {
+        "title": "1.",
+        "body": "For each new session:\r\n  • Prepare fresh ethanol, hexane, D.I. water, and o-phthalaldehyde solution.\r\n\n\n• Prepare each set of 16x100 and 16x125 mm test tubes. Check the mouth of tubes.\r\n\n\n• Check the accuracy of automatic pipettes and syringes."
+    },
+    {
+        "title": "2.",
+        "body": "Set up tubes for a standard curve \\(duplicate):\r\n  • Add separately 10 µL, 20 µL, 30 µL, 40 µL and 50 µL of cholesterol palmitate standard solution to each of the tubes.\r\n\n\n• Evaporate the solvent under the N<sub>2</sub> in a 40 C water bath."
+    },
+    {
+        "title": "3.",
+        "body": "Add samples into a 16x100 mm PTFE capped tube:\r\n  • For tissue lipid extract: use a syringe to add 100 µL of lipid extract and evaporate the solvent under the N<sub>2</sub> in a 40 C water bath.\r\n\n\n• For lymph/bile/serum: vortex to homogenize the sample, use a 100 µL automatic pipette to add 100 µL of sample, and wash the tip with the same amount of D.I. water."
+    },
+    {
+        "title": "4.",
+        "body": "Use an automatic pipette to add 300 µL of KOH into the tube."
+    },
+    {
+        "title": "5.",
+        "body": "Use a 5 mL dispenser to add 3 mL of ethanol into the tube, cap it, and vortex it vigorously."
+    },
+    {
+        "title": "6.",
+        "body": "Saponify for 15 min in a 60 C water bath and let it cool."
+    },
+    {
+        "title": "7.",
+        "body": "Prepare o-phthalaldehyde solution during saponification."
+    },
+    {
+        "title": "8.",
+        "body": "Use a 5 mL dispenser to add 5 mL of hexane and vortex vigorously."
+    },
+    {
+        "title": "9.",
+        "body": "Use a 5 mL dispenser to add 1.5 mL of D.I. water and vortex vigorously."
+    },
+    {
+        "title": "10.",
+        "body": "Transfer the upper layer \\(lipid extracts) into a 16x125 mm disposable tube w/o cap, wash with 1.5 mL of hexane, combine the extracts and washings, and evaporate the solvent under the N2 in a 40 C water bath."
+    },
+    {
+        "title": "11.",
+        "body": "Use a 5 mL dispenser to add 3 mL of the o-phthalaldehyde solution into the tube and mix well."
+    },
+    {
+        "title": "12.",
+        "body": "Add 1.5 mL of concentrated H<sub>2</sub>SO<sub>4</sub> by running down the inside wall of the tube and vortex well immediately."
+    },
+    {
+        "title": "13.",
+        "body": "Determine the absorbance at 550 nm between 10 and 90 min.\r\n  Wash the cuvettes with D.I. water and methanol to make sure that they are clean and dry for the next sample.\r\n\n\n\r\n\n\nII. Free cholesterol analysis"
+    },
+    {
+        "title": "1.",
+        "body": "For each new session:\r\n  • Prepare fresh digitonin solution.\r\n\n\n• Prepare 15 mL centrifuge tubes. \r\n\n\n• Check the accuracy of automatic pipettes and syringes."
+    },
+    {
+        "title": "2.",
+        "body": "Add 1 mL of acetone-absolute ethanol \\(1:1) into a 15 mL plastic centrifuge tube. Cap the tube."
+    },
+    {
+        "title": "3.",
+        "body": "Add samples into the tube:\r\n  • For tissue lipid extract: use a syringe to add 100 µL of lipid extract.\r\n\n\n• For lymph/bile/serum: vortex to homogenize the sample, use a 100 µL automatic pipette to add 100 µL of sample, wipe the outside of the pipette tip with Kim-wipers, and wash the tip with acetone-absolute ethanol \\(1:1)."
+    },
+    {
+        "title": "4.",
+        "body": "Use an automatic pipette to add 20 µL of glacial acetic acid solution \\(10%) into the tube."
+    },
+    {
+        "title": "5.",
+        "body": "Use an automatic pipette to add 500 µL of freshly made digitonin solution \\(10%) into the tube. Cap the tube and vortex vigorously."
+    },
+    {
+        "title": "6.",
+        "body": "Let the tube to stand at room temperature for 1 h."
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge the tube at 1000 x g for 20 min."
+    },
+    {
+        "title": "8.",
+        "body": "Use a Pasteur pipette to remove the supernatant \\(cholesterol esters) carefully without disturbing the precipitate."
+    },
+    {
+        "title": "9.",
+        "body": "Add 1 mL of acetone-ether \\(1:2) to the precipitate \\(free cholesterol). Cap the tube and vortex."
+    },
+    {
+        "title": "10.",
+        "body": "Centrifuge the tube at 1000 x g for 20 min."
+    },
+    {
+        "title": "11.",
+        "body": "Use a Pasteur pipette to remove the supernatant \\(cholesterol esters) carefully without disturbing the precipitate."
+    },
+    {
+        "title": "12.",
+        "body": "Dissolve the precipitate in 1 mL of ethanol. Vortex."
+    },
+    {
+        "title": "13.",
+        "body": "Transfer the mixture into a scintillation counting vial. Wash the centrifuge tube with 1 mL of ethanol."
+    },
+    {
+        "title": "14.",
+        "body": "Evaporate the solvent under N<sub>2</sub> in a 40 C water bath."
+    },
+    {
+        "title": "15.",
+        "body": "Redissolve the free cholesterol in 100 µL of ethanol."
+    },
+    {
+        "title": "16.",
+        "body": "Add 10 mL of scintillation cocktail and count <sup>14</sup>C in a liquid scintillation counter.\r\n  \r\n\n\n\r\n\n\nIII. Principles\r\n\n\n\r\n\n\nThe system, LS6500, is designed for counting <sup>14</sup>C, <sup>3</sup>H, <sup>32</sup>P, and other soft-beta emitters. Radioactive samples measured with an H-number are subjected to quench correction to determine actual sample activity, so called DPM, disintegrations per minute. The standard curve is plotted with the data from quenched standards with known activity containing the same type of isotope as in the sample and H-number are measured for each standard.\r\n\n\n\r\n\n\n\r\n\n\nIV. Calculations\r\n\n\n\r\n\n\n• % E \\(efficiency) = \\[\\(CPM-background)/DPM] x 100\r\n\n\nWhere,\r\n\n\n% E is calculated from correction curve, \r\n\n\nCPM is obtained in sample, \r\n\n\nDPM is 3.92 x 104 \\[= \\(2.2 x 106 DPM/µCi) x \\(0.018 µCi)]\r\n\n\n\r\n\n\n• Based on quench correction curve, %E is obtained to calculate DPM for any radioactive samples containing <sup>14</sup>C.\r\n\n\n\r\n\n\n• External standard curve: In order to plot standard curve for <sup>14</sup>C, quenched standards with known activity were measured.\r\n\n\n\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/1849/original/table_1.PNG?1311850874\">See figure in Figures section.</a>"
+    }
+]

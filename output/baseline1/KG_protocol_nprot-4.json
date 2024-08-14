@@ -1,0 +1,542 @@
+[
+    [
+        "PSTCD BAP sequence",
+        "amplified by",
+        "PCR"
+    ],
+    [
+        "pXa-1 plasmid",
+        "used for",
+        "PCR amplification"
+    ],
+    [
+        "Pfu buffer",
+        "added in",
+        "PCR reaction"
+    ],
+    [
+        "upstream and downstream primer",
+        "added in",
+        "PCR reaction"
+    ],
+    [
+        "dNTPs mix",
+        "added in",
+        "PCR reaction"
+    ],
+    [
+        "pXa-1",
+        "added in",
+        "PCR reaction"
+    ],
+    [
+        "DMSO",
+        "added in",
+        "PCR reaction"
+    ],
+    [
+        "Pfu DNA polymerase",
+        "added in",
+        "PCR reaction"
+    ],
+    [
+        "autoclaved ddH<sub>2</sub>O",
+        "added in",
+        "PCR reaction"
+    ],
+    [
+        "PCR reaction",
+        "set with conditions of",
+        "initial denaturation step"
+    ],
+    [
+        "PCR reaction",
+        "set with conditions of",
+        "35 cycles of denaturation, annealing, and extension"
+    ],
+    [
+        "PCR reaction",
+        "set with conditions of",
+        "final extension ste"
+    ],
+    [
+        "PCR product",
+        "purified by",
+        "agarose gel electrophoresis"
+    ],
+    [
+        "agarose gel",
+        "made by",
+        "boiling agarose in 1xTAE buffer"
+    ],
+    [
+        "ethidium bromide",
+        "added to",
+        "agarose gel"
+    ],
+    [
+        "PCR product",
+        "mixed with",
+        "6x gel loading buffer"
+    ],
+    [
+        "PCR product",
+        "loaded into",
+        "well of agarose gel"
+    ],
+    [
+        "1kb DNA ladder",
+        "loaded into",
+        "separate lane of agarose gel"
+    ],
+    [
+        "agarose gel",
+        "run at",
+        "80V for 1 hour"
+    ],
+    [
+        "PCR product band",
+        "excised from",
+        "agarose gel"
+    ],
+    [
+        "DNA",
+        "extracted from",
+        "agarose gel using Qiagen gel extraction ki"
+    ],
+    [
+        "purified PCR product",
+        "digested with",
+        "BglII and SacII enzymes"
+    ],
+    [
+        "pDisplay DNA",
+        "digested with",
+        "BglII and SacII enzymes"
+    ],
+    [
+        "PCR product and pDisplay DNA",
+        "digested under",
+        "same conditions"
+    ],
+    [
+        "digested pDisplay DNA",
+        "electrophoresed on",
+        "1% agarose gel"
+    ],
+    [
+        "1 kb DNA ladder",
+        "used as",
+        "size marker"
+    ],
+    [
+        "single band corresponding to digested pDisplay",
+        "extracted using",
+        "Qiagen kit"
+    ],
+    [
+        "digested PCR product",
+        "purified using",
+        "Qiagen kit"
+    ],
+    [
+        "amount of DNA",
+        "quantified by",
+        "method of choice or gel electrophoresis"
+    ],
+    [
+        "band intensity of PCR product and vector",
+        "compared to",
+        "DNA standard"
+    ],
+    [
+        "concentration of DNA",
+        "estimated by",
+        "eye"
+    ],
+    [
+        "pDisplay DNA",
+        "digested with",
+        "Bgl II and Sac II restriction enzymes"
+    ],
+    [
+        "PCR product",
+        "added to",
+        "ligation reaction"
+    ],
+    [
+        "T4 DNA ligase",
+        "added to",
+        "ligation reaction"
+    ],
+    [
+        "ligation reaction",
+        "incubated overnight at",
+        "14 <sup>o</sup>C"
+    ],
+    [
+        "ligation reaction",
+        "transformed into",
+        "DH10B electrocompetent bacterial cells"
+    ],
+    [
+        "transformed cells",
+        "incubated in",
+        "SOC medium"
+    ],
+    [
+        "transformed cells",
+        "plated onto",
+        "LB agar plate with ampicillin"
+    ],
+    [
+        "colonies",
+        "picked and cultured in",
+        "LB with ampicillin"
+    ],
+    [
+        "plasmid DNA",
+        "purified from",
+        "cultures using Qiagen miniprep kit"
+    ],
+    [
+        "digested DNA",
+        "electrophoresed on",
+        "1% agarose gel with 1kb DNA ladder"
+    ],
+    [
+        "correct clone",
+        "transformed back into",
+        "electrocompetent bacteria"
+    ],
+    [
+        "bacterial culture",
+        "expanded in",
+        "200 mL of LB with ampicillin"
+    ],
+    [
+        "plasmid DNA",
+        "purified from",
+        "expanded culture using Qiagen maxiprep kit"
+    ],
+    [
+        "bacterial culture containing correct clone",
+        "made into",
+        "Glycerol stock"
+    ],
+    [
+        "Glycerol stock",
+        "quick frozen with",
+        "dry ice/methanol bath and stored at -80 <sup>o</sup>"
+    ],
+    [
+        "BHK-12 baby hamster kidney cells",
+        "grown in",
+        "DMEM supplemented with FBS, penicillin, and streptomycin"
+    ],
+    [
+        "p60 plates",
+        "used to",
+        "plate cells"
+    ],
+    [
+        "lipofectamine",
+        "added to",
+        "tube 1"
+    ],
+    [
+        "OPTIMEM",
+        "added to",
+        "tube 1 and tube 2"
+    ],
+    [
+        "pBAP-TM DNA",
+        "added to",
+        "tube 2"
+    ],
+    [
+        "tube 1 and tube 2",
+        "mixed and incubated for",
+        "45 min at room temperature"
+    ],
+    [
+        "pDisplay",
+        "used as",
+        "negative control"
+    ],
+    [
+        "mix",
+        "added to",
+        "washed plates"
+    ],
+    [
+        "plates",
+        "incubated at",
+        "37 <sup>o</sup>C for 4 hrs with occasional rocking"
+    ],
+    [
+        "mix",
+        "removed and replaced with",
+        "fresh growth media"
+    ],
+    [
+        "incubation",
+        "continued at",
+        "37 <sup>o</sup>C/5% CO<sub>2</sub> incubato"
+    ],
+    [
+        "cell monolayer",
+        "harvested by",
+        "scraping into PBS"
+    ],
+    [
+        "harvested cells",
+        "lysed by",
+        "adding lysis buffer and protease inhibitor"
+    ],
+    [
+        "lysate",
+        "resolved by",
+        "SDS-PAGE"
+    ],
+    [
+        "proteins",
+        "transferred onto",
+        "nitrocellulose membranes"
+    ],
+    [
+        "membranes",
+        "stained with",
+        "Ponceau"
+    ],
+    [
+        "membrane",
+        "blocked with",
+        "10% fat-free skim milk in TBST buffer"
+    ],
+    [
+        "BAP-TM",
+        "visualized by",
+        "streptavidin-horseradish peroxidase conjugate"
+    ],
+    [
+        "membrane",
+        "washed with",
+        "TBST"
+    ],
+    [
+        "membrane",
+        "incubated with",
+        "anti-HA antibody"
+    ],
+    [
+        "membrane",
+        "washed with",
+        "TBST"
+    ],
+    [
+        "BAP-TM HA-tag",
+        "detected by",
+        "ECL secondary antibody-HRP conjugate"
+    ],
+    [
+        "membrane",
+        "washed with",
+        "TBST"
+    ],
+    [
+        "membrane",
+        "developed by",
+        "autoradiograph"
+    ],
+    [
+        "microscope cover glass",
+        "placed in",
+        "12 well plate"
+    ],
+    [
+        "microscope cover glass",
+        "coated with",
+        "poly-lysine in PBS"
+    ],
+    [
+        "cells",
+        "transfected as above and",
+        "re-plated on poly-lysine-coated glass coverslips"
+    ],
+    [
+        "cells",
+        "re-plated on poly-lysine-coated glass coverslips",
+        "transferred to clean 12 well plate"
+    ],
+    [
+        "surface staining",
+        "performed on",
+        "living cells or fixed non-permeabilized cell"
+    ],
+    [
+        "Live cells",
+        "stained with",
+        "anti-HA antibody or anti-biotin antibody"
+    ],
+    [
+        "Cells",
+        "incubated with",
+        "secondary antibody conjugated to Alexa594"
+    ],
+    [
+        "Cells",
+        "fixed with",
+        "4% paraformaldehyde"
+    ],
+    [
+        "Cells",
+        "mounted on",
+        "microscope slide using fluorescent mounting medium"
+    ],
+    [
+        "Cells",
+        "analyzed by",
+        "confocal fluorescence microscop"
+    ],
+    [
+        "cells",
+        "fixed with",
+        "1.5% PFA"
+    ],
+    [
+        "fixed cells",
+        "washed 3x with",
+        "PBS"
+    ],
+    [
+        "coverslips",
+        "blocked with either",
+        "10% NGS and 1% BSA for HA detection"
+    ],
+    [
+        "coverslips",
+        "blocked with either",
+        "SuperBlock blocking buffer for biotin detection"
+    ],
+    [
+        "coverslips",
+        "washed 3x with",
+        "PBS"
+    ],
+    [
+        "non-permeabilized cells",
+        "incubated with",
+        "anti-HA antibody diluted in 1% NGS or anti-biotin antibody diluted in 2% Superblock buffer"
+    ],
+    [
+        "incubated cells",
+        "washed again as above",
+        ""
+    ],
+    [
+        "coverslips",
+        "incubated with",
+        "secondary antibody conjugated to Alexa594"
+    ],
+    [
+        "coverslips",
+        "washed",
+        ""
+    ],
+    [
+        "coverslips",
+        "mounted on microscope slides",
+        ""
+    ],
+    [
+        "mounted coverslips",
+        "analyzed by",
+        "confocal fluorescence microscop"
+    ],
+    [
+        "trypsin",
+        "used to",
+        "collect transfected cells"
+    ],
+    [
+        "microcentrifuge",
+        "used to",
+        "pellet cells"
+    ],
+    [
+        "PBS",
+        "used to",
+        "wash cells"
+    ],
+    [
+        "streptavidin-Alexa680",
+        "used to",
+        "incubate cells"
+    ],
+    [
+        "dialyzed BSA",
+        "used to",
+        "remove non-specific binding"
+    ],
+    [
+        "anti-biotin antibody",
+        "used to",
+        "incubate cells"
+    ],
+    [
+        "secondary antibody conjugated to Alexa660",
+        "used to",
+        "incubate cells"
+    ],
+    [
+        "PBS with 0.5% BSA",
+        "used as",
+        "incubation buffer"
+    ],
+    [
+        "antibody to HA",
+        "used as",
+        "positive control"
+    ],
+    [
+        "FACS",
+        "used to",
+        "analyze cell"
+    ],
+    [
+        "mice",
+        "placed on",
+        "biotin-deficient diet"
+    ],
+    [
+        "Gli36 human glioma cells",
+        "infected with",
+        "lentiviral vector encoding BAP-TM and eGFP"
+    ],
+    [
+        "cells",
+        "implanted subcutaneously in",
+        "nude mice"
+    ],
+    [
+        "streptavidin-Alexa680 conjugate",
+        "injected i.v. in",
+        "mice"
+    ],
+    [
+        "FMT",
+        "used to",
+        "image mice"
+    ],
+    [
+        "streptavidin conjugated to magnetic nanoparticles",
+        "injected in",
+        "mice"
+    ],
+    [
+        "T2-weighted MR",
+        "used to",
+        "image mic"
+    ]
+]

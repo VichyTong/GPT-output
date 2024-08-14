@@ -1,0 +1,8 @@
+[
+    {
+        "index": 1,
+        "string": "Ubp-M knock-down cell lines were generated using a vector-based knockdown strategy as previously described \\(Wang et al., 2004). ",
+        "phrase": "as previously described",
+        "refer": "as previously described refers to the vector-based knockdown strategy mentioned in the sentence."
+    }
+]

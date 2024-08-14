@@ -1,0 +1,61 @@
+[
+    "\nDrying of dichloromethane\r\n\n\nTIMING ~3 h",
+    {
+        "title": "1.",
+        "body": [
+            "Add calcium hydride \\(20",
+            {
+                "title": "g)",
+                "body": [
+                    "and dichloromethane \\(700 mL) into a one-necked round-bottomed flask \\(1 L) and fit the round-bottomed flask with a condenser and drying tube filled with drierite \\(Figure",
+                    {
+                        "title": "1).",
+                        "body": "CAUTION Calcium hydride and dichloromethane are irritating and/or harmful if exposed to the skin or inhaled. Calcium hydride releases flammable gases upon contact with water. Conduct all work in a chemical fume hood. Proper personal protective equipment \\(lab coat, nitrile gloves, and safety glasses) should be worn throughout the procedure."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": "Stir the mixture using a magnetic stir bar."
+    },
+    {
+        "title": "3.",
+        "body": "Heat the reaction flask to 60°C using a heating mantle and reflux at 60°C for 2 h. Under these conditions, calcium hydride reacts with water to form calcium hydroxide and hydrogen gas. The hydrogen gas is allowed to escape from the system through a drying tube."
+    },
+    {
+        "title": "4.",
+        "body": "After 2 h, cool the reaction flask to room temperature \\(20-25°C).\r\n  PAUSE POINT Once cooled, the dichloromethane/calcium hydride mixture may be sealed and stored overnight in the fume hood, if necessary.\r\n\n\n\r\n\n\nDistillation of dichloromethane\r\n\n\nTIMING ~6 h"
+    },
+    {
+        "title": "5.",
+        "body": [
+            "Attach the flask from",
+            {
+                "title": "Step 4",
+                "body": "to the apparatus shown in Figure 2 with a 100 mL receiving flask."
+            }
+        ]
+    },
+    {
+        "title": "6.",
+        "body": "Stir the mixture using a magnetic stir bar and heat the reaction flask to 80°C using a heating mantle."
+    },
+    {
+        "title": "7.",
+        "body": "Collect the first 30 mL distillate in the 100 mL receiving flask and then replace with a 1000 mL receiving flask.\r\n  CRITICAL STEP The first 30 mL distillate may contain residual water and should be discarded."
+    },
+    {
+        "title": "8.",
+        "body": "Continue heating until ~600 mL anhydrous dichloromethane has been collected in the receiving flask."
+    },
+    {
+        "title": "9.",
+        "body": "Once the desired amount of anhydrous dichloromethane has been collected, cool the reaction flask to room temperature."
+    },
+    {
+        "title": "10.",
+        "body": "Once cooled, seal the flask with the remaining mixture from step 1 and store in the fume hood awaiting either reuse of unreacted calcium hydride or disposal."
+    }
+]

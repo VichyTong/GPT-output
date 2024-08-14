@@ -1,0 +1,56 @@
+[
+    {
+        "title": "**Expression of E- and L-selectin-IgM chimeric protein in COS cells**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transfect COS-1 cells with pcDNA1-E/L-selectin-IgM."
+            },
+            {
+                "title": "2.",
+                "body": "Two to three days later, collect culture supernatant ."
+            },
+            {
+                "title": "3.",
+                "body": "Concentrate the medium using Centriprep YM-30 or YM-100 for 10 to 50 fold.  The concentration rate is dependent on each experiment. The chimeric proteins can be used without further purification."
+            }
+        ]
+    },
+    {
+        "title": "**Ligand blotting**",
+        "body": [
+            {
+                "title": "4.",
+                "body": "Perform SDS polyacrylamide gel electrophoresis of desired materials \\(for example, lymph node lysates) and transfer proteins onto Immobilon-P by standard procedure."
+            },
+            {
+                "title": "5.",
+                "body": "Block the blot with 10 mg/ml bovine serum albumin in washing buffer for 30 min."
+            },
+            {
+                "title": "6.",
+                "body": "Incubate the filter with the concentrated culture supernatant containing E/L-selectin-IgM without dilution for 1 hr at 4°C."
+            },
+            {
+                "title": "7.",
+                "body": "Wash three times with washing buffer.  Each wash should be 20 min long.  We usually put ice in an ice basket, place a washing container on the ice and covered the basket with a lid."
+            },
+            {
+                "title": "8.",
+                "body": "Incubate the blot with 10,000 x diluted HRP-anti-human IgM for 1 hr at 4°C."
+            },
+            {
+                "title": "9.",
+                "body": "Wash as in"
+            },
+            {
+                "title": "6.",
+                "body": ""
+            },
+            {
+                "title": "10.",
+                "body": "Detect with chemiluminescent HRP substrate."
+            }
+        ]
+    }
+]

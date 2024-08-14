@@ -1,0 +1,340 @@
+[
+    {
+        "title": "**Preparation of magnetic nano-ferrite**",
+        "body": [
+            "● TIMING 4 h",
+            {
+                "title": "1.",
+                "body": "Weigh 13.9 g of Iron\\(II) sulfate heptahydrate and place it in 100 ml glass beaker containing a magnetic stirring bar."
+            },
+            {
+                "title": "2.",
+                "body": "Add 400 ml of distilled water to the beaker."
+            },
+            {
+                "title": "3.",
+                "body": "Stir the reaction mixture using magnetic stirrer for 10 minutes, at room temperature."
+            },
+            {
+                "title": "4.",
+                "body": [
+                    "Weigh 20 g of Iron\\(III) sulfate pentahydrate and add it to the above reaction mixture\\(Step",
+                    {
+                        "title": "3)",
+                        "body": "under stirring."
+                    }
+                ]
+            },
+            {
+                "title": "5.",
+                "body": "Add 100 ml of distilled water and stir the reaction mixture for another 20 minutes."
+            },
+            {
+                "title": "6.",
+                "body": "Measure 50 ml of ammonium hydroxide \\(25%) aqueous solution in dropping funnel.\r\n  \\! CAUTION Toxic if inhaled and causes burns by all exposure"
+            },
+            {
+                "title": "7.",
+                "body": "Add ammonium hydroxide drop-wise to adjust the pH of the solution to"
+            },
+            {
+                "title": "10.",
+                "body": "▲CRITICAL STEP Reaction mixture starts becoming black, indicating the formation of nanoparticles; keep adding ammonium hydroxide slowly to reach the pH ~"
+            },
+            {
+                "title": "10.",
+                "body": []
+            },
+            {
+                "title": "8.",
+                "body": "Continually stir the reaction mixture for 1 h at 50 °C."
+            },
+            {
+                "title": "9.",
+                "body": "Separate the nanoparticles from aqueous reaction mixture using external magnet or decantation."
+            },
+            {
+                "title": "10.",
+                "body": "Wash the nanoparticles with water several times until the pH reaches"
+            },
+            {
+                "title": "7.",
+                "body": []
+            },
+            {
+                "title": "11.",
+                "body": "Wash the nanoparticles with acetone two times."
+            },
+            {
+                "title": "12.",
+                "body": "Dry the nanoparticles under a vacuum at 60 °C for 2 h, to yield magnetic nano-ferrite.\r\n   ■ PAUSE POINT After drying, the material can be stored in sealed vessel at room temperature."
+            }
+        ]
+    },
+    {
+        "title": "**Functionalization of magnetic nano-ferrite**",
+        "body": [
+            "● TIMING 5 h",
+            {
+                "title": "13.",
+                "body": "Weigh 2 g of magnetic nano-ferrite yielded from Step"
+            },
+            {
+                "title": "12.",
+                "body": []
+            },
+            {
+                "title": "14.",
+                "body": "Place it in 50 ml round bottom flask."
+            },
+            {
+                "title": "15.",
+                "body": "Add 20 ml of water and 5 ml of ethanol."
+            },
+            {
+                "title": "16.",
+                "body": "Disperse the nanoparticles by sonication for 10 min at room temperature."
+            },
+            {
+                "title": "17.",
+                "body": "Weigh 2 g of dopamine hydrochloride and dissolve it in 5 ml of water."
+            },
+            {
+                "title": "18.",
+                "body": [
+                    "Add this aqueous dopamine solution to the round bottom flask containing dispersed \\(Step",
+                    {
+                        "title": "16)",
+                        "body": "nanomaterials."
+                    }
+                ]
+            },
+            {
+                "title": "19.",
+                "body": "Sonicate the reaction mixture for 2 hr at room temperature."
+            },
+            {
+                "title": "20.",
+                "body": "Add 10 ml of acetone to precipitate any dissolved product."
+            },
+            {
+                "title": "21.",
+                "body": "Isolate the precipitated amine-functionalized nanomaterial by using external magnet or by centrifugation."
+            },
+            {
+                "title": "22.",
+                "body": [
+                    "Wash the nanoparticles \\(obtained in Step",
+                    {
+                        "title": "21)",
+                        "body": [
+                            "with 2 ml \\(3X) of water.\r\n   ▲CRITICAL STEP Nanoparticles obtained in",
+                            {
+                                "title": "Step 21",
+                                "body": "need to be washed to remove unreacted dopamine salt, however, use of water in excess amount may solubilize functionalized nanomaterial; materials should not be washed with more than 2 ml of water each time."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "23.",
+                "body": "Wash the nanoparticles with 5 ml of acetone \\(2X)."
+            },
+            {
+                "title": "24.",
+                "body": "Dry it under vacuum at 50 °C for 2 h, to yield amine-functionalized nanomaterial.\r\n   ■ PAUSE POINT After drying, the material can be stored in a sealed vessel at room temperature."
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of ruthenium hydroxide supported on magnetic nanoparticle \\(nano-ferrite-Ru\\(OH)x) catalyst**",
+        "body": [
+            "● TIMING 40 h",
+            {
+                "title": "25.",
+                "body": "Weigh 2 g of amine-functionalized nano-ferrite obtained in Step"
+            },
+            {
+                "title": "24.",
+                "body": []
+            },
+            {
+                "title": "26.",
+                "body": "Place it in 100 ml round bottom flask."
+            },
+            {
+                "title": "27.",
+                "body": "Add 20 ml of water."
+            },
+            {
+                "title": "28.",
+                "body": "Disperse the nanoparticles by sonication for 10 min at room temperature."
+            },
+            {
+                "title": "29.",
+                "body": "Prepare 8.3 x 10<sup>-3</sup> M solution of ruthenium\\(III) chloride in water."
+            },
+            {
+                "title": "30.",
+                "body": [
+                    "Add 60 ml of the above solution \\(prepared in Step",
+                    {
+                        "title": "29)",
+                        "body": "to dispersed nanoparticles \\(of Step 28)."
+                    }
+                ]
+            },
+            {
+                "title": "31.",
+                "body": "Sonicate the reaction mixture for another 10 min."
+            },
+            {
+                "title": "32.",
+                "body": "Place magnetic bar in the round bottom flask."
+            },
+            {
+                "title": "33.",
+                "body": "Stir the solution for 20 min at room temperature."
+            },
+            {
+                "title": "34.",
+                "body": "Prepare 1 M solution of sodium hydroxide in water."
+            },
+            {
+                "title": "35.",
+                "body": [
+                    "Add sodium hydroxide solution \\(from Step",
+                    {
+                        "title": "34)",
+                        "body": "drop-wise to adjust the pH of the mixture to"
+                    }
+                ]
+            },
+            {
+                "title": "13.",
+                "body": []
+            },
+            {
+                "title": "36.",
+                "body": "Stir the resulting slurry for 36 h."
+            },
+            {
+                "title": "37.",
+                "body": "Isolate the nanomaterial by using external magnet or by centrifugation."
+            },
+            {
+                "title": "38.",
+                "body": "Wash the nanoparticles with 5 mL water \\(2X) and then with 10 mL acetone \\(2X)."
+            },
+            {
+                "title": "39.",
+                "body": "Dry it under a vacuum at 50 °C for 2 h, to yield ruthenium hydroxide supported on magnetic nanoparticle catalyst.\r\n   ■ PAUSE POINT After drying, the material can be stored in a sealed vessel at room temperature."
+            }
+        ]
+    },
+    {
+        "title": "**Hydration of nitriles using nano-ferrite-Ru\\(OH)x catalyst**",
+        "body": [
+            "● TIMING 1 h",
+            {
+                "title": "40.",
+                "body": "Weigh 1 mmol of benzonitrile."
+            },
+            {
+                "title": "41.",
+                "body": "Place it in crimp-sealed thick-walled glass tube equipped with a pressure sensor and a magnetic stirrer."
+            },
+            {
+                "title": "42.",
+                "body": "Weigh 100 mg of nano-ferrite-Ru\\(OH)x. \\(Step 39)."
+            },
+            {
+                "title": "43.",
+                "body": [
+                    "Add it to above \\(Step",
+                    {
+                        "title": "41)",
+                        "body": "MW-reaction tube."
+                    }
+                ]
+            },
+            {
+                "title": "44.",
+                "body": "Add 5 ml of water in the tube."
+            },
+            {
+                "title": "45.",
+                "body": "Mix the reaction mixture on a touch mixer."
+            },
+            {
+                "title": "46.",
+                "body": "Place the reaction tube inside the cavity of a CEM Discover focused microwave synthesis system."
+            },
+            {
+                "title": "47.",
+                "body": "Set the reaction temperature at 130 °C."
+            },
+            {
+                "title": "48.",
+                "body": "Set the microwave power at 200 Watt."
+            },
+            {
+                "title": "49.",
+                "body": "Set the maximum pressure to 100 psi."
+            },
+            {
+                "title": "50.",
+                "body": [
+                    "Expose the reaction tube with microwave irradiation under above conditions \\(Steps 47, 48,",
+                    {
+                        "title": "49)",
+                        "body": "for 30 min."
+                    }
+                ]
+            },
+            {
+                "title": "51.",
+                "body": "After cooling the reaction tube, remove it from the microwave cavity."
+            },
+            {
+                "title": "52.",
+                "body": "The reaction mixture turns clear and catalyst gets deposited on the magnetic bar within 30-45 sec \\("
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 3b**",
+        "body": [
+            ").",
+            {
+                "title": "53.",
+                "body": "Remove catalyst from reaction mixture using an external magnet \\("
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 3c**",
+        "body": [
+            ").",
+            {
+                "title": "54.",
+                "body": "Cool the remaining clear liquid in ice bath."
+            },
+            {
+                "title": "55.",
+                "body": "Isolate the precipitate crystals of benzamides \\("
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 3d**",
+        "body": [
+            ") from water medium by simple decantation/filtration.",
+            {
+                "title": "56.",
+                "body": "Dry it under a vacuum at 50 °C for 1 h\r\n   ■ PAUSE POINT After drying, the product can be stored at room temperature."
+            }
+        ]
+    }
+]

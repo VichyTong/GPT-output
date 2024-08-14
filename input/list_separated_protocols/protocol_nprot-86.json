@@ -1,0 +1,120 @@
+[
+    {
+        "title": "**Whole blood assay:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Collect blood into two heparinized blood tubes \\(for unstimulated control and forskolin)."
+            },
+            {
+                "title": "2.",
+                "body": "Add forskolin stock to one tube, 10 µM final concentration."
+            },
+            {
+                "title": "3.",
+                "body": "Incubate control and forskolin stimulated sample for 24 hrs at 37°C incubator or water bath."
+            },
+            {
+                "title": "4.",
+                "body": "Centrifuge in table top centrifuge at 3000 rpm for 10 min."
+            },
+            {
+                "title": "5.",
+                "body": "Store plasma at -80°C."
+            }
+        ]
+    },
+    {
+        "title": "**Tissue preparation:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Euthanize and debleed animals and rapidly excise DRGs and spinal cord tissue, immediately freeze on dry ice or liquid nitrogen, store at –80°C."
+            }
+        ]
+    },
+    {
+        "title": "**Tissue homogenization, acidic oxidation \\[1] and solid phase extraction:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Add 200 µl of 0.1 M hydrochloric acid containing 20 ng/ml of the internal standard rhamnopterin to the defrosted tissue \\(small pieces of about 2-3 mg) or plasma sample \\(50 µl) in a 1.5 ml microcentrifuge tube."
+            },
+            {
+                "title": "2.",
+                "body": "Homogenize tissue with reusable pellet pestles and motor \\(Kontes Glass Company, Vineland, New Jersey, USA) for 45 s with at least 10 strokes, remove 10 µl of the suspension for protein determination."
+            },
+            {
+                "title": "3.",
+                "body": "Add 100 µl of iodine solution \\(1% \\(w/v) iodine and 2% \\(w/v) potassium iodide in 1 M hydrochloric acid), mix and incubate for 30 min in the dark at room temperature.\r\n  CRITICAL STEP: Always prepare fresh iodine solution."
+            },
+            {
+                "title": "4.",
+                "body": "Stop the reaction by adding 200 µl of 5% \\(w/v) ascorbic acid in water and vortex up to decolorization.\r\n  CRITICAL STEP: Always prepare fresh ascorbic acid solution."
+            },
+            {
+                "title": "5.",
+                "body": "Activate the cation-exchange cartridge \\(Oasis MCX extraction cartridge) with 1 ml methanol and 1 ml water before loading of the sample."
+            },
+            {
+                "title": "6.",
+                "body": "Load the completely decolorized sample onto the cartridge, allow binding and vacuum elute unbound substances, wash with 1 ml 0.1 M hydrochloric acid and 1 ml methanol."
+            },
+            {
+                "title": "7.",
+                "body": "Elute bound substances with 1 ml of 8% \\(v/v) ammonia solution in 25% methanol.\r\n  CRITICAL STEPS Points 5-7: Use a maximum speed of 1 ml per min for vacuum elution"
+            },
+            {
+                "title": "8.",
+                "body": "Evaporate the organic solvent to dryness by a gentle stream of nitrogen at 40°C."
+            },
+            {
+                "title": "9.",
+                "body": "Reconstitute the residue with 200 µl water/0.002% formic acid \\(v/v) and transfer the solution in a screw vial with a glass insert containing a Silikon/PTFE seals in the screw cap \\(e.g. Macherey-Nagel)."
+            }
+        ]
+    },
+    {
+        "title": "**Chromatography**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Use a Gemini C18 column \\(150 × 2 mm i.d., 5 µm particle size, 110 Å pore size) for chromatographic separation, connected to a pump and autosampler for injection of the samples \\(e.g. Agilent 1100 Series binary pump \\(G1312A) and degasser \\(G1379A) connected to an HTC PAL autosampler)."
+            },
+            {
+                "title": "2.",
+                "body": "Use as mobile phase eluent A \\(water with 0.002% formic acid) and eluent B \\(methanol with 0.002% formic acid) and apply the following gradient:\r\n  \r\n\n\n0 - 0.5 min A/B 100:0\r\n\n\n0.5 - 4 min a linear gradient from 100:0 to 5:95\r\n\n\n4 - 7   min A/B 5:95\r\n\n\n7 - 8   min a linear gradient from 5:95 to 100:0 and finally\r\n\n\n8 - 13  min A/B 100:0"
+            },
+            {
+                "title": "3.",
+                "body": "Inject 10 µl of the sample onto the LC-MS/MS."
+            },
+            {
+                "title": "4.",
+                "body": "Set the flow rate to 0.3 ml/min and the runtime to 13 min."
+            },
+            {
+                "title": "5.",
+                "body": "Biopterin, neopterin and rhamnopterin elute after 5.7, 4.1 and 5.5 min, respectively."
+            }
+        ]
+    },
+    {
+        "title": "**MS/MS analysis**",
+        "body": [
+            "For determination of total biopterin and neopterin concentrations use liquid chromatography coupled to tandem mass spectrometry employing a 4000 Q TRAP triple quadrupole mass spectrometer with a Turbo V source.",
+            {
+                "title": "1.",
+                "body": "Choose the negative ion mode with an electrospray voltage of -4300 V at 400 °C and set the auxiliary and nebulizer gas to 50 psi, the curtain gas to 10 psi and the collision gas to 5 psi Use pure nitrogen as gases."
+            },
+            {
+                "title": "2.",
+                "body": "Use precursor-to-product ion transitions of m/z 236 to 192 for biopterin \\(collision energy -20 V), 252 to 192 for neopterin \\(-22 V) and 265 to 192 for rhamnopterin \\(-20 V) as quantifier for the multiple reaction monitoring \\(MRM) with a dwell time of 150 ms."
+            },
+            {
+                "title": "3.",
+                "body": "Evaluate concentrations of the samples with calibration standards \\(0.1, 0.2, 0.5, 1, 2, 5, 10, 20, 30, 50 ng/ml) using Analyst software 1.4 \\(Applied Biosystems). Every tenth sample in each run should be a quality control \\(1, 10, 50 ng/ml)."
+            }
+        ]
+    }
+]

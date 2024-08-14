@@ -1,0 +1,82 @@
+[
+    {
+        "title": "1.",
+        "body": "Obtain fresh platelets from the local bloodbank or from healthy volunteers by venipuncture. Make sure to get informed consent from the volunteers."
+    },
+    {
+        "title": "2.",
+        "body": "Isolate and wash platelets using standard methods \\(e.g. differential centrifugation; beyond the scope of this protocol)."
+    },
+    {
+        "title": "3.",
+        "body": "Take an equivalent of platelets to 20 mL of blood as starting material. This corresponds to approx. 500x10<sup>7</sup> platelets."
+    },
+    {
+        "title": "4.",
+        "body": "After washing, pellet the platelets \\(10 minutes at 2000g) and suspend in 1 mL of lysis buffer. Keep on ice."
+    },
+    {
+        "title": "5.",
+        "body": "Sonicate the platelet lysate 3 times 1 second at 25% amplitude on ice."
+    },
+    {
+        "title": "6.",
+        "body": "Centrifuge the lysate for 10 minutes at 4,000g \\(4°C) and remove the floating lipid plug using a MACS pre separation filter."
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge the lysate for 20 minutes at 20,000g \\(4°C) and keep the supernatant."
+    },
+    {
+        "title": "8.",
+        "body": "Add 100 μl of protein G magnetic beads and incubate on ice for 30 minutes. Pre-clearing."
+    },
+    {
+        "title": "9.",
+        "body": "Some of the magnetic beads may have formed aggregates due to the high protein content and may clog the columns. These may be removed by centrifuging 30 seconds at 20,000g."
+    },
+    {
+        "title": "10.",
+        "body": "Prepare a molecular MACS column by priming with 200 μl of lysis buffer. Pass the lysate over the column and collect the flowthrough as precleared lysate."
+    },
+    {
+        "title": "11.",
+        "body": "Split the precleared lysate in two equal portions. To one portion 2 μg of the specific anti-CCL5 or anti-CXCL4 antibody is added. To the other the corresponding non-specific control antibody is added. Mix very well, then add 50 μl of protein G magnetic beads to each portion. Mix again and incubate on ice for at least 30 minutes."
+    },
+    {
+        "title": "12.",
+        "body": "Prepare the molecular MACS columns by priming with 200 μl of lysis buffer. Discard the flowthrough."
+    },
+    {
+        "title": "13.",
+        "body": "Mix the antibody/bead-treated lysates again and pipet them into the molecular MACS columns. Use one column for each portion. Let the columns empty by gravity flow at ambient temperature. The flowthrough may be collected for analysis purposes."
+    },
+    {
+        "title": "14.",
+        "body": "Wash the columns 3 times with lysis buffer and one time with 20 mM Tris pH 7.5. Discard flowthrough. Warm the SDS sample buffer at 95 °C in the meantime."
+    },
+    {
+        "title": "15.",
+        "body": "To elute the CXCL4/CC5 complex first add 20 μl of hot SDS sample buffer and wait for 5 minutes. Collect any fluid that exits the column in a clean tube."
+    },
+    {
+        "title": "16.",
+        "body": "Add 50 μl of hot SDS sample buffer. Collect any fluid that exits the column in a clean tube. The samples can be stored at this point."
+    },
+    {
+        "title": "17.",
+        "body": "Analyze the samples on a ready gradient gel \\(8-16%). Blot using your favorite standard methods onto nitrocellulose. Block with the mixture of polymer-based Roti Block and milk for at least 1 hour at room temperature."
+    },
+    {
+        "title": "18.",
+        "body": "In our hands, the biotinylated antibodies listed in the Reagents section above worked best, in combination with StreptABC complex."
+    },
+    {
+        "title": "19.",
+        "body": "Strip the blot using stripping buffer and analyse using the other biotinylated antibody."
+    },
+    {
+        "title": "20.",
+        "body": "Western Blotting can be performed using the standard techniques in the lab and we will not elaborate on the detailed procedure beyond the antibodies, developing and blocking reagents used."
+    }
+]

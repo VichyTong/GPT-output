@@ -1,0 +1,119 @@
+[
+    "\nLysis buffer: 150 mM NaCl, 50 mM Tris-HCl, pH 7.5, 2 µM tris-carboxyethyl phosphine, and 1% Pluornic-127 and 1% octyl-β-glucoside. The buffer can be prepared ahead of time, filtered using 0.2 m filter, and stored at 4 ºC. We routinely store buffers for 2 months without loss of activity or generation of reactive adducts.\r\n\n\n\r\n\n\nCell Lysis and Proteome Extraction:",
+    {
+        "title": "1.",
+        "body": "Wash harvested cells three times with 1 mL with cold phosphate–buffered saline solution by centrifuging at 1500 g for 5 minutes."
+    },
+    {
+        "title": "2.",
+        "body": "Suspend 2 million cells in 150 µl of ice-cold lysis buffer, vortex, and transfer to Covaris tubes."
+    },
+    {
+        "title": "3.",
+        "body": "Lyse cells using the Covaris E220 adaptive focused acoustic sonicator using 13x65 mm tubes and operating in the frequency sweep mode at 500 Hz, 20% duty cycle, and intensity 8 for 600 seconds at 4 ºC."
+    },
+    {
+        "title": "4.",
+        "body": "Clarify the lysate by centrifuging at 16,000 g for 10 minutes at 4 ºC."
+    },
+    {
+        "title": "5.",
+        "body": "Carry out the native proteome assay \\(protein-protein interaction, enzymatic activity, drug binding) as needed. \r\n  \r\n\n\nDetergent removal using chloroform methanol precipitation of proteins:"
+    },
+    {
+        "title": "1.",
+        "body": "Measure protein concentration using bicinchoninic acid assay kit."
+    },
+    {
+        "title": "2.",
+        "body": "Use about 20 μg of protein for the in-solution digest."
+    },
+    {
+        "title": "3.",
+        "body": "Adjust the protein volume to 100 µl."
+    },
+    {
+        "title": "4.",
+        "body": "Add 400 µl of methanol, 300 µl volumes of water and 100 µl of chloroform to the protein solution and vortex for 1 minute."
+    },
+    {
+        "title": "5.",
+        "body": "Centrifuge sample at 14,000 g for 1 minute."
+    },
+    {
+        "title": "6.",
+        "body": "Aspirate the aqueous phase above the interface layer. The protein precipitate should appear at the interface."
+    },
+    {
+        "title": "7.",
+        "body": "Add 200 µl methanol, vortex for 1 minute and centrifuge at 16000 g for 5 minutes."
+    },
+    {
+        "title": "8.",
+        "body": "Remove the supernatant and dry the pellets using vacuum centrifuge."
+    },
+    {
+        "title": "9.",
+        "body": "Resuspend the protein pellet in 150 µl of 0.1% \\(w/v) RapiGest in 50 mM ammonium bicarbonate, pH 8.5 by shaking at 37 ºC for 30 minutes.\r\n  \r\n\n\nReduction and alkylation of proteins:"
+    },
+    {
+        "title": "10.",
+        "body": "Reduce disulfide bonds by adding DTT to a final concentration of 10 mM and incubating at 56 ºC for 45 minutes."
+    },
+    {
+        "title": "11.",
+        "body": "Cool to room temperature, add iodoacetamide to a final concentration of 15 mM to alkylate cysteine residues, vortex and incubate sample in the dark for 20 minutes at room temperature."
+    },
+    {
+        "title": "12.",
+        "body": "Quench residual iodoacetamide by adding DTT to a final concentration of 20 mM and incubating at room temperature for 15 minutes.\r\n  \r\n\n\n\r\n\n\nDigestion of proteins:"
+    },
+    {
+        "title": "13.",
+        "body": "Add endoproteinase Lys-C at an enzyme:substrate ratio of 1:50 and incubate at 37 °C for 6 hours."
+    },
+    {
+        "title": "14.",
+        "body": "Add trypsin at an enzyme:substrate ratio of 1:25 and incubate at 37 °C overnight."
+    },
+    {
+        "title": "15.",
+        "body": "Add hydrochloric acid to a final concentration of 200 mM to stop digestion and cleave RapiGest."
+    },
+    {
+        "title": "16.",
+        "body": "Incubate the sample at 37 ºC for 45 minutes."
+    },
+    {
+        "title": "17.",
+        "body": "Centrifuge the sample at 14,000 g for 20 minutes."
+    },
+    {
+        "title": "18.",
+        "body": "Transfer the supernatant to a fresh Eppendorf tube.\r\n  \r\n\n\nSolid phase extraction of peptides"
+    },
+    {
+        "title": "19.",
+        "body": "Equilibrate NEST MicroSpin C18 reverse phase column with 100 µl of methanol by centrifuging at 110 g for 1 minute."
+    },
+    {
+        "title": "20.",
+        "body": "Wash two times with 100 µl of 0.5% formic acid in water by centrifuging for 1 minute at 110 g."
+    },
+    {
+        "title": "21.",
+        "body": "Load tryptic peptides on the column and centrifuge at 220 g for 2 minutes."
+    },
+    {
+        "title": "22.",
+        "body": "Wash column three times with 100 µl of 0.5% formic acid in water by centrifuging for 2 minutes at 220 g."
+    },
+    {
+        "title": "23.",
+        "body": "Elute peptides from column with 80% acetonitrile, 0.5% formic acid by centrifuging at 110 g for 2 minutes."
+    },
+    {
+        "title": "24.",
+        "body": "Lyophilize or concentrate the sample by vacuum centrifugation, and analyze by LC-MS."
+    }
+]

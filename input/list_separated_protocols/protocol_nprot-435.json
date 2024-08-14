@@ -1,0 +1,338 @@
+[
+    {
+        "title": "**Sample preparation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Remove amygdala or brain region of interest."
+            },
+            {
+                "title": "2.",
+                "body": "Homogenise in 200 µl amonium bicarbonate pH 8, 0.1 % SDS, protease inhibitors, by 10 up and down strokes of a 27G syringe."
+            },
+            {
+                "title": "3.",
+                "body": "Sonicate for 2 min."
+            },
+            {
+                "title": "4.",
+                "body": "Centrifuge at 13,000 rpm to pellet insoluble material."
+            },
+            {
+                "title": "5.",
+                "body": "Determine protein concentration using Bradford Regent."
+            },
+            {
+                "title": "6.",
+                "body": "Aliquot 100 µg of each sample."
+            }
+        ]
+    },
+    {
+        "title": "**iTRAQ labeling and digestion**",
+        "body": [
+            "_Clean up a sample by acetone precipitation_",
+            {
+                "title": "1.",
+                "body": "Chill acetone to -20 °C and the sample tube containing the sample to 4 °C."
+            },
+            {
+                "title": "2.",
+                "body": "Add six volumes of cold acetone to the cold sample tube."
+            },
+            {
+                "title": "3.",
+                "body": "Invert the tube three times."
+            },
+            {
+                "title": "4.",
+                "body": "Incubate the tube at –20 °C until precipitate forms \\(~1 hr)."
+            },
+            {
+                "title": "5.",
+                "body": "Decant the acetone. Air dry.\r\n   \r\n\n\n_Reduction and cysteine blocking_"
+            },
+            {
+                "title": "1.",
+                "body": "To each sample tube containing 100 μg of acetone precipitated protein add 20 µl Dissolution Buffer."
+            },
+            {
+                "title": "2.",
+                "body": "Add 1 µl of the Denaturant in the kit and vortex to mix."
+            },
+            {
+                "title": "3.",
+                "body": "To each sample tube, add 2 µl Reducing Reagent."
+            },
+            {
+                "title": "4.",
+                "body": "Vortex to mix, then spin."
+            },
+            {
+                "title": "5.",
+                "body": "Resuspend pellet by vortexing and sonication"
+            },
+            {
+                "title": "6.",
+                "body": "Incubate the tubes at 60 °C for 1 hr."
+            },
+            {
+                "title": "7.",
+                "body": "Spin to bring the sample to the bottom of the tube."
+            },
+            {
+                "title": "8.",
+                "body": "To each tube, add 1 µl Cysteine Blocking Reagent."
+            },
+            {
+                "title": "9.",
+                "body": "Vortex to mix, then spin."
+            },
+            {
+                "title": "10.",
+                "body": "Incubate the tubes at room temperature for 10 min.\r\n   \r\n\n\n_Trypsin digestion of sample_"
+            },
+            {
+                "title": "1.",
+                "body": "Reconstitute 40 µg of trypsin with 20 µl dissolution buffer."
+            },
+            {
+                "title": "2.",
+                "body": "Vortex to mix, then spin."
+            },
+            {
+                "title": "3.",
+                "body": "To each sample tube, add 10 µl \\(8 µg) of the trypsin solution \\(1:13 enzyme:substrate)."
+            },
+            {
+                "title": "4.",
+                "body": "Vortex to mix, then spin."
+            },
+            {
+                "title": "5.",
+                "body": "Incubate the tubes at 37 °C overnight \\(12 to 16 hr)."
+            },
+            {
+                "title": "6.",
+                "body": "Spin to bring the sample digest to the bottom of the tube."
+            }
+        ]
+    },
+    {
+        "title": "**NB:**",
+        "body": [
+            "The volume of the sample digest must be less than 50 µl. If the volume of the sample digest is greater than 50 µl, lyophilise and then reconstitute with 30 µl Dissolution Buffer.\r\n\n\n\r\n\n\n_Labelling the Protein Digests with the iTRAQ Reagents_",
+            {
+                "title": "1.",
+                "body": "Allow each vial of iTRAQ Reagent required to reach room temperature."
+            },
+            {
+                "title": "2.",
+                "body": "Spin to bring the solution to the bottom of the tube."
+            },
+            {
+                "title": "3.",
+                "body": "Add 70µl of ethanol to each room-temperature iTRAQ Reagent vial."
+            },
+            {
+                "title": "4.",
+                "body": "Vortex each vial to mix, then spin."
+            },
+            {
+                "title": "5.",
+                "body": "Transfer the contents of one iTRAQ Reagent vial to one sample tube."
+            },
+            {
+                "title": "6.",
+                "body": "Vortex each tube to mix, then spin."
+            },
+            {
+                "title": "7.",
+                "body": "Incubate the tubes at room temperature for 1 hr."
+            },
+            {
+                "title": "8.",
+                "body": "Spin at 13,200 rpm at RT for 15 min."
+            },
+            {
+                "title": "9.",
+                "body": "Combine all supernatants."
+            },
+            {
+                "title": "10.",
+                "body": "Lyophilise to remove ethanol in speedvac but not to dryness."
+            }
+        ]
+    },
+    {
+        "title": "**Strong Cationic Exchange \\(SCX) HPLC**",
+        "body": [
+            "_Sample Preparation_",
+            {
+                "title": "1.",
+                "body": "Add 200 µl of SCX Solvent A."
+            },
+            {
+                "title": "2.",
+                "body": "Adjust pH to 3 with acetic acid and add ACN to give final ACN concentration of 25%."
+            },
+            {
+                "title": "3.",
+                "body": "Spin at 13,200 rpm at RT for 15min."
+            },
+            {
+                "title": "4.",
+                "body": "Put the supernatant into injection vial.\r\n   \r\n\n\n_HPLC setup and conditioning of SCX 2.1 mm Poly-S column_"
+            },
+            {
+                "title": "1.",
+                "body": "Set flow rate to 300 µl/min."
+            },
+            {
+                "title": "2.",
+                "body": "Run 100 % methanol for 30 min."
+            },
+            {
+                "title": "3.",
+                "body": "Run 100 % H<sub>2</sub>O for 20 min."
+            },
+            {
+                "title": "4.",
+                "body": "Run 100 % conditioning buffer for 60 min."
+            },
+            {
+                "title": "5.",
+                "body": "Run 100 % H<sub>2</sub>O for 15 min."
+            },
+            {
+                "title": "6.",
+                "body": "Run 100% buffer B for 15 min."
+            },
+            {
+                "title": "7.",
+                "body": "Equilibrate by running 100 % buffer A overnight at 50 µl/min or until UV chromatogram is stable.\r\n  \r\n\n\n_SCX fractionation_"
+            },
+            {
+                "title": "1.",
+                "body": "Run standard peptides to check column integrity and elution times."
+            },
+            {
+                "title": "2.",
+                "body": "Load and inject sample."
+            },
+            {
+                "title": "3.",
+                "body": "Fractionate and elute peptides according to"
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2**",
+        "body": "."
+    },
+    {
+        "title": "**Processing of SCX fractions**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Lyophilise all fractions to remove ACN."
+            },
+            {
+                "title": "2.",
+                "body": "Pool samples based on the SCX elution chromatogram into ~4-6 fractions."
+            },
+            {
+                "title": "3.",
+                "body": "Add 0.1% TFA and check pH is ~3."
+            },
+            {
+                "title": "3.",
+                "body": "Clean-up samples using sep-pak columns with binding capacity of ~100 µg."
+            },
+            {
+                "title": "4.",
+                "body": "Wet the cartridge with 1 ml 100 % MeOH."
+            },
+            {
+                "title": "5.",
+                "body": "Wet the cartridge with 1 ml 80 % ACN, 0.1% TFA."
+            },
+            {
+                "title": "6.",
+                "body": "Equilibrate with 2 x 1 ml 0.1% TFA."
+            },
+            {
+                "title": "7.",
+                "body": "Load the sample."
+            },
+            {
+                "title": "8.",
+                "body": "Wash with 2 x 1 ml 0.1 % TFA."
+            },
+            {
+                "title": "9.",
+                "body": "Repeat steps 7 and 8 once with the flowthrough."
+            },
+            {
+                "title": "10.",
+                "body": "Elute with 500 µl 80 % ACN, 0.1 % TFA."
+            },
+            {
+                "title": "11.",
+                "body": "Speedvac dry."
+            }
+        ]
+    },
+    {
+        "title": "**Probot spotting of samples on MALDI plates**",
+        "body": [
+            "_Prepare your Sample_",
+            {
+                "title": "1.",
+                "body": "Dissolve sample in Buffer A and transfer to injection vial\r\n  \r\n\n\n_HPLC setup and preparation of of RP 75 µm x 150 mm separation column_"
+            },
+            {
+                "title": "1.",
+                "body": "Set flow rate to 0.3 µl/min."
+            },
+            {
+                "title": "2.",
+                "body": "Run 100 % buffer A for 30 min."
+            },
+            {
+                "title": "3.",
+                "body": "Run a cytochrome c standard to check column integrity.\r\n  \r\n\n\n\r\n\n\n_RP-HPLC fractionation and sample spotting_"
+            },
+            {
+                "title": "1.",
+                "body": "Prepare fresh MALDI matrix solution."
+            },
+            {
+                "title": "2.",
+                "body": "Fractionate and elute peptides according to"
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2**",
+        "body": [
+            ".",
+            {
+                "title": "3.",
+                "body": "Initiate spotting at ~35 min when first peptide peaks elute."
+            },
+            {
+                "title": "3.",
+                "body": "Mix column effluent directly with MALDI matrix solution."
+            },
+            {
+                "title": "4.",
+                "body": "Automatically deposit fractions every 10 s onto the MALDI target plate using a Probot micro-fraction collector. For each HPLC run, a total of 416 spots can be spotted."
+            }
+        ]
+    },
+    {
+        "title": "**ABI 4800 MALDI MS/MS analysis and database searching**",
+        "body": "Analyse MALDI plates on ABI 4800 MS/MS. Use ProteinPilot software for peptide identifications, and for the analysis of iTRAQ reporter ions for quantitation."
+    }
+]

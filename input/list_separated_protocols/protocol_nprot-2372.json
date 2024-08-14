@@ -1,0 +1,193 @@
+[
+    {
+        "title": "**Image processing for probabilistic mapping**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare the target stack image. Here, we prepare the 16-bit TIFF stack images \\(bright field and fluorescence images) that are freely available in the \"LIPS database\":http://hasezawa.ib.k.u-tokyo.ac.jp/lips/ \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1**",
+        "body": [
+            ").",
+            {
+                "title": "2.",
+                "body": "Run the ImageJ software \"http://rsbweb.nih.gov/ij/\":http://rsbweb.nih.gov/ij/."
+            },
+            {
+                "title": "3.",
+                "body": "Open the target image using the ImageJ menu “File-Open”. \"http://rsbweb.nih.gov/ij/docs/guide/userguide-23.html#toc-Subsection-23.2\":http://rsbweb.nih.gov/ij/docs/guide/userguide-23.html#toc-Subsection-23.2."
+            },
+            {
+                "title": "4.",
+                "body": "Draw the major stomatal pore line on the bright field image using the ImageJ tool bar “Straight Line Selection Tool” \"http://rsbweb.nih.gov/ij/docs/guide/userguide-18.html#toc-Subsection-18.2\":http://rsbweb.nih.gov/ij/docs/guide/userguide-18.html#toc-Subsection-18.2 \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2a**",
+        "body": [
+            ").",
+            {
+                "title": "5.",
+                "body": "Copy the segmented straight line from the bright field image to the fluorescence images using the ImageJ menu “Edit-Selection-Restore Selection” \"http://rsbweb.nih.gov/ij/docs/guide/userguide-24.html#toc-Subsection-24.12\":http://rsbweb.nih.gov/ij/docs/guide/userguide-24.html#toc-Subsection-24.12 \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2b**",
+        "body": [
+            ").",
+            {
+                "title": "6.",
+                "body": "Rotate the fluorescence image using the ImageJ menu “Plugins-kbi-Kbi_registration \\(mode: horizoner)” \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2c**",
+        "body": [
+            ").",
+            {
+                "title": "7.",
+                "body": "Get the maximum intensity projection image using the ImageJ menu “Image-Stacks-Z project…” \"http://rsbweb.nih.gov/ij/docs/guide/userguide-25.html#toc-Subsection-25.6\":http://rsbweb.nih.gov/ij/docs/guide/userguide-25.html#toc-Subsection-25.6 \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2d**",
+        "body": [
+            ").",
+            {
+                "title": "8.",
+                "body": "Put a bounding box around the cell using the ImageJ tool bar menu “Rectangular Selection Tool” \"http://rsbweb.nih.gov/ij/docs/guide/userguide-18.html#toc-Subsection-18.1\":http://rsbweb.nih.gov/ij/docs/guide/userguide-18.html#toc-Subsection-18.1 \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2e**",
+        "body": [
+            ").",
+            {
+                "title": "9.",
+                "body": "Crop the boxed cell region using the ImageJ menu “Image-Crop” \"http://rsbweb.nih.gov/ij/docs/guide/userguide-25.html#toc-Subsection-25.8\":http://rsbweb.nih.gov/ij/docs/guide/userguide-25.html#toc-Subsection-25.8 \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2f**",
+        "body": [
+            ").",
+            {
+                "title": "10.",
+                "body": "If the is pore located in the upper half of the cropped image, rotate the image 180 degrees using the ImageJ menu “Image-Transform-Rotate…” \"http://rsbweb.nih.gov/ij/docs/guide/userguide-25.html#toc-Subsection-25.12\":http://rsbweb.nih.gov/ij/docs/guide/userguide-25.html#toc-Subsection-25.12."
+            },
+            {
+                "title": "11.",
+                "body": "Resize the images to the same size using the ImageJ menu “Image-Adjust-Size…” \"http://rsbweb.nih.gov/ij/docs/guide/userguide-25.html#toc-Subsection-25.2\":http://rsbweb.nih.gov/ij/docs/guide/userguide-25.html#toc-Subsection-25.2. Here, we resized all images to 304×119 pixels, which was the mean size of the guard-cell bounding boxes."
+            },
+            {
+                "title": "12.",
+                "body": "Make a stack image of the grouped images using the ImageJ menu “Plugins-kbi-Kbi_StkJoin \\(mode: all axis: z)”. \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2g**",
+        "body": [
+            ").",
+            {
+                "title": "13.",
+                "body": "Run the macro hig_Pdmapping.ijm \"http://hasezawa.ib.k.u-tokyo.ac.jp/zp/Kbi/HigPDMClustering\":http://hasezawa.ib.k.u-tokyo.ac.jp/zp/Kbi/HigPDMClustering. You will see the probability map \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2h**",
+        "body": [
+            ").",
+            {
+                "title": "14.",
+                "body": "Save the probability map image using the ImageJ menu “File-Save”."
+            }
+        ]
+    },
+    {
+        "title": "**Measurement of raster-scanned intensity profiles**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Run the ‘ImageJ’ software."
+            },
+            {
+                "title": "2.",
+                "body": "Open the stack image of the probability maps using the ImageJ menu “File-Open”."
+            },
+            {
+                "title": "3.",
+                "body": "To reduce the data size, shrink the image size using the ImageJ menu “Image-Adjust-Size…”. Here, we reduced the size to 70×27 pixels."
+            },
+            {
+                "title": "4.",
+                "body": "Run the macro hig_Lineprofile.ijm \"http://hasezawa.ib.k.u-tokyo.ac.jp/zp/Kbi/HigPDMClustering\":http://hasezawa.ib.k.u-tokyo.ac.jp/zp/Kbi/HigPDMClustering."
+            },
+            {
+                "title": "5.",
+                "body": "You will see the Results table of the raster-scanned intensity profiles \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 3**",
+        "body": [
+            ").",
+            {
+                "title": "6.",
+                "body": "Uncheck the checkbox ‘Save column headers’ and ‘Save row numbers’ using the Results table menu “Results-Options…”."
+            },
+            {
+                "title": "7.",
+                "body": "Save the raster-scanned intensity profiles as a csv file using the Results table menu “File-Save As…”."
+            }
+        ]
+    },
+    {
+        "title": "**SOM clustering with ImageJ**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Run the ‘ImageJ’ software."
+            },
+            {
+                "title": "2.",
+                "body": "Open the stack image of the probability maps using the ImageJ menu “File-Open”."
+            },
+            {
+                "title": "3.",
+                "body": "Run the plug-in using the ImageJ menu “Plugins-kbi-Kbi_Clustering” and select ‘som’ in the modeClustering drop-down list."
+            },
+            {
+                "title": "4.",
+                "body": "Select ‘sampleZ_featureCsv_patchImg’ in the somMode drop-down list."
+            },
+            {
+                "title": "5.",
+                "body": "Load the csv file of the raster-scanned intensity profiles."
+            },
+            {
+                "title": "6.",
+                "body": "You will see the SOM image \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 4**",
+        "body": "). In the case that multiple images were allocated in same node in SOM, the images will be allocated in next slice of the stack image \\(SOM output) \\("
+    },
+    {
+        "title": "**Figure 4**",
+        "body": ")."
+    }
+]

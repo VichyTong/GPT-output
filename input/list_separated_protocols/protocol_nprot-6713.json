@@ -1,0 +1,275 @@
+[
+    {
+        "title": "**Thermocycler Setup**",
+        "body": "      70°C    2 minutes\r\n\n\n      28°C    1 hour\r\n\n\n      30°C  45 minutes\r\n\n\n      37°C  45 minutes\r\n\n\n      70°C    2 minutes\r\n\n\n      28°C    1 hour\r\n\n\n      70°C    2 minutes\r\n\n\n      50°C    1 hour\r\n\n\n      98°C  30 seconds\r\n\n\n     -------------------\r\n\n\n      98°C  10 seconds\r\n\n\n      60°C  30 seconds    20X\r\n\n\n      72°C  15 seconds\r\n\n\n     -------------------\r\n\n\n      72°C  10 minutes\r\n\n\n        4°C   Hold"
+    },
+    {
+        "title": "**Prepare Adapter Stocks**",
+        "body": "3’ adapter: dilute to 4 µM in water\r\n\n\n5’ adapter: dilute to 10 µM in water"
+    },
+    {
+        "title": "**Prepare PEG Pellets**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Dilute 50% PEG to 15% PEG by adding water."
+            },
+            {
+                "title": "2.",
+                "body": "Aliquot 10 µL of 15% PEG to PCR Tube."
+            },
+            {
+                "title": "3.",
+                "body": "Dry PEG until it is a pellet."
+            },
+            {
+                "title": "4.",
+                "body": "Store in dark conditions."
+            }
+        ]
+    },
+    {
+        "title": "**3’ Ligation: Set Up on Ice.**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Add 1 µL of 4 µM 3’-4N adapter to each tube."
+            },
+            {
+                "title": "2.",
+                "body": "Add 5 µL of each RNA sample."
+            },
+            {
+                "title": "3.",
+                "body": "Gently mix, vortex, and centrifuge."
+            },
+            {
+                "title": "4.",
+                "body": "Incubate at 70°C for 2 minutes."
+            },
+            {
+                "title": "5.",
+                "body": "Immediately place on ice for 2 minutes."
+            },
+            {
+                "title": "6.",
+                "body": "Mix, vortex, and centrifuge."
+            },
+            {
+                "title": "7.",
+                "body": "Preheat thermocycler to 28°C.\r\n  8."
+            }
+        ]
+    },
+    {
+        "title": "**Prepare Ligation Master Mix:**",
+        "body": [
+            " \r\n\n\n<u>Reagent                                           Volume \\(µL) </u>\r\n\n\nLigation Buffer \\(HML)<sup>2</sup>                          2\r\n\n\nRNase Inhibitor                                     1\r\n\n\n<u>T4 RNA Ligase 2, Deletion Mutant       1              </u>\r\n\n\nTotal Volume per Sample                      4",
+            {
+                "title": "9.",
+                "body": "Add 4 µL of Ligation Master Mix to each tube."
+            },
+            {
+                "title": "10.",
+                "body": "Gently mix, Vortex, and Centrifuge."
+            },
+            {
+                "title": "11.",
+                "body": "Incubate at 28°C for 1 hour."
+            }
+        ]
+    },
+    {
+        "title": "**Adapter Depletion**",
+        "body": [
+            {
+                "title": "12.",
+                "body": "Add 1 µg of _E. coli_ SSBP to each tube \\(1 µg/µL – will need to make dilution from stock.)"
+            },
+            {
+                "title": "13.",
+                "body": "Incubate on ice for 10 minutes."
+            },
+            {
+                "title": "14.",
+                "body": "Add 1 µL of 5’ deadenylase."
+            },
+            {
+                "title": "15.",
+                "body": "Incubate at 30°C for 45 minutes."
+            },
+            {
+                "title": "16.",
+                "body": "Add 1 µL of RecJf."
+            },
+            {
+                "title": "17.",
+                "body": "Incubate at 37°C for 45 minutes."
+            }
+        ]
+    },
+    {
+        "title": "**5’ Ligation**",
+        "body": [
+            {
+                "title": "18.",
+                "body": "Preheat thermocycler to 70°C."
+            },
+            {
+                "title": "19.",
+                "body": "Prepare a master mix by adding 1.1 x N \\(N = number of samples) 10 µM 5’-4N adapter to separate PCR tube."
+            },
+            {
+                "title": "20.",
+                "body": "Incubate at 70°C for 2 minutes."
+            },
+            {
+                "title": "21.",
+                "body": "Place on ice for 2 minutes."
+            },
+            {
+                "title": "22.",
+                "body": "Preheat thermocycler to 28°C."
+            },
+            {
+                "title": "23.",
+                "body": "Add 1.1 x N \\(N = number of samples) 10 mM ATP to the RNA 5’ Adapter PCR Tube."
+            },
+            {
+                "title": "24.",
+                "body": "Add 1.1 x N \\(N = number of samples) T4 RNA Ligase to the RNA 5’ and ATP PCR Tube."
+            },
+            {
+                "title": "25.",
+                "body": "Gently mix, Vortex, and Centrifuge."
+            },
+            {
+                "title": "26.",
+                "body": "Add 3 µL of the master mix to each sample \\(reaction from step 17)."
+            },
+            {
+                "title": "27.",
+                "body": "Incubate at 28°C for 1 hour."
+            },
+            {
+                "title": "28.",
+                "body": "Place on ice for 2 minutes."
+            }
+        ]
+    },
+    {
+        "title": "**Reverse Transcription and Amplification**",
+        "body": [
+            {
+                "title": "29.",
+                "body": "Mix, Vortex, and Centrifuge."
+            },
+            {
+                "title": "30.",
+                "body": "Concentrate samples down from 14 µL to 6 µL."
+            },
+            {
+                "title": "31.",
+                "body": "Add 1 µL of RNA RT Primer to each tube."
+            },
+            {
+                "title": "32.",
+                "body": "Gently mix and centrifuge briefly."
+            },
+            {
+                "title": "33.",
+                "body": "Incubate at 70°C for 2 minutes."
+            },
+            {
+                "title": "34.",
+                "body": "Place on ice for 2 minutes."
+            },
+            {
+                "title": "35.",
+                "body": "Preheat thermocycler to 50°C.\r\n  36."
+            }
+        ]
+    },
+    {
+        "title": "**Prepare RT Master Mix:**",
+        "body": [
+            " \r\n\n\n<u>Reagent                                        Volume \\(µL) </u>\r\n\n\n5X First Strand Buffer                       2\r\n\n\n12.5 mM dNTP Mix<sup>3</sup>                         0.5\r\n\n\n100mM DTT                                     1\r\n\n\nRNAse Inhibitor                                1\r\n\n\n<u>SuperScript II RT                              1              </u>\r\n\n\nTotal Volume per Sample                  5.5",
+            {
+                "title": "37.",
+                "body": "Add 5.5 µL of RT Master Mix to each sample. \\(Total volume is 12.5 µL.)"
+            },
+            {
+                "title": "38.",
+                "body": "Gently mix, Vortex, and Centrifuge."
+            },
+            {
+                "title": "39.",
+                "body": "Incubate at 50°C for 1 hour.\r\n  40."
+            }
+        ]
+    },
+    {
+        "title": "**Prepare PCR Master Mix:**",
+        "body": [
+            " \r\n\n\n<u>Reagent                                   Volume \\(µL) </u>\r\n\n\nUltra Pure Water                           8.5\r\n\n\nPCR Mix                                      25\r\n\n\n<u>RNA PCR Primer                          2             </u>\r\n\n\nTotal Volume per Sample            35.5",
+            {
+                "title": "41.",
+                "body": "Add 35.5 µL of PCR Master Mix to each tube."
+            },
+            {
+                "title": "42.",
+                "body": "Add 2 µL of unique PCR Primer Index to each tube. \\(Total volume is 50 µL.)"
+            },
+            {
+                "title": "43.",
+                "body": "Gently mix and centrifuge."
+            },
+            {
+                "title": "44.",
+                "body": "PCR Program:\r\n   \r\n\n\n      98°C  30 sec.    1X\r\n\n\n     -------------------\r\n\n\n      98°C  10 sec.\r\n\n\n      60°C  30 sec.    20X \r\n\n\n      72°C  15 sec.\r\n\n\n     -------------------\r\n\n\n      72°C  10 min.    1X\r\n\n\n        4°C                Hold"
+            }
+        ]
+    },
+    {
+        "title": "**Quality Control**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Bioanalyzer High Sensitivity DNA Chip \\(Library peak should be 152bp.)"
+            }
+        ]
+    },
+    {
+        "title": "**Size Selection – Pippin Prep:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Can either pool libraries or run libraries independently."
+            },
+            {
+                "title": "2.",
+                "body": "Purify libraries with QIAquick PCR Purification kit \\(5 µg). Elute in 10 µL water."
+            },
+            {
+                "title": "3.",
+                "body": "Nanodrop purification – Add no more than 5 µg of PCR product, minimum in low nanograms."
+            },
+            {
+                "title": "4.",
+                "body": "For each lane, bring total volume of library\\(s) + TE buffer to 30µL."
+            },
+            {
+                "title": "5.",
+                "body": "Add 10 µL of supplied loading buffer \\(at RT)."
+            },
+            {
+                "title": "6.",
+                "body": "Size select for 152 bp. Device-to-device variation likely. Make sure to save some PCR product for optimizing. Our program is set at 117-146 Range."
+            },
+            {
+                "title": "7.",
+                "body": "Bioanalyzer HS DNA Chip \\(Peak at 152bp ONLY – may see some adapter-dimer and ~160bp peaks.)"
+            }
+        ]
+    }
+]

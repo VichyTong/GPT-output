@@ -1,0 +1,208 @@
+[
+    {
+        "title": "**Maintenance of bacterial cultures and plasmid isolation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transform DH5α competent cells with appropriate plasmid containing gene of interest."
+            },
+            {
+                "title": "2.",
+                "body": "Inoculate a colony of transformed bacteria in LB broth and add appropriate antibiotic \\(for eg. Ampicillin, Kanamycin etc.); culture at 37°C with shaking at 220 rpm for 12-14 h."
+            }
+        ]
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": [
+            "At this point, a small fraction can be used to make bacterial stocks in 15% glycerol \\(from autoclaved 80% glycerol stock), snap-frozen in liquid nitrogen and stored at -70°C for future use as inoculums. Rest of the culture is used for plasmid isolation.",
+            {
+                "title": "3.",
+                "body": "Isolate plasmid from 3ml or 100ml cultures using QIAGEN Purification kits \\(Mini or Maxi) following the instructions provided by the manufacturer."
+            }
+        ]
+    },
+    {
+        "title": "**Agarose gel electrophoresis and extraction of DNA from the gel**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Check purity of plasmid on 1% TAE gels at 100-120V using submarine gel electrophoresis system<sup>4</sup>."
+            },
+            {
+                "title": "2.",
+                "body": "Cut plasmid DNA with suitable restriction enzyme\\(s) for linearization and resolve the fragments of DNA on a 1% TAE agarose gel.  Run molecular weight marker in one of the lanes."
+            },
+            {
+                "title": "3.",
+                "body": "Referring to the lane of molecular weight marker, excise a portion of gel containing DNA fragment of desired size using a clean sterile scalpel. Elute DNA in about 30µl of distilled water using QIAquick gel extraction kit \\(QIAGEN, Germany) following the manufacturer’s instructions."
+            },
+            {
+                "title": "4.",
+                "body": "Quantify yield of DNA in eluted fraction by measuring the absorbance at 260nm."
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of glass micropipette**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Micro injection pipettes are pulled by the P-97 micropipette puller from Sutter Instrument Co. Place the borosilicate glass capillary in the heating chamber with the middle part surrounded by a platinum heating element.  The instrument electrically heats up the glass capillary with a heating element and a horizontal linear force pulls the heated glass apart to produce two needles."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            "Pulling force, pulling speed, glass temperature and gas blowing timing are the critical parameters for needle shape and tip diameter.",
+            {
+                "title": "2.",
+                "body": "For the present protocol, make pipettes having the tip diameter of about 40-60 µm.\r\n  Fires polish the tip."
+            }
+        ]
+    },
+    {
+        "title": "**_In vivo_ electroporation of the desired gene in the testis**",
+        "body": []
+    },
+    {
+        "title": "**CAUTIONS**",
+        "body": [
+            "All animal studies should be performed with relevant institutional guidelines, permissions and regulations. Handle animals with institutionally approved ethical procedures and avoid stress to the animals.  All steps described below should be performed under sterile laminar flow hood.",
+            {
+                "title": "1.",
+                "body": "Give anesthesia intra-peritoneally to the male mice \\(100µl/20g of body weight)."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            "Care should be taken to prevent the overdose of anesthesia. The death of animal may occur due to improper dosage of anesthesia but it never occurs due to electroporation procedure.",
+            {
+                "title": "2.",
+                "body": "Remove hair from lower abdominal area. Clean the area with Savlon and betadiene. Give a cutaneous cut ventrally in lower abdominal area under aseptic conditions using sterile surgical instruments. A central cut in lower abdomen is preferred surgical approach to get adequate access to both testes with a single cut."
+            },
+            {
+                "title": "3.",
+                "body": "After traversing abdominal muscles with a minor cut, pull the fat pad associated  with the testis from the lower side of the abdominal cavity with the help of curved forceps. Place both exteriorized testes on a sterile autoclaved paper \\(Fig.1a)."
+            },
+            {
+                "title": "4.",
+                "body": "Use a 30 gauge needle to puncture outer covering of the testicular tissue by a prick to facilitate the insertion of fire polished glass micropipette. Deliver solution of DNA containing Trypan blue dye \\(0.04%) in the inter-tubular spaces of testis through a glass micropipette \\(Fig.1 b). Trypan blue is added for monitoring the accuracy of the delivery in the testis. Inject from 3 different sites to ensure maximum distribution of DNA solution in the testis \\(Fig.1b-c)."
+            },
+            {
+                "title": "5.",
+                "body": "Inject about 10-15µg of DNA in a testis."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            "After each injection, wait for 30 seconds before pulling out the pipette to prevent the back flow of the DNA solution. The total volume of DNA solution injected in a testis should not be more than 35µl.",
+            {
+                "title": "6.",
+                "body": "After in vivo DNA injection, hold the testis with a sterile tweezer-type electrode attached to an electroporator and deliver mild electric pulses to the testis \\(Figure 1d-e). For optimal result, inject 20-35µl of linearized DNA \\(0.5µg/µl) into the testis of 30+2 days old FVB male mice, followed by electroporation using 8 square 40V electric pulses in alternating direction \\(changing pole of the electrode after 4 pulses) with a time constant of 0.05 second and an inter-pulse interval of about 1 second. See"
+            }
+        ]
+    },
+    {
+        "title": "**table1**",
+        "body": "for the various conditions of electroporation used for the standardization of this procedure."
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "Such variations may be tried for the determination of ideal electroporation conditions for any other species or age group of animals.",
+            {
+                "title": "7.",
+                "body": "Place the electroporated testis in its original place. Surgically remove the contra-lateral testis by hemicastration. Give appropriate sutures to close the internal and external wound."
+            }
+        ]
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "During hemicastration, do not remove fat or any other tissue along with the testis."
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            "Tie the blood vessels with sterile nylon thread before hemicastration to prevent bleeding. Avoid negotiating any major nerve otherwise the animal may suffer from impotency. Try to be careful when you handle the testis, do not crush it. Keep the tissue always wet with sterile normal saline as a means to preserve it during the procedure and to prevent it from dehydration as a result of electroporation.",
+            {
+                "title": "8.",
+                "body": "Apply Neosporin \\(Neomycin and Polymyxin B sulphates and Bacitracin zinc powder; Glaxo Smith Kline, India) at the site of sutures and keep the mice under candescent lamp for about 1h to provide warm temperature for easy revival of the animal from anesthesia."
+            }
+        ]
+    },
+    {
+        "title": "**Establishment of transgenic lines**",
+        "body": []
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "In mice, it takes about 30 days to complete a cycle of spermatogenesis during which period a spermatogonia differentiates into sperm. Hence, transgenic sperm produced after 30 days of electroporation presumably originates from the spermatogonial cells in which permanent integration of the transgene occurs at the time of electroporation.",
+            {
+                "title": "1.",
+                "body": "After 30 days of electroporation, cohabitate electroporated animals \\(fore-founders) for mating with 2 months old wild type \\(WT) females.  Pups are born usually within 22-30 days of cohabitation."
+            },
+            {
+                "title": "2.",
+                "body": "Take tail biopsies \\(2-3mm) from 3 weeks old pups and incubate them at 55<sup>o</sup>C for 16h in high salt digestion buffer \\(50mM Tris HCl, 1% SDS, 100mM NaCl, 100mM EDTA and 1200µg/ml Proteinase K) for lysis."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": "Prepare 20 mg of proteinase K in 1 ml of nuclease-free water and use it as a stock."
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            "Aliquot proteinase K in volumes of 200 µl and store at -20 °C. Any freeze–thaw cycles may alter proteinase K activity.",
+            {
+                "title": "3.",
+                "body": "Process the lysate for DNA isolation by phenol-chloroform extraction followed by ethanol precipitation."
+            }
+        ]
+    },
+    {
+        "title": "**CAUTION**",
+        "body": [
+            "Phenol and chloroform pose a health hazard. Wear gloves and protective eye-wear when using them.",
+            {
+                "title": "4.",
+                "body": "Quantify the DNA concentration of the extracted DNA by UV absorption at 260nm and check the purity by A260/280nm ratio using a UV spectrophotometer."
+            },
+            {
+                "title": "5.",
+                "body": "Dilute the isolated gDNA to a final concentration of 200ng/µl and use as stock solution for running PCR using transgene-specific primers."
+            }
+        ]
+    },
+    {
+        "title": "**Screening of transgenic pups using Polymerase Chain reaction \\(PCR)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare an optimal reaction mixture containing 1X Taq buffer, 0.2mM each dNTPs, 0.25µM of each reverse and forward transgene specific primer, 0.06U Taq DNA polymerase and 20ng of plasmid or 200ng of gDNA as template. Mix well and spin down briefly. Carry out the reaction in a Peltier Thermal Cycler PTC-200 with heated lid \\(MJ Research, Minnesota, USA)."
+            },
+            {
+                "title": "2.",
+                "body": "Set the PCR cycle conditions with respect to your primers. Analyze the PCR products on 1.5% - 2% TAE agarose gel."
+            }
+        ]
+    },
+    {
+        "title": "**CAUTION**",
+        "body": [
+            "With each set of the PCR, negative controls such as PCR with gDNA of wild type mice and a reaction without DNA \\(no template) should be included. Purified plasmid containing the respective transgene is used as a positive control.",
+            {
+                "title": "3.",
+                "body": "PCR positive pups from F1 generation are mated with WT females to generate next generation of progeny. Make homozygous line by inbreeding of transgenic littermates."
+            }
+        ]
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "index": 4,
+        "string": "on 12-well plates, using LIF-supplemented medium.</p><p><strong>Day 2</strong></p><p>Co-transfect 0.5 \u03bcg SaKKHCas9-GFP-sgRNA and 1 \u03bcg&nbsp;SpCas9&nbsp;sgRNA precursor using Lipofectamine 3000 (Life Technologies).</p><p>As previously described, Homology-Mediated End Joining (HMEJ) or homology recombination (HR) strategy (800 bp homology arm) was used to insert the sgRNA precursor, as previously described<sup>8</sup>.</p><p>Replace with 1 ml LIF-supplemented medium 12 hours after transfection.</p><p><strong>Day 4</strong></p><p>Digest mESCs with 0.05% trypsin and prepare for FACS, and sort positive cells, then seed GFP positive cells into 12-well plates.</p><p><strong>",
+        "phrase": "as previously described",
+        "refer": "The phrase \"As previously described\" refers to the method of using the Homology-Mediated End Joining (HMEJ) or homology recombination (HR) strategy with an 800 bp homology arm to insert the sgRNA precursor."
+    }
+]

@@ -1,0 +1,21 @@
+[
+    "- Wash crystal quartzes three times with ethanol,",
+    "- dry them with Argon,",
+    "- incubate them over night at 4\u00b0C with 2 mM cysteamine,",
+    "- wash quartzes again three times with ethanol to remove any unbound cysteamine,",
+    "- dry quartzes with Argon",
+    "- transform plasmids DNA coding for GST tagged proteins into Escherichia coli,",
+    "- purify DNA using the NucleoPrepII anion exchange resin \\(Macherey Nagel),",
+    "- prepare NAPPA printing mix with 1.4 \u03bcg/ul DNA, 3.75 \u03bcg/ul BSA \\(Sigma-Aldrich), 5 mM BS3 \\(Pierce, Rockford, IL, USA) and 66.5 \u03bcg polyclonal capture GST antibody \\(GE Healthcares),",
+    "- prepare negative controls, named master mix \\(hereinafter abbreviated as \u201cMM\u201d), replacing DNA for water in the printing mix,",
+    "- incubate samples at room temperature for 1 hour with agitation,",
+    "- print them on the cysteamine-coated gold quartz using the Qarray II from Genetix,",
+    "- perform in vitro transcription and translation \\(IVTT) using HeLa lysate mix \\(1-Step Human Coupled IVTT Kit, Thermo Fisher Scientific Inc.), according to the manufacturers\u2019 instructions,",
+    "- incubate the quartz, connected to the nanogravimeter inside the incubator, for 10 min at 30\u00b0C with 40 \u03bcl of HeLa lysate mix for proteins synthesis,",
+    "- acquire the conductance curve \\(\u201cIVTT addition curve\u201d, prior protein expression),",
+    "- decrease the temperature to 15\u00b0C for a period of 5-10 min to facilitate the proteins binding on the capture antibody \\(anti-GST),",
+    "- acquire the conductance curve \\(\u201cIVTT addition at 10 min\u201d, after protein expression),",
+    "- after the protein expression and capture, remove the quartzes from the instrument and wash at room temperature, in 500 mM NaCl PBS for 3 times,",
+    "- after protein expression, capture, wash the quartzes in PBS at increasing concentrations at 22\u00b0C,",
+    "- acquire the conductance curve \\(\u201cPost-wash curve\u201d, after the final washing process with PBS)."
+]

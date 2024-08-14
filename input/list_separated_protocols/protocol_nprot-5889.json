@@ -1,0 +1,633 @@
+[
+    {
+        "title": "**A. Purify high-molecular weight \\(HMW) genomic DNA \\(gDNA)**",
+        "body": [
+            "Time: ~6 hrs\r\n\n\nThe substrate for SITE-Seq is high molecular weight \\(HMW) genomic DNA \\(gDNA). To obtain this use the QIAGEN Blood & Cell Culture DNA Maxi Kit.  2 x 10^8 cells will generate ~1mg of HMW gDNA. 10µg is required for each SITE-Seq sample. The following protocol details the procedure, which is per the manufacturer’s instructions with minor modifications:",
+            {
+                "title": "1.",
+                "body": "Use a 1 x107 cells/mL suspension. The following protocol is based on a 10mL suspension. Add 10mL ice-cold C1 Buffer, 30mL ice-cold molecular biology-grade water. Mix by inverting the tube several times. Incubate on ice for 10 minutes."
+            },
+            {
+                "title": "2.",
+                "body": "Centrifuged lysed cells at 4°C for 15 min at 1,300 x g. Discard the supernatant."
+            },
+            {
+                "title": "3.",
+                "body": "Wash with 2mL of ice-cold C1, with 6mLof ice-cold water. Resuspend by vortexing."
+            },
+            {
+                "title": "4.",
+                "body": "Centrifuge again at 4°C for 15 min at 1,300 x g, discard the supernatant."
+            },
+            {
+                "title": "5.",
+                "body": "Resuspend in 10mL G2 by vortexing for 10-30s at maximum speed. Completely resuspension is critical for good flow rate in later steps."
+            },
+            {
+                "title": "6.",
+                "body": "Add 200µL of QIAGEN Protease and incubate at 50°C for 30-60 minutes.\r\n  a. A full 60-minute incubation is recommended if suspension was not homogenous after vortexing in step"
+            },
+            {
+                "title": "5.",
+                "body": []
+            },
+            {
+                "title": "7.",
+                "body": "Equilibrate a Qiagen Genomic-tip 500/G with 10mL of QBT, allow to empty by gravity flow."
+            },
+            {
+                "title": "8.",
+                "body": [
+                    "Vortex the digested suspension sample \\(from step",
+                    {
+                        "title": "6)",
+                        "body": "for 10s at maximum speed and apply it to the equilibrated Genomic-tip column, allow to empty by gravity flow.\r\n  a. If the column becomes clogged and gravity flow stops, positive pressure may be used, but do not allow the flow rate to exceed 20-40 drops/min."
+                    }
+                ]
+            },
+            {
+                "title": "9.",
+                "body": "Wash the Genomic-tip column twice with 15mL QC each."
+            },
+            {
+                "title": "10.",
+                "body": "Elute the genomic DNA with 15mL of Buffer QF.\r\n  a. Preheating the QF to 50°C will increase yields."
+            },
+            {
+                "title": "11.",
+                "body": "Precipitate the DNA by adding 10.5mL of room temperature isopropanol to the eluted DNA. Mix by inverting the tube 10-20 times, immediately centrifuge at >5,000 x g for 15 min at 4°C\r\n  a. After mixing, a white, string-like precipitate should be visible floating in the sample."
+            },
+            {
+                "title": "12.",
+                "body": "Remove the supernatant and wash with 4mL of cold 70% ethanol. Centrifuge again for 10 min at > 5,000 x g and remove supernatant."
+            },
+            {
+                "title": "13.",
+                "body": "Allow to air-dry for 5-10 minutes"
+            },
+            {
+                "title": "14.",
+                "body": "Resuspend in 0.5-1mL of a suitable buffer \\(TE or 10mM Tris-Cl is acceptable), dissolve the DNA on a shaker overnight or at 55°C for 1-2 hours. Do not vortex."
+            }
+        ]
+    },
+    {
+        "title": "**B. Quantification and Qualification of HMW gDNA with Gel Electrophoresis.**",
+        "body": [
+            "It is necessary to confirm that the genomic DNA is intact and HMW \\(i.e. >50kb). This step details that procedure.",
+            {
+                "title": "1.",
+                "body": "Ensure that the genomic DNA is fully thawed and well mixed before handling. HMW gDNA is very viscous and easily sheared. Mix by inverting or pipetting up and down with a 1mL tip."
+            },
+            {
+                "title": "2.",
+                "body": "Prepare a 1% agarose gel by adding 0.5g to 50mL of 1x TAE buffer per gel."
+            },
+            {
+                "title": "3.",
+                "body": "Heat sample until agarose is in solution, swirl. After agarose is fully dissolved, add 10,000x SYBR Safe gel stain and pour the gel. Allow ~30 minutes to cool."
+            },
+            {
+                "title": "4.",
+                "body": "Load 10µL DNA ladder and 0.5-1.5µg of HMWgDNA mixed with loading dye."
+            },
+            {
+                "title": "5.",
+                "body": "Run the gel at 85-100V for ~1-2 hrs. See"
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1**",
+        "body": "for a representative gel.\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5449/original/gel_pic_fig1.png?1491886345\">See figure in Figures section.</a>"
+    },
+    {
+        "title": "**C. Digest high-molecular weight gDNA with RNP Complex.**",
+        "body": [
+            "This step details the digestion of HMW gDNA with a Cas9 RNP complex. The RNP concentration can be varied from 0.25-1,024nM, with a guide RNA:Cas9 ratio of at least 3:1. This protocol assumes a single-guide RNA \\(sgRNA):",
+            {
+                "title": "1.",
+                "body": "Make up 5x Cas9 Cleavage buffer \\(CCB) according to the following:\r\n  100mM HEPES, pH 7.4\r\n\n\n750mM KCl\r\n\n\n50mM MgCl2\r\n\n\n25% glycerol"
+            },
+            {
+                "title": "2.",
+                "body": "Remove reagents from -20°C or -80°C, allow to thaw on ice."
+            },
+            {
+                "title": "3.",
+                "body": "Dilute sgRNAs to target concentration \\(10x final RNP concentration) in 15µL water."
+            },
+            {
+                "title": "4.",
+                "body": "Heat the sgRNAs to 95°C for 2 min, then let cool to room temperature \\(RT) for ~5 minutes."
+            },
+            {
+                "title": "5.",
+                "body": "During Step 4, dilute Cas9 in CCB buffer and water such that each reaction is 15µL of 3.3x CCB buffer and 3.3x final Cas9 concentration."
+            },
+            {
+                "title": "6.",
+                "body": "Mix the diluted Cas9 from step 5 with the re-folded sgRNAs from step 4 and incubate at 37°C for 10 min."
+            },
+            {
+                "title": "7.",
+                "body": "Dilute the HMW gDNA to ~500 ng/µL and add 20µL to each RNP reaction."
+            },
+            {
+                "title": "8.",
+                "body": "Incubate cleavage reaction at 37°C for 4 hours.\r\n  a. At this point, the reaction can be held at 4°C overnight or proceed to step 9 for quenching"
+            },
+            {
+                "title": "9.",
+                "body": "Terminate the cleavage reaction by adding 6.8µL of Proteinase K/RNase A mix to each cleavage reaction according to the following:\r\n  Proteinase K \\(20mg/mL)  \\(0.5µL)\r\n\n\nRNAse A \\(20mg/mL)  \\(2.2µL)\r\n\n\n5x CCB Buffer           \\(1.4µL)\r\n\n\nWater     \\(2.7µL)\r\n\n\nTotal Mix \\(1 rxn)   \\(6.8µL)"
+            },
+            {
+                "title": "10.",
+                "body": "Mix well by pipetting, then incubate the sample at 37°C for 20 min, then 55°C for 20 min."
+            },
+            {
+                "title": "11.",
+                "body": "Proceed to DNA cleanup with SPRIselect Reagent"
+            }
+        ]
+    },
+    {
+        "title": "**D. SPRISelect DNA cleanup 1 \\(SPRI 1).**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Add one volume \\(56.8µL) of SPRISelect reagent to the sample.\r\n  a. Ensure that beads and gDNA are well mixed. Thorough mixing at this step is critical."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the reaction mixture for 5 min at RT."
+            },
+            {
+                "title": "3.",
+                "body": "Place the sample on a compatible magnetic stand, allow beads to pellet for 5 min."
+            },
+            {
+                "title": "4.",
+                "body": "Remove supernatant."
+            },
+            {
+                "title": "5.",
+                "body": "Wash twice with 175µL freshly prepared 85% ethanol. Remove supernatant after 30 seconds for each wash."
+            },
+            {
+                "title": "6.",
+                "body": "Let ethanol evaporate for 10 minutes, until beads are dry. The beads should appear dry, but not cracked. Over-drying can lead to inefficient elutions."
+            },
+            {
+                "title": "7.",
+                "body": "Remove from the magnetic stand and add 50µL of water, mix until beads are resuspended."
+            },
+            {
+                "title": "8.",
+                "body": "Incubate the reaction mixture at room temperature for 5-10 min at RT."
+            },
+            {
+                "title": "9.",
+                "body": "Place the reaction mixture back on the magnetic stand, and allow beads to fully pellet."
+            },
+            {
+                "title": "10.",
+                "body": "Transfer 45µL of elution to a fresh tube. Continue to the dA tailing reaction step, or store the sample at -20°C until the next step can be started."
+            }
+        ]
+    },
+    {
+        "title": "**E. dA-tailing reaction and adapter ligation 1.**",
+        "body": [
+            "The dA-tailing reaction appends an adenine to the 3’ end of each DNA molecule, enabling subsequent adapter ligation.",
+            {
+                "title": "1.",
+                "body": "Remove NEBNext® dA-tailing reagents from -20°C, allow to thaw on ice."
+            },
+            {
+                "title": "2.",
+                "body": "Assemble the following reaction using the NEBNext® dA-tailing module:\r\n  Cas9-treated gDNA         \\(42µL)\r\n\n\ndA-tailing reaction buffer \\(10x)      \\(5µL)\r\n\n\nKlenow Fragment         \\(3µL)\r\n\n\nTotal           \\(50µL)"
+            },
+            {
+                "title": "3.",
+                "body": "Incubate the reaction at 37°C for 30 min."
+            },
+            {
+                "title": "4.",
+                "body": "Make up 2x annealing buffer according to the following:\r\n  20mM Tris, pH 7.5\r\n\n\n100mM NaCl\r\n\n\n2mM EDTA"
+            },
+            {
+                "title": "5.",
+                "body": "Assemble adapter 1 according to the following:\r\n  Adapter 1 For \\(100µM)  \\(1µL)\r\n\n\nAdapter 1 Rev \\(100µM)  \\(1µL)\r\n\n\nWater     \\(8µL)\r\n\n\n2x annealing buffer   \\(10µL)\r\n\n\nTotal     \\(20µL)"
+            },
+            {
+                "title": "6.",
+                "body": "Incubate the adapter 1 mixture at 95°C for 5 minutes, then let the reaction to cool to RT for ~45 minutes. The adapter 1 oligos will anneal to form a functional adapter."
+            },
+            {
+                "title": "7.",
+                "body": "Assemble the ligation reaction according to the following:\r\n  dA-tailed DNA           \\(38µL)\r\n\n\nAdapter 1           \\(2µL)\r\n\n\nT4 DNA Ligase buffer \\(10x) \\(5µL)\r\n\n\nNEB Quick Ligase   \\(5µL)\r\n\n\nTotal     \\(50µL)"
+            },
+            {
+                "title": "8.",
+                "body": "Incubate the ligation reaction at 20°C for 30 minutes, then 16°C overnight."
+            },
+            {
+                "title": "9.",
+                "body": "Proceed to SPRISelect reagent cleanup 2."
+            }
+        ]
+    },
+    {
+        "title": "**F. SPRISelect DNA cleanup 2 \\(SPRI 2).**",
+        "body": [
+            "This cleanup step is necessary to remove residual adapter 1 from the ligation reaction. Any residual adapter 1 will be carried through and can potentially form short functional molecules \\(adapter dimer) that can be detrimental to sequencing downstream.",
+            {
+                "title": "1.",
+                "body": "Add 0.5x volumes \\(25µL) of SPRISelect reagent to the sample.\r\n  a. Ensure that beads and gDNA are well mixed. Thorough mixing at this step is critical."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the reaction mixture for 5 min at RT."
+            },
+            {
+                "title": "3.",
+                "body": "Place the sample on a compatible magnetic stand, allow beads to pellet for 5 min."
+            },
+            {
+                "title": "4.",
+                "body": "Remove supernatant."
+            },
+            {
+                "title": "5.",
+                "body": "Wash twice with 175µL freshly prepared 85% ethanol. Remove supernatant after 30s for each wash."
+            },
+            {
+                "title": "6.",
+                "body": "Let ethanol evaporate for 10 minutes, until beads are dry. The beads should appear dry, but not cracked. Over-drying can lead to inefficient elutions."
+            },
+            {
+                "title": "7.",
+                "body": "Remove from the magnetic stand and add 50µL of water, mix until beads are resuspended."
+            },
+            {
+                "title": "8.",
+                "body": "Incubate the reaction mixture at room temperature for 5-10 min at RT."
+            },
+            {
+                "title": "9.",
+                "body": "Place the reaction mixture back on the magnetic stand, and allow beads to fully pellet."
+            },
+            {
+                "title": "10.",
+                "body": "Transfer 45µL of elution to a fresh tube. Continue to the fragmentation reaction or store the sample at -20°C until the next step can be started."
+            }
+        ]
+    },
+    {
+        "title": "**G. gDNA fragmentation.**",
+        "body": [
+            "This step details the fragmentation of the adapter 1 ligated gDNA. The aim of this step is to fragment the library to an appropriate size for sequencing \\(~200-800bp). The results of the fragmentation will depend on the integrity of the HMW gDNA. It may be necessary to perform a series of trial reactions adjusting fragmentase concentrations and reaction times to optimize each gDNA set.",
+            {
+                "title": "1.",
+                "body": "Remove NEBNext® dsDNA Fragmentase® reagents from -20°C, allow to thaw on ice. Vortex the dsFragmentase to ensure it is well mixed."
+            },
+            {
+                "title": "2.",
+                "body": "Assemble the fragmentation reaction according to the following:\r\n  Adapter 1-ligated DNA      \\(40µL)\r\n\n\ndsFragmentase Buffer v2 \\(10x)   \\(5µL)\r\n\n\ndsFragmentase Enzyme    \\(1.5µL)\r\n\n\nWater       \\(3.5µL)\r\n\n\nTotal       \\(50µL)"
+            },
+            {
+                "title": "3.",
+                "body": "Incubate for 37°C for one hour.\r\n  This step is time-sensitive, incubating for too long can lead to complete digestion of the gDNA."
+            },
+            {
+                "title": "4.",
+                "body": "Immediately quench the reaction by adding 12.5µL of 0.5M EDTA, mix by pipetting up and down."
+            },
+            {
+                "title": "5.",
+                "body": "Add 37.5µL of water, then proceed immediately to SPRISelect reagent cleanup \\(diluting the samples with water at this stage has increased our yields in previous experiments)."
+            }
+        ]
+    },
+    {
+        "title": "**H. SPRISelect DNA cleanup 3 \\(SPRI 3).**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Add 0.9x volume \\(90µL) of SPRISelect reagent to the sample.\r\n  a. Ensure that beads and gDNA are well mixed. Thorough mixing at this step is critical."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the reaction mixture for 5 min at RT."
+            },
+            {
+                "title": "3.",
+                "body": "Place the sample on a compatible magnetic stand, allow beads to pellet for 5 min."
+            },
+            {
+                "title": "4.",
+                "body": "Remove supernatant."
+            },
+            {
+                "title": "5.",
+                "body": "Wash twice with 175µL freshly prepared 85% ethanol. Remove supernatant after 30 seconds for each wash."
+            },
+            {
+                "title": "6.",
+                "body": "Let ethanol evaporate for 10 minutes, until beads are dry. The beads should appear dry, but not cracked. Over-drying can lead to inefficient elutions."
+            },
+            {
+                "title": "7.",
+                "body": "Remove from the magnetic stand and add 50µL of water, mix until beads are resuspended."
+            },
+            {
+                "title": "8.",
+                "body": "Incubate the reaction mixture at room temperature for 5-10 min at RT."
+            },
+            {
+                "title": "9.",
+                "body": "Place the reaction mixture back on the magnetic stand, and allow beads to fully pellet."
+            },
+            {
+                "title": "10.",
+                "body": "Transfer 45µL of elution to a fresh tube. PAUSE POINT: Continue to the dA tailing reaction step, or store the sample at -20°C until the next step can be started."
+            },
+            {
+                "title": "11.",
+                "body": "OPTIONAL: at this point, we recommend visualizing the fragmented DNA by gel Electrophoresis \\(see step B for gel preparation).  If performing multiple reactions, we typically combine them and then load 15 μL for analysis."
+            }
+        ]
+    },
+    {
+        "title": "**I. End-repair and adapter 2 ligation.**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Remove NEBNext Ultra End Repair / dA-tailing module reagents from -20°C, thaw on ice."
+            },
+            {
+                "title": "2.",
+                "body": "Assemble the end-repair reaction as follows:\r\n  Fragmented DNA \\(from step H) \\(27.7µL)\r\n\n\nEnd-Repair Buffer \\(10x)            \\(3.3µL)\r\n\n\nEnd-Repair Enzyme Mix     \\(1.5µL)\r\n\n\nWater        \\(0.5µL)\r\n\n\nTotal        \\(33µL)"
+            },
+            {
+                "title": "3.",
+                "body": "Incubate reaction at 20°C for 30 min, then 65°C for 30 min."
+            },
+            {
+                "title": "4.",
+                "body": "During the end-repair procedure, form adapter 2 according to the following:\r\n  Adapter 2 N7 Forward \\(100µM) \\(1µL)\r\n\n\nAdapter 2 N6 Forward \\(100µM) \\(1µL)\r\n\n\nAdapter 2 N5 Forward \\(100µM) \\(1µL)\r\n\n\nAdapter 2 Rev \\(100µM)            \\(3µL)\r\n\n\n2x Annealing Buffer       \\(6µL)\r\n\n\nTotal          \\(1µL)"
+            },
+            {
+                "title": "5.",
+                "body": "Incubate the adapter 2 mixture at 95°C for 5 minutes, then let the reaction to cool to RT for ~45 minutes. The adapter 2 oligos will anneal to form a functional adapter."
+            },
+            {
+                "title": "6.",
+                "body": "Assemble the ligation reaction using the NEBNext® Ultra Ligation Module according to the following:\r\n  End-repaired DNA   \\(32.5µL)\r\n\n\nAdapter 2 \\(12.5µM)   \\(1.25µL)\r\n\n\nBlunt/TA Ligase Master Mix \\(7.5µL)\r\n\n\nLigation enhancer   \\(0.5µL)\r\n\n\nTotal     \\(41.75µL)"
+            }
+        ]
+    },
+    {
+        "title": "**J. Affinity purification with Streptavidin beads.**",
+        "body": [
+            "In this step, adapter 1 ligated fragments affinity purified by Streptavidin beads, enriching for sites that were cleaved by Cas9.",
+            {
+                "title": "1.",
+                "body": "Prepare 2x block and wash \\(B&W) buffer for the Dynabead affinity purification procedure:\r\n  10mM Tris, pH 7.5\r\n\n\n2 M NaCl\r\n\n\n1mM EDTA"
+            },
+            {
+                "title": "2.",
+                "body": "Remove the Dynabeads from 4°C, mix by gently inverting the tube."
+            },
+            {
+                "title": "3.",
+                "body": "Wash one volume \\(25µL per reaction) of dynabead mixture with 5 volumes \\(125µL) of 1x B&W Buffer. Rotate beads for 5 minutes."
+            },
+            {
+                "title": "4.",
+                "body": "Place washed Dynabead mixture on magnetic stand, allow time to pellet \\(~5 min), remove supernatant."
+            },
+            {
+                "title": "5.",
+                "body": "Repeat steps 3 and"
+            },
+            {
+                "title": "4.",
+                "body": []
+            },
+            {
+                "title": "6.",
+                "body": "Resuspend beads in 41µL of 2x B&W Buffer."
+            },
+            {
+                "title": "7.",
+                "body": "Add 41µL to the adapter-ligated DNA \\(from step I). Allow bead/DNA mixture to rotate for 30 minutes at RT, with gentle inversion. Make sure that the beads are mixing."
+            },
+            {
+                "title": "8.",
+                "body": "After incubation, place samples on a compatible magnetic stand. Allow beads to pellet for 5 minutes, then remove the supernatant."
+            },
+            {
+                "title": "9.",
+                "body": "Wash the beads by adding 200µL of 1xB&W buffer, allowing to incubate for 30 seconds, then remove supernatant."
+            },
+            {
+                "title": "10.",
+                "body": "Repeat step 9 once with 1xB&W buffer, then a second time with 10mM Tris-HCl, pH 8.5"
+            },
+            {
+                "title": "11.",
+                "body": "Remove the sample from the magnet, and add 20µL of 10mM Tris-HCl. Mix by pipetting up and down several times."
+            }
+        ]
+    },
+    {
+        "title": "**K. Recovery and indexing PCR.**",
+        "body": [
+            "In this step, the purified DNA fragments are amplified and indexed for Illumina Sequencing.",
+            {
+                "title": "1.",
+                "body": "Assemble a PCR Reaction according to the following:\r\n  Bead Mixture       \\(22.5µL)\r\n\n\nRecovery PCR Forward \\(10µM) \\(2.5µL)\r\n\n\nRecovery PCR Reverse \\(10µM) \\(2.5µL)\r\n\n\nQ5 Hot-Start 2x Master Mix    \\(22.5µL)\r\n\n\nTotal       \r\n\n\n\\(50µL)\r\n\n\n\r\n\n\nUse a thermal cycler to carry out the following PCR program:"
+            },
+            {
+                "title": "1.",
+                "body": "98°C for 2 min"
+            },
+            {
+                "title": "2.",
+                "body": "98°C for 10s"
+            },
+            {
+                "title": "3.",
+                "body": "61°C for 30s"
+            },
+            {
+                "title": "4.",
+                "body": "72°C for 2 min"
+            },
+            {
+                "title": "5.",
+                "body": "Repeat Steps 2-4 11x \\(12 total cycles)"
+            },
+            {
+                "title": "6.",
+                "body": "72°C for 2 min"
+            },
+            {
+                "title": "7.",
+                "body": "Hold at 4°C"
+            },
+            {
+                "title": "2.",
+                "body": "Remove the PCR recovery reaction samples from the thermal cycler, place the samples on a compatible magnetic stand, allow the beads to pellet for 5 min."
+            },
+            {
+                "title": "3.",
+                "body": "Transfer 30µL supernatant to a fresh tube."
+            },
+            {
+                "title": "4.",
+                "body": "Dilute the supernatant by adding 3µL of recovery PCR product to 148.5µL of water."
+            },
+            {
+                "title": "5.",
+                "body": "Set up the indexing PCR according to the following:\r\n  Recovery PCR DNA \\(Diluted)  \\(12µL)\r\n\n\nIndex Primer Forward \\(5µM)    \\(4µL)\r\n\n\nIndex Primer Reverse \\(5µM)  \\(4µL)\r\n\n\nQ5 2x Master Mix   \\(20µL)\r\n\n\nTotal     \\(40µL)"
+            },
+            {
+                "title": "6.",
+                "body": "Carry out the following PCR program:"
+            },
+            {
+                "title": "1.",
+                "body": "98°C for 2 min"
+            },
+            {
+                "title": "2.",
+                "body": "98°C for 10s"
+            },
+            {
+                "title": "3.",
+                "body": "60°C for 30s"
+            },
+            {
+                "title": "4.",
+                "body": "72°C for 2 min"
+            },
+            {
+                "title": "5.",
+                "body": "Repeat Steps 2-4 11x \\(12 total cycles)"
+            },
+            {
+                "title": "6.",
+                "body": "72°C for 2 min"
+            },
+            {
+                "title": "7.",
+                "body": "Hold at 4°C"
+            }
+        ]
+    },
+    {
+        "title": "**L. Sample Pooling.**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pool all samples from the indexing PCR step. Depending on how many samples are processed in parallel, pool between 5µL and 40µL from each. The final pool should be ~200-1000µL."
+            }
+        ]
+    },
+    {
+        "title": "**M. SPRISelect Pool Cleanup.**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Add 0.7x volume of SPRIselect reagent to the pooled sample, mix well by pipetting up and down."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the reaction mixture for 5 min at RT."
+            },
+            {
+                "title": "3.",
+                "body": "Place the reaction tube on a magnetic stand, then pellet the beads for 5 min."
+            },
+            {
+                "title": "4.",
+                "body": "Remove supernatant."
+            },
+            {
+                "title": "5.",
+                "body": "Wash 2 x 30 sec with 1 mL freshly prepared 85 % ethanol."
+            },
+            {
+                "title": "6.",
+                "body": "Let ethanol evaporate for 10-15 min, or until beads are dry."
+            },
+            {
+                "title": "7.",
+                "body": "Remove the tube from the magnetic stand, then add 1 volume of water, mix up and down by pipetting."
+            },
+            {
+                "title": "8.",
+                "body": "Incubate the reaction mixture for 10 min at RT."
+            },
+            {
+                "title": "9.",
+                "body": "Place the reaction tube back on the magnetic stand, then pellet the beads for 5 min."
+            },
+            {
+                "title": "10.",
+                "body": "Transfer 0.95x volume of water to a new tube."
+            },
+            {
+                "title": "11.",
+                "body": "PAUSE POINT: Libraries can be stored at -20°C, or proceed to desired method of library quantification prior to sequencing."
+            }
+        ]
+    },
+    {
+        "title": "**N. Library quality control**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Dilute the final library 1:10 and 1:5 by volume in molecular biology grade water."
+            },
+            {
+                "title": "2.",
+                "body": "Load each of these samples on an Agilent Bioanalyzer High Sensitivity DNA chip."
+            },
+            {
+                "title": "3.",
+                "body": "Representative bioanalyzer traces are shown in"
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2**",
+        "body": [
+            ".\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5451/original/traces.png?1491886747\">See figure in Figures section.</a>",
+            {
+                "title": "4.",
+                "body": "If the size range is too large \\(more than 25% of library above 1,000bp) complete a 0.5x right-side SPRI cleanup to adjust the size range. Fragments larger than 1,000bp will alter quantification results but will not cluster on the sequencing flow cell.\r\n  a. Add 0.5x volume of SPRIselect reagent to the pooled sample, mix well by pipetting up and down. \r\n\n\nb. Incubate the reaction mixture for 5 min at RT. \r\n\n\nc. Place the reaction plate on a magnetic stand, then pellet the beads for 5 min. \r\n\n\nd. Remove supernatant and transfer into a fresh tube. \r\n\n\ne. Add 1.2x volumes of SPRIselect reagent, repeat steps b and c.\r\n\n\nf. Wash 2 x 30 sec with 1 mL freshly prepared 85 % ethanol.  \r\n\n\ng. Let ethanol evaporate for 10-15 min, until beads are dry.  \r\n\n\nh. Remove the reaction plate from the magnetic stand, then add 1 volume of water, mix up and down by pipetting.\r\n\n\ni. Incubate the reaction mixture for 10 min at RT.   Place the sample back on the magnetic stand, then pellet the beads for 5 min. \r\n\n\nj. Transfer 0.9x volume of water to a new tube.  \r\n\n\nk. Proceed to desired method of library quantification prior to sequencing."
+            },
+            {
+                "title": "5.",
+                "body": "If necessary, repeat the 0.7x SPRI from Step M to remove any residual adapter dimer/small fragments from the library."
+            }
+        ]
+    },
+    {
+        "title": "**O. Library Quantification and Sequencing**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Quantify library using preferred method. We recommend either qPCR or Qubit 3.0. Quantification will require optimization for new sequencing platforms."
+            },
+            {
+                "title": "2.",
+                "body": "Required sequencing depth will depend on library quality and the particular application. 2-3 million reads \\(150 bp, single-end) per sample is recommended."
+            }
+        ]
+    }
+]

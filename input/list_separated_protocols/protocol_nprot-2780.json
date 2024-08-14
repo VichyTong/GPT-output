@@ -1,0 +1,95 @@
+[
+    "\nPreparation of GG/Ag nanocomposite",
+    {
+        "title": "a)",
+        "body": "The precursors used to prepare Ag nanoparticles are GG and silver nitrate."
+    },
+    {
+        "title": "b)",
+        "body": "2.5 %w/v of GG was dissolved in 10 ml distilled water with the help of magnetic stirrer."
+    },
+    {
+        "title": "c)",
+        "body": "After complete dissolution, the temperature of the reaction medium is raised to 70 oC."
+    },
+    {
+        "title": "d)",
+        "body": "10 ml of 15 mM silver nitrate solution was then added drop wise to the solution."
+    },
+    {
+        "title": "e)",
+        "body": "The reaction mixture was kept under continuous stirring for 90 min."
+    },
+    {
+        "title": "f)",
+        "body": "The synthesis takes place at pH 6."
+    },
+    {
+        "title": "g)",
+        "body": "Short time after addition of silver nitrate solution, the reaction medium acquires a clear yellow color indicating the formation of Ag nanoparticles."
+    },
+    {
+        "title": "h)",
+        "body": "In order to make the double loading, 30 mM silver nitrate were used at the identical condition. \r\n\n\n\r\n\n\n\r\n\n\nCharacterization of GG/Ag nanocomposite"
+    },
+    {
+        "title": "a)",
+        "body": "The GG/Ag nanocomposite was characterized by XRD operating in the reflection mode with CuKα radiation."
+    },
+    {
+        "title": "b)",
+        "body": "The morphology of the films was investigated by SEM."
+    },
+    {
+        "title": "c)",
+        "body": "The size and shape of the nanoparticles were obtained using TEM."
+    },
+    {
+        "title": "d)",
+        "body": "For TEM studies, the samples were prepared by drop-casting dispersed colloidal solution on a carbon-coated copper grid."
+    },
+    {
+        "title": "e)",
+        "body": "FTIR spectra were recorded to confirm the presence of the required functional groups in the GG and GG/Ag nanocomposite."
+    },
+    {
+        "title": "f)",
+        "body": "Normal \\(film I) and double loaded films \\(film II) were prepared by drop-casting 15 mM and 30 mM GG/Ag nanocomposite solution on flexible transparency slide \\(1cm x 1cm) followed by dried in air."
+    },
+    {
+        "title": "g)",
+        "body": "Particle density of film II is higher as compared to film I which indicates that the density can easily be varied by controlling the silver nitrate concentration without disturbing the particle size."
+    },
+    {
+        "title": "h)",
+        "body": "For electrical characterization, film I & II were electrically connected to a copper wire as electrodes with the help of silver paste. The optical micrograph of the film with the electrical leads on a flexible substrate is shown in Fig. 1a. Electrical measurements were taken with an Agilent SMU as voltage-source and current-meter."
+    },
+    {
+        "title": "i)",
+        "body": "Electrical conductivity of GG film, film I & II were carried out and it was found to be 8.45x10-9, 1.7x10-5 and 1.84x10-5 Ω-1cm-1, respectively. This clearly indicates that the conductivity of the films can be enhanced by increasing the loading of Ag nanoparticles in GG."
+    },
+    {
+        "title": "j)",
+        "body": "XPS and field-effect transistor \\(FET) analysis has been carried out in order to confirm the sensing mechanism. \r\n\n\n\r\n\n\nSensor measurements"
+    },
+    {
+        "title": "a)",
+        "body": "Upon exposure to aqueous ammonia of different concentrations, the conductivity of GG/Ag nanocomposite film is found to increase which prompted us to explore the film as chemiresistor sensors and investigate the underlying mechanism. An Agilent SMU was used to study the temporal response behaviour."
+    },
+    {
+        "title": "b)",
+        "body": "Aqueous ammonia sensing experiments were carried out in a simple home-made testing chamber whose net volume  ~800 cm3 \\(10 cm  x 10 cm x 8 cm) as shown schematically in Fig. 1b."
+    },
+    {
+        "title": "c)",
+        "body": "The ammonia vapors of different concentrations were introduced into the testing chamber manually at the humidity of ~48% and temperature of 20-25 0C. The distance of ammonia solution from sensor film is kept 1 cm."
+    },
+    {
+        "title": "d)",
+        "body": "In order to understand the sensing mechanism, we have carried out sensing experiments under different environmental conditions \\(ambient, oxygen and nitrogen) and studied the field effect transistor \\(FET) characteristics of the sensing film on a Si/SiO2 \\(300 nm thickness) substrate."
+    },
+    {
+        "title": "e)",
+        "body": "The kinetics of a chemical reaction such as generation of ammonia from hexamethylenetetramine \\(HMT) in water at different temperatures is studied by the sensing film. Similarly in another experiment, the evolution of ammonia from the reaction between ammonium chloride and sodium hydroxide has been investigated."
+    }
+]

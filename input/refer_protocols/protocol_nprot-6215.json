@@ -1,0 +1,32 @@
+[
+    {
+        "index": 16,
+        "string": "Human iPSCs or human ESCs are cultured and differentiated into intestinal tissue as previously described<sup>9,10</sup>.",
+        "phrase": "as previously described",
+        "refer": "as previously described refers to the method or protocol that was previously mentioned or described in references 9 and 10."
+    },
+    {
+        "index": 23,
+        "string": "Human iPSCs or human ESCs are cultured and differentiated into HIOs as previously described<sup>9,10</sup>.",
+        "phrase": "as previously described",
+        "refer": "In this sentence, \"as previously described\" refers to the method or protocol that was previously mentioned or described in references 9 and 10."
+    },
+    {
+        "index": 42,
+        "string": "Passaging HIOs cultured in PEG-4MAL hydrogels is performed similarly to tissue embedded in MatrigelTM, as previously described<sup>10</sup>.",
+        "phrase": "as previously described",
+        "refer": "as previously described refers to the method of passaging HIOs cultured in PEG-4MAL hydrogels, which is performed similarly to tissue embedded in MatrigelTM."
+    },
+    {
+        "index": 59,
+        "string": "1), as previously described<sup>12</sup>.",
+        "phrase": "as previously described",
+        "refer": "In this sentence, \"as previously described\" refers to a previous description or set of instructions that were given."
+    },
+    {
+        "index": 62,
+        "string": "Human iPSC- or human ESC-derived HIOs that are generated within PEG-4MAL hydrogels \\(as described above) or MatrigelTM \\(as previously described<sup>9,10</sup>) are mechanically dislodged from the matrix by vigorously pipetting with large orifice pipette tips to free the organoids.\r\n  ",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the method of generating HIOs within MatrigelTM, as mentioned in references 9 and 10."
+    }
+]

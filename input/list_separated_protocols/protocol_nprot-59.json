@@ -1,0 +1,50 @@
+[
+    {
+        "title": "1.",
+        "body": "Obtain serial frozen tissue sections 4-8μm thick on glass microscope slides."
+    },
+    {
+        "title": "2.",
+        "body": "Fix slides in chilled acetone for 10 minutes in a crystal slide jar.  For all other washes, plastic slide incubation chambers are sufficient."
+    },
+    {
+        "title": "3.",
+        "body": "Air dry slides, and outline tissue section with a hydrophobic marker."
+    },
+    {
+        "title": "4.",
+        "body": "Rehydrate the tissue but submerging the slide in PBS for 10-30 seconds."
+    },
+    {
+        "title": "5.",
+        "body": "Apply antibody cocktail.  Slides should be placed tissue side up in a dark box humidified with a wet paper towel.  The antibody cocktail should cover the entire region outlined by the hydrophobic marker.  For every staining run, a serial tissue section should be stained with the isotype control cocktail.  Incubate at room temperature for 45 minutes."
+    },
+    {
+        "title": "6.",
+        "body": "After this incubation, blot off excess staining cocktail carefully avoiding touching the tissue itself, and rinse the slide in PBS with gentle, manual shaking for 10-30 seconds."
+    },
+    {
+        "title": "7.",
+        "body": "Wash slides in detergent wash solution with gentle manual shaking for 10-30 seconds.  Repeat this wash step once in fresh detergent wash solution."
+    },
+    {
+        "title": "8.",
+        "body": "Wash slides in PBS with gentle, manual shaking for 10-30 seconds."
+    },
+    {
+        "title": "9.",
+        "body": "Wash slides in dH<sub>2</sub>O with gentle, manual shaking for 10-30 seconds."
+    },
+    {
+        "title": "10.",
+        "body": "Add a drop of Fluoromount G to the tissue section.  Avoid bubbles by administering the Fluoromount G with a transfer pipet.  Carefully apply a coverslip, so the Fluoromount G is evenly distributed underneath without bubbles."
+    },
+    {
+        "title": "11.",
+        "body": "The stained slides can be imaged immediately.  However, they can be stored, tissue side up, in a dark box at 4˚C."
+    },
+    {
+        "title": "12.",
+        "body": "CRITICAL STEP.  For imaging the slides, the Alexa 488 fluors can be visualized using FITC excitation and emission filters.  It is important to use identical exposure times and image normalization settings for the IL-4 and isotype images.  Specific conditions depend on the fluorescent microscopy equipment available.   IL-4 protein staining \\(shown below, panel C) is punctuate, while minimal staining is detected in a serial section stained with isotype control antibodies \\(panel D)."
+    }
+]

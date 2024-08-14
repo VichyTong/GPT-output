@@ -1,0 +1,145 @@
+[
+    "\nTitration of Ad vectors by hexon staining        TIMING  8 days\r\n\n\n\r\n\n\nVirus Infection",
+    {
+        "title": "1.",
+        "body": "Harvest HEK 293 cells from one T75 flask and suspend in DMEM plus 10% FBS at a concentration of 4X10<sup>5</sup> cells /ml. Seed 1 ml per well in 24-well plate and then incubate the plate at 37 C and 5% CO<sub>2</sub> for 24 hours."
+    },
+    {
+        "title": "2.",
+        "body": "24 hours later, aspirate the culture medium from each well, wash the cells with serum-free DMEM once. Then add 1 ml of serum-free DMEM to each well."
+    },
+    {
+        "title": "3.",
+        "body": "Using serum-free DMEM as diluent, prepare 10-fold serial dilutions of recombinant adenovirus at concentrations ranging from 10<sup>2</sup> to 10<sup>6</sup> virus particles \\(vps) per ml, which is typically equivalent to vector dilutions of 10-8 to 10-12. Add 0.1 ml diluted virus into each of 8 wells per dilution. Set up duplicates for each dilution. Incubate the plates at 37 C in 5% CO2 for 1 hour."
+    },
+    {
+        "title": "4.",
+        "body": "Add 1 ml DMEM containing 10% FBS to each well. Incubate the plates at 37 C in 5% CO<sub>2</sub> for 6 days.\r\n  \r\n\n\nImmunostaining"
+    },
+    {
+        "title": "5.",
+        "body": "Slowly remove medium from the 12-well plates, then fix infected cells by gently adding 0.5 ml of 100% cold methanol without dislodging the cells. Incubate at -20 C for 20 min."
+    },
+    {
+        "title": "6.",
+        "body": "Aspirate the solution from each well. Gently wash the fixed cells 3 times with PBS containing 1% FBS.\r\n  CRITICAL STEP  Wash the cells gently to avoid disturbing or washing away the cells"
+    },
+    {
+        "title": "7.",
+        "body": "Add 0.25 ml of diluted 1× anti-hexon antibody solution in PBS containing 1% BSA to each well and incubate at room temperature for 1 hour."
+    },
+    {
+        "title": "8.",
+        "body": "Repeat step"
+    },
+    {
+        "title": "6.",
+        "body": []
+    },
+    {
+        "title": "9.",
+        "body": "Add 0.25 ml of diluted 1× HPR-labeled secondary antibody in PBS containing 1% FBS to each well and incubate at room temperature for 1 hour."
+    },
+    {
+        "title": "10.",
+        "body": "Repeat step"
+    },
+    {
+        "title": "6.",
+        "body": []
+    },
+    {
+        "title": "11.",
+        "body": "Add 0.25 ml of freshly diluted 1×DAB working solution to each well and incubate at room temperature for 15 minutes."
+    },
+    {
+        "title": "12.",
+        "body": "Aspirate DAB solution, wash once with 1×PBS and add 0.5 ml of 1×PBS to each well."
+    },
+    {
+        "title": "13.",
+        "body": "The next day, count colonies of positively stained cells in each well under inverted microscope at 4× or 10× magnification.\r\n  CRITICAL STEP  Ad-infected cells should show dark brown staining and they can form large clusters.\r\n\n\n? TROUBLESHOOTING"
+    },
+    {
+        "title": "14.",
+        "body": "Calculate the average number of positively staining colonies in each well and determine viral titer \\(MOI, Multiplicity of infectious unit/ml) based on following formula.\r\n  MOI/ml=\\(Average stained cells of highest dilution +10 × average stained cells of second highest dilution) x dilution factor /2.\r\n\n\nCRITICAL STEP  The lengthy incubation period of virus with cells will allow for formation of secondary plaques. It is therefore crucial to use end point dilutions to allow for accurate read-outs.\r\n\n\n\r\n\n\nAlternative method for titration of Ad vectors by nested PCR       TIMING 8 days\r\n\n\n\r\n\n\nVirus Infection"
+    },
+    {
+        "title": "15.",
+        "body": "Harvest HEK 293 cells from one T75 flask and suspend cells in DMEM plus 10% FBS at a concentration of 4X10<sup>5</sup> cells /ml. Seed 3 ml per well in 6-well plate."
+    },
+    {
+        "title": "16.",
+        "body": "Repeat step"
+    },
+    {
+        "title": "2.",
+        "body": []
+    },
+    {
+        "title": "17.",
+        "body": "Using serum-free DMEM as diluents, prepare 10-fold serial dilutions of recombinant adenovirus ranging from 10<sup>2</sup> to 10<sup>6</sup> virus particles \\(vps) per ml , which is typically equivalent to vector dilutions of 10<sup>-8</sup> to 10<sup>-12</sup>. Add 0.1 ml diluted virus into each well. Set up 6-8 wells for each dilution. Incubate the plates at 37<sup>o</sup>C in 5% CO<sub>2</sub> for 1 hour."
+    },
+    {
+        "title": "18.",
+        "body": "Repeat step 4\r\n  \r\n\n\nIsolation of total RNA from infected cells"
+    },
+    {
+        "title": "19.",
+        "body": "Remove medium from 6-well plates. Add 1 ml of TRI reagent to each well, incubate at room temperature for 10 min."
+    },
+    {
+        "title": "20.",
+        "body": "Transfer cells from individual wells to 1.5 ml Eppendorf tubes and add 0.1 ml of Phase separation reagent and mix well by vortexing vigorously for 2 min."
+    },
+    {
+        "title": "21.",
+        "body": "Centrifuge at 1 x10, 000 rpm for 20 min."
+    },
+    {
+        "title": "22.",
+        "body": "Harvest aqueous phase and transfer it into 1.5 ml Eppendorf tubes. Add equal volume of isopropanol, incubate at -20 C for 20 min."
+    },
+    {
+        "title": "23.",
+        "body": "Mix and then centrifuge at 1 x13, 000 rpm at 4 C for 20 min."
+    },
+    {
+        "title": "24.",
+        "body": "Remove supernatant and wash the pellets once with 1 ml of 75% ethanol."
+    },
+    {
+        "title": "25.",
+        "body": "Centrifuge at 1 x13, 000 rpm at 4 C for 10 min."
+    },
+    {
+        "title": "26.",
+        "body": "Aspirate ethanol, then suspend RNA pellets in 40 µl of DEPC-treated water.\r\n  CRITICAL STEP  Use DEPC-treated water to dissolve the RNA pellets.\r\n\n\n? TROUBLESHOOTING Please consult \"Table 1\":http://www.nature.com/protocolexchange/system/uploads/1951/original/table1troubleshooting.doc?1318433344\r\n\n\nReverse transcription polymerase chain reaction \\(RT-PCR)"
+    },
+    {
+        "title": "27.",
+        "body": "Take 1 µl of RNA from step 27, set up one-step RT-PCR reaction as indicated as below by using SuperSript One-Step RT-PCR with Platinum Taq. \r\n  Please consult \"component table RNA\":http://www.nature.com/protocolexchange/system/uploads/1948/original/TABLE_RNA.doc?1318430422\r\n\n\nGently mix the reaction by vortexing and centrifuge briefly. Run the reaction on a PCR machine with the following conditions."
+    },
+    {
+        "title": "28.",
+        "body": "Run 5.0 μl of first PCR amplicon on 1% \\(wt/vol) agarose gel in TAE buffer. Take a gel picture by using gel imaging system after running the gel at 130 voltage for 30 min. \r\n  ? TROUBLESHOOTING\r\n\n\n       Nested PCR"
+    },
+    {
+        "title": "29.",
+        "body": "Take 0.2 μl of amplicon of each sample from step 28, set up nested PCR reaction as indicated as below by using illustraTM puReTag Ready-TO-GO PCR Beads. Please consult \"component  table DNA\":http://www.nature.com/protocolexchange/system/uploads/1949/original/TABLE_DNA.doc?1318430454\r\n  \r\n\n\nGently mix the reaction by vortexing and centrifuge briefly. Run the reaction on a PCR machine with the following conditions.\r\n\n\nPlease consult \"adenovirus table\":http://www.nature.com/protocolexchange/system/uploads/1950/original/vectorTABLE.doc?1318430533"
+    },
+    {
+        "title": "30.",
+        "body": "Run 5.0 μl of the PCR amplicon on 1% \\(wt/vol) agarose gel in TAE buffer. Run the gel at 130 voltage for 30 mi, take a gel picture by using gel imaging system.\r\n  ? TROUBLESHOOTING"
+    },
+    {
+        "title": "31.",
+        "body": [
+            "Count samples that show positive bands of the expected size at the highest and second highest dilutions \\(Figure",
+            {
+                "title": "2).",
+                "body": "Please consult \"Figure 2\":http://www.nature.com/protocolexchange/system/uploads/1945/original/fig2.tif?1318360568\r\n  Determine viral titer \\(MOI, Multiplicity of infectious unit/ml) according to the following formula.\r\n\n\nMOI/ml = \\(positive no. in highest dilution/6 x dilution + positive no. in second highest dilution/6 x dilution) /2.\r\n\n\n\r\n\n\n? TROUBLESHOOTING\r\n\n\nTroubleshooting advice can be found in \"Table 1\":http://www.nature.com/protocolexchange/system/uploads/1951/original/table1troubleshooting.doc?1318433344"
+            }
+        ]
+    }
+]

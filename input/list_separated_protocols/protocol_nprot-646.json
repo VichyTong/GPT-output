@@ -1,0 +1,22 @@
+[
+    {
+        "title": "1.",
+        "body": "Coating of plastic channel slides Timing: 75 min\r\n  To coat plastic channel slides, place 100 µl of Fibronectin-coating solution in the channel and incubate 60 min at room temperature. Subsequently aspirate the solution and wash once with 1 ml PBS."
+    },
+    {
+        "title": "2.",
+        "body": "Fluochrome labeling of cytotoxic T cells \\(CTL) or dendritic cells \\(DCs), respectively   Timing: 20 min\r\n  For fluorochrome labeling 1-2x107 cell/ml were resuspended in PBS followed by addition of appropriate plasma membrane permeable cell tracker \\(final concentrations and incubation times, see below).\r\n\n\n\r\n\n\nCFSE: 5 µM, 10 min\r\n\n\nCMTMR: 5 µM, 10 min\r\n\n\nFarRed 5 µM, 20 min"
+    },
+    {
+        "title": "3.",
+        "body": "Seeding cells  Timing: 15 min\r\n  Mix CTL and DCs from spleen at a ratio of 4:1 in RPMI medium containing 2% FBS to a total cell number of 2x106/ml  and apply 100 µl cell suspension into the channel of the µ-slide. Cover reservoirs loosely with supplied caps following live cell imaging."
+    },
+    {
+        "title": "4.",
+        "body": "Video microscopy Timing: 2-3 h \r\n  Record time-lapse series with the help of a fully automated inverted widefield fluorescence respective confocal microscope equipped with motorized xyz-stage and a climate chamber \\(37°C, humidified, 5% CO2). Record cell motility and cell-cell interactions over a period of 2-3h by capturing fluorescence and phase contrast or differential interference contrast \\(DIC) images every minute. Stage inserts for more than one slides allows simultaneous time-lapse series of different approaches."
+    },
+    {
+        "title": "5.",
+        "body": "Analysis of cell motility and cell-cell interactions\r\n  In each individual experiment track 100-300 motile CTL using the Manual Tracking and Plugin of Image J \\(NIH). Calculate directionality of migrating CTL before physical contact to DC and duration of cell-cell interactions \\(contact duration) by analysis with the Chemotaxis and Migration Tool Plugin \\(IBIDI) for Image J."
+    }
+]

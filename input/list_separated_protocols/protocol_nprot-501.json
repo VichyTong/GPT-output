@@ -1,0 +1,66 @@
+[
+    {
+        "title": "**Preparation of SDS-PAGE gel containing Phos-tag**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Assemble minigel glasses and spacers. We use 100 mm x 100 mm x 1 mm minigel apparatus from Nihon Eido \\(Tokyo, Japan)."
+            },
+            {
+                "title": "2.",
+                "body": "Prepare Phos-tag separation gel solution by mixing solutions A+B+D+E with DW. We normally use 5% gel with 3.5 μM Phos-tag and 7 μM MnCl<sub>2</sub> for <sub>150 kDa protein. Add TEMED and solution F. Mix then pour. Allow to polymerize for </sub> 1 h."
+            },
+            {
+                "title": "3.",
+                "body": "Prepare stacking gel solution by mixing solutions A+C with DW. Add TEMED and solution F. Mix then pour. Allow to polymerize for ~ 1 h."
+            }
+        ]
+    },
+    {
+        "title": "**Running the gel**",
+        "body": [
+            {
+                "title": "4.",
+                "body": "Prepare sample by mixing whole cell lysate \\(or immunoprecipitates) with sample buffer."
+            },
+            {
+                "title": "5.",
+                "body": "Load samples onto the gel. Avoid loading dissimilar samples \\(i.e. salt concentrations etc.) to two adjoining wells, since this will cause severe distortion of the bands. It is necessary to set a vacant lane between samples and molecular weight markers to avoid such problems."
+            },
+            {
+                "title": "6.",
+                "body": "Run the gel at very slow speed with low constant current \\(~5 mA). It will require a long time; for our apparatus, it takes about 12 h to finish separation. It seems important to spend a long time for electrophoresis to obtain good separation. It is also important to use the separation gel buffer with appropriate pH \\(8.8). We experienced strong effect on gel running speed due to small fluctuations in the buffer pH."
+            }
+        ]
+    },
+    {
+        "title": "**Western transfer**",
+        "body": [
+            {
+                "title": "7.",
+                "body": "Equilibrate the gel with transfer buffer supplemented with 1 mM EDTA for 10 min. This is required to enhance efficiency of transfer. Then continue equilibration with transfer buffer without EDTA for additional 10 min."
+            },
+            {
+                "title": "8.",
+                "body": "Wet PVDF membrane with the transfer buffer."
+            },
+            {
+                "title": "9.",
+                "body": "Assemble gel-membrane stack with 3MM filter paper."
+            },
+            {
+                "title": "10.",
+                "body": "Transfer in a submarine-type apparatus for 60 min at 100 V constant voltage. Keep the apparatus at low temperature with plenty of ice."
+            }
+        ]
+    },
+    {
+        "title": "**Blocking and detection**",
+        "body": [
+            {
+                "title": "11.",
+                "body": "This can be done with a standard Western protocol. We found it important not to block too strongly; this may erase faint bands. We normally use 2% BSA/TBS-T overnight at 4°C. Dilution and incubation length should be optimized with each antibody used. Quality of the antibody is particularly important, since non-specific bands may confound interpretation of the data. Thus it is desirable to include appropriate control \\(i.e. expression of mutant protein lacking phosphorylation sites)."
+            }
+        ]
+    }
+]

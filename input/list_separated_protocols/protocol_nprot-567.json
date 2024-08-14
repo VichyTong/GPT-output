@@ -1,0 +1,190 @@
+[
+    {
+        "title": "**Day 0 &#x2013; Preparation of PCR cassettes for tagging**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Set up 50 μl PCR reactions in a 96-well plate format. Use of proofreading polymerase is recommended. Use high quality synthetic oligonucleotides, at least HPLC purified. The optimal annealing temperature is 57-63ºC. Do not use more cycles than necessary \\(20-25) to reduce the risk of PCR introduced mutations. Increase the amount of template if necessary to reduce the number of cycles."
+            },
+            {
+                "title": "2.",
+                "body": "Purify the products using Eppendorf Perfectprep PCR Cleanup"
+            },
+            {
+                "title": "96.",
+                "body": ""
+            },
+            {
+                "title": "3.",
+                "body": "Elute in 500 μl of distilled water \\(to final concentration of about 5 ng/μl)."
+            }
+        ]
+    },
+    {
+        "title": "**Day 1 &#x2013; Transformation of pRedFlp4**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pipette 1 ml of LB plus 12.5 μg/ml chloramphenicol to each 96-well."
+            },
+            {
+                "title": "2.",
+                "body": "Inoculate with 40 μl overnight culture of the FlyFos clones."
+            },
+            {
+                "title": "3.",
+                "body": "Seal the plate with breathable plate seal and grow for 2h at 37°C, 900 rpm."
+            },
+            {
+                "title": "4.",
+                "body": "Spin down for 10 min at 5000 g."
+            },
+            {
+                "title": "5.",
+                "body": "Discard the supernatant and press the plate onto a paper stack\r\n  \\(made of 5-6 layers of clean paper tissue)."
+            },
+            {
+                "title": "6.",
+                "body": "Add 1 ml of ice-cold sterile 10% glycerol to each plate."
+            },
+            {
+                "title": "7.",
+                "body": "Seal the plate with plastic seal and shake at 1400 rpm for 1 min."
+            },
+            {
+                "title": "8.",
+                "body": "Spin down for 10 min at 5000 g."
+            },
+            {
+                "title": "9.",
+                "body": "Discard the supernatant and press the plate onto a paper stack\r\n  \\(made of 5-6 layers of clean paper tissue)."
+            },
+            {
+                "title": "10.",
+                "body": "Add 100 μl of pRedFlp4 in H<sub>2</sub>O \\(0.1 ng/μl)."
+            },
+            {
+                "title": "11.",
+                "body": "Pipette up and down 5 times to suspend the pellet and transfer to a 96-well electroporation cuvette \\(BTX Harvard Apparatus 45-0450)."
+            },
+            {
+                "title": "12.",
+                "body": "Electroporate at 2500 V."
+            },
+            {
+                "title": "13.",
+                "body": "Transfer the cells to a new plate with 1 ml of SOC medium per well."
+            },
+            {
+                "title": "14.",
+                "body": "Seal with the breathable film and let the cells recover for 1h at 30°C, 900 rpm."
+            },
+            {
+                "title": "15.",
+                "body": "Transfer 100 μl to a new plate with 1 ml of LB plus 12.5 μg/ml chloramphenicol and 20 μg/ml hygromycin."
+            },
+            {
+                "title": "16.",
+                "body": "Seal with breathable seal film and incubate overnight at 30°C, 900 rpm."
+            }
+        ]
+    },
+    {
+        "title": "**Day 2 &#x2013; Tagging by Red/ET recombination**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pipette 1 ml of LB plus 12.5 μg/ml chloramphenicol and 20 μg/ml hygromycin to each 96-well."
+            },
+            {
+                "title": "2.",
+                "body": "Inoculate with 40 μl overnight culture of the fosmid plus pRedFlp4."
+            },
+            {
+                "title": "3.",
+                "body": "Seal the plate with breathable plate seal and grow for 2h at 30°C, 900 rpm."
+            },
+            {
+                "title": "4.",
+                "body": "Add 20 μl of 25% L-rhamnose to each well, seal again with breathable seal and grow for further 1h at 37°C, 900 rpm."
+            },
+            {
+                "title": "5.",
+                "body": "Spin down for 10 min at 5000 g."
+            },
+            {
+                "title": "6.",
+                "body": "Discard the supernatant and press the plate onto a paper stack \\(made of 5-6 layers of clean paper tissue)."
+            },
+            {
+                "title": "7.",
+                "body": "Add 1.2 ml of cold sterile 10% glycerol to each plate."
+            },
+            {
+                "title": "8.",
+                "body": "Seal the plate with plastic seal and shake at 1400 rpm for 1 min."
+            },
+            {
+                "title": "9.",
+                "body": "Spin down for 10 min at 5000 g."
+            },
+            {
+                "title": "10.",
+                "body": "Discard the supernatant and press the plate onto a paper stack \\(made of 5-6 layers of clean paper tissue)."
+            },
+            {
+                "title": "11.",
+                "body": "Add 100 μl of PCR product in H<sub>2</sub>O \\(5 ng/μl)."
+            },
+            {
+                "title": "12.",
+                "body": "Pipette up and down 5 times to suspend the pellet and transfer to the 96-well electroporation cuvette."
+            },
+            {
+                "title": "13.",
+                "body": "Electroporate at 2500 V."
+            },
+            {
+                "title": "14.",
+                "body": "Transfer the cells to new plate with 1 ml of SOC medium per well."
+            },
+            {
+                "title": "15.",
+                "body": "Seal with the breathable film and let the cells recover for 1h at 30°C, 900 rpm."
+            },
+            {
+                "title": "16.",
+                "body": "Transfer 100 μl to a new plate with 1ml of LB plus 12.5 μg/ml chloramphenicol, 20 μg/ml hygromycin and 15 μg/ml kanamycin."
+            },
+            {
+                "title": "17.",
+                "body": "Seal with the breathable film and incubate overnight at 30°C, 900 rpm."
+            }
+        ]
+    },
+    {
+        "title": "**Day 3 &#x2013; Removal of the kanamycin resistance gene**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pipette 1 ml of LB plus 12.5 μg/ml chloramphenicol, 20 μg/ml hygromycin and 200 nM anhydrotetracycline to each 96-well."
+            },
+            {
+                "title": "2.",
+                "body": "Inoculate with 10 μl overnight culture of the tagged fosmid."
+            },
+            {
+                "title": "3.",
+                "body": "Seal the plate with breathable plate seal and grow overnight at 37°C, 900 rpm."
+            },
+            {
+                "title": "4.",
+                "body": "The next day transfer 200 μl of the overnight culture to each of 2 plates with 800 μl of LB plus 25% glycerol, 12.5 μg/ml chloramphenicol."
+            },
+            {
+                "title": "5.",
+                "body": "Seal the plates, label them and store in 2 separate freezers."
+            }
+        ]
+    }
+]

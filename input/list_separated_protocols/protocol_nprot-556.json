@@ -1,0 +1,114 @@
+[
+    {
+        "title": "**1. Start the program:**",
+        "body": "- by clicking the SARSE icon."
+    },
+    {
+        "title": "**2. Import bitmap files:**",
+        "body": [
+            "- Select _New_ in the _File_ menu and open the file _blank.txt_ located in the _tutorial-data_ folder.\r\n\n\n- Write the _Project name_ \"ACE\" \\(for the similar design of face A, C, and E) and click _Browse_ to select your preferred working directory.\r\n\n\n- Select _Programs_ in the _Tools_ menu.\r\n\n\n- Select the program package _DNA-origami_ and the program _import-bitmap_. \r\n\n\n- Click the _Options_ and click _Browse_ to select the _ABCE.bmp_ file in the _tutorial-data_ folder.\r\n\n\n- Click _Ok_ to activate the program and _Ok_ to accept the result. The result is loaded back in the editor.\r\n\n\n- Repeat these steps to create separate projects called \"B\" \\(for unique face B design), \"DF-left\" \\(for the left part of face D and F design), and \"DF-right\" \\(for the right part of face D and F design) and import the corresponding bitmap files.\r\n\n\n\r\n\n\nIn the resulting files each black pixel of the bitmap file is translated into the symbol \"A\" \\(see Fig.",
+            {
+                "title": "1).",
+                "body": "Each pixel is defined as having dimensions of 3.375 Å on the _x_-axis and 3 Å on the _y_-axis, corresponding to the helical rise per base pair in the B-form DNA double helix and to 1/10th of the measured distance between helices in the DNA origami structures \\[8], respectively. Because of this definition the shape has to be slightly longer on the _y_-axis in the editor.\r\n\n\n\r\n\n\nTIPS. In the _import-bitmap_ program there are options to help you rescale your bitmap to the appropriate size. The option called \"Rescale\" allows you to input the length of the DNA that you want to fold which will make the program rescale the shape to the appropriate amount of pixels. The option \"Adjust dimensions\" will slightly stretch the bitmap on the _y_-axis according to the definition given above."
+            }
+        ]
+    },
+    {
+        "title": "**3. Fold the DNA strand through the shape:**",
+        "body": [
+            "- Choose the \"ACE\" project by clicking the button at the top of the editing area \\(Fig.",
+            {
+                "title": "1).",
+                "body": [
+                    "- Choose _Programs_ in the _Tools_ menu.\r\n\n\n- Select the _DNA-origami_ package.\r\n\n\n- Select the _DNA-origami-fold_ program and click the _Options_ button.\r\n\n\n- Choose the five parameters for folding the different type of faces as specified in Table",
+                    {
+                        "title": "1.",
+                        "body": "- Click _Ok_ to activate the program.\r\n\n\n- Click _Ok_ to accept the result \\(Fig."
+                    }
+                ]
+            },
+            {
+                "title": "2).",
+                "body": "- Repeat the operations for all projects.\r\n\n\n\r\n\n\nFaces D and F are done in two parts \\(left and right) to be able to create a seam \\[8] down the middle.\r\n\n\n\r\n\n\nThe path of the scaffold strand is indicated with the symbol \"R\" and the staple strands with either \"B\" or \"G\" \\(Fig."
+            },
+            {
+                "title": "2).",
+                "body": "The colour scale of the symbols indicate the helical twist of each base in respect to the plane \\(blue = down, red = up, green = out, white = in). The staple strands crossover positions point from blue to red since they are crossing over between two adjacent helices in the plane. \r\n\n\n\r\n\n\nTIPS. Use the _Overview_ window that can be activated in the _View_ menu \\(Fig."
+            },
+            {
+                "title": "2).",
+                "body": [
+                    "The _Overview_ window provides a zoomable image of the design file that is interactively linked to the editor window. By clicking at a specific position of the _Overview_ window the editor is moved to the corresponding position.\r\n\n\n\r\n\n\nCAUTION. The position of the staple strand crossover has to be a half number since it is defined to be between the two phosphates of the nucleotides in two adjacent columns.\r\n\n\n\r\n\n\nTIPS. The symbols \"R\", \"G\" and \"B\" stands for \"red\", \"green\" and \"blue\", respectively. To get a more easy view of the folded scaffold and staple strands you can use the _color-symbols_ program \\(Fig.",
+                    {
+                        "title": "3)",
+                        "body": "and switch back to the twist colours by the _color-twist_ program \\(Fig. 2)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**4. Inspect the edges of the design to modify staple strands:**",
+        "body": [
+            "- Activate the _color-symbols_ program as described above. The symbol colours are more easy to look at when editing the staple strands. If new crossovers should be designed \\(where the orientation of the phosphate backbone is important) it is useful to re-colour using the _color-twist_ program.\r\n\n\n- Delete staple strand crossovers if they do not continue \\(as in Fig.",
+            {
+                "title": "4).",
+                "body": "Deletion is done by selecting and changing the symbol to \"-\".\r\n\n\n- For creating staple strand connections across the seam of \"DF-left\" and \"DF-right\" the staple strand crossovers at the edges should be broken. Insert a \"X\" symbol at the positions where you want the staple strand to continue into another project file \\(Fig."
+            },
+            {
+                "title": "5).",
+                "body": "The \"X\" symbols will be combined at a later stage.\r\n\n\n- Add T-loops and T-ends at edges \\(as in Fig."
+            },
+            {
+                "title": "6).",
+                "body": "The editing is done by selecting a position or region with the mouse and changing the symbol to \"T\" by pressing the change symbol button or using the change symbol in the Edit menu or the short cut _Alt+t_.\r\n\n\n- Combine staple strands if regions exist that are smaller than e.g. 10 nucleotides. The staple strands are combined across the scaffold strand by making a connection of \"B\" or \"G\" symbols across the \"R\" symbols \\(as in Fig."
+            },
+            {
+                "title": "4).",
+                "body": "TIPS. Use the _History_ window that can be opened in the _Edit_ menu to undo unwanted editing or if a wrong program was run on your design. Be aware that not all changes can be undone \\(refer to the documentation at \"www.sarse.org\":http://www.sarse.org/ )."
+            }
+        ]
+    },
+    {
+        "title": "**5. Create sequence files for the final designs:**",
+        "body": "- Determine sequence length for the design files individually by running the program _calculate-length_. Look at the header of the output file in the working directory where the length data is written.\r\n\n\n- Use a vector editor program like CLCbio Workbench - \"www.clcbio.com\":www.clcbio.com to define regions on the circular m13mp18 strand of the determined lengths of face A, B, C, D, E, F.\r\n\n\n- Export a fasta file for each region \\(premade fasta files can also be found in the _tutorial-data_ folder).\r\n\n\n\r\n\n\nCAUTION. Sequence directions should not be reversed at this point, since the programs used below will take care of this using the folding parameter information that is stored in the header of the design files."
+    },
+    {
+        "title": "**6. Construct atomic models of the DNA origami sheets:**",
+        "body": [
+            "- Make seperate projects for all faces by opening the final \"ACE\" design and saving it as \"A\", \"C\" and \"E\". Do the same to create a seperate project for all.\r\n\n\n- Select the \"A\" project.\r\n\n\n- Open the _Programs_ window and choose _pdb-generator_.\r\n\n\n- Choose _Options_ and _Browse_ for the file _A.fasta_.\r\n\n\n- Run the program. The program will tell you that an additional file was created in the working directory called _pdbout.pdb_. Accept the result.\r\n\n\n- In the \"A\" working directory rename the _pdbout.pdb_ file to _A.pdb_.\r\n\n\n- Do the same for the \"B\", \"C\", \"D-left\", \"D-right\", \"E\", \"F-left\" and \"F-right\" projects to create pdb files with corresponding names.\r\n\n\n- Combine _D-left.pdb_ and _D-right.pdb_ into one _D.pdb_ file by merging the two files in a text editor. Do the same for _F-left.pdb_ and _F-right.pdb_ to create _F.pdb_.\r\n\n\n\r\n\n\nNOTE. The _pdb-generator_ models the bending of the helices towards the staple strand crossovers and at the edges it models the scaffold crossovers. This realistic modeling is important for the design of 3D crossovers between the faces, which will be done in step",
+            {
+                "title": "8.",
+                "body": "CAUTION. If you have a slow computer it will have difficulty in loading all the atomic model files in the next step. Instead of making the full atomic models it is possible to model only the phosphate backbone of the helices. To do this, choose it in the _pdb-generator Options_."
+            }
+        ]
+    },
+    {
+        "title": "**7. Orient the atomic models into the 3D shape:**",
+        "body": [
+            "- Open the PyMOL program and load all faces \\(A-F).\r\n\n\n- Rotate all faces to position them face on as displayed in SARSE. This can be done by executing the following commands in PyMOL:\r\n\n\nPyMOL> rotate y,90\r\n\n\nPyMOL> rotate x,-90\r\n\n\n\r\n\n\n- First we contruct the main box using the following commands:\r\n\n\nPyMOL> rotate x,90,B\r\n\n\nPyMOL> translate \\[0,-170,-170],B\r\n\n\nPyMOL> rotate x,180,C\r\n\n\nPyMOL> translate \\[0,0,-340],C\r\n\n\nPyMOL> rotate z,180,E\r\n\n\nPyMOL> rotate x,-90,E\r\n\n\nPyMOL> translate \\[55,170,-170],E\r\n\n\n\r\n\n\n- Second we add the lids:\r\n\n\nPyMOL> rotate y,90,D\r\n\n\nPyMOL> rotate x,180,D\r\n\n\nPyMOL> translate \\[225,0,-170],D\r\n\n\nPyMOL> rotate y,90,F\r\n\n\nPyMOL> rotate x,180,F\r\n\n\nPyMOL> translate \\[-170,0,-170],F\r\n\n\n\r\n\n\n- Now we colour the models as in SARSE:\r\n\n\nPyMOL> select chain M\r\n\n\nChoose red color for the selection.\r\n\n\nPyMOL> select chain B\r\n\n\nChoose blue color for the selection.\r\n\n\nPyMOL> select chain F\r\n\n\nChoose green color for the selection.\r\n\n\n\r\n\n\nNow there is a direct translation between the SARSE 2D editor and the 3D view in PyMOL \\(Fig.",
+            {
+                "title": "7).",
+                "body": "The side of the faces seen in SARSE are placed on the outside of the box in the 3D editor for face A-E, but on the inside for face F."
+            }
+        ]
+    },
+    {
+        "title": "**8. Design 3D crossover positions:**",
+        "body": "- Place the SARSE and PyMOL windows side by side on a large screen.\r\n\n\n- In PyMOL show only face A and B by deselecting the others and rotate 45 degrees to view the edge between the faces \\(Fig. 8):\r\n\n\nPyMOL> rotate x, 45\r\n\n\n- Find the best crossover positions between the two faces by measuring the distance between staple strand 5' and 3' ends using the PyMOL Measurement Wizard.\r\n\n\n- Calculate the amount of T nucleotides needed for a linker connecting the 5' and 3' ends, where one single stranded nucleotide is assumed to be 4 Å.\r\n\n\n- Add \"T\"s for the linker and an \"X\" to mark the crossover between projects in the SARSE program.\r\n\n\n- Repeat this procedure for all twelve edges."
+    },
+    {
+        "title": "**9. Insert sequences into the design:**",
+        "body": [
+            "- Select project \"A\".\r\n\n\n- Open the program _oligo-track_ and in _Options_ choose the sequence file _A.fasta_.\r\n\n\n- Run the program and accept results. The result file shows the sequences plotted onto your design with staple strand names positioned at their 5' ends and composed of the row and column number of the first nucleotide \\(Fig.",
+            {
+                "title": "9).",
+                "body": "- Repeat procedure for all faces.\r\n\n\n- The designed staple strands are printed in the file _out2.txt_ in the working directory \\(Fig. 9)."
+            }
+        ]
+    },
+    {
+        "title": "**10. Merge staple strands:**",
+        "body": "- Copy all _out2.txt_ files into a common Word file.\r\n\n\n- Color the staple strands of the faces in different colors.\r\n\n\n- Rename the staple strands to reflect which face they belong to.\r\n\n\n- Merge staple strands from different faces at the \"X\" symbols. Use SARSE to navigate the final design files with names and sequences to determine which staple strands should be combined.\r\n\n\n- Rename the merged staples to indicate which faces they link together.\r\n\n\n- When you are satisfied and confident that no errors were made during the design process, the file is used to order the sequences from your favorite DNA synthesis company.\r\n\n\n\r\n\n\nDISCLAIMER. The ordering of 200+ oligos of 32+ nucleotides each represents a considerable price. We take no responsibility for possible errors in the programs used. Ordering primers designed using the _SARSE - DNA origami package_ is solely your own responsibility."
+    }
+]

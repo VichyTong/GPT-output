@@ -1,0 +1,431 @@
+[
+    {
+        "title": "**Construction of MCAP vectors**",
+        "body": [
+            "_Small-scale cloning of crRNA arrays into MCAP expression vectors \\(4 days)_",
+            {
+                "title": "1.",
+                "body": "Identify target genes for knockout. Here we use Nf2 and Trim72 as illustrative examples, but note that any genomic loci with a Cpf1 PAM sequence \\(TTTV) may be targeted."
+            },
+            {
+                "title": "2.",
+                "body": "Design LbCpf1 crRNAs \\(20-23nt spacers) with Benchling, Cas-Designer 15, or other computational tools. A non-targeting crRNA or control crRNA can also be included.\r\n  LbCpf1 direct repeat \\(DR): TAATTTCTACTAAGTGTAGAT\r\n\n\ncrNf2 spacer: AAGGCCTCGATCTCCGTCTT \r\n\n\ncrTrim72 spacer:  TGCCGTGCCTGCCTGATCCG"
+            },
+            {
+                "title": "3.",
+                "body": [
+                    "Synthesize oligonucleotides according to the following schema, where the “core sequence” is defined as Spacer1-DR-Spacer2-DR, and “revComp” denotes the reverse complement. Here, we use the crNf2 spacer as Spacer1, and crTrim72 spacer as Spacer2.",
+                    {
+                        "title": "a)",
+                        "body": "For cloning into pRC11: Forward oligo = TAGAT – core sequence – TTTTTTA; Reverse oligo = AGCTTAAAAAA – revComp\\(core sequence) – A."
+                    },
+                    {
+                        "title": "b)",
+                        "body": "For cloning into pRG01 and pRC49: Forward oligo = TAGAT – core sequence – T; Reverse oligo = AAAAA – revComp\\(core sequence) – A."
+                    }
+                ]
+            },
+            {
+                "title": "4.",
+                "body": "Anneal the forward and reverse oligos with the following reaction: \r\n  1 μl of 100 μM forward oligo\r\n\n\n1 μl of 100 μM reverse oligo\r\n\n\n1 μl of 10x T4 Ligation Buffer\r\n\n\n6.5 μl of ddH2O\r\n\n\n0.5 μl of T4 PNK\r\n\n\nTotal vol = 10 μl. \r\n\n\nThermocycler conditions: 37°C for 30 minutes, 95°C for 5 minutes, then ramp down to 25°C at 5°C / minute."
+            },
+            {
+                "title": "5.",
+                "body": "Digest pRC11 \\(puromycin resistance only), pRG01 \\(puromycin resistance and firefly luciferase), or pRC49 \\(puromycin resistance, firefly luciferase, and nuclear EGFP) with the following reaction:\r\n  5 μg of plasmid \\(pRC11, pRG01, or pRC49)\r\n\n\n3 μl of FastDigest Esp3I\r\n\n\n4 μl of FastAP\r\n\n\n5 μl of 10x FastDigest Buffer\r\n\n\nX μl of ddH2O to 50 μl\r\n\n\nTotal vol = 50 μl. \r\n\n\nThermocycler conditions: 37°C for 30 minutes."
+            },
+            {
+                "title": "6.",
+                "body": "Run the plasmid digestion on an agarose gel, alongside an uncut enzyme control. Confirm the linearization of the digested plasmid, then gel purify with the QIAquick Gel Extraction Kit."
+            },
+            {
+                "title": "7.",
+                "body": "Dilute the annealed oligos from step 4 at 1:200 dilution in ddH2O."
+            },
+            {
+                "title": "8.",
+                "body": [
+                    "Ligate the annealed oligos into the purified BsmBI-digested plasmid with the following reaction:\r\n  X μl of BsmBI-digested plasmid \\(from step",
+                    {
+                        "title": "5)",
+                        "body": "to 50 ng\r\n\n\n1 μl of diluted oligo duplex \\(from step"
+                    },
+                    {
+                        "title": "7)",
+                        "body": "5 μl of 2x Quick Ligase Buffer\r\n\n\n1 μl of Quick Ligase\r\n\n\nX μl of ddH2O to 11 μl\r\n\n\nTotal vol = 11 μl\r\n\n\nIncubate at room temperature for 10 minutes."
+                    }
+                ]
+            },
+            {
+                "title": "9.",
+                "body": "Transform into Stbl3 bacteria. On ice, add 1 μl of ligation product to bacteria and swirl gently to mix. Incubate on ice for 20 minutes, then heat shock by incubating at 42°C for 45 seconds. Immediately place bacteria back on ice and incubate for 20 minutes. Add 250 μl of S.O.C. media to bacteria, mix, and plate onto carbenicillin-containing LB agar plates."
+            },
+            {
+                "title": "10.",
+                "body": "The following day, pick colonies and shake overnight in 4 mL of carbenicillin LB broth."
+            },
+            {
+                "title": "11.",
+                "body": "Take 0.5 mL of the bacterial cultures and mix in 50% glycerol. Store in -20°C short-term, or -80°C long-term."
+            },
+            {
+                "title": "12.",
+                "body": "Purify the plasmids from the remaining bacterial cultures with the QIAprep Spin Miniprep kit."
+            },
+            {
+                "title": "13.",
+                "body": "Sequence the plasmids with the following primer: GAGGGCCTATTTCCCATGAT. Confirm successful ligation of the oligos containing the crRNA array into the expression vector.\r\n  \r\n\n\n_MCAP library design, cloning, and readout \\(4 days hands-on, not including chip oligo synthesis and next-generation sequencing)_"
+            },
+            {
+                "title": "1.",
+                "body": "Identify crRNA spacer sequences as described above for all genes to be represented in the library. Include control crRNA spacers that are non-targeting, or targeting a known control locus \\(i.e. noncoding regions or gene deserts). As a rule of thumb, the control crRNAs should ideally comprise at least 10% of the total library size in order to accurately model the null distribution. Since the cutting efficiencies of different crRNAs is quite variable, it is also essential to design multiple independent crRNAs targeting each gene."
+            },
+            {
+                "title": "2.",
+                "body": [
+                    "Here, we describe barcoded MCAP library design for double knockout studies, but we note that triple knockout studies are also feasible using this approach. Design MCAP library oligos according to the schema detailed below, where the “core sequence” is defined as Spacer1-DR-Spacer2-DR, and “revComp” denotes the reverse complement. For each possible gene pair, randomly assign the constituent genes to either the first or second crRNA position. In our experience, the position of the crRNA within the array does not significantly influence Cpf1 cutting efficiency.\r\n  \r\n\n\nFor cloning into pRC11: \r\n\n\n5’ - TCTTGTGGAAAGGACGAAACACCGTAATTTCTACTAAGTGTAGAT – core sequence – TTTTTTNNNNNNNNNNAAGCTTGGCGTGGATCCGATATCAA - 3’",
+                    {
+                        "title": "b)",
+                        "body": "For cloning into pRG01 or pRC49:\r\n\n\n5’ - TCTTGTGGAAAGGACGAAACACCGTAATTTCTACTAAGTGTAGAT – core sequence – TTTTTTNNNNNNNNNNTTTTTTAAGCTTGGCGTGGATCCGATATCAA - 3’"
+                    }
+                ]
+            },
+            {
+                "title": "3.",
+                "body": "Synthesize the MCAP library using an oligo pool service, such as CustomArray."
+            },
+            {
+                "title": "4.",
+                "body": "PCR amplify the library using the following primers to add Gibson homology arms:\r\n  arrayF_MCAP: TAACTTGAAAGTATTTCGATTTCTTGGCTTTATATATCTTGTGGAAAGGACGAAACACCG\r\n\n\narrayR_MCAP: TTGTCTCAAGATCTAGTTGATATCGGATCCACGCCAAGCTT\r\n\n\nUse a 50 μl reaction volume. \r\n\n\nThermocycler conditions using Phusion Flash: 98°C for 1 min, 32 cycles of \\(98°C for 1s, 59°C for 5s, 72°C for 10s), 72°C for 2 min."
+            },
+            {
+                "title": "5.",
+                "body": "Run the PCR product on a gel. The product should be 210 bp. Purify with the QIAquick Gel Extraction Kit."
+            },
+            {
+                "title": "6.",
+                "body": "Clone the purified PCR product into the appropriate vector by Gibson assembly according to manufacturer instructions. Use 330 ng of the digested vector and 50 ng of the PCR-amplified library pool."
+            },
+            {
+                "title": "7.",
+                "body": "Using 1 μl of the Gibson product, electroporate the library into Endura ElectroCompetent cells according to manufacturer instructions. Use 1 vial of cells \\(split into two electroporations) for every 10,000 constructs represented in the library."
+            },
+            {
+                "title": "8.",
+                "body": "After electroporation, recover the cells with 975 μl of Recovery Media. Transfer to a bacterial culture tube and shake at 37°C for 1.5 hours."
+            },
+            {
+                "title": "9.",
+                "body": "Take 10 μl of the culture \\(from 1 mL total), dilute with 990 μl of LB with carbenicillin \\(1:100 dilution). Then take 100 μl of the diluted cells and mix further with 900 μl of LB \\(1:1000 dilution). Plate 100 μl of the 1:1000 dilution on a small carbenicillin LB agar plate to calculate transformation efficiency. Plate the remaining cultures on large 245mm LB agar plates using a bacterial spreader."
+            },
+            {
+                "title": "10.",
+                "body": "The following day, count the number of colonies on the small plate. Multiply the number of colonies by 10,000 to estimate the number of unique colonies represented in each of the large LB agar plates. The goal is to have approximately 500x the library size across all successfully transformed colonies."
+            },
+            {
+                "title": "11.",
+                "body": "Add 10 mL of LB to the large plates, and harvest the cells with a cell spreader. Proceed with plasmid purification using the EndoFree Plasmid Maxi Kit."
+            },
+            {
+                "title": "12.",
+                "body": "Fully sequence the plasmid library by Illumina sequencing. To do so, PCR amplify the U6 expression cassette using the following primers:\r\n  MCAP_rdt1_F: AATGGACTATCATATGCTTACCGTAACTTGAAAGTATTTCG\r\n\n\nMCAP_rdt1_R: CTTTAGTTTGTATGTCTGTTGCTATTATGTCTACTATTCTTTCCC\r\n\n\nThermocycler conditions using Phusion Flash: 98 °C for 1 min, 15 cycles of \\(98 °C for 1s, 60 °C for 5s, 72 °C for 15s), and 72 °C for 1 min."
+            },
+            {
+                "title": "13.",
+                "body": "Take 1 μl of the PCR product and amplify with a second round of PCR to add Illumina sequencing adapters. \r\n  MCAP_rdt2_F: AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCTTAAGTAGAGTCTTGTGGAAAGGACGAAACACCG\r\n\n\nMCAP_rdt2_R: CAAGCAGAAGACGGCATACGAGATAAGTAGAGGTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTTTCTACTATTCTTTCCCCTGCACTGT\r\n\n\nThermocycler conditions using Phusion Flash: 98 °C for 1 min, 20 cycles of \\(98 °C for 1s, 60 °C for 5s, 72 °C for 15s), and 72 °C for 1 min."
+            },
+            {
+                "title": "14.",
+                "body": "Sequence the diluted libraries with 5-20% PhiX, with 150bp paired-end reads."
+            },
+            {
+                "title": "15.",
+                "body": "Merge the raw paired-end fastq read files to single fastq files by PEAR with the settings -y 8G -j 8 -v"
+            },
+            {
+                "title": "3.",
+                "body": []
+            },
+            {
+                "title": "16.",
+                "body": "Filter and demultiplex the merged fastq files using Cutadapt, using two different sets of adapters for extraction of crRNA array sequences or the 10mer barcode. For the crRNA array, use the following settings: cutadapt --discard-untrimmed -g tcttGTGGAAAGGACGAAACACCg, followed by cutadapt --discard-untrimmed -a TGTAGATTTTTTT."
+            },
+            {
+                "title": "17.",
+                "body": "Map the trimmed sequences to the MCAP library using Bowtie: bowtie -v 3 -k 1 -m"
+            },
+            {
+                "title": "1.",
+                "body": "For the 10mer degenerate barcodes, use the following Cutadapt settings: cutadapt --discard-untrimmed -a AAGCTTGGCGTGGATC, followed by cutadapt --discard-untrimmed -g TACTAAGTGTAGATTTTTTT."
+            },
+            {
+                "title": "18.",
+                "body": "Quantify the resultant sequences to a reference of all possible 10mer sequences. Tabulate all reads that successfully mapped to both the MCAP library and contained a valid barcode."
+            }
+        ]
+    },
+    {
+        "title": "**Generating the MCAP-transduced cell pool**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Grow HEK293FT cells to 80% confluency in 15-cm tissue culture dishes. One hour prior to transfection, change media to Opti-MEM."
+            },
+            {
+                "title": "2.",
+                "body": "Transfect HEK293FT cells with 20 ug MCAP lentiviral plasmid library, 10 ug pMD2.G, 15 ug psPAX2, and 1 ug pcDNA3-GFP, using polyethyleneimine \\(PEI)."
+            },
+            {
+                "title": "3.",
+                "body": "6 hours following transfection, change media to DMEM with 10% FBS."
+            },
+            {
+                "title": "4.",
+                "body": "Collect supernatant at 48 and 72 hours after transfection. Centrifuge for 10 minutes at 1500g to remove cell debris. Freeze aliquots in -80°C."
+            },
+            {
+                "title": "5.",
+                "body": "Infect the target cells of interest using a variety of different lentiviral volumes. Add 3 μg/mL of puromycin 24 hours following lentiviral infection to select the transduced cells. Calculate the ratio of surviving cells after 24 hours of puromycin selection, compared to the initial cell count at time of infection."
+            },
+            {
+                "title": "6.",
+                "body": "Once the lentiviral titer has been determined, infect the target cells at an MOI of 0.2, aiming for at least 1000x library coverage. As an example, for a library size of 10,000 arrays, infecting 1x108 cells at MOI of 0.2 will lead to ~2000x coverage."
+            },
+            {
+                "title": "7.",
+                "body": "The following day, add 3 μg/mL of puromycin. Continue culturing the cells in puromycin-containing media for 7 days to ensure complete selection."
+            }
+        ]
+    },
+    {
+        "title": "**Mouse model of tumorigenesis and metastasis**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Continuing with puromycin selection, expand the cell pool in 15 cm tissue culture plates until there are sufficient cells for experiments. For KPD cells, we inject 4×10<sup>6</sup> cells per mouse, though the numbert of cells should be determined based on the cell type of interest. Once the required cell number has been reached, resuspend the cells to a final concentration such that each mouse will receive a 100 μl injection of the cell suspension."
+            },
+            {
+                "title": "2.",
+                "body": "Anesthetize the mice according to animal protocol. For KPD cells, we inject 100 ul of the 4×10<sup>7 cells / ml cell suspension \\(for a total of 4×10</sup>6^ cells) into the right flanks of nu/nu mice."
+            },
+            {
+                "title": "3.",
+                "body": "As the tumors engraft and begin to grow, measure tumor sizes by caliper approximately every two days. To calculate the tumor volume, use the formula Volume \\(mm<sup>3</sup>) = π/6"
+            }
+        ]
+    },
+    {
+        "title": "**x**",
+        "body": [
+            "y*z.",
+            {
+                "title": "4.",
+                "body": "Euthanize mice at 28-35 days after the initial injection for KPD cells. For other cell types or starting cell numbers, the time of euthanization needs to be optimized for the emergence of metastasis."
+            },
+            {
+                "title": "5.",
+                "body": "Harvest the primary tumors and lung lobes. Freeze in liquid nitrogen, then grind the tissue."
+            },
+            {
+                "title": "6.",
+                "body": "Resuspend each sample in 6 ml of NK Lysis Buffer \\(50 mM Tris, 50 mM EDTA, 1% SDS, pH 8.0) supplemented with 30 μL of 20 mg/mL Proteinase K \\(Qiagen) in 15 mL conical tubes, and incubate at 55 °C bath overnight."
+            },
+            {
+                "title": "7.",
+                "body": "Add 30 μl of 10 mg/mL RNAse and incubate at 37 °C for 30 min. Chill on ice, then add 2 mL of pre-chilled 7.5 M ammonium acetate."
+            },
+            {
+                "title": "8.",
+                "body": "Invert, vortex for 30s, then centrifuge at 4,000g for 10 min. Decant supernatant into 15 ml tube, then add 6 ml 100% isopropanol. Invert 50 times and centrifuge at 4000g for 10 min. DNA should be visible as a small white pellet."
+            },
+            {
+                "title": "9.",
+                "body": "Discard supernatant, add 6 ml of 70% ethanol, mix, then centrifuge at 4000g for 10 min. Discard supernatant, and remove residual ethanol by pipette. Air dry for 20 minutes."
+            },
+            {
+                "title": "10.",
+                "body": "Resuspend DNA by adding 200-500 ul of ddH2O. Measure concentration by Nanodrop. Normalize to 1000 ng/μl for PCR."
+            }
+        ]
+    },
+    {
+        "title": "**MCAP library readout from tumor genomic DNA**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "For PCR readout from tumor genomic DNA, use 10-20 μg of gDNA per sample, divided over 5-10 replicate PCR reactions as necessary. For readout from the pre-injection cell pool, use 20 μg of gDNA divided over 10 replicate PCR reactions."
+            },
+            {
+                "title": "2.",
+                "body": "For the 1st PCR, use the readout primers MCAP_rdt1_F and MCAP_rdt1_R as previously described for initial plasmid library sequencing. Thermocycler conditions using Phusion Flash: 98 °C for 1 min, 15 cycles of \\(98 °C for 1s, 60 °C for 5s, 72 °C for 15s), and 72 °C for 1 min."
+            },
+            {
+                "title": "3.",
+                "body": "Pool together 1st PCR products from each biological replicate. Take 2 μl of the mixed 1st PCR products as the template for 2nd round PCR, using the barcoded primers detailed in \"Table 1\":http://www.nature.com/protocolexchange/system/uploads/7577/original/Table1-readout-primers.xlsx?1550119626 to uniquely label each independent sample. Note down the barcoding scheme for each sample. Thermocycler conditions using Phusion Flash: 98 °C for 1 min, 15 cycles of \\(98 °C for 1s, 60 °C for 5s, 72 °C for 15s), and 72 °C for 1 min."
+            },
+            {
+                "title": "4.",
+                "body": "Quantify 2 ul of the 2nd PCR products on a 2% E-gel EX using the E-Gel Low Range Quantitative DNA Ladder. Use these quantities to equally mix the 2nd PCR products of each sample. Purify using the QIAquick PCR Purification Kit as well as the Gel Extraction Kit."
+            },
+            {
+                "title": "5.",
+                "body": "Sequence the diluted libraries with 5-20% PhiX, with 150bp paired-end reads."
+            }
+        ]
+    },
+    {
+        "title": "**Analysis of MCAP library readout**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Use PEAR 16 to merge paired-end fastq files."
+            },
+            {
+                "title": "2.",
+                "body": "Filter and demultiplex using Cutadapt"
+            },
+            {
+                "title": "17.",
+                "body": "To remove extra sequences downstream \\(i.e. 3’ end) of the crRNA array sequences, including the DR and U6 terminator, execute the following command: cutadapt --discard-untrimmed –e 0.1 -a aagcttggcgtGGATCCGATATCa -m"
+            },
+            {
+                "title": "80.",
+                "body": []
+            },
+            {
+                "title": "3.",
+                "body": "As the forward PCR primers used to readout crRNA array representation were designed to have a variety of barcodes to facilitate multiplexed sequencing, demultiplex these filtered reads with the following settings: cutadapt -g file:fbc.fasta --no-trim, where fbc.fasta contains the 12 possible barcode sequences within the forward primers noted in Table"
+            },
+            {
+                "title": "1.",
+                "body": []
+            },
+            {
+                "title": "4.",
+                "body": "To remove extraneous sequences upstream \\(i.e. 5’ end) of the crRNA array spacers, run this command: cutadapt --discard-untrimmed –e 0.1 -g tcttGTGGAAAGGACGAAACACCg -m"
+            },
+            {
+                "title": "80.",
+                "body": []
+            },
+            {
+                "title": "5.",
+                "body": "Remove the 5’ DR sequence as follows: cutadapt --discard-untrimmed -e 0.1 -g TAATTTCTACTAAGTGTAGAT -m"
+            },
+            {
+                "title": "80.",
+                "body": []
+            },
+            {
+                "title": "6.",
+                "body": "Map the filtered fastq reads to the MCAP-MET reference index. To do so, first generate a Bowtie index of the MCAP-MET library using the bowtie-build command in Bowtie 1.1.2"
+            },
+            {
+                "title": "18.",
+                "body": "Using these bowtie indexes, map the filtered fastq read files using the following command bowtie -n 2 -k 1 -m 1 --best. These settings ensure that only single-match reads would be retained for downstream analysis."
+            },
+            {
+                "title": "7.",
+                "body": "For data processing on the level of barcoded-crRNAs, we utilized the same trimmed fastq files as above, but instead used the barcoded-crRNA plasmid library \\(described above) as the reference Bowtie index."
+            },
+            {
+                "title": "8.",
+                "body": "Tabulate the number of reads that had mapped to each crRNA array within the library using the Bowtie mapping output. Normalize the number of reads in each sample by converting raw crRNA array counts to reads per million \\(rpm)."
+            },
+            {
+                "title": "9.",
+                "body": "To analyze the data at the level of barcoded-crRNAs, convert the counts per barcoded-crRNA in each sample to percentages of total reads."
+            },
+            {
+                "title": "10.",
+                "body": "To identify crRNA arrays that are enriched in individual samples, utilize the control crRNA arrays to model the empirical null distribution. Enriched crRNA arrays can be defined as those exceeding the abundance of the “top” control crRNA."
+            },
+            {
+                "title": "11.",
+                "body": "For identifying potential synergistic interactions, calculate the synergy coefficient \\(SynCo) for each gene pair with the following formula: SynCo = DKONM - SKO¬N- SKOM. The DKONM value is the median log2 rpm abundance \\(averaged over all samples) of all corresponding DKO crRNA arrays \\(i.e., crN.crM), while SKO¬N and SKOM values are defined as the median log2 rpm abundance of all corresponding SKO crRNA arrays. By this definition, a SynCo score > 0 would indicate that a given DKO crRNA array is synergistic, as the DKO score would thus be greater than the sum of the individual SKO scores."
+            }
+        ]
+    },
+    {
+        "title": "**Validation of individual genes and pairs**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Having identified potential genetic interactions from the primary tumors and/or metastases, validation experiments using individual crRNA arrays can be performed. Use the oligo-cloning protocol described above to clone in the specific crRNA arrays of interest."
+            },
+            {
+                "title": "2.",
+                "body": "The in vivo tumor model can be performed similarly. We inject 1.8x106 KPD cells per flank, as the cells all contain the same crRNA array and do not necessitate larger cell numbers to accommodate library diversity."
+            },
+            {
+                "title": "3.",
+                "body": "Proceed with tumor growth measurements and tissue dissection procedures as done previously."
+            }
+        ]
+    },
+    {
+        "title": "**T7E1 assays**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "7 days following the initial lentiviral infection, harvest the puromycin-resistant cells and isolate genomic DNA using the QIAamp DNA Mini Kit."
+            },
+            {
+                "title": "2.",
+                "body": "Design PCR primers to amplify target loci from genomic DNA around cutting site. Input the crRNA spacer sequence into NCBI Blat, then click “View->Get DNA.” Retrieve the 600 bp of DNA sequence upstream and downstream of the crRNA cut site within the genome."
+            },
+            {
+                "title": "3.",
+                "body": "Copy the ~1200 bp sequence into NCBI Primer-BLAST. Make sure to select the Refseq representative genome for the correct organism of interest under the “Primer Pair Specificity Checking Parameters” section. Other parameters such as melting temperature, oligo length, and PCR product size can be optimized as desired."
+            },
+            {
+                "title": "4.",
+                "body": "Using the primers designed from step 3, Perform PCR on the isolated genomic DNA. Run PCR amplicons on 2% E-gel EX and purify \\(with known band size) using QIAquick Gel Extraction Kit."
+            },
+            {
+                "title": "5.",
+                "body": "After purification, denature and anneal 200 ng of purified PCR product in NEB Buffer 2 according to the manufacturer protocol, then digest with T7E1 at 37°C for 45min."
+            },
+            {
+                "title": "6.",
+                "body": "Load digested PCR products into 2% E-gel EX and quantify DNA fragment abundance using E-Gel™ Low Range Quantitative DNA Ladder \\(ThermoFisher). Calculate the mutation frequency using the formula: 100 x \\(1 – \\(1- fraction cleaved)<sup>1/2</sup>)."
+            }
+        ]
+    },
+    {
+        "title": "**Next-generation sequencing analysis of indels**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Using the PCR primers designed above for T7E1, the indel frequency can additionally be determined by next-generation sequencing."
+            },
+            {
+                "title": "2.",
+                "body": "Dilute the PCR amplicons and prepare sequencing libraries using the Nextera XT kit."
+            },
+            {
+                "title": "3.",
+                "body": "Sequence using paired-end reads on an Illumina sequencer."
+            },
+            {
+                "title": "4.",
+                "body": "Map paired reads to the reference genome \\(expected sequences provided in FASTA form to generate indices) using BWA-MEM 19 with the command: bwa mem -t 8 -w 200."
+            },
+            {
+                "title": "5.",
+                "body": "Run VarScan20 v2 using the pileup2indel command, which utilizes Samtools mpileup"
+            },
+            {
+                "title": "21.",
+                "body": []
+            },
+            {
+                "title": "6.",
+                "body": "Filter indels to those that occur within a ± 7 bp window around the predicted cut site."
+            },
+            {
+                "title": "7.",
+                "body": "Sum the variant frequencies of the filtered indels to determine the indel frequency."
+            }
+        ]
+    }
+]

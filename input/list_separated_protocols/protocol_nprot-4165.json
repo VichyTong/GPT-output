@@ -1,0 +1,180 @@
+[
+    {
+        "title": "**Separating RNA Samples on an Agarose Gel**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare a 1% × 2% agarose gel: Melt 1.0 g agarose in 84.6ml DEPC water and boil in a microwave. Let it cool down to 60°C, and add 10ml of 10 x MOPS buffer and 5.4ml 37% formaldehyde \\(total 2% \\(vol/vol))and fill the apparatus. Insert the comb and solidify for 30minutes."
+            },
+            {
+                "title": "2.",
+                "body": "Mix at least 10 μg total RNA with Loading Buffer \\(1:1)."
+            },
+            {
+                "title": "3.",
+                "body": "Denature the RNA/Loading Buffer mixtures at 65°C for 10 min. Immediately chill the denatured samples on ice for 1 min."
+            },
+            {
+                "title": "4.",
+                "body": "Load the samples and RNA markers onto a dry gel. Fill the slot carefully with running buffer \\(1× MOPS buffer) only up to the top of the gel \\(but not over the sample slots)."
+            },
+            {
+                "title": "5.",
+                "body": "Run the gel at a higher voltage \\(i.e., >34 V/cm) for about 10 min to get the samples into the gel. Then add extra running buffer to submerge the gel completely."
+            },
+            {
+                "title": "6.",
+                "body": "Run the gel at 34 V/cm for at least 2 h, until the RNAs are well separated.\r\n  \","
+            }
+        ]
+    },
+    {
+        "title": "**Transferring RNA to a Membrane \\(Capillary Transfer Method)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "After the electrophoresis, soak the gel twice \\(2 × 15 min) in 20× SSC to remove formaldehyde \\(which can inhibit transfer)."
+            },
+            {
+                "title": "2.",
+                "body": "Set up a blot transfer as follows, roll a sterile pipette over the sandwich to remove all air bubbles that formed between any two parts of the blot “sandwich”:\r\n   Place a piece of Whatman 3MM paper that has been soaked with 20× SSC atop a “bridge” that rests in a shallow reservoir of 20× SSC.\r\n\n\n Place gel, facing down, on top of the soaked sheet of Whatman 3MM paper. \r\n\n\n Cut a piece of Positively Charged Nylon Membrane to the size of the gel and place the dry membrane carefully on top of the gel. \r\n\n\n Complete the blot assembly by adding two dry sheets of Whatman 3MM paper, cut to the size of the gel, a stack of paper towels, a glass plate, and a 200 – 500 g weight."
+            },
+            {
+                "title": "3.",
+                "body": "Let the RNA transfer \\(at least 6 h, preferably overnight) under RNase-free conditions, with sterile, RNase-free 20× SSC as transfer buffer."
+            },
+            {
+                "title": "4.",
+                "body": "The next day, disassemble the transfer stack. Place the membrane \\(RNA side facing up) on Whatman 3MM paper that has been soaked in 2× SSC."
+            },
+            {
+                "title": "5.",
+                "body": "Expose the wet membrane to UV stratalinker at 120 mJ/cm<sup>2</sup> for 1 minutes to fix the RNA to the blot."
+            }
+        ]
+    },
+    {
+        "title": "**Prehybridizing and Hybridizing the Blot**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place the correct amount of DIG Easy Hyb \\(about 10-15ml for 100cm<sup>2</sup> membrane) in a sterile tube, then place the tube in a water bath set at 50°C."
+            },
+            {
+                "title": "2.",
+                "body": "Place the blot into DIG Easy Hyb and incubate the blot for 30 minutes at 50°C."
+            },
+            {
+                "title": "3.",
+                "body": "During the prehybridization incubation, prepare the hybridization solution with 5’Dig-labeled DNA probe \\(final concentration: 20-50ng/ml or 1.5-4nM) in prewarmed DIG Easy Hyb."
+            },
+            {
+                "title": "4.",
+                "body": "Pour out the prehybridization buffer and immediately replace with prewarmed hybridization solution containing DIG-labeled probe."
+            },
+            {
+                "title": "5.",
+                "body": "Incubate the blot with probe at 50°C for 6 – 16 h, with gentle agitation.\r\n  Tips: the hybridizing temperature can be optimized to your own target RNA. For example, to get the best result of mir-142-5p, we hybridized the blot at 42°C overnight."
+            }
+        ]
+    },
+    {
+        "title": "**Strict washes**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "After the hybridization is complete, submerge the membrane in an RNase-free plastic container \\(tray, dish, etc.) tray containing Low Stringency Buffer \\(2× SSC containing 0.1% SDS)."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the tray at room temperature for 5 min with shaking."
+            },
+            {
+                "title": "3.",
+                "body": "Pour off the used buffer and immediately cover the membrane with fresh Low Stringency Buffer."
+            },
+            {
+                "title": "4.",
+                "body": "Incubate the tray an additional 5 min at room temperature with shaking. During the process, preheat High Stringency Buffer\\(0.1× SSC containing 0.1% SDS) to 50°C."
+            },
+            {
+                "title": "5.",
+                "body": "Pour off the used Low Stringency Buffer. Immediately add the preheated High Stringency Buffer to the tray containing the blot."
+            },
+            {
+                "title": "6.",
+                "body": "Incubate the blot twice \\(2 × 15 min, with shaking) in High Stringency Buffer at 50°C."
+            }
+        ]
+    },
+    {
+        "title": "**Chemiluminescent Methods for Detection of Probes on a Blot**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transfer the membrane to a plastic container containing enough Washing Buffer and incubate for 2 min at room temperature, with shaking."
+            },
+            {
+                "title": "2.",
+                "body": "Discard the Washing Buffer and add enough Blocking Solution to tray."
+            },
+            {
+                "title": "3.",
+                "body": "Incubate membrane for 30 min at room temperature, with shaking. This blocking step can last up to 3 hours without affecting results."
+            },
+            {
+                "title": "4.",
+                "body": "Discard the Blocking Solution and add 20 ml Anti-Digoxigenin-AP Solution to the tray. Incubate the membrane for 30 min, with shaking."
+            },
+            {
+                "title": "5.",
+                "body": "Discard the Antibody Solution."
+            },
+            {
+                "title": "6.",
+                "body": "Wash membrane twice \\(2 × 15 min) with enough Washing Buffer."
+            },
+            {
+                "title": "7.",
+                "body": "Equilibrate membrane 3 min in Detection Buffer."
+            },
+            {
+                "title": "8.",
+                "body": "Place the membrane \\(DNA/RNA side facing up) inside a container. Apply enough CSPD working solution over the surface of the blot until the entire surface is evenly soaked."
+            },
+            {
+                "title": "9.",
+                "body": "Incubate membrane for 5 min at room temperature."
+            },
+            {
+                "title": "10.",
+                "body": "Incubate damp membrane for 10 min at 37°C to enhance the luminescence reaction."
+            },
+            {
+                "title": "11.",
+                "body": "Expose the sealed envelope \\(containing the membrane) at room temperature to Lumi-Film X-ray film \\(15 – 25 min) and adjust the exposure time to get a darker or lighter band pattern."
+            }
+        ]
+    },
+    {
+        "title": "**Techniques for Stripping and Reprobing a Membrane**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "After detection of the first target on the membrane, rinse membrane thoroughly with double distilled water for 1 min."
+            },
+            {
+                "title": "2.",
+                "body": "Wash membrane twice \\(2 × 15 min) at 37°C in Stripping Buffer."
+            },
+            {
+                "title": "3.",
+                "body": "Rinse membrane in 2× SSC for 5 min."
+            },
+            {
+                "title": "4.",
+                "body": "Reprobe membrane with a second DIG-labeled probe: repeat the hybridization and detection procedure with a different DIG-labeled probe."
+            }
+        ]
+    }
+]

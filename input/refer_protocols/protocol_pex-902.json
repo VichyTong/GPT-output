@@ -1,0 +1,26 @@
+[
+    {
+        "index": 61,
+        "string": "Nt = Ns*(St/Ss)*M/(M+D), where Ns is the number of neurons counted, St is the total number of sections in the brain region, Ss is the number of sections sampled, M is the thickness of section, and D is the average diameter of counted cells, as previously described<sup>13,14</sup>.<strong> </strong></p><p><strong>&nbsp;</strong></p><p>3).",
+        "phrase": "as previously described",
+        "refer": "None"
+    },
+    {
+        "index": 121,
+        "string": "Measure rotation 5 min following the injection for 10 min, as previously described<sup>19,20</sup> and only count full-body turns.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the method of measuring rotation that was mentioned earlier in the text."
+    },
+    {
+        "index": 123,
+        "string": "Perform rotation test induced by D-amphetamine (Sigma, 5 mg/kg) in the same system, as previously described<sup>21,22</sup>.",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the method of performing the rotation test."
+    },
+    {
+        "index": 125,
+        "string": "Express the data as net contralateral or ipsilateral turns per min. </p><p><strong>&nbsp;</strong></p><p>7).<strong> </strong>To perform the cylinder test, place mouse into a glass cylinder (diameter 19 cm, height 25 cm), with mirrors placed behind for a full view of all touches, as previously described<sup>19,23</sup>.",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the method of performing the cylinder test, which includes placing the mouse into a glass cylinder with mirrors placed behind for a full view of all touches."
+    }
+]

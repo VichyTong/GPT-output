@@ -1,0 +1,26 @@
+[
+    {
+        "title": "1.",
+        "body": "Human PBMC were isolated from buffy coats of healthy donors by Ficoll hypaque density centrifugation."
+    },
+    {
+        "title": "2.",
+        "body": "Total CD4+ T cells were isolated using the CD4+ T cell Isolation Kit II from Miltenyi Biotec: \r\n  - Total PBMC were resuspended in 40µl of MACS buffer \\(PBS 0.5% BSA 2mM EDTA) per 10 cells, and incubated with 10 µl of Biotin-Antibody cocktail per 10 cells for 10 min at 4°C. \r\n\n\n-. Subsequently, 30 µl of MACS buffer per 10 cells was added, and cells were incubated with 20 µl of Anti-Biotin Microbeads per 10 cells for 15 min at 4°C. \r\n\n\n- Cells were washed with MACS buffer and resuspended up to 10 cells in 500µl of MACS buffer.\r\n\n\n- CD4+ T cells were sorted by two rounds of magnetic depletion on the AutoMACS \\(program Deplete S)."
+    },
+    {
+        "title": "3.",
+        "body": "CD4+ T cells \\(negative fraction) were washed with MACS buffer and resuspended in 80µl of MACS buffer per 10 cells. Then, 20µl of CD45RO microbeads per 10 cells was added for 15 min at 4°C. Naïve CD45RO- T cells were isolated by two rounds of depletion on the AutoMACS \\(as in step 2.)."
+    },
+    {
+        "title": "4.",
+        "body": "Naïve CD4+ CD45RO- T cells were cultured at 1 × 10 cells/well in 96-well flat-bottom plates or 5 × 10 cells/well in 24-well plates \\(Falcon) for 5-6 days in Yssel’s medium containing 1% human AB serum \\(Gemini Bio Products) with the appropriate cytokines and beads coated with anti-CD3, anti-CD28, and anti-CD2 antibodies \\(T Cell Activation/Expansion Kit, Miltenyi Biotec) \\(1 bead/10 cells)."
+    },
+    {
+        "title": "5.",
+        "body": "After 5-6 days, cells were collected, counted, washed and cultured at 1 × 10 cells/well in 96-well flat-bottom plates or 5 × 10 cells/well in 24-well plates for an additional period of 5-6 days in the presence of the indicated cytokines and IL-2."
+    },
+    {
+        "title": "6.",
+        "body": "After 10-12 days of culture, cells were counted and stimulated at 5 × 10 cells/ml with anti-CD3, anti-CD28, and anti-CD2 antibodies in the presence of IL-2 for 24 h to analyze gene expression or 48 h to assess cytokine level in cell-free supernatants."
+    }
+]

@@ -1,0 +1,59 @@
+[
+    "\nReverse Transcription:",
+    {
+        "title": "1.",
+        "body": "In a 1.5-µL Eppendorf tube, add 1-4 µL RNA and 1 µL Random Hexamers."
+    },
+    {
+        "title": "2.",
+        "body": "Incubate at 70ºC for 5 min."
+    },
+    {
+        "title": "3.",
+        "body": "Place reaction briefly on ice and assemble the reverse transcription reaction using the kit-supplied reagents \\(a master mix can be made if multiple reactions are being run):\r\n  4 µL 5X First-Strand Buffer\r\n\n\n2 µL DTT\r\n\n\n1 µL SuperScript III reverse transcriptase\r\n\n\n1 µL dNTPs\r\n\n\n1 µL RNasin \\(if desired)\r\n\n\nx µL H2O to 20 µL"
+    },
+    {
+        "title": "3.",
+        "body": "Incubate at 55ºC for 45 min to 1 h."
+    },
+    {
+        "title": "4.",
+        "body": "Inactivate the reverse transcriptase at 70ºC for 15 min. Place reaction on ice after inactivation."
+    },
+    {
+        "title": "5.",
+        "body": "Proceed with PCR setup.\r\n  \r\n\n\nPCR \\(with Phusion PCR kit):"
+    },
+    {
+        "title": "1.",
+        "body": "Assemble PCR reactions to generate amplicons according to those detailed in Table 3 \\(for whole-genome sequencing) or with any combination of forward and reverse primers from Tables 1 and"
+    },
+    {
+        "title": "2.",
+        "body": ""
+    },
+    {
+        "title": "2.",
+        "body": "PCR reaction setup:\r\n  2 µL First-strand template\r\n\n\n1 µL Forward Primer\r\n\n\n1 µL Reverse Primer\r\n\n\n5 µL 10X HF Buffer\r\n\n\n1 µL dNTPs\r\n\n\n0.5 µL Phusion polymerase\r\n\n\nx µL H2O to 50 µL"
+    },
+    {
+        "title": "3.",
+        "body": "PCR reactions are run under standard PCR conditions:\r\n  98ºC 5 min\r\n\n\n35 cycles of:\r\n\n\n98ºC 15 sec\r\n\n\nxºC for 30 sec*\r\n\n\n72ºC for ~45 sec/kb\r\n\n\n72ºC 10 min\r\n\n\n8ºC Hold\r\n\n\n\r\n\n\nAnnealing temperature is primer-dependent, but for most SARS-CoV primers in Tables 1 and 2, annealing temperatures 52-55ºC will work.\r\n\n\nConfirmation of PCR products and sequencing:"
+    },
+    {
+        "title": "1.",
+        "body": "Run PCR products \\(5 µL/reaction) on a 0.8% agarose/1X TAE gel to verify PCR success."
+    },
+    {
+        "title": "2.",
+        "body": "Purify PCR products with PCR purification kit of choice \\(the Qiagen PCR Purification Kit works well)."
+    },
+    {
+        "title": "3.",
+        "body": "PCR products can be diluted to 150-200 µL/reaction to ensure that enough product is present for assembling sequencing reactions."
+    },
+    {
+        "title": "4.",
+        "body": "Assemble sequencing reactions according to the primer/amplicon combinations outlined in Table 3."
+    }
+]

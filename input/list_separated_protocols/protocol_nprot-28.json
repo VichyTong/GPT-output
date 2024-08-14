@@ -1,0 +1,239 @@
+[
+    {
+        "title": "**Blunt end DNased DNA in-gel**",
+        "body": [
+            "\\(For low melt gel preparation of DNase treated DNA, see Crawford et al., Genome Research 2006)",
+            {
+                "title": "1)",
+                "body": "Wash extensively in T4 DNA Polymerase Buffer \\(+DTT) , 3 x 50mls for 1 hour each \\(to get rid of EDTA in plug)"
+            },
+            {
+                "title": "2)",
+                "body": "Remove all liquid from 50 ml conical tube and add Polymerase mix:  80µl DNA plug \\(low melt gel); 12µl 10x Polymerase Buffer \\(NEB#2); 5 µl dNTPs \\(10uM; NEB Cat # M0203L); 6 µl T4 DNA Polymerase ; 99.2 µl H<sub>2</sub>0; 2 µl BSA \\(100x)"
+            },
+            {
+                "title": "3)",
+                "body": "Incubate at room temp for 3-4 hours \\(gently mix every hour or so)"
+            },
+            {
+                "title": "4)",
+                "body": "Add plug to 500 μl TE"
+            },
+            {
+                "title": "5)",
+                "body": "Heat to 65 <sup>o</sup>C for 10 minutes \\(flick every couple of minutes to dissolve agarose)"
+            }
+        ]
+    },
+    {
+        "title": "**Phenol: Phenol/Chloroform: Chloroform extract**",
+        "body": [
+            "\\(using wide-bore tips)",
+            {
+                "title": "6)",
+                "body": "Add 1/10 volume 3M NaOAc, 2 volumes ETOH, and 1µl glycogen \\(Roche Cat# 901393)"
+            },
+            {
+                "title": "7)",
+                "body": "Place in freezer for at least 30 minutes"
+            },
+            {
+                "title": "8)",
+                "body": "Spin 15 minutes at 4 deg and wash 1x with 70% ETOH"
+            },
+            {
+                "title": "9)",
+                "body": "Remove, quick spin, and remove remainder of liquid"
+            },
+            {
+                "title": "10)",
+                "body": "Air dry for 5 minutes \\(NO LONGER\\!)"
+            },
+            {
+                "title": "11)",
+                "body": "Resuspend in 40 μl TE"
+            }
+        ]
+    },
+    {
+        "title": "**Ligation of biotinylated linkers**",
+        "body": [
+            {
+                "title": "12)",
+                "body": "Incubate 2µg DNA, 10µl 5x Ligase Buffer \\(use wide bored tips; Invitrogen cat # 46300-018), 6.7µl Annealed linkers \\(102B/103A; THIS IS OLIGO SET A... THAW LINKERS ON ICE), 0.5µl T4 ligase \\(NED Cat # M0202L), H<sub>2</sub>O to 50 µl at 16 <sup>o</sup>C overnight."
+            },
+            {
+                "title": "13)",
+                "body": "Shear DNA by adding ligation to 1.5 mls TE \\(in 15 ml conical), putting on ice and sonicating on setting 3 for 25 second pulses \\(sonicate while tube is in ice bath)"
+            },
+            {
+                "title": "14)",
+                "body": "Pulse each sample 8 times \\(back on ice after each sonication).  The tip should be almost at the bottom of tube, with no movement.  Cool the sonicator tip after each round with an ice bath"
+            }
+        ]
+    },
+    {
+        "title": "**Bind to Streptavidin beads**",
+        "body": [
+            {
+                "title": "15)",
+                "body": "Use 100 ul of beads per reaction"
+            },
+            {
+                "title": "16)",
+                "body": "FIRST Wash beads 3x 1ml in binding/wash buffer \\(TE plus 1M NaCl)"
+            },
+            {
+                "title": "17)",
+                "body": "Add 300 μl 5M NaCl to sonicated DNA \\(final concentration of 1M NaCl)"
+            },
+            {
+                "title": "18)",
+                "body": "Add 100 μl of beads to sonicated DNA"
+            },
+            {
+                "title": "19)",
+                "body": "Rock for 15 minutes at room temp"
+            },
+            {
+                "title": "20)",
+                "body": "Use magnet to capture biotinylated ends"
+            },
+            {
+                "title": "21)",
+                "body": "Wash 3 x 1ml in binding/wash buffer \\(TE plus 1M NaCl)"
+            },
+            {
+                "title": "22)",
+                "body": "Resuspend beads in blunt ending mix \\(see next section)"
+            }
+        ]
+    },
+    {
+        "title": "**Blunt end sheared ends**",
+        "body": [
+            {
+                "title": "23)",
+                "body": "Incubate 97.3 μl H<sub>2</sub>O, 11 μl T4 Buffer \\(NEB buffer 2), 1 μl 10mM dNTPs \\(Roche # 11 814 362 001), 0.2 μl T4 DNA Polymerase \\(NEB Cat # M0203L) and 0.5 μl 100x BSA for 1 hour at 16 <sup>o</sup>C \\(resuspend beads once during incubation)"
+            },
+            {
+                "title": "24)",
+                "body": "Wash beads 3 x 1ml in binding/wash buffer \\(TE plus 1M NaCl)"
+            },
+            {
+                "title": "25)",
+                "body": "Resuspend beads in 50 μl ligation mix"
+            }
+        ]
+    },
+    {
+        "title": "**Ligation of non-biotinylated linkers to beads**",
+        "body": [
+            {
+                "title": "26)",
+                "body": "Mix 32.8 μl H<sub>2</sub>0, 10 μl 5x Ligase Buffer \\(use wide bore tips; Invitrogen cat #  46300-018), 6.7 μl Annealed linkers \\(102C/103B; THIS IS OLIGO SET C...THAW LINKERS ON ICE) and 0.5 μl T4 Ligase \\(NEB Cat # M0202L)."
+            },
+            {
+                "title": "27)",
+                "body": "Add mix directly to beads and resuspend"
+            },
+            {
+                "title": "28)",
+                "body": "Incubate at 16 degrees O/N \\(resuspend beads once during incubation)"
+            }
+        ]
+    },
+    {
+        "title": "**Clean Streptavidin beads**",
+        "body": [
+            {
+                "title": "29)",
+                "body": "Wash 3 x 1 ml in binding/wash buffer \\(TE plus 1M NaCl)"
+            },
+            {
+                "title": "30)",
+                "body": "Resuspend pellet in 50 μl TE pH 8.0"
+            }
+        ]
+    },
+    {
+        "title": "**LM-PCR Reaction**",
+        "body": [
+            {
+                "title": "31)",
+                "body": "Mix 32.5 μl H<sub>2</sub>0, 4 μl 10x ThermoPol Buffer, 1.25 μl dNTPs \\(10uM; Roche # 11 814 362 001), 1.25 μl oligo OJW102 \\(40μM, 102C) and 1 μl beads."
+            },
+            {
+                "title": "32)",
+                "body": "Place in a PCR machine and heat up the PCR machine to 50 deg, put on hold and add the following:  0.5 μl Taq DNA Polymerase   0.5       \\(Invitrogen cat# 18038-042), 8.5μl H<sub>2</sub>0, and 1μl  ThermoPol Buffer  1 \\(NEB Cat #B90045)"
+            },
+            {
+                "title": "33)",
+                "body": "Cycle using the following conditions:\r\n\n\n55 x 4 min \\(add Taq at this stage - hot start)\r\n\n\n72 x 3 min\r\n\n\n95 x 2 min\r\n\n\n25 X \\(95 x 30 sec, 60 x 30 sec, 72 x 1 min)\r\n\n\n72 x 5 min\r\n\n\n4 x forever"
+            }
+        ]
+    },
+    {
+        "title": "**Clean up of LM-PCR product**",
+        "body": [
+            {
+                "title": "34)",
+                "body": "Add 400 μl TE to pcr product"
+            },
+            {
+                "title": "35)",
+                "body": "Do a phenol/chloroform extraction using phase locks 2.0 ml \r\n\n\n\\(Brinkmann Instruments.  Description: Eppendorf phase lock 2 ml  Cat # 62111-400)"
+            },
+            {
+                "title": "36)",
+                "body": "ETOH ppt with 1 μl glycogen \\(Roche Cat# 901393)"
+            },
+            {
+                "title": "37)",
+                "body": "Resuspend pellet in 25 μl TE"
+            },
+            {
+                "title": "38)",
+                "body": "Clean up on ArrayIT columns microarray probe purification kit \\(Cat #FPP  $70 for 50 columns)"
+            },
+            {
+                "title": "39)",
+                "body": "Elute with 50 μl water"
+            }
+        ]
+    },
+    {
+        "title": "**Quantitate, label, and hybridize to arrays**",
+        "body": [
+            "Use the following Oligos:",
+            {
+                "title": "1)",
+                "body": "oJW102A: 5’ biotin TEG- GCG GTG ACC CGG GAG ATC TGA ATT C –3’"
+            },
+            {
+                "title": "2)",
+                "body": "oJW102B: 5’ /5Bio/ GCG GTG ACC CGG GAG ATC TGA ATT C –3’"
+            },
+            {
+                "title": "3)",
+                "body": "oJW102C: 5’ GCG GTG ACC CGG GAG ATC TGA ATT C –3’"
+            },
+            {
+                "title": "4)",
+                "body": "oJW103A: 5’ /5Phos/GAA TTC AGA TC/3AmM/ -3’"
+            },
+            {
+                "title": "5)",
+                "body": "oJW103B: 5’ GAA TTC AGA TC -3’\r\n\n\n \r\n\n\nOligo SET A:  102B/103A  \r\n\n\nOligo SET C:  102C/103B"
+            },
+            {
+                "title": "40)",
+                "body": "Anneal primers by mixing 50 μl Tris-HCL 1M, pH 7.6; 375 μl of 40 μM oJW102; 375 μl of 40 μM oJW103 and 200 μl H<sub>2</sub>O and putting the mix in boiling water, shutting off heat, and letting oligos sit in water until room temp is reached."
+            },
+            {
+                "title": "41)",
+                "body": "Put at 4 degrees O/N.  Aliquot and store at -20.  To prevent primers from becoming un-annealed, always thaw annealed primers on ice."
+            }
+        ]
+    }
+]

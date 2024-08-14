@@ -1,0 +1,29 @@
+[
+    "\nThe Exemplar modules to be utilized are the:\r\n\n\n\r\n\n\n1 Genetic Algorithm Module \\(GA Module) &#x2013; This module implements an Artificial Intelligence approach to finding logical combinations of SNP&#x2019;s for association based studies\r\n\n\n\r\n\n\n2 Association Study Module \\(AS Module) &#x2013; this module calculates many useful statistics like Chi Square, Yates, Fisher Exact, Odds Ratio, LD, D&#x2019;, etc.\r\n\n\n\r\n\n\n3 Chromosome Alteration module \\(CA Module) &#x2013; this module performs LOH analysis on the dataset using user-specified controls as the reference set to identify possible deletions in the chromosome.\r\n\n\n\r\n\n\nThe difficulty with such a small sample size is the lack of statistical power. Nonetheless, we hoped that by performing multiple types of analysis on the data, we could reduce the problem space from ~10,000 SNP&#x2019;s to &lt;50 SNP&#x2019;s for consideration. Then, applying the biological knowledge to thus reduced set of data will further help to select genes-candidates for the studied disorder. \r\n\n\n\r\n\n\n",
+    {
+        "title": "**Analytic Process**",
+        "body": []
+    },
+    {
+        "title": "**STEP 1**",
+        "body": "Exemplars AS Module are first utilized to provide extensive statistical analysis of the dataset including:\r\n\n\n\r\n\n\n1 Fishers Exact by genotype and by allele.\r\n\n\n2 Odds Ratio by genotype and by allele.\r\n\n\n\r\n\n\nThe AS module is also used for feature selection of the dataset prior to being input to the GA Module."
+    },
+    {
+        "title": "**STEP 2**",
+        "body": [
+            "Exemplars GA Module is run against the dataset many times with various parameter settings. A brief overview follows:",
+            {
+                "title": "1.",
+                "body": "GA module is run against the entire input dataset and attempts to build models of the smallest size that can effectively predict outcomes while minimizing False Positives and maximizing True Positives. Different sized and type models attempt to improve results as necessary."
+            },
+            {
+                "title": "2.",
+                "body": "Various feature selection methods are employed to reduce the input parameter space, these will include:\r\n  \r\n\n\na. Statistical Reduction \\(usually Fishers is used here) whereby each SNP has a p-value calculated and if their p-value does not fall below a certain threshold, they will be eliminated.\r\n\n\n\r\n\n\nb. Minor allele frequency changes – the minor allele frequency is calculated for each SNP for cases and controls, if the variance is below a certain defined threshold, the SNP is eliminated from consideration.\r\n\n\n\r\n\n\nComprehensive model results are provided in this reports including:\r\n\n\n\r\n\n\n1 Model predictive results for each sample\r\n\n\n\r\n\n\n2 Model statistical p-values when possible\r\n\n\n\r\n\n\n3 Relevant Ontology’s for GA discovered SNP’s\r\n\n\n\r\n\n\n4 Complete details of each discovered SNP including its id, position, chromosome, and related genes."
+            }
+        ]
+    },
+    {
+        "title": "**STEP 3**",
+        "body": "Exemplars CA Module is run against the dataset to detect possible deletions in the chromosomes by looking for Loss Of Heterozygosity.\r\n\n\n\r\n\n\nEach SNP is assigned a p-value."
+    }
+]

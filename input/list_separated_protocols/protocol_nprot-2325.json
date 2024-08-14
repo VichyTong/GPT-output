@@ -1,0 +1,50 @@
+[
+    {
+        "title": "1.",
+        "body": "Keep all reagents on ice. Pre-cool the centrifuge to 4°C."
+    },
+    {
+        "title": "2.",
+        "body": "Label the microcentrifuge tubes and keep them on ice."
+    },
+    {
+        "title": "3.",
+        "body": "Prepare the polyamine binding mix in the pre-cooled microcentrifuge tubes as shown Table A & B shown in figures section."
+    },
+    {
+        "title": "4.",
+        "body": "Mix the polyamine binding mix gently and incubate on ice for 60 min."
+    },
+    {
+        "title": "5.",
+        "body": "Place the filtration device in a 1.5 ml collection tube and pre-cool on ice."
+    },
+    {
+        "title": "6.",
+        "body": "After the 60 min incubation time, transfer 100 μL of the polyamine binding mix to the appropriately labelled filtration devices."
+    },
+    {
+        "title": "7.",
+        "body": "Filter the free polyamines by spinning at 2500xg for 5 min at 4°C"
+    },
+    {
+        "title": "8.",
+        "body": "Prepare microcentrifugefuge tubes with 1 mL scintillation liquid \\(two tubes with scintillation liquid for every filter device used) and keep them at room temperature."
+    },
+    {
+        "title": "9.",
+        "body": "Remove 10 μL of the retentate from inside the cut-off filter device and add it to microcentrifuge tube with scintillation liquid marked as “retentate”."
+    },
+    {
+        "title": "10.",
+        "body": "Remove 10 μL of filtrate from the collection tube of the filtration device and add it to the second microcentrifuge tube with scintillation liquid marked as “filtrate”."
+    },
+    {
+        "title": "11.",
+        "body": "Vortex for 10s and proceed with scintillation counting."
+    },
+    {
+        "title": "12.",
+        "body": "From the resulting CPM \\(Counts per Minute) values, calculate the percentage of protein-bound polyamines using the following formula.\r\n  \r\n\n\nPercentage polyamine Binding = \\{\\(CPMretentate- CPMfiltrate)/ CPMretentate} x 100"
+    }
+]

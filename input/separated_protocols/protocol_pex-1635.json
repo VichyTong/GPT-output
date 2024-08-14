@@ -1,0 +1,22 @@
+[
+    "<p><strong>1.",
+    "Compute time intervals between code or variable encounters and each visit of any subject</strong></p><p>This step was to quantify medical histories into time intervals.",
+    "In addition to a single-code variable, we also used variables that assigned multiple codes of diagnosis and procedure.",
+    "Details of the codes are available in the source codes.",
+    "We computed the number of days for a code or variable in the latest encounter before the current visit (the time of prediction or <em>d</em><sub><em>0</em></sub>).</p><p><br></p><p><strong>2.",
+    "Split a dataset randomly for a derivation and validation set</strong></p><p>",
+    "We only used the derivation set to infer KM estimates at the population level.",
+    "Later, we also used it for training set of a prediction model; thus, our models were blinded to the distribution of KM estimates of any external validation sets.</p><p><br></p><p><strong>3.",
+    "Calculate KM estimate for each code or variable</strong></p><p>The KM estimate (equation in Figure 1),<sup>10</sup> as we denote it as an estimator of the historical function <em>H(d)</em>, is a probability or a fraction of visits that a condition is longer than <em>d </em>days before <em>d</em><sub><em>0</em></sub>.",
+    "This consists of <em>d</em><sub><em>i</em> </sub>as<sup> </sup>a day when at least an encounter occurred for a code or variable that refers to that condition, <em>e</em><sub><em>i</em></sub> is the number of encounters for the code or variable on day <em>d</em><sub><em>i</em></sub>, and <em>v</em><sub><em>i</em></sub> is a visit recorded that did not encounter the code or variable (it was censored) up to day <em>d</em><sub><em>i</em></sub>.</p><p><br></p><p><strong>4.",
+    "Apply interpolation between time points of historical rates</strong></p><p>Because there might be a day on which no code or variable is encountered in the population, we applied a linear interpolation between time points at which a KM estimate was able to be calculated.",
+    "Other methods of interpolation are also available in medhist 0.1.0, an R package, that allows future investigators to implement this historical rate.</p><p><br></p><p><strong>5.",
+    "Compute provider-wise time intervals</strong></p><p>Medical histories for derivation set were nationwide, while those for training set were provider-wise by estimation.",
+    "This means our prediction models only used medical histories recorded by a healthcare provider, which was blinded to those recorded by others.",
+    "This reflects most real-world situations in which a healthcare provider does not have access to medical records of other providers.</p><p><br></p><p><strong>6.",
+    "Transform a provider-wise time interval into a nationwide KM estimate.</strong></p><p>A KM estimate of a code for an individual was then determined given the number of days from a code or variable encounter to the current visit.",
+    "The number of days was matched with those in historical rates of each code.",
+    "We already have nationwide historical (KM) rates for each code or variable, derived from the training set only.",
+    "All medical histories in days of a subject in each healthcare provider were transformed into historical rates.",
+    "This technique allowed generalization of individual data based on nationwide, population-level data, without the need to access data from other providers.</p>"
+]

@@ -1,0 +1,111 @@
+[
+    "\nA- Mouse preparation and removal of the skullcap",
+    {
+        "title": "1.",
+        "body": "Anesthetize mouse with lethal dose of appropriate pharmacological agent \\(e.g. Euthasol) to render amenable to surgical manipulation."
+    },
+    {
+        "title": "2.",
+        "body": "Perfuse transcardially with ice-cold Perfusion Buffer using the 10ml syringe with the 30G needle until mouse is exsanguinated"
+    },
+    {
+        "title": "3.",
+        "body": "Using regular scissors, sever mouse head just above the shoulder"
+    },
+    {
+        "title": "4.",
+        "body": "Using angled scissors, beginning at caudal aspect, carefully detach skin and flesh from skull, working rostrally until all skin is removed"
+    },
+    {
+        "title": "5.",
+        "body": "Sever optic nerves to remove the eyes"
+    },
+    {
+        "title": "6.",
+        "body": "Turn head over so that ventral aspect of the jaw is facing up. Slide angled dissection scissors through the oral cavity until you feel the resistance of the mandibular junction. Sever the large muscles connecting the lower jaw to the skull; remove."
+    },
+    {
+        "title": "7.",
+        "body": "Using angled dissection scissors, remove the lower orbits on each side of the skull \\(the squamosae, zygomatic and maxillae)"
+    },
+    {
+        "title": "8.",
+        "body": "Using Dumont curved Forceps, clean all flesh from all aspects of skull"
+    },
+    {
+        "title": "9.",
+        "body": "With large scissors, remove the nasal bone with a coronal cut along the suture that defines its most caudal point, thus preventing the olfactory lobes."
+    },
+    {
+        "title": "10.",
+        "body": "With the curved scissors, carefully cut clockwise around the skull inferior to the posttympanic hook."
+    },
+    {
+        "title": "11.",
+        "body": "Remove the lower portion of the skull; discard. Scoop the brain out of the upper half of the skull, and place the skullcap in a 24-well plate with 1ml of the appropriate Fixation solution.\r\n  \r\n\n\nB- Fixation/Dissection of the whole mount"
+    },
+    {
+        "title": "1.",
+        "body": "Fix the meninges within the skullcap \\(PFA fixation: O/N-4°C; Ethanol/Acetone: 20min/-20°C)"
+    },
+    {
+        "title": "2.",
+        "body": "5min wash with 1ml of PBS \\(repeat three time)"
+    },
+    {
+        "title": "3.",
+        "body": "Place the skullcap, with PBS, in 10mm petri dish under a dissecting microscope."
+    },
+    {
+        "title": "4.",
+        "body": "Beginning at the olfactory lobes covering section of the skullcap, carefully score meninges with the tip of a Dumont #5 forceps \\(use curved Dumont forceps to hold the skull cap), moving along the edge of the interior of the skullcap until meninges \\(Dura and Arachnoid mater) are scored 360°."
+    },
+    {
+        "title": "5.",
+        "body": "Grabbing the meninges from the junction between the transverse sinuses and the superior sagittal sinus, carefully peel it of the skullcap. If done correctly, the whole mount should consist of one piece of tissue."
+    },
+    {
+        "title": "6.",
+        "body": "Place the dissected meninges in a 24-well plate with 1ml of Storage solution and keep at 4°C until immunostaining.\r\n  \r\n\n\nC- Immunostaining\r\n\n\nNB: all incubation are realized under agitation on a shaker."
+    },
+    {
+        "title": "1.",
+        "body": "5min wash with 1ml of PBS \\(repeat twice)"
+    },
+    {
+        "title": "2.",
+        "body": "Incubate the meninges for 1h/RT in 300µl of Block-Perm solution"
+    },
+    {
+        "title": "3.",
+        "body": "Incubate the meninges O/N at 4°C in primary antibodies diluted in the Antibody dilution solution"
+    },
+    {
+        "title": "4.",
+        "body": "5min wash with 500µl of PBS \\(repeat three times)"
+    },
+    {
+        "title": "5.",
+        "body": "Incubate the meninges for 1h/RT in 300µl of secondary antibodies diluted in the Antibody dilution solution"
+    },
+    {
+        "title": "6.",
+        "body": "5min wash with 500µl of PBS \\(one wash)"
+    },
+    {
+        "title": "7.",
+        "body": "Incubate the meninges for 5min/RT in 300µl of DAPI"
+    },
+    {
+        "title": "8.",
+        "body": "5min wash with 500µl of PBS \\(repeat three times)"
+    },
+    {
+        "title": "9.",
+        "body": "Using paintbrush, flatten the meninges on a glass slide \\(see Figure 1)"
+    },
+    {
+        "title": "10.",
+        "body": "Using mounting media \\(e.g. Aquamount), mount the meninges"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "index": 140,
+        "string": "Forebrain identity can also be confirmed by _FOXG1_ expression as previously described<sup>46</sup>.",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the method or procedure for confirming forebrain identity using FOXG1 expression."
+    },
+    {
+        "index": 296,
+        "string": "Brachyury is not required to induce _HOX_ propagation, as previously described<sup>44</sup>, and therefore its reduction should not influence the acquisition of lower thoracic or lumbosacral identity.",
+        "phrase": "as previously described",
+        "refer": "In the given sentence, \"as previously described\" refers to the previous description or explanation of the fact that Brachyury is not required to induce HOX propagation."
+    }
+]

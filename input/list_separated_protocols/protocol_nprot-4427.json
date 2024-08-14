@@ -1,0 +1,22 @@
+[
+    {
+        "title": "1.",
+        "body": "Use input RNA samples normalized to a concentration of 1 ng/μl RNA."
+    },
+    {
+        "title": "2.",
+        "body": "Thaw frozen qPCR kit components on ice. Mix and centrifuge briefly."
+    },
+    {
+        "title": "3.",
+        "body": "Swirl mastermix bottle gently to mix."
+    },
+    {
+        "title": "4.",
+        "body": "Calculate number of samples, including the no-template control."
+    },
+    {
+        "title": "5.",
+        "body": "Set up duplicate PCR reactions for each template/assay combination, using the \"attached spreadsheet\":http://www.nature.com/protocolexchange/system/uploads/4033/original/Master_Mixes.xlsx?1447058311 to scale the following per reaction mixture:\r\n  <a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4041/original/SOP_DNAqPCR_v1_Table_1.png?1447061677\">See figure in Figures section.</a>\r\n\n\n \r\n\n\n2.14 Mix and centrifuge briefly. \r\n\n\n2.15 Distribute into 0.2 ml qPCR wells, 10 μl per well.\r\n\n\n2.16 Seal, mix, and centrifuge briefly.\r\n\n\n2.17 Place in qPCR machine and run the following program:\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4045/original/SOP_DNAqPCR_v1_PCR_Program.png?1447062126\">See figure in Figures section.</a>"
+    }
+]

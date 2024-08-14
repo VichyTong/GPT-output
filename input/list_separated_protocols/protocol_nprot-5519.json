@@ -1,0 +1,130 @@
+[
+    {
+        "title": "1.",
+        "body": [
+            "Prepare BRB80 5x: 400 mM K-PIPES, 5 mM MgCl<sub>2</sub>, 5 mM EGTA, pH 6.85. Can be stored at 4°C \\(up to a week).\r\n  \r\n\n\n",
+            {
+                "title": "**Δ Critical steps before the experiments:**",
+                "body": ""
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": "Before initiating experiments, tubulin purity needs to be assessed by SDS-page and Coomassie staining. If contaminants are present, tubulin needs to be further purified through a cycle of polymerization/depolymerization in PIPES high molarity buffer as described in Castoldi et al., 2003<sup>12</sup>."
+    },
+    {
+        "title": "3.",
+        "body": "Tubulin concentration and labelling stoichiometry need be precisely measured using a nanodrop spectrophotometer."
+    },
+    {
+        "title": "4.",
+        "body": "The critical concentration for self-assembly needs to be measured for the specific tubulin preparation using a microtubule nucleation assay<sup>14</sup>."
+    },
+    {
+        "title": "5.",
+        "body": [
+            "Before conducting the FRET assay, unlabeled and labelled tubulin need to be centrifuged for 5 min at 227,000 x g \\(TLA100, Beckman) to remove aggregates. The cleared tubulin must be kept on ice at all time and not kept more than a few hours before starting the experiments.\r\n  \r\n\n\n",
+            {
+                "title": "**A) Preparing the free tubulin mix for the FRET self-assembly assay**",
+                "body": ""
+            }
+        ]
+    },
+    {
+        "title": "6.",
+        "body": [
+            "Prepare the free tubulin mix:\r\n  Prepare 50 μl of free tubulin mix at a final concentration of 5 μM \\(in presence of GTP) or 0.5 μM \\(in presence of GMPCPP) by mixing: \r\n\n\n- The required amounts of labelled and unlabeled tubulin stocks to obtain 10% of tubulin labelled with rhodamine dye and 10% labelled with the DyLight 650 dye. \r\n\n\n- In a 1x BRB80 buffer with glycerol 5% glycerol, 1 mM DTT and 1 mM of nucleotide \\(GDP, GTP or GMPCPP). \r\n\n\n\r\n\n\n",
+            {
+                "title": "**For example:**",
+                "body": "With a stock solution of 75 μM of unlabeled tubulin, 50 μM of 20% DyLight 650-labelled tubulin and 50 μM of 50% rhodamine-labelled tubulin.\r\n\n\nFor a 5 μM free tubulin mix: \r\n\n\n      - 1 μl of unlabeled tubulin \r\n\n\n      - 2.5 μl of DyLight 650-labelled tubulin\r\n\n\n      - 1 μl of rhodamine-labelled tubulin\r\n\n\n      - 9.1 μl of 5x BRB80 \r\n\n\n      - 2.5 μl of glycerol\r\n\n\n      - 0.5 μl of DTT \\(0.1M stock solution)\r\n\n\n      - 0.5 μl of nucleotide \\(GTP at a stock solution of 0.1 M)\r\n\n\n      - QSP with MilliQ water to a final volume of 50 μl. \r\n\n\nIt is desirable to prepare the mix buffer first, then add the tubulin and prior to begin the experiment add the GTP."
+            },
+            {
+                "title": "**Δ Critical step:**",
+                "body": "Keep tubulin and tubulin mix on ice at all time. The Micro-cell and Hamilton syringe should be kept at 4°C \\(or on ice) to avoid warning up the tubulin mix before measurement is initiated. The fluorimeter should be turn on at least 30 min before use and the temperature controller set at 32°C. The Micro-cell adapter should be set up on the fluorimeter and pre-equilibrated at 32°C to allow the reaction mix to reach temperature rapidly."
+            }
+        ]
+    },
+    {
+        "title": "7.",
+        "body": "Mix gently by pipetting \\(avoid to create bubbles)."
+    },
+    {
+        "title": "8.",
+        "body": "Using the Hamilton syringe to transfer the tubulin mix in the Micro-Cell."
+    },
+    {
+        "title": "9.",
+        "body": "Place quickly the Micro-cell on its holder \\(pre-equilibrated at 32°C) in the fluorimeter and start the measurement."
+    },
+    {
+        "title": "10.",
+        "body": [
+            "The emitter fluorophore \\(DyLight 650) is excited at 561 nm and the acceptor fluorescence of rhodamine recorded at 702 nm with a 4 nm bandwidth at 15 s capture interval, 10 s measurement time, and for a total acquisition time of 30 min.\r\n  ",
+            {
+                "title": "**Data analysis:**",
+                "body": "- For each time point, the background fluorescence measured at time zero is subtracted from the fluorescent signal.\r\n\n\n- The oligomerization rate is calculated by measuring the slope of the progress curve before steady-state is reached.\r\n\n\n- If steady-state is not reached within the time frame of the experiment, then the slope of the entire curve is used to calculate the rate."
+            },
+            {
+                "title": "**B) Preparing the protofilament mix for the FRET self-assembly assay**",
+                "body": ""
+            }
+        ]
+    },
+    {
+        "title": "7.",
+        "body": [
+            "Prepare the protofilament mix:\r\n  Prepare 200 μl of protofilament mix at a final concentration of 0.5 μM, for each fluorescently labelled tubulin by mixing: \r\n\n\n- the unlabeled tubulin and Rhodamine or DyLight-650 tubulin to obtain a final concentration of 10% tubulin bearing a fluorophore. \r\n\n\n- In a 1x BRB80 buffer with glycerol 5% glycerol, 1 mM DTT and 1 mM of nucleotide \\(GDP, GTP or GMPCPP). \r\n\n\n",
+            {
+                "title": "**For example:**",
+                "body": "With a stock solution of 80 μM of unlabeled tubulin, 50 μM of 20% DyLight 650-labelled tubulin and 20 μM of 50% rhodamine-labelled tubulin.\r\n\n\nFor a 0.5 μM DyLight 650-labelled protofilament mix: \r\n\n\n      - 0.625 μl of unlabeled tubulin \r\n\n\n      - 1 μl of DyLight 650-labelled tubulin\r\n\n\n      - 40 μl of 5x BRB80 \r\n\n\n      - 10 μl of glycerol\r\n\n\n      - 2 μl of DTT \\(0.1M stock solution)\r\n\n\n      - 2 μl of taxol \\(50 mM stock solution)\r\n\n\n      - 2 μl of nucleotide \\(GTP at a stock solution of 0.1 M)\r\n\n\n      - QSP with MilliQ water to a final volume of 200 μl. \r\n\n\n\r\n\n\nAnd For a 0.5 μM rhodamine-labelled protofilament mix: \r\n\n\n      - 1 μl of unlabeled tubulin \r\n\n\n      - 1 μl of rhodamine-labelled tubulin\r\n\n\n      - 40 μl of 5x BRB80 \r\n\n\n      - 10 μl of glycerol\r\n\n\n      - 2 μl of DTT \\(0.1M stock solution)\r\n\n\n      - 2 μl of taxol \\(50 mM stock solution)\r\n\n\n      - 2 μl of nucleotide \\(GTP at a stock solution of 0.1 M)\r\n\n\n      - QSP with MilliQ water to a final volume of 200 μl. \r\n\n\n\r\n\n\nIt is desirable to prepare the mix buffer, then add the tubulin and lastly the GTP and taxol."
+            }
+        ]
+    },
+    {
+        "title": "7.",
+        "body": "Incubate on ice for 30 min."
+    },
+    {
+        "title": "8.",
+        "body": "Transfer the protofilament mix in the D-tube Dialyser Mini."
+    },
+    {
+        "title": "9.",
+        "body": "Dialyze the protofilaments for 1 h against 100 ml of 1x BRB80 supplemented with 0.5 μM taxol."
+    },
+    {
+        "title": "10.",
+        "body": "Carefully transfer the protofilament mix to a 1.5 ml tube with cut off pipette tip."
+    },
+    {
+        "title": "11.",
+        "body": "Add GDP to 1 mM final to the protofilament mix."
+    },
+    {
+        "title": "12.",
+        "body": "Mix equal volumes of Rhodamine labelled protofilaments \\(20 μl) and DyLight-650 protofilaments \\(20 μl) for a final volume of 40 μl."
+    },
+    {
+        "title": "13.",
+        "body": "Mix gently by pipetting \\(avoid to create bubbles)"
+    },
+    {
+        "title": "14.",
+        "body": "Using the Hamilton syringe transfer the tubulin mix in the Micro-Cell."
+    },
+    {
+        "title": "15.",
+        "body": "Place quickly the Micro-cell on its holder \\(pre-equilibrated at 32°C) in the fluorimeter and start the measurement."
+    },
+    {
+        "title": "16.",
+        "body": [
+            "The emitter fluorophore \\(DyLight 650) is excited at 561 nm and the acceptor fluorescence of rhodamine recorded at 702 nm with a 4 nm bandwidth at 15 s capture interval, 10 s measurement time, and for a total acquisition time of 30 min.\r\n  ",
+            {
+                "title": "**Data analysis:**",
+                "body": "- For each time point, the background fluorescence measured at time zero is subtracted from the fluorescent signal.\r\n\n\n- The oligomerization rate is calculated by measuring the slope of the progress curve before steady-state is reached.\r\n\n\n- If steady-state is not reached within the time frame of the experiment, then the slope of the entire curve is used to calculate the rate."
+            }
+        ]
+    }
+]

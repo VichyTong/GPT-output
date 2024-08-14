@@ -1,0 +1,76 @@
+[
+    {
+        "title": "**Protected substrates**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Weigh out 200 mg of protected reducing carbohydrate into a 25 mL round-bottomed flask containing a Teflon-coated magnetic stirrer bar. Fit the flask with a water condenser in the main neck and also a rubber septum in the second neck. Place a rubber septum into the top of the condenser. Flush the flask with argon and maintain under a positive pressure of argon by use of an argon balloon. Place the flask into an oil bath on the hotplate stirrer and fit a digital temperature probe to the hotplate stirrer."
+            },
+            {
+                "title": "2)",
+                "body": "Transfer 5 mL of 1,4-dioxane into the flask using a disposable 5 mL syringe and a disposable needle."
+            },
+            {
+                "title": "3)",
+                "body": "Weight out Lawesson’s reagent \\(1.2 equivalents) in a glass vial and transfer to the reaction vessel by rapid removal of the rubber septum and subsequent replacement following addition.\r\n\n\nPRECAUTION Lawesson’s reagent is toxic by inhalation and exudes a strong stench. It should be handled always inside a fume hood."
+            },
+            {
+                "title": "4)",
+                "body": "Heat the reaction vessel to 80 ºC and stir at this temperature for 3-4 hours. \\(Completion of the reaction should be checked by t.l.c.)"
+            },
+            {
+                "title": "5)",
+                "body": "Cool the reaction to room temperature by lifting the vessel out of the oil bath."
+            },
+            {
+                "title": "6)",
+                "body": "Filter the reaction mixture through a Celite® pad into a round-bottomed flask and wash the Celite® pad with 10 mL of 1,4-dioxane. Evaporate the solvent to dryness using a rotary evaporator."
+            },
+            {
+                "title": "7)",
+                "body": "Purify the desired product by flash chromatography on silica gel eluting with ethyl acetate:petroleum spirit to yield the desired glycosyl thiol."
+            }
+        ]
+    },
+    {
+        "title": "**Unprotected sugars for protein glycosylation**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Weigh out 50 mg of unprotected reducing carbohydrate into a 10 mL round-bottomed flask containing a Teflon-coated magnetic stirrer bar. Fit the flask with a water condenser in the main neck and also a rubber septum in the second neck. Place a rubber septum into the top of the condenser. Flush the flask with argon and maintain under a positive pressure of argon by use of an argon balloon. Place the flask into an oil bath on the hotplate stirrer and fit a digital temperature probe to the hotplate stirrer."
+            },
+            {
+                "title": "2)",
+                "body": "Transfer 3 mL of 1,4-dioxane into the flask using a disposable 5 mL syringe and a disposable needle."
+            },
+            {
+                "title": "3)",
+                "body": "Weight out Lawesson’s reagent \\(1.2 equivalents) in a glass vial and transfer to the reaction vessel by rapid removal of the rubber septum and subsequent replacement following addition.\r\n\n\nPRECAUTION Lawesson’s reagent is toxic by inhalation and exudes a strong stench. It should be handled always inside a fume hood."
+            },
+            {
+                "title": "4)",
+                "body": "Heat the reaction vessel to 110 ºC and stir at this temperature for 48 hours."
+            },
+            {
+                "title": "5)",
+                "body": "Cool the reaction to room temperature by lifting the vessel out of the oil bath."
+            },
+            {
+                "title": "6)",
+                "body": "Filter the reaction mixture through a Celite® pad into a round-bottomed flask and wash the Celite® pad with 10 mL of 1,4-dioxane. Evaporate the solvent to dryness using a rotary evaporator."
+            },
+            {
+                "title": "7)",
+                "body": "Transfer 5 mL dichloromethane and 8 mL of water to the round-bottomed flask containing the resulting crude thiol and transfer the mixture into a separating funnel. Separate the layers and extract the organic layer with 4 portions of 8 mL of water.\r\n\n\nCRITICAL A few drops of methanol shall be added to the mixture to help separation."
+            },
+            {
+                "title": "8)",
+                "body": "Freeze dry the aqueous layer."
+            },
+            {
+                "title": "9)",
+                "body": "Use the crude glycosyl thiol in selenenylsulfide-mediated protein glycosylation stratergy."
+            }
+        ]
+    }
+]

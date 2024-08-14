@@ -1,0 +1,122 @@
+[
+    {
+        "title": "**Synthesis of N,N’–bis–\\(2,4,6–trimethylphenylamino)ethane dihydrobromide.**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Weigh out 40.5 g \\(0.3 mol) of 2,4,6–trimethylaniline in a 250 mL round–bottomed flask equiped with a stirring bar."
+            },
+            {
+                "title": "2|",
+                "body": "Add 22.5 g \\(0.125 mol) of 1,2–dibromoethane."
+            },
+            {
+                "title": "3|",
+                "body": "Add 30 mL of methanol."
+            },
+            {
+                "title": "4|",
+                "body": "Stir the reaction mixture under reflux for 24 h.\r\n\n\n PAUSEPOINT : a solid forms during the reaction, usually after 18 h."
+            },
+            {
+                "title": "5|",
+                "body": "The solution is cooled down to room temperature and stirred for an additional 2 h."
+            },
+            {
+                "title": "6|",
+                "body": "Filter off the formed brownish precipitate, wash it with 50 mL of methanol, 100 mL of ethyl acetate, 100 mL of diethyl ether and dry under an air flux for one hour to obtain a white powder."
+            }
+        ]
+    },
+    {
+        "title": "**Synthesis of N,N’–bis–\\(2,4,6–trimethylphenylamino)ethane dihydrochloride.**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Weigh out 37.8 g \\(82.5 mmol) of N,N’–bis–\\(2,4,6–trimethylphenylamino)ethane dihydrobromide in a 1 L round–bottomed flask."
+            },
+            {
+                "title": "2|",
+                "body": "Add 500 mL of diethyl ether and 25 g \\(235.8 mmol) of solution of sodium carbonate in 200 mL water."
+            },
+            {
+                "title": "3|",
+                "body": "Stir vigorously the solution for 2 h."
+            },
+            {
+                "title": "4|",
+                "body": "Separate the organic layer, extract the aqueous phase with 100 mL of diethyl ether and dry the combined phases over anhydrous Na<sub>2</sub>SO<sub>4</sub>."
+            },
+            {
+                "title": "5|",
+                "body": "Add 200 mL of ethanol in a 500 mL round–bottomed flask immerged in a water bath."
+            },
+            {
+                "title": "6|",
+                "body": "Add 19.0 g \\(242 mmol) of acetyl chloride dropwise while maintaining the temperature close to room temperature. Then stir the solution for 30 minutes at room temperature."
+            },
+            {
+                "title": "7|",
+                "body": "Add the ethanolic HCl solution to the ether.\r\n\n\n PAUSEPOINT : A white solid forms immediately."
+            },
+            {
+                "title": "8|",
+                "body": "Filter off the solid and dry it to constant weight in an oven \\(90°C)."
+            }
+        ]
+    },
+    {
+        "title": "**1,3–bis–\\(2,4,6–trimethylphenyl)imidazolinium bromide or chloride <sup>1</sup>**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Weigh out 20.0 g of N,N’–bis–\\(2,4,6–trimethylphenylamino)ethane dihydrobromide \\(43.7 mmol) or chloride \\(58.3 mmol) in a two–necked 250 mL round–bottomed flask equipped with a distillation apparatus and a thermometer."
+            },
+            {
+                "title": "2|",
+                "body": "Add 150 mL of triethyl orthoformate and seven drops of formic acid."
+            },
+            {
+                "title": "3|",
+                "body": "Heat the white suspension until the internal temperature reaches 115°C and maintain at this temperature for 30 minutes.\r\n\n\n PAUSEPOINT : Ethanol is collected during the heating, as indicated by the temperature of vapors. During the heating, the white solid dissolves to re–precipitate only a few minutes later."
+            },
+            {
+                "title": "4|",
+                "body": "Cool down the reaction mixture to room temperature and wait for 2 h."
+            },
+            {
+                "title": "5|",
+                "body": "Filter the white powder, wash it with 2×100 mL of diethyl ether and dry under an air flux."
+            }
+        ]
+    },
+    {
+        "title": "**Synthesis of 1,3–bis–\\(2,4,6–trimethylphenyl)imidazolinium tetrafluoroborate or hexafluorophosphate.<sup>2</sup>**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Weigh out 5.0 g \\(13 mmol) of 1,3–bis–\\(2,4,6–trimethylphenyl)imidazolinium bromide in a 100 mL round–bottomed flask."
+            },
+            {
+                "title": "2|",
+                "body": "Add 30 mL of ethanol."
+            },
+            {
+                "title": "3|",
+                "body": "Add 4.0 mL of 60% aqueous HBF<sub>4</sub> or HPF<sub>6</sub>."
+            },
+            {
+                "title": "4|",
+                "body": "A white solid forms immediately. In the case of the tetrafluoroborate salt, 5 mL of ethanol are added. Stir the reaction in an ice bath for 45 minutes."
+            },
+            {
+                "title": "5|",
+                "body": "Filter the solid, wash it with 5 mL of cold ethanol and 5 mL of diethyl ether."
+            },
+            {
+                "title": "6|",
+                "body": "Dry the white solid in a desiccator under reduced pressure."
+            }
+        ]
+    }
+]

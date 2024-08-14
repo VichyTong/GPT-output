@@ -1,0 +1,309 @@
+[
+    {
+        "title": "**Preparation of dual-gRNA library**",
+        "body": [
+            "_Library design_",
+            {
+                "title": "1)",
+                "body": [
+                    "Identify genes and gene pairs to be tested in assay. In the associated publication we describe the testing of a square matrix of all pairwise interactions between 73 genes \\(73 x",
+                    {
+                        "title": "73).",
+                        "body": "However, the both gRNA for a dual-gRNA construct are directly specified during oligonucleotide synthesis thereby enabling the library constituents to be exactly defined to facilitate custom gRNA-pairing. Thus asymmetric formats \\(eg. 10 x 250, 25 x 100, ect.) are also possible."
+                    }
+                ]
+            },
+            {
+                "title": "2)",
+                "body": "Design 20 bp gRNA to target each gene. Multiple on-line resources to design gRNA are now available13-15. Poly-T sequences \\(i.e., more than two consecutive T's) should be avoided and, to avoid off-target editing, gRNAs should require at least three substitutions in order to match any other sequence in the genome. We selected three gRNA per gene, it is possible to select more gRNA per gene. The total number of unique elements in the library, including non-targeting controls, should not exceed ~50,000 in order to keep tissue culture manageable. Ideally all steps of the process should be performed with a minimum of 200X coverage, meaning 200 unique copies of each gRNA. For a library of 50,000 elements this would require 10 mil cells.\r\n\n\n\r\n\n\n_Cloning Step 1: paired gRNA cloning_"
+            },
+            {
+                "title": "1)",
+                "body": "Purchase pooled oligonucleotide libraries from commercial vendor such as CustomArray \\(Bothell, WA)."
+            },
+            {
+                "title": "2)",
+                "body": "Amplify full-length oligonucleotides with dual gRNA spacers \\(i.e., 20-bp sequences used for targeting desired genes) using PCR using Kapa Hifi enzyme \\(Kapa Biosystems). Set up PCR reactions according to the manufacturer’s protocol, using 1 μL of synthesized oligonucleotide template \\(typically around 20 ng), an annealing temperature of 55 °C, and an extension time of 15 s. The numbers of cycles of amplification should fall within the linear phase of amplification\r\n\n\nPrimer sequences: \r\n\n\nOLS_gRNA-SP_F: TATATATCTTGTGGAAAGGACGAAACACCG\r\n\n\nOLS_gRNA-SP_R: CTTATTTTAACTTGCTATTTCTAGCTCT"
+            },
+            {
+                "title": "3)",
+                "body": "Repeat ten 50 µL PCR reactions for each library, this is to obtain high yield coverage of the PCR products. Too much genomic starting material can interfere with PCR reaction, which is why to parallel reactions are needed."
+            },
+            {
+                "title": "4)",
+                "body": "Run PCR product on 2% agarose gel electrophoresis, separate the 144 bp amplicon and purify with the QIAquick gel extraction kit \\(QIAGEN)."
+            },
+            {
+                "title": "5)",
+                "body": "Digest gRNA-LGP vector with BsmBI \\(New England Biosciences) via the following reaction at 55°C for 3 hours:\r\n\n\n\r\n\n\ngRNA-LGP vector      4 μg\r\n\n\nBuffer 3.1  5 μL\r\n\n\n10× BSA 5 μL\r\n\n\nBsmBI 3 μL\r\n\n\nH2O Up to 50 μL"
+            },
+            {
+                "title": "6)",
+                "body": "After digestion, treat vector with 2 μL of Calf Intestinal Alkaline Phosphatase \\(New England Biosciences) at 37°C for 30 minutes,"
+            },
+            {
+                "title": "7)",
+                "body": "Purify with QIAquick PCR Purification Kit \\(Qiagen)"
+            },
+            {
+                "title": "8)",
+                "body": "Assemble the paired gRNAs into the vector using 10 Gibson assembly reactions in parallel with reactions as follows: \r\n\n\n\r\n\n\nLinearized gRNA-LGP vector  200 ng\r\n\n\nDual gRNA inserts 36 ng \\(molar ratio 1:10)\r\n\n\n2× Gibson Assembly Master Mix \\(NEB) 10 μL\r\n\n\nH2O  Up to 20 μL"
+            },
+            {
+                "title": "9)",
+                "body": "Incubate at 50°C for 1 hour"
+            },
+            {
+                "title": "10)",
+                "body": "Purify with QIAquick PCR Purification Kit \\(Qiagen)"
+            },
+            {
+                "title": "11)",
+                "body": "Transform into One Shot Stbl3 Chemically Competent E. coli \\(Invitrogen). Approximately twenty parallel transformations are needed to ensure adequate library representation."
+            },
+            {
+                "title": "12)",
+                "body": "Calculate library coverage: remove a small fraction \\(20-100 μL) of cultures and spread on carbenicillin \\(50 μg/ml) LB plates"
+            },
+            {
+                "title": "13)",
+                "body": "Amplify rest of cultures overnight in 150 ml LB medium, maintaining ~100X library coverage"
+            },
+            {
+                "title": "14)",
+                "body": "Extract plasmid DNA using the HiSpeed Plasmid Maxi Kit \\(Qiagen)"
+            },
+            {
+                "title": "15)",
+                "body": "Pick twenty independent clones for Sanger-sequencing to estimate the overall quality of the library\r\n\n\n\r\n\n\n_Cloning Step 2: Insertion of the gRNA scaffold and the mouse U6 promoter_"
+            },
+            {
+                "title": "1)",
+                "body": [
+                    "Use BsmBI to digest the step 2 library plasmids as per the following reaction at 55°C for 3 hours:\r\n\n\n\r\n\n\nCloning",
+                    {
+                        "title": "Step 1",
+                        "body": "library 4 μg\r\n\n\nBuffer 3.1  5 μL\r\n\n\n10× BSA 5 μL\r\n\n\nBsmBI 3 μL\r\n\n\nH2O Up to 50 μL"
+                    }
+                ]
+            },
+            {
+                "title": "2)",
+                "body": "Treat the linearized plasmids with 2 µL of Calf Intestinal Alkaline Phosphatase  at 37°C for 30 minutes;"
+            },
+            {
+                "title": "3)",
+                "body": "Gel-purified cut plasmids using via 0.6% agarose gel electrophoresis and QIAquick gel extraction"
+            },
+            {
+                "title": "4)",
+                "body": "Concurrently, digested the step 3 inserts with BsmBI per the following reaction at 55 °C for 3 hours. The inserts should be synthesized commercially \\(Integrated DNA Technologies or similar) and cloned into a TOPO vector. See sequence of insert below. \r\n\n\n\r\n\n\nPurified step 2 insert PCR product 0.8 μg\r\n\n\nBuffer 3.1  5 μL\r\n\n\n10× BSA 5 μL\r\n\n\nBsmBI 3 μL\r\n\n\nH2O Up to 50 μL\r\n\n\n\r\n\n\nSequence of the step 2 insert, with left-gRNA scaffold \\(_italicized_) and mU6 promoters \\("
+            }
+        ]
+    },
+    {
+        "title": "**bold**",
+        "body": "):\r\n\n\nTATGAGGACGAATCTCCCGCTTATACGTCTCT _GTTTCAGAGCTATGCTGGAAACTGCATAGCAAGTTGAAATAAGGCTAGTCCGTTATCAACTTGAAAAAGTGGCACCGAGTCGGTGCTTTTTT_ GTACTGAGTCGCCCA"
+    },
+    {
+        "title": "**GTCTCAGATAGATCCGACGCCGCCATCTCTAGGCCCGCGCCGGCCCCCTCGCACAGACTTGTGGGAGAAGCTCGGCTACTCCCCTGCCCCGGTTAATTTGCATATAATATTTCCTAGTAACTATAGAGGCTTAATGTGCGATAAAAGACAGATAATCTGTTCTTTTTAATACTAGCTACATTTTACATGATAGGCTTGGATTTCTATAAGAGATACAAATACTAAATTATTATTTTAAAAAACAGCACAAAAGGAAACTCACCCTAACTGTAAAGTAATTGTGTGTTTTGAGACTATAAATATCCCTTGGAGAAAAGCCTTGTTT**",
+        "body": [
+            "GAGAGACGGTACAAGCACACGTTTGTCAAGACC",
+            {
+                "title": "5)",
+                "body": [
+                    "Ligate with following reaction, involving overnight incubation at 16°C followed by heat inactivation at 65°C for 10 minutes:\r\n\n\n\r\n\n\n10X T4 DNA Ligase Buffer 2 μL",
+                    {
+                        "title": "Step 1",
+                        "body": "library, digested  100 ng"
+                    },
+                    {
+                        "title": "Step 2",
+                        "body": "insert, digested  100 ng\r\n\n\nT4 DNA Ligase \\(high concentration) 1 μL\r\n\n\nH2O Up to 20 μL"
+                    }
+                ]
+            },
+            {
+                "title": "6)",
+                "body": "Transform 4 µL of reaction from step \\(5) into 100 µL  of ElectroMAX Stbl4 Competent Cells \\(Invitrogen) according to the manufacturer’s protocol using an Eppendorf Electroporator. Spread a small fraction \\(1-10 µL) of cultures on carbenicillin \\(50 μg/ml) LB plates to calculate the library coverage. Use rest of the cultures to plate on ten 15 cm LB- carbenicillin plates and grow overnight at 37°C for amplification. Likely two parallel transformations were required to get ~100X library coverage."
+            },
+            {
+                "title": "7)",
+                "body": "Extract plasmid DNA using HiSpeed Plasmid Maxi Kit \\(Qiagen). Library diversity is determined by deep sequencing."
+            }
+        ]
+    },
+    {
+        "title": "**Viral production**",
+        "body": [
+            "_Note: it is important to check your HEK cells for contamination with mycoplasma before using them for the production of lentiviral particles._",
+            {
+                "title": "1)",
+                "body": "To produce lentivirus, seed HEK293T cells in 15 cm tissue culture dishes one day before transfection so that they are 70-80% confluent at the time of transfection. HEK293T cells to be maintained in DMEM medium supplemented with 10% fetal bovine serum."
+            },
+            {
+                "title": "2)",
+                "body": "On day of transfection, change to fresh culture media."
+            },
+            {
+                "title": "3)",
+                "body": "For each 15 cm dish, dilute 36 µL of Lipofectamine 3000 \\(Life Technologies) in 1.2 mL OptiMEM \\(Life Technologies)."
+            },
+            {
+                "title": "4)",
+                "body": "Separately, dilute 3 µg pMD2.G \\(Addgene #12259), 12 µg of pCMV delta R8.2 \\(Addgene #12263), 9 µg of lentiviral vector and 48 µL of P3000 Reagent in 1.2 mL OptiMEM. Incubate for 5 min at room temperature."
+            },
+            {
+                "title": "5)",
+                "body": "After incubation, combine the Lipofectamine 3000 mixture and DNA mixture and incubate at room temperature for 30 min."
+            },
+            {
+                "title": "6)",
+                "body": "Add the mixture dropwise to HEK293T cells."
+            },
+            {
+                "title": "7)",
+                "body": "Return HEK293T cells to incubator, remove and collect media 48 hours after transfection to harvest virus. Replace with fresh media."
+            },
+            {
+                "title": "8)",
+                "body": "Remove and collect media again 72 hours after transfection."
+            },
+            {
+                "title": "9)",
+                "body": "Combine 48 and 72 hr harvests and further concentrate virus using Centricon Plus-20 centrifugal ultrafilters with a cutoff 100,000 NMWL \\(Millipore) to a final volume of 450 µL, then aliquot and freeze at -80°C."
+            }
+        ]
+    },
+    {
+        "title": "**Cas9 cloning**",
+        "body": "Prior to screening cell lines must be engineered to express the CRISPR Cas9 nuclease. This can be done by stable integration into the human AAVS1 site, or using a lentiviral vector to package a Cas9 expression plasmid such as Addgene #52962, followed by antibiotic selection to for cells with the Cas9 vector."
+    },
+    {
+        "title": "**Competitive growth experiments**",
+        "body": [
+            "_Note: It is important to maintain coverage \\(ideally 200X) at all stages of the competitive growth experiment. Also, at least 2 biological replicates \\(independent transductions) are needed for each cell line and/or condition of interest._",
+            {
+                "title": "1)",
+                "body": "Package the pooled library of double gRNA constructs into lentivirus \\(see above)"
+            },
+            {
+                "title": "2)",
+                "body": "Titer the library virus in the cell line of interest. The transduction efficiency of certain cell lines can be significantly less than 293T, so it is important to establish the functional titer in your specific cell line."
+            },
+            {
+                "title": "3)",
+                "body": [
+                    "Day -1: On day prior to transduction plate sufficient cells so that by next day there will be at three times the desired minimum coverage by day",
+                    {
+                        "title": "1.",
+                        "body": "For example, for 200X coverage of a 50,000 element library 30 mil cells would be needed. Use sufficient number of plates so that cells will be ~50%-60% confluent on day"
+                    },
+                    {
+                        "title": "1.",
+                        "body": "To facilitate growing these large number of cells we use 245 mm x 245 mm Bioassay dishes \\(Corning)."
+                    }
+                ]
+            },
+            {
+                "title": "4)",
+                "body": "Day 0: Transduce cells with gRNA library virus at MOI of 0.3 or lower to ensure that each cell had 0-1 double gRNA constructs. Because approximately 2/3 of the cells will be killed it is important to start transduction with three times the desired minimal coverage."
+            },
+            {
+                "title": "5)",
+                "body": "Day 1: Change media to remove virus"
+            },
+            {
+                "title": "6)",
+                "body": "Day 2: Passage cells if they are greater than 85% confluent, otherwise leave until Day 3"
+            },
+            {
+                "title": "7)",
+                "body": "Day 3: Count and passage cells. Freeze down enough cells to account for minimum desired coverage \\(snap freeze in N2, store at -80 C). Re-plate enough cells to account for minimum desired coverage. Start puromycin selection at predetermined selection dose."
+            },
+            {
+                "title": "8)",
+                "body": "Days 4-28: Keep cells in exponential growth by passaging every 2-4 days as needed for your cell line. At every passage, re-plate enough cells to account for minimum desired coverage and freeze the rest."
+            },
+            {
+                "title": "9)",
+                "body": "Extract DNA from cells harvested at 3, 14, 21 and 28-day time points using the Blood and Cell Culture DNA Mini Kit \\(Qiagen) according to manufacturer protocols."
+            }
+        ]
+    },
+    {
+        "title": "**NGS library preparation**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Quantitate DNA extracted from step #9 above to ensure there is adequate coverage prior to starting library preparation.\r\n\n\nThe dual gRNA cassette will be amplified and prepared for deep sequencing using two steps of PCR."
+            },
+            {
+                "title": "2)",
+                "body": "PCR 1: Perform this as 10 separate 50 μL reactions with 2 μg input genomic DNA per reaction \\(total 20 μg for each sample) using Kapa Hifi enzyme. PCR primers are as follows: \r\n\n\nNGS_dual-gRNA_SP_Lib_F: ACACTCTTTCCCTACACGACGCTCTTCCGATCT TATATATCTTGTGGAAAGGACGAAACACCG\r\n\n\nNGS_dual-gRNA_SP_Lib_R:  GACTGGAGTTCAGACGTGTGCTCTTCCGATCT CCTTATTTTAACTTGCTATTTCTAGCTCTA\r\n\n\n\r\n\n\nThermocycling parameters are: 95°C for 30 s, 21-26 cycles of \\(98°C for 15 s, 55°C for 15 s, 72°C for 45 s), and 72°C for 5 min. Test the numbers of cycles to fall within the linear phase of amplification."
+            },
+            {
+                "title": "3)",
+                "body": "Pool amplicons \\(600 bp) of 10 reactions for each sample then size-select and purify with Agencourt AMPure XP beads \\(Beckman Coulter) at 0.8 ratio."
+            },
+            {
+                "title": "4)",
+                "body": "Further purify with QIAquick PCR Purification \\(Qiagen)."
+            },
+            {
+                "title": "5)",
+                "body": "PCR 2: Use 4 separate 50 μL reactions with 5 ng of first-step PCR product per reaction \\(total 20 ng for each sample), using Next® Multiplex Oligos for Illumina \\(New England Biosciences) to attach Illumina adaptors and indexes. The thermocycling parameters are: 95°C for 30 s, 7-8 cycles of \\(98°C for 15 s, 72°C for 45 s), and 72°C for 5 min."
+            },
+            {
+                "title": "6)",
+                "body": "Pool amplicons from these 4 reactions then size-select and purify twice using Agencourt AMPure XP beads at 0.8 ratio."
+            },
+            {
+                "title": "7)",
+                "body": "Quantify the purified second step PCR library using real-time PCR with Illumina Library Quantification kit \\(Kapa Biosystems)."
+            }
+        ]
+    },
+    {
+        "title": "**Next-generation sequencing**",
+        "body": "Sequencing should be performed at a core facility with experience working with amplicon-based sequencing. To identify both gRNA on each construct 75 bp paired-end reads are required. Given the lack of base diversity in the amplicon it is necessary to spike in ~20% PhiX when sequencing using Illumina HiSeq Rapid run."
+    },
+    {
+        "title": "**Processing of paired-end reads, fitness estimation, and calculation of interaction scores**",
+        "body": [
+            "A software pipeline to analyze the raw sequencing data is available here: \r\n\n\n\r\n\n\nhttp://ideker.ucsd.edu/papers/rsasik2017/\r\n\n\n\r\n\n\nBelow is a brief description of how the pipeline processes the raw data. Inputs to the pipeline are FASTQ files for two replicates at Day 3, Day 14, Day 21, and Day 28 time points.",
+            {
+                "title": "1)",
+                "body": "Trim FASTQ files of scaffold sequence using cutadapt16, discarding trimmed reads of unexpected lengths <19 or >21 bps."
+            },
+            {
+                "title": "2)",
+                "body": "Truncate remaining reads to 19 bases from the appropriate end, reverse-complement reads from reverse strand."
+            },
+            {
+                "title": "3)",
+                "body": "Check both reads in a pair for sequence matches against gRNA sequences used in the library, allowing one mismatch anywhere in a read."
+            },
+            {
+                "title": "4)",
+                "body": "Aggregate read pairs that matched to a known construct to compute the total counts for each construct in the relevant sample."
+            },
+            {
+                "title": "5)",
+                "body": "Fit linear regression to each gRNA to determine fitness, removing data points that fall below minimum threshold of raw sequencing reads."
+            },
+            {
+                "title": "6)",
+                "body": "Rank gRNA for each gene by absolute fitness effect and assign weights."
+            },
+            {
+                "title": "7)",
+                "body": "Combine the weighted values for the 3 gRNA per gene to determine fitness effect for each gene"
+            },
+            {
+                "title": "8)",
+                "body": "Determine genetic interactions from measured fitness of double gRNA constructs and expected double knockout fitness calculated from single gene finesses \\(f<sub>c</sub>=f<sub>p</sub>+f<sub>p'</sub>+π<sub>pp'</sub>) where π<sub>pp'</sub> is the interaction, f<sub>c</sub> is the measured double gRNA fitness, and f<sub>p</sub> and f<sub>p'</sub> are the single gene effects."
+            }
+        ]
+    }
+]

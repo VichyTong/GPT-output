@@ -1,0 +1,50 @@
+[
+    {
+        "title": "1",
+        "body": [
+            [
+                {
+                    "RINSE": {
+                        "emit": [
+                            {
+                                "reagent0": "Protein A beads"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "Protein A beads"
+                            },
+                            {
+                                "reagent2": "Hypotonic Buffer"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "2",
+        "body": [
+            [
+                {
+                    "PLACE": {
+                        "emit": [
+                            {
+                                "reagent0": "Protein A beads"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "Protein A beads"
+                            },
+                            {
+                                "destination": "ice"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "metal platform 0",
+        "description": "Setup perfusion station: Place metal platform within the glass chamber."
+    },
+    {
+        "name": "port 0",
+        "description": "Attach a butterfly needle to each port."
+    },
+    {
+        "name": "tubing 0",
+        "description": "Place the unclamped end of tubing in the perfusion buffer "
+    },
+    {
+        "name": "perfusion machine 0",
+        "description": "And turn on perfusion machine."
+    },
+    {
+        "name": "perfusion machine 1",
+        "description": "Pause the perfusion machine until ready to use.&nbsp;</p><p>3."
+    },
+    {
+        "name": "anesthetized animal 0",
+        "description": "Take anesthetized animal (via IP injection of Avertin) "
+    },
+    {
+        "name": "abdominal skin 0",
+        "description": "Remove the abdominal skin, preserving the muscle and peritoneum."
+    },
+    {
+        "name": "abdominal organs 0",
+        "description": "Open the peritoneum and open the abdominal cavity for full visualization of the liver and abdominal organs.&nbsp;</p><p>5."
+    },
+    {
+        "name": "inferior vena cava (IVC) and portal vein (PV) 0",
+        "description": "Push the stomach and intestines to the right side of the animal and identify the inferior vena cava (IVC) and portal vein (PV).&nbsp;</p><p>6."
+    },
+    {
+        "name": "tubing 1",
+        "description": "Unclamp the butterfly needle tubing."
+    },
+    {
+        "name": "perfusion machine 1 1",
+        "description": "Turn on the perfusion machine."
+    },
+    {
+        "name": "inferior vena cava (IVC) and portal vein (PV) 1",
+        "description": "And cut the PV."
+    },
+    {
+        "name": "inferior vena cava (IVC) and portal vein (PV) 2",
+        "description": "At this point the animal should rapidly bleed out and perfusion buffer should begin to flow out of the PV.&nbsp;</p><p>8."
+    },
+    {
+        "name": "perfusion buffer 0",
+        "description": "Pass at least 100 mL of perfusion buffer through a single mouse.</p><p>9."
+    },
+    {
+        "name": "collagenase buffer 0",
+        "description": "While the perfusion is running, add the collagenase (transported on ice) to the collagenase buffer "
+    },
+    {
+        "name": "tubing 2",
+        "description": "And switch the tubing to the collagenase buffer."
+    },
+    {
+        "name": "collagenase buffer 1",
+        "description": "And run through entire volume of collagenase buffer.</p><p>11."
+    },
+    {
+        "name": "liver 0",
+        "description": "When the perfusion is finished, remove the liver by cutting along the vasculature and connective tissue; avoid cutting the liver parenchyma."
+    },
+    {
+        "name": "liver 1",
+        "description": "Place the liver in a petri dish with 10 mL of perfusion buffer.&nbsp;&nbsp;</p><p>12."
+    },
+    {
+        "name": "liver 2",
+        "description": "Agitate the liver to dissociate the hepatocytes.&nbsp;</p><p>13."
+    },
+    {
+        "name": "dissociated cell suspension 0",
+        "description": "Using a serological pipette, transfer the dissociated cell suspension to a 70 micron mesh filter over a 50 mL Falcon tube."
+    },
+    {
+        "name": "collagenase buffer 2",
+        "description": "Once filtered through, complete the volume with perfusion buffer to dilute the collagenase.&nbsp;</p><p>14."
+    },
+    {
+        "name": "dissociated cell suspension 1",
+        "description": "Immediately centrifuge at a minimum speed of 800 rpm for 5 minutes.&nbsp;</p><p>15."
+    },
+    {
+        "name": "supernatant 0",
+        "description": "Discard the supernatant."
+    },
+    {
+        "name": "dissociated cell suspension 2",
+        "description": "Resuspend in washing media "
+    },
+    {
+        "name": "supernatant 1",
+        "description": "And centrifuge again at 800 rpm for 5 minutes.&nbsp;&nbsp;</p><p>16."
+    },
+    {
+        "name": "supernatant 2",
+        "description": "Discard the supernatant."
+    },
+    {
+        "name": "supernatant 3",
+        "description": "Resuspend in 10 mL (or 5 mL if the cell pellet is small) of plating media.&nbsp;</p><p>17."
+    },
+    {
+        "name": "supernatant 3 1",
+        "description": "Suspended in plating media, the hepatocytes will remain viable for a few hours, until plated.&nbsp;&nbsp;Once plated, place in 37\u00b0C cell incubator."
+    },
+    {
+        "name": "collagen coated surface 0",
+        "description": "Cells should be plated on a collagen coated surface.&nbsp;</p>"
+    }
+]

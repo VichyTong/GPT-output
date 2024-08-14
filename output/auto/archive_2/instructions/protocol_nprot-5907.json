@@ -1,0 +1,708 @@
+[
+    {
+        "1.": "title or number"
+    },
+    {
+        "Digest tissue in 10 mL of lysis buffer.\r\n  ": {
+            "DILUTE": {
+                "slot": {
+                    "reagent1": "tissue",
+                    "reagent2": "lysis buffer",
+                    "volume": "10 mL"
+                },
+                "emit": {
+                    "reagent0": "tissue 0"
+                }
+            }
+        }
+    },
+    {
+        "1.1.": "title or number"
+    },
+    {
+        "Make Lysis Buffer:": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "lysis buffer",
+                    "volume": "10 mL"
+                },
+                "emit": {
+                    "reagent0": "lysis buffer 0"
+                }
+            }
+        }
+    },
+    {
+        "Lysis Buffer \\(500ml):": ""
+    },
+    {
+        "100mM": "title or number"
+    },
+    {
+        "NaCl \\(10ml 5M NaCl)": ""
+    },
+    {
+        "20mM": "title or number"
+    },
+    {
+        "Tris 7.6  \\(50ml 1M Tris 7.6)": ""
+    },
+    {
+        "10mM EDTA 8.0 \\(10ml 0.5M EDTA)": ""
+    },
+    {
+        "0.5% SDS \\(12.5ml 20% SDS)": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "lysis buffer 0",
+                    "volume": "12.5ml",
+                    "concentration": "0.5% SDS"
+                },
+                "emit": {
+                    "reagent0": "lysis buffer 1"
+                }
+            }
+        }
+    },
+    {
+        "1.2.": "title or number"
+    },
+    {
+        "Step 1: Place tissue in 50 mL conical tube in 10 mL of Lysis Buffer with 100 ul proteinase K \\(1:100 dilution of a 20mg/ml).": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "tissue 0",
+                    "reagent2": [
+                        "lysis buffer 0",
+                        "proteinase K"
+                    ],
+                    "volume": "10 mL",
+                    "ratio": "1:100"
+                },
+                "emit": {
+                    "reagent0": "tissue 1"
+                }
+            }
+        }
+    },
+    {
+        "1.3.": "title or number"
+    },
+    {
+        "Step 2: Add \u201cbenchmark\u201d controls to tube. ": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "tube"
+                },
+                "emit": {
+                    "reagent0": "benchmark controls 0"
+                }
+            }
+        }
+    },
+    {
+        "1.4.": "title or number"
+    },
+    {
+        "Homogenize solution using the TissueMeiser, takes about 15-45 seconds depending on amount of tissue.": {
+            "HOMOGENIZE": {
+                "slot": {
+                    "reagent1": "tissue 0",
+                    "device": "TissueMeiser",
+                    "time": "15-45 seconds"
+                },
+                "emit": {
+                    "reagent0": "tissue 2"
+                }
+            }
+        }
+    },
+    {
+        "1.5.": "title or number"
+    },
+    {
+        "Repeat for remaining samples.": ""
+    },
+    {
+        "NOTE:": "title or number"
+    },
+    {
+        "Between every sample, sterilize TissueMeiser in water, followed by bleach, followed by 70% EtOH followed by PBS.": {
+            "CLEAN": {
+                "slot": {
+                    "object": "TissueMeiser",
+                    "cleaningAgent": "water"
+                },
+                "emit": {
+                    "object": "TissueMeiser 0"
+                }
+            }
+        }
+    },
+    {
+        "Change water after every sample, other wash liquids can be used for 3-4 samples.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "water",
+                    "method": "change"
+                },
+                "emit": {
+                    "reagent0": "water 0"
+                }
+            }
+        }
+    },
+    {
+        "1.6.": "title or number"
+    },
+    {
+        "Place tubes at 55C overnight.": {
+            "HEAT": {
+                "slot": {
+                    "reagent1": "tissue 0",
+                    "temperature": "55C",
+                    "time": "overnight"
+                },
+                "emit": {
+                    "reagent0": "tissue 3"
+                }
+            }
+        }
+    },
+    {
+        "This can be done in a water bath or incubator.": {
+            "INCUBATE": {
+                "slot": {
+                    "reagent1": "tissue 3",
+                    "temperature": "55C",
+                    "device": "water bath or incubator"
+                },
+                "emit": {
+                    "reagent0": "tissue 4"
+                }
+            }
+        }
+    },
+    {
+        "2. Phenol-Chloroform Extract and Precipitate gDNA\r\n  2.1.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "tissue 0"
+                },
+                "emit": {
+                    "reagent0": "tissue 5"
+                }
+            }
+        }
+    },
+    {
+        "Take 500ul of the cell lysate from above digestion.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "cell lysate",
+                    "volume": "500ul"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 0"
+                }
+            }
+        }
+    },
+    {
+        "\\(Make sure to mix well before taking the 500ul\u2026VORTEX)": {
+            "REMOVE": {
+                "slot": {
+                    "item": "cell lysate 0",
+                    "volume": "500ul"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 1"
+                }
+            }
+        }
+    },
+    {
+        "2.2.": "title or number"
+    },
+    {
+        "Add 300ul saturated NaCl": ""
+    },
+    {
+        "2.3.": "title or number"
+    },
+    {
+        "Shake 200x spin 14K for 10 mins @ 4C": {
+            "REMOVE": {
+                "slot": {
+                    "item": "cell lysate 0",
+                    "method": "Shake 200x spin 14K",
+                    "device": "",
+                    "volume": "",
+                    "notice": ""
+                },
+                "emit": {
+                    "reagent0": "cell lysate 2"
+                }
+            }
+        }
+    },
+    {
+        "2.4.": "title or number"
+    },
+    {
+        "Transfer 500ul to a new tube": {
+            "TRANSFER": {
+                "slot": {
+                    "source": "cell lysate 0",
+                    "destination": "new tube",
+                    "sample": "cell lysate",
+                    "volume": "500ul"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 3"
+                }
+            }
+        }
+    },
+    {
+        "2.5.": "title or number"
+    },
+    {
+        "Add 500ul phenol/chloroform/IAA \\(if it is red use another bottle)": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "cell lysate 0",
+                    "reagent2": "phenol/chloroform/IAA",
+                    "volume": "500ul"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 4"
+                }
+            }
+        }
+    },
+    {
+        "2.6.": "title or number"
+    },
+    {
+        "Shake 200x spin 5 minutes at 13000rpm": {
+            "SPIN": {
+                "slot": {
+                    "reagent1": "cell lysate 2",
+                    "speed": 13000,
+                    "time": "5 minutes"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 5"
+                }
+            }
+        }
+    },
+    {
+        "2.7.": "title or number"
+    },
+    {
+        "Withdraw top layer, don\u2019t be greedy \\(~400ul)": {
+            "REMOVE": {
+                "slot": {
+                    "item": "cell lysate 3",
+                    "volume": "400ul"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 6"
+                }
+            }
+        }
+    },
+    {
+        "2.8.": "title or number"
+    },
+    {
+        "Add equal volume chloroform": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "cell lysate 0",
+                    "reagent2": "chloroform",
+                    "volume": "equal volume"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 7"
+                }
+            }
+        }
+    },
+    {
+        "2.9.": "title or number"
+    },
+    {
+        "Shake 200x ": ""
+    },
+    {
+        "And spin 5 minutes at max": {
+            "CENTRIFUGE": {
+                "slot": {
+                    "sample": "cell lysate 5",
+                    "speed": "max",
+                    "time": "5 minutes"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 8"
+                }
+            }
+        }
+    },
+    {
+        "2.10.": "title or number"
+    },
+    {
+        "Transfer aqueous top layer \\(really don\u2019t be greedy) to 2.5 vol 100% ethanol \\(1.25ml) 1/30 vol 3M Sodium Acetate pH5.2": {
+            "REMOVE": {
+                "slot": {
+                    "item": "cell lysate 6",
+                    "method": "Transfer",
+                    "volume": "1.25ml"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 9"
+                }
+            }
+        }
+    },
+    {
+        "2.11.": "title or number"
+    },
+    {
+        "Shake to precipitate": {
+            "PRECIPITATE": {
+                "slot": {
+                    "reagent1": "cell lysate 0",
+                    "method": "shaking"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 10"
+                }
+            }
+        }
+    },
+    {
+        "2.12.": "title or number"
+    },
+    {
+        "Spin 2 minutes at 13000rpm, decant ": {
+            "TRANSFER": {
+                "slot": {
+                    "source": "cell lysate 5",
+                    "sample": "cell lysate"
+                },
+                "emit": {
+                    "sample": "cell lysate 11"
+                }
+            }
+        }
+    },
+    {
+        "And wash with 70% Ethanol": {
+            "RINSE": {
+                "slot": {
+                    "object": "cell lysate 11",
+                    "rinseMaterial": "70% Ethanol"
+                },
+                "emit": {
+                    "object": "cell lysate 12"
+                }
+            }
+        }
+    },
+    {
+        "2.13.": "title or number"
+    },
+    {
+        "Spin 30 seconds at 13000rpm decant, withdraw all liquid, do not air dry too much.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "cell lysate 11",
+                    "method": "decant"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 13"
+                }
+            }
+        }
+    },
+    {
+        "2.14.": "title or number"
+    },
+    {
+        "Add 200ul TE ": ""
+    },
+    {
+        "And put at 37C O/N": ""
+    },
+    {
+        "2.15.": "title or number"
+    },
+    {
+        "Nanodrop, note 260/280 and 260/230": {
+            "MEASURE": {
+                "slot": {
+                    "device": "Nanodrop",
+                    "parameter": "260/280 and 260/230"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 13 1"
+                }
+            }
+        }
+    },
+    {
+        "3. Preparation of Sequencing Libraries\r\n  3.1.": ""
+    },
+    {
+        "Prepare Master Mix:": {
+            "MIX": {
+                "slot": {
+                    "reagent1": "cell lysate 5",
+                    "reagent2": [
+                        "cell lysate 6",
+                        "cell lysate 7",
+                        "cell lysate 8",
+                        "cell lysate 9",
+                        "cell lysate 10",
+                        "cell lysate 11",
+                        "cell lysate 12",
+                        "cell lysate 13",
+                        "cell lysate 13 1"
+                    ]
+                },
+                "emit": {
+                    "reagent0": "Master Mix 0"
+                }
+            }
+        }
+    },
+    {
+        "        32 ug gDNA": ""
+    },
+    {
+        "        32 ul Primer Mix \\(10uM)": ""
+    },
+    {
+        "        400 ul OneTaq \\(NEB)": ""
+    },
+    {
+        "        H20 to 800 ul": ""
+    },
+    {
+        "Universal Forward Primer \\(5\u2019 \u2192 3\u2019): ": ""
+    },
+    {
+        "AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCTGCGCACGTCTGCCGCGCTG": ""
+    },
+    {
+        "Reverse Primer \\(5\u2019 \u2192 3\u2019): ": ""
+    },
+    {
+        "CAAGCAGAAGACGGCATACGAGATNNNNNNGTGACTGGACTTCAGACGTGTGCTCTTCCGATCCAGGTTCTTGCGAACCTCAT": ""
+    },
+    {
+        "NNNNNN = Multiplexing tag, design a different one for every sample.": ""
+    },
+    {
+        "3.2.": "title or number"
+    },
+    {
+        "Split into 8 individual wells of an 8-strip PCR tube, spin down.": {
+            "DIVIDE": {
+                "slot": {
+                    "object1": "cell lysate 13 1",
+                    "quantity": 8,
+                    "container": "8-strip PCR tube"
+                },
+                "emit": {
+                    "object0": "cell lysate 13 1 1"
+                }
+            }
+        }
+    },
+    {
+        "3.3.": "title or number"
+    },
+    {
+        "Run PCR Program:": {
+            "PERFORM": {
+                "slot": {
+                    "procedure": "PCR Program",
+                    "reagent": "Master Mix 0"
+                },
+                "emit": {
+                    "result": "PCR Program 0"
+                }
+            }
+        }
+    },
+    {
+        "        94C 10 min": {
+            "HEAT": {
+                "slot": {
+                    "reagent1": "cell lysate 13 1 1",
+                    "temperature": "94C",
+                    "time": "10 min"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 13 1 1 1"
+                }
+            }
+        }
+    },
+    {
+        "        32x:": {
+            "REMOVE": {
+                "slot": {
+                    "item": "cell lysate 11"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 17"
+                }
+            }
+        }
+    },
+    {
+        "        94C 30sec": ""
+    },
+    {
+        "        55C 30sec": ""
+    },
+    {
+        "        68C 30sec": ""
+    },
+    {
+        "        68C 7min": ""
+    },
+    {
+        "        4C hold": ""
+    },
+    {
+        "3.4.": "title or number"
+    },
+    {
+        "Pool PCR reactions back to 800ul volume": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "cell lysate 13 1 1",
+                    "volume": "800ul"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 13 1 1 2"
+                }
+            }
+        }
+    },
+    {
+        "3.5.": "title or number"
+    },
+    {
+        "Run out 100 ul of your PCR product on a 5% agarose gel.": {
+            "LOAD": {
+                "slot": {
+                    "reagent1": "PCR product",
+                    "device": "5% agarose gel",
+                    "volume": "100 ul"
+                },
+                "emit": {
+                    "reagent0": "PCR product 0"
+                }
+            }
+        }
+    },
+    {
+        "3.6.": "title or number"
+    },
+    {
+        "Gel extract product using the Qiagen MinElute Gel Purification Kit; Elute in 25 ul H20.": {
+            "ELUTE": {
+                "slot": {
+                    "reagent1": "PCR product 0",
+                    "elutionBuffer": "H20",
+                    "elutionVolume": "25 ul"
+                },
+                "emit": {
+                    "reagent0": "PCR product 1"
+                }
+            }
+        }
+    },
+    {
+        "3.7.": "title or number"
+    },
+    {
+        "Send samples for BioAnalyzer QC DNA 1000 assay to obtain molar concentration ": {
+            "COLLECT": {
+                "slot": {
+                    "item": "PCR product 1",
+                    "container": "BioAnalyzer QC DNA 1000 assay"
+                },
+                "emit": {
+                    "collectedItem": "PCR product 1 1"
+                }
+            }
+        }
+    },
+    {
+        "And confirm product size.": {
+            "MEASURE": {
+                "slot": {
+                    "device": "BioAnalyzer",
+                    "reagent": "PCR product 1 1",
+                    "parameter": "product size"
+                },
+                "emit": {
+                    "measurement": "molar concentration 0"
+                }
+            }
+        }
+    },
+    {
+        "3.8.": "title or number"
+    },
+    {
+        "Pool libraries. ": {
+            "POOL": {
+                "slot": {
+                    "reagent1": "cell lysate 13 1 1 2",
+                    "container": "800ul volume"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 13 1 1 2 1"
+                }
+            }
+        }
+    },
+    {
+        "NOTE:": "title or number"
+    },
+    {
+        "You will have to decide how you want to pool your libraries.": {
+            "MIX": {
+                "slot": {
+                    "reagent1": "cell lysate 13 1 1 2"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 13 1 1 2 2"
+                }
+            }
+        }
+    },
+    {
+        "You could pool 1:1:1\u2026:1, you could also pool based on tissue weight, etc.": {
+            "MIX": {
+                "slot": {
+                    "reagent1": "cell lysate 13 1 1 2 1",
+                    "method": "pool"
+                },
+                "emit": {
+                    "reagent0": "cell lysate 13 1 1 2 1 1"
+                }
+            }
+        }
+    }
+]

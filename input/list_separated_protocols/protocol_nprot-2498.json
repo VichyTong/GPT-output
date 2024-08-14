@@ -1,0 +1,234 @@
+[
+    {
+        "title": "**Injection of AAV-DIO-ChR2 into VTA:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "One hour prior to surgery, give the mice a subcutaneous injection of penicillin and atropine."
+            },
+            {
+                "title": "2.",
+                "body": "Anesthetize mice with ketamine \\(100mg/kg)/xylaxine \\(10mg/kg) mixture.  Make sure animals are fully anesthetized by gently squeezing the footpad to ensure no reflex response."
+            },
+            {
+                "title": "3.",
+                "body": "Shave the top portion of the head."
+            },
+            {
+                "title": "4.",
+                "body": "Place the head of the mouse securely in the stereotaxic apparatus by positioning the front teeth in the nose holder, followed by securing the ear bars in place.  Make sure that the nose holder and ear bars are set a zero."
+            },
+            {
+                "title": "5.",
+                "body": "Apply ocular lubricant to the eyes of the mouse."
+            },
+            {
+                "title": "6.",
+                "body": "Disinfect the dissection area using cotton swabs with betadine.  Make sure to start in the center of the head, moving the swab in circular motions outward to minimize contamination."
+            },
+            {
+                "title": "7.",
+                "body": "Using sterilized forceps and scissors expose the skull by making a sagittal incision along the midline. Make sure to peel the periosteum off using a cotton swab."
+            },
+            {
+                "title": "8.",
+                "body": "Roughly make the skull of the mouse as flat as possible by eye."
+            },
+            {
+                "title": "9.",
+                "body": "Attach both Hamilton syringes with 26 gauge needles to the stereotaxic apparatus and set the syringe on the right side to zero degrees.  Set the other syringe to 7° for VTA injection."
+            },
+            {
+                "title": "10.",
+                "body": "Perform the flat test by placing the Hamilton syringe that is set to zero degrees on bregma and measure the dorsal/ventral coordinate."
+            },
+            {
+                "title": "11.",
+                "body": "Following this measurement, move the syringe posterior to lambda and again measure the dorsal/ventral coordinate.  If the two measurements are more than 0.2mm out of alignment, adjust accordingly."
+            },
+            {
+                "title": "12.",
+                "body": "Then move the syringe back to bregma and take the two measurements that are lateral to bregma.  Again make sure there is not more than a 0.2mm difference."
+            },
+            {
+                "title": "13.",
+                "body": "Once the flat test has been performed, adjust both syringes to be at 7° for the AAV-DIO-ChR2 injection."
+            },
+            {
+                "title": "14.",
+                "body": "Place both needles at bregma and take the anterior/posterior \\(A/P), medial/lateral \\(M/L), and dorsal/ventral \\(D/V) measurements."
+            },
+            {
+                "title": "15.",
+                "body": "Once these measurements have been taken, move the syringes to the VTA coordinates \\(AP -3.3mm; LM +1.05mm; DV -4.6mm)."
+            },
+            {
+                "title": "16.",
+                "body": "Using a micro-drill, make burr holes at the new coordinates."
+            },
+            {
+                "title": "17.",
+                "body": "Fill the entire syringe with PBS and then push out the solution until 1.5 μl of the syringe is full."
+            },
+            {
+                "title": "18.",
+                "body": "Pull up to 2.0 μl with air."
+            },
+            {
+                "title": "19.",
+                "body": "Fill the syringe with 1.0 μl of AAV-DIO-ChR2 \\(total volume of syringe is now 3.0 μl)."
+            },
+            {
+                "title": "20.",
+                "body": "Lower syringe to 0.1 mm below the newly calculated dorsal/ventral coordinates to create a pocket in the tissue and then immediately pull up to the calculated coordinate."
+            },
+            {
+                "title": "21.",
+                "body": "Inject 0.1 μl of virus per minute to avoid tissue damage."
+            },
+            {
+                "title": "22.",
+                "body": "Keep syringe in place for 5 minutes after all of the virus has been injected."
+            },
+            {
+                "title": "23.",
+                "body": "Remove the Hamilton syringes by slowly pulling up and remove mouse from stereotaxic apparatus."
+            },
+            {
+                "title": "24.",
+                "body": "Apply neosporin to the skull using a cotton swab."
+            },
+            {
+                "title": "25.",
+                "body": "Close incision using sutures holding the two sides of the tissue with forceps."
+            },
+            {
+                "title": "26.",
+                "body": "Place mouse on heating pad in its cage until it wakes up."
+            }
+        ]
+    },
+    {
+        "title": "**Injection of retrograde travelling pseudorabies virus expressing Cre \\(PRV-Cre) into NAc or mPFC followed by implantation of permanent optical fibers \\(see Sparta _et al_ Nature Protocols for details on how to make fibers):**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Two weeks following the DIO-ChR2 surgery, perform the second surgery.  The protocol is the same as above for the virus injection with a few alterations.\r\n  a. After step \\(8), choose a location for the skull screw that is not near bregma, the viral injection location or the ferrule location and then proceed to drill a small burr hole.  Screw the skull screw into the small hole using curved forceps to hold the screw and screwdriver to fit into the hole.  Only screw until it has tightly gripped the skull. Proceed with flat test.\r\n\n\nb.  Inject PRV-Cre into the NAc  at 10° \\(AP +1.6mm; LM +1.5mm; DV -4.4mm) and at 15° mPFC \\(AP +1.7mm; LM +0.75mm; DV -2.5mm), and use a 0.5 μl volume of the virus to inject bilaterally."
+            },
+            {
+                "title": "2.",
+                "body": "Remove Hamilton syringes and replace with ferrule holders with implantable fibers attached and change the angle to 7°."
+            },
+            {
+                "title": "3.",
+                "body": "Determine the location for ferrule placement from bregma for VTA \\(AP -3.3mm; LM +1.05mm; DV -4.6mm)."
+            },
+            {
+                "title": "4.",
+                "body": "Secure the ferrules in place with white dental cement."
+            },
+            {
+                "title": "5.",
+                "body": "Do not remove the ferrule holders until the cement is completely dry \\(~10-15 minutes)."
+            },
+            {
+                "title": "6.",
+                "body": "Remove the mouse and allow it to recover on the heating pad."
+            }
+        ]
+    },
+    {
+        "title": "**Subthreshold social defeat:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place a c57 test mouse \\(intruder) into the home cage of a larger, CD1 retired breeder mouse for 2 minutes during which the test mouse is physically attacked by the CD1 aggressive mouse."
+            },
+            {
+                "title": "2.",
+                "body": "After 2 minutes of physical contact, place a perforated plexiglass partition in the middle of the CD1 mouse home cage and separate the test mouse from the CD1 mouse for 10 minutes to allow for sensory stress or optical stimulation \\(see below)."
+            },
+            {
+                "title": "3.",
+                "body": "Following the 10 minutes of sensory stress or optical stimulation, place the test mouse back into its home cage for 5 minutes."
+            },
+            {
+                "title": "4.",
+                "body": "Repeat steps 1 and"
+            },
+            {
+                "title": "2.",
+                "body": ""
+            },
+            {
+                "title": "5.",
+                "body": "Return the test mouse to its home cage."
+            }
+        ]
+    },
+    {
+        "title": "**Optical stimulation and social interaction:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Optical stimulation can be performed during subthresold social defeat as stated above or during social interaction test \\(see below)."
+            },
+            {
+                "title": "2.",
+                "body": "Connect optical fibers via a FC/PC adaptor to a 473 nm blue or 561 nm yellow laser diode and stimulator to generate blue or yellow light pulses."
+            },
+            {
+                "title": "3.",
+                "body": "Attach the other end of the optical fibers, with a ferrule attached, to the two implanted optical fibers in the test mouse using ferrule sleeves."
+            },
+            {
+                "title": "4.",
+                "body": "For low frequency, tonic light stimulation set the stimulator to 0.5Hz and 15 ms."
+            },
+            {
+                "title": "5.",
+                "body": "For high frequency, phasic light stimulation set the stimulator to 20Hz and 40 ms."
+            },
+            {
+                "title": "6.",
+                "body": "For both tonic and phasic stimulation protocols, expose projection-specific VTA  neurons to 5 spikes over each 10 second period."
+            },
+            {
+                "title": "7.",
+                "body": "Set the stimulator to the desired parameters and turn the laser on during the two-stages of the social interaction test."
+            },
+            {
+                "title": "8.",
+                "body": "To measure social avoidance behavior towards a novel CD1 mouse, perform a two-stage social interaction test."
+            },
+            {
+                "title": "9.",
+                "body": "During the first 2.5 minutes of the test, allow the test mouse to freely explore a square shaped arena \\(44 x 44 cm) containing a wire mesh cage \\(10 x 6 cm) placed on one side of the area with the target CD1 mouse absent. Ensure that the laser is on during these 2.5 minutes."
+            },
+            {
+                "title": "10.",
+                "body": "Turn the laser off, remove the test mouse from the arena and place it back into its home cage."
+            },
+            {
+                "title": "11.",
+                "body": "Place an unfamiliar CD1 mouse into the wire mesh cage and place it into the arena."
+            },
+            {
+                "title": "12.",
+                "body": "Turn the laser back on and place the test mouse into the arena, allowing it to freely explore."
+            },
+            {
+                "title": "13.",
+                "body": "Use video tracking software to measure the amount of time the experimental mouse spent in the “Interaction Zone” \\(14 x 26 cm), “Corner Zone” \\(10 x 10 cm) and “Total Travel” within the arena."
+            },
+            {
+                "title": "14.",
+                "body": "To segregate mice as susceptible or resilient, calculate the interaction ratio as \\(interaction time with target present)/\\(interaction time with target absent) normalized to 100."
+            },
+            {
+                "title": "15.",
+                "body": "Mice with scores less than 100 are defined as “susceptible” and those with scores greater than or equal to 100 are defined as “unsusceptible” or resilient."
+            }
+        ]
+    }
+]

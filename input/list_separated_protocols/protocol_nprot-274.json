@@ -1,0 +1,35 @@
+[
+    "\nThe RBC lysis by bacterial hemolysin is measured as described<sub>1</sub> with modification.",
+    {
+        "title": "1.",
+        "body": "Collect the RBCs into heparinized tubes."
+    },
+    {
+        "title": "2.",
+        "body": "Wash the RBC two times by gentle resuspension with 10 times volume of pyrogen free saline \\(0.9% NaCl), and centrifugation at 1000 x g for 10 min at room temperature."
+    },
+    {
+        "title": "3.",
+        "body": "Gently resuspend the RBC pellet with pyrogen free saline and dilute the RBC to 0.8% \\(v/v)."
+    },
+    {
+        "title": "4.",
+        "body": "Culture the bacteria under test according to protocol #4, and adjust the population to 10<sup>7</sup> cfu/ml."
+    },
+    {
+        "title": "5.",
+        "body": "Incubate the washed RBC with equal volume of bacteria at room temperature under steady rotation at 6 rpm."
+    },
+    {
+        "title": "6.",
+        "body": "Set up pyrogen-free saline \\(0.9%) as the negative control, and 1% Triton-X100 in saline as the positive control."
+    },
+    {
+        "title": "7.",
+        "body": "At time intervals, retrieve aliquots of the reaction mixture and pellet the RBC by centrifuging at 1000 x g for 10 min at room temperature."
+    },
+    {
+        "title": "8.",
+        "body": "Transfer the supernatant into 96 well microtitre plate.  Monitor the absorbance at 404 nm with ELISA-reader as an indication of the hemoglobin released into the supernatant."
+    }
+]

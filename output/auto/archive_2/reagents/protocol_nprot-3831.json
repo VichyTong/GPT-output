@@ -1,0 +1,10 @@
+[
+    {
+        "name": "sequencing quality 0",
+        "description": "1. Check the sequencing quality of RNA-seq data using 'qualityScores' function in Rsubread package.\r\n  "
+    },
+    {
+        "name": "sequencing quality 1",
+        "description": "4. Use 'voom' function in limma package to normalize read counts and to estimate the mean-variance relationship.\r\n  "
+    }
+]

@@ -1,0 +1,23 @@
+[
+    "\nHow to predict",
+    {
+        "title": "1.",
+        "body": "Go to \"http://www.imtech.res.in/raghava/mitpred/\":http://www.imtech.res.in/raghava/mitpred/"
+    },
+    {
+        "title": "2.",
+        "body": "Click on \"Submission Form\" button in left menu"
+    },
+    {
+        "title": "3.",
+        "body": "Paste the one or more than one sequences in box in FASTA format"
+    },
+    {
+        "title": "4.",
+        "body": "Select the model"
+    },
+    {
+        "title": "5.",
+        "body": "Enter your email address if you are using HMM model"
+    }
+]

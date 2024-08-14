@@ -1,0 +1,77 @@
+[
+    "\n2.1 Experimental Investigations and Discussion\r\n\n\n\r\n\n\nAll the experiments are repeatable, readers can follow the procedures outlined to replicate our results. \r\n\n\n-- Procedure for the strip \\(transverse) load monitoring \\(experiment 1), \r\n\n\n\\(A) Place a hanger \\(of 100 gm weight) of 1 cm wide at the centre as shown in Figure 2\\(c). \r\n\n\n\r\n\n\n\\(B) Increase loads/ weights in steps from 100 gm until 1500 gm in steps of 200 gm by hanging them to the hanger. \r\n\n\n \r\n\n\n\\(C) At each load state of the specimen, two readings were acquired from the LCR meter \\(by two patches) for a frequency range of 10 to 150 KHz at sweep steps of 0.25 KHz. \r\n\n\n\r\n\n\n\\(D) Obtain readings at baseline \\(healthy state) before placing the hanger \\(i.e at 0 gm), after attaching hanger at centre \\(i.e at 100 gm), later at every load increment of 200 gms. \r\n\n\n\r\n\n\n\\(E) Your obtained signatures from the PWAS-p patch can resemble Figure",
+    {
+        "title": "3.",
+        "body": [
+            "In experiment 1, a clear distinction between conductuance and suceptance signatures existed. The signatures contain several distinct peaks, which either shifted towards right/ left \\(indicating increase/ decrease in frequency) or deviated upward/ downward \\(indicating an increase/ decrease in magnitude of admittance). \r\n\n\n\r\n\n\n\\(F) If a peak shift to right than some other peak shifts left or vice versa and thus in general all such features are common when structure is subjected to the loading \\(Annamdas et al 2007). \r\n\n\n\r\n\n\n\\(G) A careful inspection, which is termed as signature analysis \\(Annamdas et al 2014) should be carried out at representative tall peaks such as 1, 2 ,3 and 4 \\(as indicated in the Figure",
+            {
+                "title": "3)",
+                "body": [
+                    "in Figure 4 \\(a-b-c-d).  \r\n\n\n\r\n\n\n2.2 Key features of signatures \\(for permanent PWAS patch)\r\n\n\n\r\n\n\n\\(A) Obtain baseline signature before placing hanger on the beam and note that the hanger placement slightly displaces the boundary condition. \r\n\n\n\r\n\n\n\\(B) Obtain loaded signatures, there will not be boundary disturbances during loading.  \r\n\n\nFigure 4\\(a) shows signatures in the frequency range of 27-29 KHz, which presents some peaks that shifted upwards whereas the peak at 28.25KHz, indicated as 1, did not show any consistent shifting. Thus, taller peak need not show any trend of increase or decrease as load increased on the specimen.  Figures 4 \\(b -",
+                    {
+                        "title": "c)",
+                        "body": "shows peaks at 85.75 KHz and 121 KHz respectively, which presented a decreasing and an increasing trend as the load magnitude on the beam increased. Figure 4\\(d) shows a frequency range where both downward and upward shifting of different peaks were observed.  \r\n\n\nThus, the characteristic features of signatures for loaded specimen comprises of several peaks which either increase or decrease in magnitude as load increased. Hence a touch sensor also should retain these key features. \r\n\n\n\r\n\n\n2.3 Key features of signatures \\(for the touch sensor)\r\n\n\n\r\n\n\n\\(A) Obtain signatures for 0 gm to 1500 gm load on the specimen at all load increments using PWAS-t patch. Your signatures can resemble Figure"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "5.",
+        "body": [
+            "Unlike PWAS-p, these can result in the larger magnitudes which can be added advantage. As it means that PWAS - t is more sensitive compared to permanently bonded PWAS-p patch due to absence of any bonding layer. \r\n\n\n\r\n\n\n\\(B) Obtain a close-up view at various locations as it can show variations clearly, as similar to close-up view of Figures 6 \\(a-d). This type of signature analysis helps to find out the characteristic features of touch sensor. \r\n\n\n\r\n\n\n\\(C) Do comparative study. In our case, Figure 6\\(a) shows a peak at 28.25 KHz, which is neither increasing nor decreasing as similar to Figure 4\\(a) of PWAS-p patch. Furthermore zero-loaded signature is different from loaded signatures indicating a probable change in boundary conditions, and this shift is more obvious compared to Figure 4\\(a). \r\n\n\n\r\n\n\n\\(D) Touch sensor can show difference in boundary condition of specimen for  0gm and subsequent loads, more obviously than the permanent patch. Figure 6\\(b) shows some peaks in the range of 85.5 to 87 KHz, which shifted either upward or downward or without clear trend, i.e the behaviour is similar to PWAS-p \\(Figure",
+            {
+                "title": "4b)",
+                "body": "but the direction of shifting is different. \r\n\n\n\r\n\n\n\\(E) Observe any interesting features in frequency domain. In our case, there existed larger peaks beyond 86KHz \\(see Figure"
+            },
+            {
+                "title": "5)",
+                "body": [
+                    "and thus two frequency ranges were closely observed as shown in Figure 6\\(c-d), to see if anything interesting can be obtained. Figure 6 \\(d) shows a very sensitive range where the peaks shifted in higher magnitudes, than Figure 6\\(c), which too show the upward or downward deviations of loaded specimen. \r\n\n\n\r\n\n\n\\(F) Observe any interesting features such as change in boundary conditions. In our case, two boundary conditions i.e at baseline \\(0 gm) and at loading process were observed. These signatures \\(Figure 6: a-d) show lots of information which is similar or better than the information provided by PWAS-p \\(Figure 4: a-d), which is so far considered to be best in SHM applications for EMA. It should be noted that the interaction between PWAS-p and host structure is by an epoxy layer \\(Madhav and Soh 2007), whereas in this PWAS-t, epoxy adhesive is absent and the interaction between patch and host structure is direct. However, there will not be any structural peaks but the magnetic force provides a unique bonding force. At least in our experiment, the sensitivity of this PWAS-t patch seems to be better. \\(Note: Selection of magnet plays important role.) \r\n\n\n\r\n\n\n2.4 Incremental crack effect on signatures obtained from PWAS-p and PWAS-t \r\n\n\n\r\n\n\n-- Procedure for the crack monitoring \\(experiment 2 is shown in Figure 2\\(d), it was a specimen with fixed-fixed boundary condition). Readers can replicate our results as follows.\r\n\n\n\\(A) Induce cracks of 1 cm at some locations starting from PWAS-t. \r\n\n\n\r\n\n\n\\(B) Record signatures from both patches after inducing cracks \\(at 0 cm, 3 cm, 6 cm, 9 cm, 12 cm, 15 cm, 18 cm and 21 cm) at regular intervals, away from the PWAS-t patch as shown in Figure. Experiment2 resulted in signatures which presents larger magnitude shifts unlike the loading increment case. See Figures 7 and 8, signatures obtained from both PWAS-p and PWAS-t at all crack increments, \r\n\n\n\r\n\n\n\\(c) Readers can use sharp blade to induce cracks on specimen but in our experiment,  we used hacksaw blade. This created much disturbance to the structure and it got reflected as 'high magnitude changes in peaks and valleys'.  It should be noted that the crack magnitude increased in steps from the location of PWAS-t towards PWAS-p as shown in Figure 2\\(d). \r\n\n\n\r\n\n\n\\(D) You can obtain 2 sets of signatures, when cracks are induced away from PWAS-t and approaching PWAS-p. \r\n\n\n\r\n\n\n\\(E) The signatures shift so large that the 'signature analysis' as carried-out in the previous load increment case cannot be appropriate because it does not provide meaningful shifting patterns of peaks. \r\n\n\n\r\n\n\n\\(F) Apply root mean square deviation \\(RMSD) index to study the deviations, especially to quantify changes in signatures \\(Park et al 2006, Annamdas and Yang 2012).  The RMSD is a comparable index of the initial signature with later stage signatures \\(k = 1, 2,3 …). In the present study the RMSD index was adopted to evaluate the signatures obtained from the ‘PWAS-specimen’ system. \r\n\n\n\r\n\n\n\\(G) Tabulate your results. Table",
+                    {
+                        "title": "2-",
+                        "body": "columns 2 and 3, presents the RMSD values obtained for crack increments as listed in column"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": [
+            "\\(H) Observe any interesting trends. RMSD indices obtained from PWAS-p shows increasing trends as the crack magnitudes increased towards its direction whereas the RMSD indices obtained from PWAS-t shows decreasing trends as the cracks increased in the opposite direction. The larger magnitudes of RMSD indices of PWAS-t compared to RMSD-p is attributed to direct interaction between PWAS-t and the host structure unlike PWAS-p \\(which is via bonding layer). This also depends on magnetic force magnitude. \r\n\n\n\r\n\n\n\\(I) The larger values also can be attributed to the movement of main and support magnets during the cracking process by hacksaw blade. \r\n\n\n\r\n\n\n\\(J) In real applications the cracks are seldom generated using a hacksaw blade but they occur due to natural process and hence the movement of magnets will not occur. \r\n\n\n From experiments 1 and 2 \\(load and crack increment studies) it is understood that PWAS-t is effective in dealing with SHM applications on par or better than PWAS-p. Experiments 3 and 4 were thus carried out with only PWAS-t for aluminium and steel specimens respectively as follows.\r\n\n\n\r\n\n\n\r\n\n\n2.5 Contact load monitoring by PWAS-t\r\n\n\n\r\n\n\n-- Procedure for the Contact load monitoring \\(experiment 3 is shown in Figures 1\\(c) and 2\\(e), it was a specimen with is simply supported boundary condition as similar to experiment",
+            {
+                "title": "1).",
+                "body": "Readers can replicate our results as follows. \r\n\n\n\r\n\n\n\\(A) Place a PWAS patch on the centre of the specimen without bonding.\r\n\n\n\r\n\n\n\\(B) Record a baseline signature. \r\n\n\n\r\n\n\n\\(C) Place a load of 200 gm at the centre such that a part of the load is applied on the sensor and the rest encircling the patch as shown in figures. \r\n\n\n\r\n\n\n\\(D) Record the signature, again in load condition. \r\n\n\n\r\n\n\n\\(E) Place more weights of 200 gm on the top of the existing weight\r\n\n\n\r\n\n\n\\(F)  Record the signature for each load increment. \r\n\n\n\r\n\n\n\\(G) Plot all the signatures. Figure 9\\(a) shows these signatures for all load magnitudes in our experiment.\r\n\n\n\r\n\n\n\\(H) Now, carried-out unloading systematically by removing each load and obtain subsequent signature.  Plot them as similar to Figure 9\\(b).\r\n\n\n \r\n\n\n\\(I) Do a careful signature analysis to compare between loading and unloading processes: Our analysis reveals that there exists rightward shifting during loading and leftward shifting of peaks during unloading. \r\n\n\n\r\n\n\n\\(J) Apply RMSD index to study the difference of loading and unloading, as listed in columns 5 and 6, at load magnitudes as listed in column 4 of Table"
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": [
+            "\\(K) Obtain any interesting facts from RMSD table:  From Table2, an interesting observation was obtained, i.e a total load of 600-800 gm seems to be optimal to get a estimation of over 100 % increase in RMSD values, where as any further increment of load decreases the RMSD values \\(indicating a decrease in sensitivity).  During loading or unloading process, the optimal load to be placed to obtain effective interaction between patch and the structure is anywhere between 600-800 gm. More specifically, it is  3.14/16   times the total load \\(see Figure",
+            {
+                "title": "2e)",
+                "body": "on the PWAS-t patch. \r\n\n\n\r\n\n\n\\(L) Touch sensor characterization: our study demonstrates that touch sensor can operate if a pre-requisite force is placed on the patch even without any magnetic force. However, if more force is applied on the patch, it reduces the RMSD \\(Table"
+            },
+            {
+                "title": "2)",
+                "body": [
+                    "and is ineffective. \r\n\n\n\r\n\n\n\\(M) Make a comparison between this and other previous experiments. For example, the magnitudes of signatures and the RMSD values were larger  in experiments 1 and 2 when magnetic force was used than the permanently bonded patch.\r\n\n\n\r\n\n\n\\(N) Make a detailed study about magnetic force effect on signature. It should not be misunderstood that heavier magnets or heavier loads on the patch can give larger magnitude signatures or larger RMSD indices always. Thus, a study to optimize 'requisite force' to hold the touch sensor on the structure is necessary before applying them to any SHM application as carried out in this experiment. This requisite force can be considered as alternate to the bonding layer. Any shear lag \\(Madhav and Soh 2007) between the patch and the host can be effectively avoided. \r\n\n\n\r\n\n\n2.6 Axial-tensile load monitoring by PWAS-t\r\n\n\n\r\n\n\n-- Procedure for the Axial-tensile load monitoring \\(experiment 4 is shown in Figure 2\\(f). Only one magnet to hold the touch sensor on the laser clad steel specimen was adopted unlike experiments 1 and",
+                    {
+                        "title": "2).",
+                        "body": "Readers can replicate our results as follows. \r\n\n\n\r\n\n\n\\(A) Select any specimen suitable for to monitor axial -tensile load such as an “AISI steel of grade 4320 \\(Steel 2014) specimen” with 1 mm thick laser clad layers on the central location on both sides of the specimen. \r\n\n\n\r\n\n\n\\(B) Mount the specimen on Endurance Testing System.\r\n\n\n\r\n\n\n\\(C) Use fixed- fixed boundary conditions.  \r\n\n\n\r\n\n\n\\(D) Obtain a baseline signature at the healthy state of the specimen for frequency range such as 10 to 200 KHz. \r\n\n\n\r\n\n\n\\(E) Increase tensile load \\(or stress) in steps and record subsequent signatures. \r\n\n\n\r\n\n\n\\(F) Plot signatures obtained during the tensile test as similar to Figure"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "10.",
+        "body": "Plot presents a very reasonable shifting of peaks and valleys during the process of loading. \r\n\n\n\r\n\n\n\\(G)  Apply RMSD index to study the changes in the signatures during loading  compared to baseline signature. Indices of present experiment are listed in column 8 of Table 2 for load magnitudes as listed in column"
+    },
+    {
+        "title": "7.",
+        "body": "The RMSD indices increased gradually as the tensile load increased on the laser clad steel specimen"
+    }
+]

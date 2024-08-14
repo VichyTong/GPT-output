@@ -1,0 +1,403 @@
+[
+    "\nGold nanoparticle preparation – TIMING 1 day",
+    {
+        "title": "1)",
+        "body": "Prepare aqua regia by mixing 3:1 concentrated HCl:HNO3 in a large and open container in a fume hood.\r\n\n\n\\! CAUTION. Be extremely careful when preparing and working with aqua regia. Wear goggles and gloves at all times, and execute the experiment in a fume hood. Aqua regia should be freshly prepared and should never be stored in a closed vessel. Closed aqua regia containers may explode. Safe disposal should be performed by careful dilution and neutralization."
+    },
+    {
+        "title": "2)",
+        "body": "Immerse the 500 ml two-neck flask, magnetic stir bar, stopper, condenser and  a 250 mL Erlenmeyer in freshly prepared aqua regia for at least 15 min. Wash the glassware with copious amount of Millipore-filtered water. \r\n\n\nCRITICAL STEP. High-quality nanoparticles are essential for the success of the experiment. Care should be taken to make sure that no contamination is present during nanoparticle synthesis."
+    },
+    {
+        "title": "3)",
+        "body": "Load 225 mL of 1 mM HAuCl4 \\(88.61 mg) into the rounded bottom two-neck flask. Place the flask in the hot plate with respective adaptor."
+    },
+    {
+        "title": "4)",
+        "body": "Place the stirrer inside the flask, connect the condenser to one neck of the flask and place the stopper in the other neck. Put the flask on the hot plate to reflux while stirring."
+    },
+    {
+        "title": "5)",
+        "body": "When solution begins to reflux, remove the stopper and swiftly add 25 ml of 38.8 mM \\(285 mg) sodium citrate and place the stopper back into the two-neck flask. The colour should change from pale yellow to deep red in approximately 1 min. Allow the system to reflux for another 30 min.\r\n\n\nCRITICAL STEP. After adding the citrate solution, the initial pale yellow colour of the Au\\(III) solution should become instantly colourless and then gradually change to deep red due to the nanoparticle formation. The reduction process usually takes a few minutes to occur. During this process, a precursor called acetone dicarboxylic acid is formed as a result of the oxidation of citrate. This precursor plays the roles of precursor, reducing and nucleating agents. The Au\\(III) ions are then reduced to Au\\(I) and when the solution becomes saturated of Au\\(I) atoms, they start to precipitate in the form of nanoparticles. The citrate acts as capping and stabilizing agent that covers the nanoparticles’ surface avoiding nanoparticle aggregation38."
+    },
+    {
+        "title": "6)",
+        "body": [
+            "Turn off heating and allow the system to cool down to room temperature \\(23–25 °C) under stirring. Keep it protected from light. Transfer the colloidal solution to a 250 mL Erlenmeyer amber flask with a ground glass cap. The diameter of such prepared nanoparticles is ~14 nm. Take a UV-Visible spectrum of the AuNPs and characterize the produced AuNPs by Transmission Electron Microscopy. The colour of the produced AuNPs should be burgundy red \\(see Figure 2b Inset), and the nanoparticle shape should be spherical under transmission electron microscopy \\(TEM). \\(Note: Nanoparticles of 14 nm diameter are used because they can be synthesized in high quality and reproducibility39, and the protocol of functionalization with DNA has been well established17,",
+            {
+                "title": "38.",
+                "body": "Figure 2 shows an example of the size, morphology and UV-Vis spectrum of the resulting nanoparticles.\r\n\n\n? TROUBLESHOOTING"
+            }
+        ]
+    },
+    {
+        "title": "7)",
+        "body": [
+            "Determine the nanoparticles’ concentration via Lambert–Beer equation, using the absorbance and the molar absorptivity of the nanoparticles. The nanoparticles should present a typical Surface Plasmon Resonance peak at around 520 nm with a correspondent extinction coefficient of ~2.33×108 M-1.cm-1",
+            {
+                "title": "40.",
+                "body": "Normal production yields a solution of gold nanoparticles of 13 to 15 nM. \\(Note: The Lambert–Beer law states that the absorbance of a homogeneous substance becomes linear with its concentration according to the formula A = ε × l × C, where A is the substance absorbance, ε is the molar absorptivity for the wavelength of A, l is the optical path length, and C is the concentration of the solution. Care should be taken not to exceed an absorbance of 2 so as to avoid deviations to the Lambert–Beer law. If the measured absorbance exceeds this value, dilute the sample and consider the dilution factor when calculating the original stock concentration.\r\n\n\n\r\n\n\nPAUSE POINT. The prepared nanoparticles are stable for months when stored in a container \\(preferably glass previously treated with aqua regia) at room temperature. Do not freeze the nanoparticles.\r\n\n\n\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/protocols/2881/uploads/2757\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/2757/original/Figure_2.png?1385423391\" width=\"95%\"> </a> \r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nSynthesis of PEGylated Gold Nanoparticles – TIMING 20 hours"
+            }
+        ]
+    },
+    {
+        "title": "8)",
+        "body": "Mix 41.7 mL of a 12 nM stock solution of citrate-gold nanoparticles \\(final concentration, 10 nM) with 150 µL of a 1 mg/mL stock solution of O-\\(2-Mercaptoethyl)-O’-methyl-hexa\\(ethylene glycol) \\(PEG) \\(final concentration, 0.003 mg/mL)  in an aqueous solution of SDS \\(0.028%). Incubate for 10 minutes."
+    },
+    {
+        "title": "9)",
+        "body": "Add 625 µL of a 2 M stock solution of NaOH to reach a final concentration of 25 mM and incubate for 16 hours at room temperature."
+    },
+    {
+        "title": "10)",
+        "body": "Distribute the volume in centrifuge tubes and centrifuge at 21,460 ×g for 30 min at 4ºC to remove the excess PEG. Remove tubes from the centrifuge. The tubes should present an oily red precipitate and a clear supernatant. Remove the supernatant and keep it for subsequent analysis and keep track of the removed volume. Ressuspend the precipitate by adding DEPC-treated water."
+    },
+    {
+        "title": "11)",
+        "body": "Run an UV-Visible spectrum of the PEGylated AuNPs and determine the concentration using the same method as described in step 7."
+    },
+    {
+        "title": "12)",
+        "body": "Prepare a calibration curve in the range of 0.0002-0.035 mg/mL of PEG by mixing the appropriate amount of stock solution of PEG for each concentration with 100 µL of phosphate buffer 0.5 M \\(pH"
+    },
+    {
+        "title": "7)",
+        "body": [
+            "and add Milli-Q water up to 300 µL. Also mix 200 µL of the supernatant retrieved in 9 and mix it with 100 µL of phosphate buffer 0.5 M \\(pH",
+            {
+                "title": "7).",
+                "body": "Add 7 µL of 0.05 mg/mL 5,5’-dithio-bis-\\(2-nitrobenzoic acid) \\(DNTB) to each of these mixtures and incubate for 15 minutes at room temperature."
+            }
+        ]
+    },
+    {
+        "title": "13)",
+        "body": "Take a UV-Visible absorption spectrum \\(290-600 nm) of each of the mixtures and record the absorbance values at 412 nm. Use the calibration curve to calculate the amount of PEG in the supernatant and subtract this value to the amount added to the solution and the number of PEG chains to determine the amount of PEG molecules bonded to the AuNPs’ surface. An example of the outcome of this part of the procedure can be seen in Figure 3a.\r\n\n\nPAUSE POINT. Store the nanoparticles functionalized with O-\\(2-Mercaptoethyl)-O’-methyl-hexa\\(ethylene glycol) at 4˚C for 6 months in the dark.\r\n\n\n\r\n\n\n<a href=http://www.nature.com/protocolexchange/protocols/2881/uploads/2759\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/2759/original/Figure_3.png?1385423457\" width=\"95%\"> </a>\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nSynthesis of Au-nanobeacons – TIMING 20 hours"
+    },
+    {
+        "title": "14)",
+        "body": "Mix the thiolated oligonucleotides with DTT to attain a final concentration of 0.1 M. Incubate for at least 2 hours at 4˚C."
+    },
+    {
+        "title": "15)",
+        "body": "Extract one volume \\(100-500 µL) of thiol-modified oligonucleotide with two volumes of ethyl acetate. Mix thoroughly."
+    },
+    {
+        "title": "16)",
+        "body": "Centrifuge for 5 minutes at 21,460 ×g and discard the organic phase \\(upper phase)."
+    },
+    {
+        "title": "17)",
+        "body": "Repeat steps 15 and 16 two more times."
+    },
+    {
+        "title": "18)",
+        "body": "Purify the remaining aqueous phase using a desalting NAP-5 column according with the manufacturer instructions. Be sure to use 10 mM phosphate buffer \\(pH"
+    },
+    {
+        "title": "8)",
+        "body": "as eluent."
+    },
+    {
+        "title": "19)",
+        "body": "Quantify the purified oligonucleotide by UV-Visible spectroscopy using the extinction coefficient at 260 nm provided by the oligonucleotide manufacturer. If the extinction coefficient is not provided, use one of the many available software programs or online tools to calculate it \\(e.g., http://www.basic.northwestern.edu/biotools/oligocalc.html)."
+    },
+    {
+        "title": "20)",
+        "body": "Mix the purified oligonucleotide with the PEGylated AuNPs prepared earlier in a 1:100 AuNP:oligonucleotide ratio."
+    },
+    {
+        "title": "21)",
+        "body": "Add AGE I solution to achieve a final concentration of 10 mM phosphate buffer \\(pH 8), 0.01% \\(w/v) SDS. Incubate for 20 min at room temperature."
+    },
+    {
+        "title": "22)",
+        "body": "Sequentially increase the ionic strength of the solution by adding the respective volume of AGE II up to a final concentration of 10 mM phosphate buffer \\(pH 8), 0.05 M NaCl, 0.01% \\(w/v) SDS. Incubate for 20 minutes."
+    },
+    {
+        "title": "23)",
+        "body": "Repeat step 22 for final concentrations of 0.1, 0.2 and 0.3 M of NaCl. Following the last addition, incubate for 16 hours at room temperature. \r\n\n\n? TROUBLESHOOTING"
+    },
+    {
+        "title": "24)",
+        "body": "Centrifuge for 20 minutes at 21,460 ×g. There should be an oily precipitate at the end of the tube. Remove a fixed amount of supernatant and store it. Redisperse the precipitate in the same volume of DEPC-treated water.\r\n\n\nCRITICAL STEP. Be careful not to disturb the precipitate while removing the supernatant. Inadverted redispersion of the Au-nanobeacons before removing the supernatant can result in major losses of Au-nanobeacons and contamination of the supernatant with Au-nanobeacons."
+    },
+    {
+        "title": "25)",
+        "body": [
+            "Repeat step 24 two more times. Take a UV-Visible spectrum of the Au-nanobeacons and determine the concentration using the same method as described in",
+            {
+                "title": "6.",
+                "body": "? TROUBLESHOOTING"
+            }
+        ]
+    },
+    {
+        "title": "26)",
+        "body": [
+            "Prepare a calibration curve \\(calibration curve",
+            {
+                "title": "26a)",
+                "body": "in the range of 0.1-10 µmol of the oligonucleotide added in step 20 by mixing the appropriate amount of stock solution of fluorescent oligonucleotide with AGE I and AGE II solutions in order to obtain a final volume of 100 µL with final concentration of 10 mM phosphate buffer \\(pH 8), 0.3 M NaCl and 0.01% \\(w/v) SDS. Prepare a second calibration curve \\(calibration curve"
+            },
+            {
+                "title": "26b)",
+                "body": "in the range of 0.1-2.5 µmol of the oligonucleotide added in step 19 by mixing the appropriate amount of stock solution of fluorescent oligonucleotide with DEPC treated water.\r\n\n\nCRITICAL STEP. Use at least 5 different concentration to build your calibration curve \\(i.e. 10, 7.5, 5.0, 2.5, 1.0 µmol for calibration curve 26a and 2.5, 1.0, 0.5, 0.2, 0.1 µmol for calibration curve 26b, see Figure 3b Inset)."
+            }
+        ]
+    },
+    {
+        "title": "27)",
+        "body": [
+            "Take fluorescence spectra of each of the mixtures of the calibration curve and the supernatants recovered in steps 24 and",
+            {
+                "title": "25.",
+                "body": "Be sure to use the appropriate excitation, detection wavelengths and their respective slits \\(i.e. for 6-FAM excite the fluorophore at 490 nm, collect the emission at 500-700 nm and use 5 nm slits)."
+            }
+        ]
+    },
+    {
+        "title": "28)",
+        "body": "Calculate the area under the curve from the emission spectra. Use the equation of the calibration curve to determine the amount of fluorophore-labelled oligonucleotides that are present in each supernatant. Use calibration curve 26a for the supernatant recovered in step 24 and calibration curve 26b for the supernatants recovered in step 25."
+    },
+    {
+        "title": "29)",
+        "body": "Subtract the result to the amount of oligonucleotides added in step 20 to obtain the amount of oligonucleotides that are present at the surface of the oligonucleotides. Use the determined value to ascertain the final AuNP:oligonucleotides ratio. An example of the result obtained in this section can be seen in Figure 3b."
+    },
+    {
+        "title": "30)",
+        "body": "Fully characterize the Au-nanobeacons by determining the hydrodynamic radius using Dynamic Light Scattering and the surface charge through Zeta Potential.\r\n\n\nPAUSE POINT. Store the Au-nanobeacons at 4˚C in the dark for 3 months without loss of fluorescence signal or signs of aggregation. \r\n\n\n\r\n\n\nCharacterization and calibration of Gold Nanobeacons – TIMING 30 hours"
+    },
+    {
+        "title": "31)",
+        "body": "Hairpin reversible denaturation/renaturation test\r\n\n\na. Incubate 1 nM of the Au-nanobeacons in phosphate buffer 10 mM \\(pH"
+    },
+    {
+        "title": "8)",
+        "body": "at increasing temperatures in the range of 10º80ºC. Take an emission spectrum at the wavelength that is appropriate to the chosen fluorophore every 2 minutes \\(Figure 4a).\r\n\n\nb. Calculate the area under the curve for each spectrum and plot the results against temperature. \r\n\n\nc. Repeat step 31a with decreasing temperatures in the 80º-10ºC interval. Repeat step 31b. The results should resemble denaturing and renaturing DNA profiles as shown in Figure 4a. This will indicate whether the produced Au-nanobeacons can reversibly change their hairpin conformation into an open one.\r\n\n\n? TROUBLESHOOTING"
+    },
+    {
+        "title": "32)",
+        "body": "Au-nanobeacon stability in reductive environments\r\n\n\nd. Incubate 1nM of Au-nanobeacon with 5, 10 and 100 mM of Dithiothreitol \\(DTT) at 37˚C for 24 hours.\r\n\n\ne. Measure the fluorescence intensity at 37˚C every 15 minutes with excitation and emission setups appropriate for the chosen fluorophore \\(i.e. for cy3 excite at 530 nm and detect in the 550-570 nm range with slits of 5 nm.\r\n\n\nf. Repeat the procedure with 5, 10 and 100 mM of glutathione.\r\n\n\ng. Expected results for both reducing agents with 100 mM of DTT and glutathione are shown in Figure 4b. For 5 and 10 mM of reducing agents, the variation of the emission spectra should be negligible.\r\n\n\nCRITICAL STEP.  If the emission spectra of the Au-nanobeacons in presence of 5 or 10 mM of either of the reducing agents changes, it highly likely that the Au-nanobeacons will not maintain their integrity throughout the following experiments.\r\n\n\n\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/protocols/2881/uploads/2761\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/2761/original/Figure_4.png?1385423551\" width=\"95%\"> </a>"
+    },
+    {
+        "title": "33)",
+        "body": [
+            "Au-nanobeacons hybridization specificity\r\n\n\na. Mix 1 nM of Au-nanobeacons with complementary and non-complementary targets and 20 µL of transcription buffer 5× for a final volume of 100 µL. Be sure to mix an amount of target molecules of at least 5 times the corresponding amount of oligonucleotides functionalized into the AuNPs for each sequence. \r\n\n\nb. Incubate according to the downstream desired applications. For example, if the Au-nanobeacon is designed to detect single-stranded nucleic acids produced in in vitro transcription reactions in real-time, then incubate the Au-nanobeacon with complementary and non-complementary single-stranded nucleic acid molecules at 37˚C for 2 hours in transcription buffer. If the Au-nanobeacon is designed to hybridize double-stranded DNA molecules that will be used as templates for in vitro transcription, then proceed with the hybridization and measure the final result.\r\n\n\nc. Record the emission spectra of the Au-nanobeacons in the appropriate timing. For example, if real-time measurement is desired, record a fluorescence spectrum periodically \\(i.e. every 2 minutes). If only the final result is important, record the fluorescence spectrum in the end. Be sure to use the appropriate excitation and emission wavelengths for each fluorophore used.\r\n\n\nd. Calculate the area under each spectrum and plot it against the variable you are trying to study \\(i.e. time, amount of template) \\(Figure 5a). Do also a calibration curve with increasing amounts of non-complementary and complementary target \\(0-2000 µg) \\(Figure 5b).\r\n\n\nCRITICAL STEP.  If the Au-nanobeacons do not respond to the presence of a synthetic complementary target discard them and restart synthesis procedure from step",
+            {
+                "title": "14.",
+                "body": "? TROUBLESHOOTING \r\n\n\n\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/protocols/2881/uploads/2763\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/2763/original/Figure_5.png?1385423619\" width=\"95%\"> </a>"
+            }
+        ]
+    },
+    {
+        "title": "34)",
+        "body": "Au-nanobeacons signal-to-hybridized targets calibration\r\n\n\na. Mix 1 nM of Au-nanobeacon with fluorescently-labelled complementary oligonucleotide in a range of 1 nmol to 2 mol in phosphate buffer 10 mM \\(pH"
+    },
+    {
+        "title": "8)",
+        "body": [
+            "for a final volume of 200 µL. Be sure to prepare at least 7 different concentrations of complementary fluorescently-labelled oligonucleotide.\r\n\n\nNote: Label the complementary oligonucleotides with a fluorophore that does not overlap greatly with the AuNPs’ surface plasmon resonance peak and that does not overlap at all with the fluorophore labelling the Au-nanobeacon. Usually longer wavelength fluorophores tend to be a good choice at this stage \\(e.g. Cy5).\r\n\n\nb. Hybridize the mixtures by heating at 80˚C for 10 minutes and slowly cooling down to 20˚C with controlled temperature decrease of 0.1˚C/minute and a stabilization time at 20˚C of at least 20 minutes.\r\n\n\nc. Place 100 µL of the prepared mixtures in a Ultra-micro volume quartz fluorescence cuvette and measure the fluorescence intensity of the fluorophore on the Au-nanobeacon for each of the mixtures using the appropriate spectrofluorimeter configuration. \r\n\n\nd. Centrifuge the remaining 100 µL for 20 minutes at 21,460 ×g. Recover 80 µL of the supernatants without disturbing the oily precipitate. Redisperse the precipitate by adding 80 µL of phosphate buffer 10 mM \\(pH",
+            {
+                "title": "8).",
+                "body": "e. Centrifuge the mixture again for 20 minutes at 21,460 ×g and recover 80 µL of the supernatant.\r\n\n\nf. Prepare a calibration curve in the range of 1 nmol to 4 mol of the fluorescently-labelled oligonucleotide added in step 34a by mixing the appropriate amount of stock solution of said oligonucleotide with a phosphate buffer 10 mM \\(pH"
+            }
+        ]
+    },
+    {
+        "title": "8)",
+        "body": "solution \\(Figure 5c). Be sure to use at least 7 different concentrations for the calibration curve.\r\n\n\ng. Measure the fluorescence intensity of the tubes in the calibration curve in 34f and of the supernatants recovered in 34d and e.\r\n\n\nh. Calculate the area under the curve of the emission spectra. Use the equation of the calibration curve to determine the amount of fluorophore-labelled oligonucleotides that are present in each supernatant. \r\n\n\ni. Subtract the result to the amount of oligonucleotides added in step 34a for each tube to obtain the amount of oligonucleotides that are present at the surface of the oligonucleotides. Use the determined value to ascertain the amount of targets hybridized to the Au-nanobeacons for each concentration.\r\n\n\nj. Plot the fluorescence intensity measured in step 34c versus the amount of hybridized target molecules determined in step 34i. The equation recovered from this step will allow the indirect quantification of real-time measurements in the following steps \\(Figure 5d).\r\n\n\n\r\n\n\nReal-time RNA synthesis monitoring using Au-nanobeacons: reporter and inhibitor Au-nanobeacons – TIMING 4.5h"
+    },
+    {
+        "title": "35)",
+        "body": "Real-time RNA synthesis detection using a reporter Au-nanobeacon\r\n\n\na. Prepare an in vitro transcription reaction consisting of 20 µL of Transcription buffer 5×, reporter Au-nanobeacon for final concentration of 1 nM, 10 mM of each NTP and 0.6 µg of DNA template in a final volume of 100 µL.\r\n\n\nb. Incubate for 30 min at 37˚C. Record the emission spectra of the corresponding fluorophore using the appropriate excitation and emission conditions. Record the emission every 2 minutes. \r\n\n\nQuickly add 30 U of T7 RNA polymerase and incubate for 1h30 at 37˚C. Be sure to be quick on the addition of the enzyme. Keep recording the fluorescence of the reaction every 2 minutes. \r\n\n\nCRITICAL STEP. Quickly add the enzyme to maintain the measurement intervals."
+    },
+    {
+        "title": "36)",
+        "body": [
+            "Real-time RNA synthesis detection using a reporter Au-nanobeacon and an inhibitor Au-nanobeacon\r\n\n\na. Prepare an in vitro transcription reaction consisting of 20 µL of Transcription buffer 5×, reporter Au-nanobeacon for final concentration of 1 nM, inhibitor Au-nanobeacon for final concentration of 1 nM, 10 mM of each NTP and 0.6 µg of DNA template in a final volume of 100 µL.\r\n\n\nNote: If the desired result is to be compared to non-inhibited experiment, be sure to add a non-related Au-nanobeacon in order to maintain a comparable amount of AuNPs in both solutions.\r\n\n\nb. Incubate for 30 min at 37˚C. Record the emission spectra of the corresponding fluorophore using the appropriate excitation and emission conditions. Record the emission every 2 minutes. \r\n\n\nc. Quickly add 30 U of T7 RNA polymerase and incubate for 1 hour and 30 minutes at 37˚C. Be sure to be quick on the addition of the enzyme. Keep recording the fluorescence of the reaction every 2 minutes. \r\n\n\nCRITICAL STEP. Quickly add the enzyme to maintain the measurement intervals.\r\n\n\nd. Typical results from this essay can be seen in Figure",
+            {
+                "title": "6.",
+                "body": [
+                    "e. For semi-quantitative quantification in real-time, use the equations determined in step 34j and the fluorescence intensity signal obtained in steps 35b, 35c, 36b and 36c and calculate the amount of RNA being produced or the number of Au-nanobeacons hybridized to the reaction template.\r\n\n\n\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/protocols/2881/uploads/2765\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/2765/original/Figure_6.png?1385423672\" width=\"95%\"> </a>\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nEx vivo studies – TIMING 1-3 Days\r\n\n\nModulating crucial gene silencing pathways \\(Antisense DNA, RNA interference and microRNA) with Au-nanobeacons \\(Figure",
+                    {
+                        "title": "7).",
+                        "body": "<a href=\"http://www.nature.com/protocolexchange/protocols/2881/uploads/2767\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/2767/original/Figure_7.png?1385423729\" width=\"95%\"> </a> \r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nSilencing EGFP expression with Antisense Au-nanobeacons TIMING 1-3 Days"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "37)",
+        "body": "The day before EGFP plasmid transfection, seed 1×105 cells/well in 24-well plates in 500 L of the appropriate complete growth medium, antibiotic-free."
+    },
+    {
+        "title": "38)",
+        "body": "Check the cell density using an inverted optical microscope.\r\n\n\nCRITICAL STEP. Cells must be 50–80% confluent at the time of transfection to obtain high efficiency and expression levels, and to minimize decreased cell growth associated with high transfection activity."
+    },
+    {
+        "title": "39)",
+        "body": "To do the seeding, detach cells with trypsin 1x, resuspend them in complete growth medium, antibiotic-free and pellet by mild centrifugation at 250 ×g for 5 minutes at RT."
+    },
+    {
+        "title": "40)",
+        "body": "Resuspend cells in 10 mL of complete growth medium, antibiotic-free. Calculate the amount of cell suspension to use per well by using a Neubauer chamber or haemocytometer for cell counting.\r\n\n\nCRITICAL STEP. Usually, for a typically experiment starting from a confluent culture flask \\(75 cm2) and plating 1×105 cells per well in 24-well plates equivalent to 50% confluence \\(surface coverage), use 100 µL of cell suspension plus 400 µL of complete growth medium, antibiotic-free. per well."
+    },
+    {
+        "title": "41)",
+        "body": "To do confocal microscopy, cells should be growth on glass slides \\(e.g. round coverslips with 12 mm diameter and <1.5 mm thickness for 24-well plates).\r\n\n\nCRITICAL STEP. It is crucial that the media used prior or during plasmid transfection is antibiotic-free media as this will cause cell death and serum-free media to avoid inhibition of the cationic lipid-mediated transfection, using Lipofectamine. Test media for compatibility with transfection reagent before use. We have had success with Opti-MEM® I Reduced Serum Medium."
+    },
+    {
+        "title": "42)",
+        "body": "Incubate at 37ºC in a humidified 5% CO2 atmosphere for 24 hours."
+    },
+    {
+        "title": "43)",
+        "body": "Aspirate the medium in each well and immediately add 400 µL of fresh Opti-MEM® I Reduced Serum Medium to each well."
+    },
+    {
+        "title": "44)",
+        "body": "Dilute 2 µL of Lipofectamine Reagent in 48.5 µL of serum-free medium and incubate 5 minutes at RT.\r\n\n\nCRITICAL STEP. It is best to use polypropylene instead of polystyrene tubes, once the highly cationic lipid-mediated transfection system may get easily attached to plastic tube walls."
+    },
+    {
+        "title": "45)",
+        "body": "Dilute 1 µg \\(e.g. 5 µL of a stock solution of 200 ng/µL) of EGFP vector \\(pVisionGFP-N vector 4.7 kb - encoding green fluorescent protein, VisionGFP, optimized for high expression in mammalian cells) in 45 µL of serum-free medium and incubate 5 minutes at RT.\r\n\n\nCRITICAL STEP. The ratio of DNA vector \\(in μg):Lipofectamine \\(in μl) to use when preparing complexes should be 1:2 to 1:3 for most cell lines. Some optimization may be necessary once the optimal complex ratio and transfection efficiency may vary with cell line and confluence. However, these ratios are a good starting point."
+    },
+    {
+        "title": "46)",
+        "body": "Mix solutions from"
+    },
+    {
+        "title": "44)",
+        "body": "and"
+    },
+    {
+        "title": "45)",
+        "body": "together, mix gently by pipetting up and down and flicking the tube, and incubate at room temperature for 30 minutes.\r\n\n\nCRITICAL STEP. Usually, this incubation time can be varied between 20 and 45 min with little effect on silencing efficiency. In fact, complexes are stable for 6 hours at room temperature. However, try not to use longer incubation times than 30 minutes as it may decrease activity. Do not agitate the complexes solution vigorously."
+    },
+    {
+        "title": "47)",
+        "body": "Add the 100 μl of DNA vector-Lipofectamine complexes to each well. Mix gently by rocking the plate back and forth."
+    },
+    {
+        "title": "48)",
+        "body": "Incubate the cells at 37°C in a CO2 incubator for 24 hours until they are ready to incubate with Antisense Au-nanobeacons.\r\n\n\nCRITICAL STEP. It is not necessary to remove the complexes or change the medium, nevertheless, growth medium may be replaced after 4-6 hours without loss of transfection activity, especially if you are facing toxicity effects. If so, remove media containing complexes and discard. Add fresh and complete media with serum and antibiotics."
+    },
+    {
+        "title": "49)",
+        "body": "After 24 hours of EGFP vector transfection, you can check EGFP expression using an inverted fluorescence microscope.\r\n\n\n? TROUBLESHOOTING"
+    },
+    {
+        "title": "50)",
+        "body": "incubate cells with 30 nM \\(concentration of hairpin oligonucleotide functionalized on the nanoparticle’s surface calculated in steps 24-29 of beacon coverage on AuNPs) of Antisense Au-nanobeacons for EGFP silencing in Opti-MEM® Reduced Serum Medium. Shake well to ensure even distribution of nanoparticles in the well.\r\n\n\nCRITICAL STEP. It is essential to carry out a titration series of the various concentrations of hairpin oligonucleotide functionalized on the NPs’ surface to identify the most effective sequence and the lowest possible concentration that still generates the desired level of knockdown."
+    },
+    {
+        "title": "51)",
+        "body": "After 24 to 72 hours, wash cells with 500 µL of 1× PBS."
+    },
+    {
+        "title": "52)",
+        "body": "Assess knockdown extracting total RNA to use for real-time RT-PCR or by direct measuring of EGFP fluorescence from cell lysates.\r\n\n\n? TROUBLESHOOTING"
+    },
+    {
+        "title": "53)",
+        "body": "For direct measuring of EGFP fluorescence from cell lysates, lyse cells with osmotic shock \\(cell bursts due to an osmotic imbalance that has caused excess water to move into the cell) by incubating in 100 µl of water and briefly sonicate for 5 minutes."
+    },
+    {
+        "title": "54)",
+        "body": "Pipette the cell lysate several times and vortex to ensure sufficient cell disruption. Keep lysates on ice.\r\n\n\nCRITICAL STEP. The cell lysis should be in water and mechanical only once all cell lysates will be further used to total protein quantification using the Bradford assay, which is highly unstable to some detergents, surfactants, flavonoids and basic protein buffers."
+    },
+    {
+        "title": "55)",
+        "body": "After lysis, centrifuge cell lysates at 20,000 ×g at 4ºC on a bench top centrifuge for 5 minutes."
+    },
+    {
+        "title": "56)",
+        "body": "Remove the tubes from the centrifuge. The supernatant should be clear. Recover supernatants."
+    },
+    {
+        "title": "57)",
+        "body": "Measure fluorescence using 100 µL of supernatant in a spectrofluorimeter using a quartz cuvette \\(EGFP: Excitation/Emission = 480/510 nm).\r\n\n\n? TROUBLESHOOTING"
+    },
+    {
+        "title": "58)",
+        "body": "Measure fluorescence emission by taking the area under the curve from 495 to 650 nm."
+    },
+    {
+        "title": "59)",
+        "body": "Following fluorescence measurements perform a Bradford assay to determine the total protein concentrations of each sample."
+    },
+    {
+        "title": "60)",
+        "body": "All the EGFP fluorescence values should be normalized to the bulk protein concentration, extrapolating from a standard calibration curve of protein \\(e.g. BSA). The normalized fluorescence values for each sample should be normalized for the untreated controls to determine per cent knockdown of EGFP.\r\n\n\n? TROUBLESHOOTING"
+    },
+    {
+        "title": "61)",
+        "body": "For confocal microscopy, after step"
+    },
+    {
+        "title": "11)",
+        "body": "fix cells with 4% paraformaldehyde in PBS for 15 min at 37ºC."
+    },
+    {
+        "title": "62)",
+        "body": "Mount cell on coverslip in a slide with 20 µL of ProLong® Gold Antifade Reagent with DAPI to allow for nuclear staining."
+    },
+    {
+        "title": "63)",
+        "body": "Image cells with a confocal laser point-scanning microscope. The laser lines for excitation are 405 nm for DAPI \\(nucleus), 480 nm for EGFP, and 561 nm for Cy3 \\(recommended dye for Au-nanobeacons).\r\n\n\n\r\n\n\nEGFP recovery via RNA interference pathway using Anti-siRNA Au-nanobeacons. TIMING 1-3 Days"
+    },
+    {
+        "title": "64)",
+        "body": "Repeat steps 36-49."
+    },
+    {
+        "title": "65)",
+        "body": "After 24 hours of EGFP vector transfection, incubate cells with 10 nM of siRNA for EGFP using 2 µL of Lipofectamine 2000 and Opti-MEM® Reduced Serum Medium as described in steps 6-8."
+    },
+    {
+        "title": "66)",
+        "body": "For the evaluation of EGFP recovery, add 10 nM \\(concentration of hairpin oligonucleotide functionalized on the NPs’ surface calculated in steps 24-29 of beacon coverage on AuNPs) of Anti-siRNA Au-nanobeacons in Opti-MEM® Reduced Serum Medium with several delays of incubation \\(0.5, 1, 3, 6 and 24 hours) regarding siRNA incubation. Usually, the maximal recovery of gene expression is around 0.5-1 hours of delay.\r\n\n\n\\! CAUTION. All siRNA stocks or Au-nanobeacons have to be made in DEPC-treated solutions, to reduce the risk of RNA being degraded by RNases. Wear gloves."
+    },
+    {
+        "title": "67)",
+        "body": "After 48 hours, wash cells in 1× PBS."
+    },
+    {
+        "title": "68)",
+        "body": "Repeat steps 50-61.\r\n\n\n\r\n\n\nEGFP recovery via Antisense pathway using ssRNA oligonucleotides against Antisense Au-nanobeacons. TIMING 1-3 Days"
+    },
+    {
+        "title": "69)",
+        "body": "Repeat steps 36-49."
+    },
+    {
+        "title": "70)",
+        "body": "After 24 hours of EGFP vector transfection, incubate cells with incubate cells with 30 nM \\(concentration of hairpin oligonucleotide functionalized on the nanoparticle’s surface calculated in steps 24-29 of beacon coverage on AuNPs) of Antisense Au-nanobeacons for EGFP silencing in Opti-MEM® Reduced Serum Medium. Shake well to ensure even distribution of nanoparticles in the well."
+    },
+    {
+        "title": "71)",
+        "body": "For the evaluation of EGFP recovery, add 30 nM of ssRNA oligonulceotides against Antisense Au-nanobeacons in Opti-MEM® Reduced Serum Medium with several delays of incubation \\(0.5, 1, 3, 6 and 24 hours) regarding Antisense Au-nanobeacons incubation. Usually, the maximal recovery of gene expression is around 0.5-1 hours of delay."
+    },
+    {
+        "title": "72)",
+        "body": "After 48 hours, wash cells in 1× PBS."
+    },
+    {
+        "title": "73)",
+        "body": "Repeat steps 50-61.\r\n\n\n\r\n\n\nmicroRNA silencing via Anti-miR Au-nanobeacons. TIMING 1-3 Days"
+    },
+    {
+        "title": "74)",
+        "body": "Plate cells at 1×105 cells/well in 24-well plates in the afternoon. Cells must be 50–80% confluent at the time of transfection and should be grown in complete medium."
+    },
+    {
+        "title": "75)",
+        "body": "24 hours after of the cell seeding, treat cells were treated with 10, 30 and 50 nM \\(concentration of hairpin oligonucleotide functionalized on the nanoparticle’s surface calculated in steps 24-29 of beacon coverage on AuNPs) of Anti-miR Au-nanobeacons for 24, 48 and 72 hours of incubation."
+    },
+    {
+        "title": "76)",
+        "body": "After 24, 48 and 72 hours, wash cells with 1× PBS, lysed and collected for RNA extraction or prepare for confocal microscopy according to steps 50-61."
+    }
+]

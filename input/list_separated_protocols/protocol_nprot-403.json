@@ -1,0 +1,104 @@
+[
+    {
+        "title": "**Expression**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "100ml o/n culture in LB/amp."
+            },
+            {
+                "title": "2)",
+                "body": "Seed 1L TB/amp with 50ml o/n culture."
+            },
+            {
+                "title": "3)",
+                "body": "Grow at 37°C until OD600 = 0.6-1.2."
+            },
+            {
+                "title": "4)",
+                "body": "Induce with 1mM IPTG."
+            },
+            {
+                "title": "5)",
+                "body": "Grow for 3hr, 37°C."
+            },
+            {
+                "title": "6)",
+                "body": "Harvest \\(8krpm, 4°C, 10min).  Resuspend pellet in 20ml PBS."
+            },
+            {
+                "title": "7)",
+                "body": "LN<sub>2</sub> snap freeze."
+            }
+        ]
+    },
+    {
+        "title": "**Purification**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "To 1L cell pellet add 1 crushed PI tablet."
+            },
+            {
+                "title": "2)",
+                "body": "Lyse cells with 0.2mg/ml lysozyme, 15min rocking or until very thick."
+            },
+            {
+                "title": "3)",
+                "body": "Add 10mM MgCl<sub>2</sub>."
+            },
+            {
+                "title": "4)",
+                "body": "Clear DNA with 40µg/ml DNaseI, 15min rocking or until runny."
+            },
+            {
+                "title": "5)",
+                "body": "Add 0.1% TX-100.  Rock 15min."
+            },
+            {
+                "title": "6)",
+                "body": "Spin, 16krpm, 30min, 4°C."
+            },
+            {
+                "title": "7)",
+                "body": "Wash 2ml Glutathione Sepharose 4B with 50ml PBS."
+            },
+            {
+                "title": "8)",
+                "body": "Rock beads with supernatant for 1hr, 4°C."
+            },
+            {
+                "title": "9)",
+                "body": "Load onto a column and collect flow through."
+            },
+            {
+                "title": "10)",
+                "body": "Wash beads with 50ml PBS."
+            },
+            {
+                "title": "11)",
+                "body": "Wash beads with 50ml Cleavage Buffer."
+            },
+            {
+                "title": "12)",
+                "body": "Cleave protein off the beads with 100µl PreScission Protease in 2ml Cleavage Buffer.  Rock overnight \\(16hr, 4°C)."
+            },
+            {
+                "title": "13)",
+                "body": "Elute the next day with Cleavage Buffer."
+            },
+            {
+                "title": "14)",
+                "body": "Dialize into Dialysis buffer.  Do protein concentration.  Snap Freeze."
+            },
+            {
+                "title": "15)",
+                "body": "SDS PAGE."
+            },
+            {
+                "title": "16)",
+                "body": "Can further purify on Superdex 75 \\(10/300) to get rid of upper MW band \\(do 500µl at a time)."
+            }
+        ]
+    }
+]

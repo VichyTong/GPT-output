@@ -1,0 +1,199 @@
+[
+    {
+        "title": "**Stimulation with Cytokines and preparation of whole cell extracts**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Grow cells as indicated above upto 80% confluent."
+            },
+            {
+                "title": "2|",
+                "body": "Replace medium with starvation medium \\(1% BSA) and starve for 2 h"
+            },
+            {
+                "title": "3|",
+                "body": "Stimulate starved cells with cytokines or growth factors as described avove."
+            },
+            {
+                "title": "4|",
+                "body": "After stimulation, rinse cells with ice-cold PBS."
+            },
+            {
+                "title": "5|",
+                "body": "Following steps should be done on ice or at 4 °C using ice cold buffers."
+            },
+            {
+                "title": "6|",
+                "body": "Add 0.6 ml of lysis buffer \\(with freshly added inhibitors) to a 100 mm cell culture plate."
+            },
+            {
+                "title": "7|",
+                "body": "Scrape plate with a cell scraper."
+            },
+            {
+                "title": "8|",
+                "body": "Using 2 ml pipette or syringe fitted with 21 gauge needle, transfer lysate to chilled microcentrifuge tube."
+            },
+            {
+                "title": "9|",
+                "body": "Wash the plate once with 0.3 ml of lysis buffer and combine with first lysate."
+            },
+            {
+                "title": "10|",
+                "body": "Pass through the 21 gauge needle to shear the DNA."
+            },
+            {
+                "title": "11|",
+                "body": "Add fresh 10 µl stock PMSF \\(10 mg/ml) and incubate on ice for 30 minutes."
+            },
+            {
+                "title": "12|",
+                "body": "Microcentrifuge cell lysate \\(Max speed in microfuge) for 30 minutes at 4° C."
+            },
+            {
+                "title": "13|",
+                "body": "Collect supernatant in a fresh tube"
+            },
+            {
+                "title": "14|",
+                "body": "Centrifuge supernatant again for 10 minutes. The supernatant fluid is the total cell lysate."
+            },
+            {
+                "title": "15|",
+                "body": "Aliquot sample for freeze at -70°C"
+            },
+            {
+                "title": "16|",
+                "body": "Quantitate protein extract by photometry"
+            }
+        ]
+    },
+    {
+        "title": "**Electrophoresis**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Use approximately 20-50 μg of purified protein, nuclear or whole cell extract"
+            },
+            {
+                "title": "2|",
+                "body": "Mix with 4X Nupage sample buffer \\(i.e make it 1X with respect to buffer)."
+            },
+            {
+                "title": "3|",
+                "body": "Denature proteins \\(10 min at 70 degrees) in loading buffer with reducing reagent and vortex to mix"
+            },
+            {
+                "title": "4|",
+                "body": "Wash wells and load 10-20μl of sample."
+            },
+            {
+                "title": "5|",
+                "body": "Run at 200 V until the first blue band is at the bottom \\(35-50 min)."
+            },
+            {
+                "title": "6|",
+                "body": "Semi-Dry Transfer Using Immobilin-P Membrane"
+            },
+            {
+                "title": "7|",
+                "body": "Soak gel in transfer buffer for 15 minutes \\(with 3 buffer changes)."
+            },
+            {
+                "title": "8|",
+                "body": "Wet membrane in 100% methanol for 15 seconds"
+            },
+            {
+                "title": "9|",
+                "body": "Wet membrane in H<sub>2</sub>O for 2 minutes"
+            },
+            {
+                "title": "10|",
+                "body": "Wet membrane in transfer buffer for at least 5 minutes"
+            }
+        ]
+    },
+    {
+        "title": "**Semi-Dry Transfer Assembly**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Wet two sheet of thick filter paper in transfer buffer"
+            },
+            {
+                "title": "2|",
+                "body": "Place on semi-dry blotter."
+            },
+            {
+                "title": "3|",
+                "body": "place the treated membrane on top of buffered filter papers"
+            },
+            {
+                "title": "4|",
+                "body": "place the gel on top of the membrane"
+            },
+            {
+                "title": "5|",
+                "body": "Wet two thick filter papers in transfer buffer and place on top of the gel"
+            },
+            {
+                "title": "6|",
+                "body": "Run at 16-20 V \\(200 mAmp), for approx. 30 min. Don’t exceed 25 V"
+            }
+        ]
+    },
+    {
+        "title": "**Hybridization**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Rinse membrane in water \\(2X)"
+            },
+            {
+                "title": "2|",
+                "body": "Incubate 1 hr with 5% MLK/0.05% Tween 20/PBS \\(MTB) without Mg/Ca++ at RT"
+            },
+            {
+                "title": "3|",
+                "body": "Incubate with primary Ab in MTB \\(0.1-1 μg per ml) at 4 °C overnight"
+            },
+            {
+                "title": "4|",
+                "body": "Rinse in water \\(2X)"
+            },
+            {
+                "title": "5|",
+                "body": "Incubate with anti-rabbit or anti-mouse HRP \\(1: 10,000-25,000 dilution) at RT for 1 hour"
+            },
+            {
+                "title": "6|",
+                "body": "Rinse with PBS+0.05% Tween 20 twice and wash for 10 min at RT \\(3 times)."
+            }
+        ]
+    },
+    {
+        "title": "**Detection with ECL-plus**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Remove detection reagents and allow to equilibrate at room temperature before opening"
+            },
+            {
+                "title": "2|",
+                "body": "Mix detection solutions A and solution B in a ratio of 40:1\\(Total volume 0.1ml/cm<sup>2</sup>)"
+            },
+            {
+                "title": "3|",
+                "body": "Pipette detection solution on the membrane and incubate for 5 min at room temperature."
+            },
+            {
+                "title": "4|",
+                "body": "Place on Saran Wrap"
+            },
+            {
+                "title": "5|",
+                "body": "Autoradiograph."
+            }
+        ]
+    }
+]

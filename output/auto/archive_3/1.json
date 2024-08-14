@@ -1,0 +1,154 @@
+[
+    {
+        "title": "1",
+        "body": [
+            [
+                {
+                    "MIX": {
+                        "emit": [
+                            {
+                                "reagent0": "mixture of water and QuickExtract"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "50\u00b5l water"
+                            },
+                            {
+                                "reagent2": "50\u00b5l QuickExtract"
+                            },
+                            {
+                                "ratio": "1:1"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "tile": "2",
+        "body": [
+            [
+                {
+                    "ADD": {
+                        "emit": [
+                            {
+                                "reagent0": "tick homogenate"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "tick homogenate"
+                            },
+                            {
+                                "reagent2": "mixture of water and QuickExtract"
+                            },
+                            {
+                                "ratio": "1:1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "MIX": {
+                        "emit": [
+                            {
+                                "reagent0": "tick homogenate"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "tick homogenate"
+                            },
+                            {
+                                "reagent2": "mixture of water and QuickExtract"
+                            },
+                            {
+                                "ratio": "1:1"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "3",
+        "body": [
+            [
+                {
+                    "INCUBATE": {
+                        "emit": [
+                            {
+                                "reagent0": "tick homogenate"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "tick homogenate"
+                            },
+                            {
+                                "temperature": "65\u00b0C"
+                            },
+                            {
+                                "time": "6 minutes"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "4",
+        "body": [
+            [
+                {
+                    "INCUBATE": {
+                        "emit": [
+                            {
+                                "reagent0": "tick homogenate"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "tick homogenate"
+                            },
+                            {
+                                "temperature": "95\u00b0C"
+                            },
+                            {
+                                "time": "2 minutes"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "5",
+        "body": [
+            [
+                {
+                    "COOL": {
+                        "emit": [
+                            {
+                                "reagent0": "tick homogenate"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "tick homogenate"
+                            },
+                            {
+                                "temperature": "room temperature"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "title": "**Monodispersed as prepared a-Si:H colloids with low refractive index.**",
+        "body": [
+            "\\(The model synthesis described below targets at the a-Si particles with 25% hydrogen content and average diameter of 430 nm.)\r\n\n\n_Step 1: Synthesis preparation_",
+            {
+                "title": "a)",
+                "body": "Set the Variac to 70% power and preheat the brass block 60 °C above the desired reaction temperature \\(i. e., 485 °C in this case), with an empty reactor inside the brass heating block to maintain good thermocouple contact."
+            },
+            {
+                "title": "b)",
+                "body": "Clean the titanium reactor and the plug with chloroform and dry in the fumehood."
+            },
+            {
+                "title": "c)",
+                "body": "Put the reactor and the plug into the ante-chamber of the glovebox. Take 3 cycles of exhaustion and at least 10 minutes for each cycle."
+            },
+            {
+                "title": "d)",
+                "body": "Prepare an ice bath in a bucket. The water level should be lower than the height of the reactor.\r\n\n\n_Step 2: Loading reagents_"
+            },
+            {
+                "title": "a)",
+                "body": "Move the reactor and the plug to the glovebox."
+            },
+            {
+                "title": "b)",
+                "body": "Measure 5.8 mL of n-Hexane and 18 μL of trisilane and add to the reactor. Put on the plug and tighten with a wrench.\r\n\n\n\\(This operation should be done immediately to avoid any evaporation of trisilane.)"
+            },
+            {
+                "title": "c)",
+                "body": "Remove the reactor from the glovebox and further tighten the plug with the vice and the wrench.\r\n\n\n_Step 3: Synthesis._"
+            },
+            {
+                "title": "a)",
+                "body": "Remove the empty reactor from the preheated brass block and place in the loaded reaction vessel."
+            },
+            {
+                "title": "b)",
+                "body": "Change the temperature setting to the desired reaction temperature \\(425 °C), and start the timer.\r\n\n\n\\(The temperature detected by the thermocouple will drop the desired reaction temperature and return within 3 min. Long stabilization time \\(> 3 min) usually leads to lower hydrogen content of particles.)"
+            },
+            {
+                "title": "c)",
+                "body": "After 10 min, remove the reactor from the heating block with tongs and submerge in the ice bath to quench to room temperature.\r\n\n\n_Step 4: Purification._"
+            },
+            {
+                "title": "a)",
+                "body": "After the reaction vessel cools to room temperature, open the reactor with a wrench and collect the product with a glass pipette."
+            },
+            {
+                "title": "b)",
+                "body": "Centrifuge the product at 8000 rpm for 5 min to precipitate the particles."
+            },
+            {
+                "title": "c)",
+                "body": "Discard the supernatant, redisperse the product in 5 mL of chloroform with sonication, and centrifuge again."
+            },
+            {
+                "title": "d)",
+                "body": "Discard the supernatant, redisperse the particles in chloroform. The dispersion is typically stored under ambient conditions."
+            }
+        ]
+    },
+    {
+        "title": "**High vacuum annealing to obtain monodisperse high refractive index silicon colloids**",
+        "body": [
+            "_Step 5: vacuum annealing_",
+            {
+                "title": "a)",
+                "body": "Evaporate the solvent from the a-Si:H colloidal suspension by heating it in an oven at 120 °C."
+            },
+            {
+                "title": "b)",
+                "body": "Put the dried a-Si:H particles into a chamber."
+            },
+            {
+                "title": "c)",
+                "body": "Make high vacuum within the chamber using turbo-molecular vacuum pump."
+            },
+            {
+                "title": "d)",
+                "body": "Annealing the chamber with oven to a certain temperature for one hour \\(200 °C - 600 °C in our experiments)."
+            },
+            {
+                "title": "e)",
+                "body": "Let the chamber cool down slowly \\(around 1 °C /min) to room temperature under vacuum environment."
+            },
+            {
+                "title": "f)",
+                "body": "Rediperse silicon colloids in chloroform."
+            }
+        ]
+    },
+    {
+        "title": "**Optical characterization**",
+        "body": [
+            "_Step 6: Spectrum measurement_",
+            {
+                "title": "a)",
+                "body": "Set up the home-made confocal microscope combined with a spectrometer coupler working in NIR region. A graph of the setup is shown in Figure 2."
+            },
+            {
+                "title": "b)",
+                "body": "Place a drop of silicon colloid suspension drop on a glass substrate and wait for the chloroform to evaporate."
+            },
+            {
+                "title": "c)",
+                "body": "Put the glass substrate onto the sample holder of the confocal microscope and focus the sample."
+            },
+            {
+                "title": "d)",
+                "body": "Select a single particle and close the confocal aperture of the setup. Only the sample whose image falls inside the aperture area can be measured."
+            },
+            {
+                "title": "e)",
+                "body": "Tune the designed spectrometer coupler of the setup, and optimize the signal-noise ratio of the setup. The designed spectrometer coupler is shown inside the Figure 2."
+            },
+            {
+                "title": "f)",
+                "body": "Measure the spectra once the InGaAs detector is cooled down with liquid nitrogen."
+            }
+        ]
+    }
+]

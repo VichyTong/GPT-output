@@ -1,0 +1,14 @@
+[
+    {
+        "title": "1.",
+        "body": "The oligonucleotide duplex containing predicted 43 nt Hox-A11 target sequence for miR-181a, 5’-Sac I, Spe I, 3’-XbaI  restriction sites and 5’ Sac I and 3’Xba I sticky ends was cloned into Sac I/Xba I sites of pISO vector. This construct « 1Target plasmid », was sequenced and used for further cloning. Notice that Sac I and Xba I sites in extremities of fragment have been destroyed after ligation."
+    },
+    {
+        "title": "2.",
+        "body": "«1 Target plasmid» was either linearized by SacI/SpeI restriction or cut by SacI/XbaI to obtain the fragment containing 1 target. The fragment was gel-purified and ligated into linearized plasmid. Resulting construct containing duplicated target site, « 2 Targets plasmid », has been used for further target amplification."
+    },
+    {
+        "title": "3.",
+        "body": "«2 Targets plasmid » was linearized by SacI/SpeI restriction. SacI/XbaI fragment, containing 2 targets was cut, gel-purified and ligated into linearized « 2 Targets plasmid ». Resulting construct contained 4 target sites."
+    }
+]

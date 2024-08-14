@@ -1,0 +1,463 @@
+[
+    {
+        "title": "**Isolation of primary human osteoblasts \\(hOBs)**",
+        "body": [
+            "Human osteoblast explants are obtained from patients undergoing knee replacement surgery after informed consent according to the ethical guidelines of the Helsinki II declaration and approved by the Human Ethics Committees of the Queensland University of Technology, the Prince Charles Hospital and the Princess Alexandra Hospital, Brisbane.",
+            {
+                "title": "1.",
+                "body": "Collect samples under sterile conditions."
+            },
+            {
+                "title": "2.",
+                "body": "Under sterile conditions, harvest non-sclerotic, trabecular bone using a bone curette \\(diameter 5 mm) and transfer to sterile 50 ml tubes \\(Becton Dickinson, Sunnyvale, CA). Bone pieces are approximately 5 x 5 mm."
+            },
+            {
+                "title": "3.",
+                "body": "Wash and vortex trabecular bone with PBS for a minimum of 5 times until the PBS remains clear."
+            },
+            {
+                "title": "4.",
+                "body": "Incubate trabecular bone with 10 ml trypsin \\(0.25%)-EDTA for 3 min at 37°C in 5% CO<sub>2</sub>."
+            },
+            {
+                "title": "5.",
+                "body": "Add 10 ml growth medium to inactivate trypsin."
+            },
+            {
+                "title": "6.",
+                "body": "Wash samples once with PBS."
+            },
+            {
+                "title": "7.",
+                "body": "Transfer trabecular bone to 175 cm<sup>2</sup> tissue culture flasks \\(Nunc, Rochester, NY) and top up with 12 ml of growth medium."
+            },
+            {
+                "title": "8.",
+                "body": "Culture at 37°C in 5% CO<sub>2</sub>."
+            },
+            {
+                "title": "9.",
+                "body": "Osteoblast outgrowth can be observed after 5-7 days. Use cells expanded to the second or third passage for experiments. Two 175 cm<sup>2</sup> culture flasks at the third passage will give up to 15 x 10<sup>6</sup> cells."
+            }
+        ]
+    },
+    {
+        "title": "**Growth and differentiation of hOBs**",
+        "body": [
+            {
+                "title": "10.",
+                "body": "Culture hOBs in growth medium at 37°C in 5% CO<sub>2</sub>."
+            },
+            {
+                "title": "11.",
+                "body": "Detach hOBs with trypsin \\(0.25%)-EDTA \\(4-5 ml/ 175 cm<sup>2</sup> tissue culture flask)."
+            },
+            {
+                "title": "12.",
+                "body": "Add 10 ml growth media to inactivate trypsin."
+            },
+            {
+                "title": "13.",
+                "body": "Transfer cells to a 15 ml disposable plastic tube and centrifuge at 1500 rpm for 5 min."
+            },
+            {
+                "title": "14.",
+                "body": "Resuspend in 10 ml of growth medium."
+            },
+            {
+                "title": "15.",
+                "body": "Remove aliquot of cells for counting. Generally at about 70% confluence approximately 3-4 x 10<sup>6</sup> cells /175 cm<sup>2</sup> culture flask are collected."
+            },
+            {
+                "title": "16.",
+                "body": "Plate hOBs at a density of 3000 cells/cm<sup>2</sup> in growth media."
+            },
+            {
+                "title": "17.",
+                "body": "Grow hOBs at 37°C in 5% CO<sub>2</sub> until confluent with media changes every 3-4 days."
+            },
+            {
+                "title": "18.",
+                "body": "When confluent, change medium to differentiation medium."
+            },
+            {
+                "title": "19.",
+                "body": "Culture for 4 weeks to allow secretion of mineralized matrix changing media every 3-4 days."
+            }
+        ]
+    },
+    {
+        "title": "**Osteoblast removal to leave intact decellularized osteoblast matrix \\(OBM)**",
+        "body": [
+            "This method is based on a protocol originally used to generate extracellular matrix coated dishes using corneal endothelial cells \\(1). The following volumes apply to OBM preparations using cells cultured in a 24 well dish.  Volumes can be modified for smaller or larger culture areas accordingly.",
+            {
+                "title": "20.",
+                "body": "Process each 24 well \\(or 6 well) dish separately. Processing of a small number of samples simultaneously allows quick and careful washing of each individual matrix preparation and minimises disruption and detachment of the matrix."
+            },
+            {
+                "title": "21.",
+                "body": "Aspirate culture medium."
+            },
+            {
+                "title": "22.",
+                "body": "Carefully rinse by adding 1 ml sterile dH<sub>2</sub>O and then aspirate.  \r\n  \r\n\n\nCRITICAL STEP: All washes and rinses of the cells on the matrix and particularly the decellularized matrix must be done with extreme care so as not to disrupt or detach the OBM.  We also routinely leave a residual amount of liquid overlying the matrix when using a vacuum aspirator.  Carefully remove the remaining liquid with a standard pipettor using a 1000µl tip."
+            },
+            {
+                "title": "23.",
+                "body": "Add 1 ml of 20 mM ammonium hydroxide to each well."
+            },
+            {
+                "title": "24.",
+                "body": "Incubate at room temperature with occasional gentle agitation."
+            },
+            {
+                "title": "25.",
+                "body": "Check the status of the cultures microscopically at intervals during the lysis to determine the extent of the cellular removal.  Generally this requires between 10 and 12 min for complete lysis of the osteoblasts."
+            },
+            {
+                "title": "26.",
+                "body": "Carefully and quickly rinse OBM twice with approximately 1 ml sterile dH<sub>2</sub>O."
+            },
+            {
+                "title": "27.",
+                "body": "Carefully and quickly rinse twice as above with approximately 1 ml PBS."
+            },
+            {
+                "title": "28.",
+                "body": "Place solution over the matrix that is appropriate for the subsequent analyses."
+            }
+        ]
+    },
+    {
+        "title": "**Fixation of the OBM in paraformaldehyde \\(PFA)**",
+        "body": [
+            {
+                "title": "29.",
+                "body": "Carefully aspirate PBS from OBM."
+            },
+            {
+                "title": "30.",
+                "body": "For a 24-well plate, add 1 ml of 4% PFA in PBS."
+            },
+            {
+                "title": "31.",
+                "body": "Incubate at room temperature for 20 min with gentle rocking."
+            },
+            {
+                "title": "32.",
+                "body": "Rinse 2 times with 1 ml PBS."
+            },
+            {
+                "title": "33.",
+                "body": "Add 1 ml PBS."
+            },
+            {
+                "title": "34.",
+                "body": "Store at 4°C."
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of samples for SEM**",
+        "body": [
+            {
+                "title": "35.",
+                "body": "Culture osteoblasts on round thermanox coverslips \\(Nunc, Rochester, NY) inserted into wells of a 6 or 24 well plate."
+            },
+            {
+                "title": "36.",
+                "body": "Fix samples with glutaraldehyde fixative at 4°C overnight. Samples can be stored until further processing at 4°C for up to 4 weeks. CAUTION: Work in the fume hood and wear chemical protective gloves."
+            },
+            {
+                "title": "37.",
+                "body": "Wash 3 times for 10 min in 0.1M sodium cacodylate buffer in dH<sub>2</sub>O, pH 7.4"
+            },
+            {
+                "title": "38.",
+                "body": "Fix in osmium tetroxide solution for 1 h."
+            },
+            {
+                "title": "39.",
+                "body": "Incubate 2 times for 10 min in dH<sub>2</sub>O."
+            },
+            {
+                "title": "40.",
+                "body": "Incubate 2 times for 10 min. in 50% ethanol."
+            },
+            {
+                "title": "41.",
+                "body": "Incubate 2 times for 10 min. in 70% ethanol."
+            },
+            {
+                "title": "42.",
+                "body": "Incubate 2 times for 10 min. in 90% ethanol."
+            },
+            {
+                "title": "43.",
+                "body": "Incubate 2 times for 15 min. in 100% ethanol."
+            },
+            {
+                "title": "44.",
+                "body": "Incubate 2 times for 15 min. in 100% amyl acetate."
+            },
+            {
+                "title": "45.",
+                "body": "Critical point dry."
+            },
+            {
+                "title": "46.",
+                "body": "Mount samples on SEM stubs."
+            },
+            {
+                "title": "47.",
+                "body": "Coat samples with gold using sputter coater."
+            },
+            {
+                "title": "48.",
+                "body": "Store gold coated samples in desiccator until analysis."
+            }
+        ]
+    },
+    {
+        "title": "**DAPI staining to detect residual cells in the OBM**",
+        "body": [
+            "CRITICAL STEP: These analyses are light sensitive.  All manipulations should be performed in low light areas.  All incubations should be covered with an opaque covering such as aluminium foil.",
+            {
+                "title": "49.",
+                "body": "Remove PFA-fixed matrices from 4°C."
+            },
+            {
+                "title": "50.",
+                "body": "Add 1 ml 0.2% Triton X-100 in PBS \\(per well in 24 well plate)."
+            },
+            {
+                "title": "51.",
+                "body": "Incubate for 20 min at room temperature with gentle rocking."
+            },
+            {
+                "title": "52.",
+                "body": "Wash twice for 5 min with 1 ml PBS at room temperature with gentle rocking."
+            },
+            {
+                "title": "53.",
+                "body": "Add 700 µl of DAPI staining solution to each well \\(24 well plate)."
+            },
+            {
+                "title": "54.",
+                "body": "Incubate for 40-50 min at room temperature on shaker."
+            },
+            {
+                "title": "55.",
+                "body": "Wash twice for 5 min with 1 ml PBS at room temperature with gentle rocking."
+            },
+            {
+                "title": "56.",
+                "body": "Visualise with a fluorescent microscope."
+            }
+        ]
+    },
+    {
+        "title": "**Alizarin red S staining to detect calcified OBM**",
+        "body": [
+            {
+                "title": "57.",
+                "body": "Remove PFA-fixed matrices from 4°C."
+            },
+            {
+                "title": "58.",
+                "body": "Rinse with 1 ml PBS \\(24 well plate)."
+            },
+            {
+                "title": "59.",
+                "body": "Add 0.5 ml Alizarin S staining solution."
+            },
+            {
+                "title": "60.",
+                "body": "Incubate at room temperature for 5 min with gentle rocking."
+            },
+            {
+                "title": "61.",
+                "body": "Thoroughly wash excess dye from the wells with dH<sub>2</sub>O."
+            },
+            {
+                "title": "62.",
+                "body": "Visualise samples with light microscopy for red stained calcified regions."
+            }
+        ]
+    },
+    {
+        "title": "**Collagen type I immunohistochemistry of the OBM**",
+        "body": [
+            {
+                "title": "63.",
+                "body": "Remove PFA-fixed matrices from 4°C."
+            },
+            {
+                "title": "64.",
+                "body": "Rinse twice with PBS."
+            },
+            {
+                "title": "65.",
+                "body": "Eliminate endogenous peroxidase activity with 3% hydrogen peroxide in PBS for 20 min at room temperature."
+            },
+            {
+                "title": "66.",
+                "body": "Wash samples twice with PBS for 3 min."
+            },
+            {
+                "title": "67.",
+                "body": "Eliminate non-specific protein binding by incubation with NPS blocking buffer for 30 min at room temperature."
+            },
+            {
+                "title": "68.",
+                "body": "Remove NPS blocking buffer."
+            },
+            {
+                "title": "69.",
+                "body": "Add mouse anti-human collagen type I antibody diluted 1:100 in PBS containing 0.1% BSA."
+            },
+            {
+                "title": "70.",
+                "body": "Incubate overnight at 4°C."
+            },
+            {
+                "title": "71.",
+                "body": "Wash samples twice in 0.1% Triton X-100 in PBS for 3 min."
+            },
+            {
+                "title": "72.",
+                "body": "Wash samples in PBS for 3 min."
+            },
+            {
+                "title": "73.",
+                "body": "Add secondary antibody \\(DAKO LSAB+ kit)."
+            },
+            {
+                "title": "74.",
+                "body": "Incubate for 30 min at room temperature."
+            },
+            {
+                "title": "75.",
+                "body": "Wash samples twice in 0.1% Triton X-100 in PBS for 3 min."
+            },
+            {
+                "title": "76.",
+                "body": "Wash samples in PBS for 3 min."
+            },
+            {
+                "title": "77.",
+                "body": "Incubate samples with streptavidin peroxidase for 15 min at room temperature \\(DAKO LSAB+ kit)."
+            },
+            {
+                "title": "78.",
+                "body": "Wash samples twice in 0.1% Triton X-100 in PBS for 3 min."
+            },
+            {
+                "title": "79.",
+                "body": "Wash samples in PBS for 3 min."
+            },
+            {
+                "title": "80.",
+                "body": "Incubate with DAB solution for 5 min at room temperature."
+            },
+            {
+                "title": "81.",
+                "body": "Wash three times in PBS for 3 min."
+            },
+            {
+                "title": "82.",
+                "body": "Develop."
+            },
+            {
+                "title": "83.",
+                "body": "Rinse gently with distilled water to stop reaction."
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of collagen type I coated plates**",
+        "body": [
+            {
+                "title": "84.",
+                "body": "For a 24 well plate, add 1 ml of collagen type I coating buffer per well and incubate at 4°C overnight."
+            },
+            {
+                "title": "85.",
+                "body": "Aspirate the collagen type I solution."
+            },
+            {
+                "title": "86.",
+                "body": "Rinse twice with 1 ml PBS."
+            },
+            {
+                "title": "87.",
+                "body": "Add 1 ml of BSA blocking solution."
+            },
+            {
+                "title": "88.",
+                "body": "Leave at room temperature for 2 h."
+            },
+            {
+                "title": "89.",
+                "body": "Remove solution and rinse twice with PBS"
+            },
+            {
+                "title": "90.",
+                "body": "Add 1 ml PBS."
+            }
+        ]
+    },
+    {
+        "title": "**Growth of PC3 and LNCaP prostate cancer cells on the OBM**",
+        "body": [
+            {
+                "title": "91.",
+                "body": "Culture PC3 and LNCaP cells in growth medium to 50-80% confluence."
+            },
+            {
+                "title": "92.",
+                "body": "Aspirate medium."
+            },
+            {
+                "title": "93.",
+                "body": "Wash once with PBS."
+            },
+            {
+                "title": "94.",
+                "body": "Rinse gently with 0.5mM EDTA in PBS \\(5 ml/ 75 cm<sup>2</sup> culture flask)."
+            },
+            {
+                "title": "95.",
+                "body": "Add 0.5mM EDTA in PBS \\(5 ml/ 75 cm<sup>2</sup> culture flask). Trypsin-EDTA is not used for detachment since this strips the cells of membrane receptors and adhesion molecules required for cell signalling and efficient attachment to the substrata."
+            },
+            {
+                "title": "96.",
+                "body": "Return flask to incubator and incubate at 37°C."
+            },
+            {
+                "title": "97.",
+                "body": "Periodically agitate flask gently."
+            },
+            {
+                "title": "98.",
+                "body": "Periodically monitor cell detachment with a microscope \\(detachment can take up to 40 min)."
+            },
+            {
+                "title": "99.",
+                "body": "Centrifuge cells at 370g for 5min to collect cells.\r\n  100. Resuspend in 10 ml of growth medium.\r\n  101. Remove an aliquot of cells for counting.\r\n  102. Add cells to OBM in growth medium at 1-2x10<sup>4</sup> cells/cm<sup>2</sup>.\r\n  103. Culture at 37°C in 5% CO<sub>2</sub>."
+            }
+        ]
+    },
+    {
+        "title": "**Evaluation of prostate cancer cell viability with FDA and PI**",
+        "body": "CRITICAL STEP: These analyses are light sensitive.  All manipulations should be performed in low light areas.  All incubations should be covered with an opaque covering such as aluminium foil.\r\n\n\n\r\n\n\n104. Rinse OBM plus prostate cancer cells 3 times with PBS. \r\n  105. Incubate with FDA staining solution \\(2 µg/ml) at 37°C for 15 min in the dark. FDA is a cell-permeant esterase substrate which is hydrolysed by living/viable cells to give green fluorescence. \r\n  106. Rinse 3 times with PBS.\r\n  107. Incubate with PI staining solution \\(20 µg/ml) at room temperature for 2 min in dark. PI is actively excluded by live cells and thus dead cells in a population are stained red.\r\n  108. Rinse 3 times with PBS.\r\n  109. Add PBS to immerse samples.\r\n  110. Visualise with a fluorescent microscope.\r\n  \r\n\n\nCRITICAL STEP: Take images immediately because the fluorescein, which is formed by intracellular hydrolysis of FDA, rapidly leaks from cells and samples fade."
+    },
+    {
+        "title": "**Phalloidin and DAPI staining to visualize prostate cancer cell morphology**",
+        "body": "CRITICAL STEP: These analyses are light sensitive.  All manipulations should be performed in low light areas.  All incubations should be covered with an opaque covering such as aluminium foil.  Store samples in the dark.  \r\n\n\n\r\n\n\n111. Remove PFA-fixed matrices from 4°C.\r\n  112. Add 1 ml 0.2% Triton X-100 in PBS \\(per well in 24 well plate).\r\n  113. Incubate for 20 min at room temperature with gentle rocking.\r\n  114. Wash twice for 5 min with 1 ml PBS at room temperature while gently rocking.\r\n  115. Add 700 µl rhodamine-conjugated phalloidin staining solution to each well \\(24 well plate). Phalloidin binds to F-actin. \r\n  116. Incubate for 1 h at room temperature with gentle rocking.\r\n  117. Wash twice for 5 min with 1 ml PBS at room temperature while gently rocking.\r\n  118. Add 700 µl of DAPI staining solution to each well. \r\n  119. Incubate for 40-50 min at room temperature with gentle rocking.\r\n  120. Wash twice for 5 min with 1 ml PBS at room temperature while gently rocking. \r\n  121. Visualise with a fluorescent microscope."
+    },
+    {
+        "title": "**Removal of the prostate cancer cells from the OBM for molecular analysis**",
+        "body": "122. Aspirate medium and wash once with PBS.\r\n  123. Add 0.5 ml of 0.05% trypsin/0.05 mM EDTA per well of a 24 well dish. \r\n  124. Return to incubator and incubate at 37°C. \r\n  125. Periodically agitate flask gently.\r\n  126. Periodically monitor cell detachment with a microscope. During digestion, removal of cells from the OBM may be assisted by mechanical disruption using a standard pipettor and a 1000 µl tip.  \r\n  127. Inactivate trypsin by addition of 1.0 ml of growth medium.\r\n  128. Transfer solution to a 1.5 ml Eppendorf tube.\r\n  129. Centrifuge cells at 1000 g for 5 min.  \r\n  130. Wash in 1 ml PBS.\r\n  131. Centrifuge cells at 1000 g for 5 min.  \r\n  132. Freeze pellet or resuspend in an appropriate solution \\(e.g. for RNA extraction)."
+    }
+]

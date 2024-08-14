@@ -1,0 +1,83 @@
+[
+    {
+        "title": "**Preparation of HEK293T cells**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Grow HEK293T cells on 60-mm culture dishes to  around 50% confluency."
+            },
+            {
+                "title": "2.",
+                "body": "Transfect HEK293T cells with Myc-NGL-2 or Myc-NGL-2 ECD \\(a negative control that lacks the extracellular domain) by the calcium phosphate method."
+            },
+            {
+                "title": "3.",
+                "body": "After 24–48 h, trypsinize the cells and resuspend 10% of the cells from a single 60-mm dish in 1 mL of phosphate-buffered saline \\(PBS)."
+            },
+            {
+                "title": "4.",
+                "body": "Harvest the cells by centrifugation and then resuspend them in 1 mL of PBS."
+            }
+        ]
+    },
+    {
+        "title": "**Coculture of HEK293T cells and neurons**",
+        "body": [
+            {
+                "title": "5.",
+                "body": "Add 10% \\(100 μl) of the resuspended cells onto cultured hippocampal neurons \\(DIV8) grown on a 18-mm coverslip \\(medium density)."
+            },
+            {
+                "title": "6.",
+                "body": "Add cytosine arabinoside to the culture medium to a final concentration of 0.5 μM to inhibit overgrowth of HEK293T cells."
+            },
+            {
+                "title": "7.",
+                "body": "Incubate the coculture in the CO<sub>2</sub> incubator for 3 days."
+            }
+        ]
+    },
+    {
+        "title": "**Immunostaining**",
+        "body": [
+            {
+                "title": "8.",
+                "body": "Fix the coculture in 4% paraformaldehyde and 4% sucrose in phosphate buffered saline at room temperature for 5 min."
+            },
+            {
+                "title": "9.",
+                "body": "Incubate the cells with primary antibodies \\(synapsin I and Myc; 1 μg/ml) followed by Cy3- or FITC-conjugated secondary antibodies."
+            }
+        ]
+    },
+    {
+        "title": "**Vesicle turnover experiment**",
+        "body": [
+            {
+                "title": "10.",
+                "body": "Perform vesicle turnover experiments in parallel with the immunostaining. Briefly wash the cells with the extracellular solution \\(in mM): 150 NaCl, 4 KCl, 2 MgCl<sub>2</sub>, 2 CaCl<sub>2</sub>, 10 glucose, 10 HEPES \\(pH 7.4)."
+            },
+            {
+                "title": "11.",
+                "body": "Incubate the cells in high-potassium solution \\(in mM; 97 NaCl, 57 KCl, 2 MgCl<sub>2</sub>, 2 CaCl<sub>2</sub>, 10 glucose, 10 HEPES, pH 7.4) containing synaptotagmin luminal domain antibodies \\(Synaptic Systems, 1:10) at room temperature for 5 min."
+            },
+            {
+                "title": "12.",
+                "body": "Wash the cells twice with the extracellular solution, then subject them to fixation and immunostaining with appropriate antibodies."
+            }
+        ]
+    },
+    {
+        "title": "**Image acquisition and quantitation**",
+        "body": [
+            {
+                "title": "13.",
+                "body": "Capture Z-stacked images of randomly chosen HEK293T cells by confocal microscopy \\(63 x objective), maintaining the same acquisition parameters throughout the acquisition."
+            },
+            {
+                "title": "14.",
+                "body": "For quantitation, manually trace the boundaries of the transfected cells. Normalize the integrated synapsin I immunofluorescence from a transfected HEK293T cell by the cell area."
+            }
+        ]
+    }
+]

@@ -1,0 +1,445 @@
+[
+    "\nA.  Maintenance of human PSCs on feeder cells. \r\n\n\nB.  Maintenance of human PSCs without feeder cells. \r\n\n\nC.  Induction and preconditioning of human PSC-derived NKX2-1<sup>+</sup> lung \r\n\n\nprogenitor cells toward alveolar stem cells.\r\n\n\nD.  Isolation of CPM<sup>high</sup> progenitor cells after CFKD treatment\r\n\n\nE.  Induction of alveolar stem cells WITH fibroblasts\r\n\n\nE-1.  Preparation of fibroblasts \\(a week before isolating CPMhigh progenitor cells) \r\n\n\nE-2.  Coculture of CPM<sup>high</sup> progenitor cells with fibroblasts by forming organoids\r\n\n\nE-3.  Passaging of human PSC-derived alveolar stem cells.\r\n\n\nF.  Induction of alveolar stem cells WITHOUT fibroblasts\r\n\n\n\r\n\n\n\r\n\n\nA.  Maintenance of human PSCs on feeder cells. \r\n\n\n\r\n\n\nPreparation\r\n\n\n· Prepare feeder medium consisting of DMEM 500 ml, FBS 38.2 ml \\(7 %), L-glutamine 5.5 ml \\(2 mM) and penicillin and streptomycin 2.7 ml. Store at 4 °C.\r\n\n\n· Prepare ES medium by adding bFGF to primate ES cell medium \\(ReproCELL) \\(4 ng/ml of bFGF). Store at 4 °C and use within two weeks after adding bFGF.\r\n\n\n· Prepare CTK solution \\(Fujioka T, et al. Int J Dev Biol. 2004) for passaging the cells consisting of 2.5% Trypsin 5 ml, collagenase IV stock solution \\(1mg/ml) 5 ml, 0.1 M CaCl2 stock solution 0.5 ml, KSR 10 ml, and sterilized water 30 ml. Store at -20 °C. \r\n\n\n· On day -2 or -1, warm the feeder medium at 37°C. Prepare dishes coated with 0.1% gelatin solution 30 minutes at 37 °C in a CO2 incubator before seeding feeder cells.\r\n\n\n· Prepare required 10-cm dish coated with 5 ml of 0.1% gelatin at least >30 minutes before step",
+    {
+        "title": "2.",
+        "body": "· On day 0, warm ES medium at 37°C before seeding human pluripotent stem cells \\(PSCs). \r\n\n\n· Before passaging the cells, warm CTK solution at 37°C. \r\n\n\n\r\n\n\nProcedure"
+    },
+    {
+        "title": "1.",
+        "body": "Thaw a stock vial of STO feeder cells with prewarmed feeder medium \\(day -2 or -1)"
+    },
+    {
+        "title": "2.",
+        "body": "Seed mitomycin-treated STO feeder cells \\(ECACC, EC07032801-F0) on the gelatin-coated tissue-culture dishes \\(1.5 x 106 cells per 10-cm dish)."
+    },
+    {
+        "title": "3.",
+        "body": "Thaw a stock vial of human PSCs with prewarmed ES medium. \r\n  CAUTION: This step should be done quickly, but gently. If not, viability of the cell will decrease."
+    },
+    {
+        "title": "4.",
+        "body": "Centrifuge the cells in 800 rpm at 20 °C for 5 minutes."
+    },
+    {
+        "title": "5.",
+        "body": "Resuspend the cells in ES medium and seed on the culture dishes coated with feeder cells. Start medium change two days post-seeding. \r\n  NOTE: If the viability of the cells were low, supplementation of Y27632 \\(10 μM) will improve the viability of the cells."
+    },
+    {
+        "title": "6.",
+        "body": "Change the medium every day."
+    },
+    {
+        "title": "7.",
+        "body": "Passage the cells when the cells become 80 - 90% confluent in culture. Prepare feeder cells 1 or 2 days before passage as described in Step1 - 2"
+    },
+    {
+        "title": "8.",
+        "body": "Discard the medium and wash the dishes twice with PBS \\(5ml / 6-cm or 10 ml / 10-cm dish)."
+    },
+    {
+        "title": "9.",
+        "body": "Add CTK solution \\(2ml / 10-cm dish or 0.8 ml / 6-cm dish) and incubate until detachment of feeder cells at 37°C. \r\n  CAUTION: Incubate PSCs for 1 - 3 minutes. Longer incubation might make the PSCs detach from the dish."
+    },
+    {
+        "title": "10.",
+        "body": "Discard CTK solution and wash twice with PBS gently. \r\n  CAUTION: Wash carefully, or PSCs will be detached."
+    },
+    {
+        "title": "11.",
+        "body": "Detach the remaining cells with a disposable cell scraper."
+    },
+    {
+        "title": "12.",
+        "body": "Discard the medium in the dishes of feeder cells prepared in Step"
+    },
+    {
+        "title": "7.",
+        "body": []
+    },
+    {
+        "title": "13.",
+        "body": "Pipette gently several times and collect the cell suspension."
+    },
+    {
+        "title": "14.",
+        "body": "Sub-culture the cell suspension on feeder cells prepared in Step"
+    },
+    {
+        "title": "12.",
+        "body": [
+            "B.  Maintenance of human PSCs without feeder cells. \r\n\n\n\r\n\n\nPreparation\r\n\n\n· Warm Essential 8 medium at 37 °C. \r\n\n\n· Before passaging the cells, warm 0.5mM EDTA/PBS at 37 °C.\r\n\n\n· Prepare dishes coated with Geltrex stock solution at least >2 hour before",
+            {
+                "title": "Step 3",
+                "body": "and"
+            }
+        ]
+    },
+    {
+        "title": "11.",
+        "body": "Procedure"
+    },
+    {
+        "title": "1.",
+        "body": "Thaw a stock vial of human PSCs with prewarmed Essential 8 medium. \r\n  CAUTION: This step should be done quickly, but gently. The viability of the cell will decrease."
+    },
+    {
+        "title": "2.",
+        "body": "Centrifuge the cells in 900 rpm at 20°C for 5 minutes."
+    },
+    {
+        "title": "3.",
+        "body": "Resuspend the cells in Essential 8 medium and plate on the coated dishes. \r\n  NOTE: If the viability of the cells were low, supplementation of Y27632 \\(10 μM) will improve the viability of the cells."
+    },
+    {
+        "title": "4.",
+        "body": "Change the medium every day."
+    },
+    {
+        "title": "5.",
+        "body": "Passage the cells when the cells become 90% confluent in culture. Add Y27632 \\(10 μM) at least >1 hour before passage."
+    },
+    {
+        "title": "6.",
+        "body": "Discard the medium and wash the dishes twice with PBS \\(5ml / 6-cm or 10 ml / 10-cm dish)."
+    },
+    {
+        "title": "7.",
+        "body": "Add prewarmed 0.5 mM EDTA/PBS \\(4 ml / 6-cm or 10 ml / 10-cm dish) and incubate for 5 minutes at 37°C in a 5% CO2 incubator. \r\n  NOTE: After incubation with 0.5 mM EDTA/PBS, the cells become round and separated. If these changes are not observed, additional 2-minute incubation is recommended."
+    },
+    {
+        "title": "8.",
+        "body": "Discard 0.5 mM EDTA/PBS carefully and add Essential 8 medium."
+    },
+    {
+        "title": "9.",
+        "body": "Pipette gently several times and collect the cell suspension to a tube.\r\n  TIPS: DO NOT make single-cell suspension not to decrease the cell viability."
+    },
+    {
+        "title": "10.",
+        "body": "Sub-culture the cell suspension on Geltrex-coated dishes.\r\n  NOTE: Split 1:3 in passing the cells in most cases.\r\n\n\n\r\n\n\nC.  Induction and preconditioning of human PSC-derived NKX2-1<sup>+</sup> lung progenitor cells toward alveolar stem cells.\r\n\n\n\r\n\n\nPreparation\r\n\n\n· The following media should be prepared before use. \r\n\n\nCTK solution as described in Section A. \r\n\n\n\r\n\n\nRES medium \\(day 0):\r\n\n\nDMEM/F12 500 ml, KSR 129 ml, L-glutamine 6.5 ml, NEAA 6.5 ml, 2-meraptoethanol 1.3 ml, Penicillin/Streptomycin 3.2 ml supplemented by bFGF \\(5 ng/ml) and Y27632 \\(10 µM). \r\n\n\nNOTE: Use RES medium within two weeks.\r\n\n\n\r\n\n\nEndoderm induction medium \\(day 0, 2 and 4):\r\n\n\nRPMI1640 medium supplemented by human Activin A \\(100 ng/ml), CHIR99021 \\(1 µM), B27 supplement \\(2 %) and penicillin/streptomycin \\(50 U/ml). \r\n\n\nNOTE: Mix on the day of use.\r\n\n\n\r\n\n\nAnteriorization medium \\(day 6 and 8): \r\n\n\nDMEM/F12 plus Glutamax medium, B27 supplement \\(2 %), penicillin/streptomycin \\(50 U/ml), L-ascorbic acid \\(0.05 mg/ml) and monothioglycerol \\(0.4 mM), human Noggin \\(100 ng/ml), and SB431542 \\(10 µM). \r\n\n\nNOTE: Add human Noggin and SB431542 on the day of use.\r\n\n\n\r\n\n\nVentralization medium \\(day 10 and 12):\r\n\n\nDMEM/F12 plus Glutamax medium, B27 supplement \\(2 %), penicillin/streptomycin \\(50 U/ml), L-ascorbic acid \\(0.05 mg/ml) and monothioglycerol \\(0.4 mM), human BMP4 \\(20 ng/ml) and the following doses of all-trans retinoic acid \\(ATRA) and CHIR99021. \r\n\n\nNOTE: Add human BMP4, ATRA and CHIR99021 on the day of use.\r\n\n\nNOTE: Optimized concentration of ATRA and CHIR99021 in each PSC line should be determined. Each combination of ATRA/CHIR99021 is 0.5 µM/3.5 µM \\(H9 hESCs and 585A1 hiPSCs), 0.05 µM/3.0 µM \\(201B7 and B2-3 hiPSCs), 1.0 µM/2.5 µM \\(604A1 and 648A1 hiPSCs) and 0.1 µM/2.5 µM \\(409B2 hiPSCs).\r\n\n\n\r\n\n\nCFKD preconditioning medium \\(day 14, 16, 18 and 20):\r\n\n\nDMEM/F12 plus Glutamax medium, B27 supplement \\(2 %), penicillin/streptomycin \\(50 U/ml), L-ascorbic acid \\(0.05 mg/ml) and monothioglycerol \\(0.4 mM), human FGF10 \\(10 ng/ml), human KGF \\(10 ng/ml), CHIR99021 \\(3 µM) and DAPT \\(20 µM). \r\n\n\nNOTE: Add human KGF, FGF10, CHIR99021 and DAPT on the day of use.\r\n\n\n\r\n\n\n· Warm PBS, Accutase, \\(if your PSCs are feeder-dependent) CTK solution, before starting induction. \r\n\n\n· For induction of feeder-dependent PSCs, prepare a 10-cm dish coated with 5 ml of 0.1% gelatin at least >30 minutes before step"
+    },
+    {
+        "title": "8.",
+        "body": "· Prepare a 6-well plate coated with 1ml of Geltrex stock solution at least >2 hour before step"
+    },
+    {
+        "title": "12.",
+        "body": "Procedure"
+    },
+    {
+        "title": "1.",
+        "body": "Add Y27632 \\(10 µM) to 80 – 90 % confluent PSCs at least >1 hour before step"
+    },
+    {
+        "title": "2.",
+        "body": []
+    },
+    {
+        "title": "2.",
+        "body": "Discard the medium and wash the dishes twice with PBS \\(5ml / 6-cm or 10 ml / 10-cm dish)."
+    },
+    {
+        "title": "3.",
+        "body": "\\(For feeder-dependent PSCs) Add CTK solution \\(2ml / 10-cm dish or 0.8 ml / 6-cm dish) and incubate until detachment of feeder cells at 37°C. \r\n  CAUTION: Incubate PSCs for 1 - 3 minutes. Longer incubation might make the PSCs detach from the dish."
+    },
+    {
+        "title": "4.",
+        "body": "\\(For feeder-dependent PSCs) Discard CTK solution and wash twice with PBS gently. \r\n  CAUTION: Wash carefully, or PSCs will be detached."
+    },
+    {
+        "title": "5.",
+        "body": "Add Accutase \\(2ml / 10-cm or 0.8 ml / 6-cm dish) and incubate for 20 minutes at 37°C in a 5% CO2 incubator."
+    },
+    {
+        "title": "6.",
+        "body": "Add RES medium \\(4ml / 10-cm or 1.6 ml / 6-cm dish) and repeat pipetting gently using P-1000 tip for making single-cell suspension. \r\n  TIPS: This step for making single-cell suspension is critical for successful induction."
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge the cell suspension in 800 rpm, 20 °C for 5 minutes, aspirate the supernatant, and resuspended in 10 ml of RES medium \\(See Preparation)."
+    },
+    {
+        "title": "8.",
+        "body": "\\(For feeder-dependent PSCs) Plate the resuspended cells on a gelatin-coated dish after discarding gelatin \\(See Preparation)."
+    },
+    {
+        "title": "9.",
+        "body": "\\(For feeder-dependent PSCs) Swing the dish gently several times and collect the cell suspension to a tube."
+    },
+    {
+        "title": "10.",
+        "body": "Count the number of the cells. For endoderm differentiation, 1.375 × 10<sup>5</sup> cells/cm<sup>2</sup> for feeder-free PSCs or 1.1 x10<sup>5</sup> cells/cm<sup>2</sup> for feeder-dependent PSCs are optimal. Transfer the required amount of the cell suspension to another 15 ml tube. \r\n  TIPS: Repeat cell count twice. Accurate cell counting is important for successful induction of definitive endoderm cells."
+    },
+    {
+        "title": "11.",
+        "body": "Centrifuge the cell suspension at 800 rpm for 5 minutes at 20 °C and carefully discard the supernatant."
+    },
+    {
+        "title": "12.",
+        "body": "Resuspend the cells in 2 ml / well \\(6-well plate) of endoderm induction medium \\(See Preparation) \r\n  supplemented by Y27632 \\(10 µM) and seed the cells on the Geltrex-coated 6-well plate \\(See Preparation).\r\n\n\nNOTE: Do not add NaB on day 0, or the cells will die."
+    },
+    {
+        "title": "13.",
+        "body": "Add 1 µl / well of NaB stock solution \\(0.25 mM) 24 hours after seeding the cells \\(day 1)."
+    },
+    {
+        "title": "14.",
+        "body": "Replace the endoderm induction medium on day 2 and day"
+    },
+    {
+        "title": "4.",
+        "body": []
+    },
+    {
+        "title": "15.",
+        "body": "On day 6, discard the endoderm induction medium and wash twice with 2 ml / well of prewarmed PBS. \r\n  CAUTION: Wash quickly with prewarmed PBS. Longer washing time or using cold PBS in this step will cause the detachment of the cells in subsequent steps."
+    },
+    {
+        "title": "16.",
+        "body": "Add 2 ml / well of anteriorization medium and change the medium on day"
+    },
+    {
+        "title": "8.",
+        "body": []
+    },
+    {
+        "title": "17.",
+        "body": "On day 10, discard the medium and wash twice with 2 ml / well of prewarmed PBS. \r\n  CAUTION: Wash quickly with warmed PBS. Longer washing time or using cold PBS in this step will cause the detachment of the cells in subsequent steps."
+    },
+    {
+        "title": "18.",
+        "body": "Add 2 ml / well of ventralization medium and change the medium on day"
+    },
+    {
+        "title": "12.",
+        "body": []
+    },
+    {
+        "title": "19.",
+        "body": "On day 14, replace to 2ml / well of CFKD preconditioning medium."
+    },
+    {
+        "title": "20.",
+        "body": "Change the CFKD preconditioning medium on day 16, 18, and"
+    },
+    {
+        "title": "20.",
+        "body": "On day 21, isolate CPM<sup>high</sup> progenitor cells as described in Section D. \r\n  \r\n\n\nE.  Induction of alveolar stem cells WITH fibroblasts\r\n\n\nE-1.  Preparation of fibroblasts \\(a week before isolating CPM<sup>high</sup> progenitor cells) \r\n\n\n\r\n\n\nPreparation\r\n\n\nFibroblast culture medium: \r\n\n\nDMEM 500 ml, FBS 55 ml \\(10 %) and penicillin/streptomycin \\(50 U/ml)\r\n\n\n\r\n\n\nProcedure"
+    },
+    {
+        "title": "1.",
+        "body": "Thaw a stock vial containing 1.0 ×10<sup>6</sup> cells of fibroblasts with 10 ml of prewarmed 2% FBS / DMEM."
+    },
+    {
+        "title": "2.",
+        "body": "Centrifuge the cell suspension at 900 rpm for 5 minutes at 20 °C."
+    },
+    {
+        "title": "3.",
+        "body": "Discard the supernatant and resuspend the cells in 6 ml of fibroblast culture medium."
+    },
+    {
+        "title": "4.",
+        "body": "Prepare three 10-cm dishes with fibroblast culture medium \\(8 ml / dish)."
+    },
+    {
+        "title": "5.",
+        "body": "Add 2 ml of the cell suspension to each 10-cm dish prepared in step"
+    },
+    {
+        "title": "4.",
+        "body": []
+    },
+    {
+        "title": "6.",
+        "body": "Change the medium every three days. \r\n  \r\n\n\nE-2.  Coculture of CPM<sup>high</sup> progenitor cells with fibroblasts by forming organoids\r\n\n\n\r\n\n\nPreparation\r\n\n\n· Prepare 0.1 % Trypsin / EDTA consisting of 0.25% Trypsin / EDTA 20 ml and PBS 30 ml. \r\n\n\n· The following medium should be prepared before use.\r\n\n\nAlveolarization medium: \r\n\n\nHam’s F12, dexamethasone \\(50 nM), 3-Isobutyl-1-methylxanthine \\(IBMX) \\(100 μM), B27 supplement \\(1 %), BSA \\(0.25 %), HEPES \\(15 mM), CaCl2 \\(0.8 mM), ITS premix \\(0.1 %), 8-Br-cAMP \\(100 μM), human KGF \\(10 ng/ml), and penicillin/streptomycin \\(50 U/ml)\r\n\n\nNOTE: Add 8-Br-cAMP and human KGF on the day of use.\r\n\n\n· Warm PBS and 0.1 % Trypsin / EDTA. \r\n\n\n· Cool centrifuge at 4 °C. \r\n\n\n· Cool 2% FBS / DMEM at 4 °C. \r\n\n\n\r\n\n\nProcedure"
+    },
+    {
+        "title": "1.",
+        "body": "Add 1.0 ml of the alveolarization medium supplemented with Y27632 \\(10 µM) to each well and attach 12-well cell cultures insert to a 12-well plate."
+    },
+    {
+        "title": "2.",
+        "body": "Dissociate the prepared fibroblasts. \r\n  2.1. Remove the medium and wash the dishes twice with prewarmed 5ml of PBS. \r\n\n\n2.2. Add 1 ml / 10-cm dish of prewarmed 0.1% Trypsin / EDTA and incubate for 5 minutes at 37°C in a 5% CO2 incubator.\r\n\n\n2.3. Add 4 ml of 2 % FBS / DMEM and collect the cell suspension to 15 ml tube. \r\n\n\n2.4. After cell count, centrifuge the cell suspension at 900 rpm for 5 minutes at 20 °C.\r\n\n\n2.5. Resuspend the cells in 2 % FBS / DMEM \\(4.0 × 10<sup>6</sup> cells / ml)"
+    },
+    {
+        "title": "3.",
+        "body": "Prepare the required volume of mixture of CPM<sup>high</sup> progenitor cells \\(1.0 × 10<sup>4</sup> cells / well) and fibroblasts \\(5.0 × 10<sup>5</sup> cells / well)."
+    },
+    {
+        "title": "4.",
+        "body": "Centrifuge the mixture at 900 rpm for 5 minutes at 4 °C."
+    },
+    {
+        "title": "5.",
+        "body": "Carefully discard the supernatant and resuspend the mixed cells in required amount of 100 µl / well of alveolarization medium supplemented with Y27632 \\(10 µM)."
+    },
+    {
+        "title": "6.",
+        "body": "Dispense the cell suspension into 100 µl."
+    },
+    {
+        "title": "7.",
+        "body": "Mix the cell suspension with equal volume of Matrigel and seed a total volume of 200 µl / sample onto a cell culture insert prepared in step"
+    },
+    {
+        "title": "1.",
+        "body": "TIPS: In this step, keep Matrigel on ice prior to use."
+    },
+    {
+        "title": "8.",
+        "body": "Change the alveolarization medium without Y27632 every 2 days for 14 days.\r\n   \r\n\n\nE-3.  Passaging of human PSC-derived alveolar stem cells.\r\n\n\n\r\n\n\nPreparation\r\n\n\n· The procedure described in Section E-1 is required a week before passaging. \r\n\n\n· Warm required amount \\(2 ml / well) of 0.1 % Trypsin / EDTA. \r\n\n\n· Cool centrifuge at 4 °C. \r\n\n\n· Cool 2% FBS / DMEM at 4 °C. \r\n\n\n· Prepare anti-EpCAM antibody solution by mixing 10 µl / 1.0 × 10<sup>7</sup> cells of APC-conjugated mouse anti-human EpCAM antibody diluted in FACS buffer \\(1:10) on the day of use. Keep away from light and store at 4 °C.  \r\n\n\n\r\n\n\nProcedure"
+    },
+    {
+        "title": "1.",
+        "body": "Prepare required number of 15 ml tubes \\(a tube / well) with 6 ml of PBS in a tube."
+    },
+    {
+        "title": "2.",
+        "body": "Remove cell culture inserts from a 12-well plate using sterilized forceps and tap it on a 6-cm sterilized dish. Fibroblast-dependent AO \\(FD-AO) can be easily removed from cell culture inserts."
+    },
+    {
+        "title": "3.",
+        "body": "Mince the FD-AO to about 2 mm x 2 mm x 2 mm using sterilized forceps and a disposable scalpel. \r\n  CAUTION: Do not mince FD-AO to too small size. It causes damage of the contained cells."
+    },
+    {
+        "title": "4.",
+        "body": "Wash the dishes three times with 2 ml of PBS and collect the fragments in 15 ml tube prepared in step"
+    },
+    {
+        "title": "1.",
+        "body": []
+    },
+    {
+        "title": "5.",
+        "body": "Centrifuge the fragments at 1,000 rpm for 5 minutes at 4 °C."
+    },
+    {
+        "title": "6.",
+        "body": "Discard the supernatant and add 2 ml / tube of prewarmed 0.1 % Trypsin / EDTA."
+    },
+    {
+        "title": "7.",
+        "body": "Incubate the tubes at 37 °C for 5 minutes. \r\n  NOTE: In this step, the fragments of FD-AO will become soft."
+    },
+    {
+        "title": "8.",
+        "body": "Reduce the fragment size by pipetting gently 10 times using P-1000 tips."
+    },
+    {
+        "title": "9.",
+        "body": "Incubate the tubes at 37 °C for 5 minutes."
+    },
+    {
+        "title": "10.",
+        "body": "Dissociate the fragments by pipetting gently 10 to 15 times using P-1000 tips. \r\n  NOTE: In this step, the fragments will be almost diminished."
+    },
+    {
+        "title": "11.",
+        "body": "Incubate the tubes at 37 °C for 5 minutes."
+    },
+    {
+        "title": "12.",
+        "body": "Pipetting 10 times again using P-1000 tips and neutralize 0.1 % Trypsin / EDTA by adding 8 ml of precooled 2 % FBS / DMEM. \r\n  CAUTION: Be sure to use precooled 2 % FBS / DMEM. If not, aqueous Matrigel will clot again in the tube involving the cells and spoiled in subsequent steps."
+    },
+    {
+        "title": "13.",
+        "body": "Centrifuge the cells at 1,000 rpm for 7 minutes at 4 °C.\r\n  CAUTION: Precool the centrifuge machine, or Matrigel may clot again in the tube, which can cause the subsequent steps to fail."
+    },
+    {
+        "title": "14.",
+        "body": "Carefully collect the supernatant to another tube and centrifuge at 1,000 rpm for 5 minutes, 4 °C.\r\n  NOTE: This step will improve the recovery of the cells. \r\n\n\nCAUTION: Do not aspirate the supernatant adjacent to cell pellets. Occasionally, Matrigel remains in this layer adhering to the cell pellets."
+    },
+    {
+        "title": "15.",
+        "body": "Collect the recovered cells in one tube with 5 ml of FACS buffer and count the number of the cells."
+    },
+    {
+        "title": "16.",
+        "body": "Centrifuge the cell suspension at 1,000 rpm for 5 minutes at 4 °C and carefully discard the supernatant."
+    },
+    {
+        "title": "17.",
+        "body": "Incubate in anti-EpCAM antibody solution at 4°C for 15 minutes. Keep away from light during incubation."
+    },
+    {
+        "title": "18.",
+        "body": "Add 5 ml / tube of FACS buffer, and centrifuge the cell suspension at 900 rpm for 5 minutes at 4 °C."
+    },
+    {
+        "title": "19.",
+        "body": "Discard the supernatant and resuspend the cells in 5 ml / tube of FACS buffer."
+    },
+    {
+        "title": "20.",
+        "body": "Centrifuge them at 900 rpm for 5 minutes at 4 °C."
+    },
+    {
+        "title": "21.",
+        "body": "Discard the supernatant and resuspend the cells in 1 ml / 8.0 × 10<sup>6</sup> cells of FACS buffer with 1/1000 volume of PI stock solution."
+    },
+    {
+        "title": "22.",
+        "body": "Strain the cells through a cell strainer with 40 µm mesh.\r\n  CAUTION: If not, the buffer containing the cells can splash in Step 23"
+    },
+    {
+        "title": "23.",
+        "body": "Prepare cells for FACS in a round bottom tube capped with a cell strainer."
+    },
+    {
+        "title": "24.",
+        "body": "Prepare the collection tubes with 1 ml / tube of FACS buffer for sorted cells."
+    },
+    {
+        "title": "25.",
+        "body": "Sort the EpCAM<sup>+</sup>SFTPC<sup>+</sup> cells using FACS Aria II or Aria III."
+    },
+    {
+        "title": "26.",
+        "body": "Centrifuge the cells at 1,000 rpm for 10 minutes at 4 °C."
+    },
+    {
+        "title": "27.",
+        "body": "Discard the supernatant and resuspend the cells in 500 µl of FACS buffer."
+    },
+    {
+        "title": "28.",
+        "body": "Repeat the steps described in Section E-2 with replacing CPM<sup>high</sup> progenitor cells by EpCAM<sup>+</sup>SFTPC<sup>+</sup> cells. \r\n   \r\n\n\nF.  Induction of alveolar stem cells WITHOUT fibroblasts\r\n\n\n\r\n\n\nPreparation\r\n\n\n· The following medium should be prepared before use.\r\n\n\nFibroblast-free \\(FF) alveolarization medium: \r\n\n\nAlveolarization medium \\(described in Section E-2), CHIR99021 \\(3 µM), SB431542 \\(10 µM) and Y27632 \\(10 µM). \r\n\n\nNOTE: Add CHIR99021, SB431542 and Y27632 on the day of use.\r\n\n\n\r\n\n\nProcedure"
+    },
+    {
+        "title": "1.",
+        "body": "Suspend 2.0 × 10<sup>5</sup> CPM<sup>high</sup> progenitor cells prepared in Section D in 250 µl of FF alveolarization medium."
+    },
+    {
+        "title": "2.",
+        "body": "Add the cell suspension onto a non-adherent surface 96-well plate \\(Kuraray, SQ 200 100 NA)."
+    },
+    {
+        "title": "3.",
+        "body": "On day 2, collect cell aggregates into 1.5 ml Eppendorf tube by gently pipetting and aspirate using P-1000 tip."
+    },
+    {
+        "title": "4.",
+        "body": "Wash the wells with FACS buffer once and collect the remained cell aggregates."
+    },
+    {
+        "title": "5.",
+        "body": "Spin down the cell aggregates for 3 minutes using a tabletop personal centrifuge."
+    },
+    {
+        "title": "6.",
+        "body": "Remove the supernatant using P-1000 tip."
+    },
+    {
+        "title": "7.",
+        "body": "Remove the remained supernatant carefully using P-200 tip as possible. \r\n  CAUTION: Too much remained supernatant can cause the subsequent steps to fail. \r\n\n\nCAUTION: Remove the supernatant quickly, or the pellet will crumble."
+    },
+    {
+        "title": "8.",
+        "body": "Resuspend the cell aggregates in 20 µl of precooled Matrigel and place onto a well of 12-well cell culture plate quickly. \r\n  CAUTION: Use P-20 tips and precooled Matrigel. If not, Matrigel will rapidly clot inside the tips."
+    },
+    {
+        "title": "9.",
+        "body": "Incubate the cell culture plate for 20 minutes at 37°C in a 5% CO2 incubator. \r\n  Add 1 ml of FF alveolarization medium and change the medium on day 2, 4 and 6."
+    }
+]

@@ -1,0 +1,696 @@
+[
+    {
+        "title": "**Preparation of the cell lysates**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Centrifuge the positive and negative cell lysates, each at 17,500 × g for 1 h at 4 °C. Discard the pellets."
+            },
+            {
+                "title": "2.",
+                "body": "Divide the supernatants from step 1 \\(the soluble fractions of the cell lysates) into 10 µL aliquots and store at -80 °C."
+            },
+            {
+                "title": "3.",
+                "body": "Perform SDS-PAGE with the positive cell lysate to ensure that the target protein is in the soluble fraction."
+            },
+            {
+                "title": "4.",
+                "body": "Using the BCA protein assay kit, measure the total protein concentration in both the positive and the negative cell lysates, following the manufacturer’s instructions."
+            }
+        ]
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "The cell lysates should be stored at -80 °C for up to two months."
+    },
+    {
+        "title": "**Capillary preconditioning and library preparation**",
+        "body": [
+            {
+                "title": "5.",
+                "body": "Rinse every new capillary with approximately four capillary volumes of each of the capillary rinsing solutions: 100 mM HCl, 100 mM NaOH, ddH<sub>2</sub>O and RB. Maintain the order of rinsing solutions as listed. Repeat these steps immediately before and after every CE run."
+            },
+            {
+                "title": "6.",
+                "body": "Prepare 10 µL of 500 µM naive DNA library in SB. Heat the mixture in a thermal cycler to 94 °C and cool down to 20 °C at a rate of 0.5 °C per s. In future steps, when preparing equilibrium mixtures, treat all the DNA library samples and DNA aptamer samples in this manner."
+            },
+            {
+                "title": "7.",
+                "body": [
+                    "Prepare a 100 µM solution of the temperature-treated DNA library \\(from step",
+                    {
+                        "title": "6)",
+                        "body": "in 100 µL SB."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Determination of library and fluorescein migration times**",
+        "body": [
+            {
+                "title": "8.",
+                "body": "Prepare a 10 µL sample of equilibrium mixture with the following components: 10 µM of DNA library and 100 µM of each of the masking DNAs. Incubate for 10 minutes at room temperature."
+            },
+            {
+                "title": "9.",
+                "body": "Inject 150 nL of the mixture from step 8 into the capillary and perform NECEEM in RB at 375 V cm<sup>–1</sup> \\(normal polarity and positive electrode at the injection end). Usually, 60 min is sufficient to observe the free DNA component. See troubleshooting."
+            },
+            {
+                "title": "10.",
+                "body": "Determine the migration time of the DNA library to the end of the capillary. This is the migration time of the free DNA component of the equilibrium mixture."
+            },
+            {
+                "title": "11.",
+                "body": "As described in step 9, perform NECEEM with the same equilibrium mixture, but with added 100 nM of fluorescein. Fluorescein will act as the collection window migration marker."
+            },
+            {
+                "title": "12.",
+                "body": "Determine the migration time of fluorescein to the end of the capillary and its relative elution time to the free DNA."
+            }
+        ]
+    },
+    {
+        "title": "**Masking DNA concentration titration**",
+        "body": [
+            {
+                "title": "13.",
+                "body": "Prepare 10 µL of equilibrium mixture with the following components:  10 µM of DNA library, 20 µg mL<sup>-1</sup> of positive cell lysate, 100 nM of fluorescein. Incubate for 10 minutes at room temperature."
+            },
+            {
+                "title": "14.",
+                "body": "Run the sample in CE as described in step"
+            },
+            {
+                "title": "9.",
+                "body": "Observe the peaks that correspond to species other than the fluorescein and the free DNA."
+            },
+            {
+                "title": "15.",
+                "body": "Prepare three 10 µL equilibrium mixtures with varying concentrations of masking DNAs. The equilibrium mixtures should contain the following components:  10 µM of DNA library, 20 µg mL<sup>-1</sup> of positive cell lysate, 100 nM of fluorescein, and each of the masking DNA’s at concentrations of 100 µM, 1 mM and 10 mM respectively per each sample. Incubate each mixture for 10 minutes at room temperature before performing NECEEM analysis as described in step"
+            },
+            {
+                "title": "9.",
+                "body": "Observe the effect of varying masking DNA concentrations on the lysate peaks. Select the lowest masking DNA concentration that has a significant suppressing effect on these peaks. While full suppression is desirable, do not increase the concentration of the masking DNAs above 10 mM."
+            }
+        ]
+    },
+    {
+        "title": "**Positive Selection**",
+        "body": [
+            {
+                "title": "16.",
+                "body": "Before rinsing the capillary as described in step 5, rinse it with 4 capillary volumes of RNase-AWAY solution."
+            },
+            {
+                "title": "17.",
+                "body": "Prepare 10 µL equilibrium mixture with the following components: 10 µM of DNA library, 20 µg mL<sup>-1</sup> of positive cell lysate, 100 nM of fluorescein, and the determined concentration of masking DNAs from step"
+            },
+            {
+                "title": "15.",
+                "body": "Incubate for 10 minutes at room temperature."
+            },
+            {
+                "title": "18.",
+                "body": "Initiate NECEEM as described in step 9, with the following modifications. At the capillary outlet, place a tube with 5 µL of SB. Collect the eluent from the beginning of CE run, to the elution of the fluorescein peak. At this point, briefly pause the electric current, switch the outlet of the capillary into an outlet containing RB, and continue the electric current. Stop the separation after the free DNA component of the equilibrium mixture elutes. Collection window is illustrated in figure"
+            },
+            {
+                "title": "2.",
+                "body": []
+            },
+            {
+                "title": "19.",
+                "body": "Incubate the collected fraction for 15 min at room temperature."
+            }
+        ]
+    },
+    {
+        "title": "**Negative Selection**",
+        "body": [
+            {
+                "title": "20.",
+                "body": "Before rinsing the capillary as described in step 5, rinse it with 4 capillary volumes of RNase-AWAY solution."
+            },
+            {
+                "title": "21.",
+                "body": "Prepare 10 µL equilibrium mixture with the following components: 5 µL of the DNA fraction from step 19, 20 µg mL<sup>-1</sup> of negative cell lysate, 100 nM of fluorescein, and the determined concentration of masking DNAs from step"
+            },
+            {
+                "title": "15.",
+                "body": "Incubate for 10 min at room temperature."
+            },
+            {
+                "title": "22.",
+                "body": "Perform NECEEM as described in step 9, with the following modifications. At the capillary outlet, place a reservoir containing RB. When the peak corresponding to fluorescein starts eluting, briefly pause the electric current, switch the outlet of the capillary into a tube with 5 µL of SB, and continue the electric current. Keep collecting the eluents 5 minutes after the expected elution time of the free DNA component, from step"
+            },
+            {
+                "title": "9.",
+                "body": "Collection window is illustrated in figure"
+            },
+            {
+                "title": "2.",
+                "body": "<a href=\"http://www.nature.com/protocolexchange/system/uploads/1655/original/f2.jpg?1291915262\" ><img src=\"http://www.nature.com/protocolexchange/system/uploads/1655/thumbnail/f2.png?1291915262\" ></a>"
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2:**",
+        "body": "DNA collection windows for positive \\(bottom trace) and negative \\(top trace) selection steps."
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "The collected fraction should be stored at –20 °C. DNA in the fractions is stable for several months."
+    },
+    {
+        "title": "**Determination of optimum number of cycles for preparative PCR**",
+        "body": [
+            {
+                "title": "23.",
+                "body": "Set up 20 µL amplification reaction mixture for the fraction collected in step 22, with the components as described in table 1."
+            }
+        ]
+    },
+    {
+        "title": "**Table 1:**",
+        "body": "Contents of the quantitative PCR amplification reaction mixture\r\n\n\n• 2x real-time PCR master mix with SYBR Green -"
+    },
+    {
+        "title": "**10 µL**",
+        "body": "• Forward primer \\(10 µM) -"
+    },
+    {
+        "title": "**0.6 µL \\(to 300 nM)**",
+        "body": "• Reverse primer \\(10 µM) -"
+    },
+    {
+        "title": "**0.6 µL \\(to 300 nM)**",
+        "body": "• Template -"
+    },
+    {
+        "title": "**1 µL**",
+        "body": "• ddH2O -"
+    },
+    {
+        "title": "**7.8 µL**",
+        "body": [
+            {
+                "title": "24.",
+                "body": "Amplify the reactions using the PCR program detailed in table"
+            },
+            {
+                "title": "2.",
+                "body": "Program the real-time thermal cycler to measure fluorescence from SYBR green after every amplification cycle."
+            }
+        ]
+    },
+    {
+        "title": "**Table 2:**",
+        "body": "Thermal cycler program for quantitative PCR amplification\r\n\n\n• Cycle 1: Denaturation step -"
+    },
+    {
+        "title": "**180 s at 94 °C**",
+        "body": ".\r\n\n\n• Cycles 2-40: Denaturation step -"
+    },
+    {
+        "title": "**10 s at 94 °C**",
+        "body": "; annealing step -"
+    },
+    {
+        "title": "**10 s at 56 °C**",
+        "body": "; polymerization step -"
+    },
+    {
+        "title": "**10 s at 72 °C**",
+        "body": [
+            ".\r\n\n\n• Hold at 4 °C.",
+            {
+                "title": "25.",
+                "body": "Real-time PCR produces an S-shaped amplification curve \\(product yield versus number of cycles). Determine how many cycles are required for the reaction mixture to generate the product at a level of 50–60% of the maximum. This is the number of cycles required to generate the optimal amount of amplified library product in the subsequent preparative PCR."
+            }
+        ]
+    },
+    {
+        "title": "**Preparative PCR**",
+        "body": [
+            {
+                "title": "26.",
+                "body": "Set up 40 µL amplification reaction mixture for the fraction collected in step 22, with the components as described in table 3."
+            }
+        ]
+    },
+    {
+        "title": "**Table 3:**",
+        "body": "Contents of the preparative PCR amplification reaction mixture\r\n\n\n• 10x PCR buffer -"
+    },
+    {
+        "title": "**4 µL**",
+        "body": "• FAM-Forward primer \\(10 µM) -"
+    },
+    {
+        "title": "**1.2 µL \\(to 300 nM)**",
+        "body": "• Biotin-Reverse primer \\(10 µM) -"
+    },
+    {
+        "title": "**1.2 µL \\(to 300 nM)**",
+        "body": "• dNTPs \\(10 mM) -"
+    },
+    {
+        "title": "**0.8 µL \\(to 200 nM)**",
+        "body": "• Taq DNA polymerase \\(5 units mL<sup>-1</sup>) -"
+    },
+    {
+        "title": "**0.4 µL \\(to 0.05 units mL<sup>-1</sup>)**",
+        "body": "• Template -"
+    },
+    {
+        "title": "**2 µL**",
+        "body": "• ddH2O -"
+    },
+    {
+        "title": "**30.4 µL**",
+        "body": [
+            {
+                "title": "27.",
+                "body": "In addition to the sample from step 26, set up a 40 µL control mixture, with the components as described in table 3, but with ddH<sub>2</sub>O instead of the template."
+            },
+            {
+                "title": "28.",
+                "body": "Amplify the samples from steps 26 and 27 using the PCR program detailed in table"
+            },
+            {
+                "title": "4.",
+                "body": "There is no need to measure the fluorescence signal from this reaction. Perform the number of cycles that was determined to be optimal for amplification of the pool, in step 25."
+            }
+        ]
+    },
+    {
+        "title": "**Table 4:**",
+        "body": "Thermal cycler program for preparative and asymmetric PCR amplifications\r\n\n\n• Cycle 1: Denaturation step -"
+    },
+    {
+        "title": "**30 s at 94 °C**",
+        "body": ".\r\n\n\n• Cycles 2-optimum: Denaturation step -"
+    },
+    {
+        "title": "**10 s at 94 °C**",
+        "body": "; annealing step -"
+    },
+    {
+        "title": "**10 s at 55 °C**",
+        "body": "; polymerization step -"
+    },
+    {
+        "title": "**10 s at 72 °C**",
+        "body": [
+            ".\r\n\n\n• Hold at 4 °C.",
+            {
+                "title": "29.",
+                "body": "Transfer 5 µL of each of the amplification products from step 27 into new sample tubes. Precondition a 50-cm capillary as described in step"
+            },
+            {
+                "title": "5.",
+                "body": "Using this 50-cm capillary, perform NECEEM on each of the samples, as described in step"
+            },
+            {
+                "title": "9.",
+                "body": "The electropherogram for the control sample should contain only a single peak, representing the labeled primer, while the sample from step 26 should also have a second smaller peak, representing the double-stranded DNA amplification product. The presence of the double-stranded DNA peak will confirm the efficiency of the PCR amplification step."
+            }
+        ]
+    },
+    {
+        "title": "**Asymmetric PCR**",
+        "body": [
+            {
+                "title": "30.",
+                "body": "Set up 40 µL amplification reaction mixture for the products of amplification reaction from step 28, using the components as described in table 5."
+            }
+        ]
+    },
+    {
+        "title": "**Table 5:**",
+        "body": "Contents of the asymmetric PCR amplification reaction mixture\r\n\n\n• 10x PCR buffer -"
+    },
+    {
+        "title": "**4 µL**",
+        "body": "• FAM-Forward primer \\(10 µM) -"
+    },
+    {
+        "title": "**4 µL \\(to 1 µM)**",
+        "body": "• Biotin-Reverse primer \\(10 µM) -"
+    },
+    {
+        "title": "**0.2 µL \\(to 50 nM)**",
+        "body": "• dNTPs \\(10 mM) -"
+    },
+    {
+        "title": "**0.8 µL \\(to 200 nM)**",
+        "body": "• _Taq_ DNA polymerase \\(5 units mL<sup>-1</sup>) -"
+    },
+    {
+        "title": "**0.4 µL \\(to 0.05 units mL<sup>-1</sup>)**",
+        "body": "• Template -"
+    },
+    {
+        "title": "**2 µL**",
+        "body": "• ddH2O -"
+    },
+    {
+        "title": "**28.6 µL**",
+        "body": [
+            {
+                "title": "31.",
+                "body": "Amplify the reactions using the PCR program detailed in table"
+            },
+            {
+                "title": "4.",
+                "body": "There is no need to measure the fluorescence signal from this reaction. Perform 15 amplification cycles."
+            }
+        ]
+    },
+    {
+        "title": "**Purification of aptamer DNA strands**",
+        "body": [
+            {
+                "title": "32.",
+                "body": "Aliquot 20 µL streptavidin magnetic beads into an empty microcentrifuge tube. Wash the beads twice with 200 µL BWB. After each wash, remove the beads from the solution with a magnetic bead separator."
+            },
+            {
+                "title": "33.",
+                "body": "Mix 40 µL of PCR-amplified samples from step 28 with 40 µL BWB."
+            },
+            {
+                "title": "34.",
+                "body": "Resuspend the beads from step 32 in the sample solutions from step 33, and gently mix. Incubate at room temperature for 20 min, gently mixing every five min to facilitate faster binding of DNA to the beads."
+            },
+            {
+                "title": "35.",
+                "body": "Pull down the beads from the solution using a magnetic separator and collect the supernatant. Load the supernatant on to the molecular cut-off filters. Discard the beads."
+            },
+            {
+                "title": "36.",
+                "body": "Centrifuge the molecular cut-off filters with the supernatant from step 35, at 7,000 × g for 20 minutes at 15° C."
+            },
+            {
+                "title": "37.",
+                "body": "Load 200 µL of SB on to the filter and repeat step"
+            },
+            {
+                "title": "36.",
+                "body": "Wash the filters in this manner three more times. Discard the flow-through as the test tube becomes filled."
+            },
+            {
+                "title": "38.",
+                "body": "Load 15 µL of SB on to the filter and incubate, without centrifugation, for 30 min at 15° C."
+            },
+            {
+                "title": "39.",
+                "body": "Place the filter up-side-down into a new clean test tube and centrifuge at 7,000 × g for 10 minutes at 15° C."
+            },
+            {
+                "title": "40.",
+                "body": "Collect the eluted fraction and discard the filters. The collected fraction contains the DNA aptamer pool."
+            }
+        ]
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "Amplified aptamer pools can be stored at –20 °C for several years."
+    },
+    {
+        "title": "**Approximation of resultant pool concentration**",
+        "body": [
+            {
+                "title": "41.",
+                "body": "Prepare the following dilutions of the FAM-Forward primer: 50nM, 200 nM, 500nM and 1 µM."
+            },
+            {
+                "title": "42.",
+                "body": "Perform NECEEM as described in step 9 with each of the dilutions of the FAM-labeled primer. Plot the heights of the produced peaks against primer concentrations to obtain a standard curve. Using the standard curve and the peak height from step 41 roughly approximate the concentration of the aptamer pool."
+            }
+        ]
+    },
+    {
+        "title": "**Affinity analysis of aptamer pools**",
+        "body": [
+            {
+                "title": "43.",
+                "body": "Use temperature treatment, as described in step 6, on 5 µL of aptamer pool from step"
+            },
+            {
+                "title": "40.",
+                "body": []
+            },
+            {
+                "title": "44.",
+                "body": "Prepare a 5 µL equilibrium mixture with the following components: 1 µL of aptamer pool from step 43, 20 µg mL<sup>-1</sup> of positive cell lysate, 100 nM of fluorescein, and the concentration of masking DNAs as used in step"
+            },
+            {
+                "title": "15.",
+                "body": "Incubate for 10 min at room temperature."
+            },
+            {
+                "title": "45.",
+                "body": "Use a 50-cm capillary for the following CE run. Rinse the capillary as described in step"
+            },
+            {
+                "title": "5.",
+                "body": []
+            },
+            {
+                "title": "46.",
+                "body": "Inject 50 nL of the equilibrium mixture from step 44 into the capillary and run NECEEM in RB at 375 V cm<sup>–1</sup> \\(normal polarity and positive electrode at the injection end)."
+            },
+            {
+                "title": "47.",
+                "body": "Compare the resultant electropherogram to the one produced in step"
+            },
+            {
+                "title": "12.",
+                "body": "Any peak, or peaks, that increase in area should be suspected to correspond to complexes between the target protein and the DNA aptamers. Using equation 1, calculate the bulk EC<sub>50</sub> value of the aptamer pool to the target in using the combined areas of the suspected peaks. In equation 1, \\[T]<sub>tot</sub> and \\[DNA]<sub>tot</sub> are the total concentrations of the target and DNA, respectively; A<sub>1</sub> is the area of the peak of free DNA divided by the migration time of free DNA, A<sub>2</sub> is the area of the peak of DNA that dissociated from the complex during NECEEM divided by the migration time of free DNA and A<sub>3</sub> is the area of the peak of the intact complex that reached the detector divided by the migration time of the complex. EC<sub>50</sub> is a measure of an effective abundance of aptamers in the library, which is used for qualitatively monitoring the progress of selection — a decrease of this value throughout the steps of partitioning indicates that the selection is progressing. The division of areas by corresponding migration times is performed to ensure that peak areas are proportional to the amounts of the species. This procedure is necessary for CE instruments with the on-column detection mode only. For CE instruments with past-column detection, normalization by time is not required. See troubleshooting.\r\n  \r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/1656/original/equation1.gif?1291915435\" ><img src=\"http://www.nature.com/protocolexchange/system/uploads/1656/thumbnail/equation1.png?1291915435\" > </a>"
+            }
+        ]
+    },
+    {
+        "title": "**Equation 1:**",
+        "body": "Calculation of the bulk EC<sub>50</sub> value for an aptamer pool."
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "Use the data collected from these steps for subsequent rounds at your convenience."
+    },
+    {
+        "title": "**Subsequent aptamer selection rounds**",
+        "body": [
+            {
+                "title": "48.",
+                "body": "Subsequent rounds of aptamer selection should be repeated in the same manner as described above in steps 16 to step"
+            },
+            {
+                "title": "47.",
+                "body": "Some modifications are as follows: In all steps where the original DNA library is used, it should be substituted with the aptamer pool obtained in the previous round. In all equilibrium mixtures add the DNA aptamer pool to a final concentration of approximately 100-200 nM. To maintain the ratio between aptamer DNA and masking DNA, reduce the concentration of the masking DNAs by 50 times."
+            },
+            {
+                "title": "49.",
+                "body": "When the peaks suspected to represent the complex between aptamers and the target protein become distinguishable, narrow down the collection window around these peaks."
+            },
+            {
+                "title": "50.",
+                "body": "Repeat aptamer selection rounds until the pool displays the desired EC<sub>50</sub> value, or until no improvements to are observed for three consecutive rounds. See troubleshooting."
+            }
+        ]
+    },
+    {
+        "title": "**Aptamer pool biotinylation**",
+        "body": [
+            {
+                "title": "51.",
+                "body": "Set up a 120 µL amplification reaction mixture for the fraction collected in the step 40 of the corresponding selection round, with the components as described in table 6."
+            }
+        ]
+    },
+    {
+        "title": "**Table 6:**",
+        "body": "Contents of the symmetric PCR amplification reaction mixture for pool biotinylation\r\n\n\n• 10x PCR buffer -"
+    },
+    {
+        "title": "**12 µL**",
+        "body": "• Biotin-Forward primer \\(10 µM) -"
+    },
+    {
+        "title": "**3.6 µL \\(to 300 nM)**",
+        "body": "• Reverse primer \\(10 µM) -"
+    },
+    {
+        "title": "**3.6 µL \\(to 300 nM)**",
+        "body": "• dNTPs \\(10 mM) -"
+    },
+    {
+        "title": "**2.4 µL \\(to 200 nM)**",
+        "body": "• _Taq_ DNA polymerase \\(5 units mL<sup>-1</sup>) -"
+    },
+    {
+        "title": "**1.2 µL \\(to 0.05 units mL<sup>-1</sup>)**",
+        "body": "• Template -"
+    },
+    {
+        "title": "**6 µL**",
+        "body": "• ddH2O -"
+    },
+    {
+        "title": "**91.2 µL**",
+        "body": [
+            {
+                "title": "52.",
+                "body": "Amplify the reactions using the PCR program described in table"
+            },
+            {
+                "title": "4.",
+                "body": "Perform 15 amplification cycles."
+            },
+            {
+                "title": "53.",
+                "body": "Set up 120 µL PCR amplification reactions for each collected fraction from step"
+            },
+            {
+                "title": "52.",
+                "body": "The recipe for the PCR reaction is shown in table 7."
+            }
+        ]
+    },
+    {
+        "title": "**Table 7:**",
+        "body": "Contents of the asymmetric PCR amplification reaction mixture for pool biotinylation\r\n\n\n• 10x PCR buffer -"
+    },
+    {
+        "title": "**12 µL**",
+        "body": "• Biotin-Forward primer \\(10 µM) -"
+    },
+    {
+        "title": "**12 µL \\(to 1 µM)**",
+        "body": "• Reverse primer \\(10 µM) -"
+    },
+    {
+        "title": "**0.6 µL \\(to 50 nM)**",
+        "body": "• dNTPs \\(10 mM) -"
+    },
+    {
+        "title": "**2.4 µL \\(to 200 nM)**",
+        "body": "• _Taq_ DNA polymerase \\(5 units mL<sup>-1</sup>) -"
+    },
+    {
+        "title": "**1.2 µL \\(to 0.05 units mL<sup>-1</sup>)**",
+        "body": "• Product of amplification from step 52 -"
+    },
+    {
+        "title": "**6 µL**",
+        "body": "• ddH2O -"
+    },
+    {
+        "title": "**91.2 µL**",
+        "body": [
+            {
+                "title": "54.",
+                "body": "Amplify the reactions using the PCR program described in table"
+            },
+            {
+                "title": "4.",
+                "body": "Perform 15 amplification cycles."
+            },
+            {
+                "title": "55.",
+                "body": "Load the product of the PCR amplification on to the molecular cut-off filters."
+            },
+            {
+                "title": "56.",
+                "body": "Centrifuge the molecular cut-off filters with the supernatant from step 55, at 7,000 × g for 20 minutes at 15° C."
+            },
+            {
+                "title": "57.",
+                "body": "Load 200 µL of SB on to the filter and repeat step"
+            },
+            {
+                "title": "56.",
+                "body": "Wash the filters in this manner three more times. Discard the flow-through as the test tube becomes filled."
+            },
+            {
+                "title": "58.",
+                "body": "Load 15 µL of SB on to the filter and incubate, without centrifugation, for 30 min at 15° C."
+            },
+            {
+                "title": "59.",
+                "body": "Place the filter up-side-down into a new clean test tube and centrifuge at 7,000 × g for 10 minutes at 15° C."
+            },
+            {
+                "title": "60.",
+                "body": "Collect the eluted fraction and discard the filters. The collected fraction contains the biotinylated DNA aptamer pool."
+            }
+        ]
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "Biotinylated aptamer pools can be stored at –20 °C for several months."
+    },
+    {
+        "title": "**Aptamer-facilitated target protein pull-down**",
+        "body": [
+            {
+                "title": "61.",
+                "body": "Use temperature treatment, as described in step 6, on 15 µL of biotinylated aptamer pool from step"
+            },
+            {
+                "title": "60.",
+                "body": []
+            },
+            {
+                "title": "62.",
+                "body": "Treat a sample of 500 µM naive DNA library as described in step"
+            },
+            {
+                "title": "6.",
+                "body": "From the temperature-treated stock prepare 100 µL of 100 µM naive DNA library in SB."
+            },
+            {
+                "title": "63.",
+                "body": "Prepare 50 µL equilibrium mixtures with the each of the samples from steps 60 and 61: 15 µL of DNA sample, 20 µg mL<sup>-1</sup> of positive cell lysate, and the concentration of masking DNAs as in step"
+            },
+            {
+                "title": "48.",
+                "body": "Incubate for 10 minutes at room temperature."
+            },
+            {
+                "title": "64.",
+                "body": "For each pull-down sample from step 63, aliquot 50 µL streptavidin beads into an empty test tube. Wash the beads twice with 200 µL bead washing buffer. After each wash, precipitate the beads from the solution with a magnetic bead separator."
+            },
+            {
+                "title": "65.",
+                "body": "After the final washing step, remove the bead washing buffer and add the pull-down samples to the beads.  Incubate at room temperature for 20 min, gently mixing every five minutes to facilitate faster binding of DNA to the beads."
+            },
+            {
+                "title": "66.",
+                "body": "Pull down the beads from the solution using a magnetic separator and separate the beads and the supernatant. Preserve the supernatant for further analysis through SDS-PAGE. Wash the beads three times with 100 µL of bead washing buffer. After each wash, precipitate the beads from the solution with a magnetic bead separator."
+            },
+            {
+                "title": "67.",
+                "body": "After the final washing step, remove the BWB and add SDS-containing loading buffer according to the employed SDS-PAGE protocol. Maintain a low volume, preferably less than 20 µL. Incubate at 99 °C for 5 min."
+            },
+            {
+                "title": "68.",
+                "body": "Pull down the beads from the solution using a magnetic separator and collect the supernatant. Load directly on to a polyacrylamide gel for SDS-PAGE analysis."
+            },
+            {
+                "title": "69.",
+                "body": "Perform SDS-PAGE analysis on the pull-downs by the DNA aptamer pool and the naive DNA library, and on their respective supernatant samples from step"
+            },
+            {
+                "title": "66.",
+                "body": []
+            },
+            {
+                "title": "70.",
+                "body": "Stain the gel with Coomassie Blue dye and analyze the results of SDS-PAGE to determine aptamers’ ability to selectively isolate the target protein, and the level of cross-reactivity of the aptamer pool with non-target components of the cell lysate. See troubleshooting."
+            }
+        ]
+    }
+]

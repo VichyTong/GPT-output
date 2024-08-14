@@ -1,0 +1,26 @@
+[
+    {
+        "title": "1.",
+        "body": "Dilute 20X TE \\(Component B) 1:20 in RNase-free water to make 1X TE Buffer."
+    },
+    {
+        "title": "2.",
+        "body": "Make standards in microfuge tubes using the 100  μg/mL rRNA standard included in the Quant-It RiboGreen Assay Kit. These can be stored for future use.\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4061/original/SOP_Ribogreen_simplified_qPCR_machine_v2_concentration_standards.png?1447076904\">See figure in Figures section.</a>"
+    },
+    {
+        "title": "3.",
+        "body": "Based on the expected concentrations of the samples, make the appropriate dilution of the RiboGreen reagent \\(Component A) in 1X TE \\(1:400 for samples between 2-100 ng/μL, 1:4,000 for samples between 0.05-1 ng/μL). You will need 20 μL of the diluted reagent for each sample and each standard."
+    },
+    {
+        "title": "4.",
+        "body": "Based on the expected concentrations of the samples, set up the assay plate with 1 μL each of the appropriate standards."
+    },
+    {
+        "title": "5.",
+        "body": "In each well, mix 1 μL of sample/standard with 19 μL of the appropriate dilution of the RiboGreen reagent. Pipet up and down to mix."
+    },
+    {
+        "title": "6.",
+        "body": "Read in a qPCR machine \\(use FAM/SYBR channel). Export raw fluorescence values. Draw the standard curve, and use the linear trend line to generate the formula to calculate the concentration for each sample."
+    }
+]

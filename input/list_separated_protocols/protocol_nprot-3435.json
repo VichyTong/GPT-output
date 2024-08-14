@@ -1,0 +1,250 @@
+[
+    {
+        "title": "**Critical:**",
+        "body": [
+            "The volumes detailed below are for dissociation of an intact prostate from an 8-12 week wild type mouse. For larger prostate samples such as those from aggressive tumor models, all reagents should be increased proportionally from the volumes suggested below. For example, if a prostate tumor is approximately twice the size of a wild type prostate, 2x the volume of suggested reagents should be used. \r\n\n\n\r\n\n\n2.1. Prostate dissection and collagenase digestion",
+            {
+                "title": "1.",
+                "body": "In tissue culture hood, combine 200 µL 10x collagenase/hyaluronidase mixture with 1.8 mL DMEM/F12 + 5% FBS.  Place in 37°C water bath until ready to use."
+            },
+            {
+                "title": "2.",
+                "body": "Resect mouse prostates and transfer to sterile petri dish containing cold PBS for dissection6. Using a dissecting microscope, fine forceps, and sharp scissors, remove residual fat from prostate tissue."
+            },
+            {
+                "title": "3.",
+                "body": "Fill 1.5 mL Eppendorf tube with 1 mL of diluted pre-warmed collagenase/hyaluronidase solution and transfer prostate tissue into the tube."
+            },
+            {
+                "title": "4.",
+                "body": "Using small, sharp sterile scissors, macerate the prostate tissue by rapidly opening and closing the scissors inside the tube to cut the tissue into small pieces.  Fill the tube with an additional 400-500 µL dilute collagenase/hyaluronidase solution until almost full."
+            },
+            {
+                "title": "5.",
+                "body": "Incubate in 37°C incubator for 3 hours. \\("
+            }
+        ]
+    },
+    {
+        "title": "**Tip:**",
+        "body": [
+            "The Eppendorf tube may be placed on its side in a sterile petri dish to maximize the surface area of prostate tissue exposed to collagenase/hyaluronidase solution. Periodic shaking of the tube to redistribute prostate tissue is helpful.)\r\n  \r\n\n\n2.2. Enzymatic dissociation to single cell suspension",
+            {
+                "title": "1.",
+                "body": "Centrifuge digested tissue at 350 rcf for 5 minutes and discard supernatant."
+            },
+            {
+                "title": "2.",
+                "body": "Resuspend pellet in 1.5 mL cold 0.25% trypsin-EDTA and transfer to 50 mL conical tube. Incubate in 4°C refrigerator for 1 hour. \\("
+            }
+        ]
+    },
+    {
+        "title": "**Caution:**",
+        "body": [
+            "To minimize cell death, keep trypsin ≤ 4°C prior to and during use. Trypsin can be gently thawed overnight with Matrigel and kept on ice. An orbital shaker can be used during the trypsinization step for optimal digestion.)",
+            {
+                "title": "3.",
+                "body": "During trypsinization, place 900 µL dispase in 37°C water bath at least 10 minutes prior to use. Immediately before use, add 100 µL DNaseI to dispase solution."
+            },
+            {
+                "title": "4.",
+                "body": "After trypsinization is complete \\(1 hour), add cold HBSS + 2% FBS \\(equal to 2x volume of trypsin) to quench reaction. Centrifuge at 350 rcf for 5 minutes and discard supernatant."
+            },
+            {
+                "title": "5.",
+                "body": "Add 1 mL of pre-warmed dispase/DNaseI solution. Pipette the sample vigorously for 1-2 minutes using P1000 pipette until solution is homogenously translucent with no visible tissue fragments. \\(Do not allow digestion to continue for more than 2 minutes.) \\("
+            }
+        ]
+    },
+    {
+        "title": "**Critical:**",
+        "body": [
+            "To maximize cell dissociation, this pipetting step should be done continuously.)",
+            {
+                "title": "6.",
+                "body": "Add cold HBSS + 2% FBS \\(equal to 5x volume of dispase) to quench reaction."
+            },
+            {
+                "title": "7.",
+                "body": "Filter cell suspension through a 40 µm cell strainer into a new 50 mL conical tube."
+            },
+            {
+                "title": "8.",
+                "body": "Centrifuge filtered suspension at 350 rcf for 5 minutes and discard supernatant."
+            },
+            {
+                "title": "9.",
+                "body": "Resuspend pellet in 1 mL HBSS + 2% FBS and transfer to 1.5 mL Eppendorf tube."
+            },
+            {
+                "title": "10.",
+                "body": "Count viable cells using a hemacytometer and trypan blue."
+            },
+            {
+                "title": "11.",
+                "body": "Centrifuge and resuspend cells in HBSS + 2% FBS at 100 µL/1 x 10<sup>6</sup> cells. \\(If fewer than 1 x 10<sup>6</sup> cells are obtained, resuspend in 100 µL)\r\n  \r\n\n\n2.3. Fluorescence activated cell sorting \\(FACS)\r\n\n\n*Keep cell suspension and reagents on ice until sorting is finished."
+            },
+            {
+                "title": "1.",
+                "body": "Divide cell suspension into four 1.5mL Eppendorf tubes as follows \r\n  a. Tube 1 \\(unstained control): 100 µL \\(1x10<sup>6</sup> cells)\r\n\n\nb. Tube 2 \\(PerCP control): 100 µL \\(1x10<sup>6</sup> cells)\r\n\n\nc. Tube 3 \\(APC control): 100 µL \\(1x10<sup>6</sup> cells)\r\n\n\nd. Tube 4 \\(sample for collection): remaining sample  \\(up to 1 mL)"
+            },
+            {
+                "title": "2.",
+                "body": "Add FACS antibodies as follows:\r\n  a. Tube 1: no antibody\r\n\n\nb. Tube 2: 1 µL \\(1:100) anti-mouse E-cadherin PerCP-Efluor710 antibody\r\n\n\nc. Tube 3: 1 µL \\(1:100) anti-mouse APC-EpCAM antibody\r\n\n\nd. Tube 4: both antibodies at 1:100 dilution \\(1 µL antibody per 100 µL cell suspension).\r\n\n\n\\("
+            }
+        ]
+    },
+    {
+        "title": "**Critical:**",
+        "body": [
+            "If fewer than 4 x 106 cells are obtained after enzymatic dissociation, use 10 µL of cell suspension for control tubes 1-3 and dilute with 90 µL HBSS + 2% FBS for a total of 100 µL. Use the same antibody concentrations. Resuspend tubes 1-3 in 50 µL cold HBSS + 2% FBS instead of 500 µL in step 6 of cell sorting and use 1 µL of dilute DAPI instead of 10 µL.)",
+            {
+                "title": "3.",
+                "body": "Cover with foil and incubate on ice for 25 minutes."
+            },
+            {
+                "title": "4.",
+                "body": "Spin tubes at 350 rcf at 4°C for 5 minutes and discard supernatant."
+            },
+            {
+                "title": "5.",
+                "body": "Add 500 µL cold HBSS + 2% FBS to all tubes.  Spin at 350 rcf at 4°C for 5 minutes and discard supernatant."
+            },
+            {
+                "title": "6.",
+                "body": "Resuspend all tubes in 500 µL cold HBSS + 2% FBS + 10 µM ROCK inhibitor Y-27632."
+            },
+            {
+                "title": "7.",
+                "body": "Prepare a 1:100 dilution of 0.5 mg/mL DAPI by adding 5 µL DAPI to 495 µL HBSS + 2% FBS. Add 10 µL of dilute DAPI to each tube."
+            },
+            {
+                "title": "8.",
+                "body": "Transfer each suspension into a labeled round-bottom clear rubber-top plastic test tube for loading into sorter."
+            },
+            {
+                "title": "9.",
+                "body": "Prior to sorting, prepare multiple 1.5 mL Eppendorf tubes pre-filled with 500 µL cold HBSS + 2% FBS + 10 µM ROCK inhibitor Y-27632 for collecting cells."
+            },
+            {
+                "title": "10.",
+                "body": "Perform sorting via sterile FACS facility \\(tubes 1-3 will be used to set appropriate gates; tube 4 will be used to collect cells for plating). Collecting cells at 60,000 cells per tube will facilitate easier plating. Keep collected cells on ice until ready to plate.\r\n  \r\n\n\n2.4.  Medium preparation and cell plating"
+            },
+            {
+                "title": "1.",
+                "body": "Prepare desired amount of culture medium by combining the following components to the indicated final concentrations \\(a-d can be combined and stored as a 50 mL aliquot at 4°C for up to 4 weeks; e-h should be added on the day of use based on the amount of media needed):\r\n  a. Hepatocyte medium \\(47 mL per 50 mL media)\r\n\n\nb. 10 ng/mL EGF \\(100 µL of 5 µg/mL stock per 50 mL media)\r\n\n\nc. 5% heat-inactivated, charcoal-stripped FBS \\(2.5 mL per 50 mL media)\r\n\n\nd. 1x Glutamax \\(500 µL per 50 mL media)\r\n\n\ne. 5% Matrigel \\(50 µL per 1 mL media)\r\n\n\nf. 10 µM ROCK inhibitor Y-27632 \\(2 µL of 5 mM stock per 1 mL media)\r\n\n\ng. 100 nM DHT \\(10 µL of 10<sup>-5</sup> M stock per 1 mL media)\r\n\n\nh. 1x antibiotic-antimycotic \\(10 µL per 1 mL media; optional)"
+            },
+            {
+                "title": "2.",
+                "body": "Keep prepared culture media at room temperature until use \\(rapid warming in 37°C water bath may cause Matrigel to solidify at top of tube)."
+            },
+            {
+                "title": "3.",
+                "body": "Centrifuge sorted cells at 350 rcf for 5 minutes and resuspend in prepared media at 5,000 cells per 100 µL media. \\(If cells were collected at 60,000 cells per Eppendorf tube, resuspend in 1.2 mL media. If there is concern for cell death, count viable cells prior to centrifuging and resuspend accordingly.)"
+            },
+            {
+                "title": "4.",
+                "body": "Add resuspended cells to 96-well low attachment plate at 100 µL per well for a final plating density of 5,000 cells per well."
+            },
+            {
+                "title": "5.",
+                "body": "Change media every 4 days by adding 100 µL fresh media to each well on days 4 and 8 after plating. On day 12, when wells are full \\(300 µL), transfer each well to a 1.5ml Eppendorf tube and centrifuge at 250 rcf for 5 minutes. Remove 200 µL of supernatant and add 100 µL fresh media \\(total volume will be 200 µL).  Transfer onto a new 96-well plate using P1000 pipet tip \\(smaller tips may damage organoids). Alternate every 4 days between either adding 100 µL media or spinning down to remove 200 µL and add 100 µL until ready for passage. \\(Multiple wells can be pooled prior to centrifuging and redistributed evenly if there are many wells.)\r\n  \r\n\n\n2.5. Cell plating using embedding conditions"
+            },
+            {
+                "title": "1.",
+                "body": "Medium preparation is the same as in 2.4.1 except that component e is not added. Media can be pre-warmed in a 37°C water bath. This pre-warmed media will be used to cover the solidified Matrigel ring in 2.5.7."
+            },
+            {
+                "title": "2.",
+                "body": "Prepare cold media as in 2.4.1 except that component e is not added and f is at a final concentration of 25 µM \\(5 µL of 5 mM stock per 1 mL media). Keep this media on ice and it will be used to resuspend cells."
+            },
+            {
+                "title": "3.",
+                "body": "Pellet cells as in 2.4.3 and resuspend in prepared cold media at 5,000 cells per 40 µL media. \\(If cells were collected at 60,000 cells per Eppendorf tube, resuspend in 480 µL media.) \\("
+            }
+        ]
+    },
+    {
+        "title": "**Tip:**",
+        "body": [
+            "For the embedding condition, the number of cells plated can be much lower.)",
+            {
+                "title": "4.",
+                "body": "Mix the 40 µL media containing cells thoroughly with 60 µl Matrigel \\(If 60,000 cells are resuspended in 480 µL media, mix with 720 µL Matrigel). Avoid bubbles. This step should be done on ice to prevent Matrigel solidification."
+            },
+            {
+                "title": "5.",
+                "body": "Plate the 100 µL media Matrigel mixture around the ring of a well in a 24-well plate."
+            },
+            {
+                "title": "6.",
+                "body": "Incubate the 24-well plate in 37°C incubator for 30 minutes to allow the Matrigel ring to solidify."
+            },
+            {
+                "title": "7.",
+                "body": "Add 400 µL pre-warmed media as prepared in 2.5.1 to each well. \\("
+            }
+        ]
+    },
+    {
+        "title": "**Critical:**",
+        "body": [
+            "Make sure that the media is warm enough prior to addition to the well to avoid dissolving the Matrigel ring.)",
+            {
+                "title": "8.",
+                "body": "Change media every 4 days by aspirating the media off the Matrigel ring and adding fresh media. \\("
+            }
+        ]
+    },
+    {
+        "title": "**Tip:**",
+        "body": [
+            "Aspiration should be performed from the middle of the well to avoid disturbing the Matrigel ring.)\r\n  \r\n\n\n2.6. Passaging and freezing organoids",
+            {
+                "title": "1.",
+                "body": "When organoids are large \\(usually 3-5 weeks after plating), prepare organoids for passage by transferring into 1.5 mL Eppendorf tubes and spinning at 250 rcf for 5 minutes. \\(Multiple wells can be pooled.)  Discard supernatant."
+            },
+            {
+                "title": "2.",
+                "body": "Wash cells in cold PBS and spin again at 250 rcf for 5 minutes. \\(Critical: Without this PBS washing step, the trypsin reaction will not be optimal due to residual FBS in the medium, resulting in incomplete dissociation into single cells.)"
+            },
+            {
+                "title": "3.",
+                "body": "Add 1 mL warm 0.25% trypsin/EDTA and incubate in a 37°C water bath for 5 minutes. \\(Tip: In the context of very large organoids or organoids that are difficult to dissociate, step 3 can be replaced by incubation in cold 0.25% trypsin/EDTA at 4°C for 30 minutes.)"
+            },
+            {
+                "title": "4.",
+                "body": "Pipette up and down with P200 pipet tip for 30 seconds to dissociate cells."
+            },
+            {
+                "title": "5.",
+                "body": "Transfer suspension into a 15 mL conical tube prefilled with 2 mL cold HBSS + 2% FBS."
+            },
+            {
+                "title": "6.",
+                "body": "Centrifuge at 350 rcf for 5 minutes and discard supernatant."
+            },
+            {
+                "title": "7.",
+                "body": "Resuspend cell pellet in fresh media and plate into a new low-attachment 96-well plate.  Cells can be plated by either replating 4x the number of wells passaged in 100 µL per well or by counting viable cells and replating at 5,000 cells/100 µL media per well."
+            },
+            {
+                "title": "8.",
+                "body": "Organoids can be frozen at any point during a passage cycle by centrifuging at 250 rcf for 5 minutes and resuspending in 1 mL freezing media in 1.8 mL cryo tubes \\(50% FBS, 40% hepatocyte media, 10% DMSO).  Gradual freezing to ≤ -80° using an insulated cryofreezing container is recommended. Organoids should be thawed rapidly in a 37°C water bath and immediately diluted in 10 mL HBSS + 2% FBS per 1 mL freezing media. Centrifuge thawed organoids at 250 rcf for 5 minutes and resuspend in organoid culture media for plating.\r\n  \r\n\n\n2.7. Passaging and freezing of embedded organoids"
+            },
+            {
+                "title": "1.",
+                "body": "Dissolve the Matrigel ring by adding about 125 µL dispase at 5 mg/mL to each well of the 24-well plate to make the final concentration of dispase 1 mg/ml."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate in 37°C incubator for 10 minutes."
+            },
+            {
+                "title": "3.",
+                "body": "If the Matrigel ring dissolves, proceed as in 2.6.1. If not, incubate at 37°C for another 5 minutes."
+            }
+        ]
+    }
+]

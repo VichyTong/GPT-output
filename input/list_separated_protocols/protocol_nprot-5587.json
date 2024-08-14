@@ -1,0 +1,130 @@
+[
+    {
+        "title": "1.",
+        "body": "Harvest cell culture medium from 80% confluent cells grown in serum-free medium."
+    },
+    {
+        "title": "2.",
+        "body": "Optional: Spin media at 500-1,000 x g for 10 min."
+    },
+    {
+        "title": "3.",
+        "body": "Pre-clear medium by centrifuging at 2000 x g for 10 min then filter using a 0.22 µm PES Steriflip membrane and freeze at -80°C until needed."
+    },
+    {
+        "title": "4.",
+        "body": "Thaw 4 mL of cell culture supernatant on ice."
+    },
+    {
+        "title": "5.",
+        "body": "Transfer 4 mL of cell culture supernatant to a 15 mL tube and add 4 mL of XBP buffer."
+    },
+    {
+        "title": "6.",
+        "body": "Mix by inverting 5 times."
+    },
+    {
+        "title": "7.",
+        "body": "Add the sample/XBP mix to the exoEasy maxi spin column."
+    },
+    {
+        "title": "8.",
+        "body": "Centrifuge for 1 – 3 min at 500 x g at room temperature and discard flow-through."
+    },
+    {
+        "title": "9.",
+        "body": "Add 10 mL of XWP to the spin column and centrifuge for 5 min at 5,000 x g<sup>1</sup> at room temperature."
+    },
+    {
+        "title": "10.",
+        "body": "Transfer the spin column to a fresh collection tube."
+    },
+    {
+        "title": "11.",
+        "body": "Add 700 µL of Qiazol to the spin column and centrifuge for 5 min at 5,000 x g.<sup>1</sup>"
+    },
+    {
+        "title": "12.",
+        "body": "Spin PLG tubes for 30 s at 16,000 x g."
+    },
+    {
+        "title": "13.",
+        "body": "Add flow-through from spin column in step 11 to PLG tube, and vortex for 5 s.<sup>2</sup>"
+    },
+    {
+        "title": "14.",
+        "body": "Incubate at room temperature for 5 min."
+    },
+    {
+        "title": "15.",
+        "body": "Add 90 µL of chloroform, then shake \\(do not vortex) vigorously for 15 s."
+    },
+    {
+        "title": "16.",
+        "body": "Incubate for 2 – 3 min at room temperature."
+    },
+    {
+        "title": "17.",
+        "body": "Centrifuge samples for 15 min at 12,000 x g at 4°C and transfer the upper aqueous phase to a new microcentrifuge tube."
+    },
+    {
+        "title": "18.",
+        "body": "Measure the aqueous phase and add 2 volumes 100% ethanol."
+    },
+    {
+        "title": "19.",
+        "body": "Mix gently and thoroughly by pipetting up and down."
+    },
+    {
+        "title": "20.",
+        "body": "Immediately add up to 700 µL of the mix from step 19, including any precipitate, onto the MinElute spin column."
+    },
+    {
+        "title": "21.",
+        "body": "Centrifuge for 15 s at 1,000 x g at room temperature and discard the flow-through.<sup>3</sup>"
+    },
+    {
+        "title": "22.",
+        "body": "Repeat steps 20-21 until all the sample has been added."
+    },
+    {
+        "title": "23.",
+        "body": "Make sure ethanol has been added to the RWT and RPE buffers as recommended by the manufacturer."
+    },
+    {
+        "title": "24.",
+        "body": "Add 700 µL of Buffer RWT to the spin column and centrifuge for 15 s at ≥8,000 x g at room temperature to wash the column and discard the flow-through.<sup>4</sup>"
+    },
+    {
+        "title": "25.",
+        "body": "Add 500 µL of Buffer RPE onto the column and centrifuge for 15 s at ≥8,000 x g at room temperature and discard the flow-through."
+    },
+    {
+        "title": "26.",
+        "body": "Add 500 µL of Buffer RPE onto the column and centrifuge for 2 min at ≥8,000 x g at room temperature and discard the flow-through."
+    },
+    {
+        "title": "27.",
+        "body": "Transfer the spin column to a new 2 mL collection tube."
+    },
+    {
+        "title": "28.",
+        "body": "Open the lid of the column and centrifuge at full speed for 5 min to dry the membrane.<sup>5</sup>"
+    },
+    {
+        "title": "29.",
+        "body": "Discard the collection tube and flow-through."
+    },
+    {
+        "title": "30.",
+        "body": "Transfer the spin column to a new 1.5 mL collection tube, add 14 µL or 30 µL of RNase-free water directly to the center of the spin column.<sup>6</sup>"
+    },
+    {
+        "title": "31.",
+        "body": "Centrifuge for 1 min at 100 x g.<sup>7</sup>"
+    },
+    {
+        "title": "32.",
+        "body": "Centrifuge for 1 min at full speed to elute RNA."
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "title": "**Preparation of NGL-2 ectodomain fusion proteins**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transfect HEK293T cells with NGL-2-Ecto-Fc, in which the ectodomain of NGL-2 was fused to the human immunoglobulin Fc domain."
+            },
+            {
+                "title": "2.",
+                "body": "After 2 days of incubation, change the medium to serum-free medium and incubate for a further 3 days."
+            },
+            {
+                "title": "3.",
+                "body": "Purify NGL-2-Ecto-Fc from the serum-free medium using protein-A sepharose."
+            }
+        ]
+    },
+    {
+        "title": "**Bead coating**",
+        "body": [
+            {
+                "title": "4.",
+                "body": "Mix 5 μg of NGL-2-Ecto-Fc, 5 μg of biotin-conjugated anti-human antibodies, and 2 μL of neutravidin-conjugated FluoSphere beads \\(Molecular Probes; 1 μm diameter), and incubate for 1 h."
+            },
+            {
+                "title": "5.",
+                "body": "Increase the volume of the mixture to 1 mL by adding Hank’s balanced salt solution \\(HBSS), and centrifuge at 13,000 rpm for 1 min in a microcentrifuge."
+            },
+            {
+                "title": "6.",
+                "body": "Carefully remove the supernatant, and resuspend the precipitates in 100 μL of conditioned media where neurons were growing."
+            }
+        ]
+    },
+    {
+        "title": "**Bead binding to neurons**",
+        "body": [
+            {
+                "title": "7.",
+                "body": "Place the coverslips with cultured neurons \\(DIV12) face-up on 6-well \\(or larger) dishes. Save the conditioned media for Step"
+            },
+            {
+                "title": "9.",
+                "body": ""
+            },
+            {
+                "title": "8.",
+                "body": "Add 100 μL of the resuspended beads onto the neurons and incubate at 37 <sup>o</sup>C for 30 min. Do not let the coverslips dry during bead loading."
+            },
+            {
+                "title": "9.",
+                "body": "Wash the neurons twice with HBSS, and place the coverslip back into the conditioned media and incubate for 24 h."
+            },
+            {
+                "title": "10.",
+                "body": "Fix and immunostain the neurons with primary antibodies against various synaptic proteins and fluorophore-conjugated secondary antibodies."
+            }
+        ]
+    },
+    {
+        "title": "**Image acquisition and quantitation**",
+        "body": [
+            {
+                "title": "11.",
+                "body": "Capture Z-stacked images by confocal immunofluorescence microscopy as well as DIC imaging."
+            },
+            {
+                "title": "12.",
+                "body": "For quantitation, manually trace the boundaries of the beads. Copy a bead boundary to a nearby axonal region for normalization."
+            },
+            {
+                "title": "13.",
+                "body": "The mean immunofluorescence intensity of a synaptic marker in a bead area was determined and normalized by that from a nearby control area."
+            }
+        ]
+    }
+]

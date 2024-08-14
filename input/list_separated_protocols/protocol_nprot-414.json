@@ -1,0 +1,82 @@
+[
+    {
+        "title": "1.",
+        "body": "Larvae of the right developmental stage are collected with a paintbrush and put in PBS in three well plates, at room temperature. Alternatively for adult tissue like the germarium, females of the right age are anaesthetized and collected in 2ml eppendorf tubes.\r\n  CRITICAL STEP Do not use ice-cold PBS, as this may inhibit respiration and thus interfere with ROS production."
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Dissect tissue of interest in 1XPBS in three well glass plates.\r\n  CRITICAL STEP Do not dissect in Schneider's medium, as the presence of primary amines from the amino acids it contains can lead to extracellular hydrolysis of the dye. In addition, it is important to remove as much extraneous tissue as possible. For instance for third instar eye discs, the brain and salivary glands should be removed at this stage \\( leaving only the mouth hooks for easy transfer). This will speed up the mounting process. Delays in mounting will compromise image quality. \r\n\n\n\r\n\n\n",
+            {
+                "title": "**A) Imaging ROS production using H2DCF**",
+                "body": ""
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": "Reconstitute dye right after dissection and immediately before use in anhydrous DMSO \\(see reagent set up). \r\n  TROUBLESHOOTING"
+    },
+    {
+        "title": "4.",
+        "body": "Dissolve 1 microlitre of the reconstituted dye \\( i.e in DMSO) in 1ml of 1X PBS to give a final concentration of 10uM. Vortex to evenly disperse the dye.\r\n  CRITICAL STEP Vortexing for about 15 to 30 seconds is usually optimal. Excessive vortexing may hasten decomposition of the dye, as it is subject to hydrolysis; on the other hand, shorter vortexing times may result in incomplete dispersion of the dye, resulting in the deposition of colloids on the tissue."
+    },
+    {
+        "title": "5.",
+        "body": "Incubate the tissue with the dye for 5 to 15 minutes in a dark chamber, on an orbital shaker at room temperature.\r\n  ? TROUBLESHOOTING"
+    },
+    {
+        "title": "6.",
+        "body": "Perform three 5-minute washes in 1XPBS on an orbital shaker at room temperature."
+    },
+    {
+        "title": "7.",
+        "body": "Mount immediately in vectashield.\r\n  ? TROUBLESHOOTING"
+    },
+    {
+        "title": "8.",
+        "body": [
+            "Capture image immediately using a confocal microscope.\r\n  ? TROUBLESHOOTING\r\n\n\n\r\n\n\n",
+            {
+                "title": "**B) Imaging ROS production using DHE**",
+                "body": ""
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": "Collect and dissect tissue as in steps 1 and 2 above. However, in this case tissue should be dissected and incubated in Schneiders medium to allow optimal respiration."
+    },
+    {
+        "title": "4.",
+        "body": "Reconstitute dye right after dissection and immediately before use in anhydrous DMSO \\(see reagent set up).\r\n  CRITICAL STEP  Reconstitute dye solution should appear slightly pink in color, a more intense color such as purple may be indicative of autooxidation of the dye."
+    },
+    {
+        "title": "5.",
+        "body": "Dissolve 1 microlitre of the reconstituted dye \\( i.e in DMSO) in 1ml of schneiders medium to give a final concentration of approximately 30uM. Vortex to evenly disperse the dye.\r\n  CRITICAL STEP Same as in step A4."
+    },
+    {
+        "title": "6.",
+        "body": "Incubate the tissue with the dye for 3 to 7 minutes in a dark chamber, on an orbital shaker at room temperature.\r\n  ? TROUBLESHOOTING"
+    },
+    {
+        "title": "7.",
+        "body": "Perform three 5-minute washes in schneiders medium in a dark chamber, on an orbital shaker at room temperature."
+    },
+    {
+        "title": "8.",
+        "body": "\\(optional) Fix slightly for 4 to 8 minutes in 7% formaldehyde in 1XPBS.\r\n  CRITICAL STEP When first examining a tissue for ROS production using DHE, it is important to go through the protocol without fixing to get an accurate indication of live ROS production. However, the mild fixation step described here facilitates analysis of ROS production in GFP marked clones, as completely unfixed GFP samples tend to produce clones with fuzzy boundaries. The length of the fixation is crucial, and may have to be determined empirically for the tissue of interest and particular variant of GFP used: too little fixation will produce fuzzy GFP boundaries but will significantly retain ROS signal, excessive fixation will produce clear GFP boundaries but will  compromise ROS signal."
+    },
+    {
+        "title": "9.",
+        "body": "Rinse once in 1X PBS right after fixation."
+    },
+    {
+        "title": "10.",
+        "body": "Mount immediately in vectashield."
+    },
+    {
+        "title": "11.",
+        "body": "Capture images immediately using a confocal microscope."
+    }
+]

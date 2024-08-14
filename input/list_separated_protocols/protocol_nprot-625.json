@@ -1,0 +1,189 @@
+[
+    {
+        "title": "**Sharpening of glass needles**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Set glass capillaries to the puller."
+            },
+            {
+                "title": "2.",
+                "body": "Pull the glass capillaries at the adequate magnet and heater strength."
+            },
+            {
+                "title": "3.",
+                "body": "Mount the resulting glass needles on the needle holder."
+            },
+            {
+                "title": "4.",
+                "body": "Match the grinding angle at 40°."
+            },
+            {
+                "title": "5.",
+                "body": "Fill the syringe of the grinder with dH<sub>2</sub>O, which is filtered to remove dust."
+            },
+            {
+                "title": "6.",
+                "body": "Sharpen the tip of the glass needle for 20 min, pouring dH<sub>2</sub>O from the syringe.\r\n  TIP: dH<sub>2</sub>O can protect the tip of the glass needle from the frictional heat and vibration."
+            },
+            {
+                "title": "7.",
+                "body": "Observe the tip of the glass needle with microscope and make sure that the tip is sharpened and not broken."
+            }
+        ]
+    },
+    {
+        "title": "**Injection of virus solution into the neocortical layer 1**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Anesthetize rats or mice with chloral hydrate \\(350 mg/kg body weight, i.p.). It takes about 10 minutes until the animal is deeply anesthetized."
+            },
+            {
+                "title": "2.",
+                "body": "Fix the head of animal to the stereotaxic instrument."
+            },
+            {
+                "title": "3.",
+                "body": "Shave the surface of the head with electric hair clippers."
+            },
+            {
+                "title": "4.",
+                "body": "Disinfect the dissection area with 70% ethanol."
+            },
+            {
+                "title": "5.",
+                "body": "Cut the scalp at the midline sagittal suture, peel the periosteum off, and expose the skull."
+            },
+            {
+                "title": "6.",
+                "body": "First put the sign on the bregma. Further, mark the insertion positions of the needle. Before marking the insertion positions, make sure precise coordinations by using a brain atlas<sup>9</sup>."
+            },
+            {
+                "title": "7.",
+                "body": "Make a hollow in the area marked on the cranial bone with a hand drill, under the observation with the stereomicroscope.\r\n  Caution: saline or PBS should be poured while the hollow is being made, since the frictional heat gives the brain tissue serious damage."
+            },
+            {
+                "title": "8.",
+                "body": "Remove carefully the thinning skull with fine forceps.\r\n  Caution: note that the blood vessels are not damaged. Especially, the hemorrhage from the vicinity of injection sites remarkably decreases the infection efficiency of virus vectors."
+            },
+            {
+                "title": "9.",
+                "body": "Fill the virus solution to the glass needle, using a P2 pipetteman with a microloader tip."
+            },
+            {
+                "title": "10.",
+                "body": "Attach the glass needle to the needle holder of the pressure injector."
+            },
+            {
+                "title": "11.",
+                "body": "Set the needle holder to the manipulator of the stereotaxic instrument."
+            },
+            {
+                "title": "12.",
+                "body": "Match the tip of the needle to the bregma: zero-correction."
+            },
+            {
+                "title": "13.",
+                "body": "Set the tip of the needle to the injection point by operating the manipulator. At this time, the tip of glass needle is just set on the surface of the brain."
+            },
+            {
+                "title": "14.",
+                "body": "Read the depth of the needle tip and advance the needle to the target position."
+            },
+            {
+                "title": "15.",
+                "body": "Inject the solution, pushing the button of the injector. First, the injection time is set to the minimum duration, such as for 2 ms, and afterwards fine-tuned."
+            },
+            {
+                "title": "16.",
+                "body": "Leave it for 10-15 min during the solution permeates the brain tissue, after the injection ends."
+            },
+            {
+                "title": "17.",
+                "body": "Pull the needle out carefully."
+            },
+            {
+                "title": "18.",
+                "body": "Suture the scalp after the antibiotic solution is infused to the wound."
+            },
+            {
+                "title": "19.",
+                "body": "Remove the animal from the stereotaxic instrument and return it to the cage."
+            }
+        ]
+    },
+    {
+        "title": "**Immunohistochemistry**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Anesthetize animals with chloral hydrate \\(500 mg/kg body weight, i.p.)."
+            },
+            {
+                "title": "2.",
+                "body": "Perfuse aminals through the heart with the prewash solution \\(0.15 M NaCl) and then with 4% PFA in 0.1 M phosphate buffer, pH 7.4."
+            },
+            {
+                "title": "3.",
+                "body": "Remove the brains and cut into blocks 5-mm thick."
+            },
+            {
+                "title": "4.",
+                "body": "Immerse the tissue blocks in the same fixative at 4 <sup>o</sup>C for overnight."
+            },
+            {
+                "title": "5.",
+                "body": "Transfer to 30% sucrose in PBS."
+            },
+            {
+                "title": "6.",
+                "body": "Mount the tissue blocks with Tissue-Tek, frozen in a dry-ice acetone bath and store at -80 <sup>o</sup>C until use."
+            },
+            {
+                "title": "7.",
+                "body": "Cut the sections at 35-50 μm with the cryostat."
+            },
+            {
+                "title": "8.",
+                "body": "Wash the sections for 30 min with PBS."
+            },
+            {
+                "title": "9.",
+                "body": "Preincubate with PBS containing 4% normal goat serum and 1% bovine serum albumin for 2 h."
+            },
+            {
+                "title": "10.",
+                "body": "Incubate the sections for 24 h at room temperature with a primary antibody."
+            },
+            {
+                "title": "11.",
+                "body": "Wash the sections for 30 min with PBS."
+            },
+            {
+                "title": "12.",
+                "body": "Incubate the sections for 2 h at room temperature with a secondary fluorescent antibody."
+            },
+            {
+                "title": "13.",
+                "body": "Wash the sections for 30 min with PBS."
+            },
+            {
+                "title": "14.",
+                "body": "Mount the sections on glass slides and dry up."
+            },
+            {
+                "title": "15.",
+                "body": "Embed the sections with Permafluor."
+            },
+            {
+                "title": "16.",
+                "body": "Air-dry the specimens well."
+            },
+            {
+                "title": "17.",
+                "body": "Observe the specimens with the fluorescence microscope or the confocal fluorescence microscope."
+            }
+        ]
+    }
+]

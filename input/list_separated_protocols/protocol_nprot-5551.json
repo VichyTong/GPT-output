@@ -1,0 +1,46 @@
+[
+    {
+        "title": "1.",
+        "body": "Thaw samples on ice."
+    },
+    {
+        "title": "2.",
+        "body": "Transfer 0.5 mL of urine into an ultracentrifuge tube."
+    },
+    {
+        "title": "3.",
+        "body": "Bring up volume to fill the ultracentrifuge tube with PBS \\(3 mL)."
+    },
+    {
+        "title": "4.",
+        "body": "Centrifuge at 100,000 x g for 70 min."
+    },
+    {
+        "title": "5.",
+        "body": "Discard 3 mL of supernatant."
+    },
+    {
+        "title": "6.",
+        "body": "Add 3 mL of fresh PBS."
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge at 100,000 x g for 70 min."
+    },
+    {
+        "title": "8.",
+        "body": "Remove and discard 3.3 mL of supernatant."
+    },
+    {
+        "title": "9.",
+        "body": "Resuspend the leftover solution \\(usually about 200 µL)."
+    },
+    {
+        "title": "10.",
+        "body": "Freeze at -80°C until needed."
+    },
+    {
+        "title": "11.",
+        "body": "Isolate RNA using the miRNeasy Micro kit."
+    }
+]

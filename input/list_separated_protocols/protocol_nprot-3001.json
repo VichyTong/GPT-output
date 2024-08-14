@@ -1,0 +1,196 @@
+[
+    {
+        "title": "1.",
+        "body": [
+            "Blood sample collection",
+            {
+                "title": "a)",
+                "body": "Blood sample are collected in litium heparin tube \\(Terumo VF-054SHL) in which we add 3 µL of protease cocktail inhibitor. Or you can use aprotinine tubes which already contain protease inhibitor."
+            },
+            {
+                "title": "b)",
+                "body": "Centrifuge blood sample at 3000 rpm during 20 min at 4°C."
+            },
+            {
+                "title": "c)",
+                "body": "Collect the plasma and acidify it with HCl 1N to prevent peptide degradation. HCl volume represents 10% of the plasma volume."
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Peptide protein separation \\(to separate peptides from IgG)",
+            {
+                "title": "a)",
+                "body": "Add 1 mL of acetonitrile 60% in TFA 1% in Strata® C18-SEP columns and centrifuge at 3000 rpm during 3 min at 4°C to activate the column."
+            },
+            {
+                "title": "b)",
+                "body": "Wash three times with 3 mL of TFA 1%."
+            },
+            {
+                "title": "c)",
+                "body": "Add your plasma previously diluted at ½ with TFA 1% \\(500 µL plasma and 500 µL TFA 1%). During plasma loading, peptides are bound to the column and proteins go into the effluent."
+            },
+            {
+                "title": "d)",
+                "body": "Keep the effluent at -80°C to purify IgG from this plasma fraction. Optionally peptides can be eluted for their concentration assay with following steps."
+            },
+            {
+                "title": "e)",
+                "body": "Wash twice with 3 mL of TFA 1%."
+            },
+            {
+                "title": "f)",
+                "body": "Elute peptides with acetonitrile 60% in TFA 1%."
+            },
+            {
+                "title": "g)",
+                "body": "Evaporate the eluent 15 min with a SpeedVac concentrator to eliminate the maximum of acetonitrile."
+            },
+            {
+                "title": "h)",
+                "body": "Freeze eluent and lyophilize during 72 h."
+            },
+            {
+                "title": "i)",
+                "body": "Resuspend peptide fraction with PBS and assay the purified peptide using the appropriate kits."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": [
+            "IgG purification",
+            {
+                "title": "a)",
+                "body": "Add 500 µL Melon Gel purification support in mini spin columns and centrifuge at 5000 rpm 30 s."
+            },
+            {
+                "title": "b)",
+                "body": "Wash twice with 300 µL purification buffer and centrifuge at 5000 rpm 30 s."
+            },
+            {
+                "title": "c)",
+                "body": "Dilute effluent-containing IgG from previous step at ¼ with purification buffer \\(1 mL effluent and 3 mL purification buffer)."
+            },
+            {
+                "title": "d)",
+                "body": "Add 500 µL of diluted sample on the column and incubate 5 min at room temperature on roller mixer."
+            },
+            {
+                "title": "e)",
+                "body": "Centrifuge at 5000 rpm 30 s to purify IgG."
+            },
+            {
+                "title": "f)",
+                "body": "Repeat step d and e until you finish to pass all the diluted sample on the column."
+            },
+            {
+                "title": "g)",
+                "body": "Pool the entire fraction that you obtain in a hemolysis tube to freeze and lyophilize during 72 h."
+            },
+            {
+                "title": "h)",
+                "body": "After lyophilization resuspend your purified IgG with a volume of BIAcore HBS-EP buffer corresponding to the plasma volume at the beginning to the experiment."
+            },
+            {
+                "title": "i)",
+                "body": "Determine IgG concentration using a nanodrop or a similar device."
+            }
+        ]
+    },
+    {
+        "title": "4.",
+        "body": [
+            "Afinity kinetics assay in BIAcore\r\n  Fix the peptide of interest on BIAcore CM5 chip using the BIAcore amine coupling kit.\r\n\n\nA) Peptide Coating",
+            {
+                "title": "a)",
+                "body": "Open the BIAcore control software and place a new CM5 chip in the BIAcore or one with a free flowcell \\(command → undock → change the chip → dock → prime to wash the chip)."
+            },
+            {
+                "title": "b)",
+                "body": "Mix 100 µL of NHS and 100 µL of EDC and place the tube in position R2A1 in the BIAcore."
+            },
+            {
+                "title": "c)",
+                "body": "Dilute the peptide in acetate buffer at 0.5 mg/mL and place the tube in R2A2 position.  The ideal volume is 200 µL of diluted peptide to repeat injection during the coating in case there is not enough peptide fixed on the chip with a single injection."
+            },
+            {
+                "title": "d)",
+                "body": "Place 200 µL of ethanolamine in R2A3 position and a complete vial of NaOH 10 mM in R2F3 position."
+            },
+            {
+                "title": "e)",
+                "body": "To start the coating you have to start a new sensorgram \\(run → run a new sensorgram → choose the flowcell → flow at 5 µL/min → sensorgram will start)."
+            },
+            {
+                "title": "f)",
+                "body": "The flowcell needs to be activated before the peptide injection using NHS/EDC mix injection \\(command → inject → volume: 35 µL → position: R2A1)."
+            },
+            {
+                "title": "g)",
+                "body": "After the activation, the peptide can be fixed on the chip \\(command → inject → volume: 35 µL → position: R2A2). You can repeat this injection if there is not enough peptide fixed on the chip."
+            },
+            {
+                "title": "h)",
+                "body": "After the peptide injection, you have to fix it on the chip using ethanolamine injection \\(command → inject → volume: 35 µL → position: R2A3)."
+            },
+            {
+                "title": "i)",
+                "body": [
+                    "After coating you can regenerate once or twice with NaOH 10 mM to take down peptide not correctly fixed \\(command → inject → volume: 10 µL → position: R2F3). Stop the sensorgram and save it \\(run → stop sensorgram) \\(figure",
+                    {
+                        "title": "1).",
+                        "body": "B) Affinity kinetics determination method"
+                    }
+                ]
+            },
+            {
+                "title": "a)",
+                "body": "Dilute IgG using HBS-EP buffer and place them in the correct position. The concentration 0.5 mg/mL corresponds to the concentration 3360 nM.\r\n\n\n- Blank \\(HBS-EP buffer) → R2A1\r\n\n\n- 210 nM → R2A2\r\n\n\n- 420 nM → R2A3\r\n\n\n- 840 nM → R2A4\r\n\n\n- 1680 nM → R2A5\r\n\n\n- 3360 nM → R2A6\r\n\n\n- 840 nM → R2A7\r\n\n\n- Blank \\(HBS-EP buffer)  → R2A8\r\n\n\n- Blank for startup \\(HBS-EP buffer) → R2A9"
+            },
+            {
+                "title": "b)",
+                "body": "Run the multi-cycle kinetic program \\(run → run method → select the method → save your file → the method start). The program will start with a wash \\(prime) of the system with HBS-EP buffer. After this wash you can insert your sample in the BIAcore and click on continue."
+            },
+            {
+                "title": "c)",
+                "body": "The program will start with 2 startup with HBS-EP buffer to see derive of the signal. Then the automate will save a sensorgram for each concentration. At the end, there are 10 sensorgram for one sample \\(2 startup + 8 concentrations).\r\n\n\nC) Results analysis"
+            },
+            {
+                "title": "a)",
+                "body": "Open BIAevaluation software for the result analysis. Then open the file corresponding to the sample that you want to analyze."
+            },
+            {
+                "title": "b)",
+                "body": "Select the first and the second curves corresponding to the 2 startup to check if they are similar. Then open the 2 blank curves and just keep one for the analysis. Idem for the concentration 840 nM \\(there are still 6 curves for the analysis)."
+            },
+            {
+                "title": "c)",
+                "body": "Delete the extreme parts of the curves from 0 to 80 seconds and from 535 to 900 seconds \\(edit → select → 0 to 80 → edit → cut →→ repeat this action for 535 to 900 seconds)."
+            },
+            {
+                "title": "d)",
+                "body": "Delete artifact peaks which may be interacting with the analysis \\(select the curve and open it → select the peak area with the right click → edit → cut)."
+            },
+            {
+                "title": "e)",
+                "body": "Line up the curves to 0 \\(select and open all the resting curves → select a part of the curves at the beginning in the linear part → Y-transform → 0 at the average of the selection → replace curves)."
+            },
+            {
+                "title": "f)",
+                "body": "Subtract the blank curve from the others \\(Y-transform → delete a curves to the other → select the number correspond to the blank curve → add as new)."
+            },
+            {
+                "title": "g)",
+                "body": "Fit the curves to obtain kinetic parameters: ka, kd, KD, KA \\(fit → simultaneous ka/kd → Langmuir binding model 1:1 → enter the correct concentration for each curve → fit)."
+            },
+            {
+                "title": "h)",
+                "body": "You can copy it on an Excel for statistical analysis \\(select the table → Ctrl+C → paste on Excel)."
+            }
+        ]
+    }
+]

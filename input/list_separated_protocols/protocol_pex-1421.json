@@ -1,0 +1,37 @@
+[
+    "\nParticipants:\n\nSixty COVID-19 confirmed cases (using the RT-PCR test) will be enrolled in the trial between April 9th to April 14th 2020. Patients will be randomly assigned to the intervention groups or the control group with the following eligibility criteria: ≥ 18 years of age AND (oxygen saturation (SPO2) ≤ 93% OR respiratory rate ≥",
+    {
+        "title": "24)",
+        "body": [
+            "AND at least one of the following: Contactless infrared forehead thermometer temperature of ≥37.8°C, cough, sore throat, nasal congestion/drip, myalgia, headache or fatigue on admission, and onset of the symptoms should be acute (Days ≤",
+            {
+                "title": "14).",
+                "body": "Although Hydroxychloroquine will be administered in a single dose, patients with heart problems (prolonged corrected QT (450 milliseconds) or PR intervals, second- or third-degree heart block, and history of arrhythmias including torsade de pointes) will be excluded. Other exclusion criteria include using drugs with potential interaction with Hydroxychloroquine + Lopinavir/Ritonavir, Interferon-β 1a, Interferon-β 1b, pregnant or lactating women, history of alcohol or drug addiction in the past 5 years, blood ALT/AST levels > 5 times the upper limit of normal on laboratory results and refusal to participate.\n\nThis study will be undertaken at the Loghman Hakim Hospital, Shahid Beheshti University of Medical Sciences.\n\n \n\nIntervention and Comparator:\n\nCOVID-19 confirmed patients will be randomly assigned to one of three groups, with 20 patients in each. The first group (Arm"
+            }
+        ]
+    },
+    {
+        "title": "1)",
+        "body": "will receive Hydroxychloroquine + Lopinavir / Ritonavir (Kaletra) + Interferon-β 1a (Recigen), the second group (Arm"
+    },
+    {
+        "title": "2)",
+        "body": "will be administered Hydroxychloroquine + Lopinavir / Ritonavir (Kaletra) + Interferon-β 1b (Ziferon), and the control group (Arm"
+    },
+    {
+        "title": "3)",
+        "body": "will be treated by Hydroxychloroquine + Lopinavir / Ritonavir (Kaletra).\n\n \n\nEfficacy Assessments:\n\nPrimary outcome:\n\nTime to clinical improvement is our primary outcome measure. This is an improvement of two points on a seven-category ordinal scale (recommended by the World Health Organization: Coronavirus disease (COVID-2019) R&D. Geneva: World Health Organization) or discharge from the hospital, whichever comes first.\n\nSecondary outcomes:\n\nSecondary outcomes include mortality from the date of randomization until the last day of the study which will be the day all of the patients have had at least one of the following outcomes:"
+    },
+    {
+        "title": "1)",
+        "body": "Improvement of two points on a seven-category ordinal scale."
+    },
+    {
+        "title": "2)",
+        "body": "Discharge from the hospital"
+    },
+    {
+        "title": "3)",
+        "body": "Death. If any patient dies, we have reached an important secondary outcome. SpO2 Improvement between the last and first day of hospitalization, using pulse-oximetry. Duration of hospitalization from date of randomization until the date of hospital discharge or date of death from any cause, whichever comes first. Incidence of new mechanical ventilation uses from date of randomization until the last day of the study. Please note that we are trying to add further secondary outcomes and this section of the protocol is still evolving.\n\n \n\nStatistical Methods:\n\nStatistical analysis will be performed by R version 3.6.1 software. We will use Kaplan–Meier to analyze the time to clinical improvement (compared with a log-rank test). Hazard ratios with 95% confidence intervals will be calculated using the Cox proportional-hazards model in crude and adjusted analysis."
+    }
+]

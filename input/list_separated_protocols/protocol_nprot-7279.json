@@ -1,0 +1,131 @@
+[
+    "\nSample collection",
+    {
+        "title": "1.",
+        "body": "Collect approximately 2 × 108 cells from exponential growing yeast cultures"
+    },
+    {
+        "title": "2.",
+        "body": "Pellet cells by centrifugation at 4000xg at 4ºC and wash once with cold RNase-free water"
+    },
+    {
+        "title": "3.",
+        "body": "Cells can be stored at -20ºC \r\n  \r\n\n\nLysis and RNA extraction"
+    },
+    {
+        "title": "4.",
+        "body": "Resuspend cells with 500 μL of LETS buffer"
+    },
+    {
+        "title": "5.",
+        "body": "Add one volume of saturated phenol \\(pH 4.5) and 200 μL of glass beads"
+    },
+    {
+        "title": "6.",
+        "body": "Broke cells in a FastPrep Precellys24 \\(Bertin technologies)"
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge cells at 13400xg for 5 min at 4°C"
+    },
+    {
+        "title": "8.",
+        "body": "Transfer the aqueous phase to a new eppendorf"
+    },
+    {
+        "title": "9.",
+        "body": "Add one volume of phenol:chloroform \\(5:1)"
+    },
+    {
+        "title": "10.",
+        "body": "Centrifuge cells at 13400g for 10 min at 4°C"
+    },
+    {
+        "title": "11.",
+        "body": "Repeat steps 8 to 10"
+    },
+    {
+        "title": "12.",
+        "body": "Transfer the aqueous phase to a new eppendorf"
+    },
+    {
+        "title": "13.",
+        "body": "Add one volume of chloroform:isoamylic alcohol \\(24:1)"
+    },
+    {
+        "title": "14.",
+        "body": "Precipitate the RNA overnight with one volume of 5 M lithium chloride at -80°C."
+    },
+    {
+        "title": "15.",
+        "body": "Centrifuge cells at 13400xg for 15 min at 4°C"
+    },
+    {
+        "title": "16.",
+        "body": "Wash the precipitate was with 70% ethanol"
+    },
+    {
+        "title": "17.",
+        "body": "Centrifuge cells at 13400xg for 15 min at 4°C to collect the RNA"
+    },
+    {
+        "title": "18.",
+        "body": "Resuspend RNA pellet with 200 μL of RNase-free water"
+    },
+    {
+        "title": "19.",
+        "body": "Re-precipitate RNA at -80°C for 3h adding Na Acetate 0.3M and two volumes of ethanol"
+    },
+    {
+        "title": "20.",
+        "body": "Centrifuge cells at 13400g for 15 min at 4°C"
+    },
+    {
+        "title": "21.",
+        "body": "Wash the precipitate was with 70% ethanol"
+    },
+    {
+        "title": "22.",
+        "body": "Centrifuge cells at 13400xg for 15 min at 4°C to collect the RNA"
+    },
+    {
+        "title": "23.",
+        "body": "Resuspend RNA pellet in 30-50 μL of RNase-free water"
+    },
+    {
+        "title": "24.",
+        "body": "RNA was quantified by measuring the absorbance at 260 nm with NanoDrop 2000 Spectophotometer® \\(Thermo scientific)"
+    },
+    {
+        "title": "25.",
+        "body": "Load 1 μg of RNA in a 1% TAE agarose gel and run the electrophoresis 15 minutes at 120V to check the purified RNA and the sample integrity\r\n   \r\n\n\ncDNA synthesis"
+    },
+    {
+        "title": "26.",
+        "body": "Incubate 5 μg of RNA with Turbo DNase \\(Ambion) for 1 hour at 37°C"
+    },
+    {
+        "title": "27.",
+        "body": "Inactivate DNase by incubating the sample 10 minutes at 75°C in 15 mM EDTA"
+    },
+    {
+        "title": "28.",
+        "body": "Incubate 1 μg of this RNA with 100 pmoles of oligo dT 5 minutes at 70°C"
+    },
+    {
+        "title": "29.",
+        "body": "Transfer the sample to ice for 10 minutes"
+    },
+    {
+        "title": "30.",
+        "body": "Incubated 5 min at 25ºC, 60 min at 42ºC and 5 min at 72ºC with Improm-II® Reverse Transcriptase and Recombinant RNasin® \\(Promega) following the manufacturer instructions"
+    },
+    {
+        "title": "31.",
+        "body": "Transfer the sample to ice"
+    },
+    {
+        "title": "32.",
+        "body": "The cDNA was analized by semiquantitative RT-PCR or by quantitative RT-PCR in a DNA Engine Peltier Termal Cycler \\(Bio Rad) using the SYBR® Premix Ex TaqTM Tli RNase H Plus Green with ROX \\(Takara)"
+    }
+]

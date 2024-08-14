@@ -1,0 +1,102 @@
+[
+    {
+        "title": "**Step 1: GLASS SLIDES**",
+        "body": "Standard 75.5±05 x 25.5±0.5 mm \"microscope slides\":https://en.wikipedia.org/wiki/Microscope_slide are required for all histopathology studies.\r\n\n\n_NB: Do not use slides with rounded smoothened corners because they tend to slip out of the scanner stage._"
+    },
+    {
+        "title": "**Step 2: SECTIONS**",
+        "body": [
+            "\\(Figure",
+            {
+                "title": "1)",
+                "body": "<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/7123/thumbnail/Fig1.png?1535411467\">See figure in Figures section.</a> \r\n\n\nSections for multiplexing of 3±1 µm thickness need to be placed on positively charged slides \\(the ones used for immunohistochemistry) one section per slide, positioned toward the slide end opposite to the frosted end for label, at least 2-3 mm from the slide border.\r\n\n\nThe scanning speed is maximal across the slide, thus prefer a transversal or oblique, rather than a longitudinal placement of the section.\r\n\n\nplace sections on coated/charged glass slides \r\n\n\nBake overnight in an upright position in oven 40°C or lower    \r\n\n\nDewax in Xylene \\(2 changes 10 min each) -> graded alcohol \\(99%-95%-70%-H20)\r\n\n\n_NB. An Hexane overnight step before the xylene has been recommended for complete paraffin extraction\\[1]: hexane is volatile and may dry the sections before entering xylene. An advantage in immunoreactivity is antigen-dependent and modest._"
+            }
+        ]
+    },
+    {
+        "title": "**Step 3: ANTIGEN RETRIEVAL**",
+        "body": [
+            "<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/7125/thumbnail/Fig2.png?1535411509\">See figure in Figures section.</a> \r\n\n\nPerform antigen retrieval with 10 mM EDTA in Tris-buffer pH 8; use 800 ml distilled water in a MWO-proof glass container, to which add 8 ml of a 100x Tris-EDTA buffer, pH",
+            {
+                "title": "8.",
+                "body": "- Insert the slides in a radiotransparent slide holder \\(Figure"
+            },
+            {
+                "title": "2)",
+                "body": "- Place in a household microwave oven \\(MWO), set to “high” or 850W: should boil vigorously in 8 min.\r\n\n\n- Reduce power to “low” or 300W and allow 20-30 min. of intermittent radiation to maintain boiling.\r\n\n\n_This overcomes pH dependent retrieval\\[2]_\r\n\n\n- Cool to 50°C or below to allow antigen refolding before transferring to"
+            }
+        ]
+    },
+    {
+        "title": "**washing buffer \\(TBS-Ts)**",
+        "body": [
+            ", by checking with a kitchen thermometer. \\(Figure",
+            {
+                "title": "2)",
+                "body": "_Take precautions: hot fluid._\r\n\n\n- Slides can be stored in 50% glycerol-sucrose-TBS at this step \\(storage buffere) \\[3]"
+            }
+        ]
+    },
+    {
+        "title": "**Step 4: IF STAINING: Primary and Secondary Ab dilution and incubation**",
+        "body": "<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/7131/thumbnail/Fig5.png?1535460946\">See figure in Figures section.</a> \r\n\n\nDilute all primary Ab’s to 1 µg/ml \\(or equivalent by titration) in"
+    },
+    {
+        "title": "**Antibody diluent**",
+        "body": "\\[3]\r\n\n\nDilute all secondary Ab’s to 5 µg/ml \\(~1:200 – 1:300).\r\n\n\n_NB. Fluorochrome-conjugated antibodies used in double indirect IF \\[3] have different concentration/signal curves. Alexa 488 conjugates tend not to increase signal above 5µg/ml, because of self-quenching; Rhodamine RedX and Alexa 647 do increase. BV480 conjugates tend to have an exponential increase of signal with increased concentration above 2-3 µg/ml; however, anti-isotype conjugates are much brighter than species-specific ones. If using BV480, beware of A) non-specific background increase, B) spillover of BV480 signal into Autofluorescence and FITC channels._\r\n\n\nBy using unconjugated primary antibodies in indirect immunofluorescence, the following combinations are permitted, based on species- or isotype-specific secondary antibodies and a filter combination as depicted in Fig. 5:\r\n\n\n- One each of rabbit, mouse, rat and goat antibodies\r\n\n\n- One rabbit Ab plus one each of the mouse IgG1, IgG2a, IgG2b or IgG3, up to one Rb + 3 mouse Abs.\r\n\n\n_NB: anti-isotype secondary antibodies are invariably raised in goat or rabbit; use secondary abs raised in donkeys or lamas for the first combination exemplified \\(Rb, Mo, Rat, Gt)._"
+    },
+    {
+        "title": "**Humid chamber Incubation**",
+        "body": [
+            "\\(Figure",
+            {
+                "title": "3)",
+                "body": "<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/7127/thumbnail/Fig3.png?1535411558\">See figure in Figures section.</a> \r\n\n\ncheck with a level/iPhone for perfectly horizontal placement of the chamber: this will prevent antibody solution slipping during prolonged incubations \\(e.g. O/N).\r\n\n\nDo not let the slides touch each other.\r\n\n\nUse a closed container \\(Kartell)\\[4] with distilled water, Sodium Azide and a tissue to prevent floating. \r\n\n\nuse a minimum of 100µl of antibody for a section of 1x1 cm or less and the volume multiplied accordingly for larger sections.\r\n\n\n_NB: you can recover and re-use the antibody from the slide, however the small volume of antibody and the relatively larger residual fluid on the slide after washing may alter the Ab concentration uncontrollably. This will not happen with the mailers \\(see below)._"
+            }
+        ]
+    },
+    {
+        "title": "**Vertical 5-slide mailer Incubation**",
+        "body": [
+            "\\(for high efficiency) \\(Figure 3 and",
+            {
+                "title": "4)",
+                "body": "<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/7129/thumbnail/Fig4.png?1535411609\">See figure in Figures section.</a> \r\n\n\nFill a standard 5 slide vertical mailer \\( \"Kaltek\":https://www.kaltek.it/en/histology/slides/slide-mailers-2/, \"MLS\":https://www.mls.be/products/?lang=en&category=08&subcategory=8.1.1.9 or others) with 12 ml antibody solution. You are supposed to stain five slides simultaneously, so that the fluid can completely cover each section. This setup can be re-used for a total of approx. 10 rounds of staining \\(= 50 slides total)\\[3]; thus 12 µg of antibody is enough for one 50-slides experiment and 1 vertical mailer."
+            }
+        ]
+    },
+    {
+        "title": "**Procedure**",
+        "body": "- Incubate in primary Ab overnight at room T \\(manual) or at +4C \\(mailers).\r\n\n\n_NB: overnight incubation will increase the staining efficiency  \\[3]._\r\n\n\n- Wash 2x in 15 min. with"
+    },
+    {
+        "title": "**TBS-Ts**",
+        "body": "in a coplin jar\r\n\n\n- Incubate in secondary Ab 30 min. \r\n\n\n- Wash 2x in 15 min. with TBS-Ts in a coplin jar\r\n\n\n- Incubate in negative primary Ab → double indirect staining\r\n\n\n_NB: double indirect staining will double the fluorescence yield  \\[3]. In order to save primary antibodies, use isotype- and species- matched irrelevant negative purified Ig._\r\n\n\n- Wash 2x in 15 min. with TBS-Ts in a coplin jar\r\n\n\n- Incubate in secondary Ab 30 min.\r\n\n\n- Wash 2x in 15 min. with TBS-Ts in a coplin jar\r\n\n\n- Stain with DAPI \\(2-10 nM) in TBS-Ts  by immersing 1 min in a vertical mailer, then rinsing in TBS-Ts. If DAPI is in the mounting fluid, skip this step.\r\n\n\n- Mount slides with"
+    },
+    {
+        "title": "**mounting fluid**",
+        "body": [
+            "and 24x50 coverslips. Remove excess fluid from the edges, otherwise will interfere with the re-positioning of the slide on the stand.\r\n\n\n- Remove the disaccharide-containing fluid from the bottom of the slide with a distilled water-soaked pad, for smooth mechanical operations \\(may be performed just before step",
+            {
+                "title": "10).",
+                "body": "- Affix a label containing a 2D barcode for file name reading by the instrument and with other metadata \\(date, experiment #, etc.)\\[3]"
+            }
+        ]
+    },
+    {
+        "title": "**Step 5: STRIPPING**",
+        "body": "\\[3, 5]\r\n\n\n- Coverslip removal by soaking in coplin jar with washing buffer or distilled water \\(either one, OK). \r\n\n\nThis is one of the steps where scratching of the tissue sections may occur when re-positioning back the slide in the presence of a coverslip. Act in a continuous vertical motion, expose the whole slide, transfer to a new coplin jar with buffer if the coverslip detached, reposition if unmoved, slip gently the coverslip if partially displaced with a continuous motion.\r\n\n\n- Transfer to Tris buffer pH 7.5, in order to remove disaccharides.\r\n\n\n- Preheat vertical containers with"
+    },
+    {
+        "title": "**stripping buffer**",
+        "body": "to exactly 56°C in closed, shaking water-bath.\r\n\n\n_Cave: tight temperature range for effective stripping\\!_\r\n\n\n_Stripping buffers contains chemicals with offensive odor; work under hood\\!_\r\n\n\n- Strip for 30 min. at 56°C with shaking\r\n\n\n- Transfer to TBS-Ts\r\n\n\n- Wash at least for one hour with washing buffer with several washes in the first quarter of an hour."
+    },
+    {
+        "title": "**Step 6: STORAGE**",
+        "body": "Store at any step. If slides are not used for > 3 days store @ -20°C in"
+    },
+    {
+        "title": "**storage buffer**",
+        "body": "Prefer storage of unstripped slides after the last staining; stripping will get rid of autofluorescence or background formed during storage."
+    }
+]

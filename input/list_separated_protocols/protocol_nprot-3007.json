@@ -1,0 +1,135 @@
+[
+    "\nI In situ biosynthesized gold nanoclusters for self-imaging of cancer cells and in vivo self-bio-marking of tumors\r\n\n\n| Preparation of in situ biosynthesized gold nanoclusters ● TIMING 75 h\r\n\n\n1 | Culture HepG2 cells in 7 × 9 culture flasks in 15mL medium at 37 °C, 5% CO2. Prepare the cells of a whole culture flask to be tested.\r\n\n\n2 | Incubate HepG2 cells of a whole culture flask with 10 μmol/L HAuCl4 solution for 24 or 48 h at 37 °C, 5% CO2.\r\n\n\n3 | Trypsinize the incubated HepG2 cells and harvest the cells in eppendorf tubes.\r\n\n\n4 | Disperse the cells in PBS, centrifuge the mixture at 1000 rpm for 5 min and collect the cells.\r\n\n\n5 | Repeat this procedure three times.\r\n\n\n6 | Re-disperse the collected cells in 2 mL Milli-Q water and use the cells for extracting the gold nanoclusters.\r\n\n\n7 | Extract the gold nanoclusters from incubated HepG2 cells by a frequently repetitive freeze-thaw method from -20 °C to 37 °C for ~5 h.\r\n\n\n▲CRITICAL STEP Avoid any biochemical reagent to decompose the structure of gold nanoclusters during this procedure.\r\n\n\n? TROUBLESHOOTING\r\n\n\n8 | Centrifuge the mixture at 1500 rpm for 3 min. Discard the precipitated cell debris and collect the supernatant with gold nanoclusters.\r\n\n\nPAUSE POINT The above supernatant is stable at 4 ˚C up to about 2 weeks. \r\n\n\n| UV/Vis absorbance spectra measurement for gold nanoclusters ● TIMING 0.5 h\r\n\n\n9 | Dilute the above supernatant 5 times.\r\n\n\n10 | Add 2 mL of the above diluted mixture to a cuvette.\r\n\n\n11 | Place the cuvette at the sample cell position.\r\n\n\n12 | Record UV/Vis absorbance spectra \\(700-200 nm) for the obtained gold nanoclusters with scan speed 120 nm/min.\r\n\n\n| Fluorescence spectra measurement for gold nanoclusters ● TIMING 0.5 h\r\n\n\n13 | Dilute the above supernatant 5 times.\r\n\n\n14 | Add 2 mL of the above diluted mixture to a cuvette.\r\n\n\n15 | Place the cuvette at the sample cell position.\r\n\n\n16 |Record fluorescence spectra \\(500-700 nm) for the obtained gold nanoclusters with a scan speed of 60 nm/min at excitation wavelength 470 nm \\(Excitation Slit 3 nm; Emission Slit 3 nm).\r\n\n\n| Transmission electron microscope \\(TEM) of gold nanoclusters ● TIMING 16 h\r\n\n\n17 |Further sonicate the above supernatant for ~3 h.\r\n\n\n▲CRITICAL STEP Keep gold nanoclusters in good monodispersion.\r\n\n\n18 | Disperse 5 μL the above supernatant with decuple dilution on copper grids, and dry overnight.\r\n\n\n19 | Acquire the TEM image of gold nanoclusters.\r\n\n\n| X-ray photoelectron spectra ● TIMING 15 h\r\n\n\n20 | Freeze-dry the above supernatant overnight and collect the pale yellow powder.\r\n\n\nPAUSE POINT The above collected powder is stable at 4 ˚C up to about 2 months. \r\n\n\n21 | Record the X-ray photoelectron spectra of the gold nanoclusters from the mixture.\r\n\n\n22 | Set the typical operating pressure at around 5 × 10 -10 Torr in the analysis chamber. \r\n\n\n23 | Take survey spectra \\(0–1000 eV) at a constant analyzer pass energy of 160 eV.\r\n\n\n24 | Acquire all high-resolution spectra for Au4f, with a pass energy of 60 eV, a step of 0.1 eV and a dwell time of 1000 ms.\r\n\n\n25 | Fit the XPS peaks by using the publicly available software XPSPEAK v. 4.1. Use the Shirley function as a background and fit the individual peaks by a Gaussian-Lorentzian cross-product.\r\n\n\n| SEM images of the cells interspersed by in situ biosynthesized gold nanoclusters ● TIMING 80 h\r\n\n\n26 | Seed HepG2 cells on ITO glass substrate in a cell culture dish containing DMEM with 10% \\(vol/vol) FBS and 1% \\(vol/vol) penicillin-streptomycin, respectively. Incubate the cells at 37 °C in a humidified 5% CO2 atmosphere overnight.\r\n\n\n27 | Add 2 μL of HAuCl4 stock solution \\(10 mmol/L) to a final concentration of 10 μmol/L. Shake the dish gently to ensure good mixing.\r\n\n\n28 | Incubate the dish at 37 °C in a humidified 5% CO2 atmosphere for 24 or 48 h depending on the cell proliferation state.\r\n\n\n29 | Rinse the incubated cells three times with PBS.\r\n\n\n30 | Dehydrate through the following series of 15 min ethanol washes: 30%, 50%, 70%, 90%, 95% and 100%, respectively.\r\n\n\n▲CRITICAL STEP Make sure the cytoskeleton maintain good during the above gradient dehydration and fixation procedure.\r\n\n\n31 | Transfer to critical point drying apparatus containing ethanol as intermediate reagent. Use a suitable holding device.\r\n\n\n32 | Smaller-area contamination spots can be examined at electron accelerating voltages compatible with Energy Dispersive X-ray Spectroscopy.\r\n\n\n33 | Reduce penetration of low kinetic energy electrons probes closer to the immediate material surface.\r\n\n\n34 | Visualize by high-resolution FE-SEM at electron accelerating voltage 2.00 kV and with the work distance 4.4 mm from low kinetic energy electrons probes to the immediate material surface.\r\n\n\n35 | Record the energy dispersive X-ray spectroscopy of the gold nanoclusters interspersed on cytomembrane from a random region of 2 μm × 2 μm with electron accelerating voltage 2.00 kV.\r\n\n\n| Preparation of cell optical imaging ● TIMING 3 d\r\n\n\n36 | Seed HepG2, K562, or L02 cells on quartz substrate in a cell culture dish containing DMEM with 10% \\(vol/vol) FBS and 1% \\(vol/vol) penicillin-streptomycin, respectively. Incubate the cells at 37 °C in a humidified 5% CO2 atmosphere overnight.\r\n\n\n37 | Prepare the fluorescence or Raman imaging sample by following Steps 24-26 of the PROCEDURE.\r\n\n\nA | Cell fluorescence imaging ● TIMING ~1.5 h\r\n\n\ni | Place the prepared cell sample on CLSM objective stage.\r\n\n\n▲CRITICAL STEP Make sure the cells maintain normal physiological status during fluorescence signal record process.\r\n\n\n? TROUBLESHOOTING\r\n\n\nii | Record cell imaging for the incubated cells by a confocal laser scanning microscopy with a 488-nm excitation laser beam focused using a 20 × IR coated objective.\r\n\n\nB | Cell Raman spectroscopy ● TIMING ~1.0 h\r\n\n\ni | Gently remove PBS and transfer the prepared cell sample on Raman microscope objective stage.\r\n\n\n▲CRITICAL STEP Make sure the cells maintain good status during Raman signal record process.\r\n\n\nii | Record cell Raman spectroscopy by confocal Raman microscopy with an excitation wavelength at 532 nm, 50% laser intensity, and overlaying twice with 100 s integration time.\r\n\n\n| Preparation of injected mice for imaging ● TIMING 3 d\r\n\n\n38 | Inject HAuCl4 solution prepared in PBS \\(100 μL of 10 mmol/L for each mouse) into BALB/c mice bearing HepG2 or K562 tumors near the tumor location through the subcutaneous injection.\r\n\n\n39 | Normally maintain the injected mice in a specific pathogen free \\(SPF) house at 24 ± 2 °C with a standard 12-hour light/12-hour dark cycle for 24, 48 or 72 hours.\r\n\n\n| In vivo bio-imaging ● TIMING ~1.0 h\r\n\n\n40 | Anesthetize the experimental mouse with 5% isoflurane \\(21% oxygen, balance nitrogen) in an induction chamber until breathing is slow and deep, at different time points post injection \\(e.g. 24, 48, or 72 h). \r\n\n\n41 | Position the mouse on its back on a microscope stage for imaging, during the imaging procedures under isoflurane anesthesia.\r\n\n\n▲CRITICAL STEP Perform all imaging procedures under isoflurane anesthesia for experimental reproducibility and to minimize the torment of experimental anmimals.\r\n\n\n? TROUBLESHOOTING\r\n\n\n42 | Select the appropriate excitation wavelength \\(488 nm) and adjust the mouse’s posture as needed while monitoring the live image.\r\n\n\n43 | Record in vivo image of the mice under Maestro EX in vivo fluorescence imaging system \\(CRI, Inc.) at different time points post injection \\(e.g. 24, 48, or 72 h).\r\n\n\n44 | Euthanatize those mice after 1 week post injection.\r\n\n\n\\! CAUTION The animal bodies should be collected in a designated freezer for radioactive contaminated biohazardous waste.\r\n\n\nII Gold nanoclusters and graphene nanocomposites for cancer cell imaging\r\n\n\n| Preparation of gold nanoclusters ● TIMING 2d",
+    {
+        "title": "1.",
+        "body": "Dissolve 1.0 g HAuCl4•4H2O with Millipore water in a 100 mL volumetric flask to make 1% \\(w/v) HAuCl4•4H2O solution."
+    },
+    {
+        "title": "2.",
+        "body": "Load 169.2 g TOAB into 16mL chloroform in a 50 mL three-neck flask."
+    },
+    {
+        "title": "3.",
+        "body": "Add 6 mL 1% \\(w/v) HAuCl4•4H2O solution to the flask, and place the stoppers in all the necks."
+    },
+    {
+        "title": "4.",
+        "body": "Add a magnetic stir bar and mix the bi-phase solution vigorously at room temperature \\(23℃ to 25℃) until HAuCl4 is transferred into the organic phase. The aqueous phase should be transparent while the organic phase should have a color of bright amber."
+    },
+    {
+        "title": "5.",
+        "body": "Add 40.2 μL 1-DT into the flask, and stir for 10 minutes."
+    },
+    {
+        "title": "6.",
+        "body": "Prepare 1.55 mol/L NaBH4 solution\r\n  ▲CRITICAL STEP The NaBH4 solution should be freshly prepared."
+    },
+    {
+        "title": "7.",
+        "body": "Load 25 mL 1.55 mol/L NaBH4 solution drop wisely. With the addition of the reducing reagent, the color of organic phase should change from bright amber to deep purple within a few seconds."
+    },
+    {
+        "title": "8.",
+        "body": "The nucleation should be completed within 20 minutes. Keep stirring for 3 hours and stop."
+    },
+    {
+        "title": "9.",
+        "body": "Separate the organic phase \\(upper layer) with a separating funnel, and load it into a 50 mL flask."
+    },
+    {
+        "title": "10.",
+        "body": "Evaporate the separated organic solution with a rotary evaporator at 50℃ for 4 minutes."
+    },
+    {
+        "title": "11.",
+        "body": "Re-dissolve the product in 2 mL chloroform."
+    },
+    {
+        "title": "12.",
+        "body": "To remove the leftover organics, like TOAB and 1-DT, precipitate the product in 80 mL ethanol in -4℃ refrigerator overnight."
+    },
+    {
+        "title": "13.",
+        "body": "Get the dark brown precipitant by 15,000 rpm centrifugation at 4℃. Filter it out and wash it with ethanol for two to three times and re-dissolve it in 2mL chloroform. Repeat step"
+    },
+    {
+        "title": "11.",
+        "body": ""
+    },
+    {
+        "title": "14.",
+        "body": "The final solution should contain 1.46×10-4 mol gold nanocluster."
+    },
+    {
+        "title": "15.",
+        "body": "Mix 500 μL gold nanocluster solution \\(contains 3.64×10-5 mol Au) with 10mL CTAB solution \\(contains 6.86×10-2 g CTAB, according to molar ratio Au : CTAB = 1:5). Stir the mixture vigorously until not any phase boundary can be observed.\r\n  ▲CRITICAL STEP From this step on, the reactions need to be conducted in the dark as much as possible."
+    },
+    {
+        "title": "16.",
+        "body": "Leave the solution to stand in 55℃ water bath for 3 hours to evaporate the chloroform and get the aqueous solution of gold nanoclusters."
+    },
+    {
+        "title": "17.",
+        "body": "Make 3.64×10-2 mol/L aqueous solution of goldnanocluster. The color of the solution should be light brown.\r\n  PAUSE POINT The final aqueous gold nanocluster solution can be stored at 4℃ in dark. After lyophilization, the sample can be stored at 4℃ for months."
+    },
+    {
+        "title": "18.",
+        "body": "The diameter of such prepared nanoclusters is 2 - 3 nm. It does not exhibit the surface plasmon resonance characteristic peak at around 520 nm, but around 490 nm.\r\n  | Functionalization of gold nanocluster with RGO. ● TIMING 1 d"
+    },
+    {
+        "title": "19.",
+        "body": "Prepare pH 5.0 acetic acid/sodium acetate buffer. And make 4 mL 0.5 mg/mL chitosan solution with the buffer with 30 minutes sonication at room temperature."
+    },
+    {
+        "title": "20.",
+        "body": "Dissolve 0.8 mg RGO in 1.5 mL chitosan solution with about 1 hour sonication at room temperature until there is not any black precipitant."
+    },
+    {
+        "title": "21.",
+        "body": "Add the aqueous solution of RGO to the aqueous solution of GNCs \\(3.64×10-5 mol) in a 10:1 molar ratio of RGO/ GNCs and homogenized in an ultrasonic bath for 30 min."
+    },
+    {
+        "title": "22.",
+        "body": "Incubate the above reaction mixture in the dark for 1 hour to allow loading of the GNCs onto RGO."
+    },
+    {
+        "title": "23.",
+        "body": "The final mixture then needs to be separated by centrifugation at 15000 rpm for 10 minutes."
+    },
+    {
+        "title": "24.",
+        "body": "Remove the supernatant and wash the aggregates with Millipore water twice to remove the residual RGO."
+    },
+    {
+        "title": "25.",
+        "body": "The sample can be stored at 4℃ refrigerator after lyophilization.\r\n  | Drug loading on GNC-RGO nanocomposites. ● TIMING 1d"
+    },
+    {
+        "title": "26.",
+        "body": "Prepare 1μg/mL aqueous solution of GNC-RGO nanocomposites."
+    },
+    {
+        "title": "27.",
+        "body": "Incubate the nanocomposites with 0.22μg/mL Doxorubicin \\(DOX) solution for 1 hour at 37℃ in the water bath."
+    },
+    {
+        "title": "28.",
+        "body": "Drug-loaded GNC-RGO samples were separated through centrifugation at 10000 rpm for 15 min and carefully washed three times with ultrapure water.\r\n  PAUSE POINT The sample can be stored at 4℃ in dark after lyophilization.\r\n\n\n\\! CAUTION Do not freeze the aqueous solution of GNC-RGO nanocoposites or drug-loaded GNC-RGO nanocomposites.\r\n\n\n| Acquisition of confocal fluorescent images of cells treated with GNC, GNC-RGO nanocomposites ● TIMING 3 d"
+    },
+    {
+        "title": "29.",
+        "body": "Seed 500,000 HepG2 cells in 35 mm petri dish with glass bottom, overnight."
+    },
+    {
+        "title": "30.",
+        "body": "Load 0.25 μg/mL DOX or DOX-laoded GNC-RGO nanocoposites and incubate with cells for 24 h."
+    },
+    {
+        "title": "31.",
+        "body": "Wash the cells twice with PBS and load fresh medium."
+    },
+    {
+        "title": "32.",
+        "body": "Acquire images on confocal fluorescent microscope using a 490 nm excitation laser beam and 40 X objective lens."
+    }
+]

@@ -1,0 +1,75 @@
+[
+    "\nDay1:",
+    {
+        "title": "1)",
+        "body": "Plate cells at ~25% confluency in 24-wells plates, using standard growth medium.\r\n\n\n\r\n\n\nDay2:"
+    },
+    {
+        "title": "2)",
+        "body": "Check cells confluency \\(it shoud be ~50%) and replace the medium with 500μl of growth medium without antibiotics."
+    },
+    {
+        "title": "3)",
+        "body": "Mix 600 ng  of siRNA in 50ul of Opti-MEM \\(amounts and volumes used for a single well)"
+    },
+    {
+        "title": "4)",
+        "body": "Mix 1 ul of RNAiMAX in 50 μl of Opti-MEM"
+    },
+    {
+        "title": "5)",
+        "body": "Combine the 2 solutions, mix gently and incubate 10 minutes at room temperature"
+    },
+    {
+        "title": "6)",
+        "body": "Add the solution uniformly to the cells"
+    },
+    {
+        "title": "7)",
+        "body": "After 4-6 hours replace medium with standard growth medium"
+    },
+    {
+        "title": "8)",
+        "body": "Incubate cells for 48 hours under standard conditions.\r\n\n\n\r\n\n\nDay4:"
+    },
+    {
+        "title": "9)",
+        "body": "Replace the medium with 500ul of growth medium without antibiotics"
+    },
+    {
+        "title": "10)",
+        "body": "Mix 600ng  of miRNA, 80ng of reporter plasmid and 40ng of pCS2-lacZ plasmid in 50ul of Opti-MEM \\(amounts and volumes used for a single well; pCS2-lacZ is used as normalizer for luciferase assays)"
+    },
+    {
+        "title": "11)",
+        "body": "Mix 1ul of Lipofectamine2000 in 50μl of Opti-MEM"
+    },
+    {
+        "title": "12)",
+        "body": "Combine the 2 solutions, mix gently and incubate 10 minutes at room temperature"
+    },
+    {
+        "title": "13)",
+        "body": "After 4-6 hours replace medium with standard growth medium\r\n\n\n\r\n\n\nDay5:"
+    },
+    {
+        "title": "14)",
+        "body": "Replace the medium with 500μl of growth medium containing 0.1% serum and incubate for 8 hours"
+    },
+    {
+        "title": "15)",
+        "body": "Dilute the protein ligand in 0.1% serum medium and add the solution to the cells"
+    },
+    {
+        "title": "16)",
+        "body": "Incubate cells under standard conditions for 2-16 hours \\(according to the ligand activity)"
+    },
+    {
+        "title": "17)",
+        "body": "Replace medium with 200μl per well of luciferase lysis buffer"
+    },
+    {
+        "title": "18)",
+        "body": "Perform a standar luciferase assay"
+    }
+]

@@ -1,0 +1,179 @@
+[
+    {
+        "title": "**A) CVS Treatment:**",
+        "body": "CVS are treated with nitric acid o/n, briefly washed with H<sub>2</sub>O \\(5x + 4x 30 min) and spread separately on Whatmann paper to dry. Dry CVS are baked in the oven \\(165 <sup>o</sup>C; o/n)"
+    },
+    {
+        "title": "**B) Coating:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place CVS into 24-well plates \\(sterile)"
+            },
+            {
+                "title": "2.",
+                "body": "Coat CVS with 400μl/well poly-D-lysine in Borate-Buffer \\(1mg/ml; sterile filtered) for > 5 hrs into the incubator."
+            },
+            {
+                "title": "3.",
+                "body": "wash CVS 3x with H<sub>2</sub>O and let them dry in the hood"
+            },
+            {
+                "title": "4.",
+                "body": "coat with 5μg/ml laminin in PBS for > 2 hrs into the incubator \\(400μl/well)"
+            },
+            {
+                "title": "5.",
+                "body": "wash 3x with PBS, replace it with NB medium \\(400μl/well) and put it into the incubator"
+            }
+        ]
+    },
+    {
+        "title": "**C) Isolation of Hippocampal Neurons \\(adapted from Jenny Lauterbach - ref 1):**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "put 4ml of SM and 4ml of NB medium each in a dish to pre-warm it in the incubator"
+            },
+            {
+                "title": "2.",
+                "body": "pre-warm trypsin at 37 <sup>o</sup>C in the water bath"
+            },
+            {
+                "title": "3.",
+                "body": "take E18-19 embryos from rat, cut off the heads and collect them in a dish with chilled dissection medium \\(DM)"
+            },
+            {
+                "title": "4.",
+                "body": "carefully open the skull, remove the brains and transfer them into a new dish with chilled DM"
+            },
+            {
+                "title": "5.",
+                "body": "separate the 2 cortices from the rest of the brain, remove their meninges and cut out each hippocampus; collect hippocampi in a 15ml tube filled with 10ml DM on ice"
+            },
+            {
+                "title": "6.",
+                "body": "remove DM, replace it with 1-2ml warmed trypsin and incubate 20 min at 37 <sup>o</sup>C in the water bath"
+            },
+            {
+                "title": "7.",
+                "body": "flame Pasteur pipette to decrease the diameter of the tip, take off the trypsin and wash hippocampi 2x with 1ml warm SM"
+            },
+            {
+                "title": "8.",
+                "body": "add 1.5ml SM and homogenize tissue with the fire-polished Pasteur pipette  by pipetting up and down 20-30x"
+            },
+            {
+                "title": "9.",
+                "body": "centrifuge 5 min at 80g \\(650rpm)"
+            },
+            {
+                "title": "10.",
+                "body": "remove supernatant, resuspend neurons in 1-3ml pre-warmed NB medium using the fire-polished Pasteur pipette"
+            },
+            {
+                "title": "11.",
+                "body": "count cells, and plate them at designated cell density \\(e.g. high density 25,000 cells/cm<sup>2</sup> ) on prepared CVS"
+            }
+        ]
+    },
+    {
+        "title": "**D) Calcium Phosphate Transfection \\(general protocol)**",
+        "body": [
+            "Mix for 4 wells \\(24-well plate): \r\n\n\n900μl fresh NB medium \r\n\n\n100μl Transfection Mix containing: \\(37.5 μl H<sub>2</sub>O – DNA \\(4-7μg) + 12.5 μl 1M CaCl<sub>2</sub> + 50 μl BBS)",
+            {
+                "title": "1.",
+                "body": "mix H<sub>2</sub>O with CaCl<sub>2</sub>"
+            },
+            {
+                "title": "2.",
+                "body": "add DNA, mix by slowly pipetting"
+            },
+            {
+                "title": "3.",
+                "body": "add BBS to DNA-H<sub>2</sub>O-CaCl<sub>2</sub>-mix"
+            },
+            {
+                "title": "4.",
+                "body": "mix with 900 μl warm NB medium by vortexing"
+            },
+            {
+                "title": "5.",
+                "body": "take away the old medium from the cells and quickly apply 250μl of the transfection-medium mix to each of the 4 wells."
+            },
+            {
+                "title": "6.",
+                "body": "incubate for 1.5-2.5 hrs"
+            },
+            {
+                "title": "7.",
+                "body": "warm up HBSS for washing"
+            },
+            {
+                "title": "8.",
+                "body": "wash cells with pre-warmed HBSS until most of the precipitate is removed"
+            },
+            {
+                "title": "9.",
+                "body": "add 300 μl of NB medium per well to the cells"
+            },
+            {
+                "title": "10.",
+                "body": "stimulate 2 days later"
+            }
+        ]
+    },
+    {
+        "title": "**E) Stimulation/Fixation:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "cluster EphB- Fc, ephrinb-Fc or Fc one hour prior stimulation at RT: Mix EphB/ephrin 4 μg/ml + 1/20 anti-hFc \\(0.2 μg/ml) \r\n  e.g.: 300μl medium/well: take 6 μl EphB2/ephrinB2 + 0.325 μl anti-hFc \\(1/10)"
+            },
+            {
+                "title": "2.",
+                "body": "stimulate the cells with clustered EphB2, ephrinB2 or Fc by adding the appropriate amount \\(4μg/ml) into the wells for 8 hrs in the incubator"
+            },
+            {
+                "title": "3.",
+                "body": "put cells on ice to stop reaction"
+            },
+            {
+                "title": "4.",
+                "body": "remove the medium and fix the cells by adding 200 μl/well 4% PFA \\(4% sucrose) for 12 min on ice"
+            },
+            {
+                "title": "5.",
+                "body": "wash 2x with cold PBS"
+            },
+            {
+                "title": "6.",
+                "body": "remove PBS and add 200μl/well cold NH4Cl for 10 min on ice"
+            },
+            {
+                "title": "7.",
+                "body": "wash 2x with cold PBS"
+            },
+            {
+                "title": "8.",
+                "body": "wash 1x with RT PBS for 5 min"
+            },
+            {
+                "title": "9.",
+                "body": "wash with H<sub>2</sub>O"
+            },
+            {
+                "title": "10.",
+                "body": "drop of H<sub>2</sub>O and mount CVS using Gel/Mount anti-fading medium \\(Biomeda) onto a glass slide"
+            },
+            {
+                "title": "11.",
+                "body": "Take pictures using an epifluorescence microscope"
+            },
+            {
+                "title": "12.",
+                "body": "Analyze changes in spine length and spine head size using MetaMorph software"
+            }
+        ]
+    }
+]

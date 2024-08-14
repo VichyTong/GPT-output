@@ -1,0 +1,205 @@
+[
+    {
+        "title": "**Forced Swim Test \\(FST) in mice**",
+        "body": [
+            ":\r\n\n\n\r\n\n\nDay 1:",
+            {
+                "title": "1.",
+                "body": "Fill 19 cm diameter glass cylinder to 10 cm with 23-25 ºC water."
+            },
+            {
+                "title": "2.",
+                "body": "Orient camera for horizontal viewing."
+            },
+            {
+                "title": "3.",
+                "body": "Turn numbers on beaker to opposite side."
+            },
+            {
+                "title": "4.",
+                "body": "Place a sheet of cardboard in between the two beakers so mice cannot see each other."
+            },
+            {
+                "title": "5.",
+                "body": "Display coded animal identification numbers on videotape so tapes can be scored blindly."
+            },
+            {
+                "title": "6.",
+                "body": "Place mice in the beakers of water for 15 minutes."
+            },
+            {
+                "title": "7.",
+                "body": "Dry mouse in a drying cage with paper towels and heat lamps.\r\n  \r\n\n\nDay 2:"
+            },
+            {
+                "title": "1.",
+                "body": "Use the same conditions as above."
+            },
+            {
+                "title": "2.",
+                "body": "Perform drug infusions in the morning."
+            },
+            {
+                "title": "3.",
+                "body": "Four hours following injections mice place in the swimming chambers for 15 minutes and the behavior is videotaped"
+            },
+            {
+                "title": "4.",
+                "body": "The recorded behavior is scored by an observer."
+            },
+            {
+                "title": "5.",
+                "body": "Immobility is defined as the absence of all movement except motions required to keep the animals head above the water."
+            },
+            {
+                "title": "6.",
+                "body": "For non-infused animals \\(e.g. WT vs. HET), conduct a single forced swim test session."
+            },
+            {
+                "title": "7.",
+                "body": "For cannulated mice, administer a second unilateral infusion one week following the forced swim test and quantify locomotor activity 4 hours later. Locomotor activity is monitored in standard mouse cages using a video tracking system \\(EthoVision pro, Noldus Inc., Leesburg, VA). Ethovision software is used to calculate the distance traveled by each animal over a 10 minute test period."
+            }
+        ]
+    },
+    {
+        "title": "**FST in rats**",
+        "body": [
+            ":\r\n\n\n\r\n\n\nDay 1:",
+            {
+                "title": "1.",
+                "body": "Set camera to same horizontal level as tanks."
+            },
+            {
+                "title": "2.",
+                "body": "Place a sheet of poster board in between the two tanks so rats cannot see each other."
+            },
+            {
+                "title": "3.",
+                "body": "Display coded animal identification numbers on videotape so tapes can be scored blindly."
+            },
+            {
+                "title": "4.",
+                "body": "Place animals in a plexiglass tank \\(30 cm diameter) filled with water \\(23-25 ºC) to a height of 50-60 cm for 15 minutes.\r\n  \r\n\n\nDay 2:"
+            },
+            {
+                "title": "1.",
+                "body": "Repeat day 1 set up."
+            },
+            {
+                "title": "2.",
+                "body": "Perform infusions in the morning."
+            },
+            {
+                "title": "3.",
+                "body": "Four hours following drug or vehicle infusions, assess locomotor activity by measuring the total number of beam breaks in a 20 minute session \\(cage size: 24cm X 45cm) \\(Micropro version 1.30; AccuScan Instruments; Columbus, OH)."
+            },
+            {
+                "title": "4.",
+                "body": "Following locomotor activity assessment, perform the day 2 forced swim test where rats are placed in a water tank and videotaped for 10 minutes."
+            },
+            {
+                "title": "5.",
+                "body": "Score animals for immobility, swimming, and climbing by using a sampling technique to rate the predominant behavior over a 5 second interval \\(therefore 120 total counts over 10 minutes) <sup>1</sup>."
+            },
+            {
+                "title": "6.",
+                "body": "Immobility is defined as absence of all movement except motions required to keep the head above the water. Climbing is defined as thrashing movements along the sides of the water tank while swimming behavior consists of horizontal motion moving from one quadrant of the water tank to another."
+            }
+        ]
+    },
+    {
+        "title": "**Tail Suspension Test in mice**",
+        "body": [
+            ":",
+            {
+                "title": "1.",
+                "body": "Perform drug infusions in the morning."
+            },
+            {
+                "title": "2.",
+                "body": "4 hours post-infusion administer 6 min tail suspension test."
+            },
+            {
+                "title": "3.",
+                "body": "Tape the tip of each tail using black electrical tape to a piece to Tygon tubing and suspend animal above the floor \\(60 cm)."
+            },
+            {
+                "title": "4.",
+                "body": "Videotape behavior."
+            },
+            {
+                "title": "5.",
+                "body": "Score the duration of immobility \\(defined as the absence of all movement except for those required for respiration) in 1 minute bins for 6 min."
+            }
+        ]
+    },
+    {
+        "title": "**Elevated Plus Maze \\(EPM) &amp; Open Field Test in Mice \\(OFT)**",
+        "body": ":"
+    },
+    {
+        "title": "**EPM**",
+        "body": [
+            ": \r\n\n\n\r\n\n\nThis apparatus consists of four branching arms \\(30 cm x 5 cm) where two of the arms are open and the other two arms are enclosed by dark walls \\(16 cm high).  The arms are connected by a center platform \\(5 cm x 5 cm) and the maze is 36.5 cm off the ground.",
+            {
+                "title": "1.",
+                "body": "Set lighting conditions for 40 lux \\(low lighting conditions)."
+            },
+            {
+                "title": "2.",
+                "body": "Testing occurred during light phase following drug infusions."
+            },
+            {
+                "title": "3.",
+                "body": "Animal placed in center platform of EPM."
+            },
+            {
+                "title": "4.",
+                "body": "Behavior videotaped for 5 minutes."
+            },
+            {
+                "title": "5.",
+                "body": "Score entries into dark arms, entries into light arms, time in light arms."
+            }
+        ]
+    },
+    {
+        "title": "**OFT**",
+        "body": [
+            ":",
+            {
+                "title": "1.",
+                "body": "Perform OFT 2 days following EPM."
+            },
+            {
+                "title": "2.",
+                "body": "Administer mouse infusions prior to placing them into the center of a Plexiglas box \\(50 cm x 50 cm x 40.5 cm) in a brightly lit room."
+            },
+            {
+                "title": "3.",
+                "body": "Record the distance moved and time spent  in the entire open field or in a 25cm X 25cm center area using the EthoVision pro video tracking system and software \\(Noldus Inc,. Leesburg, VA)."
+            }
+        ]
+    },
+    {
+        "title": "**Novelty Induced Hypophagia**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Allow 3 days for habituation by exposing mice to sweetened milk \\(Carnation sweetened condensed milk, 1:3 in water) in their home cage \\(~1-2 hr sessions)."
+            },
+            {
+                "title": "2.",
+                "body": "On the forth day, score latency to drink from the sweetened milk bottles in their home cage \\(dim lighting)."
+            },
+            {
+                "title": "3.",
+                "body": "On the fifth day perform drug infusions followed by measuring latencies to drink the sweetened milk in a novel cage \\(bright lighting)."
+            },
+            {
+                "title": "4.",
+                "body": "Compare drinking latencies between home cage and novel cage."
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    "\nI. Total PL assay",
+    {
+        "title": "1.",
+        "body": "Check the automatic pipette before sample pipetting. Add 100 µL lymph/bile/serum with automatic pipette into a 16x100 mm PTFE capped test tube, wash the pipette tip with 100 µL D.I. water, and add 4 mL of CM mixture with 5 mL dispenser."
+    },
+    {
+        "title": "2.",
+        "body": "Vortex the tube vigorously. Wait at least 1 h for proteins in the sample to denature. There will be white stuff emerging gradually."
+    },
+    {
+        "title": "3.",
+        "body": "Add 800 µL D.I. water into the tube. Shake the tube upside down 3 times. Wait until there are two clear layers. Siphon off the upper layer with the negative water pressure instrument."
+    },
+    {
+        "title": "4.",
+        "body": "Evaporate the tube under a gentle stream of N2 at 40 C."
+    },
+    {
+        "title": "5.",
+        "body": "Add 400 µL chloroform to the tube. Cap tightly. Vortex the tube with Vortex-Genie gently 3 times at #3."
+    },
+    {
+        "title": "6.",
+        "body": "Add 100 µL chromagenic solution and shake the tube 3 times with fingers."
+    },
+    {
+        "title": "7.",
+        "body": "Cap the tube tightly. Otherwise the chloroform will evaporate and the absorbance will be very high. Boil the tube in the boiling water bath for 1 min 10 sec. Wait 5 min for the tube to cool down to room temperature."
+    },
+    {
+        "title": "8.",
+        "body": "Add 4 mL of chloroform gently into the tube and shake the tube 3 times with fingers. \\(Crucial point\\!\\!\\!)"
+    },
+    {
+        "title": "9.",
+        "body": "Allow the tube to stand for 30 min at room temperature."
+    },
+    {
+        "title": "10.",
+        "body": "Take the lower solution quickly with a pasteur pipette."
+    },
+    {
+        "title": "11.",
+        "body": "Determine the absorbance at 710 nm. Use chloroform as the blank.\r\n  \r\n\n\n\r\n\n\nII. PL subclasses assay"
+    },
+    {
+        "title": "1.",
+        "body": "Prepare a set of 16x100 mm tubes."
+    },
+    {
+        "title": "2.",
+        "body": "Use 100 µL autopipette to add 100 µL of lymph/bile/serum. Wash the pipette tip with 100 µL of fresh D.I. water."
+    },
+    {
+        "title": "3.",
+        "body": "Add 5 mL of CM \\(2:1) mixture to the tube. Vortex vigorously."
+    },
+    {
+        "title": "4.",
+        "body": "Use multiple automatic pipette to add 25 µL of concentrated HCl to lower PH.\r\n  Lower PH to separate phospholipids from proteins and deactive proteins. Optimum amount of concentrated HCl needs to be determined in the future studies."
+    },
+    {
+        "title": "5.",
+        "body": "After overnight deproteinization, cotton-like residue will appear."
+    },
+    {
+        "title": "6.",
+        "body": "Add 1 mL of fresh D.I. water \\(20%). Shake gently upside down. \r\n  Don’t vortex vigorously to break the protein residue to make sure easy separation of the residue."
+    },
+    {
+        "title": "7.",
+        "body": "Wait until two clear layers appear."
+    },
+    {
+        "title": "8.",
+        "body": "Siphon off the upper water layer."
+    },
+    {
+        "title": "9.",
+        "body": "Wait 30 min to let the leftover clear, then some white residue will appear on the surface, siphon off the residue again."
+    },
+    {
+        "title": "10.",
+        "body": "Evaporate the lower CM mixture layer.\r\n  Check the temperature of the evaporator before using."
+    },
+    {
+        "title": "11.",
+        "body": "After drying, add 500 µL of inject solvent to dissolve the lipids.\r\n  Methanol causes a negative peak close to PE peak. Acetonitrile causes a negative peak close to chloroform peak.\r\n\n\nToo much chloroform is detrimental to the column and cause big solvent peaks. Small amount of chloroform is needed to dissolve the PI and PS.\r\n\n\nTo the best knowledge of this lab, acetonitrile \\(10):chloroform \\(1) \\(v/v) is considered the most suitable inject solvent."
+    },
+    {
+        "title": "12.",
+        "body": "Pour the final mixture into the autosampler vials for HPLC running.\r\n  \r\n\n\nThe following document  contains information on:\r\n\n\n- Setting up external standard curves \\(ESTD)\r\n\n\n- Method parameters\r\n\n\n- Composition of the mobile phase\r\n\n\n\r\n\n\n<a href=\"http://bit.ly/qnj7sE\">HPLC methods</a>"
+    }
+]

@@ -1,0 +1,231 @@
+[
+    "\nI. Embryo incubation and fixation \r\n\n\nZebrafish breeding and maintenance were carried out under standard conditions \\(Westerfield, 2000), larvae were raised in petri dishes in methylene blue egg-water.\r\n\n\nAll subsequent incubations may be performed in 1.5 ml micro-centrifuge tubes.",
+    {
+        "title": "1.",
+        "body": "To prevent pigmentation, incubate living embryos older than one day in egg-water containing 0.2 mM PTU until they reach the desired stage."
+    },
+    {
+        "title": "2.",
+        "body": "Fix larvae at the desired stage in 4% PFA in PBS overnight at 4°C."
+    },
+    {
+        "title": "3.",
+        "body": "Wash larvae 5 times 5 min in PBST."
+    },
+    {
+        "title": "4.",
+        "body": "Dehydrate larvae stepwise with increasing concentrations of methanol \\(5 min washing steps each of 25%, 50%, 75% MeOH in PBST and 100% MeOH)."
+    },
+    {
+        "title": "5.",
+        "body": "Dehydrated larvae can be stored in MeOH at -20°C until they are used for staining.\r\n  \r\n\n\nII. Staining procedures\r\n\n\nLarvae can be stained by immunohistochemistry \\(A) or in situ hybridization \\(B) and counterstained with a nuclear stain. All incubations may be performed in 1.5 ml microcentrifuge tubes.\r\n\n\n \r\n\n\nA. Fluorescent immunohistochemistry \\(IHC)\r\n\n\nIHC was carried out as reported \\(Holzschuh et al., 2003)."
+    },
+    {
+        "title": "1.",
+        "body": "Rehydrate larvae with stepwise decreasing concentrations of methanol \\(5 min washing steps each 75%, 50%, and 25% MeOH in PBST)."
+    },
+    {
+        "title": "2.",
+        "body": "Wash larvae 3 times 5 min in PBST."
+    },
+    {
+        "title": "3.",
+        "body": "\\(non-obligatory step: for embryos and larvae older than two days, some immunostains are improved by limited proteinase K digestion. Please determine optimal incubation times for each antigen. Suggested: digest larvae for 30 min \\(48 hpf larvae), 45 min \\(72 hpf larvae) or 60 min \\(96 hpf larvae) with proteinase K solution. Wash once with PBST; fix larvae again 20 min with 4% PFA \\(\"post-fix\"). Wash larvae 5 times 5 min with PBST.)"
+    },
+    {
+        "title": "4.",
+        "body": "Block larvae one hour in blocking solution."
+    },
+    {
+        "title": "5.",
+        "body": "Incubate with primary antibody diluted in blocking solution overnight at 4°C."
+    },
+    {
+        "title": "6.",
+        "body": "The following day, wash larvae several times for 30 min in PBTD."
+    },
+    {
+        "title": "7.",
+        "body": "Incubate larvae overnight with the appropriate secondary antibody \\(diluted 1:1000 in PBTD + 1% Blocking Reagent; incubate in the dark)."
+    },
+    {
+        "title": "8.",
+        "body": "On the third day, wash larvae 4 times 15 min in PBTD."
+    },
+    {
+        "title": "9.",
+        "body": "Wash larvae 4 times 15 min in PBST.\r\n  \r\n\n\nB. Fluorescent in situ hybridization \\(FISH) \r\n\n\nFISH was performed as described in \\(Filippi, 2007)."
+    },
+    {
+        "title": "1.",
+        "body": "Rehydrate larvae with stepwise decreasing concentrations of methanol \\(5 min washing steps each 75%, 50%, and 25% MeOH in PBST)."
+    },
+    {
+        "title": "2.",
+        "body": "Wash larvae 3 times 5 min in PBST."
+    },
+    {
+        "title": "3.",
+        "body": "Bleach larvae 20 min with 1% H<sub>2</sub>O<sub>2</sub> in PBST."
+    },
+    {
+        "title": "4.",
+        "body": "Wash larvae 2x 5 min with PBST."
+    },
+    {
+        "title": "5.",
+        "body": "Digest larvae for 30 min \\(48 hpf larvae), 45 min \\(72 hpf larvae) or 60 min \\(96 hpf larvae) with proteinase K solution."
+    },
+    {
+        "title": "6.",
+        "body": "Wash once with PBST."
+    },
+    {
+        "title": "7.",
+        "body": "Fix larvae again 20 min with 4% PFA \\(\"post-fix\")."
+    },
+    {
+        "title": "8.",
+        "body": "Wash larvae 5 times 5 min with PBST."
+    },
+    {
+        "title": "9.",
+        "body": "Pre-hybridize larvae for at least 2 hours in hybridization mix at 65°C."
+    },
+    {
+        "title": "10.",
+        "body": "Hybridize larvae overnight in hybridization mix containing the specific digoxigenin-labeled RNA antisense probe at 65°C."
+    },
+    {
+        "title": "11.",
+        "body": "The following day the, wash larvae several times at 65°C: 1x 20 min in hybridization mix; 2x 20 min in 50% formamide in 2x SSCT;  1x 20 min in 25% formamide in 2x SSCT; 2x 20 min in 2x SSCT; 3x 30 min in 0.2x SSCT"
+    },
+    {
+        "title": "12.",
+        "body": "Wash larvae 5 min in TNT buffer at room temperature."
+    },
+    {
+        "title": "13.",
+        "body": "Block larvae in TNTB for at least 1 hour."
+    },
+    {
+        "title": "14.",
+        "body": "Incubate larvae overnight with a peroxidase-conjugated anti-digoxigenin antibody at 4°C."
+    },
+    {
+        "title": "15.",
+        "body": "On the third day, wash 5x 15 min with TNT."
+    },
+    {
+        "title": "16.",
+        "body": "Stain larvae according to the TSA kit instructions \\(Invitrogen). The staining was carried out in the dark for 1 hour."
+    },
+    {
+        "title": "17.",
+        "body": "Wash larvae 3x 5 min in TNT.\r\n  \r\n\n\nIII. Nuclear staining\r\n\n\nIn order to visualize the morphological structures of the larvae, cell nuclei were stained either with TOTO-3 iodide or with SYTOX Green."
+    },
+    {
+        "title": "1.",
+        "body": "Incubate stained \\(IHC / FISH) larvae overnight at room temperature in TOTO-3 iodide or SYTOX Green working solution."
+    },
+    {
+        "title": "2.",
+        "body": "Wash larvae 3x 5 min in PBST."
+    },
+    {
+        "title": "3.",
+        "body": [
+            "Transfer larvae to 80% glycerol in PBS and image as soon as possible.\r\n  \r\n\n\nIV. Mounting\r\n\n\nBefore mounting, larvae should have spent at least six hours in 80% glycerol in PBS, in order to be completely equilibrated. Melt mounting media in water bath and maintain liquid in 40 degree Celsius heating block or water bath.\r\n\n\nLarvae are mounted in a sandwich of one large cover slip \\(24 x 60 mm; used as \"slide\") and a small coverslip \\(18 x 18 mm), with medium sized coverslips \\(22 x 22 mm) used as spacers. The sandwich is prepared by gluing with cyanoacrylate glue two stacks of small cover slips on one large cover slip at about 8 - 10 mm distance between the two stacks \\(Fig.",
+            {
+                "title": "1).",
+                "body": "In general, three spacer cover slips \\(total thickness of 3 x 160 micrometer) are sufficient for two to four day old larvae. The spacers should generate a space thicker than the larvae to be mounted in order to avoid squeezing of the fixed tissue, which can cause deformations or damaged / torn tissue."
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": "Put a single larva in an hourglass with some 80% glycerol in PBS."
+    },
+    {
+        "title": "2.",
+        "body": "With two hollow needles, remove the yolk and cut off the tail \\(helps to keep the larva in place when mounted)."
+    },
+    {
+        "title": "3.",
+        "body": "Transfer larva with the tip of a hollow needle to a cover slip \\(24 x 60 mm) prepared with cover-slip spacer stacks."
+    },
+    {
+        "title": "4.",
+        "body": "Fill the area between the spacers with liquid warm mounting medium."
+    },
+    {
+        "title": "5.",
+        "body": "With the help of the hollow needles, orient the larva into the right position."
+    },
+    {
+        "title": "6.",
+        "body": "Place a small cover slip \\(18 x 18 mm) on the spacers and confirm that the embryo is not shifted using a dissecting microscope. The agarose solidifies."
+    },
+    {
+        "title": "7.",
+        "body": "Fix the chamber by applying spots of nail polish \\(Fig. 1)."
+    },
+    {
+        "title": "8.",
+        "body": "Incubate mounted larva overnight in the dark in a humid chamber at room temperature to let it equilibrate \\(This is very important and can significantly improve the quality of the TOTO-3 nuclear stain as it might also equilibrate the nuclear staining.)\r\n  \r\n\n\nV. Microscope setup and confocal imaging"
+    },
+    {
+        "title": "1.",
+        "body": "For imaging place the cover slip sandwich with the mounted larva into the custom made aluminum frame \\(Fig. 2)."
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Fix the cover slip sandwich in the aluminum frame with modeling clay \\(Fig.",
+            {
+                "title": "2).",
+                "body": "\\(This set up allows easy handling of the sample when it comes to turning around the cover slip to record a stack from the opposing side, here the ventral side)."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": "Mount the aluminum frame on the microscope stage."
+    },
+    {
+        "title": "4.",
+        "body": "Perform recording of stacks in the first scan position \\(dorsal anterior part of the head); for high dynamic range imaging, record two stacks at different laser intensities; optimize laser for first stack such that all signal is in linear range, and for second stack such that signal deep in the brain is best. The depth in z-direction should be sufficient to cover most of the ventral brain."
+    },
+    {
+        "title": "5.",
+        "body": "Perform recording of stacks in the second scan position \\(dorsal posterior part of the head). The imaged volume has to overlap with the first position by about 20% to enable correct stitching. Same z-stack depth and laser settings as for first position."
+    },
+    {
+        "title": "6.",
+        "body": "Manually turn the sample coverslip sandwich fixed in the aluminum fame upside-down to record the ventral side."
+    },
+    {
+        "title": "7.",
+        "body": "Perform recording of stacks in the third scan position \\(ventral anterior part of the head), same laser settings as for first position."
+    },
+    {
+        "title": "8.",
+        "body": "Perform recording of stacks in the fourth scan position \\(ventral rostral part of the head), same laser settings as for first position.\r\n  \r\n\n\nHigh dynamic range is obtained by recording each staining, the specific stain as well as the nuclear stain, with two intensities for every side \\(dorsal and ventral) and part \\(frontal and rostral) scanned, ending up with four channels per scan. The two intensities are individually adjusted once per larva with the first scan and kept equal for all the following scans. The low intensity is recorded first to minimize bleaching and is set in a way that no overexposure occurred, whereas the high intensity is set in a way that structures deep in the brain are fairly visible independent of how strongly the surface structures are overexposed. \r\n\n\n\r\n\n\nMicroscope settings\r\n\n\nMicroscope:  Zeiss LSM510-i-NLO laser scanning confocal microscope\r\n\n\nObjective: LD LCI Plan-Apo 25x/0,8 Imm Korr multi immersion objective\r\n\n\nStack size: 512x512 pixels; 1 cubic micrometer voxel\r\n\n\nZoom factor: 0.7\r\n\n\nImmersion medium setting of objective: glycerol\r\n\n\nImmersion medium: glycerol\r\n\n\nScan mode: 12bits, multi track\r\n\n\nLasers, filters, excitation and emission wavelengths: See Figure 3\r\n\n\n\r\n\n\nVI. Multiview resonstruction, stitching, and attenuation correction\r\n\n\nThe recorded stacks are further processed using the ViBE-Z software package through a web interface \\(http://vibez.informatik.uni-freiburg.de/)."
+    },
+    {
+        "title": "1.",
+        "body": "Recorded stacks are imported into ImageJ \\(http://rsbweb.nih.gov/ij/index.html) using the import plugin appropriate for the confocal microscope brand type software."
+    },
+    {
+        "title": "2.",
+        "body": "Install the HDF5 data format plugin in ImageJ \\(http://lmb.informatik.uni-freiburg.de/resources/opensource/imagej_plugins/hdf5.html)."
+    },
+    {
+        "title": "3.",
+        "body": "Save stacks in HDF5 format."
+    },
+    {
+        "title": "4.",
+        "body": "Create account at \"http://vibez.informatik.uni-freiburg.de/\". Upload files and follow instructions for processing at this site."
+    }
+]

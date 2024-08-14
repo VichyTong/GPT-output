@@ -1,0 +1,172 @@
+[
+    {
+        "title": "**Seeding ARPE-19 cells \\(day 1)**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Grow ARPE19 cells in a tissue culture flask until they reach 80% confluence."
+            },
+            {
+                "title": "2)",
+                "body": "Wash the cells with 10 ml D-PBS \\(without Ca<sup>2+</sup> and Mg<sup>2+</sup>)."
+            },
+            {
+                "title": "3)",
+                "body": "Add 3 ml trypsin 0.25% \\(1X) with EDTA solution to the flask, mix briefly and immediately discard most of the trypsin \\(just leave one drop in the bottle)."
+            },
+            {
+                "title": "4)",
+                "body": "Incubate the cells for 4 minutes in a tissue culture incubator at 37°C, with humidified, 7% CO<sub>2</sub> atmosphere."
+            },
+            {
+                "title": "5)",
+                "body": "Re-suspend the cells in 9 ml DMEM/F12 medium without serum.\r\n\n\nCRITICAL STEP Make sure by microscopic observation that the cells have detached from the bottom of the flask."
+            },
+            {
+                "title": "6)",
+                "body": "Stain dead cells with Erythrosin B 0.1% solution and count the living cells in a Bürker cell counting chamber."
+            },
+            {
+                "title": "7)",
+                "body": "Dilute the cells with DMEM/F12 medium without serum at the desired final concentration of 20,000 cells/well."
+            },
+            {
+                "title": "8)",
+                "body": "Seed 50 μl cell suspension with a multichannel pipette into a black 96-well cell culture plate, cover the plate with the lid.\r\n\n\nCRITICAL STEP ARPE19 cell density at seeding affects remarkably the transfection efficiency and cytotoxicity."
+            },
+            {
+                "title": "9)",
+                "body": "Incubate the cells for 20 minutes in a tissue culture incubator at 37°C, with humidified, 7% CO<sub>2</sub> atmosphere"
+            },
+            {
+                "title": "10)",
+                "body": "Add 50 μl DMEM/F12 culture medium containing 20% FBS with a multichannel pipette."
+            },
+            {
+                "title": "11)",
+                "body": "Incubate the cells overnight in a tissue culture incubator at 37°C, with humidified, 7% CO<sub>2</sub> atmosphere."
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of PEI/DNA \\(charge ratio 2/1) nanoparticulates \\(day 2)**",
+        "body": [
+            "General indications for the preparation of polycation/DNA nanoparticulates at charge ratios 4/1, 2/1 and 1/1 can be found in Table",
+            {
+                "title": "1.",
+                "body": "The following procedure is for PEI/DNA charge ratio 2/1.\r\n\n\n12)"
+            }
+        ]
+    },
+    {
+        "title": "**_Renilla_ Luciferase plasmid \\(RL plasmid)**",
+        "body": ". In a 5 ml tube dilute 12 μl RL plasmid \\(1 mg/ml) with 488 μl Mes-Hepes buffered saline. Incubate at room temperature for 5 min.\r\n\n\n13)"
+    },
+    {
+        "title": "**Polycation**",
+        "body": [
+            ". Meanwhile in a 1.5 ml micro tube dilute 25 μl PEI \\(2.95 mM) with 475 μl Mes-Hepes buffered saline. Vortex briefly.",
+            {
+                "title": "14)",
+                "body": "Add all the PEI solution to the DNA dilution, mix rapidly twice with the pipette and immediately vortex at 3000 rpm for 2 s.\r\n\n\nCRITICAL STEP It is important to follow the preparation procedure as indicated. The appearance of the nanoparticle solution must be clear, no precipitation should occur."
+            },
+            {
+                "title": "15)",
+                "body": "Incubate the complexes in the safety cabinet for 2 h.\r\n\n\nCRITICAL STEP If the incubation time is shortened, incomplete nanoparticulate formation may occur."
+            },
+            {
+                "title": "16)",
+                "body": "Confirm the formation of nanoparticulates by dynamic light scattering. The size should be ~ 300 nm."
+            }
+        ]
+    },
+    {
+        "title": "**Transfection of ARPE-19 cells with PEI/DNA nanoparticulates**",
+        "body": [
+            {
+                "title": "17)",
+                "body": "After 2 h incubation time distribute 60 μl complexes into a clear 96-well plate \\(4 wells for each charge ratio).\r\n\n\nCRITICAL STEP This clear plate will have exactly the same filling matrix as intended for transfection. In this way by convenient transfer of the nanoparticulate solutions, cells can be transfected simultaneously."
+            },
+            {
+                "title": "18)",
+                "body": "Wash the overnight cultured ARPE-19 cells with 150 μl D-PBS \\(with Ca<sup>2+</sup> and Mg<sup>2+</sup>) per well."
+            },
+            {
+                "title": "19)",
+                "body": "Add 100 μl DMEM/F12 medium without serum per well with a multichannel pipette."
+            },
+            {
+                "title": "20)",
+                "body": [
+                    "Transfer 50 μl nanoparticulates from the clear 96-well plate to the cells with a multichannel pipette. Remember to leave 4 control wells for each of the following: Mes-Hepes buffered saline, free plasmid DNA \\(600 ng/well) and free cationic polymer \\(767 ng/well, in the case of PEI at charge ratio",
+                    {
+                        "title": "2).",
+                        "body": "CRITICAL STEP The cells should be transfected simultaneously in order to obtain consistent results."
+                    }
+                ]
+            },
+            {
+                "title": "21)",
+                "body": "Stir the plate gently."
+            },
+            {
+                "title": "22)",
+                "body": "Incubate for 1 or 2 h in a tissue culture incubator at 37°C, with humidified, 7% CO<sub>2</sub> atmosphere, depending on the desired outcome \\(higher transfection versus toxicity).\r\n\n\nCRITICAL STEP Incubation time of the nanoparticulates with ARPE-19 cells is of crucial importance, in order to get high gene expression levels and minimal cytotoxicity."
+            },
+            {
+                "title": "23)",
+                "body": "Wash ARPE-19 cells with 150 μl D-PBS \\(with Ca<sup>2+</sup> and Mg<sup>2+</sup>) per well."
+            },
+            {
+                "title": "24)",
+                "body": "Add 100 μl DMEM/F12 medium with 10% serum per well."
+            },
+            {
+                "title": "25)",
+                "body": "Incubate overnight in a tissue culture incubator at 37°C, with humidified, 7% CO<sub>2</sub> atmosphere."
+            }
+        ]
+    },
+    {
+        "title": "**Measurement of _Renilla_ Luciferase activity and cell viability 24 h, 48 h and 72 h after transfection \\(days 3, 4 and 5)**",
+        "body": [
+            {
+                "title": "26)",
+                "body": "Dilute coelenterazine 1 mM solution in D-PBS \\(with Ca<sup>2+</sup> and Mg<sup>2+</sup>) to achieve a 1.5 μM concentration \\(i.e. for a total volume of 40 ml, take 60 μl coelenterazine 1 mM).\r\n\n\nCRITICAL STEP The coelenterazine dilution needs to be prepared just before the measurement. We suggest to aliquot the coelenterazine 1 mM solution and store it at -20°C until use.\r\n\n\n27)"
+            }
+        ]
+    },
+    {
+        "title": "**_Renilla_ Luciferase activity.**",
+        "body": "With a luminometer/fluorometer 96-well plate reader, inject directly 50 μl coelenterazine 1.5 μM solution into the transfected wells. Measure the luminescence for 10 s with a delay of 2 s between injection and measurement.\r\n\n\n28)"
+    },
+    {
+        "title": "**Cell viability.**",
+        "body": [
+            {
+                "title": "i)",
+                "body": "Add 15 μl Uptiblue \\(10% of culture volume) per well with a multichannel pipette.\r\n\n\nii) Incubate for 2 h in a tissue culture incubator at 37°C, with humidified, 7% CO<sub>2</sub> atmosphere.\r\n\n\niii) Measure fluorescence ex.540/em.590 nm for 0.1 s."
+            },
+            {
+                "title": "29)",
+                "body": "Wash ARPE-19 cells with 150 μl D-PBS \\(with Ca<sup>2+</sup> and Mg<sup>2+</sup>) per well."
+            },
+            {
+                "title": "30)",
+                "body": "Add 100 μl DMEM/F12 medium with 10% serum per well."
+            },
+            {
+                "title": "31)",
+                "body": "Incubate overnight in a tissue culture incubator at 37°C, with humidified, 7% CO<sub>2</sub> atmosphere."
+            },
+            {
+                "title": "32)",
+                "body": "Repeat the measurements on days 4 and 5."
+            },
+            {
+                "title": "33)",
+                "body": "Calculate the normalized _Renilla_ Luciferase activity in ng/ml and the cell viability in % relative to buffer treated wells.\r\n\n\nTROUBLESHOOTING"
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    "\nAll details on the usage of the software are available at: \"http://leandro.iqm.unicamp.br/topolink\":http://leandro.iqm.unicamp.br/topolink\r\n\n\n\r\n\n\nThe TopoLink package must be run with: \r\n\n\ntopolink inputfile.inp > topolink.log \r\n\n\nwhere inputfile.inp is the parameter input file and topolink.log is the output log file of the run.\r\n\n\n\r\n\n\n",
+    {
+        "title": "**The basic TopoLink input file contains**",
+        "body": [
+            ":",
+            {
+                "title": "1.",
+                "body": "The name of the PDB file of the model to be evaluated."
+            },
+            {
+                "title": "2.",
+                "body": "The type of links to be computed."
+            },
+            {
+                "title": "3.",
+                "body": "The specification of the linker used and experimental observations. \r\n  \r\n\n\n1."
+            }
+        ]
+    },
+    {
+        "title": "**Name of model file and output of linkers computed**",
+        "body": ". \r\n  \r\n\n\nThe name of the input file is provided with: \r\n\n\npdbfile model.pdb\r\n\n\nand this definition can be overwritten by providing the name of the file in the command line, to facilitate the execution of TopoLink for multiple models with the same input file, as described above. \r\n\n\n\r\n\n\nTopoLink can output coordinates for the topological paths obtained, by using \r\n\n\nprintlinks yes\r\n\n\nlinkdir ./links\r\n\n\nwhere ./links is the directory where the PDB files of the links will be written \\(the directory must exist). Note that there can be many links, so multiple files will be created. The files created are simple PDB files which can be open in any structure visualization software together with the model PDB file to visualize the topological distance. For the execution of TopoLink in multiple models, it is recommended not to write link files, using printlinks no. \r\n\n\n\r\n\n\n2."
+    },
+    {
+        "title": "**Types of links to be computed**",
+        "body": "The next important parameter of the TopoLink input file is the definition of which links are to be searched and computed. There are three options: \r\n\n\ncompute observed\r\n\n\ncompute all\r\n\n\ncompute reactive\r\n\n\nWhen using compute observed, only the links that were observed experimentally \\(see below) will be computed. \r\n\n\n\r\n\n\nIf compute all is used instead, all possible crosslinks will be computed. That means that, given the definition of the linker used, TopoLink will search for consistent topological distances for every pair of residues that could, by the chemical nature of the linker and the residues involved, be attached by the linker. \r\n\n\n\r\n\n\nFinally, compute reactive tells TopoLink to consider that only residues that were experimentally observed to react \\(by participating in observed crosslinks or dead-ends) are reactive. Then, TopoLink will search for topological distances consistent with the linker used only between these pairs of \"observed-reactive\" residues. \r\n\n\n\r\n\n\nAdditionally, the user may optionally choose to compute only the crosslinks between different chains of the PDB file, for instance to compute inter-proteins crosslinks in a complex. To do so, just add the \r\n\n\ninterchain\r\n\n\noption to the input file. All intra-protein links will be skiped. \r\n\n\n\r\n\n\n3."
+    },
+    {
+        "title": "**Specification of linker types and experimental observations**",
+        "body": "The linker types and observations are specified in the TopoLink input file using an experiment-based structure, as described in \"http://leandro.iqm.unicamp.br/topolink/usage.shtml\":http://leandro.iqm.unicamp.br/topolink/usage.shtml \r\n\n\nLink types, reactive residues, and experimental observations \\(either crosslinks or deadends) are provided\r\n\n\nby the user with appropriate keywords."
+    }
+]

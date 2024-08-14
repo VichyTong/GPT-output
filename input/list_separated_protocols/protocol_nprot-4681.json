@@ -1,0 +1,31 @@
+[
+    {
+        "title": "**MD for proteomics**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Take some proteins \\(for example, lysozyme, proteinase K and thaumatin) crystallized by different methods;"
+            },
+            {
+                "title": "2.",
+                "body": "Put all proteins inside the box;"
+            },
+            {
+                "title": "3.",
+                "body": "Solvate all proteins;"
+            },
+            {
+                "title": "4.",
+                "body": "Perform minimization;"
+            },
+            {
+                "title": "5.",
+                "body": "Perform equilibration of the system running it for 10 ns at different temperatures \\(for example, 300 and 500 K), in order to understand the stability of proteins \\(it is expected that under higher temperature protein can have much more conformations then at low temperatures, so we can study better for short time the potential energy surface of the protein);"
+            },
+            {
+                "title": "6.",
+                "body": "characterize the protein status for example, investigating its radius of gyration, which is indicative of the level of compaction in the structure, i.e. how folded or unfolded the polypeptide chain is, or the root mean square deviation \\(RMSD); for comparison purpose, normalize it \\(for example, using a scaling law of Rg ∝ N2/5 \\[32] for the radius of gyration or computing the normalized root-mean-square deviation or error, NRMSD or NRMSE)."
+            }
+        ]
+    }
+]

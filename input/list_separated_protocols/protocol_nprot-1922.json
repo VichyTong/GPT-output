@@ -1,0 +1,116 @@
+[
+    {
+        "title": "**A. Prepare media and reagents**",
+        "body": "_1. 1x Tryptic Soy Broth \\(TSB):_\r\n\n\nDissolve 15 g of TSB powder in 500 ml ddH<sub>2</sub>O, autoclave\r\n\n\n\r\n\n\n_2. Phosphate buffer 100 mM, pH 7.4_\r\n\n\n       - Prepare 200 mM monobasic phosphate buffer \\(NaH<sub>2</sub>PO<sub>4</sub> ∙ H<sub>2</sub>O) \\(MW = 137.99):\r\n\n\n  dissolve 13.8 g of NaH<sub>2</sub>PO<sub>4</sub> in 500 ml ddH<sub>2</sub>O\r\n\n\n       - Prepare 200 mM dibasic phosphate buffer \\(Na<sub>2</sub>HPO<sub>4</sub> ∙ 2 H<sub>2</sub>O) \\(MW = 177.99):\r\n\n\n  dissolve 17.8 g of Na<sub>2</sub>HPO<sub>4</sub> in 500 ml ddH<sub>2</sub>O\r\n\n\n       - Mix 47,5 ml of monobasic NaP with 202,5 ml dibasic NaP, add 250 ml H<sub>2</sub>O, autoclave\r\n\n\n\r\n\n\n_3. Phosphate buffer 10 mM, pH 7.4_\r\n\n\nDilute 100 mM Phosphatpuffers 1:10 with H<sub>2</sub>O, final volume of 100 ml, autoclave\r\n\n\n\r\n\n\n_4. Underlay “low nutrition” gel \\(5 gels)_\r\n\n\n - add 0.5 g EEO-agarose into 100 ml bottle\r\n\n\n - add 0.5 ml 1x TSB \r\n\n\n        - add 5 ml of Phosphate buffer 100 mM, pH 7.4\r\n\n\n        - add ddH<sub>2</sub>O to a final volume of 50 ml \\(Note: If melting of the gel in the microwave causes significant loss of liquid it is possible to add more ddH<sub>2</sub>O in order to keep a remainder of 50 ml after microwaving.)\r\n\n\n        - adjust pH to 7.4 with diluted HCl \\(1:100 or 1:10) \\(Note: depending on the number of gels you prepare only few drops might be required.)\r\n\n\n- autoclave in 100 ml bottle for 20 min at 121°C, store for short term at room temperature\r\n\n\n\r\n\n\n_5. Overlay „high nutrition“ gel \\(5 gels)_\r\n\n\n - add 0.5 g EEO-agarose into 100 ml bottle\r\n\n\n - add 3 g TSB powder\r\n\n\n        - add 5 ml of Phosphate buffer 100 mM, pH 7.4\r\n\n\n        - add ddH<sub>2</sub>O to a final volume of 50 ml \\(Note: If melting of the gel in the microwave causes significant loss of liquid it is possible to add more ddH<sub>2</sub>O in order to keep a remainder of 50 ml after microwaving.)\r\n\n\n        - autoclave in 100 ml bottle for 20 min at 121°C, store for short term at room temperature"
+    },
+    {
+        "title": "**B. Bacterial Preparation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare anaerobic bacteria from kryo-culture"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate on Columbia Blood-Agar plates in an anaerobic jar for about 48 hours"
+            },
+            {
+                "title": "3.",
+                "body": "Transfer bacteria into 50 ml falcon containing 10 ml 1x TSB"
+            },
+            {
+                "title": "4.",
+                "body": "Place Falcon without lid into anaerobic jar, incubate for about 16 hours at 37°C without shaking. \\(Note: Since different bacterial strains behave differently optimal culture conditions should be optimized. Some bacteria might require shorter incubation times while others might require more time to produce optimal numbers of cells required for the assay.)"
+            }
+        ]
+    },
+    {
+        "title": "**C. Modified Radial Diffusion Assay**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pre-chill centrifuge at 4°C"
+            },
+            {
+                "title": "2.",
+                "body": "Place sterile phosphate buffer 10 mM, pH 7.4 on ice"
+            },
+            {
+                "title": "3.",
+                "body": "Melt Underlay gel in microwave \\(Note: Mix gently to produce homogenous preparation.)"
+            },
+            {
+                "title": "4.",
+                "body": "Transfer to 50 ml Falcons with 10-ml aliquots each; maintain gel liquid by placing in 46°C water bath"
+            },
+            {
+                "title": "5.",
+                "body": "5 – 20 µl DTT can now be added into liquid gel from the 1 M stock solution. \\(Note: It is important to use freshly prepared DTT since repeated freezing and thawing impairs its function. Furthermore, some bacterial strains tolerate higher amounts of DTT while others do not. We obtained best results between concentrations of 0.5 and 2 mM \\(final) whereas 10 mM were mostly lethal. Depending on bacteria used different amounts of DTT might lead to best results."
+            },
+            {
+                "title": "6.",
+                "body": "10 – 20 µl resazurine can be added into liquid gel \\(final concentration 1 – 2 µg/ ml). \\(Note: The addition of this redox-indicator is a good opportunity to control reducing conditions in the underlay-gel. A “classical gel” should stain light blue while a reduced gel should look pink.)"
+            },
+            {
+                "title": "7.",
+                "body": "Centrifuge bacterial overnight-culture in Falcons for 10 minutes at 4°C and 900 x g"
+            },
+            {
+                "title": "8.",
+                "body": "Wash bacterial sediment in 10 ml ice-cold sterile phosphate buffer 10 mM, pH 7.4"
+            },
+            {
+                "title": "9.",
+                "body": "Centrifuge bacterial culture for 10 minutes at 4°C and 900 x g"
+            },
+            {
+                "title": "10.",
+                "body": "Resuspend sediment in 5 ml ice-cold sterile phosphate buffer 10 mM, pH 7.4"
+            },
+            {
+                "title": "11.",
+                "body": "Determine Optical Density at 620 nm against a buffer control \\(10 mM phosphate buffer)"
+            },
+            {
+                "title": "12.",
+                "body": "Adjust to OD<sub>620nm</sub> = 0.1 and use 150 – 300 µl for assay \\(Note: The optimal volume of bacterial culture should be determined after the first experiments depending on the bacterial lawn obtained after the over-night incubation of the assay plates. In our hands it was optimal to use 150 µl for Bifidobacteria and 300 µl for Lactobacilli. For fast-growing bacteria like E. coli the user should refer to the classical protocol of Lehrer et al. \\(1))"
+            },
+            {
+                "title": "13.",
+                "body": "Add bacterial suspension into 10 ml of warm, prepared underlay gel, mix gently. \\(Note: It is important that the gel is not too hot, which would have an effect on or kill bacterial cells, and not too cold since the gel would solidify. A temperature range between 42°C and 46°C should be fine for mixing with bacterial cells.)"
+            },
+            {
+                "title": "14.",
+                "body": "Quickly pour the gel containing bacteria into square-petri-dishes, placed on an even surface, and let it solidify for about 30 minutes at room temperature. \\(Note: By letting a small opening between plate and its lid moisture level may be reduced, which improves punching of the wells later on. For strict anaerobic bacteria solidification time should be minimized)."
+            },
+            {
+                "title": "15.",
+                "body": "Punch 6 x 6 wells into the gel and discard gel pieces with a sterile pipette tip or Pasteur-pipette connected to a vacuum pump"
+            },
+            {
+                "title": "16.",
+                "body": "Fill up to 5 µl of proteins, dissolved in H<sub>2</sub>O or 0.01% acetic acid, into the wells. Include negative control \\(H<sub>2</sub>O or 0.01% acetic acid) and positive control \\(for example lysozyme, depending on bacteria tested)"
+            },
+            {
+                "title": "17.",
+                "body": "Let protein solutions diffuse into the gel \\(short storage at 37°C or room temperature) and place plates into anaerobic jar for 3 hours."
+            },
+            {
+                "title": "18.",
+                "body": "Melt overlay gel in microwave, transfer to 50 ml falcons, 10 ml each, maintain at 46°C"
+            },
+            {
+                "title": "19.",
+                "body": "Add DTT and resazurine, according to corresponding underlay gel"
+            },
+            {
+                "title": "20.",
+                "body": "Pour 10 ml of nutrient-rich overlay gel onto each underlay gel and let solidify"
+            },
+            {
+                "title": "21.",
+                "body": "Place plate upside-down in anaerobic incubator until bacterial lawn is clearly visible \\(16 to 48 hours)"
+            }
+        ]
+    }
+]

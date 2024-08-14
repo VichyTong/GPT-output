@@ -1,0 +1,53 @@
+[
+    {
+        "sentence": "Mix 50\u00b5l water with 50\u00b5l QuickExtract.",
+        "result": {
+            "MIX": {
+                "reagent1": "water",
+                "reagent2": "QuickExtract",
+                "volume1": "50\u00b5l",
+                "volume2": "50\u00b5l"
+            }
+        }
+    },
+    {
+        "sentence": "Add to tick homogenate and mix well.",
+        "result": {
+            "ADD": {
+                "reagent1": "tick homogenate",
+                "reagent2": "water",
+                "volume1": "None",
+                "volume2": "50\u00b5l",
+                "notice": "mix well"
+            }
+        }
+    },
+    {
+        "sentence": "Incubate at 65\u00b0C for 6 minutes",
+        "result": {
+            "INCUBATE": {
+                "temperature": "65\u00b0C",
+                "time": "6 minutes"
+            }
+        }
+    },
+    {
+        "sentence": "Incubate 95\u00b0C for 2 minutes.",
+        "result": {
+            "INCUBATE": {
+                "temperature": "95\u00b0C",
+                "time": "2 minutes"
+            }
+        }
+    },
+    {
+        "sentence": "Cool to room temperature.",
+        "result": {
+            "COOL": {
+                "temperature": "room temperature",
+                "time": "None",
+                "notice": "None"
+            }
+        }
+    }
+]

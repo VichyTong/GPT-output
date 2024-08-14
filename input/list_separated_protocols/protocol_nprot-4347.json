@@ -1,0 +1,1682 @@
+[
+    {
+        "title": "**PROCEDURE**",
+        "body": "∆"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": "Many of the steps are prefaced by the term “optional”. This means that technically future steps are not dependent on these having been performed. However, they can provide additional information, or they can alter the outcome of the analysis. \r\n\n\n\r\n\n\n_\\[_"
+    },
+    {
+        "title": "**_Steps_**",
+        "body": []
+    },
+    {
+        "title": "**_from_**",
+        "body": []
+    },
+    {
+        "title": "**_1_**",
+        "body": []
+    },
+    {
+        "title": "**_to_**",
+        "body": []
+    },
+    {
+        "title": "**_13_**",
+        "body": []
+    },
+    {
+        "title": "**_are_**",
+        "body": []
+    },
+    {
+        "title": "**_necessary_**",
+        "body": []
+    },
+    {
+        "title": "**_to_**",
+        "body": []
+    },
+    {
+        "title": "**_import_**",
+        "body": []
+    },
+    {
+        "title": "**_data_**",
+        "body": []
+    },
+    {
+        "title": "**_into_**",
+        "body": []
+    },
+    {
+        "title": "**_MATLAB_**",
+        "body": []
+    },
+    {
+        "title": "**_environment_**",
+        "body": "."
+    },
+    {
+        "title": "**_For_**",
+        "body": []
+    },
+    {
+        "title": "**_data_**",
+        "body": []
+    },
+    {
+        "title": "**_already_**",
+        "body": []
+    },
+    {
+        "title": "**_in_**",
+        "body": []
+    },
+    {
+        "title": "**_MATLAB_**",
+        "body": []
+    },
+    {
+        "title": "**_format_**",
+        "body": []
+    },
+    {
+        "title": "**_including_**",
+        "body": "\"Supplementary Data\":http://cidtransfer.cid.csic.es/descarga.php?enlace1=d5e1de55b1d9b83b1668fc81e151e2ea"
+    },
+    {
+        "title": "**_move_**",
+        "body": []
+    },
+    {
+        "title": "**_directly_**",
+        "body": []
+    },
+    {
+        "title": "**_to_**",
+        "body": []
+    },
+    {
+        "title": "**_Step_**",
+        "body": []
+    },
+    {
+        "title": "**_14_**",
+        "body": "_]_\r\n\n\n\r\n\n\n=="
+    },
+    {
+        "title": "**== **",
+        "body": "Data"
+    },
+    {
+        "title": "** **",
+        "body": "conversion"
+    },
+    {
+        "title": "** **",
+        "body": "steps* \r\n\n\nThe following data conversion procedures are described for the distinct LC-MS vendors. In all cases, an external software called _ProteoWizard_ can be used for data conversion \\("
+    },
+    {
+        "title": "**option A**",
+        "body": "). On the other hand, specific vendor softwares can also be used with the same purpose. In this protocol we show two examples of data conversion using the specific vendor softwares of _Waters_ and _Thermo_ _Fisher_ Corporations \\("
+    },
+    {
+        "title": "**options**",
+        "body": []
+    },
+    {
+        "title": "**B**",
+        "body": "and"
+    },
+    {
+        "title": "**C**",
+        "body": ").\r\n\n\n\r\n\n\n\\("
+    },
+    {
+        "title": "**A**",
+        "body": ")"
+    },
+    {
+        "title": "**Waters**",
+        "body": []
+    },
+    {
+        "title": "**/**",
+        "body": []
+    },
+    {
+        "title": "**Thermo**",
+        "body": []
+    },
+    {
+        "title": "**Fisher**",
+        "body": []
+    },
+    {
+        "title": "**/**",
+        "body": []
+    },
+    {
+        "title": "**Agilent**",
+        "body": []
+    },
+    {
+        "title": "**/**",
+        "body": []
+    },
+    {
+        "title": "**AB**",
+        "body": []
+    },
+    {
+        "title": "**Sciex**",
+        "body": []
+    },
+    {
+        "title": "**/**",
+        "body": []
+    },
+    {
+        "title": "**Bruker**",
+        "body": []
+    },
+    {
+        "title": "**vendors**",
+        "body": []
+    },
+    {
+        "title": "**\\(**",
+        "body": []
+    },
+    {
+        "title": "**using**",
+        "body": []
+    },
+    {
+        "title": "**ProteoWizard**",
+        "body": []
+    },
+    {
+        "title": "**software**",
+        "body": []
+    },
+    {
+        "title": "**)**",
+        "body": []
+    },
+    {
+        "title": "**1|**",
+        "body": "Install _Proteowizard_ software as described in the web \\("
+    },
+    {
+        "title": "**proteowizard.sourceforge.net**",
+        "body": ")."
+    },
+    {
+        "title": "**2|**",
+        "body": "Go to MSConvert options, as shown in"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**1**",
+        "body": "."
+    },
+    {
+        "title": "**3|**",
+        "body": "Click ´Browse´ and select the source folder of the raw data files \\(.d) to convert. Multiple files can be selected at once, to be converted in batch mode."
+    },
+    {
+        "title": "**4|**",
+        "body": "Click the button ´Add´."
+    },
+    {
+        "title": "**5|**",
+        "body": "Select the output directory."
+    },
+    {
+        "title": "**6|**",
+        "body": "Select the output format \\(_mzXML_ or _txt_)."
+    },
+    {
+        "title": "**7|**",
+        "body": "Click ´Start´ to begin file conversion. \r\n\n\n \r\n\n\n\\("
+    },
+    {
+        "title": "**B**",
+        "body": ")"
+    },
+    {
+        "title": "**Waters**",
+        "body": []
+    },
+    {
+        "title": "**Corporation**",
+        "body": []
+    },
+    {
+        "title": "**\\(**",
+        "body": []
+    },
+    {
+        "title": "**using**",
+        "body": []
+    },
+    {
+        "title": "**MassLynx**",
+        "body": []
+    },
+    {
+        "title": "**software**",
+        "body": []
+    },
+    {
+        "title": "**)**",
+        "body": []
+    },
+    {
+        "title": "**1|**",
+        "body": "Open the _Databridge_ interface of the _MassLynx_ file converter as shown in"
+    },
+    {
+        "title": "**Figure 2**",
+        "body": "."
+    },
+    {
+        "title": "**2|**",
+        "body": "Click ´Select´ and browse the raw data files \\(.raw) to convert by searching on the directory where it is stored."
+    },
+    {
+        "title": "**3|**",
+        "body": "Click ´Options´ and specify the source of the raw files \\(_MassLynx_) and the target output format which must be _netCDF_ for _cdf_ files or _ASCII_ for _txt_ files."
+    },
+    {
+        "title": "**4|**",
+        "body": "Indicate the output directory where the new file will be stored and indicate the filename. Although the filename is already prefilled with the same name of the raw data file, it can be changed."
+    },
+    {
+        "title": "**5|**",
+        "body": "Click ´Convert´ to begin file conversion. A new box will appear indicating the % of completeness of the data conversion process."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": "\\("
+    },
+    {
+        "title": "**C**",
+        "body": ")"
+    },
+    {
+        "title": "**Thermo**",
+        "body": []
+    },
+    {
+        "title": "**Fisher**",
+        "body": []
+    },
+    {
+        "title": "**vendor**",
+        "body": []
+    },
+    {
+        "title": "**\\(**",
+        "body": []
+    },
+    {
+        "title": "**using**",
+        "body": []
+    },
+    {
+        "title": "**Xcalibur**",
+        "body": []
+    },
+    {
+        "title": "**software**",
+        "body": []
+    },
+    {
+        "title": "**)**",
+        "body": []
+    },
+    {
+        "title": "**1|**",
+        "body": "Go to ´Tools > File Converter´as shown in"
+    },
+    {
+        "title": "**Figure 3**",
+        "body": "."
+    },
+    {
+        "title": "**2|**",
+        "body": "Specify the source data type."
+    },
+    {
+        "title": "**3|**",
+        "body": "Click ´Browse´ and select the source folder of the raw data files \\(.raw) to convert."
+    },
+    {
+        "title": "**4|**",
+        "body": "Select the desired files to convert. Multiple files can be selected at once, and all files are selected automatically by clicking on the button ‘Select All’."
+    },
+    {
+        "title": "**5|**",
+        "body": "Click the button ´Add Job\\(s)´."
+    },
+    {
+        "title": "**6|**",
+        "body": "Select the destination path and data type, _ANDI_ _Files_ for _cdf_ format or _Text_ _Files_ for the _txt_ format."
+    },
+    {
+        "title": "**7|**",
+        "body": "Click ´Convert´ to begin file conversion.\r\n\n\n\r\n\n\n=="
+    },
+    {
+        "title": "**== **",
+        "body": "Starting"
+    },
+    {
+        "title": "** **",
+        "body": "and"
+    },
+    {
+        "title": "** **",
+        "body": "Data"
+    },
+    {
+        "title": "** **",
+        "body": "import"
+    },
+    {
+        "title": "** **",
+        "body": "steps"
+    },
+    {
+        "title": "** **",
+        "body": "using"
+    },
+    {
+        "title": "** **",
+        "body": "Bioinformatics"
+    },
+    {
+        "title": "** **",
+        "body": "Toolbox*<sup>TM</sup>"
+    },
+    {
+        "title": "**8|**",
+        "body": "Start MATLAB."
+    },
+    {
+        "title": "**9|**",
+        "body": "Navigate to the folder containing converted data files in _cdf_ or _mzXML_ formats, using the ´Current Folder´ panel in MATLAB."
+    },
+    {
+        "title": "**10|**",
+        "body": "Run the function _InfoStruct_= _mzcdfinfo_ \\(_File_) or _InfoStruct_= _mzxmlinfo_ \\(_File_) in the ‘Command Window’ panel in MATLAB. _InfoStruct_ variable will appear in the workspace.\r\n\n\n_mzcdfinfo_ and _mzxmlinfo_ functions extract the information of the _netCDF_ or _mzXML_ files, respectively, returning a MATLAB structure, named _InfoStruct_."
+    },
+    {
+        "title": "**11|**",
+        "body": "\\(Optional) Before going forward with the remaining procedure, have a look at the _InfoStruct_ variable generated.\r\n\n\n_InfoStruct_ variable contains the following fields: Filename \\(name of the file), FileTimeStamp \\(date time stamp of the file), FileSize \\(size of the file in bytes), NumberOfScans \\(number of scans in the file), StartTime \\(run start time), EndTime \\(run end time), TimeUnits \\(units for time), GlobalMassMin \\(minimum m/z value in all scans), GlobalMassMax \\(maximum m/z value in all scans), GlobalIntensityMin \\(minimum intensity value in all scans), GlobalIntensityMax \\(maximum intensity value in all scans) and ExperimentType \\(indicates if data is raw or centroided)."
+    },
+    {
+        "title": "**12|**",
+        "body": "Run the function _mzCDFStruct_= _mzcdfread_ \\(_File_) or _mzXMLStruct_= _mzxmlread_ \\(_File_) in the ´Command Window´ panel in MATLAB. _mzCDFStruct_ or _mzXMLStruct_ variables will appear in the workspace.\r\n\n\n_mzcdfread_ and _mzxmlread_ functions read MS data from the _netCDF_ or _mzXML_ files and give as an output argument a MATLAB structure \\(_i.e._, _mzCDFStruct_ or _mzXMLStruct_) containing information of the LC-MS data."
+    },
+    {
+        "title": "**13|**",
+        "body": "Run the function \\[_Peaks_, _Time_]= mzcdf2peaks \\(_mzCDFStruct_) or \\[_Peaks_, _Time_]= mzxml2peaks \\(_mzXMLStruct_) in the ‘Command Window’ panel in MATLAB. A cell array named _peaks_ and a vector named _time_ will appear in MATLAB workspace.\r\n\n\nThese functions extract peak information from the MATLAB structures _mzCDFStruct_ or _mzXMLStruct_ created by _mzcdfread_ or _mzxmlread_ functions, respectively. The cell array named _peaks_ contains mass/charge \\(m/z) and ion intensity values at each of the scans and the vector _time_ gives information of the retention times associated with the LC-MS data set. \r\n\n\n∆"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": []
+    },
+    {
+        "title": "**STEP**",
+        "body": "LC-MS data must be in _netCDF_ or _mzXML_ formats for their import. No other formats are accepted. Other file types need to be re-formatted \\(go back to"
+    },
+    {
+        "title": "**Step**",
+        "body": []
+    },
+    {
+        "title": "**1**",
+        "body": ") to match the input file requirements of Bioinformatics Toolbox<sup>TM</sup> data import tools.\r\n\n\n\r\n\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \r\n\n\n_\\[_ _The_"
+    },
+    {
+        "title": "**_following_**",
+        "body": []
+    },
+    {
+        "title": "**_steps_**",
+        "body": []
+    },
+    {
+        "title": "**_can_**",
+        "body": []
+    },
+    {
+        "title": "**_be_**",
+        "body": []
+    },
+    {
+        "title": "**_directly_**",
+        "body": []
+    },
+    {
+        "title": "**_applied_**",
+        "body": []
+    },
+    {
+        "title": "**_to_**",
+        "body": []
+    },
+    {
+        "title": "**_the_**",
+        "body": "\"Supplementary Data\":http://cidtransfer.cid.csic.es/descarga.php?enlace1=d5e1de55b1d9b83b1668fc81e151e2ea"
+    },
+    {
+        "title": "**_provided_**",
+        "body": []
+    },
+    {
+        "title": "**_with_**",
+        "body": []
+    },
+    {
+        "title": "**_the_**",
+        "body": []
+    },
+    {
+        "title": "**_present_**",
+        "body": []
+    },
+    {
+        "title": "**_study_**",
+        "body": "."
+    },
+    {
+        "title": "**_If_**",
+        "body": []
+    },
+    {
+        "title": "**_used_**",
+        "body": []
+    },
+    {
+        "title": "**_with_**",
+        "body": []
+    },
+    {
+        "title": "**_new_**",
+        "body": []
+    },
+    {
+        "title": "**_data_**",
+        "body": ","
+    },
+    {
+        "title": "**_it_**",
+        "body": []
+    },
+    {
+        "title": "**_must_**",
+        "body": []
+    },
+    {
+        "title": "**_be_**",
+        "body": []
+    },
+    {
+        "title": "**_imported_**",
+        "body": []
+    },
+    {
+        "title": "**_to_**",
+        "body": []
+    },
+    {
+        "title": "**_MATLAB_**",
+        "body": []
+    },
+    {
+        "title": "**_obeying_**",
+        "body": []
+    },
+    {
+        "title": "**_the_**",
+        "body": []
+    },
+    {
+        "title": "**_steps_**",
+        "body": []
+    },
+    {
+        "title": "**_previously_**",
+        "body": []
+    },
+    {
+        "title": "**_explained_**",
+        "body": "\\("
+    },
+    {
+        "title": "**_Steps_**",
+        "body": []
+    },
+    {
+        "title": "**_1_**",
+        "body": []
+    },
+    {
+        "title": "**_to_**",
+        "body": []
+    },
+    {
+        "title": "**_13_**",
+        "body": ")."
+    },
+    {
+        "title": "**_However_**",
+        "body": ","
+    },
+    {
+        "title": "**_for_**",
+        "body": []
+    },
+    {
+        "title": "**_a_**",
+        "body": []
+    },
+    {
+        "title": "**_better_**",
+        "body": []
+    },
+    {
+        "title": "**_understanding_**",
+        "body": []
+    },
+    {
+        "title": "**_of_**",
+        "body": []
+    },
+    {
+        "title": "**_the_**",
+        "body": []
+    },
+    {
+        "title": "**_protocol_**",
+        "body": []
+    },
+    {
+        "title": "**_the_**",
+        "body": []
+    },
+    {
+        "title": "**_authors_**",
+        "body": []
+    },
+    {
+        "title": "**_recommend_**",
+        "body": []
+    },
+    {
+        "title": "**_to_**",
+        "body": []
+    },
+    {
+        "title": "**_perform_**",
+        "body": []
+    },
+    {
+        "title": "**_a_**",
+        "body": []
+    },
+    {
+        "title": "**_first_**",
+        "body": []
+    },
+    {
+        "title": "**_trial_**",
+        "body": []
+    },
+    {
+        "title": "**_of_**",
+        "body": []
+    },
+    {
+        "title": "**_ROI_**",
+        "body": []
+    },
+    {
+        "title": "**_functions_**",
+        "body": []
+    },
+    {
+        "title": "**_on_**",
+        "body": []
+    },
+    {
+        "title": "**_the_**",
+        "body": []
+    },
+    {
+        "title": "**_prepared_**",
+        "body": "\"Supplementary Data\":http://cidtransfer.cid.csic.es/descarga.php?enlace1=d5e1de55b1d9b83b1668fc81e151e2ea _]_\r\n\n\n\r\n\n\n=="
+    },
+    {
+        "title": "**== **",
+        "body": "Data"
+    },
+    {
+        "title": "** **",
+        "body": "compression"
+    },
+    {
+        "title": "** **",
+        "body": "steps"
+    },
+    {
+        "title": "** **",
+        "body": "using"
+    },
+    {
+        "title": "** **",
+        "body": "ROI"
+    },
+    {
+        "title": "** **",
+        "body": "search*"
+    },
+    {
+        "title": "**14|**",
+        "body": "Download the ROI package provided as \"Supplementary MATLAB functions\":http://cidtransfer.cid.csic.es/descarga.php?enlace1=3adcd456c13cef5c017b66269651912c \\(containing _ROIpeaks_, _ROIplot_, _MSroiaug_ and _plotprofilestable_ functions) and save it in a folder."
+    },
+    {
+        "title": "**15|**",
+        "body": "Go to ´Set path´ panel and add this folder to MATLAB search path."
+    },
+    {
+        "title": "**16|**",
+        "body": "Run the _ROIpeaks_ function  \\[_mzroi_, _MSroi_, _roicell_]= _ROIpeaks_ \\(_peaks_, _snthresh_, _mzerror_, _minroi_, _nrows_, _time_) in the ´Command Window´ panel in MATLAB to search ROIs in the first sample. \r\n\n\n_ROIpeaks_ function allows building an MS data matrix from variable _peaks_ by selecting only the regions of interest. The implementation of this function requires the input of two variables containing information of the sample, _peaks_ and _time_, together with the following parameters: _snthresh_ \\(chromatographic signal-to-noise threshold, commonly between 0.1-1% maximum MS intensity, used to filter significative MS intensities), _mzerror_ \\(admissible mass deviation, typically set to a generous multiple of the mass accuracy of the mass spectrometer, _e.g._, 0.05 Da/e), _minroi_ \\(minimum number of retention times to be considered in a ROI, normally between 5 and 12 seconds in UHPLC systems and between 20 and 50 seconds in HPLC systems) and _nrows_ \\(number of cells/rows/spectra of the variable _peaks_ desired to be processed). The output parameters of _ROIpeaks_ function are _MSroi_ \\(newly arranged matrix of dimensions \\(_num.of.scans_ \\(m) x _nROI_), containing the MS spectra of every scan in its rows, and the chromatograms of every ROI in its columns), _mzroi_ \\(vector containing final m/z values of all ROIs, calculated as the mean of all m/z classified within the same ROI), and _roicell_ \\(cell array \\{nROI x 5}, containing nROI x 5 cells, providing information of m/z values \\(1), retention times \\(2), intensities \\(3), scan numbers \\(4) and mean m/z values of ROIs \\(5)).\r\n\n\nWhen the process is finished a message indicating final number of ROIs and elapsed time will be displayed on the ‘Command Window’ screen. Variables _MSroi_, _mzroi_ and _roicell_ will appear in the workspace and two plots, one displaying _MSroi_ respect to time and the other displaying the sum of _MSroi_ respect to _mzroi_ values will be automatically generated \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**4**",
+        "body": "and \"Supplementary Results 1\":http://cidtransfer.cid.csic.es/descarga.php?enlace1=42939f3699604260e6cb0eac82b3a69a)."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**17|**",
+        "body": "Run the function _ROIplot_ \\(_roicell_\\(_n_)) in the ‘Command Window’.\r\n\n\n_ROIplot_ function allows the evaluation of the ROI previously obtained, to avoid having multiple or halving peaks. The input variable of this function is the previously obtained _roicell_ and the graphical output representations correspond to the chromatographic shapes of the obtained ROIs as well as the distribution of the distinct m/z values defining the same ROI \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**5**",
+        "body": ", where these plots are shown for a particular ROI). In this function, _n_ specifies the particular ROI for which the results are shown. If no _n_ is specified, results will be shown for all ROI values."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": "∆"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": []
+    },
+    {
+        "title": "**STEP**",
+        "body": "Selecting the correct values for parameters _snthresh_, _mzerror_ and _minroi_ determines the outcome of the ROI search. Different values of parameters should be tested to see whether the elution profiles of the obtained ROI are meaningful or not. In the case of uncertainties, consult a mass spectrometry expert to avoid misinterpretation of the results."
+    },
+    {
+        "title": "**18|**",
+        "body": "Modify the values of input parameters, if necessary, and repeat the ROI search described in"
+    },
+    {
+        "title": "**Step**",
+        "body": []
+    },
+    {
+        "title": "**16**",
+        "body": "using the new values. Repeat this step the number of times required to obtain ROIs that fit original MS data."
+    },
+    {
+        "title": "**19|**",
+        "body": "\\(Optional) Change the name of the output variables in the workspace by right-clicking on them and selecting ´rename´ in the opening context-sensitive menu, to a name which makes reference to the sample group and number of replicate \\(_i.e._, _MSroiC1_ indicating that this variable corresponds to compressed data of the first replicate of a control sample)."
+    },
+    {
+        "title": "**20|**",
+        "body": "\\(Optional) Save all the variables generated in the workspace, using ‘Save workspace’ button. Suggestions for filename and folder are prefilled in the opening save dialog boxes, but they can be changed. It is highly recommendable to select a name indicating the sample and the type of ROI information that it contains \\(_e.g._, _ROIC1_, indicating that the .mat file provides information of individual ROI search of Control 1 sample).\r\n\n\n∆"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": []
+    },
+    {
+        "title": "**STEP**",
+        "body": "Only alphanumeric filenames \\(_i.e._, only unaccented Latin letters and numbers and underscore are allowed; special characters are not accepted). It is also important to have filenames that are representative for the sample."
+    },
+    {
+        "title": "**21|**",
+        "body": "\\(Optional) Save also the generated plots using their respective ´File/Save as…´ buttons, located above of each plot. A save dialog opens, with prefilled values for filename, format and location, which can be changed."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**22|**",
+        "body": "Close figure windows individually.\r\n\n\n\\!"
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Unsaved plots cannot be recovered after closing their respective windows."
+    },
+    {
+        "title": "**23|**",
+        "body": "Type ´clear all´at the MATLAB Command Window prompt to clear the MATLAB workspace and memory from all variables.\r\n\n\n\\!"
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Unsaved data cannot be recovered after this step."
+    },
+    {
+        "title": "**24|**",
+        "body": "Type ´clc´ at the MATLAB Command Window prompt to clear the Command Window."
+    },
+    {
+        "title": "**25|**",
+        "body": "For data conversion and import of a new sample return to"
+    },
+    {
+        "title": "**Step**",
+        "body": []
+    },
+    {
+        "title": "**1**",
+        "body": ". For data compression of a new sample return to"
+    },
+    {
+        "title": "**Step**",
+        "body": []
+    },
+    {
+        "title": "**16**",
+        "body": ". \r\n\n\n\r\n\n\n=="
+    },
+    {
+        "title": "**== **",
+        "body": "Steps"
+    },
+    {
+        "title": "** **",
+        "body": "to"
+    },
+    {
+        "title": "** **",
+        "body": "generate"
+    },
+    {
+        "title": "** **",
+        "body": "augmented"
+    },
+    {
+        "title": "** **",
+        "body": "data"
+    },
+    {
+        "title": "** **",
+        "body": "matrices*"
+    },
+    {
+        "title": "**26|**",
+        "body": "Navigate to the folder containing the .mat files generated in the ROI search of individual data matrices \\("
+    },
+    {
+        "title": "**Step 16**",
+        "body": "), using the ´Current Folder´ panel in MATLAB.\r\n\n\n∆"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": []
+    },
+    {
+        "title": "**STEP**",
+        "body": "Search of ROI among samples and generation of augmented data matrices is only possible when previous ROI search of individual data matrices has been performed."
+    },
+    {
+        "title": "**27|**",
+        "body": "Double-click on two .mat files of two distinct samples \\(_e.g._, _ROIC1.mat_ and _ROIC2.mat_) to load them into MATLAB workspace. The loaded .mat files contain the variables _MSroiC1_, _MSroiC2_, _mzroiC1_, _mzroiC2_, _Time1_ and _Time2_ \\(see \"Supplementary Results 1\":http://cidtransfer.cid.csic.es/descarga.php?enlace1=806edb3f3ace424a596e773bcdd5c734) necessary for the ROI search among the two samples."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**28|**",
+        "body": "Run the command \\[_Msroiaug_, _mzroiaug_, _timeaug_]= _Msroiaug_ \\(_MsroiC1_, _MsroiC2_, _mzroiC1_, _mzroiC2_, _mzerror_, _thresh_, _TimeC1_, _TimeC2_) in the ´Command Window´ panel in MATLAB. A pairwise search of ROI among samples Control 1 and Control 2 is being performed, evaluating common and uncommon ROI values and finally considering both of them. At the end of this search, three new variables are generated in the workspace: _MSroiaug_, _mzroiaug_ and _timeaug_ and the same plots described in"
+    },
+    {
+        "title": "**Step**",
+        "body": []
+    },
+    {
+        "title": "**16**",
+        "body": "are again generated \\(see \"Supplementary Results 2\":http://cidtransfer.cid.csic.es/descarga.php?enlace1=806edb3f3ace424a596e773bcdd5c734). In this search, the parameter _mzerror_ is used to define the admissible mass difference between two _mzroi_ values to be considered the same \\(± _mzerror_/2)."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "The two input _MSroi_ matrices must have the same rt-mode dimensions to enable the search."
+    },
+    {
+        "title": "**29|**",
+        "body": "\\(Optional) Change the name of the output variables in the workspace by right-clicking on them and selecting ´rename´ in the opening context-sensitive menu, to a name which makes reference to the sample group and number of replicate \\(_e.g._, _MSroiaugC1C2_ indicating that the ROI search has been conducted among Control 1 and Control 2 samples)."
+    },
+    {
+        "title": "**30|**",
+        "body": "\\(Optional) Save all the variables generated in the workspace, using ‘Save workspace’ button. Suggestions for filename and folder are prefilled in the opening save dialog boxes, but they can be changed. It is highly recommendable to select a name indicating the sample and the type of ROI information that it contains \\(_e.g._, _ROIC1C2.mat_ , indicating that the .mat file contains information of ROI search among Control 1 and Control 2 samples)."
+    },
+    {
+        "title": "**31|**",
+        "body": "\\(Optional) Save also the generated plots using their respective ´File/Save as…´ buttons, located above of each plot. A save dialog opens, with prefilled values for filename, format and location, which can be changed."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**32|**",
+        "body": "Close figure windows individually."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Unsaved plots cannot be recovered after closing their respective windows."
+    },
+    {
+        "title": "**33|**",
+        "body": "\\(Optional) Remove all variables containing information of ROI search of individual data matrices in the workspace \\(_e.g._, _MsroiC1_ , _MsroiC2_ and so on) by right-clicking on the file and selecting ´delete´ in the open context-sensitive menu."
+    },
+    {
+        "title": "**34|**",
+        "body": "Load the .mat file containing information of the individual ROI search of a third sample classified as a control \\(_e.g._, _ROIC3.mat_) by double-clicking on it."
+    },
+    {
+        "title": "**35|**",
+        "body": "Run the command \\[_Msroiaug_, _mzroiaug_, _timeaug_]= _MSroiaug_ \\( _MSroiaugC1C2_, _MSroiC3_, _mzroiaugC1C2_, _mzroiC3_, _mzerror_, _thresh_, _timeaugC1C2_, _timeC3_)´ in the ´Command Window´ panel in MATLAB. A pairwise search of ROI among the previous generated _MSroiaugC1C2_ matrix and the new _MSroiC3_ matrix is being performed. At the end of this search, three new variables are generated in the workspace: _MSroiaug_ , _mzroiaug_ and _timeaug_  and the same plots described in"
+    },
+    {
+        "title": "**Step**",
+        "body": []
+    },
+    {
+        "title": "**16**",
+        "body": "are again generated but for the augmented case \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**6a**",
+        "body": ")."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**36|**",
+        "body": "\\(Optional) Change the name of the output variables in the workspace by right-clicking on them and selecting ´rename´ in the opening context-sensitive menu, to a name which makes reference to the sample group and number of replicate \\(_e.g._, _MSroiaugC1C2C3_ indicating ROI search has been conducted among Control 1, Control 2 and Control 3 samples)."
+    },
+    {
+        "title": "**37|**",
+        "body": "\\(Optional) Save all the variables generated in the workspace, using ‘Save workspace’ button. Suggestions for filename and folder are prefilled in the opening save dialog boxes, but they can be changed. It is highly recommendable to select a name indicating the sample and the type of ROI information that it contains \\(_e.g._, _ROIC1C2C3.mat_, indicating that the .mat file contains information of ROI search among Control 1, Control 2 and Control 3 samples)."
+    },
+    {
+        "title": "**38|**",
+        "body": "\\(Optional) Save also the generated plots using their respective ´File/Save as…´ buttons, located above of each plot. A save dialog opens, with prefilled values for filename, format and location, which can be changed."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**39|**",
+        "body": "Close figure windows individually."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Unsaved plots cannot be recovered after closing their respective windows."
+    },
+    {
+        "title": "**40|**",
+        "body": "Type ´clear all´at the MATLAB Command Window prompt to clear the MATLAB workspace and memory from all variables."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Unsaved data cannot be recovered after this step."
+    },
+    {
+        "title": "**41|**",
+        "body": "Type ´clc´ at the MATLAB Command Window prompt to clear the Command Window."
+    },
+    {
+        "title": "**42|**",
+        "body": "Repeat"
+    },
+    {
+        "title": "**Steps**",
+        "body": []
+    },
+    {
+        "title": "**26**",
+        "body": "to"
+    },
+    {
+        "title": "**41**",
+        "body": "to find ROI values among other samples classified as another group \\(_e.g._, samples _TBT1_ , _TBT2_ and _TBT3_ ) to obtain information of common and uncommon ROI of the three stressed samples \\(_e.g._, _ROIT1T2T3_). The plots obtained will be analogue to the ones represented in"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**6**",
+        "body": "but for the TBT-exposed samples in this case."
+    },
+    {
+        "title": "**43|**",
+        "body": "Repeat"
+    },
+    {
+        "title": "**Steps**",
+        "body": []
+    },
+    {
+        "title": "**33**",
+        "body": "to"
+    },
+    {
+        "title": "**39**",
+        "body": "with ROI values obtained independently for controls and stressed samples \\(_e.g._, _ROIC1C2C3_ and _ROIT1T2T3_) to find ROI values among the two groups of samples. Final obtained _MSroiaug_ matrix \\(_MSroiaugC1C2C3T1T2T3_) is the column-wise compressed data matrix ready for the MCR-ALS analysis. The graphical outputs of the ROI search among the six samples are represented in"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**6b**",
+        "body": "."
+    },
+    {
+        "title": "**44|**",
+        "body": "Clear all variables individually in the workspace, by right-clicking on the file and selecting ´delete´ in the open context-sensitive menu, except final _MSroiaugC1C2C3T1T2T3_ matrix and vectors _timeaugC1C2C3T1T2T3_ and _mzroiaugC1C2C3T1T2T3_, which should be saved.\r\n\n\n\r\n\n\n=="
+    },
+    {
+        "title": "**== **",
+        "body": "Data"
+    },
+    {
+        "title": "** **",
+        "body": "analysis"
+    },
+    {
+        "title": "** **",
+        "body": "steps"
+    },
+    {
+        "title": "** **",
+        "body": "for"
+    },
+    {
+        "title": "** **",
+        "body": "MCR-ALS"
+    },
+    {
+        "title": "** **",
+        "body": "method*"
+    },
+    {
+        "title": "**45|**",
+        "body": "Download the freely available \"MCR-ALS GUI 2.0\":http://www.mcrals.info and save it in a folder. In this web page information of MCR-ALS code, related tutorials and data sets for practicing can be found."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Although distinct programs can be downloaded from this webpage \\(MCR-ALS GUI 2.0, MCR-ALS Toolbox 1.0, MCR-ALS command line, MCR-ALS GUI and MCR-Bands), the newest version \\(MCR-ALS GUI 2.0) is the one used in this protocol."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "For requirements regarding software description together with information of new features and applications of the latest version, please refer to another study<sup>9</sup>."
+    },
+    {
+        "title": "**46|**",
+        "body": "Go to ´Set path´ panel and add this folder to MATLAB search path."
+    },
+    {
+        "title": "**47|**",
+        "body": "Type ´mcr_main´ at the MATLAB Command Window prompt to call the necessary auxiliary routines for the MCR-ALS analysis. The main window of MCR-ALS Toolbox is launched immediately \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**7**",
+        "body": ")."
+    },
+    {
+        "title": "**48|**",
+        "body": "Select the data for MCR-ALS analysis by clicking on the ´Select a data matrix´ drop-down button \\(_e.g._, _MSroiaugC1C2C3T1T2T3_ , provided in the \"Supplementary Results 2\":http://cidtransfer.cid.csic.es/descarga.php?enlace1=806edb3f3ace424a596e773bcdd5c734). A new variable named ´mcr_str´ is generated in the workspace."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**49|**",
+        "body": "Select the number of components of the initial estimation by clicking one of these buttons: ´Manual´ or ´SVD´. ´Manual´ button is used when prior knowledge about the correct number of components is available and ´SVD´ button is used when this estimate is performed considering the number of largest singular values obtained by the Singular Value Decomposition algorithm. In this case, the more appropriate option is the initial estimation through ´SVD´."
+    },
+    {
+        "title": "**50|**",
+        "body": "Click in ´SVD´ button and select the number of components following one of these two options. The first is to use the drop-down menu of Eigenvalues, listed in ascending order of component number \\(lower Eigenvalue for higher component number). The text box below automatically updates to show the selected number of components in red. The second option is to type the number of components into the text box with the same name and hit enter. The drop-down menu above automatically updates to show the corresponding singular value."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": [
+            "When having data matrices with one of the dimensions large \\(˃ 10000 elements), calculation of only few singular values is recommended to avoid computer memory problems. \r\n\n\n\\(Optional) For a proper choice of the number of components you can zoom in the ´EigenValues´ Representation and inspect when the rate of the decline between two consecutive values is much lower than for the previous pair of smaller eigenvalues. \r\n\n\nAfter selecting the number of components, the ´EigenValues´ representation remains unchanged but the ´EigenVectors´ representation automatically shows the selected number of components for each of the individual matrices conforming the column-wise augmented data matrix \\(in this example case, the number of matrices is",
+            {
+                "title": "6).",
+                "body": "∆"
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": []
+    },
+    {
+        "title": "**STEP**",
+        "body": "Selecting the correct number of components finally determines the outcome of the analysis. Distinct numbers of components should be tested and the results should be evaluated to see which gives the best result in terms of data fitting and chemistry and biology."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "In an MCR-ALS analysis, adding a new component is not an additive process. In other words, it does not leave the original components intact, but it recalculates all components \\(see INTRODUCTION)."
+    },
+    {
+        "title": "**51|**",
+        "body": "\\(Optional) Copy the box showing the number of components selected in the initial estimation by clicking the button ´Copy´."
+    },
+    {
+        "title": "**52|**",
+        "body": "Click ´OK´ button to return to the main screen of MCR-ALS program."
+    },
+    {
+        "title": "**53|**",
+        "body": "Start the initial estimation of one of the two factor matrices \\("
+    },
+    {
+        "title": "**C**",
+        "body": "for concentrations or"
+    },
+    {
+        "title": "**S**",
+        "body": "<sup>T</sup> for spectra) by selecting one of these three options: ´Manual´, if they are already available, ´Pure´ for determining initial estimates either of"
+    },
+    {
+        "title": "**C**",
+        "body": "or"
+    },
+    {
+        "title": "**S**",
+        "body": "<sup>T</sup> by means of a purest variable detection method, or “EFA” by means of Evolving Factor Analysis<sup>10</sup>, only suitable for the case of analyzing evolving processes. In this example, pure estimates will be used, which is calculated using a purest variable selection method \\(like in the SIMPLISMA method<sup>11</sup>)."
+    },
+    {
+        "title": "**54|**",
+        "body": "Click in ´Pure´ button and select the direction of the variable selection \\(either concentrations or spectra) by using the drop-down menu of the ´Pure variable detection method´ box."
+    },
+    {
+        "title": "**55|**",
+        "body": "\\(Optional) Change the noise allowed \\(in percentage) for the calculation of initial estimates in the text box labeled ´Noise allowed \\(%)´ and hit enter. Although the default value of 1% is generally safe, different values can be tested and their effect evaluated in the ´Pure Spectra Estimation \\(Initial Values)´ plot. In this example, 10% of noise will be used to avoid selection of noisy variables."
+    },
+    {
+        "title": "**56|**",
+        "body": "Click ´Do´ button and examine the obtained ´Purest variables´ representation to see whether chromatographic/spectra profiles are reasonable or not \\(_e.g._, whether they contain only noise or they are very similar to each other \\(can indicate that too many components were selected), whether they show every band in the spectra with equal weight \\(can indicate too few components selected), or whether they contain artifacts \\(can indicate improper pre-processing)).\r\n\n\nThe list of purest variables is immediately shown in a box emplaced in the left.\r\n\n\n∆"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": []
+    },
+    {
+        "title": "**STEP**",
+        "body": "It is important to see whether the pure spectral estimates are meaningful or not, as this can help in selecting the correct number of components. If the addition of a new component \\("
+    },
+    {
+        "title": "**Step**",
+        "body": []
+    },
+    {
+        "title": "**50**",
+        "body": ") does not result in a significantly different new spectral estimate, it is likely that the new component is not required and will not be well resolved."
+    },
+    {
+        "title": "**57|**",
+        "body": "Click ´OK´ button to return to the main screen of MCR-ALS program."
+    },
+    {
+        "title": "**58|**",
+        "body": "Initiate the optimization process by clicking ´Continue´ button, at the bottom of the main interface box. A summary screen in which the top plots represent the row and column profiles of the experimental data, the middle plots show the initial estimate and the"
+    },
+    {
+        "title": "**C**",
+        "body": "and"
+    },
+    {
+        "title": "**S**",
+        "body": "<sup>T</sup> profiles obtained by a least-squares step and the bottom plots represent the score and loading plots obtained by PCA of the analyzed data matrix"
+    },
+    {
+        "title": "**D**",
+        "body": "with the previously selected number of components will appear \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**8**",
+        "body": ")."
+    },
+    {
+        "title": "**59|**",
+        "body": "Modify the number of matrices simultaneously analyzed by writing the number in a text box above the plots. In this example, this number is “6”."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "The default value for the number of matrices is “1” since default conditions are established for a single data matrix analysis."
+    },
+    {
+        "title": "**60|**",
+        "body": "Click ´Continue´ button to proceed with the definition of the data set."
+    },
+    {
+        "title": "**61|**",
+        "body": "In the ´Definition of the data set´ window, define the type of multiset data structure by selecting the correct option in the drop-down menu: column-wise augmented data matrix \\("
+    },
+    {
+        "title": "**C**",
+        "body": "direction), row-wise augmented data matrix \\("
+    },
+    {
+        "title": "**S**",
+        "body": "direction) or column- and row-wise augmented data matrix \\("
+    },
+    {
+        "title": "**C**",
+        "body": []
+    },
+    {
+        "title": "**&**",
+        "body": []
+    },
+    {
+        "title": "**S**",
+        "body": "directions). In this example, the ´column-wise augmented data matrix´ is selected, with 6 submatrices all having the same number of rows \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**9**",
+        "body": ")."
+    },
+    {
+        "title": "**62|**",
+        "body": "Click ´OK´ button to proceed with the selection of constraints for ALS optimization. \r\n\n\nIn this new version of the interface, there are two differentiated screens for the choice of constraints, one for  the profiles linked to the row mode \\(_i.e._ concentration profiles,"
+    },
+    {
+        "title": "**C**",
+        "body": "matrix) and another for the profiles related to the column mode \\(_e.g._., spectral profiles,"
+    },
+    {
+        "title": "**S**",
+        "body": "<sup>T</sup> matrix)."
+    },
+    {
+        "title": "**63|**",
+        "body": "In the ´Constraints: row mode \\(concentrations and multiple experiments)´ window indicate whether the same constraints will be applied to all"
+    },
+    {
+        "title": "**C**",
+        "body": "submatrices or not \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**10a**",
+        "body": "). \r\n\n\nAt the top of the screen, a panel regarding the multiset data structure is presented. It contains the total number of"
+    },
+    {
+        "title": "**C**",
+        "body": "submatrices included in the augmented data set, an option to apply the same constraints to all"
+    },
+    {
+        "title": "**C**",
+        "body": "submatrices, or the possibility to change the constraints according to the different"
+    },
+    {
+        "title": "**C**",
+        "body": "submatrices. Finally, at the right corner, the possibility to apply the constraint of correspondence among species by selecting which components are present in every considered"
+    },
+    {
+        "title": "**C**",
+        "body": "submatrix is offered. In this case, the same constraints will be applied to all"
+    },
+    {
+        "title": "**C**",
+        "body": "submatrices."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "In the selection of row constraints for augmented data matrices is not allowed the possibility to deal with multiple and different constraints for every analyzed"
+    },
+    {
+        "title": "**C**",
+        "body": "submatrix."
+    },
+    {
+        "title": "**64|**",
+        "body": "Select the constraints among the four common options \\(non-negativity, unimodality, closure and equality constraints) and more advanced constraints \\(such as correlation or kinetic hard-modeling). In the present example, only non-negativity constraints are applied when selecting the option ´forced to zero´ in the drop-down menu. \r\n\n\n∆"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": []
+    },
+    {
+        "title": "**STEP**",
+        "body": "The implementation of non-negativity constraints through the ´forced to zero´ option is recommended to speed up the calculation."
+    },
+    {
+        "title": "**65|**",
+        "body": "Click ´Continue´ button to proceed with the selection of constraints of"
+    },
+    {
+        "title": "**S**",
+        "body": "<sup>T</sup> matrix."
+    },
+    {
+        "title": "**66|**",
+        "body": "In the ´Constraints: column mode \\(spectra and single technique)´ window select the constraints for"
+    },
+    {
+        "title": "**S**",
+        "body": "<sup>T</sup> matrix among the four common options: non-negativity, unimodality, closure and equality constraints \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**10b**",
+        "body": "). In this example, non-negativity constraints through ´forced to zero´ option are implemented."
+    },
+    {
+        "title": "**67|**",
+        "body": "Click ´Continue´ button."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "When no closure is selected \\(_e.g._, no mass balance in concentrations) constraints, a new window appears to offer the possibility of normalizing the resolved spectra profiles \\(_e.g._, normalizing them to have equal height, total sum norm or Euclidean norm) prior to starting ALS optimization. This is recommended to avoid scale instabilities during the evolution of the ALS optimization and it fixes the possible intensity ambiguities. In this example, ´spectra equal height´ was selected."
+    },
+    {
+        "title": "**68|**",
+        "body": "Select general optimization parameters \\(_e.g._, the number of iterations or convergence criterion) and the name of output variables in the ´Parameters/Output of ALS optimization´ screen \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**11**",
+        "body": "). In this case, a total of 50 iterations are selected \\(default value) and the convergence criterion is set to 1%."
+    },
+    {
+        "title": "**69|**",
+        "body": "Select the box to enable the graphical output of the results and click ´Continue´ button. Suggestions for a variable name for concentrations and spectra matrices resulting from MCR-ALS analysis are _copt_ and _sopt_, respectively."
+    },
+    {
+        "title": "**70|**",
+        "body": "Evaluate the results shown in ´ALS optimization´ screen including information about the convergence, lack of fit and explained variance \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**12**",
+        "body": ")."
+    },
+    {
+        "title": "**71|**",
+        "body": "\\(Optional) Click ´Information´ button to obtain more detailed information about the evolution of the ALS optimization \\(_e.g._, plots of explained variance, lack of fit, logarithm of the sum of squares residuals and evolution of concentration/spectra profiles)."
+    },
+    {
+        "title": "**72|**",
+        "body": "\\(Optional) Save all the variables generated in the workspace \\(see \"Supplementary Results 3\":http://cidtransfer.cid.csic.es/descarga.php?enlace1=806edb3f3ace424a596e773bcdd5c734), using ‘Save Workspace’ button. Suggestions for filename and folder are prefilled in the opening save dialog boxes, but they can be changed."
+    },
+    {
+        "title": "**73|**",
+        "body": "\\(Optional) Save also the generated plots using their respective ´File/Save as…´ buttons, located above of each plot. A save dialog opens, with prefilled values for filename, format and location, which can be changed."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**74|**",
+        "body": "Close figure windows individually."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Unsaved plots cannot be recovered after closing their respective windows."
+    },
+    {
+        "title": "**75|**",
+        "body": "Clear all MATLAB variables in the workspace, by right-clicking on the file and selecting ´delete´ in the open context-sensitive menu, except from variables _MSroiaugC1C2C3T1T2T3_ , _timeaugC1C2C3T1T2T3_ , _copt_ , _sopt_ and vector _mzroiaugC1C2C3T1T2T3_ ."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Unsaved data cannot be recovered after this step."
+    },
+    {
+        "title": "**76|**",
+        "body": "\\(Optional) Rename those variables using shorter names \\(_e.g._, _x_ , _time_ ,  _c_ ,  _s_  and  _mz_  instead of  _MSroiaugC1C2C3T1T2T3_ ,  _timeaugC1C2C3T1T2T3_ , _copt_ ,  _sopt_ and vector _mzroiaugC1C2C3T1T2T3_, respectively)."
+    },
+    {
+        "title": "**77|**",
+        "body": "Type ´clc´ at the MATLAB Command Window prompt to clear the Command Window.\r\n\n\n\r\n\n\n=="
+    },
+    {
+        "title": "**== **",
+        "body": "Steps"
+    },
+    {
+        "title": "** **",
+        "body": "to"
+    },
+    {
+        "title": "** **",
+        "body": "evaluate"
+    },
+    {
+        "title": "** **",
+        "body": "concentration"
+    },
+    {
+        "title": "** **",
+        "body": "and"
+    },
+    {
+        "title": "** **",
+        "body": "spectral"
+    },
+    {
+        "title": "** **",
+        "body": "profiles"
+    },
+    {
+        "title": "** **",
+        "body": "of"
+    },
+    {
+        "title": "** **",
+        "body": "MCR-ALS"
+    },
+    {
+        "title": "** **",
+        "body": "components*"
+    },
+    {
+        "title": "**78|**",
+        "body": "Create two new variables in the workspace named as _nexp_ and _ncontrol_ containing information about the number of experiments and the number of controls of the data sets \\(in this case, _nexp_=6 and _ncontrol_=3) by typing _nexp_=6 and _ncontrol_=3 in the ´Command Window´ prompt."
+    },
+    {
+        "title": "**79|**",
+        "body": "Run the command \\[_area_, _height_, _table_, _table2_]=  _plotprofilestable_ \\(_x_, _c_, _s_, _time_, _mz_, _nexp_, _ncontrol_) in the ´Command Window´ panel in MATLAB. Two graphical outputs will be obtained for the first component. In addition, the results of the corresponding statistical evaluation will appear in the MATLAB Command Window followed by the message: “select forward backward plot 1/0”. In order to proceed with the evaluation of next MCR-ALS component introduce “1” in the Command Window, otherwise write “0”."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": [
+            "If",
+            {
+                "title": "Step 76",
+                "body": "was skipped, the input variable names of this function must be changed to those used to define the corresponding MATLAB variables."
+            }
+        ]
+    },
+    {
+        "title": "**80|**",
+        "body": "\\(Optional) Save the two generated figures, resulting from the analysis of the first component \\(see"
+    },
+    {
+        "title": "**Figures**",
+        "body": []
+    },
+    {
+        "title": "**13a**",
+        "body": "and"
+    },
+    {
+        "title": "**13b**",
+        "body": "), using their respective ´File/Save as…´ buttons, located above of each plot. A save dialog opens, with prefilled values for filename, format and location, which can be changed."
+    },
+    {
+        "title": "**?**",
+        "body": []
+    },
+    {
+        "title": "**TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**81|**",
+        "body": "Close figure windows individually."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Unsaved plots cannot be recovered after closing their respective windows."
+    },
+    {
+        "title": "**82|**",
+        "body": "\\(Optional) Copy the information provided in the ´Command Window´ panel \\(_lof_, _fit_, _Rsquare_, etc) and paste it in another document to further save it \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**13c**",
+        "body": ")."
+    },
+    {
+        "title": "**83|**",
+        "body": "Click to any button to obtain the same plots and results for the next component."
+    },
+    {
+        "title": "**84|**",
+        "body": "Repeat"
+    },
+    {
+        "title": "**Steps**",
+        "body": []
+    },
+    {
+        "title": "**80**",
+        "body": "to"
+    },
+    {
+        "title": "**83**",
+        "body": "until the last component."
+    },
+    {
+        "title": "**85|**",
+        "body": "Once obtained the results for all components click once more any key of the computer keyboard. Statistic results when considering all components simultaneously will be presented in the ´Command Window´ panel \\(see"
+    },
+    {
+        "title": "**Figure**",
+        "body": []
+    },
+    {
+        "title": "**13d**",
+        "body": ")."
+    },
+    {
+        "title": "**86|**",
+        "body": "\\(Optional) Copy the information provided in the ´Command Window´ panel \\(_lof_, _fit_, _Rsquare_) and paste it in another document to further save it."
+    },
+    {
+        "title": "**87|**",
+        "body": "Click again any key to obtain in the workspace the two tables containing statistical information \\(Table and Table2)."
+    },
+    {
+        "title": "**88|**",
+        "body": "Click ´Save workspace´ button of the upper panel of MATLAB to save all variables contained in the Workspace. Suggestions for filename and folder are prefilled in the opening save dialog boxes, but they can be changed. It is highly recommendable to select a name indicator of samples and type analysis \\(_e.g._, _MCR-ALS.mat_, indicating that the .mat file contains information of the MCR-ALS analysis."
+    },
+    {
+        "title": "**89|**",
+        "body": "Type ´clear all´at the MATLAB Command Window prompt to clear the MATLAB workspace and memory from all variables."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Unsaved data cannot be recovered after this step."
+    },
+    {
+        "title": "**90|**",
+        "body": "Type ´clc´ at the MATLAB Command Window prompt to clear the Command Window."
+    }
+]

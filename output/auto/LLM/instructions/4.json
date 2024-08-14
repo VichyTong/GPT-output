@@ -1,0 +1,13 @@
+[
+    {
+        "sentence": "Dissolve 15ul Tris-EDTA and store -20\u00b0C.",
+        "result": {
+            "DISSOLVE": {
+                "reagent1": "Tris-EDTA",
+                "volume": "15ul",
+                "temperature": "-20\u00b0C",
+                "notice": "store"
+            }
+        }
+    }
+]

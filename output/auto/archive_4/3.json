@@ -1,0 +1,59 @@
+[
+    {
+        "title": "1",
+        "body": [
+            {
+                "sentence": "Rinse Protein A beads in Hypotonic Buffer ",
+                "result": [
+                    {
+                        "RINSE": {
+                            "emit": [
+                                {
+                                    "reagent0": "Protein A beads"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "Protein A beads"
+                                },
+                                {
+                                    "reagent2": "Hypotonic Buffer"
+                                },
+                                {
+                                    "repeat": "1"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "2",
+        "body": [
+            {
+                "sentence": "Place on ice till ready for use.",
+                "result": [
+                    {
+                        "PLACE": {
+                            "emit": [
+                                {
+                                    "reagent0": "Protein A beads"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "Protein A beads"
+                                },
+                                {
+                                    "destination": "ice"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

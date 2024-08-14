@@ -1,0 +1,26 @@
+[
+    {
+        "title": "1.",
+        "body": "Label peripheral blood-derived neutrophils \\(106 cells/mL) with fluo-4 AM \\(0.9 µM) in assay buffer for 45 min at 37˚C."
+    },
+    {
+        "title": "2.",
+        "body": "Wash and resuspend cells at 2×10<sup>6</sup> cells/mL."
+    },
+    {
+        "title": "3.",
+        "body": "Keep cell solutions at 37˚C."
+    },
+    {
+        "title": "4.",
+        "body": "Add stimulus to the cells, and directly record the change in mean fluorescent intensity \\(MFI) for 120 s using the BD FACSAria System. In a typical experiment, add the chemokine at its optimal concentration, e.g. as determined by chemotaxis assay. The MFI is a measure of the cytosolic Ca<sup>2+</sup> concentration."
+    },
+    {
+        "title": "5.",
+        "body": "For determining desensitization, add a second stimulus at time 130 s and measure another 120 s."
+    },
+    {
+        "title": "6.",
+        "body": "Analyze experiments via FlowJo Software \\(Tree Star, OR)."
+    }
+]

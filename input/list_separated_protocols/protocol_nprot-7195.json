@@ -1,0 +1,58 @@
+[
+    {
+        "title": "1.",
+        "body": "293FT cells were transfected with HA-PD-1, Myc-FBXO38 and V5-Ub constructs for 36 hours and further incubated with MG132 \\(15 uM) for another 4 hours before harvesting."
+    },
+    {
+        "title": "2.",
+        "body": "Harvest cells and wash it with 1ml PBS ."
+    },
+    {
+        "title": "3.",
+        "body": "Add 100 ul RIPA buffer containing 1% SDS, mix quickly."
+    },
+    {
+        "title": "4.",
+        "body": "Boil it for 10 minutes to disrupt the interactions between HA-PD-1 and its associated proteins."
+    },
+    {
+        "title": "5.",
+        "body": "Mix the 100 ul lysates with 900 ul RIPA buffer without SDS to dilute SDS concentration to 0.1%."
+    },
+    {
+        "title": "6.",
+        "body": "Incubate it at 4 ˚C on rotator for 1 hours."
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge \\(15 000 g, 4 ˚C, 15 min) and move the supernatant to a new tube."
+    },
+    {
+        "title": "8.",
+        "body": "Add protein G agarose beads \\(20 μl) to the supernatant for pre-clearing and incubate at 4 ˚C on rotator for 2 hours."
+    },
+    {
+        "title": "9.",
+        "body": "Centrifuge \\(500 g, 4 ˚C, 5 min) and move the supernatant to a new tube."
+    },
+    {
+        "title": "10.",
+        "body": "Add anti-HA \\(H6908, 4 ug/ml) to immunoprecipitate HA-PD-1 and incubate at 4 ˚C overnight on rotator."
+    },
+    {
+        "title": "11.",
+        "body": "Add Protein G agarose beads \\(30 μl) to the supernatant, incubate at 4 ˚C for 1 h on rotator."
+    },
+    {
+        "title": "12.",
+        "body": "Wash the beads five times with 1 ml RIPA containing 0.1% SDS, and centrifuge \\(500 g, 4 ˚C, 5 min)."
+    },
+    {
+        "title": "13.",
+        "body": "Remove the buffer, and elute HA-PD-1 by boiling the beads with SDS loading buffer for 10 min."
+    },
+    {
+        "title": "14.",
+        "body": "Centrifuge \\(500 g, 25 ˚C, 5 min), and apply the supernatant to SDS-polyacrylamide gel. Perform immunoblot."
+    }
+]

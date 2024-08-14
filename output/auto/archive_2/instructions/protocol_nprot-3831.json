@@ -1,0 +1,39 @@
+[
+    {
+        "1. Check the sequencing quality of RNA-seq data using 'qualityScores' function in Rsubread package.\r\n  ": {
+            "ANALYZE": {
+                "slot": {
+                    "data": "RNA-seq data",
+                    "software": "Rsubread package",
+                    "method": "qualityScores function"
+                },
+                "emit": {
+                    "result": "sequencing quality 0"
+                }
+            }
+        }
+    },
+    {
+        "2. Use 'align' function in Rsubread to align the reads.\r\n  ": ""
+    },
+    {
+        "3. Use 'featureCounts' function in Rsubread to assign reads to genes.\r\n  ": ""
+    },
+    {
+        "4. Use 'voom' function in limma package to normalize read counts and to estimate the mean-variance relationship.\r\n  ": {
+            "NORMALIZE": {
+                "slot": {
+                    "sample": "sequencing quality 0",
+                    "software": "limma package",
+                    "method": "'voom' function"
+                },
+                "emit": {
+                    "reagent0": "sequencing quality 1"
+                }
+            }
+        }
+    },
+    {
+        "5. Use 'lmFit' function in limma to fit linear models to genes.\r\n  ": "error"
+    }
+]

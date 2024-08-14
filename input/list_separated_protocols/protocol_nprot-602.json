@@ -1,0 +1,65 @@
+[
+    "\nProcedure to simultaneous RNA and DNA isolation:",
+    {
+        "title": "1)",
+        "body": "Fresh, frozen, or RNAlater™ stabilized tissues can be used in this protocol. Note: For optimal results, stabilize harvested tissues immediately in RNAlater RNA Stabilization Reagent is recommended. Tissues can be stored in the reagent for up to 1 day at 37°C, 7 days at 15-25°C, or 4 weeks at 2-8°C, or archived at -20°C or -80°C."
+    },
+    {
+        "title": "2)",
+        "body": "Excise the tissue sample from storage. If the tissues were stored in RNAlater™ at -20°C, be sure to remove any crystals that may have formed."
+    },
+    {
+        "title": "3)",
+        "body": "Place the tissue on a clean surface and cut it in small peaces. Next, place them directly into a suitably sized vessel for disruption and homogenization."
+    },
+    {
+        "title": "4)",
+        "body": "Disrupt the tissue and homogenize the lysate in Buffer RLT \\(RNeasy® Mini or Midi kits, Qiagen, Valencia, CA) as recommended by instructions of manufacturer \\(7-8). Immediately disrupt and homogenize the tissue using a conventional rotor-stator homogenizer \\(Polytron) until it is uniformly homogeneous \\(at least 20s)."
+    },
+    {
+        "title": "5)",
+        "body": "Follow all steps described in RNeasy® Mini or Midi Handbook for total RNA extraction."
+    },
+    {
+        "title": "6)",
+        "body": [
+            "After RNA isolation, place each RNeasy® spin column in a new 1.5mL \\(mini) or 15mL \\(midi) collection tube and add the appropriate volume of DNA nuclease-free isolation buffer \\(8.0mM NaOH) \\(see ",
+            {
+                "title": "**Table 1**",
+                "body": ") directly onto the RNeasy® silica-gel membrane."
+            }
+        ]
+    },
+    {
+        "title": "7)",
+        "body": "Next, close the tube gently and let it stand for 5-10 min at 55°C, and then centrifuge for 3 min at 3000-5000 x g at room temperature to elute genomic DNA."
+    },
+    {
+        "title": "8)",
+        "body": [
+            "If the expected DNA yield is high, repeat step 7 using another DNA nuclease-free isolation buffer \\(see ",
+            {
+                "title": "**Table 1**",
+                "body": "). Note: Reuse the collection tube from step 7."
+            }
+        ]
+    },
+    {
+        "title": "9)",
+        "body": [
+            "After elution, DNA samples in 8.0mM NaOH can be stored overnight at 4°C. Nevertheless, for prolonged storage, adjustment of samples with HEPES to pH 7-8 and supplement with 1.0mM EDTA is required. Use the following amounts of 0.10M or 1.0M HEPES \\(free acid) per 1.0mL of 8.0mM NaOH \\(",
+            {
+                "title": "**Table 2**",
+                "body": "). Once pH was adjusted, DNA could be stored at 4°C or -20°C."
+            }
+        ]
+    },
+    {
+        "title": "10)",
+        "body": "In order, to determine the amount and purity of DNA, read samples in spectrophotometer at wavelengths of 230, 260 and 280 nm. The reading at 260 nm is used to calculate concentration \\(yield). The ratio of the readings at 260 and 230 nm \\(OD260/OD230) and 260 and 280 nm \\(OD260/OD280) provides an estimate of the purity of the DNA."
+    },
+    {
+        "title": "11)",
+        "body": "Finally, perform the DNA integrity check by an electrophoresis running of 300ng DNA sample on agarose 0.8%\\(w/v) Ethidium Bromide stained gel."
+    }
+]

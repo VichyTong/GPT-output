@@ -1,0 +1,129 @@
+[
+    "\nPlating MEFs\r\n\n\nMEFs are plated the day before passaging, on Mondays and Thursdays.",
+    {
+        "title": "1.",
+        "body": "Coat 10 cm dishes with 5ml 0.1% Gelatin."
+    },
+    {
+        "title": "2.",
+        "body": "Distribute liquid evenly and incubate at room temperature for at least 30 min."
+    },
+    {
+        "title": "3.",
+        "body": "Take new cryovial of MEFs from liquid nitrogen and keep on dry ice until thaw"
+    },
+    {
+        "title": "4.",
+        "body": "Warm the vial in a 37C water bath until approximately half the ice has thawed."
+    },
+    {
+        "title": "5.",
+        "body": "Slowly transfer the cells to a 15ml falcon tube containing 5ml warm MEF media."
+    },
+    {
+        "title": "6.",
+        "body": "Centrifuge cells at 1000 rpm for 3min"
+    },
+    {
+        "title": "7.",
+        "body": "Aspirate gelatin from the 10 cm dishes. Count and distribute 570k MEFs/10 cm dish and place in incubator at 37C and 5%CO2.\r\n  \r\n\n\nMaintenance of hPSC cultures\r\n\n\nhPSCs are cultured on a feeder layer of mouse embryonic fibroblasts \\(MEFs). Cells are passaged twice a week on Tuesdays and Fridays. The cell line primarily used in this protocol is Mel1 INSGFP/W human embryonic stem cells \\(hESCs). This cell line generates insulin-producing cells that express GFP, allowing us to track the differentiation and isolate insulin-producing cells for clustering into eBCs."
+    },
+    {
+        "title": "1.",
+        "body": "On the day of passaging, aspirate spent media from highly confluent hESC cultures on 10cm dishes."
+    },
+    {
+        "title": "2.",
+        "body": "Wash with 5ml PBS-/-"
+    },
+    {
+        "title": "3.",
+        "body": "Add 2ml trypLE and incubate for 6-8 min"
+    },
+    {
+        "title": "4.",
+        "body": "Once the cells dislodge, quench with 8ml hESC media"
+    },
+    {
+        "title": "5.",
+        "body": "Centrifuge cells at 1000rpm for 3min"
+    },
+    {
+        "title": "6.",
+        "body": "Take out MEF plates. Aspirate MEF media."
+    },
+    {
+        "title": "7.",
+        "body": "Distribute hESC cells at 4.3x10<sup>6 cells/10 cm on Tuesdays and 3.17x10</sup>6 cells/10cm on Fridays in 12ml hESC media \\(Note: Add 10uM Rock inhibitor for cell lines that do not survive passaging)."
+    },
+    {
+        "title": "8.",
+        "body": "Feed the cells everyday with hESC media.  \r\n  \r\n\n\nSeeding and Differentiation\r\n\n\nThe protocol works for cell lines that can form spheres upon seeding. Cells are seeded for differentiation during passaging into suspension plates where they form 150-200um sized spheres. These spheres are then treated with differentiation media that pushes them through the various stages of pancreatic development."
+    },
+    {
+        "title": "1.",
+        "body": "To initiate differentiation, passage hESC cultures using TrypLE as described in the previous section."
+    },
+    {
+        "title": "2.",
+        "body": "Count and seed cells at 5.5x10^6 cells/well in 6-well suspension plates in 5.5ml day 0 media \\(Note: Add 10uM Rock inhibitor for cell lines that do not survive passaging)."
+    },
+    {
+        "title": "3.",
+        "body": "Place the plates in the incubator at 37°C and 5%CO2 on an orbital shaker at 100 rpm to induce 3D sphere formation."
+    },
+    {
+        "title": "4.",
+        "body": "After 24 hours check for sphere formation"
+    },
+    {
+        "title": "5.",
+        "body": "Collect the spheres in 50 ml falcon tubes and allow them to settle by gravity for 3min."
+    },
+    {
+        "title": "6.",
+        "body": "Wash once with PBS+/+. Aspirate PBS+/+"
+    },
+    {
+        "title": "7.",
+        "body": "Resuspend the spheres in day 1 media and distribute into fresh 6-well suspension plates at 5.5ml/well. Place it back on the shaker in the incubator."
+    },
+    {
+        "title": "8.",
+        "body": "Until day 3, aspirate 5 ml of spent media and replenish with 5.5 ml of the respective day media \\(refer reagents)."
+    },
+    {
+        "title": "9.",
+        "body": "From day 4 onwards, aspirate 4.5 ml of spent media and feed with 5ml of media prescribed for the respective day \\(refer reagents)."
+    },
+    {
+        "title": "10.",
+        "body": "On day 20, collect the spheres and incubate with Accumax for 8 minutes. \\(Spheres from one well requires 1.5ml accumax). Flick the tube every 2 min to allow efficient dissociation."
+    },
+    {
+        "title": "11.",
+        "body": "Sort for Live GFPhigh cells on Aria II at low flow rates \\(<3000 events/sec)."
+    },
+    {
+        "title": "12.",
+        "body": "Collect the sorted cells and resuspend in day 20-27 media with 10uM Rock inhibitor at 1x10^6cells/1.5ml."
+    },
+    {
+        "title": "13.",
+        "body": "Dispense 1.5ml in each well of AggrewellTM-400 plates such that there are 1000cells/cluster."
+    },
+    {
+        "title": "14.",
+        "body": "Incubate the Aggrewell plates for 48 hours at 37C and 5%02 or until cells have aggregated into nicely round clusters."
+    },
+    {
+        "title": "15.",
+        "body": [
+            "Transfer the clusters into 6 well suspension plates in 3ml day 20-27 media and culture until the end of differentiation \\(day",
+            {
+                "title": "27)",
+                "body": "while refreshing the medium every third day. The clusters can be used until day 30."
+            }
+        ]
+    }
+]

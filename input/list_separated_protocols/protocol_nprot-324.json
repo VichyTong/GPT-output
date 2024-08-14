@@ -1,0 +1,184 @@
+[
+    {
+        "title": "**Active induction of experimental autoimmune uveoretinitis \\(EAU)**",
+        "body": "EAU was induced with 150µg bovine IRBP and 300µg human IRBP peptide \\(1-20) in C57bl/6 strain. Disease was induced in B10RIII mice with 150µg bovine IRBP and 12-20 µg human IRBP peptide \\(161-180) and clinical disease in both strains were established by fundoscopy and histology. Initial signs EAU is observed approximately 7-12 days after immunization, with full-blown disease developing by post-immunization day-14. By day-21 post-immunization there is substantial reduction of inflammatory cells and disease resolution characterized by absence of inflammatory cells or inflammatory cytokines in the retina occurs 28 days post-immunization<sup>6</sup>."
+    },
+    {
+        "title": "**Preparation of antigen/CFA emulsion**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Into a 50 ml polypropylene tube, add 0.5 ml stock bovine IRBP protein \\(6 mg/ml) and 6 mg lyophilized human IRBP peptide \\(1-20) and bring mixture to a final volume of 2 ml"
+            },
+            {
+                "title": "2|",
+                "body": "Add an equal volume or 2 ml of Complete Freund adjuvant \\(CFA) containing Mycobacterium tuberculosis strain H37Ra \\(2.5 mg/ml), mix and chill on ice for 10 min"
+            },
+            {
+                "title": "3|",
+                "body": "Sonicate at high speed on ice for 20 seconds followed by 30 seconds intervals"
+            },
+            {
+                "title": "4|",
+                "body": "Repeat 4-5 times until the mixture appears as a thick white cream."
+            },
+            {
+                "title": "5|",
+                "body": "Centrifuge at 1200 RPM for 1 min."
+            },
+            {
+                "title": "6|",
+                "body": "Prepare CFA emulsion without IRBP to serve as control."
+            },
+            {
+                "title": "7|",
+                "body": "Transfer emulsion into in 1 ml syringes with 19 gauge blunt-ended needles"
+            },
+            {
+                "title": "8|",
+                "body": "Prepare PTX \\(2 ug/ml) solution in 1 ml syringes with 25 gauge needles"
+            }
+        ]
+    },
+    {
+        "title": "**Immunization**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Prepare sufficient PTX \\(2 ug/ml) solution \\(100µl/mouse)"
+            },
+            {
+                "title": "2|",
+                "body": "Prepare sufficient CFA/Antigen emulsions \\(200µl/mouse)"
+            },
+            {
+                "title": "3|",
+                "body": "Before injections expel any air bubble in the syringe containing PTX or emulsion"
+            },
+            {
+                "title": "4|",
+                "body": "Inject each mouse with PTX solution \\(100 µl) intraperitoneally"
+            },
+            {
+                "title": "5|",
+                "body": "Inject emulsion subcutaneously into base of tail \\(100 µl) and each thigh \\(50 µl)"
+            },
+            {
+                "title": "6|",
+                "body": "Sacrifice the immunized at post-immunization day-7, -14, -21, and -28.\r\n\n\nControls: Un-immunized WT mice; mice immunized with CFA emulsion \\(without IRBP)"
+            }
+        ]
+    },
+    {
+        "title": "**Clinical grading of mice with EAU by fundoscopy**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Restrain mice by anethesia: intraperitoneal injection of mixture of Ketamine and xylazine \\(Rompun) at 30 mg/kg and 9 mg/kg, respectively."
+            },
+            {
+                "title": "2|",
+                "body": "After 5-10 min, dilate pupils by applying 1 drop of Mydriacyl \\(1%) to each eye."
+            },
+            {
+                "title": "3|",
+                "body": "Gently press the cover glass on the cornea."
+            },
+            {
+                "title": "4|",
+                "body": "Adjust head position to focus retina to the fundoscope for examination"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": ": Mydriacyl causes temporary lens opacification within 15-20 min after application; it is important to complete examination within this time."
+    },
+    {
+        "title": "**Preparation of sections for ocular histology**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Incubate enucleated eyes overnight in 10% buffered formaldehyde"
+            },
+            {
+                "title": "2|",
+                "body": "Embed eyes and cut 5µM paraffin sections in anterior/posterior orientation."
+            },
+            {
+                "title": "3|",
+                "body": "Stain sections in hematoxylin & eosin \\(H&E)."
+            },
+            {
+                "title": "4|",
+                "body": "Grading of EAU pathology is as previously described."
+            }
+        ]
+    },
+    {
+        "title": "**Inhibition of EAU by IL-17 neutralizing antibody**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Active immunization of C57BL/6 mice with IRBP in CFA"
+            },
+            {
+                "title": "2|",
+                "body": "Dilute IL-17 or IgD2a isotype control antibodies in PBS"
+            },
+            {
+                "title": "3|",
+                "body": "Inject 500 µl IL-17 antibody \\(350 µg) intraperitoreally into treatment group \\(4 mice) 1 day before immunization with IRBP/CFA emulsion \\(day -1)."
+            },
+            {
+                "title": "4|",
+                "body": "Inject 500 µl IgD2a isotype control antibody \\(350 µg) intraperitoreally into control group \\(4 mice) 1 day before immunization with IRBP/CFA emulsion \\(day -1)."
+            },
+            {
+                "title": "5|",
+                "body": "Repeat Ab injection every other day until day 17 post-immunization."
+            },
+            {
+                "title": "6|",
+                "body": "Perform fundscopic examinations at post-immunization days 12, 14 and 16."
+            },
+            {
+                "title": "7|",
+                "body": "Sacrifice mice at post-immunization day-19 and perform histology"
+            }
+        ]
+    },
+    {
+        "title": "**IL-27 expression in PBMC or retina is temporally correlated with progression of EAU**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Immunise mice \\(8) with CFA or IRBP/CFA emulsion"
+            },
+            {
+                "title": "2|",
+                "body": "Monitor EAU progression by fundoscopy and histology"
+            },
+            {
+                "title": "3|",
+                "body": "Sacrifice mice at post-immunization days, 0, 7, 14, 21 and 28"
+            },
+            {
+                "title": "4|",
+                "body": "Section 1 eye for histology and stain with H&E"
+            },
+            {
+                "title": "5|",
+                "body": "Isolate RNA and protein extracts from retina, PBMC or lymph nodes"
+            },
+            {
+                "title": "6|",
+                "body": "Analyze IL-27 protein expression by Western blotting"
+            },
+            {
+                "title": "7|",
+                "body": "Analyze IL27 and Ebi3 expression by RT-PCR and qPCR."
+            }
+        ]
+    }
+]

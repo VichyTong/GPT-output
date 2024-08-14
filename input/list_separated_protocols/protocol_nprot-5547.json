@@ -1,0 +1,50 @@
+[
+    {
+        "title": "1.",
+        "body": "Thaw samples on ice."
+    },
+    {
+        "title": "2.",
+        "body": "Add 500 µL PBS to the AU-0.5 filter, cap, and centrifuge for 10 minutes at 14,000 x g."
+    },
+    {
+        "title": "3.",
+        "body": "Reverse the device and centrifuge for 2 minutes at 1000 x g to remove the residual PBS."
+    },
+    {
+        "title": "4.",
+        "body": "Aspirate PBS from the collection tube."
+    },
+    {
+        "title": "5.",
+        "body": "Transfer 500 µL of sample to the AU-0.5 filter and cap the device."
+    },
+    {
+        "title": "6.",
+        "body": "Centrifuge for 30 minutes at 14,000 x g. There should be ~15 µL sample remaining in the upper chamber."
+    },
+    {
+        "title": "7.",
+        "body": "Remove device from the centrifuge and empty the collection tube."
+    },
+    {
+        "title": "8.",
+        "body": "Add 500 µL PBS to the filter device and gently pipette sample multiple times to mix."
+    },
+    {
+        "title": "9.",
+        "body": "Centrifuge for 30 minutes at 14,000 x g."
+    },
+    {
+        "title": "10.",
+        "body": "Place filter upside down in a fresh microcentrifuge tube."
+    },
+    {
+        "title": "11.",
+        "body": "Centrifuge for 2 minutes at 2000 x g<sup>1</sup> to transfer the sample to the tube."
+    },
+    {
+        "title": "12.",
+        "body": "Isolate RNA using the miRNeasy Micro kit."
+    }
+]

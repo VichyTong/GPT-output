@@ -1,0 +1,85 @@
+[
+    "\nExperimental design\r\n\n\n\r\n\n\nAn overview of experimental design is provided in Figure",
+    {
+        "title": "1.",
+        "body": [
+            "<a href=\"http://www.nature.com/protocolexchange/system/uploads/1682/original/figure2-.png?1292738531\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/1682/thumbnail/figure2-.png?1292738531\" > </a>\r\n\n\n\r\n\n\nSMRT-qPCR Assay Design\r\n\n\n\r\n\n\nThe assay design process has been described \\(8) and is summarized in Figure 2a. Briefly, the mature miRNA sequence\\(s) of interest is retrieved from miRBase \\(http://www.mirbase.org/, current release",
+            {
+                "title": "15).",
+                "body": "The reverse transcription \\(RT) primer is designed such that at the temperature used for reverse transcription it adopts a stable stem-loop structure \\(dG < -1.5), while under qPCR conditions the stem-loop structure is no longer favored \\(dG > -0.5). mFold software10 \\(http://mfold.bioinfo.rpi.edu/) is used to predict conformations and free energy values of the reverse transcription primer under the conditions used for reverse transcription and qPCR respectively \\(Fig. 2b). The last 6 nucleotides at the 3’ end of the reverse transcription primer are the reverse complement of the last 6 nucleotides of the miRNA of interest.\r\n\n\n\r\n\n\nA pair of qPCR primers is then designed where the reverse primer \\(with respect to the original miRNA sequence) extends at least one nucleotide beyond the 6 nucleotides used for reverse transcription priming while the 5’ end anneals to the stem-loop region of the RT primer \\(Fig. 2a). The forward primer extends such that it is at most head-to-head with the reverse primer \\(i.e. PCR gap = 0 nt) and will usually requires a 5’ GC rich sequence for efficient amplification. Due to the short lengths of the miRNAs, qPCR amplicons generated may be of almost indistinguishable size compared to primer-dimer products, unless dissociations are carried out using high-resolution melt analyses. It is thus critical to minimize primer-primer hybridization to avoid non-specific amplification. Most primer designing softwares \\(e.g. Beacon Designer, DNAman, Premier Primer) allow the evaluation of primer-primer complementarity. There is also a free online edition of Beacon Designer \\(http://www.premierbiosoft.com/qOligo/Sequence.jsp?PID=1) that is adequate for this purpose \\(Fig. 2c).\r\n\n\n\r\n\n\nFigure"
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": "<a href=\"http://www.nature.com/protocolexchange/system/uploads/1681/original/figure1.png?1292738298\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/1681/thumbnail/figure1.png?1292738298\" > </a>\r\n\n\n\r\n\n\nCell Culture\r\n\n\n\r\n\n\nCells can be lysed in a 96-well format to minimize reagents requirements. Typically, 10,000 cells can be seeded per well without being over-confluent or forming multiple-layers.\r\n\n\n\r\n\n\nCell Lysis"
+    },
+    {
+        "title": "1.",
+        "body": "Observe wells using a microscope to ensure cells are evenly seeded within and between wells."
+    },
+    {
+        "title": "2.",
+        "body": "Prepare the lysis buffer as specified in Table"
+    },
+    {
+        "title": "1.",
+        "body": "In our experience, as little as 25 µl of lysis buffer can be used to efficiently lyse up to 10,000 cells in 96-well format. This would result in significant reagent savings. However, it is advisable to first use 40 µl to ensure sufficient surface coverage and efficient lysis of cells."
+    },
+    {
+        "title": "3.",
+        "body": "Aspirate cell culture media from wells and wash cells gently once with 100 µl of phosphate-buffered saline \\(PBS). Before lysis, remove PBS as completely as possible."
+    },
+    {
+        "title": "4.",
+        "body": "Add 40 µl of lysis buffer to cells. Gently triturate the cells, minimizing bubble formation."
+    },
+    {
+        "title": "5.",
+        "body": "Transfer the lysate from the cell culture wells to a 96-well PCR plate or PCR tubes as appropriate."
+    },
+    {
+        "title": "6.",
+        "body": "Centrifuge briefly to collect the lysate to the bottom of the wells/tubes."
+    },
+    {
+        "title": "7.",
+        "body": "Incubate the lysate for 37ºC for 30 min, followed by 70ºC for 10 min to deactivate the DNase.\r\n  \r\n\n\nReverse Transcription \\(Timing: 35 min)"
+    },
+    {
+        "title": "8.",
+        "body": "Prepare the RT master mix as specified in Table 2:"
+    },
+    {
+        "title": "9.",
+        "body": "Carefully aliquot RT master mix into the DNase-treated samples."
+    },
+    {
+        "title": "10.",
+        "body": "Vortex samples and centrifuge briefly to collect samples at the bottom of the wells/tubes."
+    },
+    {
+        "title": "11.",
+        "body": "Carry out the RT reaction at 42ºC for 30 min, followed by 70ºC for 5 min to inactivate the RT enzyme.\r\n  \r\n\n\nWe find that it is not necessary to allow primer annealing with an additional heating/cooling step in the presence of the RT primers.\r\n\n\n\r\n\n\nPause point: The cDNA products may be stored at -20ºC for at least 1 year."
+    },
+    {
+        "title": "12.",
+        "body": "Dilute cDNA product to 10% vol/vol with nuclease free water. Aliquot cDNA products into PCR reaction vessels.\r\n  \r\n\n\nQuantitative PCR \\(Timing : ~90 min depending on thermal cycler)"
+    },
+    {
+        "title": "13.",
+        "body": "Prepare the qPCR master mix as specified in Table"
+    },
+    {
+        "title": "3.",
+        "body": []
+    },
+    {
+        "title": "14.",
+        "body": "Perform qPCR with the following thermal cycling parameters on an appropriate qPCR-enabled thermal cycler. Table 4 is an example of cycling parameters on the CFX96™ Real-Time PCR System."
+    },
+    {
+        "title": "15.",
+        "body": "Analyze qPCR results with software compatible with the data generated."
+    }
+]

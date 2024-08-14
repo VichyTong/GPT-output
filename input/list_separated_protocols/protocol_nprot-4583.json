@@ -1,0 +1,51 @@
+[
+    "\nA. Preparation:",
+    {
+        "title": "1.",
+        "body": "All glassware and PTFE parts of the STM cell are cleaned with piranha solution \\(3:1 H<sub>2</sub>SO<sub>4</sub>/H<sub>2</sub>O<sub>2</sub> by volume) before usage followed by rinsing with 18.2 MΩ cm<sup>−1</sup> Milli-Q water \\(Millipore) and finally dried with a stream of N<sub>2</sub>. ▲TROUBLESHOOTING"
+    },
+    {
+        "title": "2.",
+        "body": "The Au wire is mechanically cut to produce sharpened apex at its distal end \\(confirmed via optical microscope) and used as the STM tip electrode. The formed tip is briefly H<sub>2</sub> flame-annealed to remove impurities and immediately immersed for 12 h in 0.05 mM 2-methyl-3-furanthiol \\(Sigma-Aldrich) in CH<sub>2</sub>Cl<sub>2</sub> solution previously purged with Ar gas for 20 min. Each tip is then thoroughly rinsed with CH<sub>2</sub>Cl<sub>2</sub> and then dried under a stream of Ar before being used in the STM experiment."
+    },
+    {
+        "title": "3.",
+        "body": "Before modification of the Au substrate, the single crystal Au \\(111) surface is electro-polished for a 1 min period to eliminate possible residual contaminations and then annealed for a 10 min in a H<sub>2</sub> flame to improve surface orientation. The clean substrates are then immediately immersed for a 12 h period in an ethanol solution containing 0.1 mM of the dienophile \\(NB), previously purged by means of Ar gas bubbling. The substrates are then washed thoroughly with absolute ethanol, dried under a stream of Ar and placed in the homemade STM PTFE cell. A volume of 80 μL of mesitylene is then added to protect the substrate surface against external contamination and to keep the electrodes in an electrically isolated medium. \r\n  \r\n\n\n\r\n\n\nB. Measurement:"
+    },
+    {
+        "title": "1.",
+        "body": "A variable direction and magnitude working bias is imposed between tip and substrate electrodes."
+    },
+    {
+        "title": "2.",
+        "body": "The electrodes are fixed at a specific distance by imposing an initial set-point current. ▲TROUBLESHOOTING"
+    },
+    {
+        "title": "3.",
+        "body": [
+            "After 1 h of equilibration time to reach an appropriate mechanical stability, the feedback loop is turned off and the current is externally monitored and recorded through a LabVIEW acquisition system. When both reactants are joined, the product molecule spans the gap between the electrodes and closes the electrical circuit. As a consequence, the current flowing between both electrodes increases above the background tunneling current \\(tunneling through the gap). This is reflected in the monitored current as a sudden jump in the form of telegraphic signatures or “blinks” \\(Figure",
+            {
+                "title": "1)",
+                "body": "\\[3,8–10].  The net current crossing the molecule is then obtained by subtracting the tunneling current background from the blink."
+            }
+        ]
+    },
+    {
+        "title": "4.",
+        "body": "Measuring the effect of the electrical field over the Diels-Alder reaction: Under the employed working bias between tip and substrate electrodes all the blinking events are recorded during 1 h periods. At the end of each 1 h period, we changed the furan-modified STM tip and its lateral position with respect to the surface to compensate for the loss of reactants. This procedure is repeated 8 times giving each bias point \\(magnitude and direction) a total experimental time of 8 h. The chronology of the selected biases for each repeat is randomly selected to minimize the experimental error.▲TROUBLESHOOTING"
+    },
+    {
+        "title": "5.",
+        "body": [
+            "Testing the junction mechanical stability: the appearance of a blink when a product molecule closes the circuit between the tip and substrate electrodes is an indication of a mechanically stable junction. The molecular signature of this junction can be confirmed by collecting pulling curves during the “blinks”. Pulling curves collected over the “blinks” show a plateau corresponding to the stretching of the single-molecule bridge. When a pulling force is exerted over the tunneling background, a clean exponential decay is observed \\(Figure 2 and",
+            {
+                "title": "3).",
+                "body": "Pulling decay captures are applied via a code written in LabVIEW which applies a voltage ramp to the piezo to force a defined tip electrode retraction distance during a selected time.\r\n  \r\n\n\nC. Data treatment\r\n\n\n- All the collected data from the blinking experiments are plotted as 2D conductance maps \\(Figure"
+            },
+            {
+                "title": "4)",
+                "body": "by the accumulation of hundreds of individual “blinks”. No selection procedures were applied to the data i.e. all blinking traces were accumulated to build the 2D maps. \r\n\n\n- To build 2D maps all the blinks are accumulated and set into a common time origin and baseline, in order to compare the lifetimes of the blinks in the 2D maps and subtract the background tunneling current, respectively. 2D maps were built by a code written in LabVIEW."
+            }
+        ]
+    }
+]

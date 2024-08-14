@@ -1,0 +1,56 @@
+[
+    {
+        "sentence": "Add 11ul of 100mM DTT in extraction buffer 2 to the tissue lysate.",
+        "result": {
+            "ADD": {
+                "reagent1": "100mM DTT",
+                "reagent2": "extraction buffer 2",
+                "volume": "11ul",
+                "notice": "None",
+                "reagent0": "tissue lysate"
+            }
+        }
+    },
+    {
+        "sentence": "Incubate at 56\u00b0C for 1hr.",
+        "result": {
+            "INCUBATE": {
+                "temperature": "56\u00b0C",
+                "time": "1hr"
+            }
+        }
+    },
+    {
+        "sentence": "Leave solution to cool to room temperature before adding 12\u03bcl of 550mM IAA in extraction buffer.",
+        "result": {
+            "COOL": {
+                "reagent1": "solution",
+                "temperature": "room temperature",
+                "notice": "Leave solution to cool to room temperature"
+            },
+            "ADD": {
+                "reagent1": "550mM IAA",
+                "volume": "12\u03bcl",
+                "reagent2": "extraction buffer"
+            },
+            "CONTEXT": [
+                {
+                    "instruction": "Add 11ul of 100mM DTT in extraction buffer 2 to the tissue lysate."
+                },
+                {
+                    "instruction": "Incubate at 56\u00b0C for 1hr."
+                }
+            ]
+        }
+    },
+    {
+        "sentence": "Incubate at room temperature for 30min in the dark.",
+        "result": {
+            "INCUBATE": {
+                "temperature": "room temperature",
+                "time": "30min",
+                "notice": "in the dark"
+            }
+        }
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "title": "1.",
+        "body": "Wash cells with PBS."
+    },
+    {
+        "title": "2.",
+        "body": "Fix in 4% PFA for 15 min at room temperature \\(RT)."
+    },
+    {
+        "title": "3.",
+        "body": "Wash cells with PBS \\(2 x 5 min).  Cells can be stored in PBS at 4C for up to a week."
+    },
+    {
+        "title": "4.",
+        "body": "Permeabilize with PBS + 0.1% TritonX-100 for 5 min at RT."
+    },
+    {
+        "title": "5.",
+        "body": "Wash with PBS \\(2 x 5 min) at RT."
+    },
+    {
+        "title": "6.",
+        "body": "Block with 10% serum \\(from species of secondary) for 1 hr at RT."
+    },
+    {
+        "title": "7.",
+        "body": "Drain and incubate with primary antibody diluted in 5% serum overnight at 4C."
+    },
+    {
+        "title": "8.",
+        "body": "Wash in PBS \\(3 x 5 min) at RT."
+    },
+    {
+        "title": "9.",
+        "body": "Detect primary antibody with Alexa Fluor secondary antibody diluted 1:400 in 5% serum at RT for 1 hr in the dark."
+    },
+    {
+        "title": "10.",
+        "body": "Wash in PBS \\(3 x 5 min) at RT."
+    },
+    {
+        "title": "11.",
+        "body": "Add mounting media with DAPI and apply coverslip."
+    },
+    {
+        "title": "12.",
+        "body": "Store slides in the dark at 4C."
+    }
+]

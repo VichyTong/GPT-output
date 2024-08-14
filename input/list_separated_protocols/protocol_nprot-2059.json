@@ -1,0 +1,46 @@
+[
+    {
+        "title": "1.",
+        "body": "Collect the fibers from twenty random cottonseeds and weigh \\(W1) by XS105 DualRange \\(METTLER)."
+    },
+    {
+        "title": "2.",
+        "body": "Pick out six bundles of fibers \\(each around 1~2 mg) randomly from the fibers gathered."
+    },
+    {
+        "title": "3.",
+        "body": "Tease each fiber bundle by hand and weigh \\(W2)."
+    },
+    {
+        "title": "4.",
+        "body": "Separate the ring and cap from the body of a micro-centrifuge tube \\(0.2 ml) by the knife."
+    },
+    {
+        "title": "5.",
+        "body": "Fix fibers of a weighed bundle by fastening the cap to the ring."
+    },
+    {
+        "title": "6.",
+        "body": "Put the bundle in boiling water for 10 min then cool it to room temperature. The treated bundle can be stored in 45% \\(v/v) acetic acid for a short-term \\(2~3 days)."
+    },
+    {
+        "title": "7.",
+        "body": "Dry a bundle with dust-free paper then cut in the middle region of the bundle to get three fiber segments \\(the cutting length is about 1~2 mm)."
+    },
+    {
+        "title": "8.",
+        "body": "Separate the snippets of each segments in six drops \\(each around 20 μl) of 45% \\(v/v) acetic acid by tweezers."
+    },
+    {
+        "title": "9.",
+        "body": "Observe and photograph the snippets of each drop by a stereo-microscope \\(MVX-10, OLYMPUS)."
+    },
+    {
+        "title": "10.",
+        "body": "Count the snippet number in each drop by software Image-Pro® Plus. Then the fiber number of a bundle \\(N2) can be determined \\[\\(sum of the snippet number in total 18 drops from three segments of a bundle)/3]."
+    },
+    {
+        "title": "11.",
+        "body": "Calculate the mature fibers number per seed \\(N1) according to the equation: N1=\\(W1/20)/\\(W2/N2)."
+    }
+]

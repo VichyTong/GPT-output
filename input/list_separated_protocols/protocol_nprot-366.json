@@ -1,0 +1,65 @@
+[
+    {
+        "title": "**Fmoc determination**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Collect neatly the piperidine solution \\(12 mL/mg) used for deprotection \\(steps 4-5 of the standard protocol) in a small flask or glass vial."
+            },
+            {
+                "title": "2.",
+                "body": "Dilute 1/20 with 20% piperidine in DMF \\(in a small vial: 100 μL collected solution + 1.9 mL 20% piperidine). Mix."
+            },
+            {
+                "title": "3.",
+                "body": "Fill the UV cell with 2.7 mL of 20% piperidine in DMF \\(reference solution), place the cell into the spectrophotometer and zero at λ=301 nm."
+            },
+            {
+                "title": "4.",
+                "body": "Add 300 μL of the solution prepared at step 2 into the cell, mix and measure the absorbance."
+            },
+            {
+                "title": "5.",
+                "body": "Calculate the loading using the following equation:\r\n  Loading \\(mmol/g) = Abs<sub>sample</sub> x 0.4<sup>a</sup>\r\n\n\nabased on ε<sub>301</sub>=6000 M<sup>-1</sup>cm<sup>-1</sup> \\(ε depends also on the specifications of the spectrometer\\!); 3 mL deblocking solution, 1/200 dilution, 250mg resin.\r\n\n\nConstance \\(or slight progressive decrease) of loading is an indication of good progress of the synthesis. If loading values vary irregularly or decrease drastically, a microcleavage test \\(described below) should be performed."
+            }
+        ]
+    },
+    {
+        "title": "**Kaiser Test**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transfer a few resin beads to a small glass tube and wash several times with ethanol."
+            },
+            {
+                "title": "2.",
+                "body": "Add 100 μL of each of the solutions above."
+            },
+            {
+                "title": "3.",
+                "body": "Mix well and place the tube in a pre-heated oven \\(115 °C) for 5 min.\r\n  ▲ CRITICAL STEP To reduce the incidence of false negative results, it is recommendable to carry out a parallel positive control. The test is not applicable to N-terminal proline residues \\(secondary amine) and N-alkyl amino acids. The test may give false negative results when applied to aggregate sequences."
+            }
+        ]
+    },
+    {
+        "title": "**Microcleavage**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transfer a sample containing ~1-2 mg dry peptide-resin to a small syringe \\(2 mL)."
+            },
+            {
+                "title": "2.",
+                "body": "Add 300 μL of the cleavage cocktail \\[TFA/ H<sub>2</sub>O/ phenol/ TIPS 8.5/ 0.5/ 0.5/ 0.5] to the dried peptide resin, stir gently for 30 sec and wait for 3 h \\(stir gently in-between)."
+            },
+            {
+                "title": "3.",
+                "body": "Collect the solution in a small HPLC vial, dilute with 400 μL ACN/water 1/1, mix."
+            },
+            {
+                "title": "4.",
+                "body": "At this point the solution can be analyzed in an analytical HPLC system \\(inject 20 μL) and/or further diluted \\(1/10) to be injected \\(2 μL) in LC-MS."
+            }
+        ]
+    }
+]

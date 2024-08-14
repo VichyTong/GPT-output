@@ -1,0 +1,56 @@
+[
+    {
+        "title": "**Part-I \\(Benchmarking known crystal structure 1YCS)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "First, separate the guest \\(BP2) and host \\(p53DBD) molecules in the complex crystal structure \\(PDB code: 1YCS) and save as .pdb files."
+            },
+            {
+                "title": "2.",
+                "body": "Select amino-acid constraints from analysis of the crystal structure \\(for known protein-protein pair)/ mutational studies or similar experiments \\(for unknown protein-protein pair)."
+            },
+            {
+                "title": "3.",
+                "body": "Dock the guest structure back into the host structure by different protein-protein docking algorithms, e.g. ZDOCK version 3.0.2   \\(http://zdock.umassmed.edu/), PIPER \\(https://www.schrodinger.com/piper) and ClusPro 2.0 \\(https://cluspro.bu.edu/login.php); and constraint-driven docking is carried out."
+            },
+            {
+                "title": "4.",
+                "body": "Of many predicted guest-host complexes, only the top 5 models with strongest interaction energies \\(according to the energy scoring function) are compared to the corresponding crystal structure of the complex."
+            },
+            {
+                "title": "5.",
+                "body": "All atoms Root-mean square deviation \\(RMSD) values are calculated for each of the poses with respect to the crystal structure \\(command: fit 1YCS, complex.1)."
+            },
+            {
+                "title": "6.",
+                "body": "If the RMSD values are found to be <2.0Å or 1Å, the crystal structure is said to be reproduced or accurately reproduced \\(Hevener et al., 2009). Number of successful structures reproduced are counted."
+            }
+        ]
+    },
+    {
+        "title": "**Part-II \\(Derivation of p53:G-actin complex)**",
+        "body": [
+            {
+                "title": "7.",
+                "body": "Crystal structures \\(PDB Code: 4MZR for p53, fragment: 94-356 and 3HBT for G-actin) are selected for p53:G-actin protein-protein docking calculation."
+            },
+            {
+                "title": "8.",
+                "body": "Considering the mutational data, Arg249 \\(p53) has been specified as amino-acid constraint for p53:G-actin docking calculation \\(similar to p53Arg248/Ser241/Met243/Asn247/Ser183/His178/Arg181/His179 constraint in p53:BP2 docking study)."
+            },
+            {
+                "title": "9.",
+                "body": "By the ranking of the model and the fact whether it appears multiple times among the top 5 models with varied docking algorithms, model-1 \\(ZDOCK) is selected."
+            },
+            {
+                "title": "10.",
+                "body": "Model-1 is undergone All atoms molecular dynamics simulation in implicit solvent for 50ns in AMBER14 and the crucial amino acid contacts are analysed."
+            },
+            {
+                "title": "11.",
+                "body": "Using the similar parameters, docking calculations are done for both 1YCS and p53:G-actin complex in PIPER and ClusPro 2.0."
+            }
+        ]
+    }
+]

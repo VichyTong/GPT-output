@@ -1,0 +1,199 @@
+[
+    {
+        "title": "1.",
+        "body": [
+            [
+                {
+                    "DILUTE": {
+                        "emit": [
+                            {
+                                "reagent0": "diluted plasmid DNA"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "plasmid DNA"
+                            },
+                            {
+                                "reagent2": "sterile PBS"
+                            },
+                            {
+                                "targetConcentration": "total amount of DNA/mouse"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "CALCULATE": {
+                        "emit": [],
+                        "slot": [
+                            {
+                                "attribute": "final concentration of the DNA"
+                            },
+                            {
+                                "formula": "total amount of DNA/mouse"
+                            },
+                            {
+                                "variables": "total amount of DNA, mouse"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "2.",
+        "body": [
+            [
+                {
+                    "TAKE": {
+                        "emit": [
+                            {
+                                "reagent0": "diluted plasmid DNA"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "diluted plasmid DNA"
+                            },
+                            {
+                                "volume": "2 ml"
+                            },
+                            {
+                                "device": "3 ml syringe"
+                            },
+                            {
+                                "notice": "Avoid any air bubbles in the syringe."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PUT": {
+                        "emit": [
+                            {
+                                "reagent0": "syringe with 27-gauge needle"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "27-gauge needle"
+                            },
+                            {
+                                "destination": "syringe"
+                            },
+                            {
+                                "notice": "Avoid any air bubbles in the syringe"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "3.",
+        "body": [
+            [
+                {
+                    "WARM": {
+                        "emit": [
+                            {
+                                "reagent0": "mouse"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "mouse"
+                            },
+                            {
+                                "time": "1-2 minutes"
+                            },
+                            {
+                                "device": "Heatlamp"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "4.",
+        "body": [
+            [
+                {
+                    "FIX": {
+                        "emit": [
+                            {
+                                "reagent0": "mouse"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "mouse"
+                            },
+                            {
+                                "reagent2": "Mouse Tail Illuminator"
+                            },
+                            {
+                                "device": "Mouse Tail Illuminator"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "5.",
+        "body": [
+            [
+                {
+                    "INJECT": {
+                        "emit": [
+                            {
+                                "reagent0": "mouse"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "diluted plasmid DNA"
+                            },
+                            {
+                                "reagent2/destination": "tail vein"
+                            },
+                            {
+                                "device": "syringe with 27-gauge needle"
+                            },
+                            {
+                                "notice": "Mice may become less active transiently, but recover within 10 minutes."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "PUT": {
+                        "emit": [
+                            {
+                                "reagent0": "mouse"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "mouse"
+                            },
+                            {
+                                "destination": "cage"
+                            },
+                            {
+                                "notice": "Mice may become less active transiently, but recover within 10 minutes."
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "title": "1.",
+        "body": "Prepare stock solutions of peptides \\(optically active pure and racemic) in water \\(0.1\r\n  mg/mL)."
+    },
+    {
+        "title": "2.",
+        "body": "Prepare required BGE and dissolve suitable and appropriate amount of chiral selector in\r\n  it."
+    },
+    {
+        "title": "3.",
+        "body": "Protocols given in Figure 2 should be used before selecting and preparing BGE."
+    },
+    {
+        "title": "4.",
+        "body": "Filter through 0.45 μm membrane and degas by sonication."
+    },
+    {
+        "title": "5.",
+        "body": "Rinse the capillary for 5 min. with 0.5 M NaOH followed by 10 min with deionize water."
+    },
+    {
+        "title": "6.",
+        "body": "Fill BGE in CE reservoirs and dip the ends of capillary into them."
+    },
+    {
+        "title": "7.",
+        "body": "Rinse capillary for 5 min with BGE."
+    },
+    {
+        "title": "8.",
+        "body": "Inject racemic peptides sample solutions."
+    },
+    {
+        "title": "9.",
+        "body": "Apply appropriate potential and run CE instrument.\r\n  10.. Among the measurements, rinse capillary for 2 min with BGE from time to time."
+    },
+    {
+        "title": "11.",
+        "body": "Optimize the stereo-separations."
+    },
+    {
+        "title": "12.",
+        "body": "Identify the resolved enantiomers by running standard pure optically active stereomers."
+    },
+    {
+        "title": "13.",
+        "body": "Wash capillary by deionised water before stopping HPLC instrument."
+    },
+    {
+        "title": "14.",
+        "body": "Calculate capillary electrophoretic parameters using standard equations \\[14]."
+    },
+    {
+        "title": "15.",
+        "body": "Determine the qualitative and quantitative stereo-separations."
+    }
+]

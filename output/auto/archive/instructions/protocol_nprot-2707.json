@@ -1,0 +1,860 @@
+[
+    {
+        "**Preparation of single-cell suspension from murine secondary lymphoid tissues:**": {
+            "REMOVE": {
+                "slot": {
+                    "item": "murine secondary lymphoid tissues"
+                },
+                "emit": {
+                    "reagent0": "murine secondary lymphoid tissues 0"
+                }
+            }
+        }
+    },
+    {
+        "**1.*": "title or number"
+    },
+    {
+        "* Prepare single-cell suspensions of murine secondary lymphoid tissues, e.g. lymph nodes or spleen, in PBS.": {
+            "DISSECT": {
+                "slot": {
+                    "tissue": "murine secondary lymphoid tissues 0",
+                    "reagent": "PBS"
+                },
+                "emit": {
+                    "tissue0": "murine secondary lymphoid tissues 1"
+                }
+            }
+        }
+    },
+    {
+        "One convenient method is to gently disrupt the tissues between the frosted ends of microscope slides.": ""
+    },
+    {
+        "Filter cell suspension through fine mesh.": {
+            "FILTER": {
+                "slot": {
+                    "mixture": "murine secondary lymphoid tissues 1",
+                    "filterType": "fine mesh"
+                },
+                "emit": {
+                    "reagent0": "murine secondary lymphoid tissues 2"
+                }
+            }
+        }
+    },
+    {
+        "Collect cells in 5ml or 15ml conical tubes.": {
+            "COLLECT": {
+                "slot": {
+                    "item": "murine secondary lymphoid tissues",
+                    "container": "5ml or 15ml conical tubes"
+                },
+                "emit": {
+                    "collectedItem": "murine secondary lymphoid tissues 3"
+                }
+            }
+        }
+    },
+    {
+        "_": "title or number"
+    },
+    {
+        "Note:": "title or number"
+    },
+    {
+        "Tfh cells can be assessed in other tissues as well.": {
+            "ASSESS": {
+                "slot": {
+                    "sample": "murine secondary lymphoid tissues",
+                    "method": "Preparation of single-cell suspension"
+                },
+                "emit": {
+                    "result": "Tfh cells can be assessed in other tissues as well 0"
+                }
+            }
+        }
+    },
+    {
+        "Pilot experiments should be performed to ensure that enzymatic digestions needed to release single cell suspensions do not interfere with antibody detection of CXCR5, PD-1 or BCL6._": {
+            "PERFORM": {
+                "slot": {
+                    "procedure": "enzymatic digestions",
+                    "reagent": "antibody detection of CXCR5, PD-1 or BCL6"
+                },
+                "emit": {
+                    "result": "single cell suspensions 0"
+                }
+            }
+        }
+    },
+    {
+        "**2.**": "title or number"
+    },
+    {
+        "Optional: Red blood cell lysis \\(recommended for spleen).": ""
+    },
+    {
+        "**3.*": "title or number"
+    },
+    {
+        "* Spin down cells in centrifuge, discard supernatant, and resuspend pellet in PBS.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "supernatant"
+                },
+                "emit": {
+                    "item": "supernatant 0"
+                }
+            }
+        }
+    },
+    {
+        "**4.** Count cells.": {
+            "COUNT": {
+                "slot": {},
+                "emit": {
+                    "cellCount": "murine secondary lymphoid tissues 4"
+                }
+            }
+        }
+    },
+    {
+        "**5.*": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "Adjust cell numbers with PBS and add \u22643x10<sup>6</sup> cells in 100\u00b5l per well of a 96-well round-bottom plate.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "PBS",
+                    "reagent2": [
+                        "murine secondary lymphoid tissues 4"
+                    ],
+                    "volume": "100\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "murine secondary lymphoid tissues 4 1"
+                }
+            }
+        }
+    },
+    {
+        "**6.*": "title or number"
+    },
+    {
+        "* Continue with step **7** or step **17**.": ""
+    },
+    {
+        "**Staining protocol for identification of viable CXCR5<sup>hi</sup>PD-1<sup>hi</sup>": ""
+    },
+    {
+        "Tfh cells for analysis and/or sorting:**": ""
+    },
+    {
+        "**7.*": "title or number"
+    },
+    {
+        "* Prepare primary antibody 2x mixes in flow buffer in 1.5ml Eppendorf tubes.": {
+            "MIX": {
+                "slot": {
+                    "reagent1": "primary antibody",
+                    "reagent2": [
+                        "flow buffer"
+                    ],
+                    "volume": "1.5ml",
+                    "device": "Eppendorf tubes"
+                },
+                "emit": {
+                    "reagent0": "primary antibody 2x mixes 0"
+                }
+            }
+        }
+    },
+    {
+        "Calculate with 20\u00b5l volume to be added per well of the plate \\(40\u00b5l final staining volume).": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "primary antibody 2x mixes",
+                    "volume": "20\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "primary antibody 2x mixes 1"
+                }
+            }
+        }
+    },
+    {
+        "If several samples are to be stained, calculate the total volume needed by multiplying the number of samples by the volume of the 2x mix to be added to each well of sample \\(20\u00b5l), e.g. for 10 samples:": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "primary antibody 2x mixes",
+                    "volume": "20\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "primary antibody 2x mixes 2"
+                }
+            }
+        }
+    },
+    {
+        "10x 20\u00b5l": "title or number"
+    },
+    {
+        "+ 40\u00b5l extra void volume = 240\u00b5l.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "primary antibody 2x mixes",
+                    "volume": "40\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "primary antibody 2x mixes 3"
+                }
+            }
+        }
+    },
+    {
+        "Include anti-CXCR5-biotin \\(1:25 for 2x mix; final dilution will be 1:50), anti-CD4, and anti-PD-1.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "primary antibody 2x mixes",
+                    "reagent2": [
+                        "anti-CXCR5-biotin",
+                        "anti-CD4",
+                        "anti-PD-1"
+                    ],
+                    "ratio": "1:25 for 2x mix; final dilution will be 1:50"
+                },
+                "emit": {
+                    "reagent0": "primary antibody 2x mixes 4"
+                }
+            }
+        }
+    },
+    {
+        "Also prepare compensation control stains if necessary.": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "compensation control stains"
+                },
+                "emit": {
+                    "reagent0": "compensation control stains 0"
+                }
+            }
+        }
+    },
+    {
+        "Keep tubes on ice until needed.": {
+            "COOL": {
+                "slot": {
+                    "reagent1": "tubes",
+                    "temperature": "ice"
+                },
+                "emit": {
+                    "reagent0": "tubes 0"
+                }
+            }
+        }
+    },
+    {
+        "_": "title or number"
+    },
+    {
+        "Note: Optimal dilutions of antibodies should be determined in pilot experiments.": {
+            "MEASURE": {
+                "slot": {
+                    "device": "pilot experiments",
+                    "parameter": "Optimal dilutions of antibodies"
+                },
+                "emit": {
+                    "measurement": "determined 0"
+                }
+            }
+        }
+    },
+    {
+        "B cells express high levels of CXCR5 and can be used as a positive control for this chemokine._": ""
+    },
+    {
+        "_": "title or number"
+    },
+    {
+        "Note:": "title or number"
+    },
+    {
+        "Right before use, spin tubes in a microcentrifuge for 3min at full speed to remove excess protein aggregates; only use supernatant._": {
+            "REMOVE": {
+                "slot": {
+                    "item": "excess protein aggregates",
+                    "method": "spin",
+                    "device": "microcentrifuge"
+                },
+                "emit": {
+                    "item": "supernatant 1"
+                }
+            }
+        }
+    },
+    {
+        "**8.*": "title or number"
+    },
+    {
+        "* Spin down plate at 700g for 2min, discard supernatant by quickly flicking the plate, and loosen cell pellet by briefly vortexing the plate on full speed setting \\(add a paper towel on top of the plate to avoid any potential spill-over)": {
+            "REMOVE": {
+                "slot": {
+                    "item": "supernatant 1",
+                    "method": "by quickly flicking the plate"
+                },
+                "emit": {
+                    "reagent0": "supernatant 2"
+                }
+            }
+        }
+    },
+    {
+        "**9.*": "title or number"
+    },
+    {
+        "* Wash cells with 200\u00b5l flow buffer \\(for analysis only use flow buffer with 0.05% sodium azide, for sorting viable cells use flow buffer without sodium azide).": {
+            "RINSE": {
+                "slot": {
+                    "object": "cells",
+                    "rinseMaterial": "flow buffer",
+                    "volume": "200\u00b5l"
+                },
+                "emit": {
+                    "object": "washed cells 0"
+                }
+            }
+        }
+    },
+    {
+        "**10.*": "title or number"
+    },
+    {
+        "* Repeat step **8**.": ""
+    },
+    {
+        "**11.*": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "Add 20\u00b5l of blocking solution: 5\u00b5g/ml anti-CD16/32 \\(\u201cFc-block\u201d) and 2% normal mouse serum/2% normal rat serum in flow buffer.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "flow buffer",
+                    "reagent2": [
+                        "anti-CD16/32",
+                        "normal mouse serum",
+                        "normal rat serum"
+                    ],
+                    "volume": "20\u00b5l",
+                    "concentration": "5\u00b5g/ml"
+                },
+                "emit": {
+                    "reagent0": "blocking solution 0"
+                }
+            }
+        }
+    },
+    {
+        "Incubate for 5min on ice.": {
+            "COOL": {
+                "slot": {
+                    "reagent1": "primary antibody 2x mixes 2",
+                    "temperature": "ice",
+                    "time": "5min"
+                },
+                "emit": {
+                    "reagent0": "primary antibody 2x mixes 5"
+                }
+            }
+        }
+    },
+    {
+        "**12.": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "Add 20\u00b5l of 2x primary antibody mixes \\(from step **7**) on top of the blocking solution \\(don\u2019t wash in between).": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "blocking solution 0",
+                    "reagent2": [
+                        "primary antibody 2x mixes 3"
+                    ],
+                    "volume": "20\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "blocking solution 1"
+                }
+            }
+        }
+    },
+    {
+        "Incubate for 30-40min on ice. ": {
+            "COOL": {
+                "slot": {
+                    "reagent1": "primary antibody 2x mixes 4",
+                    "temperature": "ice",
+                    "time": "30-40min"
+                },
+                "emit": {
+                    "reagent0": "primary antibody 2x mixes 6"
+                }
+            }
+        }
+    },
+    {
+        "**13.*": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "Add 160\u00b5l of flow buffer and repeat step **8** and **9** and again **8**.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "washed cells 0",
+                    "volume": "160\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "flow buffer 0"
+                }
+            }
+        }
+    },
+    {
+        "**14.": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "Add 40\u00b5l of streptavidin-APC \\(0.5\u00b5g/ml final concentration in flow buffer) per well and incubate for 15-20min on ice.": {
+            "INCUBATE": {
+                "slot": {
+                    "reagent1": "streptavidin-APC",
+                    "temperature": "ice",
+                    "time": "15-20min"
+                },
+                "emit": {
+                    "reagent0": "streptavidin-APC 0"
+                }
+            }
+        }
+    },
+    {
+        "**15.": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "* Repeat step **8** and **9**.": ""
+    },
+    {
+        "**16.": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "Resuspend cells in flow buffer for subsequent analysis on a flow cytometer or for cell sorting.": {
+            "SUSPEND": {
+                "slot": {
+                    "reagent1": "washed cells 0",
+                    "reagent2": "flow buffer"
+                },
+                "emit": {
+                    "reagent0": "washed cells 1"
+                }
+            }
+        }
+    },
+    {
+        "Include a viability dye \\(e.g.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "viability dye"
+                },
+                "emit": {
+                    "reagent0": "viability dye 0"
+                }
+            }
+        }
+    },
+    {
+        "7-AAD) that allows for the exclusion of dead cells, e.g. resuspend cells in 100\u00b5l flow buffer and add 1\u00b5l of 7-AAD.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "viability dye 0"
+                },
+                "emit": {
+                    "reagent0": "viability dye 1"
+                }
+            }
+        }
+    },
+    {
+        "_": "title or number"
+    },
+    {
+        "Note: Exclusion of dead cells is a very critical step, as dying cells stain non-specifically with antibodies for CXCR5 and PD-1._": ""
+    },
+    {
+        "**Staining protocol for identification of CXCR5<sup>+</sup>BCL6<sup>+</sup> Tfh cells for analysis:**": ""
+    },
+    {
+        "**17.*": "title or number"
+    },
+    {
+        "* Following steps **1** through **6**, add 100\u00b5l of 1:1000-diluted eFluor780 Fixable Viability Dye \\(eBioscience) in PBS \\(no serum/protein, no sodium azide) to the 100\u00b5l of cells.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "washed cells 0",
+                    "reagent2": "eFluor780 Fixable Viability Dye",
+                    "volume": "100\u00b5l",
+                    "ratio": "1:1000"
+                },
+                "emit": {
+                    "reagent0": "washed cells 2"
+                }
+            }
+        }
+    },
+    {
+        "Incubate for 10min on ice.": {
+            "COOL": {
+                "slot": {
+                    "reagent1": "primary antibody 2x mixes 5",
+                    "temperature": "ice",
+                    "time": "10min"
+                },
+                "emit": {
+                    "reagent0": "primary antibody 2x mixes 5 1"
+                }
+            }
+        }
+    },
+    {
+        "_": "title or number"
+    },
+    {
+        "Note: Exclusion of dead cells is a very critical step, as dying cells stain non-specifically with antibodies for CXCR5, PD-1, and BCL6._": ""
+    },
+    {
+        "**18.*": "title or number"
+    },
+    {
+        "* Follow steps **7** through **15** for regular surface staining.": ""
+    },
+    {
+        "**19.*": "title or number"
+    },
+    {
+        "* Prepare Fixation/Permeabilization solution as well as Permeabilization buffer from the eBioscience FoxP3 staining buffer set according to the manufacturer\u2019s instructions.": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "eBioscience FoxP3 staining buffer set",
+                    "reagent2": [
+                        "Fixation/Permeabilization solution",
+                        "Permeabilization buffer"
+                    ]
+                },
+                "emit": {
+                    "reagent0": "eBioscience FoxP3 staining buffer set 0"
+                }
+            }
+        }
+    },
+    {
+        "**20.*": "title or number"
+    },
+    {
+        "* Loosen cell pellet and add 100\u00b5l Fixation/Permeabilization solution from the eBioscience FoxP3 staining buffer set per well and incubate for 15min at room temperature.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "cell pellet"
+                },
+                "emit": {
+                    "reagent0": "cell pellet 0"
+                }
+            }
+        }
+    },
+    {
+        "**21.": "title or number"
+    },
+    {
+        "** Prepare transcription factor antibody 2x mixes in Permeabilization buffer from the eBioscience FoxP3 staining buffer set in 1.5ml Eppendorf tubes.": {
+            "MIX": {
+                "slot": {
+                    "reagent1": "transcription factor antibody",
+                    "reagent2": [
+                        "Permeabilization buffer",
+                        "eBioscience FoxP3 staining buffer set"
+                    ],
+                    "device": "1.5ml Eppendorf tubes"
+                },
+                "emit": {
+                    "reagent0": "transcription factor antibody 2x mixes 0"
+                }
+            }
+        }
+    },
+    {
+        "Calculate with 20\u00b5l volume to be added per well of the plate \\(40\u00b5l final staining volume).": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "well of the plate",
+                    "volume": "20\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "well of the plate 0"
+                }
+            }
+        }
+    },
+    {
+        "If several samples are to be stained, calculate the total volume needed by multiplying the number of samples by the volume of the 2x mix to be added to each well of sample \\(20\u00b5l), e.g. for 10 samples:": ""
+    },
+    {
+        "10x 20\u00b5l": "title or number"
+    },
+    {
+        "+ 40\u00b5l extra void volume = 240\u00b5l.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "well of the plate 0",
+                    "volume": "240\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "well of the plate 1"
+                }
+            }
+        }
+    },
+    {
+        "Include anti-BLC6-PE antibody \\(1:25 for 2x mix; final dilution will be 1:50) and/or other transcription factor antibodies.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "transcription factor antibody 2x mixes 0",
+                    "reagent2": [
+                        "anti-BLC6-PE antibody"
+                    ],
+                    "ratio": "1:25 for 2x mix"
+                },
+                "emit": {
+                    "reagent0": "transcription factor antibody 2x mixes 1"
+                }
+            }
+        }
+    },
+    {
+        "Also prepare compensation control stains if necessary.": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "eBioscience FoxP3 staining buffer set 0"
+                },
+                "emit": {
+                    "reagent0": "eBioscience FoxP3 staining buffer set 1"
+                }
+            }
+        }
+    },
+    {
+        "Keep tubes on ice until needed.": {
+            "COOL": {
+                "slot": {
+                    "reagent1": "tubes",
+                    "temperature": "ice"
+                },
+                "emit": {
+                    "reagent0": "tubes 1"
+                }
+            }
+        }
+    },
+    {
+        "_": "title or number"
+    },
+    {
+        "Note: Optimal dilutions of antibodies should be determined in pilot experiments.": {
+            "MEASURE": {
+                "slot": {
+                    "device": "pilot experiments",
+                    "parameter": "Optimal dilutions of antibodies"
+                },
+                "emit": {
+                    "measurement": "determined 1"
+                }
+            }
+        }
+    },
+    {
+        "If available, GC B cells express high levels of BCL6 and can be used as a positive control.": ""
+    },
+    {
+        "_": "title or number"
+    },
+    {
+        "_": "title or number"
+    },
+    {
+        "Note:": "title or number"
+    },
+    {
+        "Right before use, spin tubes in a microcentrifuge for 3min at full speed to remove excess protein aggregates; only use supernatant._": {
+            "REMOVE": {
+                "slot": {
+                    "item": "excess protein aggregates",
+                    "method": "spin",
+                    "device": "microcentrifuge"
+                },
+                "emit": {
+                    "item": "supernatant 3"
+                }
+            }
+        }
+    },
+    {
+        "**22.*": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "Add 100\u00b5l Permeabilization buffer from the eBioscience FoxP3 staining set to the 100\u00b5l of cells per well and spin down.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "cell pellet 0",
+                    "reagent2": [
+                        "eBioscience FoxP3 staining buffer set 0"
+                    ],
+                    "volume": "100\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "cell pellet 1"
+                }
+            }
+        }
+    },
+    {
+        "**23.": "title or number"
+    },
+    {
+        "** Wash 1x with 200\u00b5l Permeabilization buffer.": {
+            "RINSE": {
+                "slot": {
+                    "object": "cell pellet 0",
+                    "rinseMaterial": "Permeabilization buffer",
+                    "times": 1,
+                    "volume": "200\u00b5l"
+                },
+                "emit": {
+                    "object": "cell pellet 2"
+                }
+            }
+        }
+    },
+    {
+        "**24.*": "title or number"
+    },
+    {
+        "* Loosen cell pellet and add 20\u00b5l of blocking solution: 5\u00b5g/ml anti-CD16/32 \\(\u201cFc-block\u201d) and 2% normal mouse serum/2% normal rat serum in Permeabilization buffer.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "cell pellet 1",
+                    "reagent2": [
+                        "blocking solution",
+                        "anti-CD16/32",
+                        "normal mouse serum",
+                        "normal rat serum",
+                        "Permeabilization buffer"
+                    ],
+                    "volume": "20\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "cell pellet 3"
+                }
+            }
+        }
+    },
+    {
+        "Incubate for 5min at room temperature.": ""
+    },
+    {
+        "**25.*": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "Add 20\u00b5l of 2x transcription factor antibody mixes \\(from step **21**) on top of the blocking solution \\(don\u2019t wash in between).": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "blocking solution",
+                    "reagent2": [
+                        "transcription factor antibody 2x mixes 1"
+                    ],
+                    "volume": "20\u00b5l"
+                },
+                "emit": {
+                    "reagent0": "blocking solution 2"
+                }
+            }
+        }
+    },
+    {
+        "Incubate for 30-40min at room temperature.": ""
+    },
+    {
+        "**26.** Wash 2x with Permeabilization buffer.": {
+            "RINSE": {
+                "slot": {
+                    "object": "cell pellet 1",
+                    "rinseMaterial": "Permeabilization buffer",
+                    "times": 2
+                },
+                "emit": {
+                    "object": "cell pellet 4"
+                }
+            }
+        }
+    },
+    {
+        "**27.*": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "Resuspend cells in flow buffer for acquisition on a flow cytometer.": {
+            "ACQUIRE": {
+                "slot": {
+                    "data_type": "cells",
+                    "device": "flow cytometer"
+                },
+                "emit": {
+                    "data": "cells 0"
+                }
+            }
+        }
+    }
+]

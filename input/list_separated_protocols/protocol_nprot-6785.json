@@ -1,0 +1,159 @@
+[
+    {
+        "title": "**Reagent setup**",
+        "body": "HB \\(homogenization buffer) stock 10X \\(100 mL)\r\n\n\n1.21 g Trizma base\r\n\n\n5.96 g KCl\r\n\n\n20 mL 0.5 M EDTA\r\n\n\n0.255 g Spermidine\r\n\n\n0.348 g Spermine\r\n\n\nFill to 100 mL with ddH20, adjust pH to 9-9.4 with 10 N NaOH drops. Can store at 4 °C in glass bottle for up to 1 year.\r\n\n\n\r\n\n\nHB 1X solution \\(1000 mL)\r\n\n\n100 mL 10X HB\r\n\n\n171.2 g sucrose\r\n\n\nFill to 700 mL with ddH20, stir until dissolved. Bring to final volume of 1L. Can store at 4 °C in glass bottle for 3 months. \r\n\n\n\r\n\n\nTriton X-100 \\(20% vol/vol, 100 mL)\r\n\n\n20 mL Triton X-100\r\n\n\n10 mL 10X HB\r\n\n\n17.15 g sucrose\r\n\n\nFill to 60 mL ddH20, stir until dissolved. Bring to a final volume of 100 mL. Can store at 4 °C in glass bottle for up to 1 year. \r\n\n\n\r\n\n\nPrepare day of isolation:\r\n\n\nNIB \\(nuclear isolation buffer)\r\n\n\nMake 10 mL NIB per gram of tissue, plus an additional 50 mL for washes. Example recipe for 5 g of tissue:\r\n\n\n97.5 mL 1X HB\r\n\n\n2.5 mL Triton X-100 mix\r\n\n\n250 μl B-mercaptoethanol \\(add immediately before use)\r\n\n\n1 g PVP\r\n\n\nStir until mixed"
+    },
+    {
+        "title": "**Procedure**",
+        "body": []
+    },
+    {
+        "title": "**Nuclei Isolation:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Grind 1 gram of tissue, preferably fresh or snap frozen, into fine powder in liquid nitrogen with a mortar and pestle. Immediately transfer ground tissue to capped 250 mL bottle containing 10 mL NIB. Cap bottle and attach to end over end mixer, rotating at max speed for 15 min at 4 °C. \r\n  - Alternatively, lay bottles on their side on a shaker \\(150 rpm), or transfer ground tissue to a beaker capped with foil and mix on stir plate with stir bar at 4 °C for 15 minutes."
+            },
+            {
+                "title": "2.",
+                "body": "Using a funnel, gravity filter homogenate through 5 layers of Miracloth into a 50 mL conical tube. Cap tube and centrifuge at 4 °C for 20 min. \r\n  - Speed of centrifugation is dependent upon size of genome: for larger genomes such as redwood \\(30 Gb), we spun down at 1900 x g, but for smaller genomes like walnut \\(1 Gb) we spun down at 2900 x g, and maize \\(2.5 Gb) was spun down at 2500 x g."
+            },
+            {
+                "title": "3.",
+                "body": "Decant the supernatant and add 1 mL cold NIB to pellet. Resuspend pellet with paint brush pre-soaked in NIB. \r\n  - Pipetting up and down with wide bore tips works for some species \\(for example maize) but for many species the pellet is too sticky to allow for sufficient resuspension by pipet."
+            },
+            {
+                "title": "4.",
+                "body": "Transfer 1 mL nuclei suspension to a 15mL conical."
+            },
+            {
+                "title": "5.",
+                "body": "Bring volume up to 15 mL with ice-cold NIB. Centrifuge at same speed and temperature as used in step 2 for 10 minutes."
+            },
+            {
+                "title": "6.",
+                "body": "If after centrifugation supernatant is clear, decant supernatant and take pellet into step"
+            },
+            {
+                "title": "7.",
+                "body": "If coloration remains in the supernatant after centrifugation, dispose of supernatant and resuspend nuclei pellet in NIB, bringing volume up 10-15 mL, and repeat centrifugation under conditions used in step"
+            },
+            {
+                "title": "5.",
+                "body": "- For conifer tissue it was important to repeat this step 3-5X; however, in maize tissue subsequent washes have been unnecessary."
+            },
+            {
+                "title": "7.",
+                "body": "Remove supernatant and resuspend in 1 mL 1X HB."
+            },
+            {
+                "title": "8.",
+                "body": "At this point, you can either snap freeze nuclei or proceed to lysis. If snap freezing, spin down your nuclei suspension in a 1.5 mL tube at 5000-7000 x g for 5 minutes, remove supernatant and snap freeze in liquid nitrogen, then store at -80  °C. If proceeding to Nanobind-assisted DNA purification, spin down your nuclei suspension in a 1.5 mL tube at 5000-7000 x g for 5 minutes, remove supernatant and proceed with step 1 of the Nanobind-assisted DNA purification section below."
+            }
+        ]
+    },
+    {
+        "title": "**Nanobind-assisted DNA Purification:**",
+        "body": [
+            "Note: this protocol reflects v0.17. Please visit www.circulomics.com/support-nanobind for protocol updates.",
+            {
+                "title": "1.",
+                "body": "Resuspend isolated plant cell nuclei with 30 μL of Proteinase K and vortex on high until fully resuspended. Spin tube on mini-centrifuge for 2 s to remove liquid from cap.\r\n  - Proper resuspension and mixing of the nuclei pellet is necessary to ensure efficient lysis.\r\n\n\n- Vortexing is critical and will not damage high molecular weight DNA at this step.\r\n\n\n- If removal of RNA is not necessary, proceed directly to step"
+            },
+            {
+                "title": "3.",
+                "body": ""
+            },
+            {
+                "title": "2.",
+                "body": "Optional for removal of RNA: add 10 μL of RNase A and pulse vortex 5X to mix. Spin tube on mini-centrifuge for 2 s to remove liquid from cap. Incubate at room temperature \\(RT) \\(18–25 °C) for 3 min."
+            },
+            {
+                "title": "3.",
+                "body": "Add 80 μL Buffer PL1 to the sample and pulse vortex 10X to mix. Spin tube on mini-centrifuge for 2 s to remove liquid from cap.\r\n  - Thorough mixing at this step is necessary to ensure complete lysis of the nuclei. Sample should appear cloudy and very viscous but homogeneous.\r\n\n\n- If sample appears inhomogeneous, vortex continuously on high speed for 10 s. DNA is protected at this stage and vortexing should not damage the DNA significantly."
+            },
+            {
+                "title": "4.",
+                "body": "Incubate on a ThermoMixer at 55 °C and 900 rpm for 30 min.\r\n  - Mid-lysis pulse vortex \\(5X) will enhance mixing \\(pulse vortexing at this stage will still result in very large DNA).\r\n\n\n- If a ThermoMixer is not available, incubate at 55 °C in a dry bath incubator or water bath. Invert mix 5X every 5 min.\r\n\n\n- If sample does not appear to be lysed, incubation time can be increased up to 2 h."
+            },
+            {
+                "title": "5.",
+                "body": "Centrifuge lysate for 5 min at 16000 x g at RT."
+            },
+            {
+                "title": "6.",
+                "body": "Transfer supernatant to new 1.5 mL Protein LoBind microcentrifuge tube using a wide bore pipette.\r\n  - The DNA should be handled carefully from this point forward to prevent shearing."
+            },
+            {
+                "title": "7.",
+                "body": "Add Nanobind disk to supernatant followed by 1X volume of isopropanol.\r\n  - If the volume of supernatant is greater than 150 µL, the volume of isopropanol should be adjusted accordingly.\r\n\n\n- For best results, the Nanobind disk should always be added before isopropanol."
+            },
+            {
+                "title": "8.",
+                "body": "Carefully mix for 20 min at RT. Verify that the fluid is continuously mixing and that the Nanobind disk remains submerged in the binding solution throughout the binding process for efficient recovery of DNA.\r\n  - Mixing can be performed by inverting the tubes and placing them cap-side down on a HulaMixer \\(Thermo Fisher) or similar device.\r\n\n\n- If a HulaMixer in not available, manually mix the tubes by inversion \\(e.g., 5X inversions every 2-3 min) to facilitate binding.\r\n\n\n- A tube rotator is not recommended, as low reaction volume precludes adequate mixing during end over end rotation."
+            },
+            {
+                "title": "9.",
+                "body": "Place tubes in magnetic tube rack."
+            },
+            {
+                "title": "10.",
+                "body": "While the tube is on the magnet, discard the supernatant, avoiding contact with the Nanobind disk."
+            },
+            {
+                "title": "11.",
+                "body": "Add 500 μL of Buffer PW1, inversion mix 4X, replace tube rack on the magnetic base, and discard the supernatant."
+            },
+            {
+                "title": "12.",
+                "body": "Repeat step"
+            },
+            {
+                "title": "11.",
+                "body": ""
+            },
+            {
+                "title": "13.",
+                "body": "Remove any residual liquid from cap of 1.5 mL tube."
+            },
+            {
+                "title": "14.",
+                "body": "Spin the tube on a mini-centrifuge for 2 s and remove the residual liquid.\r\n  - If the Nanobind disk is blocking the bottom of the tube, gently push it aside with the tip of the pipette. At this stage, DNA is tightly bound to the disk and gently manipulating the disk with a pipette tip should not cause any damage."
+            },
+            {
+                "title": "15.",
+                "body": "Repeat step"
+            },
+            {
+                "title": "14.",
+                "body": "If residual wash buffer remains on Nanobind or sidewalls of tube, repeat step 14 until tube and Nanobind appears dry."
+            },
+            {
+                "title": "16.",
+                "body": "Add 50-200 μL Buffer EB spin the tube on a mini-centrifuge for 2 s. Incubate at room temperature for 10 min. Confirm the entire Nanobind disk is fully immersed in Buffer EB during elution. \r\n  - Elution volumes can be adjusted depending on downstream concentration requirements.\r\n\n\n- The Nanobind disk may be compressed into the bottom of the tube using a pipette tip without causing any damage to the process."
+            },
+            {
+                "title": "17.",
+                "body": "Collect extracted DNA by transferring eluate to a new 1.5 mL microcentrifuge tube using a wide bore pipette. Spin the tube on a mini-centrifuge for 5 s and transfer any remaining eluted DNA. Repeat if necessary.\r\n  - Using a wide bore pipette helps to ensure that the extracted DNA is 50–300+ kb in length.\r\n\n\n- For high molecular weight DNA, the extracted DNA can be inhomogeneous. This is normal and is one of the challenges with working with high molecular weight DNA. Leaving the extracted DNA at room temperature overnight can increase the homogeneity."
+            },
+            {
+                "title": "18.",
+                "body": "Analyze the recovery and purity of the DNA by NanoDrop and Qubit."
+            }
+        ]
+    },
+    {
+        "title": "**Oxford Nanopore Technologies Protocol Modifications:**",
+        "body": [
+            "The ligation protocol was carried out as described for the LSK108 1D nanopore library preparation, with the exception of the following steps:",
+            {
+                "title": "1.",
+                "body": "Input to ligation protocol was 1.5 μg gDNA sheared to 8 kb with the Diagenode Megaruptor. Shearing to 10 kb with Covaris G-tubes \\(5000 x g for 1 min each way) achieves similar results. Alternatively, for longer reads it is recommended not to shear and perform the ligation protocol as recommended, or include a size selection step with the Blue Pippin \\(Sage Sciences). Sequencing outcomes for all options are given in table below."
+            },
+            {
+                "title": "2.",
+                "body": "End repair \\(NEBNext Ultra II) volumes were doubled over protocol recommendations \\(100 µl buffer, 14 µl enzyme), and the reaction was incubated at 20 °C for 20 min and 65 °C for 20 min."
+            }
+        ]
+    }
+]

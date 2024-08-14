@@ -1,0 +1,14 @@
+[
+    {
+        "index": 9,
+        "string": "- Isolate microspores as previously described7: stir for 2-3 min. at 1500 rpm \\(maximum speed), until the mixture of microspores, anther debris and medium becomes milky; collect the resulting suspension, and filter it through a 40 \u00b5m cell strainer \\(nylon sieve).",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the process of isolating microspores, which includes stirring the mixture and filtering it through a cell strainer."
+    },
+    {
+        "index": 50,
+        "string": "- Isolate nuclei from homozygous calli samples or from young leaves of regenerated plantlets, as previously described<sup>14</sup>.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the method of isolating nuclei from homozygous calli samples or from young leaves of regenerated plantlets, which was described in a previous source (reference 14)."
+    }
+]

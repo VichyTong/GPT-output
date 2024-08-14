@@ -1,0 +1,102 @@
+[
+    {
+        "title": "1.",
+        "body": "Anesthetize the mouse by intraperitoneal injection of sodium pentobarbital according to manufacturer guideline."
+    },
+    {
+        "title": "2.",
+        "body": "Immobilize the fully anesthetized animal on an appropriate surface surrounded by a plastic container for recovery of any biological fluid."
+    },
+    {
+        "title": "3.",
+        "body": "Cut open the chest and secure the tissue in order to obtain visibility of the hart."
+    },
+    {
+        "title": "4.",
+        "body": "Insert a 20-gauge needle hooked up to a perfusion pump into the left ventricle."
+    },
+    {
+        "title": "5.",
+        "body": "Perform a small incision into the left atrium and perfuse the animal at 3ml/min for 3 minutes with TBS."
+    },
+    {
+        "title": "6.",
+        "body": "Switch the perfusion to CS at 3ml/min for additional 3 minutes."
+    },
+    {
+        "title": "7.",
+        "body": "Remove the brain from the skull and postfix it in CS for 1h at RT."
+    },
+    {
+        "title": "8.",
+        "body": "Wash the tissue twice with TBS to remove residual CS and place it in CPB until it sinks to the bottom of the tube."
+    },
+    {
+        "title": "9.",
+        "body": "Wash the brain twice with TBS to remove excess sucrose"
+    },
+    {
+        "title": "10.",
+        "body": "Embed the brain in OCT and snap-freeze it using liquid nitrogen. Store blocks \r\n  at -80ºC until use."
+    },
+    {
+        "title": "11.",
+        "body": "Prepare cryosections of 30-to-40 µm thickness in the appropriate orientation using a cryostat. Place free-floating sections in 24 well plates with 300µl TBS maintaining the sequential order."
+    },
+    {
+        "title": "12.",
+        "body": "Wash the sections twice with 300µl TBS for 10min."
+    },
+    {
+        "title": "13.",
+        "body": "Incubate for 30min at RT with QS."
+    },
+    {
+        "title": "14.",
+        "body": "Wash three times with 300 µl WS."
+    },
+    {
+        "title": "15.",
+        "body": "Incubate for 1h at RT with BB."
+    },
+    {
+        "title": "16.",
+        "body": "Remove BB and incubate tissues with 200µl AIB with 1:200 dilution of anti-preproenkephalin antibody and incubate overnight at 4ºC with gentle rocking."
+    },
+    {
+        "title": "17.",
+        "body": "Wash tissues three times as above."
+    },
+    {
+        "title": "18.",
+        "body": "Incubate with Alexa488-cognugated secondary antibody 1:1000 dilutions in AIB for 3h at RT with gentle rocking."
+    },
+    {
+        "title": "19.",
+        "body": "Wash three times as above"
+    },
+    {
+        "title": "20.",
+        "body": "Counterstain the tissue with 100ng/ml DAPI for 10 minutes at RT"
+    },
+    {
+        "title": "21.",
+        "body": "Wash once as above"
+    },
+    {
+        "title": "22.",
+        "body": "Place sections on a gelatin-coated slide using a fine brush"
+    },
+    {
+        "title": "23.",
+        "body": "As soon as the sections appear dry mount the slides using Vectashield Mounting Medium and cover with a coverslip glass"
+    },
+    {
+        "title": "24.",
+        "body": "Seal the edges of the coverslip with nail polish to reduce oxidation of the mounting medium"
+    },
+    {
+        "title": "25.",
+        "body": "Let the slides dry at RT for 30 minutes and then proceed with the analysis."
+    }
+]

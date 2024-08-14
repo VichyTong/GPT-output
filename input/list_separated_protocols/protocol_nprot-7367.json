@@ -1,0 +1,71 @@
+[
+    "\nPrepare protein extracts from cultured cells:",
+    {
+        "title": "1.",
+        "body": "place 10cm petri dish \\(where cells are cultured) on ice"
+    },
+    {
+        "title": "2.",
+        "body": "wash profusely 3 times with cold PBS \\(keep cell culture dishes on ice), vacuum-suck the extra volume of PBS at last wash"
+    },
+    {
+        "title": "3.",
+        "body": "add between 750uL and 1.5mL of freshly prepared, cold Cell Lysis Buffer \\(dilute 10x cell lysis buffer from Cell Signaling with ddH2O, and complement with ThermoScientific \"Halt Protease & Phosphatase \\(100x)\")"
+    },
+    {
+        "title": "4.",
+        "body": "scrape cells with regular flat tip scraper \\(keep on ice)"
+    },
+    {
+        "title": "5.",
+        "body": "tilt petri dish and leave for 5min cell suspension in lysis buffer/inhibitor cocktail \\(keep on ice)"
+    },
+    {
+        "title": "6.",
+        "body": "collect the cell lysates in eppendorf centrifuge tubes"
+    },
+    {
+        "title": "7.",
+        "body": "spin for 15min at 14,000rpm at 4degC"
+    },
+    {
+        "title": "8.",
+        "body": "transfer the supernatant in new tube \\(do not collect any pelleted debris), aliquot 50 to 100uL \\(or larger volumes) per eppendorf, and freeze at -80deg\r\n  \r\n\n\nPrepare protein extracts from tissue biospecimens."
+    },
+    {
+        "title": "1.",
+        "body": "flash-freeze resected tissue and store at -80degC"
+    },
+    {
+        "title": "2.",
+        "body": "on the day of protein extraction, pulverize tissues and collect in tubes \\(keep on ice at all time)."
+    },
+    {
+        "title": "3.",
+        "body": "add between 750uL and 1.5mL of freshly prepared cold Cell Lysis Buffer, and follow the protocol detailed for the cultured cells \\(above)\r\n  \r\n\n\nKinase enzyme activity assay. \r\n\n\nSTEP 1: automated liquid dispensing of kinase assay reagents and incubation"
+    },
+    {
+        "title": "1.",
+        "body": "Use/program a liquid dispensing instrument to aliquot: peptide + sample + ATP + buffer solutions in 384-well plates, where each well contains one peptide, and an individual 384-well plate simultaneously assesses the phosphorylation activity profile of one sample."
+    },
+    {
+        "title": "2.",
+        "body": "Keep all reagents on ice \\(or on cold blocks) until enzymatic reactions are started."
+    },
+    {
+        "title": "3.",
+        "body": "Automate the dispensing of a final 8uL reaction mixture per well in 384-well plates, where each well contains the following reagents: \r\n  - kinase assay buffer \\(KaB1x): prepared daily and diluted in ddH2O from KaB10x stock solution Cell Signaling cat.# 9802.\r\n\n\n- 250nM ATP: prepared and diluted daily from ATP stock solution \\(Cell Signaling cat.# 9804) in KaB1x.\r\n\n\n- 200ug/mL 11-mer peptide: lyophilized stocks originally prepared as 1mg/mL in KaB1x, 5% DMSO)\r\n\n\n- samples: typically made of either 5ng/uL recombinant kinase enzyme protein or 10ug/mL protein extract from cell or tissue lysates kept on ice and diluted in KaB1x <30min before experimental testing \\(protein extracts from biological samples prepared\r\n\n\nCRITICAL STEP: while dispensing steps occur, keep all 384-well plates on cold blocks at all time"
+    },
+    {
+        "title": "4.",
+        "body": "Once dispensing of reaction mixtures is completed, incubate 384-well plates for 30min at 30degC."
+    },
+    {
+        "title": "5.",
+        "body": "After enzymatic reactions are completed, dispense Kinase-Glo revealing reagent \\(Promega; cat.# V3772) using automated liquid dispensing instrument\r\n  \r\n\n\nSTEP 2: generate luminescence profiles"
+    },
+    {
+        "title": "1.",
+        "body": "Measure luminescence using Synergy 2 Multi-Mode Microplate Reader from BioTek"
+    }
+]

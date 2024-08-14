@@ -1,0 +1,154 @@
+[
+    {
+        "title": "**1**",
+        "body": "Twenty hours before transfection, harvest exponentially growing phoenix-ampho cells by trypsinization with trypsin-EDTA solution and plate them on 60-mm tissue culture dishes at a density of about 10<sup>6</sup>cells/dish. The cells should be about 70% confluent at the time of transfection.\r\n\n\n▲"
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": ""
+    },
+    {
+        "title": "**2**",
+        "body": "For each 60-mm dish of cultured cells to be transfected, dilute 5 µg of plasmid DNA in 700 µl of Opti-MEM I Reduced Serum Medium in a polystyrene test tube and mix gently. In a separate tube, dilute 20 µl of the Lipofectamine in 700 µl of Opti-MEM I and mix gently. Transfected retroviral expression plasmid is either one that expresses TRF2<sup>ΔBΔM</sup> together with EGFP or one that expresses EGFP only \\("
+    },
+    {
+        "title": "**Fig. 1a**",
+        "body": ").\r\n\n\n▲"
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": ""
+    },
+    {
+        "title": "**3**",
+        "body": "Combine the diluted DNA solution with diluted Lipofectamine solution and mix the solution by pipetting up and down several times. Incubate the mixture for 30 min at room temperature."
+    },
+    {
+        "title": "**4**",
+        "body": "Remove the growth medium from phoenix-ampho cells and replace with the DNA-Lipofectamine complex solution. Rock the plate to distribute the complex evenly and incubate cells for 6 h at 37 °C humidified incubator with an atmosphere of 5% CO<sub>2</sub>."
+    },
+    {
+        "title": "**5**",
+        "body": "Remove the transfection mixture from cells and replace with fresh complete medium."
+    },
+    {
+        "title": "**6**",
+        "body": "After 18 h, replace the medium with fresh culture medium."
+    },
+    {
+        "title": "**7**",
+        "body": "Plate actively proliferating BJ cells, which underwent 30-40 population doublings, in 100-mm culture dishes at 30 h prior to beginning the infection procedure."
+    },
+    {
+        "title": "**8**",
+        "body": "After 48 h of transfection, collect virus-containing medium from the transfected packaging cells."
+    },
+    {
+        "title": "**9**",
+        "body": "Remove cell debris and aggregated virus by low speed centrifugation for 5 min at 4 °C."
+    },
+    {
+        "title": "**10**",
+        "body": "Filter medium through a 0.45-µm cellulose acetate filter.\r\n\n\n▲"
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": ""
+    },
+    {
+        "title": "**11**",
+        "body": "Dilute the filtered virus-containing medium by mixing it with fresh complete medium in a 4:1 ratio."
+    },
+    {
+        "title": "**12**",
+        "body": "Add polybrene to a final concentration of 4 µg/ml and mix gently."
+    },
+    {
+        "title": "**13**",
+        "body": "Infect BJ fibroblasts by replacing the culture medium with 10 ml of the diluted virus-containing medium."
+    },
+    {
+        "title": "**14**",
+        "body": "Replace medium with fresh complete medium after 48 h of incubation."
+    },
+    {
+        "title": "**15**",
+        "body": "After 48 h, the infected cells were given puromycin at a final concentration of 1 µg/ml for four days for selection."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": ""
+    },
+    {
+        "title": "**16**",
+        "body": "Replace selection medium with fresh complete medium, and incubate cells for three days."
+    },
+    {
+        "title": "**17**",
+        "body": "Observe cells under the fluorescence microscope to determine the EGFP signal in the infected cells."
+    },
+    {
+        "title": "**18**",
+        "body": "Split cells into 100-mm plates, and incubate for seven days until the cells do not divide further and their shapes are changed to flattened enlarged morphology characteristic of cellular senescence. Ensure that EGFP signal is still well detected in these cells by using fluorescence microscope."
+    },
+    {
+        "title": "**19**",
+        "body": "To validate the establishment of cellular senescence, subject a small subpopulation of infected BJ cells for SA-β-gal analysis. Use uninfected BJ cells and BJ cells infected with retrovirus expressing EGFP only as negative controls as well as BJ cells infected with virus coexpressing TRF2<sup>ΔBΔM</sup> and EGFP."
+    },
+    {
+        "title": "**20**",
+        "body": "Wash cells twice with PBS."
+    },
+    {
+        "title": "**21**",
+        "body": "Fix cells with 2% formaldehyde/0.2% glutaraldehyde solution in PBS for 5 min at room temperature."
+    },
+    {
+        "title": "**22**",
+        "body": "Wash cells twice with PBS."
+    },
+    {
+        "title": "**23**",
+        "body": "Incubate cells with SA-β-gal staining solution at 37°C incubator without CO<sub>2</sub> supply."
+    },
+    {
+        "title": "**24**",
+        "body": "After about 10 h, observe cells under the bright field microscope to determine whether SA–β–gal staining is detectable in BJ cells infected with virus coexpressing TRF2<sup>ΔBΔM</sup> and EGFP while it is not evident in uninfected BJ cells and BJ cells infected with retrovirus expressing EGFP only.  If SA–β–gal staining is weak in BJ cells infected with virus coexpressing TRF2<sup>ΔBΔM</sup> and EGFP, incubation time is extended until the staining is marked in comparison with the negative control cells."
+    },
+    {
+        "title": "**25**",
+        "body": "Wash once with PBS and capture cellular images with bright field microscope."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": ""
+    },
+    {
+        "title": "**26**",
+        "body": "Plate the TRF2<sup>ΔBΔM</sup>-induced senescent BJ cells into 96-well optical bottom plates by using automated dispenser \\(Multidrop 384, Labsystems) at a density of about 800 cells/well."
+    },
+    {
+        "title": "**27**",
+        "body": "After 24 h, add compounds in a chemical library to the 96-well plates at a final concentration of 1 µg/ml.\r\n\n\n▲"
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": ""
+    },
+    {
+        "title": "**28**",
+        "body": "Capture live cell images of EGFP-positive BJ cells at 24-h intervals for six days by automated fluorescence microscopy \\(IN Cell Analyzer 1000 autofocusing microscope, Amersham Biosciences)."
+    },
+    {
+        "title": "**29**",
+        "body": "Analyze the acquired images by using image analysis software to quantitate the number and size of cells."
+    },
+    {
+        "title": "**30**",
+        "body": "When an increase in cell number and decrease in cell size along with the loss of flattened enlarged cellular morphology are detected in some wells of the 96-well plates, validate the senescence reversal effects by subjecting the cells in those wells for SA-β-gal staining as described above \\(steps 19-25)."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": ""
+    }
+]

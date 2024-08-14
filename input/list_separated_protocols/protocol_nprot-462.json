@@ -1,0 +1,302 @@
+[
+    {
+        "title": "1)",
+        "body": "Create a new workbook in Microsoft Excel.  Rename worksheet 1 \"Input\" and worksheet 2 \"Output.\""
+    },
+    {
+        "title": "2)",
+        "body": "If Microsoft Excel 2007 is used, open the Developer tab \\(right click on the main toolbar, select \"Customize Quick Access Toolbar\", select \"Popular\" from menu, and check box that says \"Show Developer Tab on the Ribbon\").  In earlier versions of Excel, open the Visual Basic Toolbar \\(Tools...Customize...Visual Basic)"
+    },
+    {
+        "title": "3)",
+        "body": "Open the Visual Basic Editor \\(Button on toolbar).  Insert a module to the editor.  This can be done using the menus on top:  Insert...Module, or by right-clicking on Microsoft Excel Objects in the directory on the left of the screen.  Make sure the module \\(Module1 is the default) is shown as a Microsoft Excel Object."
+    },
+    {
+        "title": "4)",
+        "body": "The full computer program SERBt and comments are attached in a file and listed below.  Paste into the module screen the full text from the attached file \\(click download at bottom)or from immediately below:\r\n\n\n\r\n\n\nOption Explicit                                 ' Requires all variables to be declared\r\n\n\n\r\n\n\n'   Variable definitions\r\n\n\n\r\n\n\nDim Fss, Frs, Frr As Double                     ' Frequency of three genotypes \\(ss, rs, rr)\r\n\n\nDim RefWss, RefWrs, RefWrr As Double            ' Fitness of three genotypes in refuge\r\n\n\nDim BtWss, BtWrs, BtWrr As Double               ' Fitness of three genotypes in Bt field\r\n\n\nDim Wss, Wrs, Wrr As Double                     ' Fitness of each genotype \\(across both fields)\r\n\n\nDim PRef, PBt As Double                         ' Proportion of habitat planted to refuge and Bt fields\r\n\n\nDim Inits, Initr, Freqs, Freqr As Double        ' Initial frequency of alleles and frequency over time\r\n\n\nDim Wm As Double                                ' Population weighted mean fitness\r\n\n\nDim Deltar As Double                            ' Change in r allele frequency each generation\r\n\n\nDim GenYear As Integer                          ' Number of generations per year\r\n\n\nDim GeneCrit As Double                          ' Genotypic Criterion \\(FREQr = 0.5 is standard)\r\n\n\nDim Gen, A, Years As Integer                    ' Loop Counters\r\n\n\n\r\n\n\n' Beginning of program code\r\n\n\n\r\n\n\nSub BtResistance\\()\r\n\n\n\r\n\n\n    Sheets\\(\"Input\").Select      ' Input data on worksheet \"Input\" \\(Worksheet must be named \"Input\")\r\n\n\n     \r\n\n\n'   All input variables are drawn from worksheet \"Input\".  Values could be entered below directly if desired.\r\n\n\n    Inits = Cells\\(3,"
+    },
+    {
+        "title": "1)",
+        "body": "' Initial frequency of s allele \\(Input taken from Row 3, Column A)\r\n\n\n    Initr = Cells\\(3,"
+    },
+    {
+        "title": "2)",
+        "body": "' Initial frequency of r allele in \\(Input taken from Row 3, Column B)\r\n\n\n    Freqs = Inits               ' Frequency of s allele\r\n\n\n    Freqr = Initr               ' Frequency of r allele\r\n\n\n    PRef = Cells\\(6,"
+    },
+    {
+        "title": "1)",
+        "body": "' Proportion refuge \\(Input taken from Row 6, Column A)\r\n\n\n    PBt = 1 - PRef              ' Proportion Bt\r\n\n\n    GenYear = Cells\\(6,"
+    },
+    {
+        "title": "5)",
+        "body": "' Number of generations per year \\(Input taken from Row 6, Column E)\r\n\n\n    Years = Cells\\(6,"
+    },
+    {
+        "title": "10)",
+        "body": "' Number of simulated years\r\n\n\n    Gen = Years  ==*== GenYear       ' Number of simulated generations\r\n\n\n    \r\n\n\n    RefWss = Cells\\(3,"
+    },
+    {
+        "title": "5)",
+        "body": "' Fitness of ss in refuge \\(Input taken from Row 3, Column E)\r\n\n\n    RefWrs = Cells\\(3,"
+    },
+    {
+        "title": "6)",
+        "body": "' Fitness of rs in refuge \\(Input taken from Row 3, Column F)\r\n\n\n    RefWrr = Cells\\(3,"
+    },
+    {
+        "title": "7)",
+        "body": "' Fitness of rr in refuge \\(Input taken from Row 3, Column G)\r\n\n\n    BtWss = Cells\\(3,"
+    },
+    {
+        "title": "10)",
+        "body": "' Fitness of ss in Bt field \\(Input taken from Row 3, Column J)\r\n\n\n    BtWrs = Cells\\(3,"
+    },
+    {
+        "title": "11)",
+        "body": "' Fitness of rs in Bt field \\(Input taken from Row 3, Column K)\r\n\n\n    BtWrr = Cells\\(3,"
+    },
+    {
+        "title": "12)",
+        "body": [
+            "' Fitness of rr in Bt field \\(Input taken from Row 3, Column L)\r\n\n\n     \r\n\n\n'   Values of generation counter determine number of generations to run unless stop point is reached\r\n\n\n     \r\n\n\n    For A = 1 To Gen\r\n\n\n    \r\n\n\n'   Calculate genotype frequencies at beginning of generation\r\n\n\n    \r\n\n\n        Fss = Freqs  ==*== Freqs\r\n\n\n        Frs = 2  ==",
+            {
+                "title": "**== Freqs  ==**",
+                "body": "== Freqr\r\n\n\n        Frr = Freqr  ==*== Freqr\r\n\n\n        \r\n\n\n'   Calculate fitness of each genotype and population weighted mean fitness\r\n\n\n\r\n\n\n        Wss = BtWss  =="
+            },
+            {
+                "title": "**== PBt + RefWss  ==**",
+                "body": "== PRef\r\n\n\n        Wrs = BtWrs  =="
+            },
+            {
+                "title": "**== PBt + RefWrs  ==**",
+                "body": "== PRef\r\n\n\n        Wrr = BtWrr  =="
+            },
+            {
+                "title": "**== PBt + RefWrr  ==**",
+                "body": "== PRef\r\n\n\n        \r\n\n\n        Wm = Frr  =="
+            },
+            {
+                "title": "**== Wrr + Frs  ==**",
+                "body": "== Wrs + Fss  ==*== Wss\r\n\n\n        \r\n\n\n'   Calculate change in r allele frequency in each generation\r\n\n\n\r\n\n\n        Deltar = \\(Freqr  =="
+            },
+            {
+                "title": "**== Freqs  ==**",
+                "body": "== \\(Freqr  =="
+            },
+            {
+                "title": "**== \\(Wrr - Wrs) + Freqs  ==**",
+                "body": "== \\(Wrs - Wss))) / Wm\r\n\n\n        \r\n\n\n'   Calculate allele frequencies after each generation\r\n\n\n\r\n\n\n        Freqr = Freqr + Deltar\r\n\n\n        Freqs = 1 - Freqr\r\n\n\n        \r\n\n\n' Delete old output \\(Requires a worksheet named \"Output\")\r\n\n\n\r\n\n\n        Sheets\\(\"Output\").Select\r\n\n\n        \r\n\n\n        If \\(A ="
+            }
+        ]
+    },
+    {
+        "title": "1)",
+        "body": "Then\r\n\n\n        \r\n\n\n        Cells.Select\r\n\n\n        Selection.ClearContents\r\n\n\n        Range\\(\"A1\").Select\r\n\n\n        \r\n\n\n        End If\r\n\n\n        \r\n\n\n' Output initial conditions to Row 2, Columns A-C \\(Requires a worksheet named \"Output\")\r\n\n\n\r\n\n\n        Cells\\(1,"
+    },
+    {
+        "title": "1)",
+        "body": "= \"Generation\"\r\n\n\n        Cells\\(1,"
+    },
+    {
+        "title": "2)",
+        "body": "= \"Years\"\r\n\n\n        Cells\\(1,"
+    },
+    {
+        "title": "3)",
+        "body": "= \"s Freq\"\r\n\n\n        Cells\\(1,"
+    },
+    {
+        "title": "4)",
+        "body": "= \"r Freq\"\r\n\n\n        Cells\\(1,"
+    },
+    {
+        "title": "5)",
+        "body": "= \"ss Freq\"\r\n\n\n        Cells\\(1,"
+    },
+    {
+        "title": "6)",
+        "body": "= \"rs Freq\"\r\n\n\n        Cells\\(1,"
+    },
+    {
+        "title": "7)",
+        "body": "= \"rr Freq\"\r\n\n\n        Cells\\(1,"
+    },
+    {
+        "title": "9)",
+        "body": "= \"Years to Reach Genotypic Criterion\"\r\n\n\n        Cells\\(1,"
+    },
+    {
+        "title": "13)",
+        "body": "= \"Dominance, h\"\r\n\n\n        Cells\\(4,"
+    },
+    {
+        "title": "9)",
+        "body": "= \"Frequency of r allele in Year 20\"\r\n\n\n        Cells\\(4,"
+    },
+    {
+        "title": "13)",
+        "body": "= \"Frequency of rr genotype in Year 20\"\r\n\n\n        Cells\\(2,"
+    },
+    {
+        "title": "1)",
+        "body": "= 0\r\n\n\n        Cells\\(2,"
+    },
+    {
+        "title": "2)",
+        "body": "= 0\r\n\n\n        Cells\\(2,"
+    },
+    {
+        "title": "3)",
+        "body": "= Inits\r\n\n\n        Cells\\(2,"
+    },
+    {
+        "title": "4)",
+        "body": "= Initr\r\n\n\n        Cells\\(2,"
+    },
+    {
+        "title": "5)",
+        "body": "= Inits  ==*== Inits\r\n\n\n        Cells\\(2,"
+    },
+    {
+        "title": "6)",
+        "body": [
+            "= 2  ==",
+            {
+                "title": "**== Inits  ==**",
+                "body": "== Initr\r\n\n\n        Cells\\(2,"
+            }
+        ]
+    },
+    {
+        "title": "7)",
+        "body": "= Initr  ==*== Initr\r\n\n\n        Cells\\(2,"
+    },
+    {
+        "title": "13)",
+        "body": "= \\(\\(BtWrs - BtWss) / \\(BtWrr - BtWss))\r\n\n\n        \r\n\n\n' Output conditions of model runs to Row 3+, Columns A-G, Worksheet \"Output\"\r\n\n\n        \r\n\n\n        Cells\\(A + 2,"
+    },
+    {
+        "title": "1)",
+        "body": "= A\r\n\n\n        Cells\\(A + 2,"
+    },
+    {
+        "title": "2)",
+        "body": "= A / GenYear\r\n\n\n        Cells\\(A + 2,"
+    },
+    {
+        "title": "3)",
+        "body": "= Freqs\r\n\n\n        Cells\\(A + 2,"
+    },
+    {
+        "title": "4)",
+        "body": "= Freqr\r\n\n\n        Cells\\(A + 2,"
+    },
+    {
+        "title": "5)",
+        "body": "= Freqs  ==*== Freqs\r\n\n\n        Cells\\(A + 2,"
+    },
+    {
+        "title": "6)",
+        "body": [
+            "= 2  ==",
+            {
+                "title": "**== Freqs  ==**",
+                "body": "== Freqr\r\n\n\n        Cells\\(A + 2,"
+            }
+        ]
+    },
+    {
+        "title": "7)",
+        "body": "= Freqr  ==*== Freqr\r\n\n\n        \r\n\n\n' Output years in which genotypic and phenotypic criteria are reached, Worksheet \"Output\"\r\n\n\n\r\n\n\n        If \\(Cells\\(A + 2,"
+    },
+    {
+        "title": "4)",
+        "body": ">= 0.5 And Cells\\(A + 1,"
+    },
+    {
+        "title": "4)",
+        "body": "< 0.5) Then\r\n\n\n        \r\n\n\n            Cells\\(2,"
+    },
+    {
+        "title": "9)",
+        "body": "= Cells\\(A + 2,"
+    },
+    {
+        "title": "2)",
+        "body": "End If\r\n\n\n        \r\n\n\n        If \\(A = Gen And Cells\\(A + 2,"
+    },
+    {
+        "title": "4)",
+        "body": "< 0.5) Then\r\n\n\n        \r\n\n\n            Cells\\(2,"
+    },
+    {
+        "title": "9)",
+        "body": "= \"Not Reached\"\r\n\n\n    \r\n\n\n        End If\r\n\n\n        \r\n\n\n' Output r allele frequency and rr genotype frequency after simulated number of years\r\n\n\n\r\n\n\n        If \\(A = Gen) Then\r\n\n\n        \r\n\n\n            Cells\\(5,"
+    },
+    {
+        "title": "9)",
+        "body": "= Freqr\r\n\n\n            Cells\\(5,"
+    },
+    {
+        "title": "13)",
+        "body": "= Frr\r\n\n\n            \r\n\n\n        End If\r\n\n\n        \r\n\n\n    Next A\r\n\n\n        \r\n\n\nEnd Sub"
+    },
+    {
+        "title": "5)",
+        "body": "The values of the several variables are input to the program from the worksheet \"Input\".  The values can be entered directly into the program code, but we find it is easier to manipulate the variables on the spreadsheet.  The best way to do this is to format the Input Screen as Follows \\(corresponds with code above):\r\n\n\n\r\n\n\nRow 3, Column A:  Initial s allele frequency \\(Value from 0 to"
+    },
+    {
+        "title": "1)",
+        "body": [
+            "Row 3, Column B:  Initial r allele frequency \\(Value from 0 to 1; 1 – Initial",
+            {
+                "title": "s)",
+                "body": "Row 3, Column E:  Fitness of ss genotype in refuge \\(Value from 0 to"
+            }
+        ]
+    },
+    {
+        "title": "1)",
+        "body": "Row 3, Column F:  Fitness of rs genotype in refuge \\(Value from 0 to"
+    },
+    {
+        "title": "1)",
+        "body": "Row 3, Column G:  Fitness of rr genotype in refuge \\(Value from 0 to"
+    },
+    {
+        "title": "1)",
+        "body": "Row 3, Column J:  Fitness of ss genotype in Bt field \\(Value from 0 to"
+    },
+    {
+        "title": "1)",
+        "body": "Row 3, Column K:  Fitness of rs genotype in Bt field \\(Value from 0 to"
+    },
+    {
+        "title": "1)",
+        "body": "Row 3, Column L:  Fitness of rr genotype in Bt field \\(Value from 0 to"
+    },
+    {
+        "title": "1)",
+        "body": "Row 6, Column A:  Proportion Refuge \\(Value from 0 to"
+    },
+    {
+        "title": "1)",
+        "body": "Row 6, Column E:  Number of generations per year \\(Integer greater than or equal to"
+    },
+    {
+        "title": "1)",
+        "body": "Row 6, Column J:  Number of simulated years \\(Integer greater than or equal to"
+    },
+    {
+        "title": "1)",
+        "body": "We used Rows 1, 2, and 5 of the worksheet \"Input\" to label the variables.  No values from these rows are used as inputs to the program, but they are helpful for reference."
+    },
+    {
+        "title": "6)",
+        "body": "To run the program in Microsoft Excel 2007, click on Macros \\(Button on developer tab).  BtResistance should be highlighted.  Click on run.  In earlier versions of excel, click on Run macro \\(Button on Visual Basic Toolbar). Bt resistance should be highlighted.  Click on run.  All output of the program is displayed on the worksheet \"Output\".  Note:  the program automatically replaces old output.  If you are in design mode the program will not work.  You can exit design mode using button on Visual Basic Toolbar."
+    },
+    {
+        "title": "7)",
+        "body": "On future use of the program, when you open Excel, it will ask you about Macros.  Click \"Enable Macros\" upon opening Excel to use the program."
+    }
+]

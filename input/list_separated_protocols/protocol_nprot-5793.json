@@ -1,0 +1,1163 @@
+[
+    {
+        "title": "**Membrane Preparation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place a pre-cut \\(22 x 66 mm) polycarbonate membrane onto a glass slide, carefully using a gloved finger and tweezers to separate the membrane and paper."
+            }
+        ]
+    },
+    {
+        "title": "**Note 1:**",
+        "body": "The orientation of the polycarbonate membranes is not important."
+    },
+    {
+        "title": "**Note 2:**",
+        "body": [
+            "Discard any membranes that have creases or other large-scale imperfections.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5089/original/Figure_1.jpg?1486505820\">See figure in Figures section.</a>",
+            {
+                "title": "2.",
+                "body": "Place membranes onto a shelf in the plasma cleaner."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "Place membranes on bottom shelf to reduce risk of them flying after vacuum is removed.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5095/original/Figure_2.png?1486505822\">See figure in Figures section.</a>",
+            {
+                "title": "3.",
+                "body": "Close the plasma cleaner door, and then turn on the main power and pump switch. To form a vacuum, ensure that the 3-way valve lever is at the 9:00 position as shown below. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5107/original/Figure_3.jpg?1486505825\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "4.",
+                "body": "Allow vacuum to form for 2 minutes. Once the vacuum has formed, simultaneously turn the valve to 12:00 while turning the power to the Hi setting \\(shown below)."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "The plasma should be a bright pink. If not, adjust the air valve to increase or decrease the amount of oxygen you are letting into the chamber.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5109/original/Figure_4.jpg?1486505826\">See figure in Figures section.</a>",
+            {
+                "title": "5.",
+                "body": "Treat membranes with plasma for 7 minutes. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5111/original/Figure_5.jpg?1486505828\">See figure in Figures section.</a>\r\n\n\n\r\n\n\n6."
+            }
+        ]
+    },
+    {
+        "title": "**Critical**",
+        "body": [
+            "– After treatment, in the following order, turn the RF level valve from HIGH to OFF, then turn off the power followed by turning off the vacuum.  Then slowly open the valve until you can barely hear air entering chamber \\(Approximate valve position shown below).  Leave until the door opens \\(~5 min).\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5161/original/Figure_6.jpg?1486505829\">See figure in Figures section.</a>",
+            {
+                "title": "7.",
+                "body": "Remove slides from plasma cleaner and transfer to a 4-well dish."
+            }
+        ]
+    },
+    {
+        "title": "**Note 1:**",
+        "body": "If membranes have slightly folded over, slowly flip the membrane back using needle nose tweezers."
+    },
+    {
+        "title": "**Note 2:**",
+        "body": [
+            "If membranes have blown off the slide entirely, repeat above procedure to ensure you know which side was exposed to plasma.",
+            {
+                "title": "8.",
+                "body": "Quickly pipet 5 mL of 1xPBS over the dry membrane, preventing the membrane from folding on itself."
+            }
+        ]
+    },
+    {
+        "title": "**Pro-tip:**",
+        "body": [
+            "gently hydrate one end of the membrane with a single drop so that it adheres to the slide before dispensing the entire volume.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5113/original/Figure_7.jpg?1486505830\">See figure in Figures section.</a>",
+            {
+                "title": "9.",
+                "body": "Remove any air bubbles underneath the membrane using wafer forceps."
+            },
+            {
+                "title": "10.",
+                "body": "Membranes are now functionalized and ready for use."
+            }
+        ]
+    },
+    {
+        "title": "**Note 1:**",
+        "body": "Membranes solvated with 1xPBS should be used within 48 hours."
+    },
+    {
+        "title": "**Note 2:**",
+        "body": "If transporting solvated membranes \\(e.g. between buildings), remove all but ~1 mL of PBS to prevent membranes from flipping within the dish."
+    },
+    {
+        "title": "**Note 3:**",
+        "body": "Alternatively, membranes can be solvated in 1xPBS, dried out, and stored for 4 weeks at room temperature. When ready to use membranes, they can be rehydrated with 1xPBS. This is helpful when traveling with membranes or when you want to run Seq-Well in a laboratory without access to a plasma cleaner."
+    },
+    {
+        "title": "**Bead Loading**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Aspirate storage solution and solvate array\\(s) with 5 mL of bead loading buffer \\(BLB; See"
+            }
+        ]
+    },
+    {
+        "title": "**Appendix B: Buffers Guide**",
+        "body": [
+            ").",
+            {
+                "title": "2.",
+                "body": "Place array\\(s) under vacuum with rotation \\(50 RPM) for 10-15 minutes to remove air bubbles in wells. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5115/original/Figure_8.jpg?1486505832\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "3.",
+                "body": "Aliquot ~110,000 beads from stock into a 1.5 mL tube and spin on a tabletop centrifuge for 10-15 seconds to form a pellet."
+            },
+            {
+                "title": "4.",
+                "body": "Aspirate storage buffer and wash beads once in 500 uL of BLB."
+            },
+            {
+                "title": "5.",
+                "body": "Pellet beads, aspirate BLB, and resuspend beads in 200 uL of BLB."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "For each array, it’s recommended to load <sub>110,000 beads. For example, when running two arrays you would aliquot </sub>220,000 beads, wash, and resuspend in 400 uL of BLB.",
+            {
+                "title": "6.",
+                "body": "Before loading beads, thoroughly aspirate BLB from the dish containing the array\\(s), being careful not to aspirate or dry the PDMS surface of the array\\(s)."
+            },
+            {
+                "title": "7.",
+                "body": "Use a 200 uL pipette to apply 200 uL containing 110,000 beads, in a drop-wise fashion, to the surface of each array \\(See image below and Bead Loading Diagrams). \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5117/original/Figure_9.png?1486505833\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "8.",
+                "body": "Place the loaded array\\(s) onto a rotator for 10 minutes \\(75 RPM). \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5119/original/Figure_10.png?1486505837\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "9.",
+                "body": "Thoroughly wash array\\(s) to remove excess beads from the surface. For each wash:"
+            }
+        ]
+    },
+    {
+        "title": "**a.**",
+        "body": "Position each array so that it sits in the center of the 4-well dish."
+    },
+    {
+        "title": "**b.**",
+        "body": "Dispense 500 uL of BLB in the upper right corner of each array and 500 uL in the bottom right corner of each array. Be careful not to directly pipette onto the microwells, as it can dislodge beads."
+    },
+    {
+        "title": "**c.**",
+        "body": "Using wafer forceps, push each array against the left side of the 4-well dish to create a capillary flow, which will help remove beads from the surface."
+    },
+    {
+        "title": "**d.**",
+        "body": [
+            "Aspirate the liquid, reposition each array, and repeat on the opposite side.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5121/original/Figure_11.png?1486506381\">See figure in Figures section.</a>",
+            {
+                "title": "10.",
+                "body": "Repeat step 9 as necessary. Periodically examine the array\\(s) under microscope to verify that no loose beads are present on the surface, as this will interfere with membrane attachment."
+            },
+            {
+                "title": "11.",
+                "body": "Once excess beads have been removed from the surface, solvate each array with 5 mL of BLB and proceed to cell loading."
+            }
+        ]
+    },
+    {
+        "title": "**Notes:**",
+        "body": "- If continuing to cell loading immediately \\(i.e., within 1-5 hours), loaded arrays should be stored in 5 mL of BLB. \r\n\n\n- Loaded arrays can be stored for up to 72 hours in Array Quenching Buffer \\(See"
+    },
+    {
+        "title": "**Appendix B: Buffers Guide**",
+        "body": ")."
+    },
+    {
+        "title": "**Bead Loading Diagram**",
+        "body": "<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5123/original/Figure_12.png?1486506383\">See figure in Figures section.</a>"
+    },
+    {
+        "title": "**Bead Washing Diagram**",
+        "body": "<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5125/original/Figure_13.png?1486506384\">See figure in Figures section.</a>"
+    },
+    {
+        "title": "**Cell Loading**",
+        "body": [
+            "_Cell Loading \\(without imaging)_",
+            {
+                "title": "1.",
+                "body": "At this point, your array\\(s) should be loaded with beads and sitting in BLB."
+            },
+            {
+                "title": "2.",
+                "body": "Obtain a cell or tissue sample and prepare a single cell suspension using your preferred protocol."
+            },
+            {
+                "title": "3.",
+                "body": "While preparing your single cell suspension, aspirate the BLB from each array and soak it in 5 mL of RPMI + 10% FBS \\(RP-10) for 5 minutes."
+            },
+            {
+                "title": "4.",
+                "body": "After obtaining a single cell suspension, count cells using a hemocytometer and make a new solution of 10,000 cells in 200 uL of RP-10."
+            },
+            {
+                "title": "5.",
+                "body": "Aspirate the RP-10, center each array in well, and then load the cell loading solution in a dropwise fashion onto the surface of each array."
+            },
+            {
+                "title": "6.",
+                "body": "Intermittently rock the array\\(s) in the x & y direction for 5 minutes."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "To visualize membrane sealing or cell loading, pre-label cells with AF647- anti CD45 if leukocytes or another surface marker in AF647.",
+            {
+                "title": "7.",
+                "body": "Wash array\\(s) 4x with 5 mL of PBS to remove FBS in media – this is critical to ensure successful membrane attachment."
+            },
+            {
+                "title": "8.",
+                "body": "Aspirate final PBS wash and replace with 5 mL of RPMI media \\(no FBS).\r\n  \r\n\n\n_Cell Loading \\(with imaging)_"
+            },
+            {
+                "title": "1.",
+                "body": "When pre-imaging cells, cells should be loaded first as beads will obstruct view of many cells and bead autofluorescence can interfere with the signal."
+            },
+            {
+                "title": "2.",
+                "body": "Obtain a cell or tissue sample and prepare a single cell suspension using your preferred protocol."
+            },
+            {
+                "title": "3.",
+                "body": "Count cells using a hemocytometer and resuspend 10,000 cells in 200 uL of cold CellCover \\(Anacyte)."
+            },
+            {
+                "title": "4.",
+                "body": "Incubate cells at 4C for 1 hour."
+            },
+            {
+                "title": "5.",
+                "body": "After the cells have been fixed, perform antibody staining at 4C."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "Some epitopes may no longer be available as a result of the fixation process.",
+            {
+                "title": "6.",
+                "body": "Wash cells twice with 1xPBS, resuspend in 200 uL of CellCover10 buffer \\(pH 10 + 10% FBS; See"
+            }
+        ]
+    },
+    {
+        "title": "**Appendix B: Buffers Guide**",
+        "body": "), and place on ice."
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "CellCover \\!= CellCover10.",
+            {
+                "title": "7.",
+                "body": "Obtain empty functionalized array\\(s), aspirate storage solution and soak array\\(s) with 5 mL of CellCover10 buffer \\(See"
+            }
+        ]
+    },
+    {
+        "title": "**Appendix B: Buffers Guide**",
+        "body": [
+            ").",
+            {
+                "title": "8.",
+                "body": "Aspirate media and load fixed cells onto the array\\(s) in a dropwise format."
+            },
+            {
+                "title": "9.",
+                "body": "Gently rock the array\\(s) in the x & y direction for 5 minutes."
+            },
+            {
+                "title": "10.",
+                "body": "Wash array\\(s) twice with 5 mL of CellCover10 \\(pH 10 + 10% FBS), then solvate in 5 mL of CellCover \\(No FBS)."
+            },
+            {
+                "title": "11.",
+                "body": "Place a lift slip on each array, then image with a microscope."
+            },
+            {
+                "title": "12.",
+                "body": "After imaging, wash each array in 5 mL of CellCover10 media."
+            },
+            {
+                "title": "13.",
+                "body": "Immediately load beads using the bead loading protocol provided above."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "In the protocol provided above, beads are washed and loaded in BLB. When loading cells first, replace BLB with CellCover10 for all steps. After beads are loaded and sufficiently washed, you will wash the array 4x with CellCover10 without FBS and solvate arrays in CellCover.",
+            {
+                "title": "14.",
+                "body": "Proceed with membrane sealing."
+            }
+        ]
+    },
+    {
+        "title": "**Membrane Sealing**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Gather the following materials before sealing the array\\(s): \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5127/original/Figure_14.png?1486506386\">See figure in Figures section.</a>\r\n\n\n\r\n\n\n- Array\\(s) loaded with beads and cells \\(See Bead/Cell Loading) \r\n\n\n- Pre-treated membrane\\(s) \\(See Membrane Preparation) \r\n\n\n- Wafer forceps\r\n\n\n- Paper towels \r\n\n\n- Agilent clamps\r\n\n\n- Clean microscope slides"
+            },
+            {
+                "title": "2.",
+                "body": "Use the wafer forceps to transfer the array from media to the lid of a 4-well dish, being careful to keep the array as close to horizontal as possible. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5129/original/Figure_15.png?1486506390\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "3.",
+                "body": "Use the wafer forceps to remove a pre-treated membrane from the 4-well dish."
+            },
+            {
+                "title": "4.",
+                "body": "Gently dab away moisture from the glass slide on the paper towel until the membrane does not spontaneously change position on the glass slide."
+            },
+            {
+                "title": "5.",
+                "body": "Carefully position the membrane on the center of the microscope slide, leaving a small \\(2-3 mm) membrane overhang beyond the edge of the slide.\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5131/original/Figure_16.png?1486506393\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "6.",
+                "body": "Holding the membrane in your left hand, invert the microscope slide so that the treated surface is facing down."
+            },
+            {
+                "title": "7.",
+                "body": "Place the overhang of the membrane in contact with the PDMS surface of the array just above the boundary of the microwells. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5133/original/Figure_17.png?1486506395\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "8.",
+                "body": "Using your right hand, firmly hold down the overhang of the membrane against the PDMS surface of the array. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5135/original/Figure_18.png?1486506397\">See figure in Figures section.</a>\r\n\n\n\r\n\n\n9."
+            }
+        ]
+    },
+    {
+        "title": "**Critical Step:**",
+        "body": "While maintaining pressure with your right hand to hold the membrane in place, gently apply the membrane.\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5137/original/Figure_19.png?1486506400\">See figure in Figures section.</a>"
+    },
+    {
+        "title": "**Note 1:**",
+        "body": "For optimal results, use little to no pressure while applying the membrane with the left hand. See Instructional Video \\(www.shaleklab.com/seqwell) for additional details."
+    },
+    {
+        "title": "**Note 2:**",
+        "body": [
+            "Attempts to manually seal the microwell device using pressure results in a ‘squeegee’ effect, effectively removing moisture from the membrane while fixing membrane creases in place.",
+            {
+                "title": "10.",
+                "body": "After applying the membrane, carefully pry the array and membrane from the surface of the lid and transfer to an Agilent clamp.\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5139/original/Figure_20.png?1486506842\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "11.",
+                "body": "Tighten clamp to the point of resistance and place in a 37C incubator for 30 minutes."
+            },
+            {
+                "title": "12.",
+                "body": "Repeat membrane sealing procedure if running multiple arrays."
+            }
+        ]
+    },
+    {
+        "title": "**Membrane Sealing Notes:**",
+        "body": "- Video tutorial of membrane sealing is available at the following link: www.shaleklab.com/seqwell"
+    },
+    {
+        "title": "**Cell Lysis and Hybridization**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Remove the clamp from the incubator, and then remove the array\\(s) from the Agilent clamp\\(s)."
+            },
+            {
+                "title": "2.",
+                "body": "Submerge each array, with top slide still attached, in 5 mL of pre-lysis buffer \\(See"
+            }
+        ]
+    },
+    {
+        "title": "**Appendix B: Buffers Guide**",
+        "body": [
+            ").",
+            {
+                "title": "3.",
+                "body": "Gently rock the array\\(s) in pre-lysis buffer until the top glass slide lifts off."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "Do not pry the top slide off as this can reverse membrane sealing. The time necessary for detachment of the top slide varies \\(10 seconds – 5 minutes). Just be patient.",
+            {
+                "title": "4.",
+                "body": "Once the top slide has detached, aspirate the pre-lysis buffer and add 5 mL of complete lysis buffer to each array."
+            }
+        ]
+    },
+    {
+        "title": "**Note 1:**",
+        "body": "Alternatively, 5 mL of complete lysis buffer can be prepared by adding 25 uL of 20% Sarkosyl and 50 uL of Beta-mercaptoethanol to pre-lysis buffer."
+    },
+    {
+        "title": "**Note 2:**",
+        "body": [
+            "Use a separate waste container for lysis buffer because guanidine thiocyanate can react with bleach in TC traps to create toxic gas.",
+            {
+                "title": "5.",
+                "body": "Rotate the array\\(s) for 20 minutes at 50-60 rpm."
+            },
+            {
+                "title": "6.",
+                "body": "Remove the lysis buffer and wash each array with 5 mL of hybridization buffer."
+            },
+            {
+                "title": "7.",
+                "body": "Aspirate hybridization buffer and add another 5 mL of hybridization buffer to each array and rotate for 40 minutes at 50-60 rpm."
+            },
+            {
+                "title": "8.",
+                "body": "While array\\(s) are rocking in hybridization buffer, prepare RT master mix. \\(See"
+            }
+        ]
+    },
+    {
+        "title": "**Reverse Transcription and PCR**",
+        "body": ")."
+    },
+    {
+        "title": "**Bead Removal**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Aspirate hybridization buffer and replace with 5 mL of wash buffer."
+            },
+            {
+                "title": "2.",
+                "body": "Rock for 3 minutes."
+            },
+            {
+                "title": "3.",
+                "body": "Remove membrane with fine-tipped tweezers. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5141/original/Figure_21.png?1486506844\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "4.",
+                "body": "Identify the orientation of a lifter slip so that the feet are facing upwards."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": "Orientation can be determined in two ways:"
+    },
+    {
+        "title": "**\\(1)**",
+        "body": "Shown below – the feet of the lift slip are not reflective, while the glass backing has a continuous reflection;"
+    },
+    {
+        "title": "**\\(2)**",
+        "body": [
+            "The feet can be palpated beneath your finger. \r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5143/original/Figure_22.png?1486506848\">See figure in Figures section.</a>",
+            {
+                "title": "5.",
+                "body": "Place the lifter slip\\(s) in a separate 4-well dish with feet oriented upwards.\r\n   \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5145/original/Figure_23.png?1486506851\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "6.",
+                "body": "Carefully transfer each array to the new dish, inverting each array so that the PDMS surface is in contact with the feet of the lift slips.\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5147/original/Figure_24.png?1486506855\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "7.",
+                "body": "Transfer 3 mL of wash buffer to each array in the new dish."
+            },
+            {
+                "title": "8.",
+                "body": "Precisely \\(+/- 2 grams) weigh the dish containing inverted array\\(s) to properly balance the centrifuge. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5149/original/Figure_25.png?1486506858\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "9.",
+                "body": "Spin for 5 minutes at 1000xg. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5151/original/Figure_26.png?1486506864\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "10.",
+                "body": "After centrifugation, collect the beads and transfer them to a 15 mL conical tube for each array, if running multiple:"
+            }
+        ]
+    },
+    {
+        "title": "**a.**",
+        "body": "Rinse the glass slide on the back of the array with wash buffer."
+    },
+    {
+        "title": "**b.**",
+        "body": "Invert the array and rinse the PDMS surface."
+    },
+    {
+        "title": "**c.**",
+        "body": "Lightly scrape the surface of the array to remove any retained beads using a microscope slide."
+    },
+    {
+        "title": "**d.**",
+        "body": "Remove array and rinse both sides of the lifter slips."
+    },
+    {
+        "title": "**e.**",
+        "body": [
+            "Collect suspended beads \\(10-12 mL) and transfer to a 15-mL conical tube.",
+            {
+                "title": "11.",
+                "body": "Spin conical tube\\(s) for 5 minute at 1000xg."
+            },
+            {
+                "title": "12.",
+                "body": "Aspirate all liquid but 1 mL and transfer beads to a clean 1.5 mL centrifuge tube."
+            },
+            {
+                "title": "13.",
+                "body": "Rinse 15 mL conical with 500 uL of wash buffer and add to the 1.5 mL tube."
+            }
+        ]
+    },
+    {
+        "title": "**Reverse Transcription and PCR**",
+        "body": [
+            "_Reverse Transcription \\(RT)_",
+            {
+                "title": "1.",
+                "body": "Prepare the following"
+            }
+        ]
+    },
+    {
+        "title": "**Maxima RT Mastermix**",
+        "body": "during the hybridization step: \r\n  80 uL   H2O \r\n\n\n40 uL  Maxima 5x RT Buffer\r\n\n\n40 uL  20% Ficoll PM-400\r\n\n\n20 uL  10 mM dNTPs \r\n\n\n5 uL                 RNase Inhibitor \r\n\n\n5 uL          100 uM Template Switch Oligo\r\n\n\n10 uL  Maxima H-RT"
+    },
+    {
+        "title": "**Note 1:**",
+        "body": "Add the Maxima H-RT enzyme immediately before adding to beads."
+    },
+    {
+        "title": "**Note 2:**",
+        "body": [
+            "The volumes provided above are good for one array.",
+            {
+                "title": "2.",
+                "body": "After removing beads from the array\\(s), centrifuge them for 1 minute at 1000xg."
+            },
+            {
+                "title": "3.",
+                "body": "Remove supernatant and resuspend in 250 uL of 1xMaxima RT Buffer."
+            },
+            {
+                "title": "4.",
+                "body": "Centrifuge beads for 1 minute at 1000xg."
+            },
+            {
+                "title": "5.",
+                "body": "Aspirate 1xMaxima RT buffer and resuspend beads in 200 uL of the"
+            }
+        ]
+    },
+    {
+        "title": "**Maxima RT Mastermix**",
+        "body": [
+            ".",
+            {
+                "title": "6.",
+                "body": "Incubate at room temperature for 30 minute with end-over-end rotation."
+            },
+            {
+                "title": "7.",
+                "body": "After 30 minutes, incubate at 52C for 90 minutes with end-over-end rotation."
+            },
+            {
+                "title": "8.",
+                "body": "Following the RT reaction, wash beads once with 1 mL TE-TW, once with 1 mL TE-SDS, and twice with 1 mL of TE-TW.\r\n  \r\n\n\n_TE-SDS_\r\n\n\n- 10 mM Tris pH 8.0 + 1 mM EDTA\r\n\n\n- 0.5% SDS\r\n\n\n\r\n\n\n_TE-TW_\r\n\n\n- 10 mM Tris pH 8.0 + 1 mM EDTA\r\n\n\n- 0.01% Tween-20"
+            }
+        ]
+    },
+    {
+        "title": "**Note 1:**",
+        "body": "Salts in the RT buffer can cause SDS to precipitate, making it difficult to remove in subsequent washes, so it is best to begin with a single wash in TE-TW."
+    },
+    {
+        "title": "**STOP: This is a stopping point. Beads can be stored at 4C in TE-TW.**",
+        "body": [
+            "_Exonuclease I Treatment_",
+            {
+                "title": "1.",
+                "body": "Prepare the following \r\n  Exonuclease I Mix: \r\n\n\n20 uL  10X ExoI Buffer\r\n\n\n170 uL  H2O\r\n\n\n10 uL ExoI"
+            },
+            {
+                "title": "2.",
+                "body": "Centrifuge beads for 1 minute at 1000xg and aspirate the TE-TW solution."
+            },
+            {
+                "title": "3.",
+                "body": "Resuspend in 1 mL of 10 mM Tris pH 8.0."
+            },
+            {
+                "title": "4.",
+                "body": "Centrifuge beads again, remove supernatant and resuspend beads in 200 uL of Exonuclease I mix."
+            },
+            {
+                "title": "5.",
+                "body": "Incubate on heat block for 5 minutes at 37C and transfer to 37C incubator for 45 minutes with end-over-end rotation."
+            },
+            {
+                "title": "6.",
+                "body": "Wash the beads once with 1 mL of TE-SDS, then twice with 1 mL TE-TW."
+            }
+        ]
+    },
+    {
+        "title": "**STOP: This is a stopping point. Beads can be stored at 4C in TE-TW.**",
+        "body": [
+            "_PCR \\(Whole Transcriptome Amplification \\(WTA))_",
+            {
+                "title": "1.",
+                "body": "Prepare the following PCR Mastermix: \r\n  25 uL  2x KAPA HiFi Hotstart Readymix\r\n\n\n14.6 uL H2O\r\n\n\n0.4 uL 100 uM SMART PCR Primer\r\n\n\n40 uL per reaction"
+            },
+            {
+                "title": "2.",
+                "body": "Wash beads once with 1 mL of water, pellet beads, remove supernatant and resuspend in 500 uL of water."
+            },
+            {
+                "title": "3.",
+                "body": "Mix well \\(do not vortex) to evenly resuspend beads and transfer 20 uL of beads to a separate 1.5 mL tube to count the beads."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "Don’t vortex beads as this can result in bead fragmentation.",
+            {
+                "title": "4.",
+                "body": "Pellet the small aliquot of beads, aspirate the supernatant, and resuspend in 20 uL of bead counting solution  \\(10% PEG, 2.5 M NaCl)."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "The bead counting solution aids in even dispersion of beads across a hemocytometer.",
+            {
+                "title": "5.",
+                "body": "Count the beads using a hemocytometer."
+            },
+            {
+                "title": "6.",
+                "body": "Add 40 uL of PCR Mastermix per reaction to 96-well plate."
+            },
+            {
+                "title": "7.",
+                "body": "Add 1,500 – 2,000 beads per reaction in 10 uL of water for a total volume of 50 uL per PCR reaction making certain to PCR the entire array."
+            },
+            {
+                "title": "8.",
+                "body": "Use the following cycling conditions to perform whole-transcriptome amplification: \r\n  \r\n\n\n95C  3 minutes"
+            }
+        ]
+    },
+    {
+        "title": "**4 Cycles:**",
+        "body": "98C  20 seconds\r\n\n\n65C  45 seconds\r\n\n\n72C  3 minutes"
+    },
+    {
+        "title": "**9 Cycles:**",
+        "body": "98C  20 seconds\r\n\n\n67C  20 seconds\r\n\n\n72C  3 minutes"
+    },
+    {
+        "title": "**Final Extension:**",
+        "body": "72 C 5 minutes\r\n\n\n4 C  Infinite hold"
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "The total number of PCR cycles necessary for amplification depends on the cell type used. \r\n\n\n- 13 cycles is optimal for cell lines or larger cells \\(e.g. macrophages) \r\n\n\n- 16 cycles is optimal for primary cells\r\n\n\n\r\n\n\n_Purification of PCR Products and analysis on the BioAnalyzer_",
+            {
+                "title": "1.",
+                "body": "Pull PCR products for your sample in a 1.5 mL microcentrifuge tube so that you have 14-16,000 beads/1.5 mL microcentrifuge tube"
+            },
+            {
+                "title": "2.",
+                "body": "Purify PCR products using Ampure SPRI beads at 0.6x volumetric ratio."
+            },
+            {
+                "title": "3.",
+                "body": "Resuspend your beads in a volume of water that is 10% of the starting volume."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "For example, if you generate 24 PCR reactions \\(2,000 beads/reaction) for one array, you will collapse them into 3 pools \\(16,000 beads/pool), post PCR, in a volume of ~400 uL. After your DNA spri, you will elute in 40 uL of water.",
+            {
+                "title": "4.",
+                "body": "Run a BioAnalyzer High Sensitivity Chip according to the manufacturer’s instructions. Use 1 ul of the purified cDNA sample as input.  \r\n  - Your WTA library should be fairly smooth, with an average bp size of 1-2 kbps."
+            },
+            {
+                "title": "5.",
+                "body": "Proceed to library preparation or store WTA product at 4C."
+            }
+        ]
+    },
+    {
+        "title": "**Library Preparation**",
+        "body": [
+            "_Tagmentation of cDNA with Nextera XT_",
+            {
+                "title": "1.",
+                "body": [
+                    "Make certain your thermocyclers are setup for tagmentation \\(step",
+                    {
+                        "title": "5)",
+                        "body": "& PCR \\(step 9)."
+                    }
+                ]
+            },
+            {
+                "title": "2.",
+                "body": "For each sample, combine 750 pg of purified cDNA with water in a total volume of 5 ul. It’s ideal to dilute your PCR product in a separate tube/plate so that you can add 5 uL of that for tagmentation."
+            }
+        ]
+    },
+    {
+        "title": "**For Example:**",
+        "body": [
+            "For 750 pg reactions, dilute PCR product to 150 pg/uL, then you can add 5 uL of this to a reaction tube for a 750 pg reaction.",
+            {
+                "title": "3.",
+                "body": "To each tube, add 10 ul of Nextera TD buffer, then 5 uL of ATM buffer \\(the total volume of the reaction is now 20 ul)."
+            },
+            {
+                "title": "4.",
+                "body": "Mix by pipetting ~5 times. Spin down."
+            },
+            {
+                "title": "5.",
+                "body": "Incubate at 55C for 5 minutes."
+            },
+            {
+                "title": "6.",
+                "body": "Add 5 ul of Neutralization Buffer. Mix by pipetting ~5 times. Spin down for 1 minute at 1000xg. Bubbles are normal."
+            },
+            {
+                "title": "7.",
+                "body": "Incubate at room temperature for 5 minutes."
+            },
+            {
+                "title": "8.",
+                "body": "Add to each PCR tube in the following order:\r\n  15 ul of Nextera PCR mix  \r\n\n\n8 ul H<sub>2</sub>O\r\n\n\n 1 ul of 10 uM P5-SMART PCR hybrid oligo \r\n\n\n1 ul of 10uM Nextera N70X oligo"
+            },
+            {
+                "title": "9.",
+                "body": "After sealing the reaction tubes and spinning them down \\(1 minute at 1000xg), run the following PCR program:\r\n   \r\n\n\n95C  30 sec"
+            }
+        ]
+    },
+    {
+        "title": "**12 cycles of:**",
+        "body": "95C  10 seconds \r\n\n\n55C  30 seconds \r\n\n\n72C  30 seconds"
+    },
+    {
+        "title": "**Final Extension: **",
+        "body": [
+            "72C  5 minutes \r\n\n\n4C          Infinite hold  \r\n\n\n \r\n\n\n_Purification of the Tagmented Library and Analysis on the BioAnalyzer_",
+            {
+                "title": "1.",
+                "body": "Purify tagmentation products using Ampure SPRI beads at 0.6x volumetric ratio."
+            },
+            {
+                "title": "2.",
+                "body": "Resuspend in 13 ul of H2O."
+            },
+            {
+                "title": "3.",
+                "body": "Run a BioAnalyzer High Sensitivity Chip according to the manufacturer’s instructions. Use 1 ul of the purified cDNA sample as input."
+            },
+            {
+                "title": "4.",
+                "body": "Your tagmented library should be fairly smooth, with an average bp size of 650-750bp. Smaller-sized libraries will have more polyA reads; larger libraries may have lower sequence cluster density and cluster quality."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "We have successfully sequenced libraries from 420-800 bps.",
+            {
+                "title": "5.",
+                "body": "Proceed to sequencing."
+            }
+        ]
+    },
+    {
+        "title": "**Sequencing**",
+        "body": [
+            "Once your sequencing library has passed the proper quality controls, you’re ready to proceed to sequencing. For a detailed loading protocol, please consult the Illumina website for a step-by-step manual. \\(https://support.illumina.com/training/online-courses/sequencing.html)\r\n\n\n\r\n\n\n_NextSeq500 – Shalek Lab Protocol_",
+            {
+                "title": "1.",
+                "body": "Make a 5 uL library pool at 4 nM as input for denaturation."
+            },
+            {
+                "title": "2.",
+                "body": "To this 5 uL library, add 5 uL of 0.2 N NaOH \\("
+            }
+        ]
+    },
+    {
+        "title": "**make this solution fresh**",
+        "body": [
+            ").",
+            {
+                "title": "3.",
+                "body": "Flick to mix, then spin down and let tube sit for 5 minutes at room temperature."
+            },
+            {
+                "title": "4.",
+                "body": "After 5 minutes, add 5 uL of 0.2 M Tris-HCl pH 7.5."
+            },
+            {
+                "title": "5.",
+                "body": "Add 985 uL of HT1 Buffer to make a 1 mL, 20 pM library \\("
+            }
+        ]
+    },
+    {
+        "title": "**solution 1**",
+        "body": [
+            ").",
+            {
+                "title": "6.",
+                "body": "In a new tube \\("
+            }
+        ]
+    },
+    {
+        "title": "**solution 2**",
+        "body": [
+            "), add 180 uL of solution 1 and dilute to 1.5 mL with HT1 buffer to make a 2.4 pM solution – this is the loading concentration you want to use.",
+            {
+                "title": "7.",
+                "body": "Follow Illumina’s guide for loading a NextSeq500 Kit\r\n  \r\n\n\n_Sequencing Specifications for the MiSeq or NextSeq:_"
+            }
+        ]
+    },
+    {
+        "title": "**Read 1:**",
+        "body": "20 bp"
+    },
+    {
+        "title": "**Read 2:**",
+        "body": "50 bp"
+    },
+    {
+        "title": "**Read 1 Index:**",
+        "body": "8 bp ← only necessary if you are multiplexing samples"
+    },
+    {
+        "title": "**Custom Read 1 primer**",
+        "body": []
+    },
+    {
+        "title": "**NextSeq 500:**",
+        "body": "\\(http://support.illumina.com/content/dam/illumina-support/documents/documentation/system_documentation/nextseq/nextseq-custom-primers-guide-15057456-01.pdf)"
+    },
+    {
+        "title": "**MiSeq:**",
+        "body": "\\(http://support.illumina.com/content/dam/illumina-support/documents/documentation/system_documentation/miseq/miseq-system-custom-primers-guide-15041638-01.pdf)"
+    },
+    {
+        "title": "**Appendix A: Array Synthesis**",
+        "body": [
+            "_Day 0: Mounting Masters and Pouring Arrays_",
+            {
+                "title": "1.",
+                "body": "Combine Sylgard crosslinker with Sylgard base at a 1:10 ratio and mix vigorously for 10 minutes to create a PDMS master mix."
+            },
+            {
+                "title": "2.",
+                "body": "Once mixing is complete, put your PDMS master mix under vacuum for 15 minutes to remove any air bubbles."
+            },
+            {
+                "title": "3.",
+                "body": "Use a 10 mL syringe to inject 10 mL of PDMS master mix into molds with mounted PDMS masters."
+            },
+            {
+                "title": "4.",
+                "body": "Incubate at 70C for 2.5 hours. \r\n  \r\n\n\n_Day 1: Array Functionalization Part 1_"
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "For this section, make all solutions fresh\\!",
+            {
+                "title": "1.",
+                "body": "Remove excess PDMS from edges of the glass slide. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5153/original/Figure_27.png?1486506868\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "2.",
+                "body": "Use scotch tape to remove excess PDMS from the surface of the array and the glass slide."
+            },
+            {
+                "title": "3.",
+                "body": "Place clean arrays into a metal slide basket. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5155/original/Figure_28.png?1486506872\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "4.",
+                "body": "Rinse arrays in 100% ethanol for 10 minutes. \r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5157/original/Figure_29.png?1486506876\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "5.",
+                "body": "Plasma treat arrays on high for 5 minutes."
+            },
+            {
+                "title": "6.",
+                "body": "Submerge arrays in 350 mL of 0.05% APTES in 95% ethanol for 10 minutes."
+            },
+            {
+                "title": "7.",
+                "body": "Spin dry arrays \\(500 RPM for 1 minute)."
+            },
+            {
+                "title": "8.",
+                "body": "Incubate at RT for 10 minutes."
+            },
+            {
+                "title": "9.",
+                "body": "Submerge in 300 mL acetone in glass chamber and rock until all bubbles are out of the wells."
+            },
+            {
+                "title": "10.",
+                "body": "Place in 350 mL 0.2% PDITC/10% pyridine/90% DMF solution in a glass chamber for 2 hours."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": "While this is rocking, prepare your Chitosan solution \\(See"
+    },
+    {
+        "title": "**Appendix B**",
+        "body": [
+            ").\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/5159/original/Figure_30.png?1486506880\">See figure in Figures section.</a>",
+            {
+                "title": "11.",
+                "body": "Wash briefly in two different glass boxes of 300 mL DMF."
+            },
+            {
+                "title": "12.",
+                "body": "Dip and shake arrays in 300 mL of acetone."
+            },
+            {
+                "title": "13.",
+                "body": "Move to a fresh 350 mL of acetone and rock for 20 minutes."
+            },
+            {
+                "title": "14.",
+                "body": "Spin dry arrays \\(500 RPM for 1 minute)."
+            },
+            {
+                "title": "15.",
+                "body": "Place arrays at 70C for 2 hours."
+            },
+            {
+                "title": "16.",
+                "body": "Remove from oven and let sit at room temperature for 20 minutes."
+            },
+            {
+                "title": "17.",
+                "body": "Submerge array in 350 mL of 0.2% chitosan solution \\(pH 6.5) and incubate at 37C for 1.5-2 hours."
+            },
+            {
+                "title": "18.",
+                "body": "Wash arrays 4x in separate 300 mL distilled water baths."
+            },
+            {
+                "title": "19.",
+                "body": "Submerge in 350 mL of 20 ug/mL poly\\(glutamic) acid, 2 M NaCl, and 100 mM sodium carbonate solution \\(pH 10.0)"
+            },
+            {
+                "title": "20.",
+                "body": "Place in vacuum chamber and apply house vacuum."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "You should see bubbles form indicating solvation of wells.",
+            {
+                "title": "21.",
+                "body": "Place vacuum chamber \\(still connected to house vacuum) on a rotator and let rotate overnight. \r\n  \r\n\n\n_Day 2: Array Functionalization – Part 2_"
+            },
+            {
+                "title": "1.",
+                "body": "The following morning, remove arrays from vacuum and rotate at 50-60 rpm for 3 hours at room temperature."
+            },
+            {
+                "title": "2.",
+                "body": "Place arrays at 4C and soak 24 hours before use."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": "Arrays can be stored in the poly\\(glutamic) acid solution for 6 weeks at 4C."
+    },
+    {
+        "title": "**Appendix B: Buffers Guide**",
+        "body": [
+            "_CellCover10_\r\n\n\nReagents:\r\n\n\n- CellCover \\(Anacyte Art. No. 800-125)\r\n\n\n- FBS \\(Thermo Fisher Scientific Cat. No. 10437028)\r\n\n\n- Sodium Carbonate \\(Sigma Cat. No. 223530-500G)\r\n\n\nWorking Concentrations:\r\n\n\n- 10% FBS\r\n\n\n- 100 mM Sodium Carbonate\r\n\n\n\r\n\n\n_Bead Loading Buffer:_\r\n\n\nReagents: \r\n\n\n- Sodium Carbonate \\(Sigma Cat No. 223530-500G) \r\n\n\n- BSA \\(Sigma Cat No. A9418-100G) \r\n\n\n- Water \\(Thermo Fisher Scientific Cat No. 10977023)\r\n\n\nQuick Preparation Guide \\(25 mL):",
+            {
+                "title": "1.",
+                "body": "1.25 mL 2 M Sodium Carbonate"
+            },
+            {
+                "title": "2.",
+                "body": "Add 2.5 mL BSA \\(100 mg/mL)"
+            },
+            {
+                "title": "3.",
+                "body": "21.25 mL H2O"
+            },
+            {
+                "title": "4.",
+                "body": "Titrate with glacial acetic acid to achieve a pH of 10.0\r\n  Working Concentrations:\r\n\n\n- 100 mM Sodium Carbonate\r\n\n\n- 10% BSA\r\n\n\n\r\n\n\n_Pre-Lysis Buffer:_\r\n\n\nReagents:\r\n\n\n- Guanidine Thiocyanate \\(Sigma Cat No. AM9422) \r\n\n\n- 0.5 M EDTA \\(Thermo Fisher Scientific Cat No. 15575020)\r\n\n\n- UltraPure Distilled Water \\(Thermo Fisher Scientific Cat No. 10977023)\r\n\n\nQuick Preparation Guide \\(500 mL):"
+            },
+            {
+                "title": "1.",
+                "body": "1 mL 0.5 M EDTA"
+            },
+            {
+                "title": "2.",
+                "body": "Dissolve 295.4 grams in 500 mL of water\r\n  Working Concentrations:\r\n\n\n- 5 M Guanidine Thiocyanate\r\n\n\n- 1 mM EDTA\r\n\n\n\r\n\n\n_Complete Lysis Buffer:_\r\n\n\nReagents:\r\n\n\n- Pre-lysis buffer\r\n\n\n- 10% Sarkosyl \\(Sigma Cat No. L7414)\r\n\n\n- 100% 2-Mercaptoethanol \\(Cat No. NC0753648)\r\n\n\nQuick Preparation Guide \\(25 mL):"
+            },
+            {
+                "title": "1.",
+                "body": "24.625 mL Pre-Lysis Buffer"
+            },
+            {
+                "title": "2.",
+                "body": "125 uL 10% Sarkosyl"
+            },
+            {
+                "title": "3.",
+                "body": "250 uL BME\r\n  Working Concentrations:\r\n\n\n- 5 M Guanidine Thiocyanate\r\n\n\n- 1 mM EDTA\r\n\n\n- 0.5% Sarkosyl\r\n\n\n- 1% BME\r\n\n\n\r\n\n\n_Hybridization Buffer:_\r\n\n\nReagents:\r\n\n\n- 5 M NaCl \\(Thermo Fisher Scientific Cat No. 24740011)\r\n\n\n- 1 M MgCl2 \\(Sigma Cat No.63069-100ML)\r\n\n\n- 1XPBS \\(Thermo Fisher Scientific Cat No. 10010023)\r\n\n\n- Tween-20 \\(Fisher Scientific Cat No. BP337-100ML)\r\n\n\nQuick Preparation Guide \\(25 mL):"
+            },
+            {
+                "title": "1.",
+                "body": "10 mL 5 M NaCl"
+            },
+            {
+                "title": "2.",
+                "body": "75 uL 1 M MgCl2"
+            },
+            {
+                "title": "3.",
+                "body": "14.800 mL of PBS"
+            },
+            {
+                "title": "4.",
+                "body": "125 uL Tween-20\r\n  Working Concentrations:\r\n\n\n- 2 M NaCl\r\n\n\n- 3 mM MgCl2\r\n\n\n- 0.5% Tween-20\r\n\n\n\r\n\n\n_Wash Buffer:_\r\n\n\nReagents:\r\n\n\n- 5 M NaCl \\(Thermo Fisher Scientific Cat No. 24740011)\r\n\n\n- 1 M MgCl2 \\(Sigma Cat No.63069-100ML)\r\n\n\n- 1 M Tris-HCl pH 8.0 \\(Thermo Fisher Scientific Cat No. 15568025)\r\n\n\n- UltraPure Distilled Water \\(ThermoFisher Scientific Cat No. 10977023)\r\n\n\nQuick Preparation Guide \\(25 mL):"
+            },
+            {
+                "title": "1.",
+                "body": "10 mL 5 M NaCl"
+            },
+            {
+                "title": "2.",
+                "body": "75 uL 1 M MgCl2"
+            },
+            {
+                "title": "3.",
+                "body": "500 uL 1 M Tris-HCl pH 8.0"
+            },
+            {
+                "title": "4.",
+                "body": "14.3 mL water\r\n  Working Concentrations:\r\n\n\n- 2 M NaCl\r\n\n\n- 3 mM MgCl2\r\n\n\n- 20 mM Tris-HCl pH 8.0\r\n\n\n\r\n\n\n_Array Quenching Buffers:_\r\n\n\nReagents:\r\n\n\n- Sodium Carbonate \\(Sigma Cat No. 223530-500G)\r\n\n\n- 1 M Tris-HCl pH 8.0 \\(Thermo Fisher Scientific Cat No. 15568025)\r\n\n\n- UltraPure Distilled Water \\(ThermoFisher Scientific Cat No. 10977023)\r\n\n\nQuick Preparation Guide \\(25 mL):"
+            },
+            {
+                "title": "1.",
+                "body": "1.25 mL 2 M Sodium Carbonate"
+            },
+            {
+                "title": "2.",
+                "body": "250 uL 1 M Tris-HCl pH 8.0"
+            },
+            {
+                "title": "3.",
+                "body": "23.5 mL water\r\n  Working Concentrations:\r\n\n\n- 100 mM Sodium Carbonate\r\n\n\n- 10 mM Tris-HCl pH 8.0\r\n\n\n\r\n\n\n_0.2% Chitosan Solution:_\r\n\n\nReagents:\r\n\n\n- Chitosan \\(Sigma Cat No. C3646-100G) \r\n\n\n- UltraPure Distilled Water \\(ThermoFisher Scientific Cat No. 10977023)\r\n\n\nQuick Preparation Guide:"
+            },
+            {
+                "title": "1.",
+                "body": "Dissolve 1 gram of Chitosan in 500 mL of DI water"
+            },
+            {
+                "title": "2.",
+                "body": "Autoclave solution \\(40 minutes sterilization, 20 minutes dry)"
+            },
+            {
+                "title": "3.",
+                "body": "Allow Chitosan solution to come to room temperature, then titrate with acetic acid to lower pH to 6.5"
+            },
+            {
+                "title": "4.",
+                "body": "Add 50 mL 5 M NaCl solution"
+            }
+        ]
+    },
+    {
+        "title": "**Appendix C: Shopping List**",
+        "body": "_Device Manufacturing:_\r\n\n\nEquipment:\r\n\n\n- Dow Corning Sylgard 184 Silicone Encapsulant Clear 0.5 kg kit \\(Part No. 184 SIL ELAST KIT 0.5 PG)\r\n\n\n- Protolabs Custom Array Molding Plates \\(CAD files available at www.shaleklab.com/seqwell)\r\n\n\n- 45 micron Silicon Master Wafer Size \\(CAD files available at www.shaleklab.com/seqwell)\r\n\n\n- Corning 72x25 Microscope Slides \\(Cat. No. 2947)\r\n\n\n\r\n\n\n_Array Functionalization:_\r\n\n\nEquipment:\r\n\n\n- Plasma Oven \\(Harrick Plasma PDC-001-HP)\r\n\n\n- 2x 30-slide rack slotted \\(VWR Cat No. 25461-014)\r\n\n\n- 16x20 cm staining dish \\(VWR Cat No. 25461-018)\r\n\n\n- Vacuum Desiccator \\(VWR Cat No. 24988-164)\r\n\n\n- Sterile 4-well dishes \\(Thermo Scientific Cat No. 267061)\r\n\n\n\r\n\n\n_Reagents:_\r\n\n\n- 200 proof ethanol \\(VWR Cat No. 89125-188)\r\n\n\n- \\(3-Aminopropyl)triethoxysilane \\(APTES) \\(Sigma Cat No. A3648)\r\n\n\n- Acetone \\(Avantor Product No. 2440-10)\r\n\n\n- p-Phenylene Diisothiocyanate \\(PDITC) \\(Sigma Cat No. 258555-5G)\r\n\n\n- Pyridine \\(Sigma 270970-1L)\r\n\n\n- Dimethylformamide \\(DMF) \\(Sigma Cat No. 227056-1L)\r\n\n\n- Chitosan \\(Sigma Cat No. C3646-100G)\r\n\n\n- Poly\\(L-glutamic) acid sodium solution \\(Sigma Cat No. P4761-100MG)\r\n\n\n- 5M NaCl \\(Sigma Cat No. S6546-1L)\r\n\n\n- Sodium Carbonate \\(Sigma Cat No. S2127-500G)"
+    },
+    {
+        "title": "**Buffer Reagents:**",
+        "body": "_Bead Loading Buffer:_\r\n\n\n- Sodium Carbonate \\(Sigma Cat No. 223530-500G) \r\n\n\n- BSA \\(Sigma Cat No. A9418-100G) \r\n\n\n- UltraPure Distilled Water \\(Thermo Fisher Scientific Cat No. 10977023)\r\n\n\n\r\n\n\n_Pre-Lysis Buffer:_\r\n\n\n- Guanidine Thiocyanate \\(Sigma Cat No. AM9422) \r\n\n\n- 0.5 M EDTA \\(Thermo Fisher Scientific Cat No. 15575020)\r\n\n\n- UltraPure Distilled Water \\(Thermo Fisher Scientific Cat No. 10977023)\r\n\n\n\r\n\n\n_Complete Lysis:_\r\n\n\n- Pre-lysis buffer\r\n\n\n- 10% Sarkosyl \\(Sigma Cat No. L7414)\r\n\n\n- 100% 2-Mercaptoethanol \\(Cat No. NC0753648)\r\n\n\n\r\n\n\n_Hybridization Buffer:_\r\n\n\n- 5 M NaCl \\(Thermo Fisher Scientific Cat No. 24740011)\r\n\n\n- 1 M MgCl2 \\(Sigma Cat No.63069-100ML)\r\n\n\n- 1XPBS \\(Thermo Fisher Scientific Cat No. 10010023)\r\n\n\n- Tween-20 \\(Fisher Scientific Cat No. BP337-100ML)\r\n\n\n\r\n\n\n_Wash Buffer:_\r\n\n\n- 5 M NaCl \\(Thermo Fisher Scientific Cat No. 24740011)\r\n\n\n- 1 M MgCl2 \\(Sigma Cat No.63069-100ML)\r\n\n\n- 1 M Tris-HCl pH 8.0 \\(Thermo Fisher Scientific Cat No. 15568025)\r\n\n\n- UltraPure Distilled Water \\(ThermoFisher Scientific Cat No. 10977023)\r\n\n\n\r\n\n\n_Array Quenching Buffer:_\r\n\n\n- Sodium Carbonate \\(Sigma Cat No. 223530-500G)\r\n\n\n- 1 M Tris-HCl pH 8.0 \\(Thermo Fisher Scientific Cat No. 15568025)\r\n\n\n- UltraPure Distilled Water \\(ThermoFisher Scientific Cat No. 10977023)"
+    },
+    {
+        "title": "**RT Reagents:**",
+        "body": "- UltraPure Distilled Water \\(Thermo Fisher Scientific Cat No. 10977023)\r\n\n\n- Maxima 5x RT Buffer/Maxima H-RT \\(Thermo Fisher Scientific Cat No. EPO0753)\r\n\n\n- 20% Ficoll PM-400 \\(Sigma Cat No. F5415-50mL)\r\n\n\n- 10 mM dNTPs \\(New England BioLabs Cat No. N0447L)\r\n\n\n- RNAse Inhibitor \\(Thermo Fisher Scientific Cat No. AM2696)\r\n\n\n- Template Switching Oligo \\(Order from IDT)"
+    },
+    {
+        "title": "**PCR Reagents:**",
+        "body": "- Exonuclease I \\(E. coli) \\(New England Biolabs Cat No. M0293S)\r\n\n\n- IS PCR Primer \\(Order from IDT)\r\n\n\n- KAPA HiFi Hotstart Readymix PCR Kit \\(Kapa Biosystems Cat No. KK-2602)"
+    },
+    {
+        "title": "**Nextera Reagents:**",
+        "body": "- Nextera XT DNA Library Preparation Kit \\(96 samples) \\(Illumina FC-131-1096)\r\n\n\n- P5-SMART PCR Hybrid Oligo \\(Order from IDT)\r\n\n\n- Nextera N70X Oligo \\(Order from Illumina)"
+    },
+    {
+        "title": "**Operating Equipment:**",
+        "body": "- Polycarbonate \\(PCTE) 0.01 micron 62x22 mm precut membranes, 100 count \\(Sterlitech Custom Order)\r\n\n\n- mRNA Capture Beads \\(Chemgenes Cat No. MACOSKO-2011-10)\r\n\n\n- Lifter Slips, 25x60mm \\(Electron Microscopy Science Cat No. 72186-60)"
+    }
+]

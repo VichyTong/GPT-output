@@ -1,0 +1,80 @@
+[
+    {
+        "title": "**Chemical cross-linking of total cell lysates**",
+        "body": [
+            {
+                "title": "1-",
+                "body": "Rinse the cells twice with ice-cold phosphate-buffered saline \\(PBS)."
+            },
+            {
+                "title": "2-",
+                "body": "Harvest the cell pellet in ice-cold cross-linking buffer \\(PBS pH 8 for lysine-reactive cross-linkers or PBS pH 7.4, 2.5 mM EDTA for cysteine-reactive reagents) containing protease inhibitors \\(complete-mini EDTA-free, Roche Molecular Biochemicals) and sonicate at 4°C."
+            },
+            {
+                "title": "3-",
+                "body": "Measure the protein content by a small-volume micromethod using the Bio-Rad D<sub>C</sub> protein assay."
+            },
+            {
+                "title": "4-",
+                "body": "Distribute 15 μg of protein in an equal volume of cross-linking buffer in one 1.5 ml tube per condition, pre-cooled to 4°C."
+            },
+            {
+                "title": "5-",
+                "body": "Weigh and dissolve the chemical cross-linkers either in PBS for water-soluble reagents or DMSO for the water-insoluble ones."
+            },
+            {
+                "title": "6-",
+                "body": "Mix the protein samples with an equal volume for each condition of stock cross-linker solutions \\(or vehicle only as a control) to reach the desired final concentrations."
+            },
+            {
+                "title": "7-",
+                "body": "Incubate for the time and at the temperature that you have previously optimized for your own protein. In the present study on Orai expressed in _Drosophila_ S2 cells, incubations were performed for 10 min at 37°C for the lysine-reactive cross-linkers and for 20 min at room temperature for the cysteine-reactive reagents."
+            },
+            {
+                "title": "8-",
+                "body": "Stop the reaction by the addition of the quenching solution at a final concentration of 20 mM Tris pH 7.5 for the lysine-reactive cross-linkers or 25 mM DTT for the cysteine-reactive cross-linkers and incubate 10 min at room-temperature."
+            },
+            {
+                "title": "9-",
+                "body": "Mix the stopped reaction with denaturing gel loading buffer and analyze the size of the cross-linked products by a standard western-blotting technique. We use a 1X final concentration of Nu-PAGE LDS sample buffer \\(Invitrogen) containing 50 mM DTT, incubate the samples at 70°C for 10 min, and then subject them to electrophoresis. The samples are separated either on 4-12% gradient Nu-PAGE Bis-Tris gels \\(Invitrogen) or 3-8% gradient Nu-PAGE Tris-Acetate gels \\(Invitrogen) according to the manufacturer instructions."
+            }
+        ]
+    },
+    {
+        "title": "**Chemical cross-linking of intact S2 cells**",
+        "body": [
+            {
+                "title": "1-",
+                "body": "Rinse the cells twice with room temperature phosphate-buffered saline \\(PBS)."
+            },
+            {
+                "title": "2-",
+                "body": "Harvest 5x10<sup>6</sup> cells per condition in 1 ml of room temperature cross-linking buffer \\(PBS pH8 for lysine-reactive cross-linkers or PBS pH 7.4, 2.5 mM EDTA for cysteine-reactive reagents)."
+            },
+            {
+                "title": "3-",
+                "body": "Weigh and dissolve the chemical cross-linkers either in PBS for water soluble reagents or DMSO for the water-insoluble ones."
+            },
+            {
+                "title": "4-",
+                "body": "For each condition, add to the cells an equal volume of stock cross-linker solutions \\(or vehicle only as a control) to reach the desired final concentrations."
+            },
+            {
+                "title": "5-",
+                "body": "Incubate for the time and at the temperature that you have previously optimized for your own protein. In the present study on Orai expressed in _Drosophila_ S2 cells, incubations were performed for 15 min at room temperature for the lysine-reactive cross-linker and for 20 min at room temperature for the cysteine-reactive reagents."
+            },
+            {
+                "title": "6-",
+                "body": "Stop the reaction by the addition of the quenching solution at a final concentration of 20 mM Tris pH 7.5 for the lysine-reactive cross-linkers or 25 mM DTT for the cysteine-reactive cross-linkers and incubate 10 min at room-temperature."
+            },
+            {
+                "title": "7-",
+                "body": "Rinse the cells twice with ice-cold phosphate-buffered saline \\(PBS)."
+            },
+            {
+                "title": "8-",
+                "body": "Solubilize the proteins in a lysis buffer containing detergents and analyze the size of the cross-linked products by standard a western-blotting technique. We lyse the cells in 85 μl of RIPA lysis buffer \\(Upstate) supplemented with 1X Complete EDTA-free protease inhibitor mixture \\(Roche) and pass them five times through a 26G needle. After 30 min of solubilization at 4°C under agitation, lysates are centrifuged \\(16,000 x _g_, 10 min, 4°C) and the supernatants are collected."
+            }
+        ]
+    }
+]

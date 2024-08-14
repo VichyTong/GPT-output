@@ -1,0 +1,14 @@
+[
+    {
+        "index": 0,
+        "string": "1)  Isolate and purify cytotrophoblasts as previously described <sup>1</sup> with some modifications.",
+        "phrase": "as previously described",
+        "refer": "as previously described refers to the method or procedure for isolating and purifying cytotrophoblasts that was mentioned or explained earlier in the text."
+    },
+    {
+        "index": 8,
+        "string": "Remove the remaining leukocytes as previously described <sup>1</sup>.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to a method or procedure that was mentioned or explained earlier."
+    }
+]

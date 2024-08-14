@@ -1,0 +1,44 @@
+[
+    {
+        "title": "**Harvest of mouse spleens and preparation of splenic sections**",
+        "body": []
+    },
+    {
+        "title": "**1**",
+        "body": "Harvest mouse spleens, embed them in OCT compound embedding medium and freeze in liquid nitrogen."
+    },
+    {
+        "title": "**2**",
+        "body": "Cut 7 µm sections and mount them on Superfrost Plus slides."
+    },
+    {
+        "title": "**3**",
+        "body": "Incubate slides in humidified chambers overnight at 4 ˚C and dry them, then fix them in acetone at 4 ˚C for 10 min and block them with PBS + 5% fetal calf serum at 25 ˚C for 1 h."
+    },
+    {
+        "title": "**Antibody staining and microscopy**",
+        "body": []
+    },
+    {
+        "title": "**4**",
+        "body": "Stain blocked sections overnight at 4 ˚C with a combination of anti-CD3-phycoerythrin, anti-B220-FITC, and peanut-agglutinin-biotin, all diluted in blocking buffer \\(all the antibodies need to be titrated for optimal results; dilution 1:200 – 1:1000) \\(1)."
+    },
+    {
+        "title": "**5**",
+        "body": [
+            "Wash the slides 3x with PBS + 0.05% Tween",
+            {
+                "title": "20.",
+                "body": "Stain sections with streptavidin-cyanin 5.5 \\(dilution 1:100) at 25 ˚C for 1 h."
+            }
+        ]
+    },
+    {
+        "title": "**6**",
+        "body": "Wash the slides 3x with PBS + 0.05% Tween 20, dry them and mount them with Gelmount."
+    },
+    {
+        "title": "**7**",
+        "body": "Capture images at x10 magnification with a Zeiss Axioplan microscope."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "title": "1.",
+        "body": "Culture _S. pombe_ cells in an appropriate medium."
+    },
+    {
+        "title": "2.",
+        "body": "Harvest cells in a collection tube."
+    },
+    {
+        "title": "3.",
+        "body": "Suspend the cells with medium that was used in the culture of the cells \\(do not exceed the half volume of the tube)."
+    },
+    {
+        "title": "4.",
+        "body": "Add an equal amount of 0.7 N NaOH solution and mix well."
+    },
+    {
+        "title": "5.",
+        "body": "Incubate at room temperature for 3 minutes."
+    },
+    {
+        "title": "6.",
+        "body": "Centrifuge the tube \\(5,000 rpm, 1 min) and discard the supernatant."
+    },
+    {
+        "title": "7.",
+        "body": "Add SDS-PAGE sample buffer and mix well."
+    },
+    {
+        "title": "8.",
+        "body": "Heat at 95-100˚C for 5 min."
+    },
+    {
+        "title": "9.",
+        "body": "Centrifuge at at least 3,500 rpm, and use the supernatant as the total cell lysate."
+    }
+]

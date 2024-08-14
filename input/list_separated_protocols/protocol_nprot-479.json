@@ -1,0 +1,34 @@
+[
+    {
+        "title": "**Culture of ES cells**",
+        "body": "1 Culture ES cells on gelatin-coated flasks with 20–30 ml of ES medium in a humidified tissue culture incubator.\r\n\n\n2 Change the ES medium every day and passage ES cells when the cells cover 80% of the surface, usually 3 or 4 days after seeding.\r\n\n\n3 Splitting cells: Quickly wash the cells twice with PBS, cover them with a thin film of 1 ml trypsin-EDTA solution and incubate for 1 min in the incubator. Resuspend the ES cells in 10 ml fresh ES medium by thoroughly pipetting them up and down. Good dissociation of the cells is important, the goal being to obtain single-cell culture or aggregates of 2–3 cells. Larger cell clumps should not remain.\r\n\n\n4 Passage 5% of the ES cell suspension for 3 days of culture or 2% for 4 days to fresh 20–30 ml of ES medium in a new gelatin-coated flask."
+    },
+    {
+        "title": "**EB formation**",
+        "body": [
+            "5 Trypsinize ES cells as in Step",
+            {
+                "title": "3.",
+                "body": "6 Resuspend the ES cells in 10 ml fresh EB medium by thoroughly pipetting them up and down several times.\r\n\n\n7 Centrifuge for 5 min at 170 g, resuspend them in 30 ml EB medium, and count the cells.\r\n\n\n8 Plate the single-cell ES cell suspension in 50 ml fresh EB medium at a density of 10<sup>5</sup> cells ml<sup>-1</sup> onto 15-cm bacterial dishes.\r\n\n\n9 Culture 6 days without changing the medium."
+            }
+        ]
+    },
+    {
+        "title": "**Neurosphere formation**",
+        "body": [
+            "10 Transfer the 6-day-cultured EBs into 50-ml conical tubes and allow them to settle for 10 min.\r\n\n\n11 Carefully aspirate most of the supernatant, resuspend and collect the EBs together in 30 ml of PBS, and allow them to settle for 5 min.\r\n\n\n12 Aspirate the supernatant, resuspend the EBs in 1.5 ml of trypsin-EDTA solution, and incubate for 5 min at 37 °C.\r\n\n\n13 Quench the trypsinization by adding 3 ml FBS and thoroughly dissociate the EBs using a transfer pipette \\(30 times).\r\n\n\n14 Transfer the suspension into a 15-ml conical tube and bring the volume up to 12 ml with MHM.\r\n\n\n15 After 2 min, transfer the suspension except for 1 ml at the bottom of each tube into a new conical tube to remove undissociated cell clumps.\r\n\n\n16 Repeat Step",
+            {
+                "title": "15.",
+                "body": "17 Centrifuge for 5 min at 170 g and resuspend the pellet in 10 ml MHM.\r\n\n\n18 Repeat step"
+            },
+            {
+                "title": "17.",
+                "body": "19 Count the cells, prepare a single-cell suspension in 40 ml MHM with 1 ml FGF \\(1 μg ml<sup>-1</sup>) at a density of 5 x 10<sup>4</sup>–10<sup>5</sup> cells ml<sup>-1</sup>, and plate the cells onto non-coated T75 cell culture flasks.\r\n\n\n20 Culture 6 days without changing the medium but add 1 ml FGF \\(1 μg ml<sup>-1</sup>) at day 3."
+            }
+        ]
+    },
+    {
+        "title": "**Passage and differentiation of neurospheres**",
+        "body": "21 Transfer 6-day-cultured neurospheres into 50-ml conical tubes and centrifuge for 5 min at 170 g.\r\n\n\n22 Carefully aspirate the supernatant and add 1 ml of fresh MHM.\r\n\n\n23 Dissociate the neurospheres mechanically by pipetting them with a P1000 Pipetman.\r\n\n\n24 Add 20 ml of MHM and centrifuge for 5 min at 170 g.\r\n\n\n25 Resuspend the cell pellet in the appropriate volume \\(for example, 40 ml) of MHM and plate 500 μl of the suspension onto the fibronectin-coated coverslips.\r\n\n\n26 Culture 5 days without changing the medium, for differentiation.\r\n\n\n27 Add 1 ml FGF \\(1 μg ml<sup>-1</sup>) to the rest of the cell suspension and transfer it into a new non-coated T75 cell culture flask. \r\n\n\n28 Culture 6 days without changing the medium, for formation of the next generation of neurospheres."
+    }
+]

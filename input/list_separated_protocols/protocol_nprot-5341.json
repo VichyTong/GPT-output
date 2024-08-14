@@ -1,0 +1,205 @@
+[
+    "\nCITP Standard Operating Procedure \r\n\n\nWorm Plate Preparation\r\n\n\n\r\n\n\nGeneral guidelines\r\n\n\n\r\n\n\n• Use CITP-standard reagents and materials as specified on the CITP Reagents and Materials List. \r\n\n\n\r\n\n\n• Record lot # and date of opening for each reagent.\r\n\n\n\r\n\n\n• Label and dedicate CITP-only reagents.\r\n\n\n\r\n\n\n• Refer to CITP Stock Preparation chart on the last page of this section for a summary of procedures. \r\n\n\n\r\n\n\nPre-autoclaving procedure",
+    {
+        "title": "1.",
+        "body": "Turn on water bath and set to 55°C."
+    },
+    {
+        "title": "2.",
+        "body": "For each liter of media, add the following to a 2 L Erlenmeyer flask. \r\n  \r\n\n\nIngredient  Amount per Liter\r\n\n\nAgar   23.0 g\r\n\n\nNaCl   3.0 g\r\n\n\nBacto Peptone 2.5 g\r\n\n\nDI Water  1 L\r\n\n\n\r\n\n\nAutoclave operation"
+    },
+    {
+        "title": "1.",
+        "body": "Prepare each liter of media in a 2 liter flask. Include a large stir bar for later mixing."
+    },
+    {
+        "title": "2.",
+        "body": "Pour/autoclave 4 liters at once; autoclave in tray.  If 4 liters is too much for one day, include “dummy” 2 liter flasks filled with 1 l mock media \\( Tray: VWR 62662-241, Nalgene number  6902-5000)"
+    },
+    {
+        "title": "3.",
+        "body": "121ºC at 15 psi, 45 minutes \r\n  \r\n\n\nPost-autoclaving procedure"
+    },
+    {
+        "title": "1.",
+        "body": "After autoclaving, move media immediately to 55°C water bath."
+    },
+    {
+        "title": "2.",
+        "body": "After media cools to 55°C, add the following ingredients in the order shown below. Refer to Reagent Stock Preparations Table to prepare stocks. \r\n  \r\n\n\n \r\n\n\nTo Prepare 1 Liter of Media for Manual Lifespans\r\n\n\nNote: only add FUdR if appropriate for the plate type being made. \r\n\n\n<table>\r\n\n\n  <tr>\r\n\n\n    <th>Ingredient</th>\r\n\n\n    <th>Concentration</th>\r\n\n\n    <th>Stock Vol. added to Final</th>\r\n\n\n <th>1 Liter concentration</th>\r\n\n\n  </tr>\r\n\n\n  <tr>\r\n\n\n    <td>Potassium phosphate buffer; KP04 \\(pH 6.0)</td>\r\n\n\n    <td>1 M</td>\r\n\n\n    <td>25 ml</td>\r\n\n\n <td>24 mM</td>\r\n\n\n  </tr>\r\n\n\n  <tr>\r\n\n\n    <td>Magnesium sulfate \\(MgSO4)</td>\r\n\n\n    <td>1 M</td>\r\n\n\n    <td>1 ml</td>\r\n\n\n <td>1 mM</td>\r\n\n\n  </tr>\r\n\n\n  <tr>\r\n\n\n    <td>Calcium chloride \\(CaCl2)</td>\r\n\n\n    <td>1 M</td>\r\n\n\n    <td>1 ml</td>\r\n\n\n <td>1 mM</td>\r\n\n\n  </tr>\r\n\n\n  <tr>\r\n\n\n    <td>Cholesterol</td>\r\n\n\n    <td>5 mg/ml</td>\r\n\n\n    <td>1 ml</td>\r\n\n\n <td>5 mg/L</td>\r\n\n\n  </tr>\r\n\n\n  <tr>\r\n\n\n    <td>FUDR \\(if required)</td>\r\n\n\n    <td>50 mg/ml</td>\r\n\n\n    <td>250 µL</td>\r\n\n\n <td>51 µM</td>\r\n\n\n  </tr>\r\n\n\n  \r\n\n\n</table>\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n    Stock   Vol. added to  Final \r\n\n\nIngredient   Concentration 1 Liter   concentration\r\n\n\nPotassium phosphate buffer 1 M   25 ml   24 mM\r\n\n\nKP04 \\(pH 6.0)\r\n\n\nMagnesium sulfate \\(MgSO4) 1 M   1 ml   1 mM\r\n\n\nCalcium chloride \\(CaCl2) 1 M   1 ml   1 mM\r\n\n\nCholesterol    5 mg/ml  1 ml   5 mg/L\r\n\n\nFUDR \\(if required)  50 mg/ml  250 µL   51 µM\r\n\n\n\r\n\n\nAdd media manually to each plate or use a calibrated plate-pouring machine. Follow the table directly below for the volume needed for the corresponding plate size.  \r\n\n\n\r\n\n\nType Media vol. per plate  Used for    \r\n\n\nMedium \\(60mm)  10 ml   strain maintenance and egg lays\r\n\n\nSmall \\(35mm)   3 ml   fertility and alpha time experiments\r\n\n\n\r\n\n\nPost-pouring procedure"
+    },
+    {
+        "title": "1.",
+        "body": "Allow plates to dry for 24 hours at room temperature or in a hood with the lids on. The next day, use a pipette to spot or “seed” the center of each plate with liquid OP50-1 suspension. Refer to CITP Standard Operating Procedure OP50-1 Bacterial Preparation and Maintenance. Refer to the table below for amount to seed based on plate size.\r\n  Type of Plate  Amount of OP50-1 liquid culture\r\n\n\nMedium \\(60mm)  200 µL\r\n\n\nSmall \\(35mm)  100 µL"
+    },
+    {
+        "title": "2.",
+        "body": "After spotting, stack the plates ‘lid up’ and allow them to dry in a hood with the fan on or on a lab bench for 24 hours. Different labs have different set-ups and hood availability. The goal is to allow the lawn to dry and thicken without contamination. Then transfer plates to a tightly-covered plastic standard bin, and store ‘lid up’ in the CITP 20°C incubator for another 24 hours."
+    },
+    {
+        "title": "3.",
+        "body": "Flip plates to store them lid-side down at 4o C. \r\n  \r\n\n\n\r\n\n\nShelf Life of Plates\r\n\n\n• Under optimal conditions, plates are used up to three weeks after they are spotted. \r\n\n\n• Plates treated with compounds may be used up to two weeks after treating. \r\n\n\n\r\n\n\nContinued on next page\r\n\n\n \r\n\n\nReagent Stock Preparations Table\r\n\n\n\r\n\n\n Solute  Solvent  Filter Auto- \r\n\n\nReagent Amount Solvent Volume      Molarity Sterilize clave \r\n\n\nMgSO4 2.4 g DI Water 20 mL 1M Yes Yes\r\n\n\nCaCl2 2.94 g DI Water 20 mL 1M Yes No\r\n\n\nCholesterol 100 mg Ethanol 20 mL 5 mg/ml No No\r\n\n\nKH2PO4 136.09 g DI Water 1 L 1M No No\r\n\n\nK2HPO4 43.55 g DI Water 250 mL 1M No No\r\n\n\nKPO4 200 ml DI Water varies* 1M No Yes\r\n\n\n  Monobasic\r\n\n\nFUdR 50 mg DI Water 1mL 203 mM Yes No\r\n\n\n\r\n\n\n*Titrate to a pH of 6.0 with dibasic buffet\r\n\n\n\r\n\n\n\r\n\n\n \r\n\n\nCITP Standard Operating Procedure \r\n\n\nOP50-1 Bacterial Preparation and Maintenance\r\n\n\nBacterial strain: OP50-1, a streptomycin-resistant strain of E. coli OP50, is the CITP standard for bacterial lawns on worm plates. OP50-1 can be obtained from the Caenorhabditis Genetics Center. Small aliquots of OP50-1 are stored at -80⁰ C. \r\n\n\n\r\n\n\n\r\n\n\nLB agar plates for OP50-1 bacterial growth:  Prepare fresh plates each time you culture OP50-1 from frozen stock to ensure the potency of streptomycin. \r\n\n\n\r\n\n\nFor each culture plate, use the following amount of reagents: \r\n\n\n\r\n\n\nAgar granules  0.75 g \r\n\n\nLB Broth Miller  1.25 g\r\n\n\nDeionized Water  50 mL\r\n\n\nStreptomycin \\(50 mg/mL) 50 µL"
+    },
+    {
+        "title": "1.",
+        "body": "Mix LB broth Miller granules with agar and water in a 250 mL flask. Autoclave and cool. Add streptomycin stock solution. Pipette 50 mL of media into each 10 cm plate. Do not use plates more than 30 days old."
+    },
+    {
+        "title": "2.",
+        "body": "Streak OP50-1 onto a culture plate."
+    },
+    {
+        "title": "3.",
+        "body": "Incubate plate at 37oC for 16 hours, store plate at 40C"
+    },
+    {
+        "title": "4.",
+        "body": [
+            "Streak a fresh plate every month from the frozen stock.\r\n  \r\n\n\n",
+            {
+                "title": "****",
+                "body": "NOTE: The CITP method for preparing plates for manual lifespan assays does not include streptomycin.  Streptomycin is added to bacterial growth plates to maintain selection during the initial growth of bacterial colonies. \r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nCITP Standard Operating Procedure \r\n\n\nNematode Maintenance\r\n\n\nGeneral guidelines\r\n\n\n• Thaw frozen worm stocks every two months\r\n\n\n• Record the date of the thaw and relevant notes in the Data Center \r\n\n\n• Freshly thawed worms must be three generations out of a thaw and be free from contamination before they can be used in assays\r\n\n\n\r\n\n\nMaterials needed\r\n\n\n• frozen worm stocks\r\n\n\n• 3 medium NGM plates seeded with OP50-1 per strain\r\n\n\n• P1000 pipette \r\n\n\n• sterile pipette tips \\(optional: low-retention tips may reduce worm loss due to tip retention) \r\n\n\n\r\n\n\nThawing frozen stocks"
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": "Remove tube\\(s) containing the desired strain\\(s) from -80°C freezer."
+    },
+    {
+        "title": "2.",
+        "body": "Thaw frozen worm tube\\(s) at room temperature. Immediately pipette the liquid onto plates.\r\n  a. Pipette 200 µL onto each of two medium plates.  \r\n\n\nb. Pipette the remaining 600 µL onto the third medium plate.\r\n\n\nNOTE: Pipette the worm solution in a ring outside of the bacterial lawn in order to force the worms to crawl out of the solution. This helps prevent the worm solution from overwhelming the OP50-1 lawn."
+    },
+    {
+        "title": "3.",
+        "body": "Allow plates with lids off to dry in a hood. Store plates in the 20°C incubator overnight."
+    },
+    {
+        "title": "4.",
+        "body": "Check the plates the next day for viable worms.  Transfer ~50-100 worms to two fresh medium plates. \r\n  Strain maintenance\r\n\n\nTransfer 50 eggs to a fresh medium plate \\(60 mm) twice weekly to maintain strains. Worms may be used up to two months from their thaw dates. Store the plates in covered plastic boxes in 20oC and 80% humidity incubator. \r\n\n\nWorms must be maintained for at least three generations after starvation, thawing, and/or contamination before being used in assays. \r\n\n\n \r\n\n\nCITP Standard Operating Procedure \r\n\n\nAlpha Time Assay \r\n\n\nDefinition: The α-time measures the “egg-to-egg time” – the interval between an egg being laid and when the emerging worm lays its first egg as an adult. Subject worms must be unmated hermaphrodites.    \r\n\n\nα-Time  = TFE – TELM\r\n\n\nTFE is the observed date and time of the First Egg laid by the worm;\r\n\n\nTELM is the date and time of the Midpoint of the initial Egg Lay\r\n\n\nPlan the egg lay and observation interval based on α-times observed from project strains. \r\n\n\nMaterials \\(for each strain)\r\n\n\n• egg-laying worms:  50 gravid Day 1 or Day 2 unmated adult hermaphrodites of desired strain\\(s)\r\n\n\n• 1 medium CITP culture plate with OP50-1 bacterial lawn \\(for egg lay)\r\n\n\n• 30 small \\(3 cm) CITP culture plate \\(-FUDR) with OP50-1 lawn\r\n\n\n\r\n\n\nProcedure"
+    },
+    {
+        "title": "1.",
+        "body": "Create the experiment record in the CITP Data Coordination Center database. Use the Alpha Time Experiment template for quick entry of metadata."
+    },
+    {
+        "title": "2.",
+        "body": "Set up a one-hour egg lay for each strain with approximately 50 Day 1 or Day 2 gravid adults.  Keep the worms at 20°C for the duration of the lay."
+    },
+    {
+        "title": "3.",
+        "body": "Record the egg lay start time and approximate egg lay end time for each plate. Use the midpoint of that interval \\(TELM) for the α-time calculation."
+    },
+    {
+        "title": "4.",
+        "body": "After the egg lay, transfer one egg per plate onto labeled 3 cm plates on the bacterial lawn.  The goal is to obtain 20 successful observations. 30 starting plates should yield at least 20 successful alpha-time observations."
+    },
+    {
+        "title": "5.",
+        "body": "Store plates in a covered box in the 20°C incubator until they are ready to check for alpha eggs."
+    },
+    {
+        "title": "6.",
+        "body": "Once you’re near the expected alpha time for the strain, check every plate once an hour. Record the time of first observed egg lay \\(TFE) for each plate."
+    },
+    {
+        "title": "7.",
+        "body": "The Data Center calculates α-time using the α-time equation \\(α-Time  = TFE – TELM ). \r\n  \r\n\n\nNote: α-time is extremely sensitive to temperature. Keep a data logger with the plates throughout worm development and scoring. Censor plates if more than five eggs have been laid at the first time of observation \\(TFE). If there are more than three out of thirty plates with more than five eggs laid at the first time of observation, repeat the experiment to observe plates sooner after the initial egg lay. \r\n\n\nCITP Standard Operating Procedure \r\n\n\nFertility Assay \\(No Intervention)\r\n\n\n\r\n\n\nMaterials\r\n\n\n• egg-laying worms:  50 gravid Day 1 or Day 2 adult worms, unmated hermaphrodites of desired strain\\(s)\r\n\n\n• For each strain\r\n\n\no 1 medium plate for egg lay\r\n\n\no 20 small \\(35 x 10 mm) seeded plates \\(no FUdR) per days transferred \\(usually 5-6 days)\r\n\n\n\r\n\n\nProcedure"
+    },
+    {
+        "title": "1.",
+        "body": "Use adults for a one-hour egg lay. Burn off adults and store eggs in 20°C."
+    },
+    {
+        "title": "2.",
+        "body": "Allow the embryos on the plates to reach L4 larval stage \\(~48 hours for C. elegans)."
+    },
+    {
+        "title": "3.",
+        "body": "Pick individual hermaphrodite L4s for each of the 20 plates. Label each plate with the strain, date, and replicate number \\(1-20)."
+    },
+    {
+        "title": "4.",
+        "body": "After 24 hours, transfer the adult worm to a fresh plate. Store the plates from which you transferred the egg-laying worms for two days or until embryos reach L4. Count the number of progeny worms per plate and record that number on the data sheet or database form."
+    },
+    {
+        "title": "5.",
+        "body": "Repeat steps 4 and 5 until the egg-laying cohort is no longer laying eggs. This time frame is strain-dependent, but is usually 5 to 6 days total."
+    },
+    {
+        "title": "6.",
+        "body": "Record a final fertility number per subject worm by summing the number of viable progeny for all the days.  \r\n  \r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n \r\n\n\nCITP Standard Operating Procedure \r\n\n\nManual Lifespan Assay\r\n\n\nGeneral guidelines\r\n\n\n• Maintain a continuous culture of each strain on medium plates, kept in incubator at 20°C and 80% humidity\r\n\n\n• Use data loggers to track temperature and humidity for the duration of every assay\r\n\n\n• Worms must be maintained for at least three generations after starvation, thawing, and/or bacterial contamination before being used in assays \r\n\n\n• Record the egg lay date, temperature and humidity readings, strain thaw dates, etc. for each experiment\r\n\n\n• Species differences: For C. elegans and C. briggsae, worms reach L4 stage two days after the egg lay. C. tropicalis reaches L4 three days after the egg lay\r\n\n\n\r\n\n\nHermaphrodite synchronization"
+    },
+    {
+        "title": "1.",
+        "body": "Four days prior to the egg lay, transfer 60-100 eggs from each strain maintenance plate to fresh medium \\(60 mm) plates."
+    },
+    {
+        "title": "2.",
+        "body": "One day prior to the egg lay, depending on timing ensure that adults are unmated. Follow “Removing Males” protocol if necessary. \r\n  \r\n\n\nRemoving males\r\n\n\nSpontaneous males occur at variable rates across strains and species. Rule-of-thumb: if the source plate has >5 males, use Method"
+    },
+    {
+        "title": "1.",
+        "body": "If fewer, Method 2 is faster and less likely to hurt the worms. \r\n\n\nMethod 1: Transfer L4 hermaphrodites from the source plate to a new seeded medium \\(60 mm) plate. \r\n\n\nMethod 2: Flame off males from the source plate.  Very carefully examine all the worms on the plate and flame off any males. Use remaining worms in the experiment only if visual inspection of adults reveals no adult males or signs of mating. \r\n\n\n\r\n\n\nEgg lay"
+    },
+    {
+        "title": "1.",
+        "body": "Transfer 50 gravid young adults \\(day one or two of adulthood) per medium plate.  The number of plates depends on how many worms you need for your experiment."
+    },
+    {
+        "title": "2.",
+        "body": "Remove any eggs or larvae accidently transferred."
+    },
+    {
+        "title": "3.",
+        "body": "Allow worms to lay eggs for desired time at 20°C \\(usually around two hours)."
+    },
+    {
+        "title": "4.",
+        "body": "Count the eggs laid to ensure there are more than enough for the upcoming assay."
+    },
+    {
+        "title": "5.",
+        "body": "NOTE: Lifespans \\(ages) are calculated with the egg lay as Day Zero.\r\n  \r\n\n\nMoving worms to assay plates"
+    },
+    {
+        "title": "1.",
+        "body": "Transfer 40 day-one adults to small \\(35 mm) FUdR+ plates, in triplicate \\(i.e., 120 animals per strain, minimum, to start an experiment)."
+    },
+    {
+        "title": "2.",
+        "body": "Keep plates at 20oC with a temperature and humidity data logger when not transferring or scoring.  \r\n  \r\n\n\nTransfers and scoring"
+    },
+    {
+        "title": "1.",
+        "body": "When transferring, move living worms to fresh small FUdR+ seeded plates warmed to room temperature."
+    },
+    {
+        "title": "2.",
+        "body": "Score worms according to standard CITP methods. See “Scoring recommendations” below. \r\n  \r\n\n\nSchedule\r\n\n\nFriday egg lay schedule\r\n\n\nWeek 1: Transfer on days 1\\(M), 2\\(TU), and 5\\(F) of adulthood.  \r\n\n\nWeek 2: Transfer on day 8\\(M), 10\\(W), and 12\\(F) of adulthood\r\n\n\nWeek 3: Transfer on day 15\\(M)\r\n\n\nWeek 4 and thereafter: transfer once per week \\(M), until the worms are all dead. \r\n\n\n\r\n\n\nScore every transfer day and every Monday, Wednesday, and Friday.\r\n\n\n\r\n\n\nMonday egg lay schedule\r\n\n\nWeek 1: Transfer on days 1\\(TH) and 2\\(F) of adulthood.\r\n\n\nWeek 2: Transfer on days 5\\(M), and 7\\(W), 9\\(F).\r\n\n\nWeek 3: Transfer on days 12\\(M), and 14\\(W)\r\n\n\nWeek 4 and thereafter: Transfer once per week \\(W) until the worms are all dead.\r\n\n\n\r\n\n\nScore every transfer day and every Monday, Wednesday, and Friday.\r\n\n\n\r\n\n\nContinue until all worms are scored as dead or censored. Run the validation script in the database and resolve any errors. Attach the temperature and humidity spreadsheet from the data logger to the experiment record in the Filemaker database. \r\n\n\n\r\n\n\nScoring recommendations"
+    },
+    {
+        "title": "1.",
+        "body": "Score worms as alive, dead, lost, bagged, or extruded."
+    },
+    {
+        "title": "2.",
+        "body": "If worms are visibly moving, score them as alive. For static worms, assay for touch-provoked movement with a flattened platinum wire. Look for movement by prodding the tail first, then mid-body, lastly head – stopping if you see movement."
+    },
+    {
+        "title": "3.",
+        "body": "Record all live, dead and censored worms.\r\n  \r\n\n\nNotes on scoring"
+    },
+    {
+        "title": "1.",
+        "body": "Bagged, Lost, and Extruded are “censor” categories. “Lost” worms may be missing, burrowed or walled."
+    },
+    {
+        "title": "2.",
+        "body": "If bacterial contamination is observed, score all worms as lost and mark the “Censor” box for the plate in the database. Make a note of this."
+    },
+    {
+        "title": "3.",
+        "body": "Burrowing:  Follow the “50% rule” for plates with burrowed worms.  \r\n  a. If 50% or more of the worms on a plate have burrowed, then censor that plate on the day the burrowing is observed. \r\n\n\nb. If fewer than 50% of the worms have burrowed, then move all the worms on the surface to a fresh plate. Do not dig into the agar to extract any worms.  Set the plate aside for up to an hour and check it every few minutes to see if any worms have emerged to the surface, as they frequently do. Move any accessible worms to the fresh plate. \r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nInformation Sheets for Interventions and Methods for Chemical Addition to Plates\r\n\n\n\r\n\n\n\r\n\n\nNotes:\r\n\n\nTo make chemical treated plates, a working solution of the chemical is prepared and added to previously seeded \\(bacteria) and dried lifespan assay plates. After chemicals are added to plates in hoods and solutions are evenly dispersed across plates, they are allowed to dry in the hood. Immediately after drying, stack plates with lids on top and allow plates to sit in incubators \\(20°C and 80% humidity) for 24 hours to allow for chemical diffusion after which they can be stored at 4°C.\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n \r\n\n\nCITP Compound Preparation Instructions\r\n\n\nAlpha-Lipoic Acid\r\n\n\nIntervention source \r\n\n\nCompany:  Sigma, T1395-1g\r\n\n\nLot #:  SLBJ6083V\r\n\n\nContainer opening date:  \r\n\n\nSolubility: Soluble in DMSO MW: 206.33 g/mol\r\n\n\nStock concentration: 40 mM\r\n\n\nFinal concentration: 100 µM\r\n\n\nStock preparation and handling:\r\n\n\nTo prepare 5 mL of stock solution in DMSO at room temperature: Add 41.27 mg powder to 5 mL DMSO.\r\n\n\nFilter sterilization required?  Yes\r\n\n\nStore at -20 0C.  Location: ____________________________\r\n\n\nPrepare the stock solution. Sterilize with a 0.22 µm filter and aliquot into sterile tubes. \r\n\n\nPlate addition.  \r\n\n\nBring 35 mm FUdR plates to room temperature prior to adding the compound solution. Thaw stock solution at room temperature. Mix a working solution by adding 7.5 µL of stock solution to 125 µL of sterile, deionized water per plate. Spread 132.5 µL of working solution evenly over each plate and allow to dry.\r\n\n\nUse notes.  Label the box with the compound set and date. Store the plates lid-side down at 4°C for no longer than three weeks. Bring plates to room temperature before transferring worms to them.\r\n\n\nSpecial handling notes \\(toxic, light sensitive?)\r\n\n\nNone.\r\n\n\nNotes on anything odd about intervention plates \\(precipitating, discolor, etc.)\r\n\n\nNone.\r\n\n\n \r\n\n\nCITP Compound Preparation Instructions\r\n\n\nAlpha-Ketoglutaric Acid\r\n\n\nIntervention source \r\n\n\nCompany:  Sigma, K1128-5G\r\n\n\nLot #:  BCBF0081V\r\n\n\nContainer opening date: ______, Powder stored at -20°C\r\n\n\nSolubility: Soluble in H2O MW: 146.10g/mol\r\n\n\nStock concentration: 192mM\r\n\n\nFinal concentration: 8.0mM\r\n\n\nStock preparation and handling:\r\n\n\nTo prepare the 192 mM stock in DI H2O at room temperature, add 0.70 g powdered compound to 25 mL DI H2O. Invert the mixing tube to dissolve. Sterilize with 0.22 μm filters into a sterile tube. As a general guideline, 12.5 mL will treat approximately 90 small \\(35 mm) plates.\r\n\n\nFilter sterilization required?  Yes\r\n\n\nStore at -20 0C.  Location: ____________________________\r\n\n\nAliquot stock into sterile tubes. Unless using immediately, freeze tubes for storage at -20°C. \r\n\n\nPlate addition\r\n\n\nBring 35 mm FUdR plates to room temperature.  Pipette 125 μL of stock solution to each plate. Gently swirl plates to spread compound evenly.\r\n\n\nUse notes.  Label the box with the compound set and date. Store the plates lid-side down at 4°C for no longer than three weeks. Bring plates to room temperature before transferring worms to them.\r\n\n\n\r\n\n\nSpecial handling notes \\(toxic, light sensitive?) None.\r\n\n\n\r\n\n\nNotes on anything odd about intervention plates \\(precipitating, discolor, etc.) None.\r\n\n\n\r\n\n\n \r\n\n\nCITP Compound Preparation Instructions\r\n\n\nAspirin\r\n\n\nIntervention source \r\n\n\nCompany:  Sigma, A2093-100g\r\n\n\nLot #:  MKBQ8444V\r\n\n\nContainer opening date:  \r\n\n\nSolubility: Soluble in DMSO MW: 180.16 g/mol\r\n\n\nStock concentration: 40 mM\r\n\n\nFinal concentration: 100 µM\r\n\n\nStock preparation and handling:\r\n\n\nTo prepare 5 mL of stock solution in DMSO at room temperature: Add 36.03 mg powder to 5 mL DMSO.\r\n\n\nFilter sterilization required?  Yes\r\n\n\nStore at -20 0C.  Location: ____________________________\r\n\n\nPrepare the stock solution. Sterilize with a 0.22 µm filter and aliquot into sterile tubes. \r\n\n\nPlate addition.  \r\n\n\nBring 35 mm FUdR plates to room temperature prior to adding the compound solution. Thaw stock solution at room temperature. Mix a working solution by adding 7.5 µL of stock solution to 125 µL of sterile, deionized water per plate. Spread 132.5 µL of working solution evenly over each plate and allow to dry.\r\n\n\nUse notes.  Label the box with the compound set and date. Store the plates lid-side down at 4°C for no longer than three weeks. Bring plates to room temperature before transferring worms to them.\r\n\n\nSpecial handling notes \\(toxic, light sensitive?)\r\n\n\nNone.\r\n\n\nNotes on anything odd about intervention plates \\(precipitating, discolor, etc.)\r\n\n\nNone.\r\n\n\n\r\n\n\n \r\n\n\nCITP Compound Preparation Instructions\r\n\n\nCurcumin\r\n\n\nIntervention source \r\n\n\nCompany:  Sigma\r\n\n\nLot #:  MKBR0090V\r\n\n\nContainer opening date:  \r\n\n\nSolubility: Soluble in DMSO MW: 368.38  g/mol\r\n\n\nStock concentration: 40 mM\r\n\n\nFinal concentration: 100 µM\r\n\n\nStock preparation and handling:\r\n\n\nTo prepare 5 mL of stock solution at room temperature: Add 73.68 mg powder to 5 mL DMSO.\r\n\n\nFilter sterilization required?  Yes\r\n\n\nStore at -20 0C.  Location: ____________________________\r\n\n\nPrepare the stock solution. Sterilize with a 0.22 µm PVDF filter and aliquot into tubes. \r\n\n\nPlate addition \r\n\n\nBring 35 mm FUdR plates to room temperature prior to adding the compound solution. \r\n\n\nCompletely thaw the stock solution at room temperature. \r\n\n\nCompound precipitates at concentration of working solution so individual plate aliquots are prepared as the working solution. Prepare individual aliquots of 7.5 µL of stock solution in small ‘PCR’ tubes. Add 125 µL of sterile, deionized water. Pipet the entirety of this onto the assay plate, evenly distribute across the plate and allow to dry.\r\n\n\nUse notes.  Label the box with the compound set and date. Store the plates lid-side down at 4°C for no longer than three weeks. Bring plates to room temperature before transferring worms to them.\r\n\n\nSpecial handling notes \\(toxic, light sensitive?)\r\n\n\nNone\r\n\n\nNotes on anything odd about intervention plates \\(precipitating, discolor, etc.)\r\n\n\nPrecipitates at final concentration. \r\n\n\n \r\n\n\nCITP Compound Preparation Instructions\r\n\n\nNP1\r\n\n\nIntervention source \r\n\n\nCompany:  Chembridge Labs\r\n\n\nLot #:  N/A. Custom order; supply distributed by Lithgow lab\r\n\n\nContainer opening date: Click here to enter text.\r\n\n\nSolubility: Soluble in DMSO MW: 336  g/mol\r\n\n\nStock concentration: 20 mM\r\n\n\nFinal concentration: 50 µM\r\n\n\nStock preparation and handling:\r\n\n\nTo prepare 20 mM stock in DMSO at room temperature: Add 33.6 mg powder to 5 mL DMSO.\r\n\n\nFilter sterilization required?  Yes\r\n\n\nStore at -20 0C.  Location: ____________________________\r\n\n\nPrepare the stock solution. Sterilize with a 0.22 µm PVDF filter and aliquot into tubes. \r\n\n\nPlate addition \r\n\n\nBring 35 mm FUdR plates to room temperature prior to adding the compound solution. \r\n\n\nCompletely thaw the stock solution at room temperature. \r\n\n\nCompound precipitates at concentration of working solution so individual plate aliquots are prepared as the working solution. Prepare individual aliquots of 7.5 µL of stock solution in small ‘PCR’ tubes. Add 125 µL of sterile, deionized water. Pipet the entirety of this onto the assay plate, evenly distribute across the plate and allow to dry.\r\n\n\nUse notes.  Label the box with the compound set and date. Store the plates lid-side down at 4°C for no longer than three weeks. Bring plates to room temperature before transferring worms to them.\r\n\n\nSpecial handling notes \\(toxic, light sensitive?)\r\n\n\nNone\r\n\n\nNotes on anything odd about intervention plates \\(precipitating, discolor, etc.)\r\n\n\nPrecipitates at working solution concentration\r\n\n\n\r\n\n\n \r\n\n\nCITP Compound Preparation Instructions\r\n\n\nPropyl Gallate\r\n\n\nIntervention source \r\n\n\nCompany:  Sigma, P3130-100g\r\n\n\nLot #:  MKBR8169V\r\n\n\nContainer opening date:  \r\n\n\nSolubility: Soluble in DMSO MW: 212.20 g/mol\r\n\n\nStock concentration: 80 mM\r\n\n\nFinal concentration: 200 µM\r\n\n\nStock preparation and handling:\r\n\n\nTo prepare 5 mL of stock solution in DMSO at room temperature: Add 84.88 mg powder to 5 mL DMSO.\r\n\n\nFilter sterilization required?  Yes\r\n\n\nStore at -20 0C.  Location: ____________________________\r\n\n\nPrepare the stock solution. Sterilize with a 0.22 µm filter and aliquot into sterile tubes. \r\n\n\nPlate addition.  \r\n\n\nBring 35 mm FUdR plates to room temperature prior to adding the compound solution. Thaw stock solution at room temperature. Mix a working solution by adding 7.5 µL of stock solution to 125 µL of sterile, deionized water per plate. Spread 132.5 µL of working solution evenly over each plate and allow to dry.\r\n\n\nUse notes.  Label the box with the compound set and date. Store the plates lid-side down at 4°C for no longer than three weeks. Bring plates to room temperature before transferring worms to them.\r\n\n\nSpecial handling notes \\(toxic, light sensitive?)\r\n\n\nNone.\r\n\n\nNotes on anything odd about intervention plates \\(precipitating, discolor, etc.)\r\n\n\nNone.\r\n\n\n\r\n\n\n \r\n\n\nCITP Compound Preparation Instructions\r\n\n\nQuercetin\r\n\n\nIntervention source \r\n\n\nCompany:  Sigma, Q4951-10g\r\n\n\nLot #:  SLBK4625V\r\n\n\nContainer opening date:  \r\n\n\nSolubility: Soluble in DMSO MW: 302.24 g/mol\r\n\n\nStock concentration: 40 mM\r\n\n\nFinal concentration: 100 µM\r\n\n\nStock preparation and handling:\r\n\n\nTo prepare 5 mL of stock solution in DMSO at room temperature: Add 60.45 mg powder to 5 mL DMSO.\r\n\n\nFilter sterilization required?  Yes\r\n\n\nStore at -20 0C.  Location: ____________________________\r\n\n\nPrepare the stock solution. Sterilize with a 0.22 µm PVDF filter and aliquot into tubes. \r\n\n\nPlate addition \r\n\n\nBring 35 mm FUdR plates to room temperature prior to adding the compound solution. \r\n\n\nCompletely thaw the stock solution at room temperature. \r\n\n\nCompound precipitates at concentration of working solution so individual plate aliquots are prepared as the working solution. Prepare individual aliquots of 7.5 µL of stock solution in small ‘PCR’ tubes. Add 125 µL of sterile, deionized water. Pipet the entirety of this onto the assay plate, evenly distribute across the plate and allow to dry.\r\n\n\nUse notes.  Label the box with the compound set and date. Store the plates lid-side down at 4°C for no longer than three weeks. Bring plates to room temperature before transferring worms to them.\r\n\n\nSpecial handling notes \\(toxic, light sensitive?)\r\n\n\nNone\r\n\n\nNotes on anything odd about intervention plates \\(precipitating, discolor, etc.)\r\n\n\nPrecipitates at final concentration. \r\n\n\n\r\n\n\n \r\n\n\nCITP Compound Preparation Instructions\r\n\n\nResveratrol\r\n\n\nIntervention source \r\n\n\nCompany:  Cayman Chemical Company\r\n\n\nLot #:  0414330-182\r\n\n\nContainer opening date:  \r\n\n\nSolubility: Soluble in DMSO MW: 228.24 g/mol\r\n\n\nStock concentration: 40 mM\r\n\n\nFinal concentration: 100 µM\r\n\n\nStock preparation and handling:\r\n\n\nTo prepare 5 mL of stock solution in DMSO at room temperature: Add 45.65 mg powder to 5 mL DMSO.\r\n\n\nFilter sterilization required?  Yes\r\n\n\nStore at -20 0C.  Location: ____________________________\r\n\n\nPrepare the stock solution. Sterilize with a 0.22 µm filter and aliquot into sterile tubes. \r\n\n\nPlate addition.  \r\n\n\nBring 35 mm FUdR plates to room temperature prior to adding the compound solution. Thaw stock solution at room temperature. Mix a working solution by adding 7.5 µL of stock solution to 125 µL of sterile, deionized water per plate. Spread 132.5 µL of working solution evenly over each plate and allow to dry.\r\n\n\nUse notes.  Label the box with the compound set and date. Store the plates lid-side down at 4°C for no longer than three weeks. Bring plates to room temperature before transferring worms to them.\r\n\n\nSpecial handling notes \\(toxic, light sensitive?)\r\n\n\nNone.\r\n\n\nNotes on anything odd about intervention plates \\(precipitating, discolor, etc.)\r\n\n\nNone.\r\n\n\n\r\n\n\n \r\n\n\nCITP Compound Preparation Instructions\r\n\n\nThioflavin T\r\n\n\nIntervention source \r\n\n\nCompany:  MP Biomedicals\r\n\n\nLot #:  M6490\r\n\n\nContainer opening date:  \r\n\n\nSolubility: Soluble in H2O MW: 318.86 g/mol\r\n\n\nStock concentration: 1.2 mM\r\n\n\nFinal concentration: 50 µM\r\n\n\nStock preparation and handling:\r\n\n\nTo prepare 1.2 mM stock in DI H2O at room temperature, make at least 50 mL of stock solution since the amount of powdered drug is so small. To make 50 mL of solution, add 19.1 mg powdered drug to 50 mL water. Filter-sterilize with a 0.22 µm filter and aliquot into sterile 1.5 mL tubes. \r\n\n\nFilter sterilization required?  Yes\r\n\n\nStore at -20 0C.  Location: ____________________________\r\n\n\nAliquot stock into sterile tubes. Unless using immediately, freeze tubes for storage at -20°C. \r\n\n\nPlate addition\r\n\n\nBring 35 mm FUdR plates to room temperature.  Pipette 125 μL of stock solution to each plate. Gently swirl plates to spread compound evenly.\r\n\n\nUse notes.  Label the box with the compound set and date. Store the plates lid-side down at 4°C for no longer than three weeks. Bring plates to room temperature before transferring worms to them.\r\n\n\nSpecial handling notes \\(toxic, light sensitive?)\r\n\n\nThioT is light sensitive. Keep plates on bench for as short as time as possible. \r\n\n\nNotes on anything odd about intervention plates \\(precipitating, discolor, etc.)\r\n\n\n None.\r\n\n\n \r\n\n\nCITP Compound Preparation Instructions\r\n\n\nValproic Acid\r\n\n\nIntervention source \r\n\n\nCompany:  Sigma\r\n\n\nLot #:  MKBS5723V\r\n\n\nContainer opening date:  \r\n\n\nSolubility: Soluble in H2O MW: 166.19 g/mol\r\n\n\nStock concentration: 72 mM\r\n\n\nFinal concentration: 3 mM\r\n\n\nStock preparation and handling:\r\n\n\nTo prepare 7.2 mM stock solution in deionized water at room temperature: Add 0.30 g powder to 25 mL water. Sterilize using 0.22 um filter and aliquot into sterile tubes. \r\n\n\nFilter sterilization required?  Yes\r\n\n\nStore at -20 0C.  Location: ____________________________\r\n\n\nAliquot stock into sterile tubes. Unless using immediately, freeze tubes for storage at -20°C. \r\n\n\nPlate addition\r\n\n\nBring 35 mm FUdR plates to room temperature.  Pipette 125 μL of stock solution to each plate. Gently swirl plates to spread compound evenly.\r\n\n\nUse notes.  Label the box with the compound set and date. Store the plates lid-side down at 4°C for no longer than three weeks. Bring plates to room temperature before transferring worms to them.\r\n\n\n\r\n\n\nSpecial handling notes \\(toxic, light sensitive?)\r\n\n\nNone.\r\n\n\nNotes on anything odd about intervention plates \\(precipitating, discolor, etc.)\r\n\n\n None."
+    }
+]

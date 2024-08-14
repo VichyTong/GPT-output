@@ -1,0 +1,32 @@
+[
+    {
+        "title": "1.",
+        "body": "Incubate cells \\(2x10<sup>7</sup>/ml) in RPMI with 1-5 mM Indo-1 \\(acetoxymethyl ester) at   37°C for 40 min for loading."
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Incubate aliquots of Indo-1 loaded cells with saturating concentrations of e.g., FITC, PE, PerCP, or Tricolor-conjugated antibodies for 20 min.  Incubate at 20° to 25 C unless the antigen is subject to capping, otherwise use 4° to 8 C. \r\n  ",
+            {
+                "title": "**Note:**",
+                "body": "mAbs must be azide free."
+            },
+            {
+                "title": "**Note:**",
+                "body": "set-up single color stained cells for setting appropriate fluorescence compensation on the instrument."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": "Wash cells twice in RPMI and suspend them at the desired concentration \\(usually 2x10<sup>6</sup>/ml).  Higher cell concentrations \\(4x10<sup>6</sup>/ml) are required when the cells of interest represent less than 10% of the total population.  Cells can be kept at 20° to 25 C unless the antigen is subject to capping, otherwise use 4° to 8 C."
+    },
+    {
+        "title": "4.",
+        "body": "Samples should be analyzed shortly after the cells were prepared."
+    },
+    {
+        "title": "5.",
+        "body": "Ionomycin \\(1-3mM final conc.) is used as a positive control for Indo-1 loading and maximum Ca<sup>2+</sup> flux."
+    }
+]

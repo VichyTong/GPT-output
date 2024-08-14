@@ -1,0 +1,129 @@
+[
+    {
+        "title": "**1) Cryosectioning**",
+        "body": [
+            {
+                "title": "a)",
+                "body": "Fix mouse brain on cryosectioning holder."
+            },
+            {
+                "title": "b)",
+                "body": "Cut 20 µm tissue sections at -25°C and transfer these onto glass slides before measurement or store the slides at -80°C until measurement."
+            }
+        ]
+    },
+    {
+        "title": "**2) MALDI matrix application**",
+        "body": [
+            {
+                "title": "a)",
+                "body": "Fix sample on a MALDI target plate with double sided sticker and mark the region of interest  with a colored pen."
+            },
+            {
+                "title": "b)",
+                "body": "Dissolve matrix \\(DHB 30 mg/ml; CHCA 7 mg/ml) in 1 ml 1:1 \\(v/v) acetone/water mixture containing 0.1% TFA."
+            },
+            {
+                "title": "c)",
+                "body": "Apply 80 µl matrix solution using a pneumatic sprayer system with a flow rate of 10 µl/min, sample rotation speed of 350 rpm and a gas pressure of 1 bar."
+            },
+            {
+                "title": "d)",
+                "body": "Check matrix layer quality, crystal size and homogenous coverage with an optical microscope."
+            }
+        ]
+    },
+    {
+        "title": "**3) AP-MALDI MSI**",
+        "body": [
+            {
+                "title": "a)",
+                "body": "Calibrate m/z  scale of mass spectrometer."
+            },
+            {
+                "title": "b)",
+                "body": "Mount MALDI target with sample on the target support of the AP-SMALDI MSI source."
+            },
+            {
+                "title": "c)",
+                "body": "Search region of interest  with the optical sample observation camera."
+            },
+            {
+                "title": "d)",
+                "body": "Set the mass spectrometer to a mass range of m/z 300-1200 and fix injection time to 500 ms. Apply 4 kV to the MALDI target and set laser settings to 30 laser pulses per spot/pixel with a repetition rate of 60 Hz."
+            },
+            {
+                "title": "e)",
+                "body": "Focus laser outside the region of interest by maximizing the intensity and simultaneously lowering the laser pulse energy. Identify the focal plane by inspection of the resulting MALDI mass spectra: If the signal to noise ratio is well-above 3 for as many compounds as possible for a minimal laser energy setting the focal plane is reached."
+            },
+            {
+                "title": "f)",
+                "body": "Set the step size \\(lateral resolution) of the measurement \\(e.g. 10 µm) and the corresponding number of pixels \\(e.g. 500x500) in the control software of the AP-SMALDI MSI source in order to measure the region of interest. Adjust laser pulse energy to a value that allows to measure with the set lateral resolution."
+            },
+            {
+                "title": "e)",
+                "body": "Start data acquisition and the MSI experiment in the control software of the MSI source."
+            }
+        ]
+    },
+    {
+        "title": "**4) Data evaluation and representation**",
+        "body": [
+            {
+                "title": "a)",
+                "body": "Load mass spectrometric data and imaging data with the MIRION<sup>12</sup> imaging software."
+            },
+            {
+                "title": "b)",
+                "body": "Set image bin width to m/z ±0.01."
+            },
+            {
+                "title": "c)",
+                "body": "Export all relevant images with their corresponding intensity weighted centroid m/z value as"
+            }
+        ]
+    },
+    {
+        "title": "**.jpg and as a **",
+        "body": [
+            ".csv file, respectively.",
+            {
+                "title": "d)",
+                "body": "Combine three different ion images into a red-green-blue \\(RGB) overlay image. Generate all MS images without further image processing steps such as smoothing or interpolation. Normalize MS images to the base pixel \\(highest intensity) per image \\(m/z bin)."
+            },
+            {
+                "title": "e)",
+                "body": "Import the m/z value list \\(*.csv file) into a data base \\(e.g. METLIN <sup>13</sup> database) and search for data base entries with a search window of 2 ppm for accurate mass compound assignment."
+            }
+        ]
+    },
+    {
+        "title": "**5) H&E stain for histological classification after MSI**",
+        "body": [
+            {
+                "title": "a)",
+                "body": "Dehydrate the sample in ethanol and gradually increase the demineralized water content: 100% ethanol for 2 min, 70% ethanol for 2 min, 40% ethanol for 2 min, demineralized water for 2 min."
+            },
+            {
+                "title": "b)",
+                "body": "Stain sample with hematoxylin for 12 min.\r\n\n\nc)Wash the sample with tap water for 10 min followed by demineralized water for 5 min."
+            },
+            {
+                "title": "d)",
+                "body": "Apply 1% aqueous Eosin Y solution to the sample for 1 min."
+            },
+            {
+                "title": "e)",
+                "body": "Differentiate in demineralized water and gradually increase the ethanol content: demineralized water for 2 min, 40% ethanol for 2 min, 70% ethanol for 2 min and 100% ethanol for 2 min."
+            },
+            {
+                "title": "f)",
+                "body": "Rinse the sample with Xylol for 2 min."
+            },
+            {
+                "title": "h)",
+                "body": "Fixate the sample with eukitt between glass slides."
+            }
+        ]
+    }
+]

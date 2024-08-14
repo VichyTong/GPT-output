@@ -1,0 +1,59 @@
+[
+    "\nIN ADVANCE:",
+    {
+        "title": "1.",
+        "body": "purchase iungredients according to order sheet \\(Table 1)"
+    },
+    {
+        "title": "2.",
+        "body": "prepare each of the stock solutions using the qauntities and according to the directions shown in Table 2, Table 3 and Table 4\r\n  \r\n\n\nMEDIA\r\n\n\nPreparation of the medium is performed in two stages.\r\n\n\n\\(also see Table 5: example working recipes)\r\n\n\n\r\n\n\nI. before autoclaving"
+    },
+    {
+        "title": "1.",
+        "body": "in a 1l, autoclave-proof, glass bottle, mark on the side the level of the target pre-autoclave volume \\(=1 litre minus the sum of the ingredients to be added after autoclaving)"
+    },
+    {
+        "title": "2.",
+        "body": "add magnetic stirrer flea to bottle"
+    },
+    {
+        "title": "3.",
+        "body": "to milliQ water, add sucrose and low solubility amino acids \\(L, I, Y)"
+    },
+    {
+        "title": "4.",
+        "body": "add stock solutions for buffer base and metal ions"
+    },
+    {
+        "title": "5.",
+        "body": "stir well \\(may not fully dissolve at this stage)"
+    },
+    {
+        "title": "6.",
+        "body": "add cholesterol stock solution \\(solution will turn cloudy)"
+    },
+    {
+        "title": "7.",
+        "body": "add agar\r\n  \r\n\n\nII. autoclave at 120 °C for 15 min\r\n\n\n\\(at the same time, autoclave dispensing tubing and any glass vials or bottles to house the medium)\r\n\n\n\r\n\n\nIII.\r\n\n\n\\(all steps with constant stirring)"
+    },
+    {
+        "title": "1.",
+        "body": "allow solution to cool at room temperature with stirring to ~65 °C"
+    },
+    {
+        "title": "2.",
+        "body": "add sterile stock solutions in order: amino acids,  nucleosides/choline/inositol mix, vitamins and preservatives"
+    },
+    {
+        "title": "3.",
+        "body": "using sterile tubing, dispense the solution into sterile vials"
+    },
+    {
+        "title": "4.",
+        "body": "cover the vials and allow to cool for 90 min at room temperature"
+    },
+    {
+        "title": "5.",
+        "body": "stored at 4 °C until use"
+    }
+]

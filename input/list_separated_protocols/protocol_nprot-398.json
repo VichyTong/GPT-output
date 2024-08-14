@@ -1,0 +1,22 @@
+[
+    {
+        "title": "1)",
+        "body": "Load 0.7 ml of buffer to reference and sample cells"
+    },
+    {
+        "title": "2)",
+        "body": "Run 0 to 120 °C at 1 degree/min"
+    },
+    {
+        "title": "3)",
+        "body": "Load 0.7 ml of fresh buffer to reference cell"
+    },
+    {
+        "title": "4)",
+        "body": "Load 0.7 ml of protein to sample cell"
+    },
+    {
+        "title": "5)",
+        "body": "Run 0 to 120 °C at 1 degree/min"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "title": "1.",
+        "body": "Transfer 200 µl of serum into a 1.5 ml microfuge tube."
+    },
+    {
+        "title": "2.",
+        "body": "Add 50 μl of ExoQuick Exosome Precipitation Solution to the serum and incubate 30 min at 4°C."
+    },
+    {
+        "title": "3.",
+        "body": "Centrifuge ExoQuick/serum mixture at 1,500 × g for 30 minutes at room temperature."
+    },
+    {
+        "title": "4.",
+        "body": "Aspirate supernatant."
+    },
+    {
+        "title": "5.",
+        "body": "Spin down residual ExoQuick solution by centrifugation at 1,500 × g for 5 minutes at room temperature."
+    },
+    {
+        "title": "6.",
+        "body": "Remove all traces of fluid by aspiration, taking great care not to disturb the pellet."
+    },
+    {
+        "title": "7.",
+        "body": "Resuspend the pellet in 20 μl sterile PBS."
+    }
+]

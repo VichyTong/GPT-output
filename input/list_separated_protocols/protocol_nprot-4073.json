@@ -1,0 +1,117 @@
+[
+    "\n_Preparation of standard curve of sodium phosphate glass type 45_",
+    {
+        "title": "1.",
+        "body": "Weigh 0.3 mg of sodium phosphate glass type 45 and dissolve it in 150 µl de-ionized water to make a 2 µg/ µl standard stock solution."
+    },
+    {
+        "title": "2.",
+        "body": "Make 30 mg/ L toluidine blue stock solution with double distilled water."
+    },
+    {
+        "title": "3.",
+        "body": "Make 0.2 N acetic acid stock solution with glacial acetic acid and double distilled water."
+    },
+    {
+        "title": "4.",
+        "body": "Use 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 15 µl of the standard stock solution to obtain 2, 4, 6, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28 and 30 µg polyphosphate in the experimental set up."
+    },
+    {
+        "title": "5.",
+        "body": "Make three replicates of each set up."
+    },
+    {
+        "title": "6.",
+        "body": "Set up the experiment in test tubes following Table"
+    },
+    {
+        "title": "1.",
+        "body": "<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/3753/original/Table_1.jpg?1436098032\">See figure in Figures section.</a>"
+    },
+    {
+        "title": "7.",
+        "body": "Vortex the contents of each test tube and incubate for 15 minutes at 25°C."
+    },
+    {
+        "title": "8.",
+        "body": "Record the absorbance at 630 nm, by setting de-ionized water as blank."
+    },
+    {
+        "title": "9.",
+        "body": [
+            "Prepare a standard curve of sodium polyphosphate glass type 45 in Microsoft Excel by plotting the amount of polyphosphate in the X-axis and the A<sub>630</sub> in the Y-axis \\(Figure",
+            {
+                "title": "1).",
+                "body": "_Microbial cell lysis for extracting polyphosphate granule_"
+            }
+        ]
+    },
+    {
+        "title": "10.",
+        "body": "Take 5 ml of bacterial culture grown for 72 hours at 37°C in a medium with phosphorus source."
+    },
+    {
+        "title": "11.",
+        "body": "Take 10 ml of microalgal and cyanobacterial culture grown for 25 days at 28°C in BG-11 \\(non-N<sub>2</sub> fixer medium) and BG-0 \\(N<sub>2</sub> fixer medium)."
+    },
+    {
+        "title": "12.",
+        "body": "Centrifuge the samples at 2,350 g for 5 minutes. Discard the supernatant."
+    },
+    {
+        "title": "13.",
+        "body": "Dissolve the cell pellets in 500 µl autoclaved de-ionized water and centrifuge at 2350 g for 5 minutes. Discard the supernatant."
+    },
+    {
+        "title": "14.",
+        "body": "Take the fresh weight of the samples."
+    },
+    {
+        "title": "15.",
+        "body": "Add 600 µl of de-ionized water to the samples and mix by flickering."
+    },
+    {
+        "title": "16.",
+        "body": "Sonicate the samples for 5 minutes at 30 Hz \\(Cycle 0.5, Amplitude 65%)."
+    },
+    {
+        "title": "17.",
+        "body": "Place the tubes containing the samples in boiling water bath at 100°C and boil for 2 hours.\r\n  _Recovery of polyphosphate granules and quantification by spectrophotometer_"
+    },
+    {
+        "title": "18.",
+        "body": "After boiling, cool down the tubes at room temperature."
+    },
+    {
+        "title": "19.",
+        "body": "Add 600 µl of 24:1 \\(v/v) chloroform: isoamyl alcohol solution to all the tubes. Mix by vigorous shaking."
+    },
+    {
+        "title": "20.",
+        "body": "Centrifuge at 13,520 g for 15 minutes at room temperature."
+    },
+    {
+        "title": "21.",
+        "body": "Collect the upper aqueous phase in separate tubes.\r\n  CRITICAL STEP: Care should be taken to pipette the aqueous phase without disturbing the organic phase. The presence of even small amount of organic phase in the next steps may give ambiguous results."
+    },
+    {
+        "title": "22.",
+        "body": "Take 300 µl of the aqueous phase in a fresh test tube. Add 3 ml each of toluidine blue solution \\(Stock conc. of 30 mg/ L) and 0.2 N acetic acid solution. Mix by gentle vortexing and incubate for 15 minutes at 25°C till the colour of the solution changes from blue to purple.\r\n  CRITICAL STEP: The change in colour implies that polyphosphate is successfully extracted and is present in the aqueous phase. No colour change indicates that extraction is unsuccessful and has to be done again."
+    },
+    {
+        "title": "23.",
+        "body": "Make a control in the same way with 300 µl de-ionized water."
+    },
+    {
+        "title": "24.",
+        "body": "Record the absorbance at 630 nm, by setting de-ionized water as blank.\r\n  _Calculation of the amount of polyphosphate in the microbial cells_"
+    },
+    {
+        "title": "25.",
+        "body": "Calculate the amount of polyphosphate present in the samples by trend analysis of its A<sub>630</sub> on the standard curve \\(Figure 1)."
+    },
+    {
+        "title": "26.",
+        "body": "Calculate the amount of polyphosphate in µg present per gm of sample fresh weight by the following formula:\r\n  <a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/3755/original/Image_1.jpg?1436100534\">See figure in Figures section.</a>"
+    }
+]

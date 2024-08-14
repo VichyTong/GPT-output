@@ -1,0 +1,230 @@
+[
+    {
+        "title": "**A) Clinical samples**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Centrifuge 3 ml fresh CSF sample from lumbar puncture at 1,750 g for 10 min at 4 °C."
+            },
+            {
+                "title": "2)",
+                "body": "Freeze supernatant immediately at -80 °C."
+            },
+            {
+                "title": "3)",
+                "body": "Lyse cells in 350 μl RLT buffer and store until further processing at -80 °C."
+            }
+        ]
+    },
+    {
+        "title": "**B) Analysis of IgG transcripts**",
+        "body": [
+            {
+                "title": "4)",
+                "body": "Isolate RNA using the RNeasy Micro Kit according to the recommendations of the manufacturer. Add 5 µl of carrier poly-A-RNA \\(4 ng/µl) to cell lysate if fewer than 5,000 cells are analyzed."
+            },
+            {
+                "title": "5)",
+                "body": "Elute RNA in 14 µl RNase-free water; final volume results in 12 µl."
+            },
+            {
+                "title": "6)",
+                "body": "Perform reverse transcription in 20 μl final volume RT reaction mix for 90 min at 37 °C<sup>1</sup>. Use the total amount of RNA from step 5."
+            },
+            {
+                "title": "7)",
+                "body": "Amplify IgG Heavy and Light chain cDNAs in independent experiments. Each experiment contains two rounds of nested PCR in final volumes of 20 µl. Use forward outer and inner primers<sup>1</sup>, and reverse outer and inner primers<sup>2</sup>as described. Use 3 µl of cDNA as template for the first, outer PCRs and 2 µl of PCR product of the first reaction as template for the second, inner PCR. The reaction conditions are: First PCR: 3 min 94 °C; 50 cylces of 30 sec 94 °C, 30 sec 55 °C, 55 sec 72 °C; 10 min 72 °C;\r\n\n\nSecond PCR: 3 min 94 °C; 50 cylces of 30 sec 94 °C, 30 sec 55 °C, 45 sec 72 °C; 10 min 72 °C."
+            },
+            {
+                "title": "8)",
+                "body": "Separate PCR products by electrophoresis in 2% agarose/TBE buffer."
+            },
+            {
+                "title": "9)",
+                "body": "Isolate IgG Heavy and Light chains using the Easypure® DNA Purification Kit according to the recommendations of the manufacturer. Dissolve purified DNA in 12 μl EB buffer."
+            },
+            {
+                "title": "10)",
+                "body": "Insert the IgG heavy and light chains into the pCR®2.1TOPO vector using the TOPO TA Cloning Kit, transform One Shot® Chemically Competent E.coli, and select by blue/white screening according to the recommendations of the manufacturer. Pick at least 40 white colonies per chain for further analysis and culture them overnight in 3 ml LB medium containing 100 µg/µl ampicillin."
+            },
+            {
+                "title": "11)",
+                "body": "Isolate plasmid DNA using QIAprep Spin Miniprep Kit. Elute plasmid DNA in 30 μl EB buffer."
+            },
+            {
+                "title": "12)",
+                "body": "Perform DNA sequencing by standard methods using the primer \"M13 forward \\(-20)\" \\(Invitrogen)."
+            },
+            {
+                "title": "13)",
+                "body": "Analyze IgG Heavy and Light chains. The germline sequences are available at \"http://vbase.mrc-cpe.cam.ac.uk\":http://vbase.mrc-cpe.cam.ac.uk \\(MRC Centre for Protein Engineering)."
+            },
+            {
+                "title": "14)",
+                "body": "Convert sequences in FASTA format. They can then be entered into the mass spectrometry data analysis program \"MASCOT Peptide Mass Fingerprint\" \\(Matrix Science)."
+            }
+        ]
+    },
+    {
+        "title": "**C) Analysis of IgG proteins**",
+        "body": [
+            "_Protein G affinity chromatography_",
+            {
+                "title": "15)",
+                "body": "Wash Dynabeads® Protein G three times in 0.1M Na-acetate, 0.15 M NaCl pH 5.0."
+            },
+            {
+                "title": "16)",
+                "body": "Centrifuge CSF supernatant at 17,500 g for 5 min at 4 °C \\(Microcentrifuge 5417 R)"
+            },
+            {
+                "title": "17)",
+                "body": "Add 200 µl of Dynabeads® Protein G bead suspension to CSF supernatant. Typically, we used 50 to 200 µg IgG in 1 to 2 ml CSF supernatant."
+            },
+            {
+                "title": "18)",
+                "body": "Shake at 300 rpm for 60 min at room temperature on a thermomixer. We used 2 ml low binding polypropylene reaction vessels \\(Biozym) to prevent protein adsorption and allow efficient mixing."
+            },
+            {
+                "title": "19)",
+                "body": "Wash Dynabeads® Protein G three times in 0.1M Na-acetate/0.15 M NaCl pH 5.0."
+            },
+            {
+                "title": "20)",
+                "body": "Elute IgG in 50 μl Urea-containing Elution buffer; Repeat elution so that the final volume is 100 μl. \r\n\n\n\r\n\n\n_Isoelectric focusing_"
+            },
+            {
+                "title": "21)",
+                "body": "Rehydrate 24 cm Immobiline DryStrip pH 3–10 in RH buffer overnight at room temperature according to the recommendations of the manufacturer."
+            },
+            {
+                "title": "22)",
+                "body": "Load the sample directly at the cathodic end \\(pH=10) onto rehydrated Immobiline DryStrip using the Multiphor II Electrophoresis System."
+            },
+            {
+                "title": "23)",
+                "body": "Perform isoelectric focusing. The voltage is increased in consecutive steps: 300 V for 1 h, 600 V for 15 min, 900 V for 15 min, 1200 V for 15 min, 1500 V for 15 min, 1800 V for 15 min, 2100 V for 15 min, 2500 V for 15 min, 3000 V for 15 min, 3500 V for 15 min, 4000 V for 15 min, 4500 V for 15 min, 5000 V for 20 h."
+            },
+            {
+                "title": "24)",
+                "body": "Fix proteins for 30 min in 12% TCA at room temperature on a slow shaker."
+            },
+            {
+                "title": "25)",
+                "body": "Wash IPG strip for 3 min in 25% methanol."
+            },
+            {
+                "title": "26)",
+                "body": "Stain IPG strip for 2 h by colloidal Roti®-Blue at room temperature on a slow shaker."
+            },
+            {
+                "title": "27)",
+                "body": "Destain overnight in 30% methanol/10% acetic acid.\r\n\n\n\r\n\n\n_In-gel digestion by Trypsin<sup>3</sup>_"
+            },
+            {
+                "title": "28)",
+                "body": "Excise appropriate bands and transfer separately to reaction tubes."
+            },
+            {
+                "title": "29)",
+                "body": "Add 20-50 μl of 10 mM NH4HCO3 to each tube so that the gel slice is completely covered. Incubate for 5 min at room temperature."
+            },
+            {
+                "title": "30)",
+                "body": "Discard supernatant and wash the piece of gel with 20-50 μl 100% acetonitrile."
+            },
+            {
+                "title": "31)",
+                "body": "Repeat steps 29 and 30."
+            },
+            {
+                "title": "32)",
+                "body": "Reduce IgG disulfide bonds by adding 20-50 μl of 10 mM DTT in 10 mM NH4HCO3. Incubate for 30 min at 60 °C. Discard supernatant."
+            },
+            {
+                "title": "33)",
+                "body": "Wash twice with 100% acetonitrile."
+            },
+            {
+                "title": "34)",
+                "body": "Alkylate cysteins by adding 20-50 μl of 50 mM jodoacetamide in 10 mM NH4HCO3. Incubate for 15 min at room temperature. Discard supernatant."
+            },
+            {
+                "title": "35)",
+                "body": "Wash with 100% acetonitrile."
+            },
+            {
+                "title": "36)",
+                "body": "Wash with 10 mM NH4HCO3 and discard supernatant."
+            },
+            {
+                "title": "37)",
+                "body": "Wash with 100% acetonitrile."
+            },
+            {
+                "title": "38)",
+                "body": "Wash with 10 mM NH4HCO3 and discard supernatant."
+            },
+            {
+                "title": "39)",
+                "body": "Wash twice with 100% acetonitrile."
+            },
+            {
+                "title": "40)",
+                "body": "Digest IgG by 0.1 μg Trypsin in 20-50 μl 10 mM NH4HCO3. Incubate overnight at 37 °C.\r\n\n\n\r\n\n\n_MALDI-TOF_"
+            },
+            {
+                "title": "41)",
+                "body": "Prepare MALDI-MS matrix: mix 10mM NH4H2PO4/50% acetonitrile/0.1% TFA with α-cyano-4-hydroxycinnamic acid in 50% acetonitrile/ 0.1% TFA."
+            },
+            {
+                "title": "42)",
+                "body": "Mix 1 μl of MALDI-MS matrix with 1 μl of sample and spot onto a well of the MALDI Steel Target. Dry at room temperature."
+            },
+            {
+                "title": "43)",
+                "body": "Mix 1 μl of MALDI-MS matrix with 1 μl MS-CAL2 and spot onto another MALDI Steel Target well. Dry at room temperature."
+            },
+            {
+                "title": "44)",
+                "body": "Insert the MALDI Steel Target in Bruker Ultraflex II TOF TOF Spectrometer."
+            },
+            {
+                "title": "45)",
+                "body": "Operate Mass Calibration according to the recommendations of the manufacturer."
+            },
+            {
+                "title": "46)",
+                "body": "Measure samples for Mass Fingerprint in the “Proteomics method” mode. Use 250–1000 shots, Laser Power 20–40%, accelerating voltage 20kV, Reflector Voltage 22.8KV, 1700–1750V Reflector Detector Voltage."
+            },
+            {
+                "title": "47)",
+                "body": "Save and analyze MS spectra by software “Flex Analysis”, S/N \\(signal to noise percentage): 1–4%."
+            },
+            {
+                "title": "48)",
+                "body": "Copy peaklist in program “Mascot Peptide Mass Fingerprint”."
+            },
+            {
+                "title": "49)",
+                "body": "Use the following parameters for Mascot Search:\r\n\n\nEnzyme: Trypsin\r\n\n\nAllowed missed cleavages: 1\r\n\n\nFixed modification: Carbamidomethyl \\(C)\r\n\n\nVariable modifications: Oxidation \\(M), \\(W)\r\n\n\nPeptide tolerance: +/- 100 ppm\r\n\n\nMass values: MH+\r\n\n\nMonoisotopic\r\n\n\nReport top: 100 hits"
+            },
+            {
+                "title": "50)",
+                "body": "For MS/MS analysis use “LIFT method” mode. Use 250–1000 shots, Laser Power 50–90%, accelerating voltage 20kV, 1700–1750V Reflector Detector Voltage."
+            },
+            {
+                "title": "51)",
+                "body": "Save and analyze MS/MS spectra by software “Flex Analysis”, S/N \\(signal to noise percentage): 1–4%."
+            },
+            {
+                "title": "52)",
+                "body": "Copy peaklist in program “Mascot MS/MS Ions Search”."
+            },
+            {
+                "title": "53)",
+                "body": "Use the following parameters for Mascot Search:\r\n\n\nEnzyme: Trypsin\r\n\n\nAllowed missed cleavages: 1\r\n\n\nFixed modification: Carbamidomethyl \\(C)\r\n\n\nVariable modifications: Oxidation \\(M), \\(W)\r\n\n\nPeptide tolerance: +/- 100 ppm\r\n\n\nPeptide charge: 1+\r\n\n\nData format: Bruker \\(. xml)\r\n\n\nInstrument: MALDI TOF TOF\r\n\n\nMS/MS tol: +/- 0.8 Da\r\n\n\nMonoisotopic\r\n\n\nPrecursor: mass of interest\r\n\n\nReport top: 100 hits"
+            }
+        ]
+    }
+]

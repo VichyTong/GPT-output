@@ -1,0 +1,87 @@
+[
+    "\nFabrication of sodium chloride solution  TIMING 15 min",
+    {
+        "title": "1)",
+        "body": "Prepare a 0.15 M solution of sodium chloride \\(100mL)."
+    },
+    {
+        "title": "2)",
+        "body": "Filter the solution through a 5-micrometer filter placed on a syringe to sterilize the solution."
+    },
+    {
+        "title": "3)",
+        "body": "Keep the solution under a cell culture hood in a 50-mL tube.\r\n\n\nFabrication of chelation solution  TIMING 30 min"
+    },
+    {
+        "title": "4)",
+        "body": "Prepare sodium sulfate \\(60 mM) and calcium chloride \\(140 mM) solutions \\(20mL)."
+    },
+    {
+        "title": "5)",
+        "body": "Mix the sodium chloride solution with the same volume of each solution in"
+    },
+    {
+        "title": "4)",
+        "body": "to produce a 30 mM solution of sodium sulfate and a 70 mM solution of calcium chloride."
+    },
+    {
+        "title": "6)",
+        "body": "Filter the solutions through 5-micrometer filters placed on syringes to sterilize the solutions."
+    },
+    {
+        "title": "7)",
+        "body": "Keep the solutions under a cell culture hood in 50-mL tubes.\r\n\n\nPause Point ionic solutions can be stored after filtration for over 1 week in a closed sterile vessel to protect them from contamination \\(4 <sup>o</sup>C).\r\n\n\nFabrication of hydrogel solution  TIMING 22h"
+    },
+    {
+        "title": "8)",
+        "body": "Weigh 140 mg of alginic acid sodium salt and 60 mg of chitosan for a respective 7g/L and 3g/L solution."
+    },
+    {
+        "title": "9)",
+        "body": "Place both powders in a glass tube of 50-mL capacity and add a magnetic bar to the tube."
+    },
+    {
+        "title": "10)",
+        "body": "Tape the top of the tube with autoclave tape and surround the tape with aluminum foil."
+    },
+    {
+        "title": "11)",
+        "body": "Sterilize in an autoclave \\(120 <sup>o</sup>C under pressure) for 40 min."
+    },
+    {
+        "title": "12)",
+        "body": "Remove the aluminum foil and the tape under the cell culture hood and add 20 mL of the sterile sodium chloride solution."
+    },
+    {
+        "title": "13)",
+        "body": "At this step, the bioactive compound \\(drug powder, particles) can be directly added in the polysaccharide solution. Tape the tube with Parafilm and place the tube on a stirring plate until total solubilization of the polysaccharides is evident."
+    },
+    {
+        "title": "14)",
+        "body": "Store at 4 <sup>0</sup>C overnight to remove all potential air bubbles formed during stirring, or centrifuge a glass tube at 3440 x g at room temperature for 15 min.\r\n\n\nPause Point polysaccharide solutions can be stored after filtration for over 1 week in a sterile tube taped with parafilm to protect them from contamination \\(4 <sup>o</sup>C).\r\n\n\n\r\n\n\n\r\n\n\nDelivery of the biomaterial into the mouse stomach  TIMING 15 min"
+    },
+    {
+        "title": "15)",
+        "body": "Place the chelation and the polysaccharide solution tubes into a water bath at 37<sup>o</sup>C. Collect the chelation solution in a 1-mL syringe without creating any bubbles. Repeat this step using a second syringe to collect the polysaccharide solution."
+    },
+    {
+        "title": "16)",
+        "body": "Leave the mouse for 3 h without food but with water to allow the animal to receive a biomaterial of a final volume of 150 μL."
+    },
+    {
+        "title": "17)",
+        "body": "Gavage the mouse with 100 μL polysaccharide solution and follow this step with gavage of 50 μL chelation solution."
+    },
+    {
+        "title": "18)",
+        "body": "The hydrogel is formed as soon as the chelation solution reaches the polysaccharide solution and a hard gel forms in the stomach of the mouse."
+    },
+    {
+        "title": "19)",
+        "body": "OPTIONAL: Repeat from step 16 to perform a double \"double gavage\" \\(n=2) if required or go to step 19 for a simple \"double gavage\" \\(n=1)."
+    },
+    {
+        "title": "20)",
+        "body": "Allow enough time for the biomaterial to reach the target, which depends on which part of the gastrointestinal tract is targeted and what polysaccharide proportions were chosen."
+    }
+]

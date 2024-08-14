@@ -1,0 +1,5720 @@
+{
+    "REMOVE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to be removed"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to remove the item"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to remove the item"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Remove]{operation} [all traces of fluid]{reagent1} by [aspiration]{method}.",
+            "[Discard]{operation} the [protein solution]{reagent1}"
+        ],
+        "notice": [],
+        "synonym": [
+            "DISCARD"
+        ]
+    },
+    "ADD": {
+        "slot": {
+            "reagent1": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The primary reagent to which other reagents are added"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Additional reagents to be added to the primary reagent"
+            },
+            "ratio": {
+                "require": 0,
+                "type": "string",
+                "comment": "The ratio of reagents to be added, if applicable"
+            },
+            "concentration": {
+                "require": 0,
+                "type": "concentration",
+                "comment": "The final concentration of the reagent to be added, if applicable"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Add]{operation} [1 \u00b5l lysis buffer (LB)]{reagent2} into each [PCR tube that contains samples and 1st NTC]{reagent1}.",
+            "[Apply]{operation} [a drop of normal goat serum]{reagent2} to each [specimen]{reagent1}."
+        ],
+        "notice": [],
+        "synonym": [
+            "APPLY"
+        ]
+    },
+    "TRANSFER": {
+        "slot": {
+            "source": {
+                "require": 0,
+                "type": "string",
+                "comment": "The source from where the sample is being transferred"
+            },
+            "destination": {
+                "require": 1,
+                "type": "string",
+                "comment": "The destination where the sample is being transferred"
+            },
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample being transferred"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "equipment": {
+                "require": 0,
+                "type": "string",
+                "comment": "Any equipment used during the transfer"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Transfer]{operation} the [frozen samples]{reagent1} to a [storage box]{destination}.",
+            "[Pour]{operation} the [extract]{reagent1} onto the [filter paper]{destination}.",
+            "[Move]{operation} the [needle tip]{reagent1} to [the hole]{destination}.",
+            "[Decant]{operation} the [supernatant]{reagent1}.",
+            "[Return]{operation} the [remaining blood]{reagent1} to the [jugular vein]{destination}."
+        ],
+        "notice": [],
+        "synonym": [
+            "POUR",
+            "MOVE",
+            "DECANT",
+            "RETURN"
+        ]
+    },
+    "INCUBATE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be incubated"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents added during incubation"
+            },
+            "temperature": {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 1,
+                "type": "time",
+                "comment": "default=appropriate time"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "thermoProgram": {
+                "require": 0,
+                "type": "string",
+                "comment": "when \"device\"=thermocycler, this parameter should be changed to REQ"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Incubate]{operation} [protein-DNA complexes]{reagent1} at [ambient temperature]{temperature} for [30 minutes]{time} [prior to measurements]{notice}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "IMMERSE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be immersed"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Reagent that immerse reagent1"
+            },
+            "temperature": {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 1,
+                "type": "time",
+                "comment": "default=appropriate time"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Immerse]{operation} the [tissue]{reagent1} into [20% THF in water]{reagent2} in a [screw-capped glass bottle]{device} for at least [1 hour]{time} at [room temperature]{temperature}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SUSPEND": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be suspended"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The medium or buffer in which the reagent is suspended"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Suspend]{operation} [1-5 million cells]{reagent1} in the [labeling medium]{reagent2} for [10 min]{time} at [37 \u02daC]{temperature}.",
+            "[Resuspend]{operation} [sperm pellet]{reagent1} in [10 uL PBS]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": [
+            "RESUSPEND"
+        ]
+    },
+    "PLATE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The type of cells to be plated"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The destination for plating"
+            },
+            "density": {
+                "require": 0,
+                "type": "number",
+                "comment": "The density of cells to be plated per cm^2 or per well"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Plate]{operation} [hOBs]{reagent1} at a density of [3000 cells/cm^2]{density} in [growth media]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "COLLECT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to be collected"
+            },
+            "container": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The container where the item will be collected"
+            },
+            "source":{
+                "require": 0,
+                "type": "string",
+                "comment": "The source where the sample is collected"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to collect the item"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition under which the item is collected"
+            },
+            "purpose":{
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose of collection"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Collect]{operation} all the [cell culture media]{reagent1} in the [well]{source} into a [15 ml tube]{container} [using a pipette]{method}.",
+            "[Obtain]{operation} the [brain]{reagent1} from [C57 Black/6 mice (16\u201321 days old for cerebellar slices, 6-8 weeks old for hippocampal slices)]{source}.",
+            "[Capture]{operation} [biotinylated thrombin with streptavidin agarose]{reagent1}.",
+            "[Harvest]{operation} [embryonic day 13.5 mouse embryos]{reagent1} from [pregnant female mice]{source}."
+        ],
+        "notice": [],
+        "synonym": [
+            "HARVEST",
+            "OBTAIN",
+            "CAPTURE"
+        ]
+    },
+    "MIX": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The main reagent to be mixed"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents to be mixed"
+            },
+            "ratio": {
+                "require": 0,
+                "type": "string",
+                "comment": "The ratio of reagents to be mixed"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method of mixing, such as inversion, vortexing, pipetting, etc."
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Mix]{operation} [10 \u03bcg total RNA]{reagent1} with [Loading Buffer]{reagent2} [1:1]{ratio}.",
+            "[Combine]{operation} the [topoisomerase I-relaxed circular DNA (in tube B)]{reagent1} and [core histones (in tube A)]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": [
+            "COMBINE"
+        ]
+    },
+    "DILUTE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be diluted"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent used for dilution"
+            },
+            "targetConcentration": {
+                "require": 1,
+                "type": "concentration",
+                "comment": "The final concentration of the diluted reagent"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Dilute]{operation} the [Rhodamine fluorescently labelled Ultra-Magnetic Liposomes (UMLs)]{reagent1} in a [10mM Hepes pH 7.4, 20mM Na3Citrate, 108mM NaCl buffer solution]{reagent2} to a final concentration of [0.1M]{targetConcentration}.",
+            "[Dissolve]{operation} the [precipitate]{reagent1} in [50 mM Tris-HCl, pH 7.5, 0.15 M NaCl]{reagent2} at a concentration of [3 mg/ml]{targetConcentration}."
+        ],
+        "notice": [],
+        "synonym": [
+            "DISSOLVE"
+        ]
+    },
+    "SHAKE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be shaken"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": "default=appropriate time"
+            },
+            "intensity": {
+                "require": 0,
+                "type": "intensity",
+                "comment": "The intensity of shaking"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "purpose":{
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose of shaking"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Shake]{operation} at [4,800 rpm]{intensity} for [50 seconds]{time} by the [Mini Beadbeater]{device} to [remove epithelial cells]{purpose}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "CENTRIFUGE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be centrifuged"
+            },
+            "intensity": {
+                "require": 1,
+                "type": "number",
+                "comment": "The intensity at which to centrifuge the sample, usually represented as rpm/xg/rcf"
+            },
+            "time": {
+                "require": 1,
+                "type": "time",
+                "comment": "The duration for which to centrifuge the sample"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Centrifuge]{operation} the [samples]{reagent1} at [2,000 rpm]{intensity} for [20 min]{time} at [room temperature]{temperature}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PURIFY": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be purified"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to purify the reagent"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for purification"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Purify]{operation} the [PCR products]{reagent1} by [QIAquick PCR purification column]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "REPLACE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to be replaced"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to replace with, defult = another brand new reagent"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "position": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "frequency": {
+                "require": 0,
+                "type": "frequency",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Replace]{operation} [ultrapure water \\(1.8 mL) in the recording chamber]{reagent1} with an [equivalent volume of degassed 0.5 mM CaCl<sub>2</sub> BSS]{reagent2} at [18\u00b0C]{temperature} using [a long needle Hamilton syringe]{device}.",
+            "[Change]{operation} [half of the culture medium]{reagent1} (iii) [every other day]{frequency}."
+        ],
+        "notice": [],
+        "synonym": [
+            "CHANGE"
+        ]
+    },
+    "MEASURE": {
+        "slot": {
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for measurement"
+            },
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent used for measurement"
+            },
+            "parameter": {
+                "require": 1,
+                "type": "string",
+                "comment": "The parameter to be measured"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "wavelength": {
+                "require": 0,
+                "type": "number",
+                "comment": "Wavelength used for measurement if applicable"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Measure]{operation} [absorbance]{parameter} of the [sample]{reagent1} at [550 nm]{wavelength} for [2 min]{time}.",
+            "[Determine]{operation} the [DNA concentration]{parameter} using a [spectrophotometer]{device}."
+        ],
+        "notice": [],
+        "synonym": [
+            "DETERMINE"
+        ]
+    },
+    "ASPIRATE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be aspirated"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents to be aspirated if any"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used for aspiration"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Aspirate]{operation} the [collagen type I solution]{reagent1}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "COAT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be coated"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The material used for coating"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Coat]{operation} [samples]{reagent1} with [gold]{reagent2} using [sputter coater]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "RINSE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to be rinsed"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The material used to rinse the object,defult = water"
+            },
+            "repeat": {
+                "require": 0,
+                "type": "number",
+                "comment": "Number of times the object should be rinsed, default=1"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object after rinsing"
+            }
+        },
+        "example": [
+            "[Rinse]{operation} the [wafer]{reagent1} in [DI water]{reagent2} for [10 seconds]{time}.",
+            "[Wash]{operation} the [slides]{reagent1} in [0.01M PBS]{reagent2} for [5 min]{time} [three times]{repeat}.",
+            "[Flush]{operation} [colony]{reagent1} with [Williams'E +  10%FCS]{reagent2}"
+        ],
+        "notice": [],
+        "synonym": [
+            "WASH",
+            "FLUSH"
+        ]
+    },
+    "ELUTE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be eluted"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The eluent"
+            },
+            "component": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The part to be eluted from the reagent"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "Method used for elution, e.g., centrifugation, boiling, shaking"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Elute]{operation} [DNA]{component} from [beads]{reagent1} by adding [50 \u03bcl above elution buffer]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "VORTEX": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The mixture to be vortexed"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": "default=briefly"
+            },
+            "intensity": {
+                "require": 0,
+                "type": "string",
+                "comment": "default=intermediate intensity"
+            },
+            "frequency": {
+                "require": 0,
+                "type": "number",
+                "comment": "default=1 time"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "default=standard vortexer"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Vortex]{operation} the [tube]{reagent1} [vigorously]{intensity} for [2 minutes]{time} with the [\u201cvortex rack\u201d]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "THAW": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be thawed"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "environment":{
+                "require":1,
+                "type":"STR",
+                "comment":""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Thaw]{operation} [TRI reagent lysed cells]{reagent1} [on ice]{environment}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PASSAGE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The cells to be passaged"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The medium used for passaging"
+            },
+            "reagent3": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The other reagent used for passaging"
+            },
+            "ratio": {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "frequency": {
+                "require": 0,
+                "type": "frequency",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Passage]{operation} the [cells]{reagent1} in [MEF media]{reagent2} [at least once]{repeat}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PELLET": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be pelleted"
+            },
+            "intensity": {
+                "require": 0,
+                "type": "number",
+                "comment": "The intensity of operation"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for this operation"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Pellet]{operation} the [cells]{reagent1} at [2000 g]{intensity} for [5 min]{time} at [room temperature]{temperature}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DIGEST": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be digested"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The digestive reagent"
+            },
+            "temperature": {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 1,
+                "type": "time",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Digest]{operation} [proteins]{reagent1} with [recombinant trypsin (30:1 ratio protein/trypsin)]{reagent2} [over night]{time} at [37\u02daC]{temperature} [with shaking]{notice}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "EXTRACT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be extracted"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The extractant"
+            },
+            "component": {
+                "require": 1,
+                "type": "string",
+                "comment": "The part to be extracted from the reagent1"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The kit used for extraction"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Extract]{operation} the [plasmid DNA]{component} with [phenol]{reagent2}, [chloroform]{reagent2} and [isoamyl alcohol]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PIPETTE": {
+        "slot": {
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": "The volume to be pipetted"
+            },
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The source from which the volume is pipetted"
+            },
+            "destination": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The destination where the volume is pipetted to"
+            },
+            "repeat": {
+                "require": 0,
+                "type": "number",
+                "comment": "The number of times the pipetting action is repeated"
+            },
+            "tip": {
+                "require": 0,
+                "type": "string",
+                "comment": "The type of pipette tip used"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Pipette]{operation} [10 \u00b5l]{volume} stock of [single cell suspension]{reagent1} into the [dish]{destination}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "CONCENTRATE":{
+        "slot":{
+            "reagent1":{
+                "require":1,
+                "type":"REG",
+                "comment":"The reagent to be concentrated"
+            },
+            "targetVol":{
+                "require":1,
+                "type":"VOL",
+                "comment":""
+            },
+            "targetConcentration":{
+                "require":0,
+                "type":"CONC",
+                "comment":""
+            },
+            "method":{
+                "require":0,
+                "type":"STR",
+                "comment":""
+            },
+            "device":{
+                "require":0,
+                "type":"STR",
+                "comment":""
+            }
+        },
+        "emit":{
+            "reagent0":{
+                "require":1,
+                "type":"REG",
+                "comment":""
+            }
+        },
+        "example":[
+            "[Concentrate]{operation} [eluate]{reagent1} in [speedvac]{device} to [22.5 µL]{targetVol}."
+        ],
+        "notice":[
+            "Unlike DILUTE, CONCENTRATE mostly indicates the target volume rather than the target concentration.",
+            "To accurately express the meaning, here use parameter \"targetVol\" instead of the old parameter \"Volume\", to avoid being mistaken for the volume of the reagent to be concentrated.",
+            "Some protocols do not provide any parameters, such as \"Concentrate if necessary\""
+        ],
+        "synonym":[
+
+        ]
+    },
+    "STERILIZE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to be sterilized"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The sterilant"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "string",
+                "comment": "The sterilized object"
+            }
+        },
+        "example": [
+            "[Sterilize]{operation} the [medium]{reagent1} in an [autoclave]{device} at [110oC]{temperature} for [15 minutes]{time}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PRECIPITATE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be precipitated"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The reagent used for precipitation"
+            },
+            "component" : {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The portion of the reagent1 that needs to be precipitated"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=-20\u00b0C"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "Method of precipitation, e.g., shaking, spinning, etc."
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Precipitate]{operation} the [RNA]{component} from the [aqueous phase]{reagent1} by mixing with [isopropyl alcohol]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "QUENCH": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be quenched"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The quenching reagent"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Quench]{operation} [staining]{reagent1} by adding [150\u00b5L staining buffer]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "FLOW": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Flowing reagents"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Stationary reagent"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for flow(At least provide one of \"device\" or \"reagent2\")"
+            },
+            "flowRate": {
+                "require": 0,
+                "type": "rate",
+                "comment": "The rate at which the reagent is flowed"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Flow]{operation} the [worm suspension]{reagent1} through the [filtering device]{device} to [remove debris]{purpose}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "NORMALIZE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be normalized"
+            },
+            "targetConcentration": {
+                "require": 0,
+                "type": "concentration",
+                "comment": "The target concentration after normalization"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for normalization"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for normalization"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Normalize]{operation} [samples]{reagent1} for protein concentration (recommended concentration: [between 0.3 and 0.6 \u00b5g/\u00b5l]{concentration})."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DISPENSE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be dispensed"
+            },
+            "volume": {
+                "require": 1,
+                "type": "volume",
+                "comment": "The volume of the reagent to be dispensed (Volume per serving)"
+            },
+            "container": {
+                "require": 1,
+                "type": "string",
+                "comment": "The container where the reagent will be dispensed"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to dispense the reagent"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Dispense]{operation} [1 ml]{volume} of the [virus preparation]{reagent1} in a [pre-labeled TruCool cryovial]{container}."
+        ],
+        "notice": [
+            "Be careful not to create bubbles when dispensing.",
+            "Dispense medium on the inner wall of the well and not directly on the Matrigel droplet."
+        ],
+        "synonym": []
+    },
+    "EVAPORATE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be evaporated"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "termination": {
+                "require": 0,
+                "type": "string",
+                "comment": "Reaction endpoint, such as \"dryness\""
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "Operating environment, such as N2 or water bath"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Evaporate]{operation} the [tube]{reagent1} under [N2]{environment} in a [water bath]{environment} with [30-40 C]{temperature}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ALIQUOT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be aliquoted"
+            },
+            "volume": {
+                "require": 1,
+                "type": "volume",
+                "comment": "The volume of each aliquot"
+            },
+            "container": {
+                "require": 1,
+                "type": "string",
+                "comment": "The container to aliquot into"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Aliquot]{operation} [23 \u00b5l]{volume} of [master mix]{reagent1} into each [PCR tube]{container} [on ice]{environment}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PLACE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be placed"
+            },
+            "destination": {
+                "require": 1,
+                "type": "string",
+                "comment": "The location where the reagent1 is to be placed"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Place]{operation} all [PCR tubes]{reagent1} into the [thermo cycler]{destination}.",
+            "[Put]{operation} [resected tumors]{reagent1} to a [petri dish]{destination} [on ice]{environment}.",
+            "[Position]{operation} [both ends of the artery]{reagent1} over the [opposing glass cannula in the bath chamber]{destination}."
+        ],
+        "notice": [],
+        "synonym": [
+            "PUT",
+            "POSITION"
+        ]
+    },
+    "CUT": {
+        "slot": {
+            "reagent": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be cut"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used to cut the object"
+            },
+            "size": {
+                "require": 0,
+                "type": "number",
+                "comment": "Size of the sections to be cut"
+            },
+            "direction": {
+                "require": 0,
+                "type": "string",
+                "comment": "Direction in which the object is cut, including preposition"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "Any specific environment under which the object is cut"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The cut object"
+            }
+        },
+        "example": [
+            "[Cut]{operation} each [hemisphere]{reagent1} [along the caudal to rostral]{direction} direction."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "FIX": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be fixed"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The fixative to be used, or The place to fix the reagent1"
+            },
+            "temperature": {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 1,
+                "type": "time",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "direction":{
+                "require":0,
+                "type":"string",
+                "comment":"Direction of fixed reagent1"
+            },
+            "method":{
+                "require":0,
+                "type":"string",
+                "comment":""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Fix]{operation} samples with [glutaraldehyde fixative]{reagent2} at [4\u00b0C]{temperature} [overnight]{time}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DRY": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be dried"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used for drying"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "Operating environment, such as vacuum or nitrogen"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Dry]{operation} the [product]{reagent1} in an [oven]{device} at [60 \u00b0C]{temperature} for [24 h]{time}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "HEAT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be heated"
+            },
+            "temperature": {
+                "require": 1,
+                "type": "temperature",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Heat]{operation} the [tube containing RNA and adapter]{reagent1} to [70\u00b0C]{temperature} for [2 minutes]{time}."
+        ],
+        "notice": [],
+        "synonym": ["WARM"]
+    },
+    "PREPARE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The main reagent to be prepared"
+            },
+            "container": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "concentration": {
+                "require": 0,
+                "type": "concentration",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "method":{
+                "require":0,
+                "type":"string",
+                "comment":""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Prepare]{operation} [1 ml of [PBS]{reagent1} in [1.5 ml Eppendorf tube]{container}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PERFORM": {
+        "slot": {
+            "procedure": {
+                "require": 1,
+                "type": "string",
+                "comment": "The procedure to be performed"
+            },
+            "reagent1": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Reagents used in the procedure"
+            },
+            "equipment": {
+                "require": 0,
+                "type": "string",
+                "comment": "Equipment used in the procedure"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "Environment under which the procedure is performed"
+            },
+            "repeat": {
+                "require": 0,
+                "type": "number",
+                "comment": "Number of times the procedure is repeated"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": "Time of the procedure"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Perform]{operation} a second round of [purification]{procedure} with [Ni-nitrilotriacetic acid (NTA) agarose (Qiagen)]{reagent1}.",
+            "[Process]{operation} the [lysate]{procedure} for [DNA isolation]{purpose} by [phenol-chloroform extraction]{method}.",
+            "[Carry]{operation} out [additional nested PCR reactions]{procedure} using the [products obtained from the first round of inverse PCR]{reagent1}."
+        ],
+        "notice": [],
+        "synonym": [
+            "PROCESS",
+            "CARRY"
+        ]
+    },
+    "PERFUSE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "string",
+                "comment": "The animal or organ to be perfused"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Perfusion agent"
+            },
+            "location": {
+                "require": 0,
+                "type": "string",
+                "comment": "Injection location of perfusion agent"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "Method used for perfusion, such as transcardially"
+            },
+            "purpose": {
+                "require": 0,
+                "type": "number",
+                "comment": "The purpose for perfusion"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The animal or organ after perfusing"
+            }
+        },
+        "example": [
+            "[Perfuse]{operation} the [mice]{reagent1} [systemically]{method} with [10 ml of HBSS containing 20 mM EDTA]{reagent2} via the [left ventricle]{location} using [21-gauge butterfly needle connected to [Peristaltic pump P-1]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SPIN": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be spun down"
+            },
+            "intensity": {
+                "require": 1,
+                "type": "intensity",
+                "comment": "The intensity at which the spin should be performed, default=appropriate intensity"
+            },
+            "time": {
+                "require": 1,
+                "type": "time",
+                "comment": "The duration for which the spin should be performed, default=appropriate time"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "The temperature at which the spin should be performed, default=room temperature"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device to be used for spinning, default=centrifuge"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Spin]{operation} down [cells]{reagent1} at [440 g]{intensity} for [5 minutes]{time} at [4\u00b0C]{temperature}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "TAKE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be taken out or used"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents to be used"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "source": {
+                "require": 0,
+                "type": "string",
+                "comment": "The location from where the reagent is to be taken out"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Take]{operation} [100 \u00b5L]{volume} of the [bacterial culture]{reagent1}.",
+            "[Bring]{operation} [the NucleoMag bead cleaned indexed cpn60 amplicon libraries from D]{reagent1} to [room temperature]{environment}."
+        ],
+        "notice": [],
+        "synonym": [
+            "BRING"
+        ]
+    },
+    "STORE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to be stored"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "container": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Store]{operation} the [tissues]{reagent1} in [cyrotubes]{container} [on dry ice]{environment} and [at -80\u00b0C]{temperature}.",
+            "[Keep]{operation} [tubes]{reagent1} [on ice]{environment}."
+        ],
+        "notice": [],
+        "synonym": [
+            "KEEP"
+        ]
+    },
+    "CHECK": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "string",
+                "comment": "The item to be checked"
+            },
+            "attribute": {
+                "require": 1,
+                "type": "string",
+                "comment": "The attribute to be checked"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to check the item"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition to be checked"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to check the item"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Check]{operation} the [density]{attribute} of [single cell suspension]{reagent1} under a [dissecting microscope using 5X objective lens]{device}.",
+            "[Monitor]{operation} [DP values]{attribute} on the [screen]{device}.",
+            "[Observe]{operation} the [cells]{reagent1} under a [fluorescence microscope]{device} to [check for fluorescence and determine whether the transfection was successful]{purpose}.",
+            "[Examine]{operation} [proteins in the preparation]{reagent1} by [SDS-PAGE (18% polyacrylamide)]{method}."
+        ],
+        "notice": [],
+        "synonym": [
+            "MONITOR",
+            "OBSERVE",
+            "EXAMINE"
+        ]
+    },
+    "RUN": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be run"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents used during the run, such as supporting medium"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "program": {
+                "require": 0,
+                "type": "string",
+                "comment": "when \"device\"=PCR machine(thermocycler), this parameter should be changed to REQ"
+            },
+            "voltage": {
+                "require": 0,
+                "type": "voltage",
+                "comment": "voltage of electrophoresis"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Run]{operation} [10 ul or 200 ng of ligation products]{reagent1} on [1% agarose gel with 0.5 ug/ml ethidium bromide in 1X TAE buffer]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "LOAD": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be loaded"
+            },
+            "destination": {
+                "require": 1,
+                "type": "string",
+                "comment": "The location where the reagent is to be loaded"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to load the reagent"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Load]{operation} [images]{reagent1} on to [FIJI]{destination} using the [drag and drop method]{method}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "CALCULATE": {
+        "slot": {
+            "attribute": {
+                "require": 1,
+                "type": "string",
+                "comment": "The attribute to be caculated"
+            },
+            "formula": {
+                "require": 0,
+                "type": "string",
+                "comment": "The formula to be used for calculation"
+            },
+            "variables": {
+                "require": 0,
+                "type": "string",
+                "comment": "The variables involved in the calculation"
+            },
+            "values": {
+                "require": 0,
+                "type": "number",
+                "comment": "The values of the variables"
+            },
+            "units": {
+                "require": 0,
+                "type": "string",
+                "comment": "The units of the variables"
+            },
+            "software": {
+                "require": 0,
+                "type": "string",
+                "comment": "The software used for calculation if any"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "result": {
+                "require": 1,
+                "type": "number",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Calculate]{operation} the [Coefficient of Variation (CV)]{attribute} for each triplicate by the below formulation: [CV = Cq Std.]{formula}"
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SELECT": {
+        "slot": {
+            "reagent1/data1": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "The reagent/data to be selected"
+            },
+            "requirement": {
+                "require": 0,
+                "type": "string",
+                "comment": "The requirement of the selected reagent or data"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device(usually tool) for selection"
+            },
+            "purpose": {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose for selection"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": "Things to notice while selection"
+            }
+        },
+        "emit": {
+            "reagent0/data0": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Select]{operation} [Top 20 precursor ions]{reagent1} for [fragmentation]{purpose}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "COUNT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "reagent to be counted(usually cell), keep alive"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "Method used for counting cells, such as 'hemocytometer', 'cell counter', 'Trypan Blue method', etc."
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Stain used for cell counting, if applicable"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used for cell counting, such as 'Countess Machine', 'hemocytometer', etc."
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Count]{operation} [live cells]{reagent1} using [cell counter]{device} and [trypan blue live dead stain]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ADJUST": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be adjusted"
+            },
+            "attribute": {
+                "require": 1,
+                "type": "string",
+                "comment": "The attribute to be adjusted"
+            },
+            "data1": {
+                "require": 1,
+                "type": "data",
+                "comment": "The value to adjust the attribute to"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to adjust, if applicable"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Adjust]{operation} [direct halogen illumination]{reagent1} to [appropriate intensity]{data1} [for the operation]{purpose}."
+            ],
+        "notice": [],
+        "synonym": []
+    },
+    "INJECT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be injected"
+            },
+            "reagent2/destination": {
+                "require": 1,
+                "type": "reagent/string",
+                "comment": "The destination where the reagent1 is injected"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Inject]{operation} [worm suspension]{reagent1} into the [device]{destination} using [pressure driven flow]{method}.",
+            "[Administer]{operation} [1000 IU of heparin]{reagent1} [intravenously]{method}."
+        ],
+        "notice": [],
+        "synonym": [
+            "ADMINISTER"
+        ]
+    },
+    "FILTER": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be filtered"
+            },
+            "filter": {
+                "require": 1,
+                "type": "string",
+                "comment": "Type of filter to be used"
+            },
+            "container": {
+                "require": 0,
+                "type": "string",
+                "comment": "Container to collect the filtered reagent"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "The environment for operation"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "Temperature conditions if any"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Filtered reagent1"
+            }
+        },
+        "example": [
+            "[Filter]{operation} the [10mL of DPBS containing cells]{reagent1} through the same [40 \u03bcm cell strainer]{filter}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ANALYZE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "data",
+                "comment": "The reagent to be analyzed"
+            },
+            "data1": {
+                "require": 1,
+                "type": "data",
+                "comment": "The data to be analyzed, a ANALYZE instruction can either has \"reagent1\" or \"data1\", but cannot have neither or both"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition under which the data was collected"
+            },
+            "software": {
+                "require": 0,
+                "type": "string",
+                "comment": "The software used for analysis"
+            },
+            "settings": {
+                "require": 0,
+                "type": "string",
+                "comment": "software setting, default=default settings"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for analysis"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Analyze]{operation} [each point of the calibration curve]{data1} using [RP-HPLC-DAD]{device}.",
+            "[Evaluate]{operation} the [size]{data1} of the [patches]{reagent1}."
+        ],
+        "notice": [],
+        "synonym": [
+            "EVALUATE"
+        ]
+    },
+    "LEAVE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be left"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Leave]{operation} [the plates]{reagent1} [untouched}{notice} for [15-20 minutes]{time}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "POOL": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be pooled"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents to be pooled"
+            },
+            "container": {
+                "require": 0,
+                "type": "string",
+                "comment": "The container where the pooling will take place"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Pool]{operation} [liquid]{reagent1} in a [flask]{container}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "TURN": {
+        "slot": {
+            "device": {
+                "require": 1,
+                "type": "string",
+                "comment": "The device to be turned on or off"
+            },
+            "state": {
+                "require": 0,
+                "type": "string",
+                "comment": "The state to which the device should be turned, either 'on' or 'off'"
+            },
+            "setting": {
+                "require": 0,
+                "type": "string",
+                "comment": "Any additional settings or adjustments to be made to the device"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+
+        },
+        "example": [
+            "[Turn]{operation} the [laser]{device} [off]{state}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SEPARATE": {
+        "slot": {
+            "component": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The component to be separated"
+            },
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent from which \"component\" is to be separated, keep alive"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to separate the objects"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to separate the objects"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition under which the separation is performed"
+            }
+        },
+        "emit": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The separated object"
+            }
+        },
+        "example": [
+            "[Separate]{operation} the [colon]{component} from the [jejunum/ileum]{reagent1}.",
+            "[Isolate]{operation} [CD34+ cells]{component} from [CBMCs]{reagent1} with the [Miltenyi human CD34 Microbead Kit]{device}.",
+            "[Dissociate]{operation} [lungs]{component} using the [Miltenyi lung dissociation kit and GentleMACS tissue dissociator]{device}"
+        ],
+        "notice": [],
+        "synonym": [
+            "ISOLATE",
+            "DISSOCIATE"
+        ]
+    },
+    "GROW": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The cells or organism to be grown"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The medium in which the cells or organism are grown"
+            },
+            "temperature": {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "termination": {
+                "require": 0,
+                "type": "string",
+                "comment": "The sign of stopping cultivation"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "Additional growth conditions, such as CO2 concentration or shaking speed"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device in which the cells or organism are grown"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Grow]{operation} [D. melanogaster larvae]{reagent1} at [18\u00b0C]{temperature} in [fly bottles]{container} on [standard fly food]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "FILL": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be filled"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "container": {
+                "require": 1,
+                "type": "string",
+                "comment": "Container for reagent loading"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Fill]{operation} the [syringe]{container} with [1.0 \u03bcl of AAV-DIO-ChR2]{reagent1}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "WEIGH": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be weighed, keep alive"
+            },
+            "weight": {
+                "require": 1,
+                "type": "weight",
+                "comment": "The weight of the reagent1"
+            },
+            "container": {
+                "require": 0,
+                "type": "string",
+                "comment": "The container to hold the reagent1"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to weigh the reagent1, default=electric balance"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Weigh]{operation} [10 g]{weight} [fresh silage]{reagent1}."
+        ],
+        "notice": [
+            "Weigh carefully when collecting tissues."
+        ],
+        "synonym": []
+    },
+    "SEAL": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "string",
+                "comment": "The container to be sealed"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The material used to seal the container"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used for sealing if any"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Seal]{operation} the [vial]{reagent1} with a [Teflon lined screw cap]{reagent2}.",
+            "[Close]{operation} all [phrenic veins]{reagent1} using [4-0 PROLENE stitches]{device}."
+        ],
+        "notice": [],
+        "synonym": [
+            "CLOSE"
+        ]
+    },
+    "SEED": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The type of cells to be seeded"
+            },
+            "cellDensity": {
+                "require": 1,
+                "type": "number",
+                "comment": "The density of cells to be seeded per unit area or volume"
+            },
+            "container": {
+                "require": 0,
+                "type": "string",
+                "comment": "The type of well or plate to be used for seeding"
+            },
+            "wellCount": {
+                "require": 1,
+                "type": "number",
+                "comment": "Number of wells used for seeding"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The medium in which cells are to be seeded"
+            },
+            "coating": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The coating on the well or plate, if any"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "The conditions under which the seeded cells are to be incubated"
+            }
+        },
+        "emit": {
+            "cellCulture": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Seed]{operation} [2x10e5 cells/well]{cellDensity} (12well plate) on [vitronectin-coated plate]{container}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ASSEMBLE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The main component to be assembled"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional components to be assembled with the main component"
+            },
+            "instructions": {
+                "require": 0,
+                "type": "string",
+                "comment": "Specific instructions or manufacturer's instructions for assembly"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "Device or equipment used for assembly"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object after assembling"
+            }
+        },
+        "example": [
+            "[Assemble]{operation} a [MinElute spin column]{reagent1} in a [new collection tube]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PROCEED": {
+        "slot": {
+            "procedure": {
+                "require": 1,
+                "type": "string",
+                "comment": "The procedure to proceed to"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "Conditions under which to proceed"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Proceed]{operation} with [PCR setup]{procedure}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "WAIT": {
+        "slot": {
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": "The time to wait, if specified"
+            },
+            "termination": {
+                "require": 0,
+                "type": "string",
+                "comment": "The timing to stop waiting, a WAIT instruction must has one of \"time\" or \"termination\""
+            },
+            "timing": {
+                "require": 0,
+                "type": "string",
+                "comment": "The timing to start waiting"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition to be met before proceeding"
+            },
+            "purpose": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {},
+        "example": [
+            "[Wait]{operation} [5 min]{time} until [enough cancer cells are trapped at the cell docking area]{termination}."
+
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "COOL": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be cooled"
+            },
+            "temperature": {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "The physical environment under which reagent1 is cooled, such as \"ice bath\" or \"in the dark\""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The cooled reagent"
+            }
+        },
+        "example": [
+            "[Cool]{operation} down the [sample]{reagent1} [in the dark]{environment} at [room temperature]{temperature} for [10 min]{time}.",
+            "[Freeze]{operation} the [compound]{reagent1} in [cooled 2-methyl butane]{container} in a [liquid nitrogen bath]{device}.",
+            "[Freeze]{operation} the [cells]{reagent1} at [a cooling rate of -1oC/min]{environment} using [CoolCell\u00ae alcohol-free cell freezing container]{device} in a [-80oC freezer]{storage} or [dry ice locker]{storageAlternative}.",
+            "[Freeze]{operation} the [chromatin sample]{reagent1} rapidly and [store]{operation} at [-80 \u00b0C]{storage}.",
+            "[Freeze]{operation} [cell stocks]{reagent1}: Prepare [cell freezing medium]{solution} as follows: [chilled FBS 90%, DMSO 10%, keep on ice]{solutionComposition}; [collect]{operation} all [cell clusters]{reagent2}; [centrifuge]{operation2} and [resuspend]{operation3} cells with [freezing medium]{solution}; [transfer]{operation4} cryogenic vials immediately to [Mr. Frosty\u2122 Freezing Container]{container} and [keep]{operation5} in [-80 \u00b0C freezer]{storage} for [24 hours]{time}; [transfer]{operation5} cell vials to [liquid nitrogen tank]{storage2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "FREEZE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be freezed"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The refrigerant"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "The physical environment under which reagent1 is freezed, such as \"liquid nitrogen bath\""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The freezed reagent"
+            }
+        },
+        "example": [
+            "[Freeze]{operation} the [compound]{reagent1} in [cooled 2-methyl butane]{reagent2} in a [liquid nitrogen bath]{environment}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "TREAT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be treated"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Additional reagents used for treatment"
+            },
+            "temperature": {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Treat]{operation} for [30 minutes]{time} at [37\u00b0C]{temperature}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "BLOCK": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be blocked"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent(usually solution) used for blocking"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 1,
+                "type": "time",
+                "comment": "default=1 hour"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Block]{operation} the [membrane]{reagent1} with [10% fat-free skim milk in TBST buffer]{reagent2} for [1hr]{time} at [room temperature]{temperature}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "QUANTIFY": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be quantified"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for quantification"
+            },
+            "standard": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The standard used for quantification"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for quantification"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Quantify]{operation} the [DNA]{reagent1} using [Qubit]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "STAIN": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be stained"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents used for staining(usually staining agent)"
+            },
+            "temperature": {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "Specific staining method if applicable"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Stain]{operation} [cells]{reagent1} at [4\u00b0C]{temperature} for [30 minutes]{time}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "RECORD": {
+        "slot": {
+            "information": {
+                "require": 1,
+                "type": "string",
+                "comment": "The information to be recorded"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "software": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Record]{operation} [3D TROSY-HNCA, 3D MQ-CCH-TOCSY and 4D 13C, 15N-edited NOESY]{information} for [resonance assignment]{purpose}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ENSURE": {
+        "slot": {
+            "reagent1/data1/device": {
+                "require": 1,
+                "type": "reagent/data/string",
+                "comment": "The reagent/data/device to be checked or ensured"
+            },
+            "state": {
+                "require": 1,
+                "type": "string",
+                "comment": "The state needs to be ensured"
+            },
+            "timing": {
+                "require": 0,
+                "type": "string",
+                "comment": "The timing of ENSURE operation"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {},
+        "example": [
+            "[Ensure]{operation} that the [laser]{device} is [on]{state} during these [2.5 minutes]{time}.",
+            "[Maintain]{operation} [virulent stocks]{state} by [performing _in vivo_ passage every 6-12 months]{method}.",
+            "[Confirm]{operation} the [quality]{state} of the [conjugation]{device}."
+        ],
+        "notice": [],
+        "synonym": [
+            "MAINTAIN",
+            "CONFIRM"
+        ]
+    },
+    "COVER": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to be covered"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "string",
+                "comment": "The material used to cover the object"
+            },
+            "purpsoe": {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose of covering"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Cover]{operation} the [plate]{reagent1} with [foil]{reagent2} to [protect it from light]{purpose}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "EQUILIBRATE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The column or device to be equilibrated"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The buffer or solution used for equilibration"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "flowRate": {
+                "require": 0,
+                "type": "rate",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "column": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Equilibrate]{operation} [NEST MicroSpin C18 reverse phase column]{reagent1} with [100 \u00b5l of methanol]{reagent2} by [centrifuging at 110 g for 1 minute]{method}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "INOCULATE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be inoculated"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The reagent where reagent1 needs to be inoculated(usually medium)"
+            },
+            "container": {
+                "require": 0,
+                "type": "string",
+                "comment": "The container where reagent1 needs to be inoculated,a INOCULATE instruction must has one of \"reagent2\" or \"container\""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Inoculate]{operation} [10 ml of YPAD medium]{reagent2} with a [single fresh AH109 colony]{reagent1}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SAVE": {
+        "slot": {
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": "The volume of the sample to be saved"
+            },
+            "reagent1/data1": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "The reagent/data to be saved"
+            },
+            "purpose": {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose for saving the sample"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The storage condition for the saved sample"
+            },
+            "format": {
+                "require": 0,
+                "type": "string",
+                "comment": "The format in which the sample/data is to be saved"
+            }
+        },
+        "emit": {
+            "reagent0/data0": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "Saved reagent or data"
+            }
+        },
+        "example": [
+            "[Save]{operation} [the selected ROI]{reagent1} [for use in all future experiments]{purpose}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "GENERATE": {
+        "slot": {
+            "target": {
+                "require": 1,
+                "type": "string",
+                "comment": "The target to be generated"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method or kit used to generate the target"
+            },
+            "parameter": {
+                "require": 0,
+                "type": "string",
+                "comment": "Additional parameters or conditions for the operation"
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": "The result of the operation"
+            }
+        },
+        "example": [
+            "[Generate]{operation} [a continuous 1 kHz signal]{target} with the [function generator]{method}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "AMPLIFY": {
+        "slot": {
+            "reagent1/data1": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "The reagent/data to be amplified"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents used in the amplification process"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "cycle": {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            },
+            "program": {
+                "require": 0,
+                "type": "string",
+                "comment": "PCR program to be used for amplification"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0/data0": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Amplify]{operation} [inserts]{reagent1} using [Taq DNA polymerase]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SONICATE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be sonicated"
+            },
+            "time": {
+                "require": 1,
+                "type": "time",
+                "comment": "default=2 min"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "power": {
+                "require": 0,
+                "type": "watt",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "program": {
+                "require": 0,
+                "type": "string",
+                "comment": "when device=Covaris Adaptive focused ultrasonicator, this parameter should be changed to REQ"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Sonicate]{operation} [chromatin solution]{reagent1} [4 times]{repeat} for [10 seconds]{time} (continuous) with [power output setting at 10]{notice} using [Fisher sonic 60 dismembrator]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ANESTHETIZE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "string",
+                "comment": "The animal to be anesthetized"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The anesthetic to be used"
+            },
+            "dosage": {
+                "require": 0,
+                "type": "string",
+                "comment": "The dosage of the anesthetic"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method of administration of the anesthetic"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The anesthetized animal"
+            }
+        },
+        "example": [
+            "[Anesthetize]{operation} [mice]{reagent1} with [ketamine \\(100mg/kg)/xylaxine \\(10mg/kg) mixture]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ATTACH": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be attached"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to which the first object is attached"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to attach"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The tool used to attach"
+            },
+            "position": {
+                "require": 0,
+                "type": "string",
+                "comment": "The position where the object is attached"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Products after connecting reagent1 and reagent2"
+            }
+        },
+        "example": [
+            "[Attach]{operation} both [Hamilton syringes with 26 gauge needles]{reagent1} to the [stereotaxic apparatus]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "CLEAN": {
+        "slot": {
+            "reagent1/object": {
+                "require": 1,
+                "type": "reagent/string",
+                "comment": "The reagent or object to be cleaned"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Detergent"
+            },
+            "device": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Specific cleaning kit if used"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0/object0": {
+                "require": 1,
+                "type": "reagent/string",
+                "comment": "Cleaned reagent or object"
+            }
+        },
+        "example": [
+            "[Clean]{operation} [all surfaces and centrifuges]{object} with [an RNase eliminating solution]{reagent1}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "STIR": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be stirred"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "default=magnetic stir bar"
+            },
+            "intensity": {
+                "require": 0,
+                "type": "string",
+                "comment": "The intensity at which to centrifuge the sample, usually represented as rpm/xg/rcf"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Stir]{operation} the [solution]{mixture} for [5 minutes]{time}.",
+            "[Swirl]{operation} [mastermix bottle]{reagent1} [gently]{notice} to [mix]{purpose}."
+        ],
+        "notice": [],
+        "synonym": [
+            "SWIRL"
+        ]
+    },
+    "DISSECT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The tissue to be dissected"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Any reagents used during dissection"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "Any tools used during dissection"
+            },
+            "location": {
+                "require": 0,
+                "type": "string",
+                "comment": "The location where the dissection is performed"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "tissue0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Dissect]{operation} out [mouse embryos]{reagent1} in [DMEM + 25 mM HEPES]{reagent2}"
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PASS": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be passed through"
+            },
+            "device": {
+                "require": 1,
+                "type": "string",
+                "comment": "The device or material to pass the reagent through"
+            },
+            "container": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The conatiner reagent1 flow into"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "repeat": {
+                "require": 0,
+                "type": "number",
+                "comment": "Number of times the process is repeated"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Reagent1 after passing"
+            }
+        },
+        "example": [
+            "[Pass]{operation} the [supernatant]{reagent1} through a [100 nm Nylon mesh]{device} into a [50 ml tube]{container}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DRAW": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be drawn"
+            },
+            "volume": {
+                "require": 1,
+                "type": "volume",
+                "comment": "The volume of the reagent to be drawn"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to draw the reagent, such as a syringe or pipette"
+            },
+            "destination": {
+                "require": 0,
+                "type": "string",
+                "comment": "The destination of the drawn reagent, if applicable"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Draw]{operation} up [5 \u03bcL]{volume} of the [cell slurry]{reagent1} for [a single ATO]{purpose} using a [10 or 20 \u03bcL pipette tip]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SORT": {
+        "slot": {
+            "reagent1/data1": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "The reagent(usually cells) or data to be sorted"
+            },
+            "container": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The container to collect sorted cells(usually tube)"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The buffer to be used during sorting"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for sorting, default=FACS"
+            },
+            "program": {
+                "require": 0,
+                "type": "string",
+                "comment": "The program used for sorting data"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0/data0": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "Sorted data or cells"
+            }
+        },
+        "example": [
+            "[Sort]{operation} [cells]{reagent1} into a [5ml tube containing cold PBS/10% FBS]{container}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ROTATE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be rotated"
+            },
+            "direction": {
+                "require": 0,
+                "type": "string",
+                "comment": "The direction of rotation"
+            },
+            "angle": {
+                "require": 0,
+                "type": "number",
+                "comment": "The angle of rotation in degrees"
+            },
+            "intensity": {
+                "require": 0,
+                "type": "number",
+                "comment": "The intensity of rotation"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Rotate]{operation} the [tube]{reagent1} for [10 min]{time} at [room T]{temperature}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "CONNECT": {
+        "slot": {
+            "device1": {
+                "require": 1,
+                "type": "string",
+                "comment": "The first device to be connected"
+            },
+            "device2": {
+                "require": 1,
+                "type": "string",
+                "comment": "The second device to be connected"
+            },
+            "connector": {
+                "require": 0,
+                "type": "string",
+                "comment": "The connector used to connect the devices"
+            },
+            "sequence": {
+                "require": 0,
+                "type": "string",
+                "comment": "The sequence of connecting the devices if it matters"
+            }
+        },
+        "emit": {
+            "device": {
+                "require": 1,
+                "type": "string",
+                "comment": "Products after connecting device1 and device2"
+            }
+        },
+        "example": [
+            "[Connect]{operation} [optical fibers]{device1} via a [FC/PC adaptor]{connector} to a [473 nm blue or 561 nm yellow laser diode and stimulator]{device2} to [generate blue or yellow light pulses]{purpose}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SPLIT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be split"
+            },
+            "destination": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The destination where the object will be split into"
+            },
+            "ratio": {
+                "require": 0,
+                "type": "number",
+                "comment": "The ratio for splitting the object"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": "The volume of each split part"
+            },
+            "number": {
+                "require": 0,
+                "type": "number",
+                "comment": "The number of parts to split the object into"
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition under which the object should be split"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Reagent after splitting"
+            }
+        },
+        "example": [
+            "[Split]{operation} the [culture]{reagent1} in [10 tubes]{destination}, (each with [20mL]{volume})."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PULL": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be pulled"
+            },
+            "direction": {
+                "require": 0,
+                "type": "string",
+                "comment": "The direction in which the object is pulled"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to pull the object"
+            },
+            "settings": {
+                "require": 0,
+                "type": "string",
+                "comment": "The settings used on the device"
+            },
+            "position": {
+                "require": 0,
+                "type": "string",
+                "comment": "The position to which the object is pulled"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Pull]{operation} the [stitches of the back wall]{reagent1} [cephalad]{direction}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ACQUIRE": {
+        "slot": {
+            "reagent1/data1": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "The reagent/data to be acquired"
+            },
+            "device": {
+                "require": 1,
+                "type": "string",
+                "comment": "The device or software used to acquire the data"
+            },
+            "settings": {
+                "require": 0,
+                "type": "string",
+                "comment": "Any specific settings or conditions for the acquisition"
+            },
+            "quantity": {
+                "require": 0,
+                "type": "number",
+                "comment": "The quantity of reagent or data to be acquired"
+            }
+        },
+        "emit": {
+            "reagent0/data0": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Acquire]{operation} the [plate containing the diluted cell suspension]{reagent1} on a [flow cytometer fitted with the appropriate laser lines for the fluorescent cell label and DNA dye chosen]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SWITCH": {
+        "slot": {
+            "device": {
+                "require": 1,
+                "type": "string",
+                "comment": "The device to be switched"
+            },
+            "mode": {
+                "require": 1,
+                "type": "string",
+                "comment": "The mode to be switched to"
+            },
+            "flowRate": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "device": {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Switch]{operation} the [objective lens]{device} to [40x one]{mode}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SEE": {
+        "slot": {
+            "referenceType": {
+                "require": 1,
+                "type": "string",
+                "comment": "The type of reference to be seen (e.g., table, figure, step, troubleshooting, etc.)"
+            },
+            "referenceID": {
+                "require": 1,
+                "type": "string",
+                "comment": "The ID or name of the reference"
+            }
+        },
+        "emit": {},
+        "example": [
+            "[See]{operation} [Table 2]{referenceType, referenceID}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "TRANSFORM": {
+        "slot": {
+            "reagent1/data1": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "The reagent/data to be transformed"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "protocol": {
+                "require": 0,
+                "type": "string",
+                "comment": "Standard transformation protocols to be followed"
+            },
+            "scale": {
+                "require": 0,
+                "type": "string",
+                "comment": "Scale to which data is to be transformed"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0/data0": {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "The reagent/data into which transformation is to be done"
+            }
+        },
+        "example": [
+            "[Transform]{operation} the [entire 6 \u03bcL reaction product]{reagent1} into a [high-efficiency cloning strain]{reagent2} following [standard transformation protocols]{protocol}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "TRANSFECT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "string",
+                "comment": "The reagent to be transfected(usually cells)"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The plasmid to be transfected into the cells"
+            },
+            "reagent3": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The other reagent used for transfection(usually transfectant)"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for transfection, default=standard procedures"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "string",
+                "comment": "Transfected cells"
+            }
+        },
+        "example": [
+            "[Transfect]{operation} the [HeLa cells]{reagent1} at [50-60% confluency]{notice} with [CD63-pHluorin plasmid DNA]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "FIT": {
+        "slot": {
+            "device1": {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to be fitted"
+            },
+            "device2": {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to fit into device1"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "device0": {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Fit]{operation} the [flask]{device1} with a [water condenser]{device2} in the main neck and also a [rubber septum]{device2} in the second neck."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "MATHFIT": {
+        "slot": {
+            "data1": {
+                "require": 1,
+                "type": "data",
+                "comment": "The data to be fitted"
+            },
+            "model": {
+                "require": 0,
+                "type": "string",
+                "comment": "The model to fit the data to"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": "Functions generated after data fitting"
+            }
+        },
+        "example": [
+            "[Fit]{operation} [binding curves of anisotropy versus protein concentration]{data1} to a [single-ligand binding model]{model}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "EXPOSE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be exposed"
+            },
+            "method": {
+                "require": 1,
+                "type": "string",
+                "comment": "The method of exposure"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "intensity": {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The Reagent after exposure"
+            }
+        },
+        "example": [
+            "[Expose]{operation} the [wafer]{reagent1} to [UV]{method} for [6 sec]{time} using the [thin layer photomask]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DIVIDE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be divided"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "Method used to divide the reagent"
+            },
+            "quantity": {
+                "require": 0,
+                "type": "number",
+                "comment": "Number of parts to divide the reagent into"
+            },
+            "container": {
+                "require": 0,
+                "type": "string",
+                "comment": "Container to place the divided parts into"
+            }
+        },
+        "emit": {
+            "object0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Divide]{operation} the [resulting solution]{reagent1} to [5 aliquots]{quantity} in [200-\u03bcl PCR tubes]{container}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DIALYZE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The mixture to be dialyzed"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The solution to dialyze against"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Dialyzed mixture"
+            }
+        },
+        "example": [
+            "[Dialyze]{operation} [sample]{reagent1} against [6 M Urea]{reagent2} in [rehydrated D-tubeTM Dialyzer Mini tubes]{container} for [2 h]{time} on a [stirrer]{device} at [room temperature]{temperature}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PICK": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be picked"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Medium in which the reagent1 is picked into"
+            },
+            "quantity": {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "location": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "object0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Pick]{operation} up individual [adult animals expressing Raichu-Ras probe]{reagent1} to a [bacteria-free NGM plate]{reagent2} to [remove bacteria]{purpose}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DROP": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be dropped, keep alive"
+            },
+            "volume": {
+                "require": 1,
+                "type": "volume",
+                "comment": "The volume of the reagent to be dropped"
+            },
+            "destination": {
+                "require": 1,
+                "type": "string",
+                "comment": "The target where the reagent is dropped"
+            },
+            "angle": {
+                "require": 0,
+                "type": "number",
+                "comment": "The angle at which the target is tilted"
+            },
+            "density": {
+                "require": 0,
+                "type": "number",
+                "comment": "The desired cell density if dropping cell suspension"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Drop]{operation} [1 \u03bcL]{volume} of [50% glycerol PBS solution]{reagent1} on a [glass slide]{destination}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ASSESS": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be assessed"
+            },
+            "method": {
+                "require": 1,
+                "type": "string",
+                "comment": "The method used to assess the sample"
+            },
+            "attribute": {
+                "require": 1,
+                "type": "string",
+                "comment": "The attribute to be assessed. such as quality"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for assessment"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "string",
+                "comment": "Reagent after assessing"
+            }
+        },
+        "example": [
+            "[Assess]{operation} the [quality]{attribute} of [these PCR-libraries]{reagent1} by [analyzing 1 \u00b5L on a High Sensitivity DNA chip]{method} on a [2100 Bioanalyzer system]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "RECOVER": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be recovered"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used for recovery"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "destination": {
+                "require": 0,
+                "type": "string",
+                "comment": "Where the recovered sample is placed"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "Method used for recovery"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Recover]{operation} [mononuclear cells from interface]{reagent1} using a [10 ml serological pipette]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "HOLD": {
+        "slot": {
+            "reagent1/device1": {
+                "require": 1,
+                "type": "reagent/string",
+                "comment": "The reagent to be held"
+            },
+            "position": {
+                "require": 0,
+                "type": "string",
+                "comment": "The position in which the object should be held"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "direction": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0/device0": {
+                "require": 1,
+                "type": "reagent/string",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Hold]{operation} the [mouse]{reagent1} in a [supine]{position} position, [allowing the head to tilt slightly backwards]{notice}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "WIPE": {
+        "slot": {
+            "target": {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to be wiped"
+            },
+            "reagent1": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The other reagent used in wipping"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {},
+        "example": [
+            "[Wipe]{operation} the [biosafety cabinet]{target} [thoroughly]{notice} with [70% ethanol]{reagent1}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "REDUCE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be reduced"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reducing agent"
+            },
+            "targetConcentration/volume": {
+                "require": 1,
+                "type": "concentration",
+                "comment": "The final concentration or volume of the reagent1"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Reduce]{operation} [disulfide bonds]{reagent1} by adding [DTT]{reagent2} to a final concentration of [10 mM]{targetConcentration}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "INCREASE": {
+        "slot": {
+            "attribute": {
+                "require": 1,
+                "type": "string",
+                "comment": "The attribute to be increased"
+            },
+            "value": {
+                "require": 1,
+                "type": "number",
+                "comment": "The value to which the parameter is increased, defult=appropriate value"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {},
+        "example": [
+            "[Increase]{operation} [temperature]{attribute} to [67]{value}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DEHYDRATE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be dehydrated"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Dehydrating agents"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": "Time for dehydration"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Dehydrated sample"
+            }
+        },
+        "example": [
+            "[Dehydrate]{operation} the [slides]{reagent1} in [70%, 95% and 100% (vol/vol) ethanol]{reagent2} for [30 s each]{time}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SEQUENCE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be sequenced"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Primers used for sequencing"
+            },
+            "frequency": {
+                "require": 0,
+                "type": "frequency",
+                "comment": "Number of reads per sample/cell"
+            },
+            "mode": {
+                "require": 0,
+                "type": "string",
+                "comment": "Sequencing mode, e.g. single-end or paired-end"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "Sequencing device used"
+            },
+            "protocol": {
+                "require": 0,
+                "type": "string",
+                "comment": "Specific protocol followed for sequencing"
+            }
+        },
+        "emit": {
+            "sequence": {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Sequence]{operation} [purified DNA plasmids]{reagent1} using [primers listed in Table 2]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "INDUCE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent(always animal) to be induced"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents used for induction, such as anesthetic"
+            },
+            "state": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The state induced in reagent1(always animal), such as anesthesia"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "Specific method or protocol for induction"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Induce]{operation} [anaesthesia]{state} in [mice]{reagent1} by inhalation of [3% isoflurane]{reagent2} for [2-3min]{time}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DESIGN": {
+        "slot": {
+            "designType": {
+                "require": 1,
+                "type": "string",
+                "comment": "The type of design to be made"
+            },
+            "software": {
+                "require": 0,
+                "type": "string",
+                "comment": "Software used for design"
+            },
+            "regionOfInterest": {
+                "require": 0,
+                "type": "string",
+                "comment": "Region of interest for primer design"
+            },
+            "modification": {
+                "require": 0,
+                "type": "string",
+                "comment": "Any modifications to be made to the design"
+            },
+            "primerType": {
+                "require": 0,
+                "type": "string",
+                "comment": "Type of primers to be designed"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "design": {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Design]{operation} [specific primers]{designType} flanking the [Cas9\u2022sgRNA cutsite (target amplicon)]{regionOfInterest}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DEPOSIT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be deposited"
+            },
+            "thickness": {
+                "require": 0,
+                "type": "number",
+                "comment": "Thickness of the material to be deposited"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The substrate on which the material is deposited"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for deposition"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Deposit]{operation} [metals (Cr/Au, 15/100 nm)]{reagent1} on the [prepared substrate]{reagent2} using [electron beam evaporator]{method}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "COMPARE": {
+        "slot": {
+            "data1": {
+                "require": 1,
+                "type": "data",
+                "comment": "The first data to be compared, keep alive"
+            },
+            "data2": {
+                "require": 1,
+                "type": "data",
+                "comment": "The second data to be compared, keep alive"
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": "The result of comparation"
+            }
+        },
+        "example": [
+            "[Compare]{operation} [spin-system types of a connectivity fragment]{data1} with [the protein sequence]{data2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "ALIGN": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be aligned"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The reagent to which object1 is aligned, keep alive"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The methodused for alignment"
+            },
+            "repeat": {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The aligned reagent1"
+            }
+        },
+        "example": [
+            "[Align]{operation} the [samples]{reagent1} to the [genome]{reagent2} using [\u2018STAR.\u2019]{method}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "WRAP": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to be wrapped"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The material used to wrap the item"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "string",
+                "comment": "Wrapped reagent"
+            }
+        },
+        "example": [
+            "[Wrap]{operation} the [tube]{reagent1} with [PTFE tape]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SACRIFICE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent(always animal) to be sacrificed"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to sacrifice the animal"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": "Any additional information or precautions"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Dead animal"
+            }
+        },
+        "example": [
+            "[Sacrifice]{operation} [two 8-16 week old reprogrammable mice/Oct4GFP mice]{reagent1} by [ventilating them with CO2]{method}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "READ": {
+        "slot": {
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to read"
+            },
+            "data1": {
+                "require": 1,
+                "type": "data",
+                "comment": "The target to be read(usually file)"
+            },
+            "attribute": {
+                "require": 0,
+                "type": "string",
+                "comment": "Additional attributes for reading, such as wavelength, channel, etc."
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to read, such as command line, setting, etc."
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Read]{operation} the [optical density]{data1} at [405 nm]{attribute} with a [plate reader]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SETUP": {
+        "slot": {
+            "container": {
+                "require": 1,
+                "type": "string",
+                "comment": "The container to setup, e.g., PCR tube, Eppendorf tube, PCR plate, glass plates, hotplate, perfusion station, culture dishes, manipulation dish"
+            },
+            "reagent1": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The main reagent to be setup"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents added during setup"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "environment": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Setup]{operation} [pre-PCR master mixes]{reagent1} in a [1.5 ml Eppendorf tube]{container} [on ice]{environment} by [mixing the following components]{method}."
+
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "PACK": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be packed"
+            },
+            "container": {
+                "require": 1,
+                "type": "string",
+                "comment": "The container where the reagent is packed"
+            },
+            "size": {
+                "require": 0,
+                "type": "length",
+                "comment": ""
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Pack]{operation} [NeutrAvidin Agarose Resin]{reagent1} into a [1.5 ml tube]{container}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "IMPORT": {
+        "slot": {
+            "data1": {
+                "require": 1,
+                "type": "data",
+                "comment": "The file to be imported"
+            },
+            "software": {
+                "require": 1,
+                "type": "string",
+                "comment": "The software where the file will be imported"
+            },
+            "purpose": {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose of importing the file"
+            },
+            "reference": {
+                "require": 0,
+                "type": "string",
+                "comment": "Additional reference for importing the file"
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Import]{operation} [mass spectrometry raw data]{data1} for [quantitation]{purpose}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "HOMOGENIZE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be homogenized"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents added during homogenization"
+            },
+            "device": {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for homogenization"
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            "strokes": {
+                "require": 0,
+                "type": "number",
+                "comment": "Number of strokes used during homogenization"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The homogenized reagent"
+            }
+        },
+        "example": [
+            "[Homogenize]{operation} [mouse liver tissue]{reagent1} to [a cell suspension]{reagent0} in [ice-cold PBS]{reagent2} by using a [dounce homogenizer or a pellet pestle]{device}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "GIVE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be given"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The recipient(usually mouse) of the reagent"
+            },
+            "repeat": {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            },
+            "frequency": {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Give]{operation} [1 piece of vehicle jelly]{reagent1} to [each mouse]{reagent2} in [the morning of the following 3 days]{timing}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "DENATURE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be denatured"
+            },
+            "reagent2": {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents for denaturing"
+            },
+            "temperature": {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            "time": {
+                "require": 0,
+                "type": "time",
+                "comment": "default=5 min"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Denatured reagent"
+            }
+        },
+        "example": [
+            "[Denature]{operation} [streptavidin]{reagent1} in the pellets with [10 \u03bcl 10 mM EDTA, 95% formamide]{reagent2} at [90\u00b0C]{temperature} for [3 min]{time}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "TRIM": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be trimmed"
+            },
+            "size": {
+                "require": 0,
+                "type": "length",
+                "comment": "The size to which the object should be trimmed"
+            },
+            "method": {
+                "require": 0,
+                "type": "string",
+                "comment": "The method or tool used to trim the object"
+            },
+            "purpose": {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose of trimming"
+            },
+            "notice": {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The trimed reagent"
+            }
+        },
+        "example": [
+            "[Trim]{operation} the [diaphragmatic patch]{reagent1} to a [decent size]{size}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "SUPPLEMENT": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be supplemented"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The other reagent(s) to be added"
+            },
+            "volume": {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            "targetConcentration": {
+                "require": 0,
+                "type": "concentration",
+                "comment": ""
+            },
+            "timing": {
+                "require": 0,
+                "type": "string",
+                "comment": "When to supplement, if necessary"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            }
+        },
+        "example": [
+            "[Supplement]{operation} [E8 medium]{reagent1} with the [ROCK inhibitor Y-27632 (1:1000)]{reagent2} to a final concentration of [10 \u03bcM]{targetConcentration}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "RECONSTITUTE": {
+        "slot": {
+            "reagent1": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be reconstituted"
+            },
+            "reagent2": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent used for reconstitution"
+            },
+            "timing": {
+                "require": 0,
+                "type": "string",
+                "comment": "When the reconstitution should be done, if applicable"
+            }
+        },
+        "emit": {
+            "reagent0": {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reconstituted reagent"
+            }
+        },
+        "example": [
+            "[Reconstitute]{operation} [40 &#xB5;g of trypsin]{reagent1} with [20 &#xB5;l dissolution buffer]{reagent2}."
+        ],
+        "notice": [],
+        "synonym": []
+    },
+    "EXPORT": {
+        "slot": {
+            "data1": {
+                "require": 1,
+                "type": "data",
+                "comment": "The data to be exported"
+            },
+            "format": {
+                "require": 0,
+                "type": "string",
+                "comment": "The format to export the data in"
+            },
+            "step": {
+                "require": 0,
+                "type": "number",
+                "comment": "The step in the process where the data is exported"
+            }
+        },
+        "emit": {
+            "data0": {
+                "require": 1,
+                "type": "data",
+                "comment": "Exported data"
+            }
+        },
+        "example": [
+            "[Export]{operation} [images]{data1} in [.tif]{imageFormat} format."
+        ],
+        "notice": [],
+        "synonym": []
+    }
+}

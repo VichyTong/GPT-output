@@ -1,0 +1,14 @@
+[
+    {
+        "title": "1.",
+        "body": "Copy the TIF files you want to analyze into the 'data' folder."
+    },
+    {
+        "title": "2.",
+        "body": "Run the 'APos_Segment_and_Track.m' routine."
+    },
+    {
+        "title": "3.",
+        "body": "Run the 'BPos_Evaluate_Stripes.m' routine."
+    }
+]

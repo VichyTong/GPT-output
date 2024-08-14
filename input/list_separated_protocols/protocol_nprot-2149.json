@@ -1,0 +1,433 @@
+[
+    "\nFree CN assay procedure:\r\n\n\n\r\n\n\nTip: Most steps should be conducted in ice.",
+    {
+        "title": "1.",
+        "body": "Check the accuracy of 100 µL automatic pipette. \r\n  Run blanks to check the whole procedure. Normally blank is about 100 DPM. If the value is much higher, \\[1-14C]acetyl-CoA may be degraded."
+    },
+    {
+        "title": "2.",
+        "body": "Prepare blanks, standards and samples in duplicates."
+    },
+    {
+        "title": "3.",
+        "body": "Add 0.5 mL tris buffer to each sample."
+    },
+    {
+        "title": "4.",
+        "body": "Finely tune each sample to pH 7.3 with 1 M HCl or 1 M KOH.\r\n  Critical step\\!\\!\\!"
+    },
+    {
+        "title": "5.",
+        "body": "0.25 mL sodium tetrathionate solution, and 0.25 mL acetyl-CoA reaction mixture \\(should be FRESH). Vortex."
+    },
+    {
+        "title": "6.",
+        "body": "Make enzyme solution \\(1:10). Example: Take the stock enzyme solution from the refrigerator and put into the ice. Gently shake it 3 times inversely. Use 20 µL automatic pipette to transfer 20 µL stock solution into a micro centrifuge tube in the ice. Use 200 µL automatic pipette to add 200 µL 2.9 M \\(NH4)2SO4 solution into the micro centrifuge tube. Gently mix inversely 3 times."
+    },
+    {
+        "title": "7.",
+        "body": "Add 20 µL of enzyme into each tube EXCEPT FOR BLANKS. mix inversely for 3 times."
+    },
+    {
+        "title": "8.",
+        "body": "Incubate for 30 minutes at 37 C."
+    },
+    {
+        "title": "9.",
+        "body": "Vortex the tube drastically and place in ice for 5 min."
+    },
+    {
+        "title": "10.",
+        "body": "Prepare a set of 13x100 mm disposable tubes to contain eluant."
+    },
+    {
+        "title": "11.",
+        "body": "Change tubes\\!\\!\\! Transfer 1.0 mL of the solution in the assay tube into the anion exchange columns. Mark the latest loaded column."
+    },
+    {
+        "title": "12.",
+        "body": "Flush columns with 0.5 mL D.I. water. Mix well the eluant."
+    },
+    {
+        "title": "13.",
+        "body": "Pipette 0.5 mL elutes into the vials with 10 mL scintillation cocktail and count 14C with Beckman LS 6500.\r\n  \r\n\n\n\r\n\n\nI. Deproteinization of serum/bile/lymph"
+    },
+    {
+        "title": "1.",
+        "body": "Defreeze the tissue overnight."
+    },
+    {
+        "title": "2.",
+        "body": "In the morning of the working day, turn on the water bath and centrifuge."
+    },
+    {
+        "title": "3.",
+        "body": "Prepare columns, tubes, racks, and scintillation vials. Weigh microcentrifuge tubes.\r\n  Prepare 6 sets of 2 mL of centrifuge tubes. Weigh two of the 6 sets. Write down the values."
+    },
+    {
+        "title": "4.",
+        "body": "Use 100 µL automatic pipette to add 50 µL of the serum/bile/lymph into a 2 mL microcentrifuge tube. Wash with 50 µL of  D.I. water. Duplicate."
+    },
+    {
+        "title": "5.",
+        "body": "Add 200 µL ice-cold 1M HClO4. Vortex drastically. Stand for 10 min."
+    },
+    {
+        "title": "6.",
+        "body": "Centrifuge for 10 minutes at 1.2x104 g at 5 oC.\r\n  To separate long chain acyl-CNs \\(acid-insoluble fraction) from short chain acyl-CNs and free CN \\(acid-soluble fraction) by deproteinization. Medium chain acyl-CNs are partitioned into the two fractions."
+    },
+    {
+        "title": "7.",
+        "body": "Use 1000 µL automatic pipette to transfer the supernatant to another 2 mL microcentrifuge tube."
+    },
+    {
+        "title": "8.",
+        "body": "Add 100 µL ice-cold 1M HClO4. Vortex drastically. Stand for 10 min."
+    },
+    {
+        "title": "9.",
+        "body": "Centrifuge for 10 minutes at 1.2x104 g at 5 oC.\r\n  To repeat separation."
+    },
+    {
+        "title": "10.",
+        "body": "Use 1000 µL automatic pipette to collect the supernatant to the other 2 mL microcentrifuge tube."
+    },
+    {
+        "title": "11.",
+        "body": "Resuspend the precipitate in 100 µL 3.5 M KOH at pH"
+    },
+    {
+        "title": "13.",
+        "body": []
+    },
+    {
+        "title": "12.",
+        "body": "Incubate the suspension at 60 oC for 30 min."
+    },
+    {
+        "title": "13.",
+        "body": "Neutralize the supernatant with 100 µL 3.5 M KOH."
+    },
+    {
+        "title": "14.",
+        "body": "Centrifuge the supernatant for 10 min at 1.2x104 g.\r\n  To precipitate KClO4"
+    },
+    {
+        "title": "15.",
+        "body": "During this time, prepare 4 sets of tubes for Free CN and acid-soluble CN duplicates."
+    },
+    {
+        "title": "16.",
+        "body": "Weigh another set of microcentrifuge tubes. Transfer the supernatant to this set of tubes. Measure the final volume of the supernatant \\(About 500 µL) by weighing the tubes again.\r\n  \r\n\n\n\r\n\n\nII. Preparation of free CN"
+    },
+    {
+        "title": "1.",
+        "body": "Pipette 150 µL supernatant into a 12x75 mm tube."
+    },
+    {
+        "title": "2.",
+        "body": "Ready for CN assay.\r\n  \r\n\n\n\r\n\n\nIII. Preparation of acid-soluble CN \\(free + short chain acyl-CN)"
+    },
+    {
+        "title": "1.",
+        "body": "Pipette 150 µL supernatant into a 12x75 mm tube."
+    },
+    {
+        "title": "2.",
+        "body": "Add 100 µL 3.5 M KOH to pH"
+    },
+    {
+        "title": "13.",
+        "body": "Mix well."
+    },
+    {
+        "title": "3.",
+        "body": "Incubate the solution at 60 oC for 1 h.\r\n  To alkalinize the short chain carnitine to free carnitine"
+    },
+    {
+        "title": "4.",
+        "body": "Cool down the solution and neutralize with 200 µL 1 M HCl."
+    },
+    {
+        "title": "5.",
+        "body": "Ready for CN assay.\r\n  \r\n\n\n\r\n\n\nIV. Preparation of acid-insoluble carnitine \\(long chain acyl-CN)"
+    },
+    {
+        "title": "1.",
+        "body": "\\(Already done in steps 11-12)\r\n  a. Resuspend the precipitate in 200 µL 3.5 M KOH at pH"
+    },
+    {
+        "title": "13.",
+        "body": "b. Incubate the suspension at 60 oC for 30 min."
+    },
+    {
+        "title": "2.",
+        "body": "Vortex the tube drastically."
+    },
+    {
+        "title": "3.",
+        "body": "Incubate the suspension at 60 oC for another 30 min."
+    },
+    {
+        "title": "4.",
+        "body": "Cool down the suspension and add 400 µL 1 M HClO4. Stir drastically. Wait for 10 min.\r\n  To precipitate the protein in the sample"
+    },
+    {
+        "title": "5.",
+        "body": "Centrifuge the suspension for 10 min at 1.2x104 g."
+    },
+    {
+        "title": "6.",
+        "body": "During this time, prepare 6 sets of 12x75 mm tubes for acid-insoluble CN duplicates."
+    },
+    {
+        "title": "7.",
+        "body": "Transfer the supernatant to another microcentrifuge tube and neutralize with 50 µL 1 M KOH."
+    },
+    {
+        "title": "8.",
+        "body": "Centrifuge the suspension for 10 min at 1.2x104 g.\r\n  To precipitate KClO4"
+    },
+    {
+        "title": "9.",
+        "body": "Weigh another set of microcentrifuge tubes. Transfer the supernatant to this set of tubes. Measure the final volume of the supernatant \\(About 1000 µL) by weighing the tubes again."
+    },
+    {
+        "title": "10.",
+        "body": "Take 500 µL supernatant for CN assay.\r\n  \r\n\n\n\r\n\n\nV. Preparation of blanks and standards\r\n\n\n\r\n\n\nBlanks: add 200 µL D.I. water and run the same as samples but DO NOT ADD ENZYME.\r\n\n\n\r\n\n\nSample range: \r\n\n\nBy literature, serum total CN is 20-50 µM, i.e., 1-2.5 nmol/50 µL serum. Free CN:acyl CN ratio is about 2:1.\r\n\n\n\r\n\n\nStandard curve range: 2 – 5 nmol.\r\n\n\n\r\n\n\nStandards for free CN fraction: add 50 µL standard solutions contain 40, and 100 µM L-CN \\(2, 5 nmol) + 150 µL D.I. water.\r\n\n\n\r\n\n\nStandards for acid soluble and acid insoluble CN fractions: add 50 µL standard solutions contain 40, and 100 µM L-CN \\(2, 5 nmol) + 350 µL D.I. water.\r\n\n\n\r\n\n\n\r\n\n\nVI. Deproteinization of liver"
+    },
+    {
+        "title": "1.",
+        "body": "Defreeze the tissue overnight."
+    },
+    {
+        "title": "2.",
+        "body": "In the morning of the working day, turn on the water bath and centrifuge."
+    },
+    {
+        "title": "3.",
+        "body": "Prepare columns, tubes, racks, and scintillation vials."
+    },
+    {
+        "title": "4.",
+        "body": "Weigh the homogenizer tube \\(about 32 g). Use spatula to add 200-300 mg minced tissue into the tube. Weigh again. Write down the exact numbers."
+    },
+    {
+        "title": "5.",
+        "body": "Homogenize the tissue in 750 µL D.I. water. Wash the pestle and the tube with 750 µL D.I. water. Collect the washings. Vortex to mix well.\r\n  To disrupt the cell membrane"
+    },
+    {
+        "title": "6.",
+        "body": "Measure the volume of the homogenized solution \\(About 1500 µL)."
+    },
+    {
+        "title": "7.",
+        "body": "Use 1000 µL automatic pipette to add 750 µL of the homogenizing solution into a 12x75 mm disposable tube. Duplicate."
+    },
+    {
+        "title": "8.",
+        "body": "Add 100 µL ice-cold 1M HClO4 \\(200 µL if not duplicated). Vortex drastically. Stand for 10 min."
+    },
+    {
+        "title": "9.",
+        "body": "Centrifuge for 10 minutes at 1.2x104 g at 5 oC.\r\n  To separate long chain acyl-CNs \\(acid-insoluble fraction) from short chain acyl-CNs and free CN \\(acid-soluble fraction) by deproteinization. Medium chain acyl-CNs are partitioned into the two fractions."
+    },
+    {
+        "title": "10.",
+        "body": "Use Pasteur pipette to transfer the supernatant to another 12x75 mm tube. Combine the supernatant from the duplicates."
+    },
+    {
+        "title": "11.",
+        "body": "Resuspend the precipitate in 200 µL 3.5 M KOH at pH"
+    },
+    {
+        "title": "13.",
+        "body": []
+    },
+    {
+        "title": "12.",
+        "body": "Incubate the suspension at 60 oC for 30 min."
+    },
+    {
+        "title": "13.",
+        "body": "Neutralize the supernatant with 215 µL 1 M KOH."
+    },
+    {
+        "title": "14.",
+        "body": "Centrifuge the supernatant for 10 min at 1.2x104 g.\r\n  To precipitate KClO4"
+    },
+    {
+        "title": "15.",
+        "body": "During this time, prepare 4 sets of tubes for Free CN and acid-soluble CN duplicates."
+    },
+    {
+        "title": "16.",
+        "body": "Weigh another set of tubes. Transfer the supernatant to this set of tubes. Measure the final volume of the supernatant \\(About 1250 µL) by weighing the tubes again.\r\n  \r\n\n\n\r\n\n\nVII. Preparation of free CN"
+    },
+    {
+        "title": "1.",
+        "body": "Pipette 300 µL supernatant into a 12x75 mm tube."
+    },
+    {
+        "title": "2.",
+        "body": "Ready for CN assay.\r\n  \r\n\n\n\r\n\n\nVIII. Preparation of acid-soluble CN \\(free + short chain acyl-CN)"
+    },
+    {
+        "title": "1.",
+        "body": "Pipette 300 µL supernatant into a 12x75 mm tube. Duplicate."
+    },
+    {
+        "title": "2.",
+        "body": "Add 50 µL 3.5 M KOH to pH"
+    },
+    {
+        "title": "13.",
+        "body": "Mix well."
+    },
+    {
+        "title": "3.",
+        "body": "Incubate the solution at 40 oC for 1 h.\r\n  To alkalinize the short chain carnitine to free carnitine"
+    },
+    {
+        "title": "4.",
+        "body": "Cool down the solution and neutralize with 160 µL 1 M HCl."
+    },
+    {
+        "title": "5.",
+        "body": "Ready for CN assay.\r\n  \r\n\n\n\r\n\n\nIX. Preparation of acid-insoluble carnitine \\(long chain acyl-CN)"
+    },
+    {
+        "title": "1.",
+        "body": [
+            "\\(Already done in steps 11, 12, and",
+            {
+                "title": "13)",
+                "body": "a. Wash the precipitate with deionized water and discard the washings. Duplicate.\r\n\n\nb. Resuspend the precipitate in 200 µL 3.5 M KOH at pH"
+            }
+        ]
+    },
+    {
+        "title": "13.",
+        "body": "c. Incubate the suspension at 60 oC for 30 min."
+    },
+    {
+        "title": "2.",
+        "body": "Vortex the tube drastically."
+    },
+    {
+        "title": "3.",
+        "body": "Incubate the suspension at 60 oC for another 30 min."
+    },
+    {
+        "title": "4.",
+        "body": "Cool down the suspension and add 400 µL 1 M HClO4. Stir drastically. Wait for 10 min.\r\n  To precipitate the protein in the sample"
+    },
+    {
+        "title": "5.",
+        "body": "Centrifuge the suspension for 10 min at 1.2x104 g."
+    },
+    {
+        "title": "6.",
+        "body": "During this time, prepare 6 sets of 12x75 mm tubes for acid-insoluble CN duplicates."
+    },
+    {
+        "title": "7.",
+        "body": "Transfer the supernatant to another tube and neutralize with 100 µL 1 M KOH."
+    },
+    {
+        "title": "8.",
+        "body": "Centrifuge the suspension for 10 min at 1.2x104 g.\r\n  To precipitate KClO4"
+    },
+    {
+        "title": "9.",
+        "body": "Transfer the supernatant to another tube. Measure the final volume of the supernatant."
+    },
+    {
+        "title": "10.",
+        "body": "Take 500 µL supernatant for CN assay.\r\n  \r\n\n\n\r\n\n\nX. Preparation of blanks and standards\r\n\n\n\r\n\n\nBlanks: add 300 µL D.I. water and run the same as samples but DO NOT ADD ENZYME.\r\n\n\n\r\n\n\nStandard curve range: 5 – 15 nmol.\r\n\n\n\r\n\n\nFree CN: add 50 µL standard solutions contain 100, and 300 µM L-CN \\(5, 15 nmol) + 250 µL D.I. water.\r\n\n\n\r\n\n\nTotal CN: add 50 µL standard solutions contain 100, and 300 µM L-CN \\(5, 15 nmol) + 450 µL D.I. water.\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nXI. Preparation of adipose tissue total CN"
+    },
+    {
+        "title": "1.",
+        "body": "Defreeze the tissue overnight."
+    },
+    {
+        "title": "2.",
+        "body": "In the morning of the working day, turn on the water bath and centrifuge."
+    },
+    {
+        "title": "3.",
+        "body": "Weigh the tube with a Teflon cap. Use spatula to add 200-300 mg minced tissue into the tube. Weigh again. Write down the exact numbers.\r\n  Use a cotton applicator to clear the sample on the mouth of the tube before weighing."
+    },
+    {
+        "title": "4.",
+        "body": "Add 300 µL 3.5 M KOH at pH"
+    },
+    {
+        "title": "13.",
+        "body": "Incubate the solution at 60 oC for 30 min. Vortex the tube drastically."
+    },
+    {
+        "title": "5.",
+        "body": "Prepare columns, tubes, racks, and scintillation vials."
+    },
+    {
+        "title": "6.",
+        "body": "Incubate the solution at 60 oC for another 30 min."
+    },
+    {
+        "title": "7.",
+        "body": "Cool down the solution and add 500 µL water."
+    },
+    {
+        "title": "8.",
+        "body": "Use dispenser to add 4 mL CM mixture into the tube. Shake upside down 3 times. Wait until there are distinct two layers \\(or centrifuge for 5 minutes)."
+    },
+    {
+        "title": "9.",
+        "body": "During this time, prepare 2 sets of 13x100 mm tubes."
+    },
+    {
+        "title": "10.",
+        "body": "Transfer the upper layer to another tube."
+    },
+    {
+        "title": "11.",
+        "body": "Add 500 µL 1 M HClO4. Stir drastically. Wait for 10 min.\r\n  To precipitate the protein"
+    },
+    {
+        "title": "12.",
+        "body": "Centrifuge the suspension for 10 min at 1.2x104 g."
+    },
+    {
+        "title": "13.",
+        "body": "Use pasteur pipette to transfer the supernatant to another set of 13x100 mm tubes."
+    },
+    {
+        "title": "14.",
+        "body": "Add 175 µL 1M KOH. Put the tube into the ice for 10 min. \r\n  To crystallize KClO4"
+    },
+    {
+        "title": "15.",
+        "body": "Centrifuge the supernatant for 10 min at 1.2x104 g.\r\n  To precipitate KClO4"
+    },
+    {
+        "title": "16.",
+        "body": "Prepare 1 set of 13x100 mm tubes. Weigh the empty tubes. Prepare another set of 12x75 mm tubes."
+    },
+    {
+        "title": "17.",
+        "body": "Transfer the supernatant to another tube."
+    },
+    {
+        "title": "18.",
+        "body": "Neutralize the supernatant with 50 µL 1M HCl."
+    },
+    {
+        "title": "19.",
+        "body": "Weigh the tubes again. \r\n  The net weight is the final volume of the supernatant \\(assuming 1 g = 1000 µL)."
+    },
+    {
+        "title": "20.",
+        "body": "Take 500 µL supernatant for CN assay.\r\n  \r\n\n\nXII. Preparation of free CN preparation\r\n\n\n\r\n\n\nXIII. Preparation of acid-soluble CN preparation \\(free + short chain acyl-CN)\r\n\n\n\r\n\n\nXIV. Preparation of blanks and standards\r\n\n\n\r\n\n\nBlanks: add 500 µL D.I. water and run the same as samples but DO NOT ADD ENZYME.\r\n\n\n\r\n\n\nStandard range: 1 – 5 nmol.\r\n\n\n\r\n\n\nTotal CN: add 50 µL standard solutions contain 20, 40 and 100 µM L-CN \\(1, 2, 5 nmol) + 225 µL D.I. water + 225 µL methanol.\r\n\n\nAfter washing the CM mixture with 0.2 volume of water, the upper \\(aqueous) layer contains C:M:W as 3:48:47. Methanol is added to STD tubes to mimic the sample solution."
+    }
+]

@@ -1,0 +1,59 @@
+[
+    "\n_Establishment of organoid culture_\r\n\n\n\r\n\n\nFor large chunks of intestinal tissue, epithelial stem cells can be isolated as described previously and is based on mechanical dissection and chelation \\(1). \r\n\n\nAlternatively, for smaller pieces of the mucosa \\(<1cm), enzymatic dissociation can be performed using the following procedure:",
+    {
+        "title": "1.",
+        "body": "Cut the tissue into small pieces using two scalpels."
+    },
+    {
+        "title": "2.",
+        "body": "Transfer the tissue fragments into a 15 ml falcon into 2 ml of Advanced DMEM/F12, supplemented with Y-27632 \\(10 µM), Collagenase type 2 \\(1mg /ml) and Hyaloronedase \\(10 µg/ml). Incubate for 30 minutes at 37C in a shaker."
+    },
+    {
+        "title": "3.",
+        "body": "Check the dissociated tissue for crypt isolation under a microscope. If no or few crypts are observed, extend the dissociation for another 30 minutes."
+    },
+    {
+        "title": "4.",
+        "body": "Add 8 ml of ice-cold Advanced DMEM/F12 and spin the fragments for 5 min at 4C. Aspirate the supernatant."
+    },
+    {
+        "title": "5.",
+        "body": "Resuspend the pellet in 10 ml of ice-cold Advanced DMEM/F12. If large fragments remain, filter the solution through a 70 or 100 µm strainer in a fresh 15 ml falcon."
+    },
+    {
+        "title": "6.",
+        "body": "At this stage, crypts can be quantified in 50 µl of medium to estimate the total number of fragments."
+    },
+    {
+        "title": "7.",
+        "body": "Spin the fragments for 5 min at 4C and aspirate the supernatant."
+    },
+    {
+        "title": "8.",
+        "body": "Resuspend the pellet in a mixture of Basement membrane extract \\(BME) and Advanced DMEM/F12. Especially larger pellets are easier to dissolve in Advanced DMEM/F12 first due to the viscosity of BME. BME can be diluted to 60% using Advanced DMEM/F12. Per BME droplet of 15 µl, plate approximately 150-300 fragments/crypts into a suspension plate \\(Greiner Bio-one)."
+    },
+    {
+        "title": "9.",
+        "body": "Allow the BME to polymerize for at least 20 minutes at 37C. Add warmed human intestinal organoid as described previously.\r\n  \r\n\n\n_Expansion of human intestinal organoids_\r\n\n\n\r\n\n\nHuman intestinal organoids can be expanded and passaged as described previously \\(1). Medium is refreshed every third day and organoids can be passaged 1:4-1:8 per week, depending on the regional identity of the tissue \\(ileum tends to grow slower). \r\n\n\n\r\n\n\n_Induction of EEC and other secretory cell differentiation_"
+    },
+    {
+        "title": "1.",
+        "body": "Differentiation of human intestinal organoids can be initiated 2 to 5 days post passaging, when organoids are between 100-200 µm in diameter. Ideally, 150-300 organoids are plated in 15 µl BME, but differentiation was achieved successfully with lower and higher concentrations as well."
+    },
+    {
+        "title": "2.",
+        "body": "Remove expansion medium and wash each well with 1-2 ml of Advanced DMEM/F12, depending on the size of the well. Try to remove as much as the wash solution as possible."
+    },
+    {
+        "title": "3.",
+        "body": "Add warmed differentiation medium to each well. Differentiation medium is prepared by withdrawing Wnt, Prostaglandin E2, Nicotinamide, SB 202190 and A83-01 from the expansion medium. DAPT \\(10 µM) and PD0325901 \\(500 nM for duodenal, 1 µM for ileal organoids) are added to the differentiation medium. For induction of villus enriched hormones, BMP-4 \\(20 ng/ml) is added to the differentiation medium and Noggin removed."
+    },
+    {
+        "title": "4.",
+        "body": "Refresh the medium at day 1 and day 3 after differentiation initiation."
+    },
+    {
+        "title": "5.",
+        "body": "EECs are observed after 3-4 days of differentiation and organoids can be maintained up to 6 days. Typically, organoids were used for EEC experiments after 5 days of differentiation, at which the balance between cell survival and differentiation was most optimal. After that, apoptosis of the majority of differentiated cells will occur."
+    }
+]

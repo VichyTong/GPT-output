@@ -1,0 +1,49 @@
+[
+    "\nThe idea is to do the miniassembly with one copy of the IS \\(or any other repeat sequence), finish it \\(if necessary), and to export resulting consensus back in to the main assembly as one \"long read\" or \"scaffolding read\", - consensus of repeat itself with bouth flanking non repetitive regions, at least few hundreds bp. each.",
+    {
+        "title": "1.",
+        "body": "Get the mapping data \\(contig region linkage information) and contig consistency data from the main assembly. It is retreived from large template ends reads pairs and used to locate misassemblies."
+    },
+    {
+        "title": "2.",
+        "body": "Repeat border localisation. Using NCBI BLASTN against the current main assembly database, locate borders of the repeat region \\(where it begins and ends), by the means blasting\\(N) of contig\\(s) fragment\\(s) with the current assembly blastN database. I recommend using master/slave aligment output mode for spotting repetitive regions. Also be avare, that real repeat borders can be different due to current assembly artifacts. Also, if it is known that, for example, the repetitive region contains known genes - transposase, than this info can be used as auxililary for repeats location finding. Also use information provided by \"matchElsewhereHighQual\" tags in the consed."
+    },
+    {
+        "title": "3.",
+        "body": "Define unique sequence \"anchor regions\" coordinates in the assembly - based on the repeats borders and template reads pairs information allocate coordinates of the non repetitive flanking regions, which does not contain other repeats, or other assembly problems. Usually it is from 50-100 bp from the repeat end to up to 35-40 KB from the repeat. Also note the direction to the problematic region\\(repeat) - U\\(Unicore, repeat after anchor region) or C\\(Complement, repeat before anchor region)."
+    },
+    {
+        "title": "4.",
+        "body": "Obtain the list of ALL templates used for sequencing from anchor regions."
+    },
+    {
+        "title": "5.",
+        "body": "Obtain the list of all reads which where obtained from templates anchor templates."
+    },
+    {
+        "title": "6.",
+        "body": [
+            "Make separate minniassembly from these reads \\(obtained in step",
+            {
+                "title": "5).",
+                "body": "Please include all chromatograms and all corresponding PhD files, including the ones with the edits. I was making separate phredPhrap project for that.\r\n  \r\n\n\nPS: \\(Steps 4-6 were automated by the means of gnm_region_auto_reasm.pl)"
+            }
+        ]
+    },
+    {
+        "title": "7.",
+        "body": "Finish miniassembly by conventional methodics, using templates, which contain this region and only one copy of the repeat. Be sure to have the repeat in the good quality and error free before putting it back into the main assembly."
+    },
+    {
+        "title": "8.",
+        "body": "Once finished, exprort consensus of the miniassebly into the main assembly as JoiningRead_###.phd.1 file with quality vallues, where ### is the miniassembly ID, put this file into the phd_dir of the main assembly."
+    },
+    {
+        "title": "9.",
+        "body": "Reassemble the main assembly."
+    },
+    {
+        "title": "10.",
+        "body": "Check the assembly results by blasting the miniassembly consensus with the curent assembly, and from consed itself. Now this region shold be correctly assebled."
+    }
+]

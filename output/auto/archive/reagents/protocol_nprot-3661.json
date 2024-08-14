@@ -1,0 +1,402 @@
+[
+    {
+        "name": "single microspores 0",
+        "description": "**Isolate single microspores from a single tetrad**"
+    },
+    {
+        "name": "plants 0",
+        "description": "1) In the field, select plants presenting tetrad-stage pollen, and harvest the top ~30 cm part containing tassels into a flask filled with water."
+    },
+    {
+        "name": "single microspores 1",
+        "description": "Release cells from the three same-stage anthers into Isolation Buffer on a slide."
+    },
+    {
+        "name": "single microspores 2",
+        "description": "Identify samples containing the last-stage tetrads, from which are easy to separate into microspores and do not adhere to the glass tools."
+    },
+    {
+        "name": "Isolation Buffer 0",
+        "description": "If micro-manipulating F1 tetrads, Isolation Buffer should be 27% D-sorbitol solution to balance the high pressure; if micro-manipulating tetrads from Inbred lines, much lower concentration \\(i.e."
+    },
+    {
+        "name": "Isolation Buffer 1",
+        "description": "Do not use normal saline \\(NS) as Isolation Buffer, because metal ions may interfere with the amplification reaction later."
+    },
+    {
+        "name": "single microspores 3",
+        "description": "From step 2) to step 5), cells should be kept in the Isolation Buffer."
+    },
+    {
+        "name": "single microspores 4",
+        "description": "3) Isolate a single tetrad into a new drop of Isolation Buffer using a thin glass pipette."
+    },
+    {
+        "name": "single microspores 5",
+        "description": "Note 3_: Use a thin glass pipette system and Programmable Microinjector PM 2000 \\(MDI, South Plainfield, USA) to isolate single tetrads \\(step 3)) and single microspores \\(step 5)), and to destroy the cell wall \\(step 4)), under 4\u00d7microscopy."
+    },
+    {
+        "name": "single microspores 6",
+        "description": "4) Repeated aspiration in and out was used to destroy the cell walls and disrupt the tetrads."
+    },
+    {
+        "name": "single microspores 7",
+        "description": "Then, four microspores can be separated without cell wall."
+    },
+    {
+        "name": "single microspores 8",
+        "description": "5) One by one, place cells in less than 0.5\u03bcl Isolation Buffer into PCR wells filled with 4\u03bcl PBS \\(QIAGEN, Hilden, Germany)."
+    },
+    {
+        "name": "PCR wells 0",
+        "description": "The PCR wells should be kept on ice."
+    },
+    {
+        "name": "single microspores 9",
+        "description": "Note 4_: When aspirating a microspore in the glass pipette, make sure it is still visible under the microscope."
+    },
+    {
+        "name": "single microspores 10",
+        "description": "After blowing it to a PCR well, the cell should not be seen in the pipette any more, to ensure that the cell is now in the PCR well for the next reaction."
+    },
+    {
+        "name": "single microspores 11",
+        "description": "**Lysis of cells**"
+    },
+    {
+        "name": "lysis Buffer (DLB) 0",
+        "description": "Add 3\u03bcl lysis Buffer \\(DLB :"
+    },
+    {
+        "name": "PCR wells 1",
+        "description": "Centrifuge briefly, then, incubate it at 65\u2103 for 10 min. Finally, Add 3\u03bcl Stop Buffer, centrifuge briefly, and keep the PCR well on ice."
+    },
+    {
+        "name": "PCR wells 2",
+        "description": "Tips should not touch the surface of the sample inside PCR well when adding reagents."
+    },
+    {
+        "name": "PCR wells 3",
+        "description": "Do not shake the PCR well for mixing, to avoid losing the single cell sample and reducing the integrity of the DNA."
+    },
+    {
+        "name": "single microspores 12",
+        "description": "**MDA Amplification of single cell DNA**"
+    },
+    {
+        "name": "mixture 0",
+        "description": "7) Prepare the following mixture: 29\u03bcl Reaction Buffer, 9\u03bcl sc d2H2O and 2\u03bcl reaction enzyme per one reaction."
+    },
+    {
+        "name": "PCR wells 4",
+        "description": "Add the mixture to PCR well containing 10\u03bcl sample."
+    },
+    {
+        "name": "PCR wells 5",
+        "description": "Centrifuge briefly and incubate at 30\u2103 for 8 h. Finally, incubate at 65\u2103 for 3min."
+    },
+    {
+        "name": "PCR wells 6",
+        "description": "Store it at -20\u2103 if not proceeding  to the next step immediately."
+    },
+    {
+        "name": "PCR wells 7",
+        "description": "Note 7_: Similar to note 5, tips can\u2019t touch the surface of the sample inside PCR well when adding reagents."
+    },
+    {
+        "name": "PCR wells 8",
+        "description": "Do not shake the PCR well for mixing."
+    },
+    {
+        "name": "PCR wells 3 1",
+        "description": "These precautions avoid reducing the Integrity of DNA."
+    },
+    {
+        "name": "Quality control 0",
+        "description": "**Quality control of whole-genome amplification products**:"
+    },
+    {
+        "name": "amplification product 0",
+        "description": "8) Dilute the amplification product 1:50."
+    },
+    {
+        "name": "amplified DNA 0",
+        "description": "Use the 10 markers \\(Table 1) to amplify the diluted DNA by PCR."
+    },
+    {
+        "name": "diluted DNA 0",
+        "description": "The PCR mixture contains 1ul diluted DNA, 1ul forward primer \\(5mM), 1\u03bcl reverse primer \\(5mM), 1.5\u03bcl 10\u00d7PCR Buffer \\(Takara), 0.3\u03bcl dNTP \\(10mM), 0.15\u03bcl rTaq \\(Katara), 10.05\u03bcl d2H2O. Perform PCR with the following cycling parameters:"
+    },
+    {
+        "name": "unknown 0",
+        "description": "**Measuring DNA concentration of amplification product**"
+    },
+    {
+        "name": "diluted amplification product 0",
+        "description": "9) Add 4\u03bcl amplification product into 100\u03bcl d2H2O. Measure the DNA concentration by Nanodrop 2000."
+    },
+    {
+        "name": "diluted DNA 1",
+        "description": "10) Dilute DNA to 1.2\u03bcg in 60\u03bcl."
+    },
+    {
+        "name": "amplification product 1",
+        "description": "Then fragment it by sonication \\(Bioruptor UCD-200, Seraing, Belgium) at ~5\u2103for a few cycles \\(30s sonication and 30s rest per one cycle), so that most of the DNA fragments range from 300bp to 500bp."
+    },
+    {
+        "name": "DNA fragmented 0",
+        "description": "11) End repair: Add 40\u03bcl End Repair Mix and 10\u03bcl Resuspension Buffer to 50\u03bcl of DNA fragmented."
+    },
+    {
+        "name": "PCR wells 3 1 1",
+        "description": "After mix thoroughly, incubate it at 30\u2103 for 30min."
+    },
+    {
+        "name": "Beads 0",
+        "description": "A 63881): Keep the Beads at room temperature \\(RT) and vortex briefly."
+    },
+    {
+        "name": "end repaired sample 0",
+        "description": "Add 160\u03bcl Beads to 100\u03bcl of the end repaired sample."
+    },
+    {
+        "name": "end repaired sample 1",
+        "description": "Mix thoroughly, then incubate at RT for 15min."
+    },
+    {
+        "name": "end repaired sample 2",
+        "description": "Place this sample on a magnetic stand at RT for 15min."
+    },
+    {
+        "name": "supernatant 0",
+        "description": "Aspirate and discard the supernatant using a 200\u03bcl pipette."
+    },
+    {
+        "name": "supernatant 1",
+        "description": "Add 200\u03bcl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant."
+    },
+    {
+        "name": "supernatant 2",
+        "description": "Add 200\u03bcl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant."
+    },
+    {
+        "name": "supernatant 3",
+        "description": "Let the sample dry at RT for ~5-10min."
+    },
+    {
+        "name": "Beads 1",
+        "description": "Remove the sample containing Beads from the magnetic stand, then add 17.5\u03bcl Resuspension Buffer to the Beads."
+    },
+    {
+        "name": "end repaired sample 3",
+        "description": "Mix thoroughly and incubate at RT for 2min."
+    },
+    {
+        "name": "end repaired sample 4",
+        "description": "Place the sample again on the magnetic stand at RT for 5min."
+    },
+    {
+        "name": "supernatant 4",
+        "description": "Finally, transfer 15\u03bcl of the supernatant into a new PCR well for the next step."
+    },
+    {
+        "name": "end repaired sample 4 1",
+        "description": "Add 2.5\u03bcl Resuspension Buffer and 12.5\u03bcl A Tailing Mix to the PCR well containing 15\u03bcl of sample purified as described above."
+    },
+    {
+        "name": "end repaired sample 4 1 1",
+        "description": "Mix thoroughly, and incubate at 37\u2103 for 30min."
+    },
+    {
+        "name": "end repaired sample 4 1 1 1",
+        "description": "Add 2.5\u03bcl Resuspension Buffer, 2.5\u03bcl Index and 2.5\u03bcl Ligation Mix to the PCR well containing 30\u03bcl of A Tailing sample."
+    },
+    {
+        "name": "end repaired sample 4 1 1 1 1",
+        "description": "Mix thoroughly, and incubate at 30\u2103 for 10min."
+    },
+    {
+        "name": "end repaired sample 4 1 1 1 1 1",
+        "description": "Then add 5\u03bcl Stop Buffer immediately, and mix thoroughly."
+    },
+    {
+        "name": "Beads 2",
+        "description": "Place the Beads at room temperature \\(RT) and vortex."
+    },
+    {
+        "name": "end repaired sample 4 1 1 1 1 1 1",
+        "description": "Add 42.5\u03bcl Beads to 42.5\u03bcl of the Ligation sample."
+    },
+    {
+        "name": "end repaired sample 4 1 1 1 1 1 2",
+        "description": "Mix thoroughly, then incubate at RT for 15min."
+    },
+    {
+        "name": "end repaired sample 12",
+        "description": "Place the sample on a magnetic stand at RT for 5min."
+    },
+    {
+        "name": "supernatant 5",
+        "description": "Remove and discard the supernatant using a 200\u03bcl pipette."
+    },
+    {
+        "name": "supernatant 6",
+        "description": "Add 200\u03bcl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant."
+    },
+    {
+        "name": "supernatant 7",
+        "description": "Add 200\u03bcl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant."
+    },
+    {
+        "name": "end repaired sample 4 1 1 1 1 1 2 1",
+        "description": "Let the sample dry at RT for ~5-10min."
+    },
+    {
+        "name": "Beads 3",
+        "description": "Keep this sample containing Beads away from the magnetic stand, then add 22.5\u03bcl Resuspension Buffer."
+    },
+    {
+        "name": "end repaired sample 4 1 1 1 1 1 1 1",
+        "description": "Mix thoroughly and incubate at RT for 2min."
+    },
+    {
+        "name": "end repaired sample 15",
+        "description": "Place the sample on the magnetic stand at RT for 5min."
+    },
+    {
+        "name": "supernatant 8",
+        "description": "Finally, transfer 20\u03bcl of the supernatant into a new PCR well for the next step."
+    },
+    {
+        "name": "end repaired sample 16",
+        "description": "16) Size selection by MinElute Gel Extraction Kit \\(QIAGEN, Hilden, Germany, cat."
+    },
+    {
+        "name": "gel segment 0",
+        "description": "no. 28604): After 2% Agarose gel electrophoresis, excise gel segment containing the main target band, which should be limited in size range of 100bp."
+    },
+    {
+        "name": "2ml tube containing 300mg gel 0",
+        "description": "Add 900\u03bcl QG Buffer to 2ml tube containing 300mg gel."
+    },
+    {
+        "name": "2ml tube containing 300mg gel 1",
+        "description": "Incubate it at RT until gel melts completely."
+    },
+    {
+        "name": "end repaired sample 17",
+        "description": "Add 300\u03bcl isopropanol, and mix thoroughly."
+    },
+    {
+        "name": "MinElute column 0",
+        "description": "Place a MinElute column in a new 2ml collection tube."
+    },
+    {
+        "name": "MinElute column 1",
+        "description": "Transfer 750\u03bcl of the melted sample in the MinElute column, centrifuge for 1min at 13000 rpm and discard the flow-through."
+    },
+    {
+        "name": "end repaired sample 18",
+        "description": "Repeatedly transfer another 750\u03bcl and centrifuge."
+    },
+    {
+        "name": "QG Buffer 0",
+        "description": "Add 500\u03bcl QG Buffer to the column, centrifuge for 1min and discard flow-through."
+    },
+    {
+        "name": "MinElute column 2",
+        "description": "Add 750\u03bcl PE Buffer to the column, stand for 5min, then centrifuge for 1min and discard flow-through."
+    },
+    {
+        "name": "residual ethanol 0",
+        "description": "Centrifuge for 1min one more time to remove residual ethanol completely."
+    },
+    {
+        "name": "MinElute column 3",
+        "description": "Place the column into a clean 1.5ml tube."
+    },
+    {
+        "name": "MinElute column 4",
+        "description": "Let it dry at RT for 5min."
+    },
+    {
+        "name": "MinElute column 5",
+        "description": "Add 23\u03bcl EB Buffer onto the center of column membrane, incubate it at RT for 3min, then centrifuge it for 1 min."
+    },
+    {
+        "name": "flow-through 0",
+        "description": "The flow-through is collected and added onto the center of the same column membrane, incubate it at RT for 3min, then centrifuge for 1 min."
+    },
+    {
+        "name": "flow-through 1",
+        "description": "Now the flow-thorough is the sample purified for PCR reaction."
+    },
+    {
+        "name": "flow-through 1 1",
+        "description": "17) PCR amplification of library:"
+    },
+    {
+        "name": "flow-through 1 2",
+        "description": "Add 5\u03bcl Primer and 25\u03bcl PCR Mix to 20\u03bcl of the Purified sample above."
+    },
+    {
+        "name": "PCR product 0",
+        "description": "Mix thoroughly, and perform PCR with the following cycling parameters:"
+    },
+    {
+        "name": "A 63881 0",
+        "description": "A 63881): Keep the Beads at room temperature \\(RT) and vortex."
+    },
+    {
+        "name": "PCR product 1",
+        "description": "Add 50\u03bcl Beads to 50\u03bcl of the PCR sample."
+    },
+    {
+        "name": "PCR product 2",
+        "description": "Mix thoroughly, then incubate it at RT for 15min."
+    },
+    {
+        "name": "PCR product 1 1",
+        "description": "Place this PCR sample on a magnetic stand at RT for 5min."
+    },
+    {
+        "name": "supernatant 9",
+        "description": "Remove and discard the supernatant using a 200\u03bcl pipette."
+    },
+    {
+        "name": "supernatant 10",
+        "description": "Add 200\u03bcl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant."
+    },
+    {
+        "name": "supernatant 11",
+        "description": "Add 200\u03bcl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant."
+    },
+    {
+        "name": "supernatant 11 1",
+        "description": "Let the sample dry at RT for ~5-10min."
+    },
+    {
+        "name": "A 63881 1",
+        "description": "Place the sample with the Beads away from the magnetic stand, then add 22.5\u03bcl Resuspension Buffer to the Beads."
+    },
+    {
+        "name": "PCR product 4",
+        "description": "Mix thoroughly and incubate at RT for 2min."
+    },
+    {
+        "name": "PCR product 1 2",
+        "description": "Place the sample on the magnetic stand at RT for 5min again."
+    },
+    {
+        "name": "supernatant 13",
+        "description": "Finally, transfer 20\u03bcl of the supernatant into a new PCR well; it is the library."
+    },
+    {
+        "name": "supernatant 13 1",
+        "description": "Store it at -20\u2103, up to two months."
+    },
+    {
+        "name": "supernatant 13 2",
+        "description": "Go on to qualify and quantify it for pair-end sequencing on Illumina Hiseq 2000 platform."
+    }
+]

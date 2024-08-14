@@ -1,0 +1,50 @@
+[
+    {
+        "title": "1)",
+        "body": "Prepare poly-D-lysinated coverslips \\(poly D lysine 50μg/ml)"
+    },
+    {
+        "title": "2)",
+        "body": "Plate 15-20 x 10<sup>3</sup> cells on coverslips 1 day before the staining"
+    },
+    {
+        "title": "3)",
+        "body": "Wash cells gently 2x5’in PBS1x"
+    },
+    {
+        "title": "4)",
+        "body": "Fix and permeabilize cells for 2’ with methanol/aceton 1:1 at RT"
+    },
+    {
+        "title": "5)",
+        "body": "Block cells for 30’ with PBG1x"
+    },
+    {
+        "title": "6)",
+        "body": "Stain with primary antibodies diluted in PBG1x at indicated concentration for 1h at RT in a humidified chamber"
+    },
+    {
+        "title": "7)",
+        "body": "Wash cells gently 3x5’in PBG1x"
+    },
+    {
+        "title": "8)",
+        "body": "Stain with secondary antibodies diluted in PBG1x for 1h at RT in a dark humidified chamber"
+    },
+    {
+        "title": "9)",
+        "body": "Wash cells gently 2x5’ in PBG1x and 2x5’in PBS1x"
+    },
+    {
+        "title": "10)",
+        "body": "Stain with Dapi for 5’ in the dark"
+    },
+    {
+        "title": "11)",
+        "body": "Mount coverslips with 3μl of Mowiol mounting medium"
+    },
+    {
+        "title": "12)",
+        "body": "Let the coverslips dry before microscope analysis"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "title": "**1.**",
+        "body": "Create Volocity libraries from raw data files.  Drag raw data file\\(s) into pre-created library\\(s) to import calibrated images."
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Image calibration is typically encoded in the raw data generated with microscopes from most manufacturers \\(e.g., Leica, Zeiss, Nikon, etc).  Do not import z-stacks as “tiff” files because image calibration will be lost.  Volocity can read raw data files from most manufacturers.  If only “tiff” files are available, reassembly of the z-stacks in the proper order and calibration of the image dimensions are required."
+    },
+    {
+        "title": "**2.**",
+        "body": "Select a raw image from the library \\(list of images on the left) and switch to the “Measurements” view within the library by clicking the “Measurements” tab \\(see"
+    },
+    {
+        "title": "**Fig. 2**",
+        "body": ")."
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Do not manipulate images to be analyzed as noise removal or background subtraction will influence the analysis."
+    },
+    {
+        "title": "**3.**",
+        "body": "Under the “Measurements” view, build the analysis algorithm sequence from the list of existing protocols \\(i.e., algorithms;"
+    },
+    {
+        "title": "**Fig. 2a**",
+        "body": ").  Drag the appropriate protocols from the list of protocols and stack them in the specified sequence exactly as shown in"
+    },
+    {
+        "title": "**Fig 2a**",
+        "body": "."
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": "Order of the algorithm sequence must be maintained for proper analysis."
+    },
+    {
+        "title": "**4.**",
+        "body": "In the “Find Objects” protocol, select the appropriate channel for the marker to be analyzed and set the threshold to 3x standard deviations \\(3x SD) \\("
+    },
+    {
+        "title": "**Fig. 2a**",
+        "body": ").  Display the threshold popup window by clicking the cog icon and change “Threshold using” to “SD” and set the “Lower Limit” value to 3 \\("
+    },
+    {
+        "title": "**Fig. 2b**",
+        "body": ")."
+    },
+    {
+        "title": "**5.**",
+        "body": "To execute the analysis, either click “Update Feedback” under the “Measurement” tab of the program \\(next to the “File” tab) or select “Automatically Update Feedback”."
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "If working with large datasets, we recommend updating the feedback/analysis manually to avoid frequent software stall/crashes."
+    },
+    {
+        "title": "**6.**",
+        "body": "The results of the analysis are displayed automatically and found objects are highlighted \\("
+    },
+    {
+        "title": "**Fig. 2b**",
+        "body": ").  Since the last step in the protocol is to “Make ROIs from objects”, the found objects are selected as regions of interest \\(ROIs) automatically \\("
+    },
+    {
+        "title": "**Figs. 2b**",
+        "body": "and"
+    },
+    {
+        "title": "**3a**",
+        "body": ")."
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Do not click outside the ROIs if one of the ROI tools is selected because that will deselect the ROIs and will require repeating Steps 5 & 6."
+    },
+    {
+        "title": "**7.**",
+        "body": "Switch to the “Colocalization” view in the library by clicking the “Colocalization” tab and select the appropriate channels to be analyzed.  Only 2 channels can be selected at any given time."
+    },
+    {
+        "title": "**8.**",
+        "body": "Use the same threshold values as in"
+    },
+    {
+        "title": "**Step 4**",
+        "body": "\\(i.e., 3x SD) to set the minimum intensity value for each channel \\(see"
+    },
+    {
+        "title": "**Fig. 3c**",
+        "body": ")."
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": "Threshold absolute values corresponding to 3xSD can be obtained from"
+    },
+    {
+        "title": "**Step 4**",
+        "body": "\\(see"
+    },
+    {
+        "title": "**Fig. 2b**",
+        "body": ") for the corresponding channels by “mousing” over the lower limit bar in the intensity histogram."
+    },
+    {
+        "title": "**9.**",
+        "body": "Graphical and numerical results of the colocalization analysis are displayed automatically \\("
+    },
+    {
+        "title": "**Fig. 3b-d**",
+        "body": ")."
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "Colocalization results are shown based on thresholded and non-thresholded \\(“Global”) analysis; use the results in the “Thresholded Statistics” field."
+    }
+]

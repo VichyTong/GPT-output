@@ -1,0 +1,42 @@
+[
+    {
+        "title": "**1. Preparation of medium**",
+        "body": "1.1 To prepare 1 L of Steinberg medium, the necessary reagents and respective quantities are outlined in"
+    },
+    {
+        "title": "**Table 1**",
+        "body": ". Stock solutions are added to 938 mL of distilled water.\r\n\n\n1.2 Chemicals must be reagent-grade. The medium is stirred until all the contents are dissolved."
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "The pH of liquid media should be adjusted to 6.9 ± 0.1with either HCl or NaOH at strengths ≤ 1 M after adding distilled water to each stock solution."
+    },
+    {
+        "title": "**2. Preparation of toxicant solution and test dilutions**",
+        "body": "2.1 Test dilutions\r\n\n\nTest dilutions can be prepared in volumetric flasks and then distributed to the replicate test vessels. Test vessels are left at room temperature for 1 hour to allow equilibrium of the medium and toxicant.\r\n\n\n2.2 Selection of test concentrations\r\n\n\nSet the concentration of the test substances using half dilution of the medium and the toxicity test solution. In cases of uncertainty about sample toxicity, it is beneficial to run a range-finding test for choosing concentrations of definitive test. A wide range of concentrations \\(e.g., ≥ an order of magnitude) should assist in selection of the concentrations for the definitive test.\r\n\n\nIn case the test solution is an effluent or liquid material, set the concentration to 0, 6.25, 12.5, 25.0, 50.0, and 100%. The concentration should be selected so that different levels \\(4-5 sections) of growth can occur in the range of less than 10% to over 90%. It is best to choose the range of concentrations through preliminary experiments, which includes broad range of concentrations.\r\n\n\n2.3 Control\r\n\n\nAll experiments require a negative control with the identical culture medium, test conditions and procedures, but exclude the test substance."
+    },
+    {
+        "title": "**3. Transfer of test organisms**",
+        "body": "Sort out fronds of duckweed that are dark green and consist of two or three identical leaves attached; The roots of selected fronds are excised using stainless steel scissors \\("
+    },
+    {
+        "title": "**Fig. 1a,b**",
+        "body": "); Place individual rootless plants in each cell of a 24-well plates by using tweezers \\("
+    },
+    {
+        "title": "**Fig. 1c,d**",
+        "body": ")"
+    },
+    {
+        "title": "**4. Culture**",
+        "body": "As a standard condition, the test organism is cultured at 25℃ with continuous white light of 90-100 μmol·m<sup>-2</sup>·s<sup>-1</sup>. The duration of the _Lemna* root growth inhibition test is 72 hours."
+    },
+    {
+        "title": "**5. Methods of measurements**",
+        "body": "After 72 h of culture, harvest all plants and place them on glass slides and measure the length of the longest roots using an image analyzer"
+    },
+    {
+        "title": "**\\(Fig. 2)**",
+        "body": ". An individual plant generally has 2-3 fronds each with one root."
+    }
+]

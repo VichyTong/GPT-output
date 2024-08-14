@@ -1,0 +1,61 @@
+[
+    "\nThe presented step-to-step protocol is applicable to determine phenolic compounds using nano-LC-MS and the negative ionization mode. The loading conditions were optimized for an injection volume of 5 μL. The analytical conditions can be modified according to the analyst convenience, e.g. using the positive ionization mode and more acidic conditions for the analysis of anthocyanins. \r\n\n\n",
+    {
+        "title": "**Chromatography step**",
+        "body": [
+            "• Mobile phase A: 1% formic acid in water.\r\n\n\n• Mobile phase B: acetonitrile.\r\n\n\n• Pre-column re-equilibration: 2.5 μL/min for 2 min with mobile phase A.\r\n\n\n• Column re-equilibration: 0.3 μL/min for 8.3 min with mobile phase A. \r\n\n\n• Injection volume: 5 μL.\r\n\n\n• Loading conditions: 2.5 μL/min for 2.4 min with mobile phase A \\(see scheme in Figure",
+            {
+                "title": "2).",
+                "body": "• Autosampler temperature: 7 ºC.\r\n\n\n• Flow rate: 0.3 μL/min.\r\n\n\n• Multi-step linear gradient: 0-2 min, from 5% B to 26% B; 2-14.5 min, from 26% B to 31% B; 14.5-21 min, from 31% B to 36% B; 21-23 min, from 36% B to 60% B; 23 to 25 min, from 60% B to 80% B; 25 to 26 min, 80% B; from 26 to 28 min, 80% B to 5% B. Finally, maintain the initial conditions for 12 min."
+            }
+        ]
+    },
+    {
+        "title": "**Mass spectrometry parameters**",
+        "body": "Perform the MS analysis in the negative ionization mode. Mass parameters for phenolic compounds with m/z up to 1000:\r\n\n\n• Nebulizing gas pressure: 0.5 bar.\r\n\n\n• Drying gas temperature: 150 °C. \r\n\n\n• Drying gas flow: 5.0 L/min. \r\n\n\n• Mass range: m/z 50-1000.\r\n\n\n• Capillary voltage: 3.7 KV.\r\n\n\n• End-plate offset: -500 V.\r\n\n\n• Capillary exit: -80 V.\r\n\n\n• Skimmer 1: -50 V.\r\n\n\n• Skimmer 2: -23 V.\r\n\n\n• Hexapole 1: -22 V.\r\n\n\n• Hexapole RF: 70."
+    },
+    {
+        "title": "**Lock-mass calibration**",
+        "body": [
+            "Re-calibrate prior to the compound characterization using the lock-mass calibration option. For this:\r\n\n\n• Calibrant solution: hexakis\\(2,2-difluoroethoxy)phosphazine dissolved at 2 mg/mL in 2-propanol.\r\n\n\n• Apply the calibrant solution to an adsorber material \\(above 50 μL) and place inside a reservoir mounted on top of the spray shield \\(see Figure",
+            {
+                "title": "1).",
+                "body": "• The formic aduct could be used as reference mass \\(theoretical monoisotopic m/z value of 666.0199, \\[C12H18F12N3O6P3 + HCOOH ‒ H]<sup>-</sup>) with an intensity at least of 2,000 counts."
+            }
+        ]
+    },
+    {
+        "title": "**Calibration points for quantification**",
+        "body": [
+            "• Stock solutions of phenolic compounds can be prepared in methanol at 1 mg/mL.\r\n\n\n• Prepare the dilution solvent using HBSS acidified with an aqueous solution of formic acid \\(10%, v/v) in a proportion of 40:2 \\(v/v) \\(pH ≈ 2.4) \\(as samples).\r\n\n\n• Dilute the stock solution: from 5 μg/mL to the limit of detection \\(LOD) using the dilution solvent. The LOD was considered when peaks reach a signal-to-noise ratio, S/N, above",
+            {
+                "title": "3.",
+                "body": [
+                    "In our case, to extract each molecular ion chromatogram and estimate the S/N ratio using DataAnalysis software, the mass window was 100 mDa.\r\n\n\n• Obtain at least five calibration points taking into account the limit of quantification \\(S/N ratio above",
+                    {
+                        "title": "8)",
+                        "body": "and accuracy values."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Samples from Caco-2 assay**",
+        "body": [
+            "In order to perform transport experiments using the Caco-2 model, phenolic compounds were appropriately dissolved in HBSS and added to the donor chamber of the monolayers, while HBSS \\(without the compounds) was added to the receiver chamber. Phenolic compounds were incubated during 0, 30, 60, 90, and 120 min at 37 ºC.",
+            {
+                "title": "1.",
+                "body": "Donor and receiver chambers:\r\n  • For the permeability evaluation, take samples at the initial time and different times of incubation, centrifuge for 15 min at 12,000 rpm and 4 °C, and collect the supernatant.\r\n\n\n• Acidify the supernatant at a proportion of 40:2 \\(v/v) with an aqueous solution of formic acid \\(10%, v/v)."
+            },
+            {
+                "title": "2.",
+                "body": "Caco-2 monolayers:\r\n  • After the transport study, rinse each Caco-2 cell monolayer, collect, and add 1 mL of HBSS. The cells may be lysed by 3 subsequent freezing-thawing cycles, of 10 min per step. Then, centrifuge the samples for 5 min at 1,500 rpm to obtain the supernatant, i.e. cytoplasmatic fraction, and pellet, i.e. solid-particle fraction. Add 500 μL of ethanol to the latter fraction, centrifuge, and collect the supernatant.\r\n\n\n• Precipitate proteins: aliquots of 80 μL of both fractions can be treated with methanol in a proportion of 1:5 \\(v/v), vortex-mixed, kept at -20 °C for 2 h and centrifuged at 12,000 rpm for 15 min at 4 °C. Finally, evaporate the solvent in a vacuum concentrator and redissolve in 40 μL of dilution solvent."
+            }
+        ]
+    },
+    {
+        "title": "**Data processing**",
+        "body": "• Generate the molecular formula of the unknown metabolites using DataAnalysis 4.0 software, which provides a list of possible elemental formulas by using the SmartFormula™ editor and based on a CHNO algorithm. For a generated molecular formula, it shows: the deviation between the measured and theoretical masses \\(error) \\(Da and ppm), the comparison between the theoretical and the measured isotope patterns \\(mSigma value) for increasing the confidence in the suggested molecular formula, as well as the value of rings plus double bonds \\(rdb).\r\n\n\n• For the targeted screening and the determination of the extracted ion chromatograms \\(EIC) peak areas, use TargetAnalysis™ 1.2. The parameters could be: calibration using lock-mass calibration, matching the phenolic compounds with the previously characterized ones while considering retention time \\(error narrow range 0.2 min), accurate m/z \\(error narrow range < 5 ppm) and isotope pattern \\(mSigma threshold 75)."
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "title": "**Reagents preparation**",
+        "body": [
+            "N2B27 Medium :  ~1L   500ml DMEM/F12 medium \r\n\n\n+ 500ml Neurobasal medium, \r\n\n\n   + 20ml  B27 \\(1.94%)\r\n\n\n+ 10ml N2 \\(0.97%)\r\n\n\n+ 1ml β-Mercaptoethanol \\(0.097%)\r\n\n\nsterile filtration 0.22 um, store at 4°C up to 1 month\r\n\n\n\r\n\n\nStemPro-34 Medium : ~0.5L 500ml StemPro-34 medium \r\n\n\n+ 5ml Pen/Strep \\(1:100), \r\n\n\n   + 5ml  Glutamax \\(1:100),\r\n\n\n+ StemPro-34 Supplement\r\n\n\nstore at 4°C up to 1 month\r\n\n\n\r\n\n\nCHIR-99021 \\(4.3μM): Resuspend 10mg of CHIR-99021 in 5ml DMSO. Store at -80°C or -20°C for a year.\r\n\n\nCP21R7 \\(10mM): Resuspend 2mg of CP21R in 630μl DMSO. Store at -80°C or -20°C for a year.\r\n\n\nBMP4 \\(25μg/ml): Resuspend 10ug of BMP4 in 4ml of 5-10mM citric acid pH",
+            {
+                "title": "3.",
+                "body": "Store at -80°C or -20°C for a year.\r\n\n\nVEGF165 \\(100μg/ml): Dissolve 100μg of VEGF165 in 1ml sterile water. Store at -80°C or -20°C for a year.\r\n\n\nForskolin \\(10mM): Dissolve 10mg of forskolin in 2.436ml DMSO. Store at -20°C for a month.\r\n\n\nNote: Because they are sterile, opening and reconstitution of all recombinant proteins and other compounds should be performed under a hood using aseptic technique. \r\n\n\nAll recombinant proteins and compounds resuspended in DMSO should be pre-warmed for a few minutes in a water bath \\(37°C) before adding to the differentiation media. \r\n\n\nRecombinant proteins are highly unstable. Repeated freezing-thawing cycles would result in a rapid decreasing of their biological activity. Once thawed, aliquots can be kept at 4°C for a week.\r\n\n\nFibronectin: Add 1 ml sterile H<sub>2</sub>O to 1mg fibronectin and incubate at RT for 30min without shaking.\r\n\n\nAdd 39 ml PBS \\(w/o Ca and Mg) \\(=25µg/ml)\r\n\n\nAdd 6 ml of this solution in one T75 \\(= 2µg/cm<sup>2</sup>)\r\n\n\nIncubate for one hour at RT. Then wash the flask carefully without scrapping the surface once with sterile water. Coated plates are now ready to use. Plates can also be stored at 4°C if kept in the fibronectin solution."
+            }
+        ]
+    },
+    {
+        "title": "**Differentiation protocol**",
+        "body": "Note: This protocol is routinely used to differentiate different hESCs and IPSCs lines. However, some lines may require minor changes such as seeding density and GSK3β inhibitor concentration. The example below describes the procedure to follow to differentiate cells in one T175 flask \\(Cat#3292, Corning). If performing differentiation in a smaller plate adjust media volume accordingly \\(for instance 3ml of N2B27 in a 12 well)."
+    },
+    {
+        "title": "**Maintenance of hPSCs**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Human pluripotent stem cells are routinely cultured on matrigel in mTeSR1 medium. Cultures are passaged every 3-5 days using Accutase."
+            },
+            {
+                "title": "2.",
+                "body": "An 80% confluent 10cm plate is required to start differentiation in one T175."
+            }
+        ]
+    },
+    {
+        "title": "**Day 0: Plating hPSCs**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Coat one T175 with growth factor reduced matrigel by thawing it on ice and diluting it 1:30."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the plates at RT for 1h. Aspirate the matrigel, wash once with PBS and add 20ml pre-warmed mTeSR1+ ROCK-Inhibitor \\(final conc. 10µM)."
+            },
+            {
+                "title": "3.",
+                "body": "Aspirate growth medium from an 80% confluent 10 cm plate."
+            },
+            {
+                "title": "4.",
+                "body": "Wash with 10ml pre-warmed PBS \\(Ca<sup>2+</sup> and Mg<sup>2+</sup> free)."
+            },
+            {
+                "title": "5.",
+                "body": "Add 3 ml pre-warmed Accutase and incubate 3-7 min at 37°C."
+            },
+            {
+                "title": "6.",
+                "body": "Check cell’s detachment under a microscope."
+            },
+            {
+                "title": "7.",
+                "body": "Add 3ml pre-warmed mTeSR1."
+            },
+            {
+                "title": "8.",
+                "body": "Transfer cells to a 15ml Falcon tube."
+            },
+            {
+                "title": "9.",
+                "body": "Count cells"
+            },
+            {
+                "title": "10.",
+                "body": "Centrifuge the suspension at 1000 rpm \\(210g) for 5min."
+            },
+            {
+                "title": "11.",
+                "body": "Aspirate supernatant and resuspend the cell pellet in 10 ml pre-warmed mTeSR1+ ROCK-Inhibitor \\(final conc. 10µM)."
+            },
+            {
+                "title": "12.",
+                "body": "Seed the cells at 37.000-47.000  hPSCs per cm<sup>2</sup>."
+            },
+            {
+                "title": "13.",
+                "body": "Incubate the cells at 37°C, 5% CO<sub>2</sub> overnight.\r\n  Note: Starting cell density influences the yield of the differentiation and should be optimized for each cell line."
+            }
+        ]
+    },
+    {
+        "title": "**Day 1-3: Lateral mesoderm induction**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Replace media with pre-warmed N2B27 Medium supplemented with 6-8 µM CHIR-99021 or 1 µM CP21 + 25ng/ml hBMP4 \\(125 ml/T175/ 3 ml/12well). For 3 days without medium change\\!"
+            }
+        ]
+    },
+    {
+        "title": "**Day 4 and 5: Endothelial cells induction**",
+        "body": "1.Replace Media with StemPro-34 SFM medium supplemented with 200ng/ml VEGF and 2µM forskolin \\(100ml/T175 or 2 ml/12well). Change medium every day\\!"
+    },
+    {
+        "title": "**Day 6: Endothelial cell sorting and replating**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Sort CD144 positive endothelial cells and replate on fibronectin coated plates."
+            },
+            {
+                "title": "5.",
+                "body": "Magnetic separation \\(MACS) of CD144-positive cells\r\n  \r\n\n\nNote: The following protocol describes the enrichment of CD144 positive endothelial cells using an autoMACSpro. Those cells can also be sorted using a manual MACS or by FACS using the PE-CD144 antibody.\r\n\n\nBefore starting sorting coat the appropriate type and number of plates required with fibronectin. Seed 2x10<sup>6</sup> cells in 20 ml StemPro34 + 50ng/ml VEGF. Expected yield from a T75 flask: 5-6x10<sup>7</sup> cells"
+            },
+            {
+                "title": "1.",
+                "body": "Aspirate medium and wash with pre-warmed PBS \\(Ca<sup>2+</sup> and Mg<sup>2+</sup> free)."
+            },
+            {
+                "title": "2.",
+                "body": "Add 5 ml pre-warmed Accutase."
+            },
+            {
+                "title": "3.",
+                "body": "Incubate for 3-5 min at 37°C."
+            },
+            {
+                "title": "4.",
+                "body": "Dissociate cells by gently pipetting up and down a few times to ensure single cells detachment."
+            },
+            {
+                "title": "5.",
+                "body": "Add 5 ml cold StemPro-34 Medium."
+            },
+            {
+                "title": "6.",
+                "body": "Transfer cells to a 50ml Falcon tube."
+            },
+            {
+                "title": "7.",
+                "body": "Count cells and calculate the volume of CD144 beads and MACS running buffer required for your sample \\(up to 1x10<sup>7</sup> cells in 80μl cold MACS running buffer + 20μl CD144-microbeads, see beads data sheet).  \r\n  Note: If checking for differentiation efficiency by flow cytometer keep 3x 105 cells at this stage and follow instructions in section"
+            },
+            {
+                "title": "6.",
+                "body": "From this point work fast, keep cells cold and use cold solutions\\!"
+            },
+            {
+                "title": "8.",
+                "body": "Centrifuge at 1000 rpm \\(210g) for 5 min."
+            },
+            {
+                "title": "9.",
+                "body": "Aspirate supernatant."
+            },
+            {
+                "title": "10.",
+                "body": "Loosen cell pellet by gently flicking the tube and resuspend it in the appropriate amount of cold MACS-buffer and CD144-microbeads."
+            },
+            {
+                "title": "11.",
+                "body": "Incubate for 20 min at 4°C."
+            },
+            {
+                "title": "12.",
+                "body": "Remove the unbound beads by adding 5ml cold MACS running buffer and centrifuge at 1000 rpm \\(210g) for 5 min."
+            },
+            {
+                "title": "13.",
+                "body": "Aspirate supernatant, loosen cell pellet by gently flicking the tube."
+            },
+            {
+                "title": "14.",
+                "body": "Resuspend the pellet in 0.5 ml MACS running buffer."
+            },
+            {
+                "title": "15.",
+                "body": "Filter the cells by placing a 30μm pre-separation filter \\(Cat#130-041-407, Miltenyi Biotec) on a 15 ml Falcon tube."
+            },
+            {
+                "title": "16.",
+                "body": "Rinse filter with 0.5 ml cold MACS-Buffer to reduce cell loss."
+            },
+            {
+                "title": "17.",
+                "body": "Put the 15ml falcon in the first position of the autoMACSpro tube holder."
+            },
+            {
+                "title": "18.",
+                "body": "Add 2 other falcons in position 2 and 3 for the depleted and eluted cell fractions."
+            },
+            {
+                "title": "19.",
+                "body": "Choose and run program “Posseld2” \\(about 8min/sample)."
+            },
+            {
+                "title": "20.",
+                "body": "After sorting count the eluted cells and centrifuge at 1000 rpm \\(210g), 5 min.\r\n  Note: If checking for sorting efficiency by flow cytometry keep 1x 105 cells at this stage and follow instructions in section"
+            },
+            {
+                "title": "6.",
+                "body": ""
+            },
+            {
+                "title": "21.",
+                "body": "Aspirate supernatant, loosen cell pellet by gently flicking the tube and resuspend cells in pre-warmed StemPro34 + 50ng/ml VEGF."
+            },
+            {
+                "title": "22.",
+                "body": "Seed 2x10<sup>6</sup> cells in 20 ml StemPro34 + 50ng/ml VEGF on fibronectin coated plates or flasks \\(about 26000 cells/cm<sup>2</sup>)."
+            },
+            {
+                "title": "6.",
+                "body": "Differentiation and MACS sorting efficiency \\(optional)\r\n  Note: Differentiation and MACS sorting efficiency can be determined using flow cytometry and the CD144-PE antibody."
+            },
+            {
+                "title": "1.",
+                "body": "For differentiation efficiency keep 1x 105 as isotype control \\(IgG-Ab) \\(= sample 1), 1x 105 cells as unstained control \\(= sample 2), and label 1x 105 cells with CD144-PE antibody \\(sample 3)."
+            },
+            {
+                "title": "2.",
+                "body": "For sorting efficiency label 1x 105 cells of CD144 positive and negative fraction with CD144-PE antibody \\(sample 4 and 5)."
+            },
+            {
+                "title": "3.",
+                "body": "Centrifuge the 5 samples in FACS tubes for 5min at 1’000 rpm \\(210g)."
+            },
+            {
+                "title": "4.",
+                "body": "Resuspend each sample in 90µl cold MACS-Buffer."
+            },
+            {
+                "title": "5.",
+                "body": "Keep sample 2 and add 10µl IgG Isotypic control or CD144-PE antibody in sample 1, 3, 4 and"
+            },
+            {
+                "title": "5.",
+                "body": ""
+            },
+            {
+                "title": "6.",
+                "body": "Incubate for at least 15min at 4 °C."
+            },
+            {
+                "title": "7.",
+                "body": "Add 1ml cold MACS-Buffer and centrifuge 5min at 1’000rpm"
+            },
+            {
+                "title": "8.",
+                "body": "Resuspend all samples in 250µl cold MACS-Buffer"
+            },
+            {
+                "title": "9.",
+                "body": "Samples are ready for flow cytometry analysis."
+            },
+            {
+                "title": "10.",
+                "body": ""
+            },
+            {
+                "title": "7.",
+                "body": "Expansion of CD144-positive cells"
+            },
+            {
+                "title": "1.",
+                "body": "Culture stem cell derived endothelial cells in StemPro34 + 50ng/ml VEGF until they reach confluency \\(usually 3-5 days). Cells can then be cryopreserved for further use \\(1.5x10<sup>6</sup> cell/vial) or expanded for functional assays such as in vitro angiogenesis assay. \r\n  Note: \r\n\n\nFor consistent reproducible results experiments should be conducted always at the same passage. We recommend to use differentiated endothelial cells between passage 3 and 4 and to not use them after passage"
+            },
+            {
+                "title": "5.",
+                "body": "If compared to primary cells such as HUVECs, differentiated endothelial cells can be cultured in other media such as EGM2 medium \\(Cat# CC-3162, Lonza)."
+            }
+        ]
+    }
+]

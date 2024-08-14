@@ -1,0 +1,132 @@
+[
+    {
+        "title": "**1. Single cell preparation**",
+        "body": [
+            ":",
+            {
+                "title": "1)",
+                "body": "Isolate single cells \\(multiple single cell isolation methods are available, for example, the CellRaft system, which was used here) and deposit into 0.2-ml PCR tubes containing 2.5 µl PBS."
+            },
+            {
+                "title": "2)",
+                "body": "Immediately place the tubes on dry ice and store at -80°C."
+            }
+        ]
+    },
+    {
+        "title": "**2. Whole genome amplification**",
+        "body": [
+            ":\r\n\n\nCarry out the following Step",
+            {
+                "title": "1)",
+                "body": "to"
+            },
+            {
+                "title": "4)",
+                "body": "in a PCR workstation."
+            },
+            {
+                "title": "1)",
+                "body": "Add 1 µl exo-resistant random primers and 3 µl lysis buffer containing 400 mM KOH, 100 mM DTT, 10 mM EDTA solution, into the PCR tube containing a single cell."
+            },
+            {
+                "title": "2)",
+                "body": "Flick the mixture several times, spin down quickly and keep it on ice for 10 min."
+            },
+            {
+                "title": "3)",
+                "body": "Add 3 µl stop buffer containing 400 mM HCl and 600 mM Tris-HCl solution \\(1 M, pH7.5) to neutralize the lysis buffer. Keep it on ice for 2 min."
+            },
+            {
+                "title": "4)",
+                "body": "Add 32 µl of master mix containing 30 µl MDA reaction buffer and 2 µl Phi29 polymerase. Mix by pipetting gently."
+            },
+            {
+                "title": "5)",
+                "body": "Incubate at 30°C for 1.5 hr and 65°C for 3 min."
+            }
+        ]
+    },
+    {
+        "title": "**3. Amplified product purification**",
+        "body": [
+            ":",
+            {
+                "title": "1)",
+                "body": "Purify amplified product with 75.6 µl AMPureXP-beads and mix it by pipetting."
+            },
+            {
+                "title": "2)",
+                "body": "Leave the mixture at room temperature for 5 min and put it on a magnetic separator until the solution is clear."
+            },
+            {
+                "title": "3)",
+                "body": "Remove the clear liquid by pipetting and wash beads twice with fresh 80% ethanol."
+            },
+            {
+                "title": "4)",
+                "body": "Open lid of the tube to air-dry beads for about 5 min. \\(Avoid beads cracking)"
+            },
+            {
+                "title": "5)",
+                "body": "Take out the tube from magnetic separator and elute beads using 32 µl nuclease-free water."
+            },
+            {
+                "title": "6)",
+                "body": "Put back the tube to magnetic separator and keep it at room temperature for 5 min until the solution is clear and a pellet is formed again."
+            },
+            {
+                "title": "7)",
+                "body": "Transfer 30 µl clear liquid from the tube to a clean tube."
+            },
+            {
+                "title": "8)",
+                "body": "Store the purified product at 4°C for short-term storage or -20°C for long-term storage."
+            }
+        ]
+    },
+    {
+        "title": "**4. Concentration and size measurement**",
+        "body": [
+            ":",
+            {
+                "title": "1)",
+                "body": "Dilute the purified product 10-20 times and quantify the samples using Qubit. Usually, the yield of the purified product is 10-12 µg."
+            },
+            {
+                "title": "2)",
+                "body": "Check the product size by agarose gel electrophoresis. The following conditions are recommended: 1.0% agarose gel; 1.0% TBE solution; 100V for 40 min. A bright band \\(with a little smear) over 10 kb in a gel picture is desirable."
+            }
+        ]
+    },
+    {
+        "title": "**5. Estimation of amplification uniformity**",
+        "body": [
+            ":",
+            {
+                "title": "1)",
+                "body": "Dilute the purified product and unamplified genomic DNA as a control to 1 ng/µl using nuclease-free water."
+            },
+            {
+                "title": "2)",
+                "body": "Prepare 96-well plate and the PCR mixture for each well including 5 µl Fast Sybr green master mix, 1 µl locus-specific primers, 2 µl nuclease-free water and 2 µl diluted DNA."
+            },
+            {
+                "title": "3)",
+                "body": "Seal the plate and spin down."
+            },
+            {
+                "title": "4)",
+                "body": "Incubate under the following qPCR program: 95°C for 20s, thermocycling \\(40 cycles) at 95°C for 3 s, and 60°C for 30 s."
+            },
+            {
+                "title": "5)",
+                "body": "Calculate the relative uniformity values \\(RUVs) for 8 loci \\(equation \\(1) in Supplementary Notes, Dong et al., Nature Methods in press)."
+            },
+            {
+                "title": "6)",
+                "body": "Select the samples with RUV values for at least 6 of the 8 loci of between 0.25-4 for library construction."
+            }
+        ]
+    }
+]

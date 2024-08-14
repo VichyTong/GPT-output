@@ -1,0 +1,259 @@
+[
+    "\nInstall PANOGA",
+    {
+        "title": "1)",
+        "body": "Set up necessary environment to run PANOGA \\(as detailed in EQUIPMENT SETUP)."
+    },
+    {
+        "title": "2)",
+        "body": "Download the PANOGA files at http://akademik.bahcesehir.edu.tr/~bbgungor/panoga_protocol.zip. Unzip the downloaded PANOGA_protocol.zip file and extract it. The executable jar files of PANOGA are found at: PANOGA_protocol/. \r\n\n\n\r\n\n\nPreprocess GWAS data"
+    },
+    {
+        "title": "3)",
+        "body": "Pick a disease name for your project, which can be any disease name \\(e.g., diabetes), not necessarily a standard OMIM disease name. In the following steps of PANOGA procedure,  we will refer to this disease name as $DISEASE_NAME.\r\n\n\nCRITICAL STEP Do not use space in the $DISEASE_NAME since it will corrupt the further steps of PANOGA procedure."
+    },
+    {
+        "title": "4)",
+        "body": "Create a folder with your disease name under PANOGA_protocol/data/ and under PANOGA_protocol/out/ via typing the following commands:\r\n\n\n>cd PANOGA_protocol/data\r\n\n\n>mkdir $DISEASE_NAME\r\n\n\n>cd ../out\r\n\n\n>mkdir $DISEASE_NAME\r\n\n\n>cd ..\r\n\n\nReplace $DISEASE_NAME above with the disease name that you specified in Step 3."
+    },
+    {
+        "title": "5)",
+        "body": "Format GWAS results input file following the instructions in \"Figure 2\":http://www.nature.com/protocolexchange/system/uploads/2149/original/PANOGA_NatProtExch_Figure2.doc?1338222756 , and save this file under PANOGA_protocol/data/$DISEASE_NAME/ using any input file name. e.g., PANOGA_protocol/data/diabetes/diabetes_panoga_input.txt or bipolar_gwas_result.xls. sample_panoga_input.txt file is also provided under: PANOGA_protocol/data/sample/."
+    },
+    {
+        "title": "6)",
+        "body": "Run the java script “createpanogainput.jar” to create four separate input files that will be used in SNP to gene assignment and SNP functionalization steps of PANOGA:\r\n\n\n Replace $INPUT_FILE_NAME with your input file name, e.g. \\(diabetes_panoga_input.txt),  $DISEASE_NAME with your disease name and $PVALUE_THRESHOLD with genotypic  p-value threshold that you would like to use to restrict your SNPs based on their  significance for disease. The default $PVALUE_THRESHOLD is 0.05.\r\n\n\n >java -jar createpanogainput.jar $INPUT_FILE_NAME $DISEASE_NAME  $PVALUE_THRESHOLD\r\n\n\n e.g. java -jar createpanogainput.jar sample_panoga_input.txt sample 0.05\r\n\n\n This run generates $DISEASE_NAME_spot_input.txt, $DISEASE_NAME_fsnp_input.txt,\r\n\n\n $DISEASE_NAME_snpnexus_input.txt, $DISEASE_NAME_snpinfo_input.txt files under  PANOGA_protocol/data/$DISEASE_NAME.\r\n\n\n CRITICAL STEP Using an input filename with an extension other than .txt or .xls interferes  this step.\r\n\n\n\r\n\n\nAssign SNPs to Genes"
+    },
+    {
+        "title": "7)",
+        "body": "PANOGA procedure uses SPOT webserver 49 to assign SNPs to genes. Go to the SPOT webserver at: https://spot.cgsmd.isi.edu/submit.php."
+    },
+    {
+        "title": "8)",
+        "body": "Click into “Upload SNP File” button; select  SPOT input file, i.e. $DISEASE_NAME_spot_input.txt."
+    },
+    {
+        "title": "9)",
+        "body": "Change “Maximum SNPs to output:” parameter to 50,000  in SPOT webserver."
+    },
+    {
+        "title": "10)",
+        "body": "If your $PVALUE_THRESHOLD \\(from Step"
+    },
+    {
+        "title": "6)",
+        "body": "is different than 0.05, change it in the “p-value threshold: “ parameter of SPOT webserver."
+    },
+    {
+        "title": "11)",
+        "body": "Under “Linkage Disequilibrium \\(LD) options” select the appropriate HAPMAP sample among the available options in SPOT webserver."
+    },
+    {
+        "title": "12)",
+        "body": "Click into “Run” button and download the result under “Primary Results” section. Save the SPOT output as Tab-delimited file under PANOGA_protocol/data/ $DISEASE_NAME/$DISEASE_NAME_spot_output.txt."
+    },
+    {
+        "title": "13)",
+        "body": [
+            "At this step, the users need to choose one of the following two options: option A to proceed with the full PANOGA procedure, including network oriented stages and functional information of SNPs; option B to proceed with only pathway oriented steps of PANOGA procedure. We highly recommend the users to follow the full PANOGA procedure \\(option A).\r\n\n\n \\(A) Proceed with the full PANOGA procedure\r\n\n\n Continue with Step",
+            {
+                "title": "14.",
+                "body": "\\(B) Proceed with only pathway oriented steps of PANOGA procedure\r\n\n\n \\(i) Run the java script “parsespotoutput.jar” to get a list of gene symbols assigned  into typed SNPs.\r\n\n\n  >java -jar parsespotoutput.jar $DISEASE_NAME \r\n\n\n  This run will create the gene symbol file \\($DISEASE_NAME_partial_panoga_gene_\r\n\n\n  symbols.txt) under PANOGA_procedure/ClueGO/data/ and $DISEASE_NAME_    partial_panoga_gene2snp.txt file under PANOGA_procedure/data/\r\n\n\n  $DISEASE_NAME/.\r\n\n\n  \\(ii)Type the following command to perform functional enrichment of identified gene   symbols:\r\n\n\n  >cd ClueGO\r\n\n\n  Replace $DISEASE_NAME below with the disease name that you specified in Step"
+            },
+            {
+                "title": "3.",
+                "body": ">java -jar ClueGO_v1.4.command-line.jar -props clueGO.props -file1      data\\$DISEASE_NAME_partial_panoga_gene_symbols.txt -analysis-name    $DISEASE_NAME_partial_panoga -out out\r\n\n\n  At the end of this step, enrichment results of the gene symbols are saved under    PANOGA_procedure/ClueGO/out/\r\n\n\n  \\(iii) Run the java script “analyzecluegooutput.jar” to create SNP targeted pathway   lists and gene list for identified SNP targeted pathways.\r\n\n\n  >cd ..\r\n\n\n  >java –jar analyzecluegooutput.jar $DISEASE_NAME\r\n\n\n  At the end of this step pathway based lists and gene list are created as explained   in the “Anticipated Results” section and “PANOGA’s Application to Human Complex   Diseases” subsection of Introduction section.  \r\n\n\n\r\n\n\nInstall Cytoscape and its plugins"
+            }
+        ]
+    },
+    {
+        "title": "14)",
+        "body": [
+            "Install Cytoscape version 2.6.3 by following its installation guide",
+            {
+                "title": "69.",
+                "body": "Follow Cytoscape installation instructions to get the executable file. \r\n\n\n CRITICAL STEP Although Cytoscape has newer versions, jActiveModules and ClueGO  plugins are verified to work in Cytoscape version 2.6.3."
+            }
+        ]
+    },
+    {
+        "title": "15)",
+        "body": "Install jActiveModules and ClueGO version 1.4 plugins of Cytoscape. These plugins should be installed into Cytoscape_v2.6.3/plugins/ using the following options: option A to install jActiveModules plugin; option B to install ClueGO version 1.4 plugin:\r\n\n\n \\(A) Installing jActiveModules plugin \r\n\n\njActiveModules plugin is used to identify active sub-networks. Copy jActiveModules plugin from:\r\n\n\n  PANOGA_protocol/EXTERNAL_TOOLS/jActiveModules.jar\r\n\n\n  and save under Cytoscape_v2.6.3/plugins/.\r\n\n\n      \\(B) Installing ClueGO version 1.4 plugin \r\n\n\n\\(i) ClueGO plugin is used in the functional enrichment step of PANOGA. Copy .cluegoplugin, provided under PANOGA_protocol/ClueGO/ into the home directory of the user.\r\n\n\n\\(ii) Obtain ClueGO licence from its website \\(http://www.ici.upmc.fr/cluego/cluegoLicense.shtml) and save .lf file under home/.cluegoplugin/License/.l/ and .lcf file under home/.cluegoplugin/License/.lc/.\r\n\n\n       CRITICAL STEP Before running PANOGA, ensure that Cytoscape, jActiveModules and        ClueGO plugins are working properly.\r\n\n\n\r\n\n\nObtain Functional Information of SNPs"
+    },
+    {
+        "title": "16)",
+        "body": [
+            "PANOGA procedure utilizes SPOT 49, F-SNP 51, SNPnexus 73 and SNPinfo 50 webservers to functionalize SNPs. SNP functional information through SPOT web-server 49 is already obtained in the previous step while assigning SNPs to genes. Run “runfsnp.jar” to obtain SNP functional information from F-SNP webserver 51:\r\n\n\n Replace $DISEASE_NAME with the disease name that you specified in Step",
+            {
+                "title": "3.",
+                "body": ">java -jar runfsnp.jar $DISEASE_NAME\r\n\n\n This step will save the F-SNP output into PANOGA_procedure/data/$DISEASE_NAME/ $DISEASE_NAME_fsnp_output.txt."
+            }
+        ]
+    },
+    {
+        "title": "17)",
+        "body": "Go to the SNPnexus webserver at: http://www.snp-nexus.org/. Under “Batch Query” option, Browse SNPnexus input file, i.e.  $DISEASE_NAME_snpnexus_input.txt."
+    },
+    {
+        "title": "18)",
+        "body": "Under “Annotation Categories”-> “Regulatory Elements”, select ”Conserved Transcription Factor Binding Sites \\(TFBS)” option and click “Run” button."
+    },
+    {
+        "title": "19)",
+        "body": "Download the result under “Regulatory Elements” section via clicking into TXT icon. Save the SNPnexus output as text file under PANOGA_procedure/data/$DISEASE_NAME/$DISEASE_NAME_snpnexus_output.txt."
+    },
+    {
+        "title": "20)",
+        "body": "Go to the SNPinfo webserver at: http://snpinfo.niehs.nih.gov/snpfunc.htm. Browse and upload SNPinfo input file, i.e.  $DISEASE_NAME_snpinfo_input.txt."
+    },
+    {
+        "title": "21)",
+        "body": "Click “Submit” button and download the results via clicking into “Export To Excel” button under “SNP Function Prediction Results”. Save the SNPInfo output as csv file under PANOGA_procedure/data/$DISEASE_NAME/$DISEASE_NAME_snpinfo_output.csv. \r\n\n\n\r\n\n\nPrepare the Gene Attributes data"
+    },
+    {
+        "title": "22)",
+        "body": [
+            "PANOGA needs the attributes file \\(in .pvals format) to identify the sub-networks \\(using jActive Modules plugin",
+            {
+                "title": "59).",
+                "body": "This file has two weighted P-values \\(SPOT Pw and F-SNP Pw values) for each gene, where the weighted P-value combines the genotypic p-value of a SNP with the functional information of a SNP that is associated with the gene. The following steps of the PANOGA procedure will create an attributes file similar to the provided sample_panoga_spot_fsnp.pvals file at PANOGA_procedure/. Run  “combinespotfsnp.jar” to combine SPOT and F-SNP output files:\r\n\n\n Replace $DISEASE_NAME with the disease name that you specified in Step"
+            },
+            {
+                "title": "3.",
+                "body": ">java -jar combinespotfsnp.jar $DISEASE_NAME"
+            }
+        ]
+    },
+    {
+        "title": "23)",
+        "body": [
+            "Run “incorporatesnpnexus.jar” to incorporate functional information from SNPnexus. Replace $DISEASE_NAME with the disease name that you specified in Step",
+            {
+                "title": "3.",
+                "body": ">java -jar incorporatesnpnexus.jar $DISEASE_NAME \r\n\n\nThis run will create the gene attributes file \\($DISEASE_NAME_spot_fsnp_snpnexus.pvals) under PANOGA_procedure/data/$DISEASE_NAME/.\r\n\n\n\r\n\n\nObtain network data"
+            }
+        ]
+    },
+    {
+        "title": "24)",
+        "body": "Decide which human protein-protein interaction \\(PPI) dataset you would like to use as your initial network—follow option A to use the default human PPI network or option B to use a customized PPI network.\r\n\n\n \\(A) Using the default human PPI network\r\n\n\n  A user can work with the default human PPI network supplied in the PANOGA    installation package. The default human PPI network is available in sif format in:   PANOGA_protocol/data/humanPPI.sif.\r\n\n\n  \\(B) Using another PPI network\r\n\n\n      A user can work with their own human PPI network. Since Cytoscape 68 accepts  networks in many different file formats \\(e.g., .sif, .gml, .xgmml, .xls, SBML,  BioPAX, PSI-MI.), the user has the option to choose the network that they want  to  work with.\r\n\n\n\r\n\n\nLoad network data"
+    },
+    {
+        "title": "25)",
+        "body": "Start Cytoscape via following option A for Windows users, option B for Linux users.\r\n\n\n\\(A) Windows Users\r\n\n\n Run Cytoscape.exe.\r\n\n\n\\(B) Linux Users\r\n\n\n       Run ./cytoscape.sh."
+    },
+    {
+        "title": "26)",
+        "body": "Decide how you would like to load network data into Cytoscape. Cytoscape allows to import networks from a local or remote computer, or from Web Services—follow option A to import a network file from a local computer, option B from a remote computer or option C to use Web Services. We recommend PANOGA users to follow option A to load network data.\r\n\n\n \\(A) Loading the default human PPI network from a local computer\r\n\n\n     \\(i) Assemble your network data into a SIF file, as described in \"Figure 2\":http://www.nature.com/protocolexchange/system/uploads/2149/original/PANOGA_NatProtExch_Figure2.doc?1338222756 \r\n\n\n     \\(ii) Import human PPI network using File->Import->Network commands of Cytoscape.  The user is free to load any human PPI network, as long as the official HUGO gene  symbols are used as node identifiers. A sample human PPI network is also provided  at: PANOGA_procedure/data/humanPPI.sif.\r\n\n\n       \\(B) Loading a PPI network from a remote computer\r\n\n\n Follow the procedure described at: \r\n\n\n http://wiki.cytoscape.org/Cytoscape_User_Manual/#Cytoscape_User_Manual .2BAC8-Creating_Networks.Load_Networks_from_a_Remote_Computer_.28URL_import.29\r\n\n\n      \\(C) Loading a PPI network using Web Services\r\n\n\n Follow the procedure described at: \r\n\n\n http://wiki.cytoscape.org/Cytoscape_User_Manual/ImportingNetworksFromW ebServices\r\n\n\n\r\n\n\nImport gene attributes"
+    },
+    {
+        "title": "27)",
+        "body": [
+            "Assign values \\(two attributes for each identified gene) to nodes \\(genes) using File->Import->Attribute/Expression Matrix commands of Cytoscape and selecting the gene attributes file \\($DISEASE_NAME_spot_fsnp_snpnexus.pvals) that is created in Step",
+            {
+                "title": "23.",
+                "body": "A sample gene attributes file \\(sample_spot_fsnp_snpnexus.pvals) is also provided at PANOGA_procedure/data/sample/.\r\n\n\n\r\n\n\nIdentify sub-networks"
+            }
+        ]
+    },
+    {
+        "title": "28)",
+        "body": "Start jActiveModules plugin from Cytoscape->Plugins->jActiveModules."
+    },
+    {
+        "title": "29)",
+        "body": "Select SPOTPvaluesig and FSScorePvaluesig from Expression Attributes panel."
+    },
+    {
+        "title": "30)",
+        "body": "In the General Parameters panel, set “Number of Modules” parameter as 1000. “Overlap Threshold” parameter defines max percent of overlap between any two identified subnetworks. The default value used in PANOGA_protocol is 0.5."
+    },
+    {
+        "title": "31)",
+        "body": "Click “Find Modules” to identify active sub-networks."
+    },
+    {
+        "title": "32)",
+        "body": [
+            "Save the result as text file into PANOGA_procedure/data/$DISEASE_NAME/$DISEASE_ NAME_jactivemodules_output.txt via clicking into “Save All Results” button on “Results Panel”. Replace $DISEASE_NAME with the disease name that you specified in Step",
+            {
+                "title": "3.",
+                "body": "Parse jActiveModules output"
+            }
+        ]
+    },
+    {
+        "title": "33)",
+        "body": "Create a folder with your disease name under PANOGA_protocol/ClueGO/data/ and under PANOGA_protocol/ClueGO/out/ via typing the following commands:\r\n\n\n >cd ClueGO/data\r\n\n\n >mkdir $DISEASE_NAME\r\n\n\n >cd ../out\r\n\n\n >mkdir $DISEASE_NAME\r\n\n\n >cd ../..\r\n\n\n Replace $DISEASE_NAME above with the disease name that you specified in Step 3."
+    },
+    {
+        "title": "34)",
+        "body": [
+            "Run “parsejactivemodulesoutput.jar” to create individual files containing gene symbols for each identified sub-network:\r\n\n\n Replace $DISEASE_NAME with the disease name that you specified in Step",
+            {
+                "title": "3.",
+                "body": ">java -jar parsejactivemodulesoutput.jar $DISEASE_NAME\r\n\n\n At the end of this step, for the sub-networks with scores higher than 3, individual files  containing gene symbols are saved under PANOGA_procedure/ClueGO/data/ $DISEASE_NAME/ and the number of subnetworks created is printed on the screen.\r\n\n\n\r\n\n\nFunctional enrichment of subnetworks"
+            }
+        ]
+    },
+    {
+        "title": "35)",
+        "body": "Decide which pathway resource you would like to use for the functional enrichment of the identified subnetworks. ClueGO 60 assigns a set of genes into KEGG 61 or BioCarta pathways—follow option A to assign genes into KEGG pathways, option B to assign genes into Biocarta pathways.\r\n\n\n      \\(A) Identifying KEGG pathways\r\n\n\n  Use the clueGO.props file provided under PANOGA_procedure/ClueGO/. In order to   identify KEGG pathways, make sure that under the “Select Ontologies” title    “SelectedOntologySources=KEGG_14.03.2012” in the ClueGO properties file    \\(clueGO.props).\r\n\n\n \\(B) Identifying BioCarta pathways\r\n\n\n   In order to identify BioCarta pathways, under the “Select Ontologies” title change   “SelectedOntologySources = REACTOME_BioCarta_07.04.2011” in the ClueGO   properties file \\(PANOGA_procedure/ClueGO/clueGO.props)."
+    },
+    {
+        "title": "36)",
+        "body": [
+            "At this step, the users need to choose one of the following two options, depending on their operating systems: Windows Users, follow option A; Linux Users, follow option B. For both options, replace $DISEASE_NAME with the disease name that you specified in Step 3, $NUMBER_OF_SUBNETWORKS with the number of subnetworks, as created in Step",
+            {
+                "title": "34.",
+                "body": "Type the following command to perform functional enrichment for each of the identified sub-networks using the clueGO.props file created in Step 35:\r\n\n\n\\(A) Windows Users\r\n\n\n >java –jar functionalenrichment.jar $DISEASE_NAME  $NUMBER_OF_SUBNETWORKS\r\n\n\n\\(B) Linux Users\r\n\n\n >./functionalenrichment.sh $DISEASE_NAME $NUMBER_OF_SUBNETWORKS  \\($OPTIONAL_JAVA_PATH)\r\n\n\n If java is installed as root user, skip $OPTIONAL_JAVA_PATH and run as:\r\n\n\n e.g. ./functionalenrichment.sh diabetes 508\r\n\n\n If java is already installed on a different path, specify $OPTIONAL_JAVA_PATH and  run as:\r\n\n\n e.g. ./functionalenrichment.sh diabetes 508 ../../jre1.7.0_04/bin\r\n\n\n  At the end of this step, enrichment results of each of the identified sub-networks are   saved  under PANOGA_procedure/ClueGO/out/$DISEASE_NAME/ for both options.\r\n\n\n\r\n\n\nCombine functional enrichment results"
+            }
+        ]
+    },
+    {
+        "title": "37)",
+        "body": [
+            "Run the java script “combinesubnetworkpathways.jar” to create SNP targeted pathway lists and gene list for identified SNP targeted pathways. Replace $DISEASE_NAME with the disease name that you specified in Step 3,  $NUMBER_OF_SUBNETWORKS with the number of subnetworks, as created in Step",
+            {
+                "title": "34.",
+                "body": ">java –jar combinesubnetworkpathways.jar $DISEASE_NAME $NUMBER_OF_SUBNETWORKS\r\n\n\nAt the end of this step pathway based lists and gene list are created as explained in the “Anticipated Results” section and “PANOGA’s Application to Human Complex Diseases” subsection of Introduction section.\r\n\n\n\r\n\n\nVisualize SNP targeted genes in a KEGG pathway map"
+            }
+        ]
+    },
+    {
+        "title": "38)",
+        "body": "Create a directory under PANOGA_protocol/out/ to store gene attribute files for each pathway, via typing the following command:\r\n\n\n >cd out/KeggPathwayMapGeneAttributeFiles\r\n\n\n >mkdir $DISEASE_NAME\r\n\n\n >cd ../..\r\n\n\n Replace $DISEASE_NAME above with the disease name that you specified in Step 3."
+    },
+    {
+        "title": "39)",
+        "body": [
+            "Run the java script “createattributesforpathwaymap.jar” to create a gene attributes file for each identified pathway, which will be used in the next step to customize KEGG pathway maps. Each pathway specific file contain identified gene symbols and color specifications depending on the number of SNP targeted genes per base pair. Replace $DISEASE_NAME with the disease name that you specified in Step",
+            {
+                "title": "3.",
+                "body": ">java –jar  createattributesforpathwaymap.jar  $DISEASE_NAME \r\n\n\nAt the end of this step, gene attribute file for each of the identified sub-networks are saved  under PANOGA_protocol/out/KeggPathwayMapGeneAttributeFiles/$DISEASE_NAME"
+            }
+        ]
+    },
+    {
+        "title": "40)",
+        "body": "Color SNP targeted genes for the pathway of interest using the KEGG Mapper – Color Pathway tool available at: http://www.genome.jp/kegg/tool/map_pathway3.html."
+    },
+    {
+        "title": "41)",
+        "body": "Type “hsa” followed by the KEGG Term ID for the pathway of interest to the “Select KEGG pathway map:” field. KEGG Term IDs of the pathways can be obtained from the first column of the $DISEASE_NAME_pathways_subnetwork_genes.csv file under PANOGA_procedure/out/$DISEASE_NAME/."
+    },
+    {
+        "title": "42)",
+        "body": [
+            "Browse gene attribute file created in",
+            {
+                "title": "Step 39",
+                "body": "for the pathway of interest."
+            }
+        ]
+    },
+    {
+        "title": "43)",
+        "body": "Hit “Execute” button.  KEGG Mapper – Color Pathway tool 61 generates a customized pathway map, where the SNP targeted genes are colored based on the number of SNPs per base pair."
+    }
+]

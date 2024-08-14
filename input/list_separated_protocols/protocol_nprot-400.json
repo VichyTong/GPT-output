@@ -1,0 +1,43 @@
+[
+    "\nPurification:",
+    {
+        "title": "1)",
+        "body": "Quick thaw 1 L cell pellet.  Add 2 mM PMSF, 2 Roche PI tablets w/o EDTA.  Sonicate until cells have lysed \\(3x20sec, on ice 20sec in between)."
+    },
+    {
+        "title": "2)",
+        "body": "Add MgCl<sub>2</sub> to 10mM.  Add 20µl Benzenase.  Rock for 60min 4°C until the mixture is really runny.  Save 10µl for running on gel."
+    },
+    {
+        "title": "3)",
+        "body": "Spin:  16K, 15 min, 30 ml tubes.  Save supernatant and pellet.  Save 10µl of each for running on a gel."
+    },
+    {
+        "title": "4)",
+        "body": "Meantime, wash Ni-NTA beads with binding buffer.  Do a 1-2ml column."
+    },
+    {
+        "title": "5)",
+        "body": "Load supernatant on column.  Save flow through.  Save 10µl for gel."
+    },
+    {
+        "title": "6)",
+        "body": "Wash 50ml binding buffer \\(BB) high salt, then 50ml BB medium salt."
+    },
+    {
+        "title": "7)",
+        "body": "Wash 50ml wash buffer \\(20mM Imidazole)."
+    },
+    {
+        "title": "8)",
+        "body": "Elute with 500mM Imidazole buffer."
+    },
+    {
+        "title": "9)",
+        "body": "Dialyze."
+    },
+    {
+        "title": "10)",
+        "body": "Run SDS PAGE.  Measure protein concentration."
+    }
+]

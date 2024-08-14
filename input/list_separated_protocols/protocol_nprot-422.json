@@ -1,0 +1,42 @@
+[
+    {
+        "title": "1.",
+        "body": "Prepare SYBR-Grn I stain by completely thawing an aliquot of stock and diluting 1:20 with clean TE buffer."
+    },
+    {
+        "title": "2.",
+        "body": "Transfer 198 microliters of cells from culturing containers into a manufacturer-approved 96-well microtiter plate in a sterile hood."
+    },
+    {
+        "title": "3.",
+        "body": "Pipette 2 microliters of 1:20 SYBR-Grn I diluted stock into each well of the microtiter plate."
+    },
+    {
+        "title": "4.",
+        "body": "Cover the microtiter plate and let stain for 60 min. in the dark."
+    },
+    {
+        "title": "5.",
+        "body": "Make a worklist for acquiring data on the Guava, as described by the manufacturer."
+    },
+    {
+        "title": "6.",
+        "body": "Start the worklist and load the microtiter plate into the Guava, taking care that the plate is properly located in the tray."
+    },
+    {
+        "title": "7.",
+        "body": "Adjust settings on the green channel to 716 volts with a threshold of 8-10 and gating from just over 10 to just over 100."
+    },
+    {
+        "title": "8.",
+        "body": "Acquire data, consult log, and review the results."
+    },
+    {
+        "title": "9.",
+        "body": "Regate or dilute and recount any wells that were too concentrated, improperly stained, or dirty."
+    },
+    {
+        "title": "10.",
+        "body": "Transfer csv file from run to jump drive and copy to PC."
+    }
+]

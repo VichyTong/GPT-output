@@ -1,0 +1,1744 @@
+[
+    {
+        "**Microscopy Setup**": ""
+    },
+    {
+        "A sketch of the experimental setup can be found in Figure 2.": ""
+    },
+    {
+        "The setup is built around an inverted microscope.": ""
+    },
+    {
+        "A piezo translation stage mounted to the microscope is used for fine-positioning of the trap right before a trapping experiment starts.": {
+            "PLACE": {
+                "slot": {
+                    "object1": "piezo translation stage",
+                    "location": "microscope"
+                },
+                "emit": {
+                    "object0": "piezo translation stage 0"
+                }
+            }
+        }
+    },
+    {
+        "The beam diameter of a CW laser at a wavelength of 808 nm used for the heating of the chrome ring is increased by a beam expander.": ""
+    },
+    {
+        "Afterwards, the widened laser beam is sent through an acousto-optic deflector \\(AOD) and a lens system which allows for the steering of the laser focus in the sample plane on the circumference of the chrome ring.": ""
+    },
+    {
+        "Fluorescence excitation of the labeled fibrils is done with a 445 nm CW laser which is focused to the back-focal plane of the objective to attain a homogeneous illumination of the sample in the trapping region.": ""
+    },
+    {
+        "Both laser beams are merged by a pellicle beam splitter \\(BS).": ""
+    },
+    {
+        "A dichroic mirror \\(D) is selected according to the excitation and the heating laser wavelengths as well as the emission wavelength of the labeled sample.": {
+            "SELECT": {
+                "slot": {
+                    "parameter": "dichroic mirror",
+                    "criteria": "excitation and the heating laser wavelengths as well as the emission wavelength of the labeled sample"
+                },
+                "emit": {
+                    "parameter": "dichroic mirror 0"
+                }
+            }
+        }
+    },
+    {
+        "Reflections of the heating laser in the detection pathway are blocked with a short-pass filter.": {
+            "BLOCK": {
+                "slot": {
+                    "reagent1": "heating laser",
+                    "blockingSolution": "short-pass filter",
+                    "temperature": "room temperature",
+                    "time": "1 hour"
+                },
+                "emit": {
+                    "reagent0": "heating laser 0"
+                }
+            }
+        }
+    },
+    {
+        "Fluorescent light of the sample is imaged to an EMCCD after passing a bandpass filter \\(F) as well as a tube lens.": {
+            "PASS": {
+                "slot": {
+                    "reagent1": "sample",
+                    "device": "tube lens"
+                },
+                "emit": {
+                    "reagent0": "sample 0"
+                }
+            }
+        }
+    },
+    {
+        "The AD/DA converter drives the acousto-optic deflector and the piezo stage.": ""
+    },
+    {
+        "The fluorescence is imaged in real time and the control of the AD/DA converter \\(ADwin) is done with a custom LabVIEW program.": {
+            "CONTROL": {
+                "slot": {
+                    "subject": "AD/DA converter",
+                    "action": "control",
+                    "software": "LabVIEW program"
+                },
+                "emit": {
+                    "result": "The fluorescence is imaged in real time 0"
+                }
+            }
+        }
+    },
+    {
+        "<figure>": "title or number"
+    },
+    {
+        "<center>": "title or number"
+    },
+    {
+        "<img src=\"http://www.nature.com/protocolexchange/system/uploads/7633/original/Experimental_Setup.png?1552666322\" title=\"Figure 2\" height=\"250px\">": ""
+    },
+    {
+        "<figcaption> <font size=\"1\">**Fig.": ""
+    },
+    {
+        "2: Sketch of the experimental setup.**</font> </figcaption>": ""
+    },
+    {
+        "</center>": "title or number"
+    },
+    {
+        "</figure>": "title or number"
+    },
+    {
+        "**UV Lithography**": ""
+    },
+    {
+        "UV lithography is used to provide glass cover slips with the chrome structures.": "error"
+    },
+    {
+        "This chrome structure constitutes the traps for the thermophoretic experiments.": ""
+    },
+    {
+        "As the photoresist used for the UV lithography is highly sensitive to visible light in the lower spectral range and UV light, the procedure has to be executed in a specific photolithography room.": ""
+    },
+    {
+        "Commonly, the ambient illumination in these rooms is realized with yellow fluorescent light tubes containing filters blocking all light components which are below 500 nm.": "error"
+    },
+    {
+        "A photomask for the UV lithography system was produced according to an AutoCAD file with the designed chrome structures as shown in Figure 3.": ""
+    },
+    {
+        "<figure>": "title or number"
+    },
+    {
+        "<center>": "title or number"
+    },
+    {
+        "<img src=\"http://www.nature.com/protocolexchange/system/uploads/7637/original/Trap_Design.png?1552667962\" title=\"Figure 3\" height=\"250px\"></center>": ""
+    },
+    {
+        "<figcaption> <font size=\"1\" line-height:\"2px\">**Fig.": ""
+    },
+    {
+        "3: CAD images of the chrome structure.": ""
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "*": "title or number"
+    },
+    {
+        "The chrome traps are arranged in arrays.": ""
+    },
+    {
+        "On each quadrant of the cover slip arrays of rings can be found with inner diameters of 8 \u03bcm, 10 \u03bcm, 14 \u03bcm, and 20 \u03bcm.": ""
+    },
+    {
+        "They are separated by a cross.": "error"
+    },
+    {
+        "The capital \"L\" in the left top corner indicates the upper side on the cover slip.</font> </figcaption>": ""
+    },
+    {
+        "</figure>": "title or number"
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Thoroughly clean a glass cover slip with acetone and isopropyle.\r\n  ": {
+            "CLEAN": {
+                "slot": {
+                    "object": "glass cover slip",
+                    "cleaningAgent": "acetone and isopropyle"
+                },
+                "emit": {
+                    "object": "glass cover slip 0"
+                }
+            }
+        }
+    },
+    {
+        "2. Dry the clean glass cover slip on the hotplate at 120 \u00b0C for 10 min.\r\n  3.": {
+            "HEAT": {
+                "slot": {
+                    "reagent1": "glass cover slip 0",
+                    "temperature": "120 \u00b0C",
+                    "time": "10 min"
+                },
+                "emit": {
+                    "reagent0": "glass cover slip 1"
+                }
+            }
+        }
+    },
+    {
+        "During the previous step, switch on the UV lithography system and install the photomask.\r\n  ": ""
+    },
+    {
+        "4.": "title or number"
+    },
+    {
+        "Fix the cleaned glass cover slip on the spin coater.\r\n  ": {
+            "ATTACH": {
+                "slot": {
+                    "object1": "glass cover slip 0",
+                    "object2": "spin coater"
+                },
+                "emit": {
+                    "object0": "glass cover slip 2"
+                }
+            }
+        }
+    },
+    {
+        "5.": "title or number"
+    },
+    {
+        "Spin coat 100 \u03bcl of the adhesion promoter on the glass cover slip at 3000 rpm for 30 s using dynamic dispense spin coating technique.": {
+            "DISPENSE": {
+                "slot": {
+                    "reagent1": "adhesion promoter",
+                    "volume": "100 \u03bcl",
+                    "container": "glass cover slip 0"
+                },
+                "emit": {
+                    "reagent0": "adhesion promoter 0"
+                }
+            }
+        }
+    },
+    {
+        "No residual drops or film of the adhesion promoter should be visible after spin coating.\r\n  ": {
+            "REMOVE": {
+                "slot": {
+                    "item": "adhesion promoter",
+                    "method": "spin coating"
+                },
+                "emit": {
+                    "item": "adhesion promoter 1"
+                }
+            }
+        }
+    },
+    {
+        "6.": "title or number"
+    },
+    {
+        "Bake the adhesion promoter immediately after spin coating at 120 \u00b0C on the hotplate for 2 min.\r\n  7.": {
+            "COAT": {
+                "slot": {
+                    "object": "adhesion promoter 0",
+                    "coatingMaterial": "glass cover slip 2",
+                    "time": "2 min"
+                },
+                "emit": {
+                    "object": "adhesion promoter 2"
+                }
+            }
+        }
+    },
+    {
+        "Fix the cover slip on the spin coater.\r\n  ": {
+            "ATTACH": {
+                "slot": {
+                    "object1": "glass cover slip 2",
+                    "object2": "spin coater"
+                },
+                "emit": {
+                    "object0": "glass cover slip 2 1"
+                }
+            }
+        }
+    },
+    {
+        "8.": "title or number"
+    },
+    {
+        "Spin coat 200 \u03bcl of the negative photoresist on the glass cover slip at 3000 rpm for 30 s using dynamic dispense spin coating technique.\r\n  ": {
+            "DISPENSE": {
+                "slot": {
+                    "reagent1": "negative photoresist",
+                    "volume": "200 \u03bcl",
+                    "container": "glass cover slip 2"
+                },
+                "emit": {
+                    "reagent0": "negative photoresist 0"
+                }
+            }
+        }
+    },
+    {
+        "9.": "title or number"
+    },
+    {
+        "Soft-bake the photoresist immediately after spin coating at 110 \u00b0C on the hotplate for 60 s.\r\n  10.": {
+            "HEAT": {
+                "slot": {
+                    "reagent1": "negative photoresist 0",
+                    "temperature": "110 \u00b0C",
+                    "time": "60 s"
+                },
+                "emit": {
+                    "reagent0": "negative photoresist 1"
+                }
+            }
+        }
+    },
+    {
+        "Fix the cover slip to the UV lithography system ": {
+            "ATTACH": {
+                "slot": {
+                    "object1": "glass cover slip",
+                    "object2": "UV lithography system"
+                },
+                "emit": {
+                    "object0": "glass cover slip 4"
+                }
+            }
+        }
+    },
+    {
+        "And align it with the photomask \\(for optimal exposure).\r\n  ": {
+            "PLACE": {
+                "slot": {
+                    "object1": "glass cover slip 4",
+                    "location": "UV lithography system"
+                },
+                "emit": {
+                    "object0": "glass cover slip 5"
+                }
+            }
+        }
+    },
+    {
+        "11.": "title or number"
+    },
+    {
+        "Expose the cover slip to the UV laser \\(66 mJ cm<sup>\u22122</sup>, i-line).\r\n  ": {
+            "EXPOSE": {
+                "slot": {
+                    "object": "glass cover slip 5",
+                    "exposureMethod": "UV laser",
+                    "exposureIntensity": 66
+                },
+                "emit": {
+                    "object": "glass cover slip 6"
+                }
+            }
+        }
+    },
+    {
+        "12.": "title or number"
+    },
+    {
+        "Dismantle the cover slip from the UV lithography system and bake it at 110 \u00b0C for 60 s.\r\n  13.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "glass cover slip 4"
+                },
+                "emit": {
+                    "reagent0": "glass cover slip 7"
+                }
+            }
+        }
+    },
+    {
+        "Develop the photoresist for 60 s. For this purpose, fill a 50 ml baker with the developer and wave the cover slip for exactly 60 s in the baker with a tweezer under the exhaustive hood.\r\n  ": {
+            "FILL": {
+                "slot": {
+                    "reagent1": "developer",
+                    "volume": "50 ml",
+                    "device": "baker"
+                },
+                "emit": {
+                    "reagent0": "developer 0"
+                }
+            }
+        }
+    },
+    {
+        "14.": "title or number"
+    },
+    {
+        "Thoroughly rinse the cover slip with Milli-Q water.": {
+            "RINSE": {
+                "slot": {
+                    "object": "glass cover slip",
+                    "rinseMaterial": "Milli-Q water"
+                },
+                "emit": {
+                    "object": "glass cover slip 8"
+                }
+            }
+        }
+    },
+    {
+        "The future chrome structures should already be visible on the cover slip at this point.\r\n  ": ""
+    },
+    {
+        "15.": "title or number"
+    },
+    {
+        "Thermally evaporate a 30 nm chrome layer on the cover slip.\r\n  ": {
+            "EVAPORATE": {
+                "slot": {
+                    "reagent1": "chrome",
+                    "device": "thermal evaporator"
+                },
+                "emit": {
+                    "reagent0": "glass cover slip 9"
+                }
+            }
+        }
+    },
+    {
+        "16.": "title or number"
+    },
+    {
+        "Strip the resist with the remover in the ultrasonic bath for 30 min.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "negative photoresist 1",
+                    "method": "remover",
+                    "device": "ultrasonic bath"
+                },
+                "emit": {
+                    "reagent0": "negative photoresist 2"
+                }
+            }
+        }
+    },
+    {
+        "The chrome structure remains.\r\n  ": ""
+    },
+    {
+        "17.": "title or number"
+    },
+    {
+        "Thoroughly rinse the cover slip with Milli-Q water ": {
+            "RINSE": {
+                "slot": {
+                    "object": "glass cover slip 8",
+                    "rinseMaterial": "Milli-Q water"
+                },
+                "emit": {
+                    "object": "glass cover slip 10"
+                }
+            }
+        }
+    },
+    {
+        "And dry it with nitrogen.\r\n  ": {
+            "EVAPORATE": {
+                "slot": {
+                    "reagent1": "glass cover slip 10",
+                    "device": "nitrogen"
+                },
+                "emit": {
+                    "reagent0": "glass cover slip 11"
+                }
+            }
+        }
+    },
+    {
+        "**Fibril Preparation**": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "glass cover slip 4",
+                    "reagent2": [
+                        "glass cover slip 5",
+                        "glass cover slip 6",
+                        "glass cover slip 7",
+                        "developer 0",
+                        "glass cover slip 8",
+                        "glass cover slip 9",
+                        "negative photoresist 2",
+                        "glass cover slip 10",
+                        "glass cover slip 11"
+                    ]
+                },
+                "emit": {
+                    "reagent0": "glass cover slip 12"
+                }
+            }
+        }
+    },
+    {
+        "**a) Preparation of buffer solutions**": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "buffer solutions"
+                },
+                "emit": {
+                    "reagent0": "buffer solutions 0"
+                }
+            }
+        }
+    },
+    {
+        "Preparation of phosphate buffer \\(pH 8.8 and pH 9.2):": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "buffer solutions 0"
+                },
+                "emit": {
+                    "reagent0": "buffer solutions 1"
+                }
+            }
+        }
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Dilute a 500 mM Na<sub>2</sub>HPO<sub>4</sub> stock solution with Milli-Q water to a final concentration of 25 mM. \r\n  2.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "500 mM Na2HPO4 stock solution",
+                    "method": "dilution",
+                    "volume": "Milli-Q water"
+                },
+                "emit": {
+                    "reagent0": "25 mM Na2HPO4 solution 0"
+                }
+            }
+        }
+    },
+    {
+        "Add the respective amount of NaCl for salt dependent measurements.\r\n  ": {
+            "REMOVE": {
+                "slot": {
+                    "item": "NaCl"
+                },
+                "emit": {
+                    "reagent0": "NaCl 0"
+                }
+            }
+        }
+    },
+    {
+        "3. Adjust the pH value with NaOH.\r\n  ": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "buffer solutions",
+                    "reagent2": "NaOH"
+                },
+                "emit": {
+                    "reagent0": "buffer solutions 2"
+                }
+            }
+        }
+    },
+    {
+        "4.": "title or number"
+    },
+    {
+        "Store the buffer solution at room temperature.\r\n  ": {
+            "STORE": {
+                "slot": {
+                    "item": "buffer solutions 0",
+                    "temperature": "room temperature"
+                },
+                "emit": {
+                    "reagent0": "buffer solutions 3"
+                }
+            }
+        }
+    },
+    {
+        "Preparation of phosphate buffer \\(pH 7.4):": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "25 mM Na2HPO4 solution 0",
+                    "volume": "500 mM"
+                },
+                "emit": {
+                    "reagent0": "25 mM Na2HPO4 solution 1"
+                }
+            }
+        }
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Mix 500 mM stock solutions of Na<sub>2</sub>HPO<sub>4</sub> and NaH<sub>2</sub>PO<sub>4</sub> at a ratio of 8.1:1.9. \r\n  ": {
+            "MIX": {
+                "slot": {
+                    "reagent1": "500 mM Na2HPO4 solution",
+                    "reagent2": "500 mM NaH2PO4 solution",
+                    "ratio": "8.1:1.9"
+                },
+                "emit": {
+                    "reagent0": "Na2HPO4 and NaH2PO4 mixture 0"
+                }
+            }
+        }
+    },
+    {
+        "2. Dilute the solution with Milli-Q water to a final concentration of 25 mM.\r\n  3.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "500 mM Na2HPO4 stock solution",
+                    "reagent2": "Milli-Q water",
+                    "concentration": "25 mM"
+                },
+                "emit": {
+                    "reagent0": "25 mM Na2HPO4 solution 2"
+                }
+            }
+        }
+    },
+    {
+        "Add the respective amount of NaCl for salt dependent measurements.\r\n  ": {
+            "REMOVE": {
+                "slot": {
+                    "item": "NaCl 0"
+                },
+                "emit": {
+                    "reagent0": "NaCl 1"
+                }
+            }
+        }
+    },
+    {
+        "4. Adjust the pH value with NaOH or H<sub>3</sub>PO<sub>4</sub>, respectively.\r\n  ": {
+            "ADJUST": {
+                "slot": {
+                    "item": "buffer solutions 0",
+                    "parameter": "pH",
+                    "method": "NaOH or H3PO4"
+                },
+                "emit": {
+                    "item": "buffer solutions 4"
+                }
+            }
+        }
+    },
+    {
+        "5.": "title or number"
+    },
+    {
+        "Store the buffer solution at room temperature.\r\n  ": {
+            "STORE": {
+                "slot": {
+                    "item": "buffer solutions 3",
+                    "temperature": "room temperature"
+                },
+                "emit": {
+                    "reagent0": "buffer solutions 5"
+                }
+            }
+        }
+    },
+    {
+        "Preparation of phosphate buffer \\(pH 6.1):": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "25 mM Na2HPO4 solution 0",
+                    "reagent2": [
+                        "NaCl 0",
+                        "buffer solutions 2"
+                    ],
+                    "volume": "Milli-Q water",
+                    "concentration": "25 mM"
+                },
+                "emit": {
+                    "reagent0": "25 mM Na2HPO4 solution 3"
+                }
+            }
+        }
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Mix 500 mM stock solutions of Na<sub>2</sub>HPO<sub>4</sub> and NaH<sub>2</sub>PO<sub>4</sub> at a ratio of 1.5:8.5. \r\n  ": {
+            "MIX": {
+                "slot": {
+                    "reagent1": "500 mM Na2HPO4 stock solution",
+                    "reagent2": [
+                        "500 mM NaH2PO4 stock solution"
+                    ],
+                    "ratio": "1.5:8.5"
+                },
+                "emit": {
+                    "reagent0": "Na2HPO4 and NaH2PO4 mixture 1"
+                }
+            }
+        }
+    },
+    {
+        "2. Dilute the solution with Milli-Q water to a final concentration of 25 mM.\r\n  3.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "25 mM Na2HPO4 solution 1",
+                    "reagent2": [
+                        "Milli-Q water"
+                    ],
+                    "concentration": "25 mM"
+                },
+                "emit": {
+                    "reagent0": "25 mM Na2HPO4 solution 2 1"
+                }
+            }
+        }
+    },
+    {
+        "Add the respective amount of NaCl for salt dependent measurements.\r\n  ": {
+            "REMOVE": {
+                "slot": {
+                    "item": "NaCl"
+                },
+                "emit": {
+                    "reagent0": "NaCl 2"
+                }
+            }
+        }
+    },
+    {
+        "4. Adjust the pH value with NaOH or H<sub>3</sub>PO<sub>4</sub>, respectively.\r\n  ": {
+            "ADJUST": {
+                "slot": {
+                    "item": "buffer solutions 4",
+                    "parameter": "pH",
+                    "method": "NaOH or H3PO4"
+                },
+                "emit": {
+                    "reagent0": "buffer solutions 6"
+                }
+            }
+        }
+    },
+    {
+        "5.": "title or number"
+    },
+    {
+        "Store the buffer solution at room temperature.\r\n  ": {
+            "STORE": {
+                "slot": {
+                    "item": "buffer solutions 5",
+                    "temperature": "room temperature"
+                },
+                "emit": {
+                    "item": "buffer solutions 7"
+                }
+            }
+        }
+    },
+    {
+        "Preparation of TRIS buffer \\(pH 8.0):": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "TRIS buffer",
+                    "reagent2": [
+                        "25 mM Na2HPO4 solution 2",
+                        "NaCl 1",
+                        "buffer solutions 4"
+                    ],
+                    "temperature": "room temperature"
+                },
+                "emit": {
+                    "reagent0": "TRIS buffer 0"
+                }
+            }
+        }
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Dissolve TRIS in Milli-Q water to a concentration of 50 mM.\r\n  2.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "Milli-Q water",
+                    "reagent2": "TRIS",
+                    "concentration": "50 mM"
+                },
+                "emit": {
+                    "reagent0": "TRIS buffer 1"
+                }
+            }
+        }
+    },
+    {
+        "Add the respective amount of NaCl for a 100 mM concentration in the buffer. \r\n  ": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "buffer solutions",
+                    "reagent2": "NaCl",
+                    "concentration": "100 mM"
+                },
+                "emit": {
+                    "reagent0": "buffer solutions 8"
+                }
+            }
+        }
+    },
+    {
+        "3. Adjust the pH value with HCl.\r\n  4.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "buffer solutions 5",
+                    "reagent2": "HCl"
+                },
+                "emit": {
+                    "reagent0": "buffer solutions 9"
+                }
+            }
+        }
+    },
+    {
+        "Store the buffer solution at room temperature.\r\n  ": {
+            "STORE": {
+                "slot": {
+                    "item": "buffer solutions 7",
+                    "temperature": "room temperature"
+                },
+                "emit": {
+                    "reagent0": "buffer solutions 10"
+                }
+            }
+        }
+    },
+    {
+        "**b) Preparation of fibrils**": ""
+    },
+    {
+        "Preparation of A\u03b2<sub>40</sub> fibrils:": ""
+    },
+    {
+        "1. Dissolve the lyophilized A\u03b2<sub>40</sub> peptide in 25 mM phosphate buffer \\(pH 8.8) containing 150 mM\r\n  NaCl to a concentration of 1 mg ml<sup>\u22121</sup>.": {
+            "DILUTE": {
+                "slot": {
+                    "reagent1": "A\u03b240 peptide",
+                    "reagent2": "25 mM phosphate buffer",
+                    "finalConcentration": "1 mg ml\u22121"
+                },
+                "emit": {
+                    "reagent0": "A\u03b240 peptide 0"
+                }
+            }
+        }
+    },
+    {
+        "2. Incubate the solution at 37 \u00b0C while shaking at 450 rpm for at least 12 h.\r\n  3.": {
+            "SHAKE": {
+                "slot": {
+                    "reagent1": "25 mM Na2HPO4 solution 2 1",
+                    "temperature": "37 \u00b0C",
+                    "time": "12 h",
+                    "rpm": 450
+                },
+                "emit": {
+                    "reagent0": "25 mM Na2HPO4 solution 5"
+                }
+            }
+        }
+    },
+    {
+        "Store the fibril stock solution at 4 \u00b0C.\r\n  ": {
+            "STORE": {
+                "slot": {
+                    "item": "fibril stock solution",
+                    "temperature": "4 \u00b0C"
+                },
+                "emit": {
+                    "item": "fibril stock solution 0"
+                }
+            }
+        }
+    },
+    {
+        "Preparation of A\u03b2<sub>42</sub> fibrils:": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "A\u03b240 peptide 0",
+                    "reagent2": [
+                        "25 mM Na2HPO4 solution 5"
+                    ],
+                    "volume": "1 mg ml\u22121",
+                    "temperature": "37 \u00b0C"
+                },
+                "emit": {
+                    "reagent0": "fibril stock solution 1"
+                }
+            }
+        }
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Dissolve the lyophilized A\u03b2<sub>42</sub> peptide in 25 mM phosphate buffer \\(pH 9.2) containing 150 mM\r\n  NaCl to a concentration of 0.25 mg ml<sup>\u22121</sup>.": {
+            "DILUTE": {
+                "slot": {
+                    "reagent1": "A\u03b242 peptide",
+                    "reagent2": "25 mM phosphate buffer",
+                    "finalConcentration": "0.25 mg ml\u22121"
+                },
+                "emit": {
+                    "reagent0": "A\u03b242 peptide 0"
+                }
+            }
+        }
+    },
+    {
+        "2. Incubate the solution at 37 \u00b0C while shaking at 450 rpm for 4 days.\r\n  ": ""
+    },
+    {
+        "3.": "title or number"
+    },
+    {
+        "Store the fibril stock solution at 4 \u00b0C.\r\n  ": {
+            "STORE": {
+                "slot": {
+                    "item": "fibril stock solution 0",
+                    "temperature": "4 \u00b0C"
+                },
+                "emit": {
+                    "reagent0": "fibril stock solution 2"
+                }
+            }
+        }
+    },
+    {
+        "Preparation of pGlu<sub>3</sub>-A\u03b2<sub>3\u221240</sub> fibrils:": ""
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Dissolve the lyophilized peptide in 50 mM TRIS buffer \\(pH 8.0) containing 100 mM NaCl to a concentration of 0.1 mg ml<sup>\u22121</sup>.\r\n  ": {
+            "DILUTE": {
+                "slot": {
+                    "reagent1": "A\\u03b240 peptide 0",
+                    "reagent2": "TRIS buffer 1",
+                    "finalConcentration": "0.1 mg ml\u22121"
+                },
+                "emit": {
+                    "reagent0": "A\\u03b240 peptide 0"
+                }
+            }
+        }
+    },
+    {
+        "2. Incubate the solution at 37 \u00b0C while shaking at 450 rpm for 4 days. \r\n  ": {
+            "HEAT": {
+                "slot": {
+                    "reagent1": "25 mM Na2HPO4 solution 5",
+                    "temperature": "37 \u00b0C",
+                    "time": "4 days"
+                },
+                "emit": {
+                    "reagent0": "25 mM Na2HPO4 solution 6"
+                }
+            }
+        }
+    },
+    {
+        "3.": "title or number"
+    },
+    {
+        "Store the fibril stock solution at 4 \u00b0C.\r\n  ": {
+            "STORE": {
+                "slot": {
+                    "item": "fibril stock solution 0",
+                    "temperature": "4 \u00b0C"
+                },
+                "emit": {
+                    "reagent0": "fibril stock solution 3"
+                }
+            }
+        }
+    },
+    {
+        "Preparation for salt and pH value dependent measurements:": ""
+    },
+    {
+        "The fibril stock solution was dialyzed against the desired buffer solution using a dialysis tube with molecular weight cut-off \\(MWCO) of 1000.": {
+            "REPLACE": {
+                "slot": {
+                    "item1": "fibril stock solution 0",
+                    "item2": "buffer solutions 10"
+                },
+                "emit": {
+                    "item0": "fibril stock solution 4"
+                }
+            }
+        }
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Pipette 1 ml of the fibril solution into the dialysis tube ": {
+            "TRANSFER": {
+                "slot": {
+                    "source": "fibril stock solution 0",
+                    "destination": "dialysis tube",
+                    "sample": "fibril solution",
+                    "volume": "1 ml"
+                },
+                "emit": {
+                    "reagent0": "fibril solution 0"
+                }
+            }
+        }
+    },
+    {
+        "And seal it with a clamp.\r\n  ": {
+            "SEAL": {
+                "slot": {
+                    "container": "dialysis tube"
+                },
+                "emit": {
+                    "container": "dialysis tube 0"
+                }
+            }
+        }
+    },
+    {
+        "2. Fill 400 ml of the desired buffer into a beaker.\r\n  ": {
+            "TRANSFER": {
+                "slot": {
+                    "source": "desired buffer",
+                    "destination": "beaker",
+                    "sample": "desired buffer",
+                    "volume": "400 ml"
+                },
+                "emit": {
+                    "reagent0": "desired buffer 0"
+                }
+            }
+        }
+    },
+    {
+        "3.": "title or number"
+    },
+    {
+        "On stirring, dialyze the fibril solution against the desired buffer for 2 h.\r\n  4.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "fibril solution 0",
+                    "method": "dialysis",
+                    "device": "dialysis tube 0"
+                },
+                "emit": {
+                    "item": "fibril solution 1"
+                }
+            }
+        }
+    },
+    {
+        "Exchange the desired buffer solution in the beaker with a fresh one ": {
+            "REPLACE": {
+                "slot": {
+                    "item1": "desired buffer 0",
+                    "item2": "fresh desired buffer"
+                },
+                "emit": {
+                    "reagent0": "desired buffer 1"
+                }
+            }
+        }
+    },
+    {
+        "And dialyze again the fibril solution for 2 h.\r\n  5.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "fibril solution 1",
+                    "method": "dialysis",
+                    "duration": "2 h"
+                },
+                "emit": {
+                    "reagent0": "fibril solution 2"
+                }
+            }
+        }
+    },
+    {
+        "Pipette the fibril solution into a microcentrifuge tube ": {
+            "TRANSFER": {
+                "slot": {
+                    "source": "fibril solution 0",
+                    "destination": "microcentrifuge tube",
+                    "sample": "fibril solution"
+                },
+                "emit": {
+                    "reagent0": "fibril solution 3"
+                }
+            }
+        }
+    },
+    {
+        "And store it a 4 \u00b0C.\r\n  ": {
+            "STORE": {
+                "slot": {
+                    "item": "fibril stock solution 3",
+                    "temperature": "4 \u00b0C"
+                },
+                "emit": {
+                    "reagent0": "fibril stock solution 5"
+                }
+            }
+        }
+    },
+    {
+        "**Sample Preparation**": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "fibril solution 0",
+                    "volume": "1 ml",
+                    "container": "dialysis tube 0"
+                },
+                "emit": {
+                    "reagent0": "fibril solution 4"
+                }
+            }
+        }
+    },
+    {
+        "**a) Groundwork**": ""
+    },
+    {
+        "Preparation of a 1 mM ThT stock solution:": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "ThT",
+                    "concentration": "1 mM"
+                },
+                "emit": {
+                    "reagent0": "ThT stock solution 0"
+                }
+            }
+        }
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Weigh the corresponding amount of ThT powder for a 1 mM ThT solution. \r\n  ": {
+            "MEASURE": {
+                "slot": {
+                    "device": "balance",
+                    "parameter": "amount of ThT powder"
+                },
+                "emit": {
+                    "measurement": "1 mM ThT solution 0"
+                }
+            }
+        }
+    },
+    {
+        "2. Mix the ThT powder with water in a black microcentrifuge tube.\r\n  ": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "ThT powder",
+                    "reagent2": [
+                        "water"
+                    ],
+                    "volume": "unknown"
+                },
+                "emit": {
+                    "reagent0": "1 mM ThT solution 1"
+                }
+            }
+        }
+    },
+    {
+        "3. Store the stock solution at 4 \u00b0C.\r\n  ": {
+            "STORE": {
+                "slot": {
+                    "item": "fibril stock solution 5",
+                    "temperature": "4 \u00b0C"
+                },
+                "emit": {
+                    "reagent0": "fibril stock solution 6"
+                }
+            }
+        }
+    },
+    {
+        "Preparation of a 2 % polystyrene solution as hydrophobic layer:": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "polystyrene",
+                    "concentration": "2 %"
+                },
+                "emit": {
+                    "reagent0": "2 % polystyrene solution 0"
+                }
+            }
+        }
+    },
+    {
+        "A closed polystyrene layer is spin-coated on the cover slips to obtain a defined hydrophobic layer for an optimal adsorption of the blocking agent Pluronic F-127.": {
+            "COAT": {
+                "slot": {
+                    "object": "cover slips",
+                    "coatingMaterial": "2 % polystyrene solution"
+                },
+                "emit": {
+                    "object": "cover slips 0"
+                }
+            }
+        }
+    },
+    {
+        "1. Weigh the corresponding amount of polystyrene for a 2 % solution.\r\n  ": {
+            "MEASURE": {
+                "slot": {
+                    "device": "balance",
+                    "reagent": "2 % polystyrene solution",
+                    "parameter": "weight"
+                },
+                "emit": {
+                    "measurement": "corresponding amount 0"
+                }
+            }
+        }
+    },
+    {
+        "2. Dissolve the polystyrene resin with toluene under an exhaustive hood.": {
+            "DILUTE": {
+                "slot": {
+                    "reagent1": "polystyrene resin",
+                    "reagent2": "toluene"
+                },
+                "emit": {
+                    "reagent0": "polystyrene resin 0"
+                }
+            }
+        }
+    },
+    {
+        "Take a storage vial with a toluene resistant cap.\r\n  ": {
+            "COLLECT": {
+                "slot": {
+                    "container": "storage vial",
+                    "condition": "toluene resistant cap"
+                },
+                "emit": {
+                    "collectedItem": "storage vial 0"
+                }
+            }
+        }
+    },
+    {
+        "3. Seal the cap with PARAFILM M for long-time storage at room temperature.\r\n  ": {
+            "SEAL": {
+                "slot": {
+                    "container": "storage vial 0",
+                    "sealingMaterial": "PARAFILM M",
+                    "temperature": "room temperature"
+                },
+                "emit": {
+                    "container": "storage vial 1"
+                }
+            }
+        }
+    },
+    {
+        "Preparation of a 1 % Pluronic F-127 solution as anti-adsorbent:": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "Pluronic F-127",
+                    "concentration": "1 %"
+                },
+                "emit": {
+                    "reagent0": "1 % Pluronic F-127 solution 0"
+                }
+            }
+        }
+    },
+    {
+        "The Pluronic F-127 is always prepared freshly or at least once per week.": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "1 % Pluronic F-127 solution"
+                },
+                "emit": {
+                    "reagent0": "1 % Pluronic F-127 solution 1"
+                }
+            }
+        }
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Mix Pluronic F-127 powder with Milli-Q water in a glass beaker to attain a 1 % Pluronic F-127 solution.\r\n  ": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "Milli-Q water",
+                    "reagent2": [
+                        "Pluronic F-127 powder"
+                    ],
+                    "volume": "to attain a 1 % Pluronic F-127 solution"
+                },
+                "emit": {
+                    "reagent0": "1 % Pluronic F-127 solution 2"
+                }
+            }
+        }
+    },
+    {
+        "2. Cover the beaker with PARAFILM M to protect the solution from pollution.\r\n  ": ""
+    },
+    {
+        "3. Leave the beaker in an ultrasonic bath for 30 min for proper dissolving.\r\n  ": {
+            "DILUTE": {
+                "slot": {
+                    "reagent1": "1 % Pluronic F-127 solution 2"
+                },
+                "emit": {
+                    "reagent0": "1 % Pluronic F-127 solution 3"
+                }
+            }
+        }
+    },
+    {
+        "4. Store the solution at room temperature.\r\n  ": {
+            "STORE": {
+                "slot": {
+                    "item": "2 % polystyrene solution 0",
+                    "temperature": "room temperature"
+                },
+                "emit": {
+                    "reagent0": "2 % polystyrene solution 1"
+                }
+            }
+        }
+    },
+    {
+        "**b) Preparation of measurement sample**": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "1 % Pluronic F-127 solution",
+                    "reagent2": [
+                        "Pluronic F-127 powder",
+                        "Milli-Q water"
+                    ],
+                    "container": "glass beaker",
+                    "device": "ultrasonic bath"
+                },
+                "emit": {
+                    "reagent0": "1 % Pluronic F-127 solution 4"
+                }
+            }
+        }
+    },
+    {
+        "The fibril solution is confined between two cover slips.": ""
+    },
+    {
+        "One of the cover slips is prepared with the chrome structure for trapping.": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "cover slips",
+                    "reagent2": "chrome structure"
+                },
+                "emit": {
+                    "reagent0": "cover slips 1"
+                }
+            }
+        }
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Thoroughly rinse the cover slips with acetone, isopropyle and Milli-Q water.\r\n  ": {
+            "RINSE": {
+                "slot": {
+                    "object": "cover slips 1",
+                    "rinseMaterial": "acetone"
+                },
+                "emit": {
+                    "object": "cover slips 2"
+                }
+            }
+        }
+    },
+    {
+        "2. Dry the clean cover slips with a nitrogen gun.\r\n  ": {
+            "DRY": {
+                "slot": {
+                    "sample": "cover slips",
+                    "device": "nitrogen gun"
+                },
+                "emit": {
+                    "reagent0": "cover slips 3"
+                }
+            }
+        }
+    },
+    {
+        "3.": "title or number"
+    },
+    {
+        "Spin coat 30 \u03bcl of the 2 % polystyrene solution on the cover slips at 8000 rpm using dynamic dispense spin coating technique.": {
+            "DISPENSE": {
+                "slot": {
+                    "reagent1": "2 % polystyrene solution",
+                    "volume": "30 \u03bcl",
+                    "container": "cover slips"
+                },
+                "emit": {
+                    "reagent0": "2 % polystyrene solution 2"
+                }
+            }
+        }
+    },
+    {
+        "The cover slip has to face the polystyrene layer with the chrome structure.\r\n  ": {
+            "PLACE": {
+                "slot": {
+                    "object1": "cover slips",
+                    "location": "polystyrene layer with the chrome structure"
+                },
+                "emit": {
+                    "object0": "cover slips 4"
+                }
+            }
+        }
+    },
+    {
+        "4.": "title or number"
+    },
+    {
+        "Immerse the cover slips in the 1 % Pluronic F-127 solution for 10 min.\r\n  5.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "cover slips 1",
+                    "method": "immerse",
+                    "volume": "1 % Pluronic F-127 solution 1"
+                },
+                "emit": {
+                    "reagent0": "cover slips 5"
+                }
+            }
+        }
+    },
+    {
+        "Briefly dip the cover slips in Milli-Q water ": {
+            "INCUBATE": {
+                "slot": {
+                    "reagent1": "cover slips",
+                    "reagent2": "Milli-Q water"
+                },
+                "emit": {
+                    "reagent0": "cover slips 6"
+                }
+            }
+        }
+    },
+    {
+        "And dry them with nitrogen.": {
+            "EVAPORATE": {
+                "slot": {
+                    "reagent1": "cover slips 2",
+                    "device": "nitrogen"
+                },
+                "emit": {
+                    "reagent0": "cover slips 3 1"
+                }
+            }
+        }
+    },
+    {
+        "Put them aside for the next\r\n  few steps.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "cover slips 6"
+                },
+                "emit": {
+                    "reagent0": "cover slips 8"
+                }
+            }
+        }
+    },
+    {
+        "6. Prepare the fibril working solution by diluting 5 \u03bcl of the fibril stock solution with 100 \u03bcl Milli-Q water containing 0.1 % Pluronic F-127.": {
+            "DILUTE": {
+                "slot": {
+                    "reagent1": "fibril stock solution",
+                    "reagent2": "Milli-Q water containing 0.1 % Pluronic F-127",
+                    "volume": "100 \u03bcl"
+                },
+                "emit": {
+                    "reagent0": "fibril working solution 0"
+                }
+            }
+        }
+    },
+    {
+        "\\(The amount of water is replaced with a corresponding amount of phosphate buffer or NaCl for pH and salt dependent experiments.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "Milli-Q water",
+                    "method": "replaced"
+                },
+                "emit": {
+                    "reagent0": "Milli-Q water 0"
+                }
+            }
+        }
+    },
+    {
+        "0.1 mg of the peptide monomers are added for growth experiments.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "fibril working solution",
+                    "reagent2": "peptide monomers",
+                    "volume": "0.1 mg"
+                },
+                "emit": {
+                    "reagent0": "fibril working solution 1"
+                }
+            }
+        }
+    },
+    {
+        "The working solution commonly is prepared freshly right before a trapping experiment.)\r\n  ": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "fibril stock solution",
+                    "reagent2": [
+                        "Milli-Q water",
+                        "0.1 % Pluronic F-127"
+                    ],
+                    "volume": "100 \\u03bcl"
+                },
+                "emit": {
+                    "reagent0": "fibril working solution 2"
+                }
+            }
+        }
+    },
+    {
+        "7.": "title or number"
+    },
+    {
+        "Add 2 \u03bcl of the 1 mM ThT stock solution to the working solution resulting in a ThT concentration of about 20 \u03bcM.\r\n  8.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "1 mM ThT stock solution"
+                },
+                "emit": {
+                    "reagent0": "1 mM ThT stock solution 0"
+                }
+            }
+        }
+    },
+    {
+        "Store the prepared working solution in darkness \\(e.g.": {
+            "STORE": {
+                "slot": {
+                    "item": "fibril working solution 0",
+                    "condition": "darkness"
+                },
+                "emit": {
+                    "reagent0": "fibril working solution 3"
+                }
+            }
+        }
+    },
+    {
+        "using a black microcentrifuge vial or a film canister) at room temperature.\r\n  ": ""
+    },
+    {
+        "9.": "title or number"
+    },
+    {
+        "Cover the edges of the cover slip \\(from step 5) not containing the chrome structure with a thin PDMS layer for sealing using the cannula \\(cf.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "cover slips 5",
+                    "reagent2": "PDMS"
+                },
+                "emit": {
+                    "reagent0": "cover slips 9"
+                }
+            }
+        }
+    },
+    {
+        "Figure 4).": ""
+    },
+    {
+        "The polystyrene covered side of the cover slip is provided with PDMS here.\r\n  ": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "cover slips 9",
+                    "reagent2": [
+                        "PDMS"
+                    ]
+                },
+                "emit": {
+                    "reagent0": "cover slips 10"
+                }
+            }
+        }
+    },
+    {
+        "10.": "title or number"
+    },
+    {
+        "Pipette 0.35 \u03bcl of the final working solution in the middle of the cover slip containing the PDMS for sealing.": {
+            "DEPOSIT": {
+                "slot": {
+                    "material": "fibril working solution 0",
+                    "substrate": "cover slips 3 1",
+                    "method": "pipette",
+                    "thickness": 0.35
+                },
+                "emit": {
+                    "material0": "fibril working solution 4"
+                }
+            }
+        }
+    },
+    {
+        "\\(The amount of liquid used roughly defines the height of the sample during the experiments.)\r\n  ": ""
+    },
+    {
+        "11.": "title or number"
+    },
+    {
+        "Place the other cover slip containing the chrome structure on top with the chrome structure facing towards the solution.\r\n  ": {
+            "PLACE": {
+                "slot": {
+                    "object1": "cover slips 8",
+                    "location": "on top of the solution"
+                },
+                "emit": {
+                    "object0": "cover slips 11"
+                }
+            }
+        }
+    },
+    {
+        "12.": "title or number"
+    },
+    {
+        "Fix the sample on the microscopy sample holder with the cover slip containing the chrome structure on the top side and start the trapping experiment.\r\n  ": {
+            "ATTACH": {
+                "slot": {
+                    "object1": "sample",
+                    "object2": "microscopy sample holder",
+                    "position": "top side"
+                },
+                "emit": {
+                    "object0": "sample 1"
+                }
+            }
+        }
+    },
+    {
+        "<figure>": "title or number"
+    },
+    {
+        "<center>": "title or number"
+    },
+    {
+        "<img src=\"http://www.nature.com/protocolexchange/system/uploads/7639/original/Sample_Preparation.png?1552668020\" title=\"Figure 4\" height=\"125px\"></center>": ""
+    },
+    {
+        "<figcaption> <font size=\"1\" line-height:\"2px\">**Fig.": ""
+    },
+    {
+        "4: Procedure for setting up the measurement sample.": {
+            "SETUP": {
+                "slot": {
+                    "container": "cover slips 11",
+                    "reagent1": "fibril working solution 4",
+                    "reagent2": [
+                        "Milli-Q water 0",
+                        "fibril working solution 1",
+                        "fibril working solution 2",
+                        "1 mM ThT stock solution 0",
+                        "fibril working solution 3",
+                        "cover slips 9",
+                        "cover slips 10"
+                    ]
+                },
+                "emit": {
+                    "reagent0": "sample 1 1"
+                }
+            }
+        }
+    },
+    {
+        "**": "title or number"
+    },
+    {
+        "The cover slip not containing the chrome structure is provided with PDMS at the edges.": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "cover slips 9",
+                    "reagent2": "PDMS"
+                },
+                "emit": {
+                    "reagent0": "cover slips 12"
+                }
+            }
+        }
+    },
+    {
+        "0.35": "title or number"
+    },
+    {
+        "\u03bcl of the sample solution is pipetted in the middle of the cover slip.": {
+            "PIPETTE": {
+                "slot": {
+                    "volume": "\u03bcl",
+                    "source": "sample solution",
+                    "destination": "cover slip"
+                },
+                "emit": {
+                    "reagent0": "sample solution 0"
+                }
+            }
+        }
+    },
+    {
+        "Finally, the sample is sealed with the cover slip containing the chrome structure resulting in the completed measurement sample.</font> </figcaption>": {
+            "SEAL": {
+                "slot": {
+                    "container": "sample 1",
+                    "sealingMaterial": "cover slips 11"
+                },
+                "emit": {
+                    "container": "sample 4"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "title": "**RNA extraction**",
+        "body": "1 Add 7.5 ml of extraction buffer and 7.5 ml of CI to a 30 ml-round bottom Nalgene tube."
+    },
+    {
+        "title": "**Critical Step**",
+        "body": "2 Grind 1 g frozen mangosteen sample to fine powder with a mortar and pestle in liquid nitrogen.\r\n\n\n3 Transfer 1 g of ground sample to a tube containing the extraction buffer and CI and vortex vigorously. \r\n\n\n4 Centrifuge at 12,857 _g_ for 2 min at room temperature.\r\n\n\n5 Transfer the supernatant to a new 30 ml-round bottom Nalgene tube and purify with an equal volume of PCI. Centrifuge at 12,857 _g_ for 2 min at room temperature. Repeat this step until there is a clean interface observed."
+    },
+    {
+        "title": "**Critical Step**",
+        "body": "6 Transfer the supernatant to a new 30 ml-round bottom Nalgene tube and add one tenth volume of 3 M sodium acetate pH 5.2 and 2.5 volume of cold absolute ethanol, mix well, and incubate at  4 °C for 30 min."
+    },
+    {
+        "title": "**Critical Step**",
+        "body": "7 Recover the nucleic acids by centrifugation at 12,857 _g_ for 20 min at 4 °C.\r\n\n\n8 Wash the pellet with 70% \\(v/v) ethanol, air-dry, and add 200 μl DEPC-treated water to dissolve the pellet.\r\n\n\n9 Transfer the supernatant to a 1.5 ml tube and add 10 M LiCl to a final concentration of 2 M and keep on ice for 1 h. Centrifuge at 18,514 _g_ for 20 min at 4 °C.\r\n\n\n10 Wash the pellet with 70% \\(v/v) ethanol, air-dry, and add 20 μl DEPC-treated water to dissolve the pellet. Centrifuge at 18,514 _g_ for 10 min at 4 °C.\r\n\n\n11 Add 0.1 volume of 3 M sodium acetate pH 5.2 and 2.5 volume of cold absolute ethanol, mix well, and store at -80 °C."
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "RNA can be stored in ethanol at -80 °C for at least 2 months."
+    },
+    {
+        "title": "**Analysis of RNA quality**",
+        "body": [
+            {
+                "title": "12.",
+                "body": "The total RNA was quantified with a spectrophotometer at 230, 260, 280 nm. The integrity of total RNA was verified by analyzing approximately 1 μg RNA sample on 1% \\(w/v) formaldehyde denaturing agarose gel \\(Sambrook _et al._, 1989)."
+            }
+        ]
+    }
+]

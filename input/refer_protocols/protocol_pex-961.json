@@ -1,0 +1,20 @@
+[
+    {
+        "index": 38,
+        "string": "For DNA-PAINT microscopy, vimentin-Halo can be visualized with Cy3B-labelled DNA imager strands, added to the stretching chamber at variable concentrations (2-5 nM), as previously described <sup>24</sup>.",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the method of visualizing vimentin-Halo with Cy3B-labelled DNA imager strands, which was described in a previous source (reference 24)."
+    },
+    {
+        "index": 103,
+        "string": "</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After bead incubation and mounting of the sample as previously described, select a cell and acquire a confocal image followed by a STED image on a sub region of the cell (pixel size has to be inferior to 20 \u00b5m).",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the process of bead incubation and mounting of the sample."
+    },
+    {
+        "index": 130,
+        "string": "Vimentin-Halo was visualized with Cy3B-labelled DNA imager strands, added to the stretching chamber at variable concentrations (2-5 nM), as previously described <sup>24</sup>.</p><p><u>STED on fixed cells with large stretches</u></p><p>Cells are imaged at 25\u00b0C in PBS 1X in the same microscope used for live STED, with the same combination of a WLL2 laser and a 775 nm depletion laser.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the process of adding imager strands to the stretching chamber until reaching the ideal density of blinking events."
+    }
+]

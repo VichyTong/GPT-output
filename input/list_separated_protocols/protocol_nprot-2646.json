@@ -1,0 +1,178 @@
+[
+    {
+        "title": "**\\! CAUTION**",
+        "body": [
+            "For illustration, imaging/monitoring of drug delivery in a rat \\(body weight: 50-60",
+            {
+                "title": "g)",
+                "body": "brain is elaborated. For other imaging applications, the procedure needs to be revised accordingly."
+            }
+        ]
+    },
+    {
+        "title": "**System preparation ● TIMING ~20 min \\(on cold start)**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Switch on the laser; let it warm up for ~15 min to stabilize its output if it is not used beforehand."
+            }
+        ]
+    },
+    {
+        "title": "**\\! CAUTION**",
+        "body": [
+            "You cannot operate data acquisition until 15 minutes after turning this unit. The warm up time may be  different for different laser systems.",
+            {
+                "title": "2|",
+                "body": "Seal the window at the bottom of the water container with new polyethylene membrane. Fill the water container with deionized water, which acts as an ultrasonic coupling medium between the ultrasonic detector and the sample. During the experiments, the ultrasonic detector array is immersed in water."
+            },
+            {
+                "title": "3|",
+                "body": "Connect the transducer array, amplifier box, A/D cards, computer and the power supplies."
+            }
+        ]
+    },
+    {
+        "title": "**Animal handling ● TIMING ~15 min**",
+        "body": [
+            {
+                "title": "4|",
+                "body": "Inject 1 mg kg<sup>−1</sup> of Urethane intra-peritoneally into the rat and wait \\(approximately 5–15 min) until the animal is fully anesthetized."
+            }
+        ]
+    },
+    {
+        "title": "**\\! CAUTION**",
+        "body": "Animal experiments should be conducted according to relevant national and institutional animal-handling guidelines and should be performed by appropri¬ately licensed personnel."
+    },
+    {
+        "title": "**Δ CRITICAL STEP**",
+        "body": "The effective time may depend on the dose of Urethane. The effective time in our experiments is more than 2 hours."
+    },
+    {
+        "title": "**\\! CAUTION**",
+        "body": [
+            "Overdose of anesthetic can cause animal death. Anesthesia should be administered only by licensed and trained personnel.",
+            {
+                "title": "5|",
+                "body": "Remove hair with the hair removal cream on the brain as well as the surrounding area."
+            }
+        ]
+    },
+    {
+        "title": "**\\! CAUTION**",
+        "body": [
+            "Care should be taken to minimize inflammation and wounds due to hair removal, as they may create surface artifacts in the reconstructed images.",
+            {
+                "title": "6|",
+                "body": "Protect the eyes of the mouse with ointment; this will prevent dryness and damage from intense pulsed laser radiation."
+            },
+            {
+                "title": "7|",
+                "body": "Plant a venous catheter into the tail vein of the mouse and retain it with fixation tape. Fill it with 0.9% \\(vol/vol) NaCl solution to prevent blood clotting."
+            },
+            {
+                "title": "8|",
+                "body": "Place the mouse into the animal holder, placeits snout into the breathing mask and fix its position with fixation tape."
+            },
+            {
+                "title": "9|",
+                "body": "Apply a layer of ultrasound gel onto the depilated area. Then apply another layer of ultrasound gel at the bottom of the membrane to seal the window of the water container."
+            }
+        ]
+    },
+    {
+        "title": "**\\! CAUTION**",
+        "body": [
+            "Avoid trapping air bubbles inside the ultrasound gel. If you do get bubbles in, you can use a swab to squeeze out those bubbles from the imaging area.",
+            {
+                "title": "10|",
+                "body": "Insert the animal holder into the imaging chamber with linear stage."
+            }
+        ]
+    },
+    {
+        "title": "**\\! CAUTION**",
+        "body": [
+            "Ensure that the mouse can breathe freely.",
+            {
+                "title": "11|",
+                "body": "Adjust the height of the animal holder to keep the animal head in the center of the ultrasound transducer array."
+            }
+        ]
+    },
+    {
+        "title": "**Δ CRITICAL STEP**",
+        "body": "The animal should be centered on the point of the curved transducer array. The transverse resolution will degrade away from the transducer array center: the closer to the imaging center, the better resolution will be."
+    },
+    {
+        "title": "**Data acquisition ● TIMING Variable**",
+        "body": [
+            {
+                "title": "12|",
+                "body": "Start the data acquisition program and select the correct acquisition parameters: \r\n\n\nRecord data length: for example, 1000 points with 50 MHz sample rate for the record length are sufficient to fit a FOV of 30 mm. \r\n\n\nGain range: Input the correct gain \\(range from 0 to 80 dB). Make sure that the dynamic range of the data acquisition card is fully used by adjusting the input-signal ranges of all channels.\r\n\n\nAveraging number:  choose the number for signal averaging. A higher number of averaging leads to better SNR and overall image quality but longer acquisition time. \r\n\n\nChannel filter: Adjust the channel filtering according to the center frequency and the bandwidth of the ultrasonic detector. \r\n\n\nLaser wavelength: Choose an appropriate wavelength set for the imaging contrast agent."
+            },
+            {
+                "title": "13|",
+                "body": "Start the laser firing."
+            }
+        ]
+    },
+    {
+        "title": "**\\! CAUTION**",
+        "body": "The laser pulse energy should be chosen to fulfill the laser safety standards. Wear the laser safety glasses to protect your eyes when laser is on."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": [
+            {
+                "title": "14|",
+                "body": "Execute the imaging loop shown in Figure 3a."
+            }
+        ]
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": [
+            {
+                "title": "15|",
+                "body": "Stop the laser when acquisition is completed."
+            },
+            {
+                "title": "16|",
+                "body": "Inject contrast medium via catheter into the tail vein of the animal. Some agents, for example, targeted molecular probes require injection several hours to several days before imaging in order to allow appropriate accumulation in the animal body."
+            },
+            {
+                "title": "17|",
+                "body": "Repeat steps 13-15 when contrast agent is ready to be monitored."
+            },
+            {
+                "title": "18|",
+                "body": "Lower down the animal holder, stop the breathing anesthesia system, release the animal and clean the ultrasound gel off the animal body."
+            },
+            {
+                "title": "19|",
+                "body": "If future experiments on the same animal are necessary, house the animal according to the approved animal protocols. Otherwise, euthanize and dispose of the animal by following proper procedures."
+            }
+        ]
+    },
+    {
+        "title": "**Off-line image reconstruction ● TIMING Variable**",
+        "body": [
+            {
+                "title": "20|",
+                "body": "Imaging reconstruction with MATLAB based code. Choose appropriate filters for pre-processing of the raw data, and remove low-frequency bias and high-frequency noise. Reconstruct the photoacoustic images at the chosen wavelength.  On a 200 × 200 grid, the 3-D spatial phase-controlled algorithm was used for image reconstruction. Normalize each reconstruction with the corresponding laser energy."
+            }
+        ]
+    },
+    {
+        "title": "**\\! CAUTION**",
+        "body": [
+            "The reconstruction timing is algorithm dependent.",
+            {
+                "title": "21|",
+                "body": "Amira was used for 3D reconstruction of the photoacoustic image slices. 4-D movies were made by MATLAB based code."
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "title": "**Transformation**",
+        "body": ""
+    },
+    {
+        "title": "**1**",
+        "body": "Inoculate 10 ml of YPAD medium with a single Y190 colony and incubate overnight at 30 ˚C. 55 ml of fresh YPAD are then cultured overnight to an OD<sub>600</sub> of 0.3. Cells are then incubated by shaking at 200 RPM and 30 ˚C until they reach an OD<sub>600</sub> of 0.7."
+    },
+    {
+        "title": "**2**",
+        "body": "Harvest cells at 2000 RPM for 5 min at room temperature."
+    },
+    {
+        "title": "**3**",
+        "body": "Aspirate the media, wash cells in sterile water, and spin at 2000 RPM at 25 ˚C for 5 min."
+    },
+    {
+        "title": "**4**",
+        "body": "Aspirate water and resuspend cells in 1 ml of 0.1 M LiAc and transfer suspension to a fresh microfuge tube. Pellet cells at 6000 RPM for 15 s and aspirate the supernatant. Next, resuspend the pellet in 500 μl of 100 mM LiAc."
+    },
+    {
+        "title": "**5**",
+        "body": "Boil a 1 ml sample of ssDNA \\(2.0 mg/ml) and chill on ice. Mix the yeast cell suspension and transfer 50 μl samples into fresh tubes for the interactions to be tested."
+    },
+    {
+        "title": "**6**",
+        "body": "Pellet cells at 6000 RPM and aspirate supernatant."
+    },
+    {
+        "title": "**7**",
+        "body": "Add the following gently over the cell pellet: 240 μl of PEG 3350 \\(50% w/v), 36 μl of 1.0 M LiAc, 25 μg of ssDNA \\(2.0 mg/ml), and 50 μl sterile water containing plasmid DNA for the interaction screen \\(0.1 – 2.0 μg). Vortex mixture until cell pellet is completely mixed into suspension."
+    },
+    {
+        "title": "**8**",
+        "body": "Incubate the suspension at 30 ˚C for 30 min. Transform the yeast by heat shock at 42 ˚C for 15 min, mix suspension carefully and pellet cells at 6000 RPM for 15 s."
+    },
+    {
+        "title": "**9**",
+        "body": "Finally, resuspend yeast cells in 200 μl of sterile water for plating."
+    },
+    {
+        "title": "**Plating and selection**",
+        "body": ""
+    },
+    {
+        "title": "**10**",
+        "body": "Plate yeast onto SC minus plates \\(-LEU, -TRP) and grow at 30 ˚C for 3 – 5 days."
+    },
+    {
+        "title": "**11**",
+        "body": "Streak single colonies onto SC minus plates \\(-LEU, -HIS, -TRP) supplemented with 50 mM 3AT and 20 μg/ml X-gal."
+    },
+    {
+        "title": "**12**",
+        "body": "Yeast are then grown for 3 – 5 days and scored for growth and color change."
+    }
+]

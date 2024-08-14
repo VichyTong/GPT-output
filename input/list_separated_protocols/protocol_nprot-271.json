@@ -1,0 +1,36 @@
+[
+    {
+        "title": "1.",
+        "body": "Culture the Gram-positive bacterial strains under pyrogen-free condition as described in protocols #4 and #5."
+    },
+    {
+        "title": "2.",
+        "body": "Adjust the bacterial population to 10<sup>6</sup>-10<sup>7</sup> cfu/ml with pyrogen free 3% NaCl \\(isotonic to the horseshoe crab hemolymph)."
+    },
+    {
+        "title": "3.",
+        "body": "Inject the horseshoe crab intracardially with 10<sup>5</sup>-10<sup>6</sup> cfu bacteria /100 gram body, using #23 needle."
+    },
+    {
+        "title": "4.",
+        "body": "At 30 min post injection, collect hemolymph from the horseshoe crab by cardiac puncture using #18 needle."
+    },
+    {
+        "title": "5.",
+        "body": "Immediately after collection, remove the hemocytes by centrifuging the hemolymph at 150 x g for 10 min at room temperature."
+    },
+    {
+        "title": "6.",
+        "body": [
+            "Quantify the remnant bacterial load in the extracellular milieu by applying 100 μl of the cell-free hemolymph \\(from step",
+            {
+                "title": "5)",
+                "body": "to the nutrient agar plate and incubate at 37 °C overnight."
+            }
+        ]
+    },
+    {
+        "title": "7.",
+        "body": "In order to confirm the contribution of PO activity in the bacterial clearance, include 5 mM PTU or 5 mM kojic acid in the bacterial injection to block _in vivo_ PO activity, if any."
+    }
+]

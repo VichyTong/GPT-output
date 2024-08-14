@@ -1,0 +1,81 @@
+[
+    "\nAll patients participated in a crossover trial consisting of three experiments on different days \\(wash out period was more than two weeks). Each experiment consisted of three tasks: offline task \\(pre-BMI), BMI training, and offline task \\(post-BMI) \\(Figure1)<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4783/original/Figure5.png?1473139098\">See figure in Figures section.</a>",
+    {
+        "title": "1.",
+        "body": "Take face scan and fiducial points \\(6 points in face and more than 50 points in head)"
+    },
+    {
+        "title": "2.",
+        "body": "Put EMG electrodes on face and both forearms \\(the signals for eye ball movements and blinks, ECG,  flexor digitorum superficialis and the extensor digitorum communis)"
+    },
+    {
+        "title": "3.",
+        "body": "Put the patient into the MEG scanner"
+    },
+    {
+        "title": "4.",
+        "body": "Start to record MEG signals"
+    },
+    {
+        "title": "5.",
+        "body": "After taking 60 seconds of rest, the patients attempted to move their phantom hands at the presented times."
+    },
+    {
+        "title": "6.",
+        "body": [
+            "At first, the patients were visually instructed regarding the movement type to perform with the Japanese word for “grasp” or “open.\"\\(Figure",
+            {
+                "title": "2)",
+                "body": "<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4787/original/Figure2.png?1473140019\">See figure in Figures section.</a>"
+            }
+        ]
+    },
+    {
+        "title": "7.",
+        "body": "After 1 second, two sounds and one execution cue sound were given to the subjects as the timing to move their hands. The execution cues were repeated four times every 5.5s."
+    },
+    {
+        "title": "8.",
+        "body": "The procedure 6 and 7 were repeated for 10 times for each movement types."
+    },
+    {
+        "title": "9.",
+        "body": "Repeat 5 to 10 with moving their intact hands \\(grasping and opening)"
+    },
+    {
+        "title": "10.",
+        "body": "Construct the decoder to control the BMI neuroprosthetic hand using the recorded MEG signals."
+    },
+    {
+        "title": "11.",
+        "body": "Evaluate the pain by McGill Pain questionnaire and visual analog scale \\(VAS)"
+    },
+    {
+        "title": "12.",
+        "body": "Present the prosthetic hand in the monitor for patient"
+    },
+    {
+        "title": "13.",
+        "body": "Instruct the patient to control \r\n  the MEG signals to the online decoder to control the neuroprosthetic hand by intending to move their phantom hands without moving their actual bodies for 10 minutes."
+    },
+    {
+        "title": "14.",
+        "body": "The patient controlled the prosthetic hand for 10 minutes"
+    },
+    {
+        "title": "15.",
+        "body": "Evaluate the pain by McGill Pain questionnaire and VAS and record the patient's report how they felt to move the robot"
+    },
+    {
+        "title": "16.",
+        "body": "Repeat from 4 to"
+    },
+    {
+        "title": "9.",
+        "body": []
+    },
+    {
+        "title": "17.",
+        "body": "For the analysis, VBMEG \\(variational bayesian multimodal encepharography) was used with the following parameters:\r\n  act = 'uniform', a0_act = 100, w = 0.0002, time constance in twin_meg = 1000, Tperiod = 1000, Tnext = 1000, trial_average = off, filter condition; common to conditions"
+    }
+]

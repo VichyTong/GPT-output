@@ -1,0 +1,18 @@
+[
+    {
+        "type": "title",
+        "content": "1"
+    },
+    {
+        "type": "string",
+        "content": "Rinse Protein A beads in Hypotonic Buffer"
+    },
+    {
+        "type": "title",
+        "content": "2"
+    },
+    {
+        "type": "string",
+        "content": "Place on ice till ready for use."
+    }
+]

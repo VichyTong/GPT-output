@@ -1,0 +1,115 @@
+[
+    "\nWe describe here how to perform manually islet perifusion using the Biorep® Perifusion V2.0.0 following these steps:\r\n\n\n\r\n\n\n",
+    {
+        "title": "**1.**",
+        "body": "Put 5 drops of Bio-Gel beads in the perifusion column."
+    },
+    {
+        "title": "**CAUTION:**",
+        "body": "The beads must be kept hydrated at 37 ˚C when used."
+    },
+    {
+        "title": "**2.**",
+        "body": "Place ~100 islets in culture medium above the beads and add another layer of beads over the islets."
+    },
+    {
+        "title": "**CRITICAL STEP:**",
+        "body": "The islets should not be older than 48 h in culture after isolation.  Longer culture times may compromise islet function."
+    },
+    {
+        "title": "**3.**",
+        "body": "Place the perifusion column containing the islets in the column holder of the machine and connect the proper tubing to the inlet and outlet of the column."
+    },
+    {
+        "title": "**4.**",
+        "body": "Connect the inlet tubing that will be placed in"
+    },
+    {
+        "title": "**STEP 7**",
+        "body": "inside the different perifusion solutions. Tubing should be passed through the peristaltic pump to enable flow of the different solutions. Flush 50ml of extracellular solution for 1 h at 37 ˚C."
+    },
+    {
+        "title": "**CRITICAL STEP:**",
+        "body": "This will allow the islets to equilibrate to basal glucose levels before subsequent stimulations in the experiment."
+    },
+    {
+        "title": "**5.**",
+        "body": "Connect the outlet tubing to the proper collection ports to capture the perifusate \\(i.e., solution exiting column) in the 96 well plate for later evaluation."
+    },
+    {
+        "title": "**CRITICAL STEP:**",
+        "body": "Different experimental conditions \\(e.g., glucose concentrations, stimuli) can be applied simultaneously to multiple islet preparations in the 8 parallel columns."
+    },
+    {
+        "title": "**CAUTION:**",
+        "body": "Re-used tubing must be clean to ensure proper flow of perifusate into the collecting 96 well plate."
+    },
+    {
+        "title": "**6.**",
+        "body": "Place the inlet tubing inside the appropriate perifusion solution heated to 37 ˚C in the heating block."
+    },
+    {
+        "title": "**CAUTION:**",
+        "body": "If perifusion solution are placed inside the chamber, allow the chamber to equilibrate to 37 ˚C for 2 - 5 min before turning"
+    },
+    {
+        "title": "**ON**",
+        "body": "the pump."
+    },
+    {
+        "title": "**7.**",
+        "body": "Turn"
+    },
+    {
+        "title": "**ON**",
+        "body": "the peristaltic pump to begin flow \\(100 µL/min) of the perifusion solutions, stimulation of the islets, and collection of the islet secretion product\\(s) in the perifusate."
+    },
+    {
+        "title": "**CRITICAL STEP:**",
+        "body": "Perifuse the islets for 10 - 15 min per stimulus to allow proper exposure of the islets and collection of their secretion product.  Set the perifusate collection time to 1 min/well \\(i.e., 100 µL/well) for proper hormone measurement during the 10 - 15 min stimulation."
+    },
+    {
+        "title": "**CAUTION:**",
+        "body": "Do not exceed 15 min/stimulus to avoid desensitization of the islets.  Do not open the chamber during islet perifusion to prevent temperature changes and consequent effects on the islet hormone secretion."
+    },
+    {
+        "title": "**8.**",
+        "body": "Press"
+    },
+    {
+        "title": "**PAUSE**",
+        "body": "to switch  perifusion solutions applied to the same column\\(s) as needed and repeat"
+    },
+    {
+        "title": "**STEP 7**",
+        "body": "according to the stimulation schedule."
+    },
+    {
+        "title": "**CAUTION:**",
+        "body": "Allow wash out between stimulation using your preferred solution."
+    },
+    {
+        "title": "**9.**",
+        "body": "Turn"
+    },
+    {
+        "title": "**OFF**",
+        "body": "the pump after the stimulation schedule is completed and after thorough washing of the tubing with distilled water \\(pump tubing can be re-used up to 10 times)."
+    },
+    {
+        "title": "**10.**",
+        "body": "Retrieve the 96 well plate and cover it with included adhesive plastic and store at -20 ˚C until later analysis."
+    },
+    {
+        "title": "**CAUTION:**",
+        "body": "Quickly store the covered plates to avoid hormone degradation."
+    },
+    {
+        "title": "**11.**",
+        "body": "Measure the concentration of different hormones released from the islets using the appropriate Endocrine LINCOplex Kit.  Hormone concentration is determined colorimetrically in the Bio-Plex protein array system \\(Bio-Rad)."
+    },
+    {
+        "title": "**CRITICAL STEP:**",
+        "body": "Measurement of the different hormones can be done in different wells of the same 96 well plate.  In principle, 96 samples from multiple islet preparations with different experimental conditions can be measured simultaneously allowing for high throughput screening."
+    }
+]

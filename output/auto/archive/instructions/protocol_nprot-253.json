@@ -1,0 +1,238 @@
+[
+    {
+        "Day 1: Isolate T cells from OT-1 mice using T cell enrichment column and transfer 5-6 X 10<sup>6</sup> cells intravenously into CD45.1 mice.": {
+            "TRANSFER": {
+                "slot": {
+                    "source": "OT-1 mice",
+                    "destination": "CD45.1 mice",
+                    "sample": "T cells"
+                },
+                "emit": {
+                    "reagent0": "T cells 0"
+                }
+            }
+        }
+    },
+    {
+        "Day 3.": "title or number"
+    },
+    {
+        "Isolate MDSC from 3 week  tumor-bearing mice \\(EL4 or MC38) using biotin-Gr-1 and streptavidin beads \\(Miltenyi biotech, CA) antibody and  transfer 4-5 X 10<sup>6</sup> cells intravenously into mice which have received OT-1 T cells.": {
+            "TRANSFER": {
+                "slot": {
+                    "source": "tumor-bearing mice",
+                    "destination": "mice",
+                    "sample": "MDSC"
+                },
+                "emit": {
+                    "reagent0": "MDSC 0"
+                }
+            }
+        }
+    },
+    {
+        "Immunize mice with SIINFEKL peptide 100 ug in 100 ul PBS plus 100 ul of incomplete Freund&#x2019;s adjuvant.": {
+            "INJECT": {
+                "slot": {
+                    "reagent1": "SIINFEKL peptide",
+                    "volume": "100 ug in 100 ul PBS plus 100 ul of incomplete Freund's adjuvant"
+                },
+                "emit": {
+                    "reagent0": "SIINFEKL peptide 0"
+                }
+            }
+        }
+    },
+    {
+        "Day 10:": "title or number"
+    },
+    {
+        "1.": "title or number"
+    },
+    {
+        "Harvest spleens from mice and prepare a single cell suspension.\r\n  ": {
+            "PREPARE": {
+                "slot": {
+                    "reagent1": "spleens from mice",
+                    "volume": "not specified"
+                },
+                "emit": {
+                    "reagent0": "single cell suspension 0"
+                }
+            }
+        }
+    },
+    {
+        "2.": "title or number"
+    },
+    {
+        "Pellet the cells by centrifugation \\(1700 RPM 5 min) at room temperature \\(RT) and aspirate the supernatant. \r\n  ": {
+            "REMOVE": {
+                "slot": {
+                    "item": "supernatant"
+                },
+                "emit": {
+                    "reagent0": "supernatant 0"
+                }
+            }
+        }
+    },
+    {
+        "3. Resuspend the pellet in 5 ml/spleen of ACK Lysis Buffer. \r\n  ": {
+            "REMOVE": {
+                "slot": {
+                    "item": "supernatant 0"
+                },
+                "emit": {
+                    "reagent0": "supernatant 1"
+                }
+            }
+        }
+    },
+    {
+        "4. Incubate at RT for 4-5 minutes with occasional shaking. \r\n  ": {
+            "SHAKE": {
+                "slot": {
+                    "reagent1": "supernatant 1",
+                    "temperature": "RT",
+                    "time": "4-5 minutes"
+                },
+                "emit": {
+                    "reagent0": "supernatant 2"
+                }
+            }
+        }
+    },
+    {
+        "5. Stop the reaction by adding 40-50 &#x3BC;l of PBS. \r\n  6.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "supernatant 2"
+                },
+                "emit": {
+                    "reagent0": "supernatant 3"
+                }
+            }
+        }
+    },
+    {
+        "Wash the cells with PBS twice \\(1700 RPM  5 min) at RT.  \r\n  ": {
+            "RINSE": {
+                "slot": {
+                    "object": "cells",
+                    "rinseMaterial": "PBS",
+                    "times": 2,
+                    "duration": "5 min"
+                },
+                "emit": {
+                    "object": "cells 0"
+                }
+            }
+        }
+    },
+    {
+        "7. Use Cy5 \\(Molecular probes, OR) labeled SIINKb-Ig and SIYKb-Ig dimers as specific and non-specific MHC-Ig ligands, respectively.\r\n  ": ""
+    },
+    {
+        "8. Prepare a serial dilution \\(2000 nM &#x2013; 12.5 nM) of 20 &#x3BC;l of Cy5 labeled MHC-Ig dimer in a FACS tube.\r\n  ": {
+            "DILUTE": {
+                "slot": {
+                    "reagent1": "Cy5 labeled MHC-Ig dimer",
+                    "finalConcentration": "2000 nM \u2013 12.5 nM",
+                    "volume": "20 \u00b5l"
+                },
+                "emit": {
+                    "reagent0": "Cy5 labeled MHC-Ig dimer 0"
+                }
+            }
+        }
+    },
+    {
+        "9.": "title or number"
+    },
+    {
+        "Adjust cells to a concentration of 10<sup>7</sup> cells/ml in FACS wash buffer \r\n  10.": {
+            "DILUTE": {
+                "slot": {
+                    "reagent1": "cells 0",
+                    "reagent2": "FACS wash buffer",
+                    "finalConcentration": "10^7 cells/ml"
+                },
+                "emit": {
+                    "reagent0": "cells 1"
+                }
+            }
+        }
+    },
+    {
+        "Add 10 ul aliquot of cells to the FACS tube with the MHC-Ig dimer.   \r\n  ": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "Cy5 labeled MHC-Ig dimer 0",
+                    "reagent2": [
+                        "cells 1"
+                    ],
+                    "volume": "10 ul"
+                },
+                "emit": {
+                    "reagent0": "Cy5 labeled MHC-Ig dimer 1"
+                }
+            }
+        }
+    },
+    {
+        "11.": "title or number"
+    },
+    {
+        "Incubate cells with the MHC-Ig dimers for 60-90 min on ice. \r\n  ": {
+            "TREAT": {
+                "slot": {
+                    "reagent1": "cells 1",
+                    "reagent2": [
+                        "Cy5 labeled MHC-Ig dimer 1"
+                    ],
+                    "temperature": "on ice",
+                    "time": "60-90 min"
+                },
+                "emit": {
+                    "reagent0": "cells 2"
+                }
+            }
+        }
+    },
+    {
+        "12.": "title or number"
+    },
+    {
+        "Without any washing add FITC labeled anti-CD8 and PE labeled anti-CD45.1 antibodies to each aliquot.\r\n  ": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "cells 2",
+                    "reagent2": [
+                        "FITC labeled anti-CD8",
+                        "PE labeled anti-CD45.1 antibodies"
+                    ]
+                },
+                "emit": {
+                    "reagent0": "cells 3"
+                }
+            }
+        }
+    },
+    {
+        "13.": "title or number"
+    },
+    {
+        "Incubate cells for an additional 20 min on ice and wash two times before flow cytometric analysis.\r\n  ": {
+            "RINSE": {
+                "slot": {
+                    "object": "cells 2",
+                    "times": 2
+                },
+                "emit": {
+                    "object": "cells 2 1"
+                }
+            }
+        }
+    }
+]

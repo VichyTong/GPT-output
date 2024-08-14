@@ -1,0 +1,116 @@
+[
+    {
+        "title": "**Preparation of EPDCs.**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Coat 6-well plates with gelatin: pipette 2 ml 0.1% gelatin solution, allow to stand for 15 minutes and aspirate. OPTIONAL: Place coverslips into wells, prior to gelatin coating."
+            },
+            {
+                "title": "2.",
+                "body": "Cull adult mouse by cervical dislocation."
+            },
+            {
+                "title": "3.",
+                "body": "Using sterile forceps and scissors make a lateral incision in the centre of the abdomen and tear back the fur to expose the rib cage."
+            },
+            {
+                "title": "4.",
+                "body": "Carefully cut upwards through the sternum and along the diaphragm, taking care not to cut into the heart. Pull back the ribs to reveal the heart."
+            },
+            {
+                "title": "5.",
+                "body": "Remove the heart using forceps and dissect away the atria and major vessels, to leave right and left ventricles."
+            },
+            {
+                "title": "6.",
+                "body": "Place tissue in a 60mm tissue culture dish \\(non gelatin coated) containing 2ml DPBS. Cut into quarters and allow blood to rinse from the tissue. Carefully aspirate away DPBS. Using a sterile scalpel, cut the heart into pieces of approximately 1mm<sup>3</sup>. \r\n  \r\n\n\nCRITICAL: reproducible EPDC outgrowth strongly depends upon the size of the heart pieces \\(optimally 1mm<sup>3</sup>). Larger pieces will not adhere to permit sufficient migration while smaller pieces tend to dissociate completely and cardiomyocyte death precedes adherence and EPDC outgrowth."
+            },
+            {
+                "title": "7.",
+                "body": "Divide heart pieces into 4 equal portions \\(1 adult heart is typically divided between 4 wells for optimal EPDC outgrowth)."
+            },
+            {
+                "title": "8.",
+                "body": "Pipette 2ml of EPDC culture medium, supplemented with 100ng/ml Tβ4, into each well to be used."
+            },
+            {
+                "title": "9.",
+                "body": "Place 1 portion of heart tissue into the centre of each well and ensure that all pieces are submerged."
+            },
+            {
+                "title": "10.",
+                "body": "Gently transfer the plate to a humidified 5% CO<sub>2</sub> 37°C incubator. Maintain cultures with minimum disturbance to allow explants to adhere. No feeding is required for the first 72 hours. \r\n  \r\n\n\nCRITICAL STEP: Minimal disturbance is absolutely essential for EPDC outgrowth.  Explants adhere only tenuously in the first instance and disturbance in the first few days of culture will prevent adhesion or lead to detachment. Plates should be transferred extremely cautiously between incubator and microscope or culture hood. After sufficient EPDCs have emerged, explants attach more firmly but care is still required as detachment may easily occur."
+            },
+            {
+                "title": "11.",
+                "body": "After 72 hours in culture, carefully transfer plate to culture hood, wash explants gently with DPBS and add 2ml fresh EPDC medium containing 100ng/ml Tβ4. Leave for a further 24 hours before assessment of cellular phenotype."
+            }
+        ]
+    },
+    {
+        "title": "**TIMELINE**",
+        "body": "Steps 1-10: 30-45 minutes.\r\n\n\nCulture: 72 hours\r\n\n\nStep 11: 10 minutes."
+    },
+    {
+        "title": "**Characterisation of EPDC Phenotypes by Immunofluorescence.**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Culture adult heart explants as described above."
+            },
+            {
+                "title": "2.",
+                "body": "After 72 hours of culture, fix cells with 4% PFA for 10 minutes at room temperature."
+            },
+            {
+                "title": "3.",
+                "body": "Wash cells twice with PBS."
+            },
+            {
+                "title": "4.",
+                "body": "Permeabilise cells with 0.5% Triton X-100 in PBS for 5 minutes at room temperature."
+            },
+            {
+                "title": "5.",
+                "body": "Wash cells twice with PBS."
+            },
+            {
+                "title": "6.",
+                "body": "Block non-specific binding by incubating cells in BLOCK \\(1% BSA/10% sheep serum in PBS) for 1 hour at room temperature."
+            },
+            {
+                "title": "7.",
+                "body": "Incubate cells with an appropriate dilution of primary antibody \\(epicardin, 1:100; SMalphaA, 1:700;  Flk1, 1:100), or Procollagen type I, 1:100), in BLOCK."
+            },
+            {
+                "title": "8.",
+                "body": "Wash cells 3 times using BLOCK."
+            },
+            {
+                "title": "9.",
+                "body": "Incubate cells with the appropriate secondary antibody \\(epicardin: Cy3-conjugated anti-rabbit; SMalphaA: FITC-conjugated anti-mouse, 1:30; Procollagen type I: Alexa 488-conjugated anti-goat, 1:200; Flk1: Alexa 594-conjugated anti-rat, 1:200) diluted in BLOCK."
+            },
+            {
+                "title": "10.",
+                "body": "Wash cells twice in PBS."
+            },
+            {
+                "title": "11.",
+                "body": "OPTIONAL: To stain nuclei, incubate with 5ug/ml Hoechst in PBS for 5 minutes at room temperature."
+            },
+            {
+                "title": "12.",
+                "body": "Wash cells twice in PBS."
+            },
+            {
+                "title": "13.",
+                "body": "Mount coverslips onto microscope slides using 50% glycerol in PBS as mountant and visualize using a fluorescence microscope."
+            }
+        ]
+    },
+    {
+        "title": "**TIMELINE**",
+        "body": "\\(Steps 1-13): \r\n\n\n16-24 hours."
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "title": "**Perfusion and isolation of hepatocytes**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Use one month-old mice. To minimize diurnal variation start isolation of hepatocytes in the morning \\(10-11a.m.)."
+            },
+            {
+                "title": "2.",
+                "body": "Anaesthetise mice by intraperitoneal injection of 200 μl of Cloralium Hydrate."
+            },
+            {
+                "title": "3.",
+                "body": "Insert the cannula in the portal vein and start perfusion with T1 solution pH 7.4. As soon as the perfusion is started, immediately cut the hepatic vein to allow perfusate to run as a waste."
+            },
+            {
+                "title": "4.",
+                "body": "Flow rate is 5 ml/min. Perfuse liver for 15-20 minutes to remove completely the blood in each lobe."
+            },
+            {
+                "title": "5.",
+                "body": "Perfuse the liver with T2 solution pH 7.4. At this stage the hepatic tissue is rapidly disaggregated. Collect the tissue with a curved spatula and transfer into a plate where the disruption of the tissue is proceeded with a scalpel. This step should be fast in order to avoid damage of hepatocytes."
+            },
+            {
+                "title": "6.",
+                "body": "Remove the bladder and mince the tissue with a scalpel."
+            },
+            {
+                "title": "7.",
+                "body": "Collect minced tissue with 2 ml DMEM and filter cells through 70 μm cell strainer."
+            },
+            {
+                "title": "8.",
+                "body": "Centrifuge cells at 600rpm for 4min at room temperature."
+            },
+            {
+                "title": "9.",
+                "body": "Remove supernatant, resuspend pellet in 3 ml DMEM and pass the hepatocytes on 37.5% PERCOLL cushion \\(30 ml) to recover viable cells."
+            },
+            {
+                "title": "10.",
+                "body": "Centrifuge 1050 rpm for 3min at room temperature."
+            },
+            {
+                "title": "11.",
+                "body": "Resuspend pellet of viable cells in 2 ml of DMEM and count the hepatocytes."
+            }
+        ]
+    },
+    {
+        "title": "**Recovery of hepatocytes and protein synthesis measurement**",
+        "body": [
+            {
+                "title": "12.",
+                "body": "Leave the isolated primary hepatocytes in 3 ml of DMEM at 5% CO<sub>2</sub>, 37°C for 2h and in suspension. Absence of serum is necessary to decrease the basal level of translation."
+            },
+            {
+                "title": "13.",
+                "body": "After 2h replace the medium with DMEM without methionine and cysteine and start with the metabolic labelling assay."
+            },
+            {
+                "title": "14.",
+                "body": "Each point of the metabolic labelling is done in triplicate. Use 15 x 10<sup>5</sup> hepatocytes/triplicate. Resuspend 5 x 10<sup>5</sup> cells in 2ml DMEM without Met/Cys and maintain the cells in a 15ml round bottom falcon tube to allow sufficient oxygenation."
+            },
+            {
+                "title": "15.",
+                "body": "Add to the media the desired stimula to increase translational level \\(e.g. 100 nM Insulin) and label the cells with 20 μCi/ml of <sup>35</sup>S-Met/Cys mixture for 1h."
+            },
+            {
+                "title": "16.",
+                "body": "After 1h, lyse the cells in 100 μl of Lysis Buffer: 10mM Tris HCl pH 7.4, 1% Triton X-100, 150mM NaCl, 1mM EDTA."
+            },
+            {
+                "title": "17.",
+                "body": "Keep 15min on ice and then clarify at 14000rpm for 10min at 4°C."
+            },
+            {
+                "title": "18.",
+                "body": "Use 10 μl of the lysate to read radioactivity incorporation as previously described<sup>1</sup>."
+            }
+        ]
+    }
+]

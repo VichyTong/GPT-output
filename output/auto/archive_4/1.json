@@ -1,0 +1,161 @@
+[
+    {
+        "title": "1",
+        "body": [
+            {
+                "sentence": "Mix 50\u00b5l water with 50\u00b5l QuickExtract.",
+                "result": [
+                    {
+                        "MIX": {
+                            "emit": [],
+                            "slot": [
+                                {
+                                    "reagent1": "50\u00b5l water"
+                                },
+                                {
+                                    "reagent2": "50\u00b5l QuickExtract"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tile": "2",
+        "body": [
+            {
+                "sentence": "Add to tick homogenate and mix well.",
+                "result": [
+                    {
+                        "ADD": {
+                            "emit": [
+                                {
+                                    "reagent0": "<blank>"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "tick homogenate"
+                                },
+                                {
+                                    "reagent2": "<blank>"
+                                },
+                                {
+                                    "ratio": "<blank>"
+                                },
+                                {
+                                    "concentration": "<blank>"
+                                },
+                                {
+                                    "notice": "Mix well."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "MIX": {
+                            "emit": [
+                                {
+                                    "reagent0": "tick homogenate"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "tick homogenate"
+                                },
+                                {
+                                    "notice": "Mix well."
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "3",
+        "body": [
+            {
+                "sentence": "Incubate at 65\u00b0C for 6 minutes",
+                "result": [
+                    {
+                        "INCUBATE": {
+                            "emit": [],
+                            "slot": [
+                                {
+                                    "reagent1": "tick homogenate"
+                                },
+                                {
+                                    "temperature": "65\u00b0C"
+                                },
+                                {
+                                    "time": "6 minutes"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "4",
+        "body": [
+            {
+                "sentence": "Incubate 95\u00b0C for 2 minutes.",
+                "result": [
+                    {
+                        "INCUBATE": {
+                            "emit": [
+                                {
+                                    "reagent0": "tick homogenate"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "tick homogenate"
+                                },
+                                {
+                                    "temperature": "95\u00b0C"
+                                },
+                                {
+                                    "time": "2 minutes"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "5",
+        "body": [
+            {
+                "sentence": "Cool to room temperature.",
+                "result": [
+                    {
+                        "COOL": {
+                            "emit": [
+                                {
+                                    "reagent0": "tick homogenate"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "tick homogenate"
+                                },
+                                {
+                                    "temperature": "room temperature"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

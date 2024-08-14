@@ -1,0 +1,137 @@
+[
+    {
+        "title": "**Preparing DNA for PCR from Mouse Ear or Tail Clips**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Add 0.5 ml Lysis buffer to a 1.5 ml tube containing mouse ear or tail clip and incubate for a minimum of 3 hours to overnight at 55 ºC while shaking at 200 rpm."
+            },
+            {
+                "title": "2.",
+                "body": "After lysis, vortex to disrupt the tissue. Spin at 20,000 g for 10 minutes with hinges oriented to the outside."
+            },
+            {
+                "title": "3.",
+                "body": "Pipet 500 µl of isopropanol into a new tube."
+            },
+            {
+                "title": "4.",
+                "body": "After centrifugation, decant lysis supernatant into the isopropanol-containing tube. Be careful to leave hair and debris behind."
+            },
+            {
+                "title": "5.",
+                "body": "Invert the tube several times to mix. Incubate at room temperature for at least 5 minutes. Samples may also be stored at -20 ºC at this point."
+            },
+            {
+                "title": "6.",
+                "body": "Spin at 20,000 g for 10 minutes to pellet the DNA."
+            },
+            {
+                "title": "7.",
+                "body": "Pour off the supernatant."
+            },
+            {
+                "title": "8.",
+                "body": "Wash the pellet by adding 0.5 ml of 70% ethanol. Vortex briefly."
+            },
+            {
+                "title": "9.",
+                "body": "Spin at 20,000 g for 5 minutes."
+            },
+            {
+                "title": "10.",
+                "body": "Pour off 70% ethanol, invert the tubes and air-dry for 5 minutes \\(Be careful not to dislodge the DNA pellet)."
+            },
+            {
+                "title": "11.",
+                "body": "Remove residual ethanol with an aspirator."
+            },
+            {
+                "title": "12.",
+                "body": "Resuspend the DNA in 500 µl of 10 mM Tris, pH 8.0."
+            },
+            {
+                "title": "13.",
+                "body": "Facilitate DNA resuspension by shaking at 200 rpm at 55 ºC for 20 minutes to overnight."
+            }
+        ]
+    },
+    {
+        "title": "**PCR**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "After thawing reagents, vortex to mix and spin briefly."
+            },
+            {
+                "title": "2.",
+                "body": "Keep all reagents on ice until use."
+            },
+            {
+                "title": "3.",
+                "body": "Prepare the reaction mixture on ice."
+            },
+            {
+                "title": "4.",
+                "body": "Preset a thermal cycler ready to start the designated program \\(see step 11)."
+            },
+            {
+                "title": "5.",
+                "body": "Prepare a Master Mix of PCR reagents, minus the mouse DNA template, for the number of samples to be amplified plus 2 additional reactions.  Controls should be included in the total number of reactions.  The two additional tubes are to allow a margin of error for pipet carryover, or if a mistake is made there is extra to set up one more."
+            },
+            {
+                "title": "6.",
+                "body": "Add the PCR reagents in the order listed below \\(Table 1), except for LA Taq enzyme \\(add last), such that the volume and final concentration of each component is as shown in Table 1:\r\n   \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/1779/original/Table_1_PCR_Reagents.jpg?1303414032\">See figure in Figures section.</a>"
+            },
+            {
+                "title": "7.",
+                "body": "Gently flick the Master Mix tube to mix and spin briefly."
+            },
+            {
+                "title": "8.",
+                "body": "Dispense 9.5 μl of Master Mix into 0.2 ml PCR tubes for each sample to be amplified."
+            },
+            {
+                "title": "9.",
+                "body": "Add 0.5 μl of DNA samples and controls to each corresponding PCR tube."
+            },
+            {
+                "title": "10.",
+                "body": "Spin PCR tubes to mix the DNA and PCR Master Mix."
+            },
+            {
+                "title": "11.",
+                "body": "Place PCR tubes in thermal cycler and run the program shown below \\(Table 2):\r\n   \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/1781/original/Table_2_thermal_cycler_program.jpg?1303414216\">See figure in Figures section.</a>"
+            }
+        ]
+    },
+    {
+        "title": "**Agarose Gel Electrophoresis and Imaging**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare a 0.8% agarose gel using TAE buffer."
+            },
+            {
+                "title": "2.",
+                "body": "Add 2 μl Orange G Loading dye to each reaction."
+            },
+            {
+                "title": "3.",
+                "body": "Electrophorese 4 μl of amplified product per 5mm wide gel lane with 0.4 ug/ml EtBr in running buffer."
+            },
+            {
+                "title": "4.",
+                "body": "Run the gel slowly in order to resolve the 4846 bp and 3904 bp bands. Typically 100 volts for 30 to 45 minutes is effective."
+            },
+            {
+                "title": "5.",
+                "body": "Document the gel image to interpret genotype."
+            },
+            {
+                "title": "6.",
+                "body": "Determine the length of the amplified product using the marker standard \\(1Kb Plus DNA Ladder, Invitrogen)."
+            }
+        ]
+    }
+]

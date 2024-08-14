@@ -1,0 +1,239 @@
+[
+    "\nh3. Transfection of cells with siRNA\r\n\n\n\r\n\n\n",
+    {
+        "title": "**Optimization experiments for determination of the best experimental conditions**",
+        "body": "Before starting with the actual experiment, titration of the transfection reagent and siRNA for the gene of interest \\(here: cdc2) should be optimized for each cell type under investigation. Use of 3 functional siRNA species against the gene of interest in individual transfections is highly recommended. The gene silencing effect should be tested at the mRNA and protein level and, if possible, phenotypic analysis should be performed. In the experiments described here, individual cell cycle states were estimated by FACS analysis, after cell fixation and Propidium Iodide staining, to confirm cdc2-siRNA–mediated cell cycle arrest in the G2 phase.\r\n\n\nCells transfected with a nonsilencing siRNA and an untreated cell sample should always be set up in parallel to assess the specificity of knockdown. For later statistical analysis, it is advised to perform all experiments in triplicate.\r\n\n\nFor every cell type, optimized experimental conditions should be selected which result in the most pronounced phenotype and strongest knockdown effect for all siRNAs used at their lowest possible concentration. \r\n\n\n\r\n\n\nSince many functional RNAi studies focus on the detection of downstream effects caused by the disappearance of the target protein, GeneChip® array analysis is typically performed 3 days after transfection, when the silenced protein \\(such as the cdc2 protein) is almost completely absent for at least one day. However, although the 3-day time point is frequently used for phenotypic analysis, knockdown studies may display their phenotype at differing time points depending on the gene targeted. This should be taken into account when using these protocols for siRNAs targeting genes other than cdc2. \r\n\n\n\r\n\n\nThe following table shows the optimization strategy with the final experimental conditions printed in bold. \r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/452/original/452.png\">See figure in Figures section.</a>\r\n\n\n\r\n\n\nThe standard experimental procedures described focus mainly on MCF-7 cells. Notable differences in the protocol for the other cell types used are indicated."
+    },
+    {
+        "title": "**Transfection protocol for MCF-7 cells:**",
+        "body": []
+    },
+    {
+        "title": "**1**",
+        "body": "Carefully detach cells using trypsin and wash in PBS. Count the cells and resuspend in complete culture medium at a density of 1.2 x 10<sup>5</sup> cells/ml."
+    },
+    {
+        "title": "**2**",
+        "body": "Transfer 500 µl cell suspension to each well of a 24-well plate. For the short time until transfection, incubate cells under normal growth conditions."
+    },
+    {
+        "title": "**3**",
+        "body": "Dilute 37.5 ng siRNA per well in 100 µl culture medium without serum."
+    },
+    {
+        "title": "**4**",
+        "body": "Add suitable transfection reagent, such as 3 µl HiPerFect Transfection Reagent, to the siRNA and mix by vortexing."
+    },
+    {
+        "title": "**5**",
+        "body": "Incubate the samples for 5–10 min at room temperature \\(15–25°C) to allow the formation of transfection complexes."
+    },
+    {
+        "title": "**6**",
+        "body": "Add the complexes drop-wise onto the cells. Gently swirl the plate to ensure uniform distribution of the transfection complexes."
+    },
+    {
+        "title": "**7**",
+        "body": "Incubate the cells for the desired time \\(e.g., 72 h). Change the medium 2 days after transfection. \r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/453/original/453.png\">See figure in Figures section.</a>"
+    },
+    {
+        "title": "**RNA preparation**",
+        "body": []
+    },
+    {
+        "title": "**8**",
+        "body": "Isolate total RNA from the cells by standard methods, for example using an RNeasy Kit \\(QIAGEN) according to the handbook. Lyse the cells from 6 wells of a 24-well plate directly in the well by addition of 350 µl buffer RLT."
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "The plates containing cell lysates can be stored at -20°C until further processing."
+    },
+    {
+        "title": "**Troubleshooting**",
+        "body": [
+            "The integrity of purified total RNA is crucial for further procedures. Therefore, careful quality analysis of the isolated RNA is advised. This can be performed using the Agilent Bioanalyzer 2100 which should provide an “RNA Integrity Number” \\(RIN) of between 8 and",
+            {
+                "title": "10.",
+                "body": "We have used RNA with RIN numbers ranging from 9.4 to"
+            },
+            {
+                "title": "10.",
+                "body": [
+                    "This analysis should show a flat line between the 28S and 18S ribosomal RNA, indicating the absence of degradation products of the 28S ribosomal RNA. If analyzing the RNA on an agarose gel, the 28S:18S ratio should be 2:1.\r\n\n\n\r\n\n\nFor microarray analysis, it is essential to correlate the final genome-wide expression profiles with biological data in order to ensure that RNA from a successful gene knockdown experiment is used for GeneChip hybridization. To gain confidence that siRNA-treated cells are in fact reflecting the successful knockdown of the target gene and subsequently the protein \\(cdc2 in our case), and that phenotypic analysis is indicating the predicted phenotype \\(in this case cdc2-dependent arrest of cells in the G2 phase of the cell cycle), the following experimental quality controls on 3 levels should be performed whenever possible:\r\n\n\n• Estimation of siRNA-targeted mRNA knockdown.\r\n\n\n• Estimation of target-protein reduction.\r\n\n\n• Phenotype analysis \\(e.g., determination of cell cycle profiles) of the treated cell populations.\r\n\n\n\r\n\n\nh3. Measurement of gene silencing efficiency by real-time qRT-PCR\r\n\n\n\r\n\n\nReal-time, quantitative RT-PCRs are an ideal tool for knockdown analysis of siRNA-targeted mRNA. A PCR protocol using a MJ Research Opticon® 2 real-time PCR device is described in which 2 µl of total RNA from",
+                    {
+                        "title": "Step 8",
+                        "body": "is used in a one-step qRT-PCR with a PCR primer mix specific for the gene of interest."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**9**",
+        "body": "Thaw 2x SYBR Green RT-PCR Master Mix, 10x Primer Assay, template RNA, and RNase-free water \\(all provided in the QuantiTect SYBR Green RT-PCR Kit). Mix the individual solutions and place them on ice. The RT Mix should be taken from –20ºC immediately before use, always kept on ice, and returned to storage at –20ºC immediately after use."
+    },
+    {
+        "title": "**10**",
+        "body": "Prepare a reaction mix according to the following table.\r\n\n\nKeep samples on ice while preparing the reaction mix.\r\n\n\nNote: The final Mg<sup>2+</sup> concentration of 2.5 mM provided by the 2x SYBR Green RT-PCR Master Mix gives optimal results.\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/454/original/454.png\">See figure in Figures section.</a>"
+    },
+    {
+        "title": "**11**",
+        "body": "Mix the reaction mix thoroughly and dispense appropriate volumes into PCR tubes or plates. Keep the tubes or plates on ice."
+    },
+    {
+        "title": "**12**",
+        "body": "Add template RNA \\(≤10 ng/reaction) to the individual PCR tubes or wells containing the reaction mix."
+    },
+    {
+        "title": "**13**",
+        "body": "Program the real-time cycler according to the following table.\r\n\n\nData acquisition should be performed during the extension step.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/455/original/455.png\">See figure in Figures section.</a>"
+    },
+    {
+        "title": "**Troubleshooting**",
+        "body": ": The PCR parameters indicated above worked very well for the MJ Research Opticon 2 real-time PCR device. Other PCR devices may require different parameters for optimal performance."
+    },
+    {
+        "title": "**14**",
+        "body": "Keep the samples on ice until the real-time cycler is programmed.\r\n\n\nPlace the PCR tubes or plates in the real-time cycler and start the cycling program.\r\n\n\nNote: The Tm of an RT-PCR product depends on buffer composition and salt concentration. Tm values obtained when using QuantiTect SYBR Green RT-PCR reagents may differ from those obtained using other reagents.\r\n\n\n\r\n\n\nh3. Detection of cdc2 knockdown at the protein level by Western blot"
+    },
+    {
+        "title": "**15**",
+        "body": "Three days after transfection, lyse cells from one 24-well using 100 µl of Protein Lysis Buffer."
+    },
+    {
+        "title": "**16**",
+        "body": "Measure the protein concentration using the BC Assay Protein Quantification Kit."
+    },
+    {
+        "title": "**17**",
+        "body": "For SDS-PAGE, mix 10 µg protein lysate with 5x Sample Loading Buffer, boil for 5 min at 95°C, and load on a 12.5% PAA gel."
+    },
+    {
+        "title": "**18**",
+        "body": "Run the gel for 1 h at 100V \\(when using the BioRad Protean II device) in 1x Electrophoresis Buffer."
+    },
+    {
+        "title": "**19**",
+        "body": "Transfer protein to a nitrocellulose membrane using protein blot buffer."
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": []
+    },
+    {
+        "title": "**20**",
+        "body": "Perform immunostaining with antibodies specific for cdc2, followed by incubation with a peroxidase-coupled secondary antibody. Carry out detection with ECL Detection Solution. Confirm equal loading of the blots by reprobing with an alpha-tubulin antibody. \r\n\n\n\r\n\n\nh3. Detection of cdc2-knockdown phenotype by cell-cycle analysis"
+    },
+    {
+        "title": "**21**",
+        "body": "Three days after transfection, treat cells thoroughly with trypsin to detach them from the culture plates and to disrupt all cellular aggregates.  \r\n\n\n\r\n\n\nNote: Cellular aggregates that are not disrupted in this step will stick together after fixation and throughout the whole procedure and will interfere with data analysis."
+    },
+    {
+        "title": "**22**",
+        "body": "Resuspend cells in 10 ml of ice-cold PBS and wash for 10 minutes \\(1000 rpm, 4°C)."
+    },
+    {
+        "title": "**23**",
+        "body": "Discard supernatant, resuspend cells in 100 µl PBS and add the cells drop-wise into 10 ml of 70% ethanol on ice \\(prechilled at -20°C before use) for fixation. Incubate the cells for at least 2 h at -20°C."
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "Fixed cells can be stored at -20 °C for up to 2 months after this step."
+    },
+    {
+        "title": "**24**",
+        "body": "Centrifuge the fixed cells for 10 min at 1000 rpm and wash once in PBS \\(5 ml, 10 min, 1000 rpm)."
+    },
+    {
+        "title": "**25**",
+        "body": "Carefully discard as much of the supernatant as possible without aspirating the cell pellet. Resuspend the cells in 400 µl Cell Suspension Buffer."
+    },
+    {
+        "title": "**26**",
+        "body": "Add RNase A \\(stock solution 1 µg/µl) to the cells at a final concentration of 10 µg/ml and incubate for 30 min at 37°C."
+    },
+    {
+        "title": "**27**",
+        "body": "Add Propidium Iodide to the cells \\(final concentration of 70 µg/ml) and stain the cells overnight in the dark at 4°C."
+    },
+    {
+        "title": "**28**",
+        "body": "Measure the cell-cycle distribution by FACS analysis. Count 40,000 cells per sample to obtain statistically valid results. \r\n\n\n\\(Analysis of PI in channel 2, linear scale)\r\n\n\nNote: When all the tests described above indicate successful knockdown of the cell samples which were transfected with the cdc2 siRNAs, but not with the controls, total RNA samples may be used for GeneChip array analysis."
+    },
+    {
+        "title": "**Affymetrix Gene expression analysis**",
+        "body": "Note: Detailed protocols may also be found on the Affymetrix website at \"www.Affymetrix.com\":http://www.Affymetrix.com"
+    },
+    {
+        "title": "**29**",
+        "body": "Set up a 12 µl reaction for each sample to prime for first strand cDNA synthesis.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/456/original/456.png\">See figure in Figures section.</a>\r\n\n\n\r\n\n\n\r\n\n\nMix the reaction by flicking the tube."
+    },
+    {
+        "title": "**30**",
+        "body": "Incubate in a PCR thermocycler \\(e.g., MJ-PTC 200) with a heated lid for 10 min at 70°C. Afterwards, immediately place the reaction on ice for approx. 2 min."
+    },
+    {
+        "title": "**31**",
+        "body": "Prepare the first-strand mastermix as detailed in the following table.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/458/original/458.png\">See figure in Figures section.</a>\r\n\n\n\r\n\n\nMake sure that the reactions are mixed properly. Incubate for 1 h at 42°C in the thermocycler with a heated lid. Afterwards, immediately place the reaction on ice."
+    },
+    {
+        "title": "**32**",
+        "body": "Prepare sufficient second-strand cDNA synthesis master mix as detailed in the following table.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/460/original/460.png\">See figure in Figures section.</a>\r\n\n\n\r\n\n\n\r\n\n\nMix the master mix by gently flicking the tube several times."
+    },
+    {
+        "title": "**33**",
+        "body": "Add 130 µl of second-strand master mix to each first-strand synthesis sample \\(results in a total volume of 150 µl). Gently flick the tube to mix and centrifuge briefly to collect the solution at the bottom of the tube. Incubate for 2 h at 16°C without a heated lid."
+    },
+    {
+        "title": "**34**",
+        "body": "Add 2 µl of T4 DNA Polymerase to each sample and incubate for 5 min at 16°C"
+    },
+    {
+        "title": "**35**",
+        "body": "After incubation with T4 DNA Polymerase, add 10 µl of 0.5 M EDTA  and proceed to the cleanup of the double-stranded cDNA"
+    },
+    {
+        "title": "**36**",
+        "body": "Clean up the double-stranded cDNA using the Sample Cleanup Module according to the manufacturer’s recommendations. Binding of the cDNA is a critical step. Therefore, the cDNA Binding buffer must be mixed very well with the double-stranded cDNA synthesis preparation by vortexing for 3 s. \r\n\n\nAt the end of the cleanup procedure, the eluate volume should be 12 µl."
+    },
+    {
+        "title": "**37**",
+        "body": "Proceed with IVT reaction setup as detailed in the following table.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/462/original/462.png\">See figure in Figures section.</a>\r\n\n\n\r\n\n\n\r\n\n\nCarefully mix the reagents and collect the mixture at the bottom of the tube with a brief centrifugation. Incubate for 16 h 37°C in the thermocycler with a heated lid."
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "Store the labeled cRNA at -20°C or -70°C if not purifying immediately."
+    },
+    {
+        "title": "**38**",
+        "body": "Proceed with cleanup of the biotin-labeled cRNA using the GeneChip Sample Cleanup according to the manufacturer’s recommendations."
+    },
+    {
+        "title": "**39**",
+        "body": "Quantify the cRNA by using spectrophotometric analysis to determine yield and quality. Apply the convention that 1 absorbance unit at 260 nm equals 40 µg/ml RNA. Check the absorbance at 260 nm and 280 nm to determine sample concentration and purity. Maintain the A260/A280 ratio close to 2.0 for pure RNA \\(ratios between 1.9 and 2.1 are acceptable)."
+    },
+    {
+        "title": "**Troubleshooting**",
+        "body": "For quantification of cRNA when using total RNA as starting material, an adjusted cRNA yield must be calculated to reflect carryover of unlabeled total RNA. Using an estimate of 100% carryover, use the formula below to determine adjusted cRNA yield:\r\n\n\n\r\n\n\nAdjusted cRNA yield = RNAm - \\(total RNAi) \\(y)\r\n\n\nRNAm = amount of cRNA measured after IVT \\(μg)\r\n\n\nTotal RNAi = Starting amount of total RNA \\(μg)\r\n\n\ny = fraction of cDNA reaction used in IVT\r\n\n\n\r\n\n\nExample: Starting with 10 μg total RNA, 50% of the cDNA reaction is added to the IVT, giving a yield of 50 μg cRNA. Therefore, adjusted cRNA yield = 50 μg cRNA - \\(10 μg total RNA) \\(0.5 cDNA reaction) = 45 μg.\r\n\n\n\r\n\n\nIf cRNA concentration is above 1 µg, dilute RNA to 1 µg prior to hybridization.\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/463/original/463.png\">See figure in Figures section.</a>\r\n\n\n\r\n\n\n\r\n\n\n• Incubate at 94°C for 35 minutes. Place on ice following the incubation.\r\n\n\n• Save an aliquot for analysis on the Bioanalyzer. \r\n\n\nThe standard fragmentation procedure should produce a distribution of RNA fragment sizes from approximately 35 to 200 bases."
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "• Store undiluted, fragmented sample cRNA at –20°C \\(or –70°C for long-term storage) until ready to perform the hybridization."
+    },
+    {
+        "title": "**40**",
+        "body": "Perform hybridization, probe array washing, staining, and scanning according to Affymetrix GeneChip Expression Analysis Technical Manual."
+    },
+    {
+        "title": "**41**",
+        "body": "Analyze the array images first by visual inspection.Inspect the quality measurements including:\r\n\n\n• the presence or absence of the B2 control oligo\r\n\n\n• 3’/5’ ratio of control genes\r\n\n\n• Background\r\n\n\n• Noise\r\n\n\n• Present call rates\r\n\n\nUse this inspection to decide whether arrays should be used for further analyses."
+    },
+    {
+        "title": "**42**",
+        "body": []
+    },
+    {
+        "title": "**Overview of Data Analysis**",
+        "body": ": \r\n\n\nFollowing basic array QC, raw array data may be analyzed using the PLIER algorithm14  which uses an affinity-model to summarize a signal value from PM and MM probe pair data. In these experiments, Multi-way ANOVA was used to look for significant changes due to various experimental factors such as time, transfection status, siRNA type, and the interaction of factors, such as Time + Treatment. Pair-wise tests were used to test specific conditions against each other at each time point, calculate a median Signal Log Ratio \\(change estimate), and compute a T-test p-value for every pair-wise comparison.NetAffx \\(annotations resource on Affymetrix.com) and Ingenuity Pathways Analysis may be used to look for significant ‘undesired’ changes, such as in immune networks that involve interferon, and to look for siRNA specific changes in target genes, such as for cdc2 knockdowns in cell-cycle networks.\r\n\n\nTo proof silencing specificity of the siRNA sequence, an in silico method may be applied.  Thus, probeset signal data are mined for biological results first through statistical filtering, then by examining the significant changes between two conditions in the context of gene networks, using tools such as Ingenuity Pathway analysis \\( \"www.ingenuity.com\":http://www.ingenuity.com)."
+    }
+]

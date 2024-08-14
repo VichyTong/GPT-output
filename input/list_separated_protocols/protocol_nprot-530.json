@@ -1,0 +1,50 @@
+[
+    {
+        "title": "1.",
+        "body": "Dissolve the components of the coupled transcription-translation _E. coli_ cell-free system \\(RTS100 _E. coli_ HY kit) as follows:\r\n  a. The amino acid mixture in 240 µl of reconstitution buffer \\(provided by manufacturer). Note that here we used methionine-depleted amino acid mix.\r\n\n\nb. The _E. coli_ lysate in 360 µl of reconstitution buffer.\r\n\n\nc. The reaction mixture in 300 µl of reconstitution buffer."
+    },
+    {
+        "title": "2.",
+        "body": "Mix the two components \\(b and c), aliquot them into 100 µl, and freeze immediately in liquid nitrogen. The 2x master mix can be stored in -80°C for 3 months. Aliquot the amino acid mix in 50 µl and store also at -80 °C."
+    },
+    {
+        "title": "3.",
+        "body": "Subclone your gene of interest or truncations of it into pIVEX vector \\(Roche Applied Science) or in any T7-promoter based vectors \\(e.g., pET-system). The coding sequence of the protein of interest or its truncations should be extended C-terminally by the SecM-sequence \\(DYAHFTPQAKFxxxxWIxxxxGIRAGP)<sup>4</sup>in order to stably stall the nascent chains on the ribosomes. The SecM should be linked to the protein or its truncations by a Gly-Ser-rich linker \\(preferably 13 amino acids long), which will ensure that the complete full-length nascent chain of interest is outside the ribosomal tunnel."
+    },
+    {
+        "title": "4.",
+        "body": "Add 2.5 ng plasmid DNA to 9.5 µl aliquot of the 2x-master mix \\(thawed on ice) and adjust the final volume to 20.5 µl with sterile RNAse-free water. Transcribe for 15 min at 30°C. Perform control reaction under identical conditions using an empty plasmid without an insert. Alternatively, the transcription can be performed separately using _in vitro_ transcription system \\(Promega): mRNA is transcribed according to manufacturer instructions with T7 RiboMAX _in vitro_ transcription kit and purified thereafter with total RNA isolation kit. 2 µl purified mRNA from one transcription reaction is added to 9.5 µl aliquot of the 2x-master mix and the final volume is adjusted to 20.5 µl with sterile RNAse-free water."
+    },
+    {
+        "title": "5.",
+        "body": "Initiate translation by adding 1 µl 0.6 mCi.ml<sup>-1</sup> <sup>35</sup>S-methionine and 3 µl of the amino acid mix."
+    },
+    {
+        "title": "6.",
+        "body": "After 15 seconds add 0.5 µl aurintricarboxylic acid to 75 µM final concentration to synchronize the reaction<sup>5</sup>, and incubate further at 30 °C. Alternatively, the translation reaction can be performed from 24 °C- 37 °C if necessary, however the optimal translation temperature for RTS100 _E. coli_ HY \\(suggested also by the manufacturer) is 30 °C."
+    },
+    {
+        "title": "7.",
+        "body": "Set the time for translation according to the length of the gene of interest, given that the rate of translation at 30 °C is 43-54 amino acid/min, at 37 °C – 130-140 amino acids/min, and at 24 °C - 20-25 amino acids/min."
+    },
+    {
+        "title": "8.",
+        "body": "Stop the reaction by immediate chilling on ice<sup>6</sup>; keep an aliquot of 5 µl for further SDS-PAGE analysis."
+    },
+    {
+        "title": "9.",
+        "body": "Layer 20 µl of the reaction mixture on a 900 µl of 0.5 M sucrose in 200 mM HEPES buffer pH 7.5, containing 15 mM MgCl<sub>2</sub> and 100 mM KOAc and pelleted by ultracentrifugation for 20 min at 4 °C \\(TLA120.2 rotor, 120000 rpm)."
+    },
+    {
+        "title": "10.",
+        "body": "Carefully remove the whole supernatant and gently resuspended the pellet in 20 μl of 200 mM HEPES buffer pH 7.5, containing 15 mM MgCl<sub>2</sub> and 100 mM KOAc."
+    },
+    {
+        "title": "11.",
+        "body": "Mix 5 µl aliquot with the 5 µl SDS-loading buffer, heat at 95 °C for 3 min and load onto 12% SDS-PAGE. The aliquot from step 8 should be identically processed and loaded on the same gel."
+    },
+    {
+        "title": "12.",
+        "body": "Dry the gel using vacuum gel dryer and visualize the translation pattern by phosphoimaging. Note that due to the low concentration of the nascent chains, an overnight exposure at low temperature \\(-20 °C) in the lead-shielded cassette is recommended."
+    }
+]

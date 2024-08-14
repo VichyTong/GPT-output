@@ -1,0 +1,159 @@
+[
+    {
+        "title": "**Read Alignment**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Concatenate chromosome sequences of reference assembly of NCBI build v36 into a single reference sequence file in FASTA format \\(hereafter, referred to as “Reference.fasta”)."
+            },
+            {
+                "title": "2.",
+                "body": "Align Illumina GA reads from each Illumina GA lane to the reference sequence by software SOAP1. To take use of more data, we recommend to add command line parameter “-c 52” to trim low-quality bases in alignment process. Typically, the command lines are as follows:\r\n   For single-end \\(SE) data:\r\n\n\n soap -a <Reads.fastq> -d <Reference.fasta> -o <Alignment.soap> -p <# of parallel processes> -c 52 -s 12\r\n\n\n For paired-end \\(PE) data:\r\n\n\n soap -a <Reads1.fastq> -b <Reads2.fastq> -d <Reference.fasta> -o <PEalignment.soap> -2 <SEalignment.soap> -p <# of parallel processes> -c 52 -s 12 -m <maximum insert size> -x <minimum insert size>"
+            },
+            {
+                "title": "3.",
+                "body": "Sort alignment result of each lane, first by chromosome names lexicographically, then by mapping coordinates on each chromosome numerically. This could be done by various kinds of sorting tools."
+            },
+            {
+                "title": "4.",
+                "body": "Merge the sorted alignment results of all lanes into a single file, keeping the alignments sorted."
+            },
+            {
+                "title": "5.",
+                "body": "Split the sorted and merged alignments, chromosome by chromosome, into different files, each file comprising alignments of a single chromosome."
+            }
+        ]
+    },
+    {
+        "title": "**Building Consensus Sequence**",
+        "body": [
+            {
+                "title": "6.",
+                "body": "Download flat ASN files of dbSNP2 database and allele frequency information if possible, such as HapMap3 data for human resequencing. Transform dbSNP information of each chromosome into a tab-delimited plain text file \\(hereafter, referred to as “chrN.dbSNP.txt”), which looks like:\r\n   chr1    201979756       1       1       0       0.161   0       0       0.839   rs568\r\n\n\n The columns from left to right mean: name of chromosome, coordinate on the chromosome, whether the SNP has external allele frequency information \\(1 is true, 0 is false), whether the SNP is a validated dbSNP \\(1 is true, 0 is false), whether the SNP is actually an indel \\(1 is true, 0 is false), frequency of A, frequency of C, frequency of T, frequency of G, refSNP ID. For dbSNP sites that do not have allele frequency information, the frequencies can be arbitrarily determined as any positive values, which only imply what alleles have already been deposited in the database."
+            },
+            {
+                "title": "7.",
+                "body": "Based on the alignment result, build consensus sequence for each chromosome by SoapSNP. Typically, the command line are as follows:\r\n   SoapSNP -i <Alignment.soap.sort.chrN> -d  <chrN.fasta> -o <chrN.consensus> -r 0.00005 –e 0.0001 -t -u -L  <Maximum Read Length> -M <chrN.mat> -s <chrN.dbSNP.txt> -2\r\n\n\n The result of SoapSNP “chrN.consensus” has 17 columns: chromosome ID, coordinate on chromosome, reference genotype, consensus genotype, quality score of consensus genotype, best allele, average quality score of best allele, count of uniquely mapped best allele, count of all mapped best allele, second best allele, average quality score of second best allele, count of uniquely mapped second best allele, count of all mapped second best allele, sequencing depth of the site, rank sum test p_value, average copy number of nearby region, whether the site is a dbSNP \\(0 is false; 1 is true). These kinds of information would be used in SNP extraction process."
+            }
+        ]
+    },
+    {
+        "title": "**SNP extraction**",
+        "body": [
+            {
+                "title": "8.",
+                "body": "Extract potential SNP sites from each consensus files \\(“chrN.consensus”), where the called genotypes are different from reference one, and the reference genotypes are not “N”. For each potential SNP sites, record its distance to the neighboring potential SNP."
+            },
+            {
+                "title": "9.",
+                "body": [
+                    "Filter the raw SNP dataset to get the confident SNP’s that satisfy the following criteria:",
+                    {
+                        "title": "a)",
+                        "body": "the quality score is larger than 20;"
+                    },
+                    {
+                        "title": "b)",
+                        "body": "each of the allele is supported by more than a certain number of reads \\(depending on the average sequencing depth, typically 2 for 20X data);"
+                    },
+                    {
+                        "title": "c)",
+                        "body": "the overall depth should be less than average plus 3 *standard deviation of sequencing depth;"
+                    },
+                    {
+                        "title": "d)",
+                        "body": "the average copy number of nearby region of the SNP is less than 2;"
+                    },
+                    {
+                        "title": "e)",
+                        "body": "each allele is supported by at least one paired-end reads;"
+                    },
+                    {
+                        "title": "f)",
+                        "body": "the site is at least 5bp away from another SNP."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Identification of indels**",
+        "body": [
+            {
+                "title": "10.",
+                "body": "Align all paired-end reads to the reference genome using SOAP in gap alignment mode:\r\n  soap -a <Reads1.fastq> -b <Reads2.fastq> -d <Reference.fasta> -o <PEalignment.soap> -2 <SEalignment.soap> -p <# of parallel processes> -c 52 -s 12 -m <maximum insert size> -x <minimum insert size> -g 3 -e 5"
+            },
+            {
+                "title": "11.",
+                "body": "Extract all gapped alignments from the SOAP result and merge them into a single file."
+            },
+            {
+                "title": "12.",
+                "body": "Sort all gapped alignments, first by chromosome names lexicographically, and then by coordinates on each chromosome."
+            },
+            {
+                "title": "13.",
+                "body": "Extract coordinates, sizes and numbers of supporting reads of potential indels from the alignments."
+            },
+            {
+                "title": "14.",
+                "body": "Select only one representative indel according to their numbers of supporting reads in each 10bp window. Thus indels are at least 10bp away from each other."
+            },
+            {
+                "title": "15.",
+                "body": [
+                    "Filter all potential indels to get the confident ones that satisfy the following criteria:",
+                    {
+                        "title": "a)",
+                        "body": "the indels are supported by at least 3 reads;"
+                    },
+                    {
+                        "title": "b)",
+                        "body": "number of ungapped alignment that cross the indels are no more than twice that of gapped reads."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Structural Variation Detection**",
+        "body": [
+            {
+                "title": "16.",
+                "body": "Extract all abnormally aligned paired-end reads, which have unexpected orientations and/or unexpected span size. Normally mapped read pairs are aligned in a forward-reverse pattern, i.e. the upstream read of a mapped pair is on the forward strand, and the downstream one is on the reverse strand."
+            },
+            {
+                "title": "17.",
+                "body": "Cluster abnormally aligned paired-end reads that have same alignment orientation and similar coordinates \\(distance between coordinates of two read pairs is smaller than paired-end insert size) on both ends of read pairs."
+            },
+            {
+                "title": "18.",
+                "body": [
+                    "Fit all abnormal paired-end clusters into alignment models \\(Figure",
+                    {
+                        "title": "1)",
+                        "body": "and call potential structural variations \\(SVs)."
+                    }
+                ]
+            },
+            {
+                "title": "19.",
+                "body": "Merge redundant called SVs."
+            },
+            {
+                "title": "20.",
+                "body": [
+                    "Filter potential structural variations to get confident ones which satisfy the following criteria:",
+                    {
+                        "title": "a)",
+                        "body": "each of the paired-end clusters that support the SV comprise at least 4 read pairs;"
+                    },
+                    {
+                        "title": "b)",
+                        "body": "the SV is not conflict with other SVs, otherwise they should be merged into a complex structural variation case."
+                    }
+                ]
+            }
+        ]
+    }
+]

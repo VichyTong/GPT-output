@@ -1,0 +1,197 @@
+[
+    [
+        "bone marrow",
+        "used to",
+        "mature mast cells"
+    ],
+    [
+        "interleukin 3",
+        "used to",
+        "mature mast cells"
+    ],
+    [
+        "RPMI 1640 medium",
+        "supplemented with",
+        "fetal bovine serum, penicillin, streptomycin, L-glutamine, &#x3B2;-mercaptoethanol, HEPES, and recombinant murine IL-3"
+    ],
+    [
+        "Pac-1-/- and Pac-1+/+ mice",
+        "used to",
+        "isolate bone"
+    ],
+    [
+        "anti-DNP IgE mAb",
+        "used to",
+        "sensitise cells"
+    ],
+    [
+        "DNP-HSA",
+        "used to",
+        "stimulate cells"
+    ],
+    [
+        "Flow Cytometry",
+        "used to",
+        "assess c-kit and Fc&#x3B5;RI positivity"
+    ],
+    [
+        "cytospin and staining with giemsa and toluidine blue",
+        "used to",
+        "assess cell morpholog"
+    ],
+    [
+        "BMMCs",
+        "transfected with",
+        "pG5E4D38-Luc plasmid"
+    ],
+    [
+        "BMMCs",
+        "transfected with",
+        "pSG-Gal-Elk-1 plasmid"
+    ],
+    [
+        "BMMCs",
+        "transfected with",
+        "lacZ-expression vector pCMVβ"
+    ],
+    [
+        "solution T",
+        "used for",
+        "transfection"
+    ],
+    [
+        "Amaxa nucleofector device",
+        "used for",
+        "transfection"
+    ],
+    [
+        "mock-transfect cells",
+        "used to measure",
+        "background luciferase and β-galactosidase activities"
+    ],
+    [
+        "Elk-1 reporter system",
+        "based on",
+        "hybrid fusion protein consisting of Gal4 DNA binding domain and Elk-1 transactivation domain"
+    ],
+    [
+        "Gal4 moiety",
+        "binds to",
+        "pG5E4D38-Luc plasmid"
+    ],
+    [
+        "Elk-1 moiety",
+        "phosphorylated by ERK within",
+        "Elk-1 reporter syste"
+    ],
+    [
+        "BMMCs",
+        "transfected with",
+        "pCMVβ and pNFAT-Luc plasmids"
+    ],
+    [
+        "pCMVβ plasmid",
+        "used for",
+        "transfection"
+    ],
+    [
+        "pNFAT-Luc plasmid",
+        "used for",
+        "transfection"
+    ],
+    [
+        "NFAT reporter plasmid",
+        "contains",
+        "three tandem copies of the distal NFAT:AP-1 composite element of the human IL-2 promoter"
+    ],
+    [
+        "NFAT reporter plasmid",
+        "carries",
+        "minimal IL-2 promoter and luciferase reporter gene"
+    ],
+    [
+        "NFAT reporter plasmid",
+        "transactivated only when",
+        "both NFAT and AP-1 are present in the nucleus and assembled to a ternary complex"
+    ],
+    [
+        "NFAT reporter plasmid",
+        "responds to",
+        "all known NFAT family members"
+    ],
+    [
+        "NFAT reporter plasmid",
+        "activated in a NFAT-dependent manner in",
+        "a variety of cell type"
+    ],
+    [
+        "BMMCs",
+        "plated in",
+        "culture medium"
+    ],
+    [
+        "RPMI 1640 medium",
+        "supplemented with",
+        "fetal bovine serum, penicillin, streptomycin, L-glutamine, &#x3B2;-mercaptoethanol, HEPES, and recombinant murine IL-3"
+    ],
+    [
+        "BMMCs",
+        "sensitised with",
+        "anti-DNP IgE antibodies"
+    ],
+    [
+        "BMMCs",
+        "stimulated with",
+        "DNP-HSA"
+    ],
+    [
+        "BMMCs",
+        "lysed in",
+        "luciferase lysis buffer"
+    ],
+    [
+        "raw luciferase activities",
+        "determined using",
+        "luciferase activity kit"
+    ],
+    [
+        "&#x3B2;-galactosidase activities",
+        "measured using",
+        "Galactostar and Galacton reagents"
+    ],
+    [
+        "mock-transfected cells",
+        "used for",
+        "background &#x3B2;-gal activity subtraction"
+    ],
+    [
+        "standardised luciferase activity",
+        "obtained by",
+        "dividing luciferase activity by relative &#x3B2;-gal activit"
+    ],
+    [
+        "mast cells",
+        "transfected with",
+        "WT Pac-1"
+    ],
+    [
+        "mast cells",
+        "transfected with",
+        "C257S Pac-1"
+    ],
+    [
+        "mast cells",
+        "transfected with",
+        "pMIG vector control"
+    ],
+    [
+        "2ug",
+        "used for",
+        "transfection"
+    ],
+    [
+        "Amaxa solution T",
+        "used for",
+        "transfectio"
+    ]
+]

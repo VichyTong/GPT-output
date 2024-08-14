@@ -1,0 +1,186 @@
+[
+    {
+        "title": "1.",
+        "body": [
+            "Add 80 mL of 100% ethanol to ",
+            {
+                "title": "**Wash Solution 2 BF**",
+                "body": "."
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Prepare rDNase by adding 3 mL ",
+            {
+                "title": "**Reaction Buffer for rDNase**",
+                "body": "to the rDNase vial. Incubate at room temperature for 1 minute. Swirl gently to dissolve – do NOT vortex. Aliquot and store at -20°C."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": "Transfer 200 µl of biofluid into a 1.5 ml microfuge tube."
+    },
+    {
+        "title": "4.",
+        "body": [
+            "Add 60 µl ",
+            {
+                "title": "**Lysis Solution BF**",
+                "body": "."
+            }
+        ]
+    },
+    {
+        "title": "5.",
+        "body": "Vortex for 5 seconds."
+    },
+    {
+        "title": "6.",
+        "body": "Incubate for 3 minutes at room temperature."
+    },
+    {
+        "title": "7.",
+        "body": [
+            "Add 20 μl of ",
+            {
+                "title": "**Protein Precipitation Solution BF**",
+                "body": "."
+            }
+        ]
+    },
+    {
+        "title": "8.",
+        "body": "Vortex for 5 seconds."
+    },
+    {
+        "title": "9.",
+        "body": "Incubate for 1 minute at room temperature."
+    },
+    {
+        "title": "10.",
+        "body": "Centrifuge sample for 3 min at 11,000 x g at room temperature."
+    },
+    {
+        "title": "11.",
+        "body": "Transfer the clear supernatant to a new microcentrifuge tube."
+    },
+    {
+        "title": "12.",
+        "body": "Add 270 μl isopropanol."
+    },
+    {
+        "title": "13.",
+        "body": "Vortex for 5 seconds."
+    },
+    {
+        "title": "14.",
+        "body": [
+            "Assemble the ",
+            {
+                "title": "**microRNA Spin Column BF**",
+                "body": "and load sample onto column."
+            }
+        ]
+    },
+    {
+        "title": "15.",
+        "body": "Incubate 2 minutes at room temperature."
+    },
+    {
+        "title": "16.",
+        "body": "Spin for 30 seconds at 11,000 x g. Discard flow-through."
+    },
+    {
+        "title": "17.",
+        "body": [
+            "Add 700 μl ",
+            {
+                "title": "**Wash Solution 2 BF**",
+                "body": "."
+            }
+        ]
+    },
+    {
+        "title": "18.",
+        "body": "Spin for 30 seconds at 11,000 x g. Discard flow-through."
+    },
+    {
+        "title": "19.",
+        "body": [
+            "Add 250 μl ",
+            {
+                "title": "**Wash Solution 2 BF**",
+                "body": "."
+            }
+        ]
+    },
+    {
+        "title": "20.",
+        "body": "Spin for 2 minutes at 11,000 x g."
+    },
+    {
+        "title": "21.",
+        "body": "Add 50 μl rDNAse directly onto the membrane of the spin column."
+    },
+    {
+        "title": "22.",
+        "body": "Incubate for 15 minutes at room temperature."
+    },
+    {
+        "title": "23.",
+        "body": [
+            "Add 100 μl ",
+            {
+                "title": "**Wash Solution 1 BF**",
+                "body": "."
+            }
+        ]
+    },
+    {
+        "title": "24.",
+        "body": "Spin for 30 seconds at 11,000 x g. Discard flow-through."
+    },
+    {
+        "title": "25.",
+        "body": [
+            "Add 700 μl ",
+            {
+                "title": "**Wash Solution 2 BF**",
+                "body": "."
+            }
+        ]
+    },
+    {
+        "title": "26.",
+        "body": "Spin for 30 seconds at 11,000 x g. Discard flow-through."
+    },
+    {
+        "title": "27.",
+        "body": [
+            "Add 250 μl ",
+            {
+                "title": "**Wash Solution 2 BF**",
+                "body": "."
+            }
+        ]
+    },
+    {
+        "title": "28.",
+        "body": "Spin for 2 minutes at 11,000 x g. Transfer spin column to fresh microfuge tube."
+    },
+    {
+        "title": "29.",
+        "body": "Add 50 μl water directly onto the membrane of the spin column."
+    },
+    {
+        "title": "30.",
+        "body": "Incubate for 1 minute at room temperature."
+    },
+    {
+        "title": "31.",
+        "body": "Spin for 1 minute at 11,000 x g."
+    }
+]

@@ -1,0 +1,145 @@
+[
+    "\nA) Surface sterilization of seeds\r\n\n\n1|Place seeds in sterile 50 ml plastic tubes and add approximately 35–40 ml sodium hypochlorite.\r\n\n\nCRITICAL STEP The seeds must be inbred line \\(self-fertilized for 8 generation at least). Pollen contamination results in phenotype and genotype interferences to the genes.\r\n\n\nCRITICAL STEP Do not exceed approximately 4–5 ml seeds per tube. Larger amount of seeds per tube results in incomplete surface sterilization.\r\n\n\nCRITICAL STEP Seeds should be surface sterilized completely to avoid contamination by microorganisms and fungi. \r\n\n\n2|Close the tube tightly and shake vigorously at room temperature \\(RT, 22–25 °C) for 20 min.",
+    {
+        "title": "3|",
+        "body": "Discard sodium hypochlorite and rinse the seeds five times by shaking for approximately 30 s in 40–45 ml sterile distilled water.\r\n\n\nCRITICAL STEP This and all subsequent steps should be performed in a laminar flow cabinet."
+    },
+    {
+        "title": "4|",
+        "body": "Decant the seeds into a sterile Petri plate for ease of handling the seeds in subsequent steps. \r\n\n\n\r\n\n\nB) Seed germination"
+    },
+    {
+        "title": "5|",
+        "body": "Transfer the surface-sterilized seeds with forceps onto filter paper in Petri plates, moist with sterilized water, allowing 50 seeds per plate."
+    },
+    {
+        "title": "6|",
+        "body": "Germinate the seeds in the dark at RT \\(22–25 °C) for 1 d.\r\n\n\n \r\n\n\nC) Vernalization"
+    },
+    {
+        "title": "7|",
+        "body": "Transfer Petri plates containing germinated seeds to 4ºC.\r\n\n\nCRITICAL STEP Do not place the germinated seeds in dark, as the dark condition delays vernalization. A fridge of 4ºC with glass door can be used for vernalization \r\n\n\n8|Maintain the seeds and seedlings at4°C for 20-30 d\r\n\n\nCRITICAL STEP The periods of vernalization for different cultivars my vary greatly and the threshold of shortest period for each cultivar must be tested before normal vernalization experiment. \r\n\n\nCRITICAL STEP Do not add nutrient solution in Petri plates, as this easily cause contamination. If the filter paper is dry, sterilized water can be added to.\r\n\n\n\r\n\n\nD) Growth of plants for bolting"
+    },
+    {
+        "title": "9|",
+        "body": "Pick up the seedlings \\(derived from germinated seeds) from the plates exposed to cold condition and transplant them into the plastic pots full of peat soil, with one plant each pot."
+    },
+    {
+        "title": "10|",
+        "body": "Grow the seedlings at 22/18°C in growth room for 30 d, waited for bolting and flowering of the first flowers. \r\n\n\nCRITICAL STEP The seedlings must be vernalized and able to flower at normal condition. \r\n\n\n\r\n\n\nE) Agrobacterium preparation"
+    },
+    {
+        "title": "11|",
+        "body": "Streak GV3301 harboring binary vector on 2–3 LB plates containing 100 μg ml<sup>-1</sup> rifampicin, 40 μg ml<sup>−1</sup> Gentamicin and 50 μg ml<sup>-1</sup> kanamycin. Incubate the plates for 2 d at 28 °C."
+    },
+    {
+        "title": "12|",
+        "body": "Inoculate a single colony of Agrobacterium from one of the plates into 10 ml LB liquid medium containing 100 μg ml<sup>-1</sup> rifampicin, 40 μg ml<sup>-1</sup> gentamicin and 50 μg ml<sup>-1</sup> kanamycin. Culture at 28 °C with shaking \\(250 r.p.m) for 24 h."
+    },
+    {
+        "title": "13|",
+        "body": [
+            "Dilute 5 ml Agrobacterium culture in 500 ml YEB liquid medium containing 100 μg ml<sup>-1</sup> rifampicin, 40 μg ml<sup>-1</sup> gentamicin and 50 μg ml<sup>-1</sup> kanamycin. Culture at 28 °C with shaking \\(250 r.p.m) for 18 h.\r\n\n\nCRITICAL STEP Shaking, temperature and duration \\(at least 36",
+            {
+                "title": "h)",
+                "body": "are important for good bacterial growth. The temperature can’t be higher than 30°C because Agrobacterium lose its plasmid in high temperature."
+            }
+        ]
+    },
+    {
+        "title": "14|",
+        "body": "Measure the OD at 650 nm using a spectrophotometer. \r\n\n\nCRITICAL STEP The OD of large scale culture must higher than 1.0, to get enough Agrobacterium for vacuum infiltration."
+    },
+    {
+        "title": "15|",
+        "body": "Spin the Agrobacterium culture down \\(4,300–5,500g is fine) for 10 min at 4ºC. Remove the supernatant and resuspend the pellet in liquid medium containing 30 g<sup>-1</sup> sugar. Adjust the OD \\(650 nm) to 0.05 with liquid medium. \r\n\n\n\r\n\n\nF) Agrobacterium infection and vacuum infiltration"
+    },
+    {
+        "title": "16|",
+        "body": "Fix the pots and soil with preservative film to avoid the soil to be scattered."
+    },
+    {
+        "title": "17|",
+        "body": "Remove the opened flowers and open up the floral buds with forceps.\r\n\n\nCRITICAL STEP The floral buds with final size or near final size generated more transformants than developing buds. Please do not open up small buds."
+    },
+    {
+        "title": "18|",
+        "body": "Add Silwet L-77 into Agrobacterium medium and adjust its concentration to 0.005%."
+    },
+    {
+        "title": "19|",
+        "body": "Place the plants upside down in a vacuum chamber. Pour Agrobacterium medium down the chamber and make the primary inflorescences immersed as much as possible. Batches of 3 to 5 rinsed plants were immersed in 4 L of Agrobacterium-containing medium in a glass vacuum chamber \\(20 L volume)."
+    },
+    {
+        "title": "20|",
+        "body": "Treat the plants under a vacuum \\(10 kPa) condition for 10-20 min. \r\n\n\nCRITICAL STEP Reduce the water content in the soil before vaccum infiltration. The plants with wilting leaves are more amenable to Agrobacterium infection. \r\n\n\nCRITICAL STEP Air bubbles released from the plant material should be evident."
+    },
+    {
+        "title": "21|",
+        "body": "Dry the opened floral buds and stigmas with ventilation. \r\n\n\nCRITICAL STEP The wet stigmas affect pollen attach and pollen tube growth."
+    },
+    {
+        "title": "22|",
+        "body": "Rapidly pollinate the stigmas with the pollens of non-infiltrated siblings. \r\n\n\nCRITICAL STEP The pollens of the infiltrated plants are impaired and are not able to normally germinate and fertilize.\r\n\n\nCRITICAL STEP Pollinate stigmas as soon as possible. The quick pollination after opening up of the floral buds is useful for Agrobacterium infection and T-DNA integration in plant genome.\r\n\n\n\r\n\n\nG) Seed set"
+    },
+    {
+        "title": "23|",
+        "body": "Wrap the plants in plastic wrap to maintain humidity and place the pots back in the dark and grow them in growth room for two days"
+    },
+    {
+        "title": "24|",
+        "body": "Transfer the pots to growth room and grow them at 22°C for 16h light and 18°C for 8h dark for 30 d."
+    },
+    {
+        "title": "25|",
+        "body": "Transfer the pots to 25-28 °C after seeds reach the final size. Higher temperature \\(25-28 °C) accelerates seed maturity."
+    },
+    {
+        "title": "26|",
+        "body": "Harvest seeds on each plant and dry them naturally.\r\n\n\n\r\n\n\nH) Transformant selection"
+    },
+    {
+        "title": "27|",
+        "body": "The seeds derived from the infiltrated plants are placed at 4°C for 7 days in order to break up dormancy."
+    },
+    {
+        "title": "28|",
+        "body": "Sterilize seeds as the procedures 1-4."
+    },
+    {
+        "title": "29|",
+        "body": "Sow the seeds on the solid medium containing 30 g/L sucrose, 500 mg/L carbenicillin, and 17 mg/L hygromycin."
+    },
+    {
+        "title": "30|",
+        "body": "Choose the seedlings with long hypocotyls and hairy roots for the transformants."
+    },
+    {
+        "title": "31|",
+        "body": "Transplants the transformed seedlings to the pots.\r\n\n\n\r\n\n\nI) Identification of the transgenes"
+    },
+    {
+        "title": "32|",
+        "body": "Collect the leaf samples from the transformed plants for identification of the transgenes by Southern hybridization and PCR"
+    },
+    {
+        "title": "33|",
+        "body": "Extract genomic DNA from leaf samples using a modified CTAB method \\(Aldrich and Cullis, 1993; Ausubel et al., 1994)."
+    },
+    {
+        "title": "34|",
+        "body": "Digest DNA samples with suitable restriction enzymes and separate them in 1% agarose gel at 80V for 3 hr."
+    },
+    {
+        "title": "35|",
+        "body": "Transfer DNA framents to a Hybond membrane \\(Amersham Biosciences, GE Healthcare), and incubate the membrane in 1×TAE overnight at 250 mA."
+    },
+    {
+        "title": "36|",
+        "body": "Hybridize the UV cross-linked membrane in DIG EASY Hyb® buffer \\(Roche) using the probes amplified from CaMV 35S or GUS reporter gene sequence by PCR DIG probe synthesis mix \\(Roche)."
+    },
+    {
+        "title": "37|",
+        "body": "Detect the hybridization signals using CDP-Star \\(Roche) and image them by FLA-5000 Phosphorimager \\(FujiFilm)."
+    }
+]

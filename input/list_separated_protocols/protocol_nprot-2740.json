@@ -1,0 +1,171 @@
+[
+    {
+        "title": "**Sequence Trimming and Assembly**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Drag sequences from bidirectional Sanger sequence output \\(.ab1 files containing electropherograms) into \"GeneiousPro\"http://www.geneious.com/web/geneious/download-geneious main window."
+            },
+            {
+                "title": "2.",
+                "body": "Select both sequences, right click and choose \"trim ends\" and choose default values."
+            },
+            {
+                "title": "3.",
+                "body": "Select trimmed sequences and click deNovo assembly option under \"assembly\" menu."
+            },
+            {
+                "title": "4.",
+                "body": "Right click assembled sequence and choose \"Generate Consensus Sequence\", name it and describe with NCBI Taxon ID-if any."
+            }
+        ]
+    },
+    {
+        "title": "**BLASTn Sequence Similarity Search**",
+        "body": [
+            {
+                "title": "5.",
+                "body": "Select the sequence generated in step 4 and choose \"sequence search\" option on the top menu."
+            },
+            {
+                "title": "6.",
+                "body": "In the BLAST options, choose BLASTn \\(Nucleotide BLAST) as the database, opt for \"Fully annotate hits\" and choose 100 as number of hits."
+            },
+            {
+                "title": "7.",
+                "body": "Once the search is complete, drag these results to the folder in which you are working."
+            },
+            {
+                "title": "8.",
+                "body": "In the left panel, choose 'NCBI > Nucleotide\" and get additional sequences of interest. This include target taxonomic representatives and suitable outgroups.Drag all pertinent results to the folder."
+            }
+        ]
+    },
+    {
+        "title": "**Multiple Sequence Alignment \\(MSA)**",
+        "body": [
+            {
+                "title": "9.",
+                "body": "Select all sequences that need to be aligned and choose Ctrl+Shift+A"
+            },
+            {
+                "title": "10.",
+                "body": "Align first by Geneious alignment, with default parameters. Make sure \"Automatically determine sequence's direction\" is selected."
+            },
+            {
+                "title": "11.",
+                "body": "Align once again \\(Ctrl_Shift+A) using MUSCLE alignment with 8 iterations."
+            },
+            {
+                "title": "12.",
+                "body": "Once sequence is aligned, zoom to check accuracy of the alignment. Obviously un-alignable sequences should be removed and realigned. Ends of the alignment may be trimmed to match ends of query sequence. Alignment should be carefully edited by eye and introduce gaps wherever necessary."
+            }
+        ]
+    },
+    {
+        "title": "**Importing MSA in MEGA and performing analysis there**",
+        "body": [
+            {
+                "title": "13.",
+                "body": "Select the final trimmed alignment and choose Ctrl+Shift+E"
+            },
+            {
+                "title": "14.",
+                "body": "Choose FASTA and all the default options, and save it to a folder of your data"
+            },
+            {
+                "title": "15.",
+                "body": "Open this folder, right click on the fasta file and choose “Open with MEGA”"
+            },
+            {
+                "title": "16.",
+                "body": "In the alignment Explorer window of MEGA, choose “Phylogenetic analysis” in the main menu."
+            },
+            {
+                "title": "17.",
+                "body": "Choose appropriate option. If sequence is Introns or other non-coding regions, choose no. If sequence is a CDS/Gene, choose Yes."
+            },
+            {
+                "title": "18.",
+                "body": "In the MEGA main menu, choose “Find best DNA/Protein Models” under _Models_."
+            },
+            {
+                "title": "19.",
+                "body": "Choose an appropriate options. For sequences with many gaps, “use all sites” may be appropriate. For general, good quality alignments, “Complete deletion” option is better. Perform the ModelTest."
+            },
+            {
+                "title": "20.",
+                "body": "In the result table, choose the first model and note its BIC score to quote in paper."
+            },
+            {
+                "title": "21.",
+                "body": "In the MEGA main menu, choose Distance > Compute Pairwise Distance"
+            },
+            {
+                "title": "22.",
+                "body": "In the options, choose appropriate. Choose the best model found in step"
+            },
+            {
+                "title": "20.",
+                "body": "Choose same options selected for step"
+            },
+            {
+                "title": "19.",
+                "body": "Perform the analysis."
+            },
+            {
+                "title": "23.",
+                "body": "Result of distance matrix will be presented. Choose “export/print distances” from file menu and choose lower-left matrix with excel as output format."
+            },
+            {
+                "title": "24.",
+                "body": "In the MEGA main menu, choose Phylogeny >Construct/Test ML Phylogeny"
+            },
+            {
+                "title": "25.",
+                "body": "Choose appropriate options. Choose the best model found in step"
+            },
+            {
+                "title": "20.",
+                "body": "Choose same options selected for step"
+            },
+            {
+                "title": "19.",
+                "body": "Choose 1000 bootstrap replicates. Perform the analysis."
+            },
+            {
+                "title": "26.",
+                "body": "Save this tree in a vector format and export as .nexus for uploading to TreeBASE."
+            }
+        ]
+    },
+    {
+        "title": "**Performing Bayesian Inference Phylogeny**",
+        "body": [
+            {
+                "title": "27.",
+                "body": "Go back to Geneious and choose the same alignment."
+            },
+            {
+                "title": "28.",
+                "body": "In the Tree option, choose MrBayes \\(with MrBayes add-in installed). Choose pertinent options. Choose the best model found in step"
+            },
+            {
+                "title": "20.",
+                "body": "Choose same options selected for step"
+            },
+            {
+                "title": "19.",
+                "body": "If the best model is not available, choose the model with lowest BIC score from available options. Perform the analysis."
+            },
+            {
+                "title": "29.",
+                "body": "Save this tree in a vector format and export as .nexus for uploading to TreeBASE."
+            },
+            {
+                "title": "30.",
+                "body": "Use appropriate vector image editor \\(Adobe Illustrator) to combine these two trees and make the final tree."
+            }
+        ]
+    }
+]

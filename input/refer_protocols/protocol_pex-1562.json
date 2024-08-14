@@ -1,0 +1,14 @@
+[
+    {
+        "index": 12,
+        "string": "Thereafter, we followed the procedure demonstrated by Chalmers et al<sup>11</sup>.</p><p><br></p><p><strong>Downstream analysis of proteomics and proteogenomics data</strong></p><p><em>Cancer- and driver-related proteins (CDRPs)</em></p><p>CDRPs were defined based on membership in 10 cancer-related signaling pathways as previously described<sup>12</sup>, and/or if causally linked to cancer according to the COSMIC cancer gene census effort<sup>13</sup>.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the definition of CDRPs based on membership in 10 cancer-related signaling pathways."
+    },
+    {
+        "index": 14,
+        "string": "CDRP annotation was performed using previously published information related to protein function as transcription factors, chromatin remodeling factor or transcription factor co-factor according to AnimalTFdb<sup>14</sup>; protein kinase<sup>15</sup>; protein phosphatase<sup>16</sup>; ubiquitin E3 ligase<sup>17</sup>; protein subcellular localization according to SubCellBarCode resource (www.subcellbarcode.org)<sup>18</sup>; and annotation as drug target<sup>19</sup>.</p><p><em>Proteogenomics 6FT search</em></p><p>The IPAW proteogenomics pipeline for novel peptides was implemented as previously described<sup>20</sup>.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the method or procedure mentioned earlier in the text."
+    }
+]

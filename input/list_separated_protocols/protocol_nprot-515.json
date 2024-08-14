@@ -1,0 +1,58 @@
+[
+    {
+        "title": "1.",
+        "body": "Pre-warm the stripping buffer at 65°C."
+    },
+    {
+        "title": "2.",
+        "body": "Pre-warm the hybridization oven at 65°C."
+    },
+    {
+        "title": "2.",
+        "body": "Fill the tiling chip with 200 μl pre-warmed stripping buffer."
+    },
+    {
+        "title": "3.",
+        "body": "Place the chip in hybridization oven at 65°C. Rotate 20 min at 60 rpm."
+    },
+    {
+        "title": "4.",
+        "body": "Remove stripping buffer. Strip again with another 200 μl of stripping buffer for 10 min."
+    },
+    {
+        "title": "5.",
+        "body": "Repeat step 4 for one more time."
+    },
+    {
+        "title": "6.",
+        "body": "Remove the stripping buffer and fill with 200 μl of wash buffer A to wash. Place the chip in the hybridization oven at 65°C. Rotate 5 min at 60 rpm."
+    },
+    {
+        "title": "7.",
+        "body": "Remove the wash buffer and repeat step 6 twice."
+    },
+    {
+        "title": "8.",
+        "body": "Fill with 250 μl storage buffer. Scan chip to check stripping efficiency."
+    },
+    {
+        "title": "9.",
+        "body": "Scan the chip to check the scanned image."
+    },
+    {
+        "title": "10.",
+        "body": "If no signal is detected on the image, proceed to hybridize with the target \\(re-probe)."
+    },
+    {
+        "title": "11.",
+        "body": "Change the oven temperature to 45°C."
+    },
+    {
+        "title": "12.",
+        "body": "Replace the storage buffer with pre-hybridization buffer. Place the chip in the hybridization oven at 45°C. Rotate 5 min at 60 rpm."
+    },
+    {
+        "title": "13.",
+        "body": "If not re-probed immediately, the chip can be stored at 4°C overnight."
+    }
+]

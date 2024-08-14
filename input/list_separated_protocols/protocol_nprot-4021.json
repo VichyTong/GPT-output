@@ -1,0 +1,56 @@
+[
+    {
+        "title": "**Cell reprogramming with NF-κB pharmacological inhibitors**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Retroviral vectors expressing human OCT4, SOX2, KLF4 and c-MYC were transfected in HEK-293T cells \\(5x10<sup>6</sup> cells per 10 cm plate each) along with packaging plasmids to produce retrovirus."
+            },
+            {
+                "title": "2)",
+                "body": "Human primary fibroblasts were seeded at a density of 1x10<sup>5</sup> cells per well in 6-well plates."
+            },
+            {
+                "title": "3)",
+                "body": "Twenty four h after plating, cells were infected with retroviral supernatants and the same procedure was repeated every 12 h for 2 days \\(a total of four additions) \\(Figure 1)."
+            },
+            {
+                "title": "4)",
+                "body": "The day after last infection \\(day 3), medium was replaced with fibroblasts medium, and kept for three more days. NF-κB inhibitors were added at this point and maintained along the reprogramming process \\(IKK-VII, 0.5 µM and sodium salicylate, 0.2 mM) \\(Note 1)."
+            },
+            {
+                "title": "5)",
+                "body": "At day 7, cells were trypsinized and reseeded on feeder plates \\(Note 2)."
+            },
+            {
+                "title": "6)",
+                "body": "On day 8, medium was changed to human iPSC medium."
+            },
+            {
+                "title": "7)",
+                "body": "Cultures were maintained with daily medium changes for 4 weeks. At that point, colonies were isolated and expanded on a feeder layer or Tra-1-60 stained for evaluating reprogramming efficiency."
+            }
+        ]
+    },
+    {
+        "title": "**Cell reprogramming with NF-κB genetic inhibitors**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Retroviral vectors expressing human OCT4, SOX2, KLF4, c-MYC, IκBα-SR or IKK2-KI were transfected in HEK-293T cells \\(5x10<sup>6</sup> cells per 10 cm plate each) along with packaging plasmids to produce retrovirus."
+            },
+            {
+                "title": "2)",
+                "body": "Human primary fibroblasts were seeded at a density of 1x10<sup>5</sup> cells per well in 6-well plates."
+            },
+            {
+                "title": "3)",
+                "body": "Twenty four h after plating, cells were infected with retroviral supernatants and the same procedure was repeated every 12 h for 2 days \\(a total of four additions)."
+            },
+            {
+                "title": "4)",
+                "body": "Cells were trypsinized at day 7 and reseeded on feeder plates. On day 8, medium was changed to human iPSC medium and cultures were maintained with daily medium changes for 4 weeks."
+            }
+        ]
+    }
+]

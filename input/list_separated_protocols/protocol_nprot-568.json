@@ -1,0 +1,78 @@
+[
+    {
+        "title": "1.",
+        "body": "Inoculate 50 ml of LB+Cm25 with a single colony of FlyFos strain. Culture overnight at 37°C with vigorous shaking.\r\n  \r\n\n\nNOTE: Please follow ▲ or ●  symbols throughout the protocol for options tailored to different volumes."
+    },
+    {
+        "title": "2.",
+        "body": "Use ▲ 2 x 1 ml or ● 2 x 5 ml to inoculate ▲ 2 x 100 ml or ● 2 x 500 ml LB+Cm25+Ara0.1% in ▲ 500 ml or ● 2500 ml flasks. Culture overnight at 37°C. Shake cultures vigorously – minimum 250 rpm."
+    },
+    {
+        "title": "3.",
+        "body": "Harvest the bacterial cells by centrifugation at 6000 x g for 15 min at 4°C."
+    },
+    {
+        "title": "4.",
+        "body": "Resuspend the bacterial pellet from both flasks combined in ▲ 8 ml or ● 50 ml of Buffer P1."
+    },
+    {
+        "title": "5.",
+        "body": "Add ▲ 8 ml or ● 50 ml of Buffer P2, mix thoroughly by vigorously inverting 4–6 times, and incubate at room temperature for 5 min."
+    },
+    {
+        "title": "6.",
+        "body": "Add ▲ 8 ml or ● 50 ml of chilled Buffer P3, mix immediately\r\n  and thoroughly by vigorously inverting 4–6 times, and incubate on ice for 30 min."
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge at ≥20,000 x g for 30 min at 4°C. Remove supernatant containing plasmid DNA promptly."
+    },
+    {
+        "title": "8.",
+        "body": "Place folded Whatmann filter in a 50 ml syringe. Prewet and compress filter by passing water through the syringe. Use such prepared syringe for filtering supernatant."
+    },
+    {
+        "title": "9.",
+        "body": "Precipitate the DNA by adding ▲ 17 ml or ● 105 ml \\(0.7 volumes) of room temperature isopropanol to the lysate. Centrifuge at ≥15,000 x g for 30 min at 4°C, and carefully decant the supernatant."
+    },
+    {
+        "title": "10.",
+        "body": "Redissolve the DNA pellet in 500 μl warm \\(60°C) TE buffer, pH 8.0, and add Buffer QBT to obtain a final volume of ▲ 5 ml or ● 12 ml for selected ▲ QIAGEN-tip 100 or ● QIAGEN-tip 500, respectively."
+    },
+    {
+        "title": "11.",
+        "body": "Equilibrate a ▲ QIAGEN-tip 100 or ● QIAGEN-tip 500 by applying ▲ 4 ml or ● 10 ml Buffer QBT, and allow the column to empty by gravity flow."
+    },
+    {
+        "title": "12.",
+        "body": "Apply the DNA solution from step 10 to the QIAGEN-tip and allow it to enter the resin by gravity flow."
+    },
+    {
+        "title": "13.",
+        "body": "Wash the QIAGEN-tip with ▲ 2 x 10 ml or ● 2 x 30 ml Buffer QC."
+    },
+    {
+        "title": "14.",
+        "body": "Elute DNA with ▲ 5 ml or ● 15 ml Buffer QF."
+    },
+    {
+        "title": "15.",
+        "body": "Precipitate DNA by adding ▲ 3.5 ml or ● 10.5 ml \\(0.7 volumes) of room temperature isopropanol to the eluted DNA. Mix and centrifuge immediately at ≥15,000 x g for 30 min at 4°C. Carefully decant the supernatant."
+    },
+    {
+        "title": "16.",
+        "body": "Wash DNA pellet with ▲ 2 ml or ● 5 ml room-temperature 70% ethanol, and centrifuge at ≥15,000 x g for 10 min. Carefully decant the supernatant without disturbing the pellet."
+    },
+    {
+        "title": "17.",
+        "body": "Wash DNA pellet again with ▲ 2 ml or ● 5 ml room-temperature 70% ethanol, and centrifuge at ≥15,000 x g for 10 min. Carefully decant the supernatant without disturbing the pellet."
+    },
+    {
+        "title": "18.",
+        "body": "Air-dry the pellet for 5–10 min, and redissolve the DNA in a suitable volume \\(▲ 50 μl or ● 250 μl) of warm \\(60°C) nulcease-free water."
+    },
+    {
+        "title": "19.",
+        "body": "You should obtain in total ▲ 100 μg or ● 500 μg of pure injection-quality fosmid DNA."
+    }
+]

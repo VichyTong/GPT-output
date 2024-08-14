@@ -1,0 +1,34 @@
+[
+    {
+        "title": "1.",
+        "body": "Anesthetize the mouse"
+    },
+    {
+        "title": "2.",
+        "body": "Using a 1 ml syringe withdraw 0,5 ml of mouse blood from the heart ventricle"
+    },
+    {
+        "title": "3.",
+        "body": "Inject 1 ml of China Ink and wait for 30 sec \\(until the eyes, mouth and legs became black)"
+    },
+    {
+        "title": "4.",
+        "body": "Quickly dissect and fix in 4% PFA over night at 4°C"
+    },
+    {
+        "title": "5.",
+        "body": "Treat the sample with a solution of 0,5% KOH for one day"
+    },
+    {
+        "title": "6.",
+        "body": "Treat the sample with a solution of 0,5% KOH/Glycarol 2:1 one day"
+    },
+    {
+        "title": "7.",
+        "body": "Treat the sample with a solution of 0,5% KOH/Glycerol 1:1 for one day"
+    },
+    {
+        "title": "8.",
+        "body": "Treat the sample with 100% Glycerol for one day \\(in order to visualize clearly all the inner blood vessels)"
+    }
+]

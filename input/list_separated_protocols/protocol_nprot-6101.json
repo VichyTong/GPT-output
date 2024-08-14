@@ -1,0 +1,219 @@
+[
+    {
+        "title": "**I. Barcode induction**",
+        "body": [
+            "_a) Embryonic mice_",
+            {
+                "title": "1.",
+                "body": "Set up timed matings between _Rosa26<sup>Polylox/Polylox</sup>_ and _Tie2<sup>MCM/+</sup>_ mice."
+            },
+            {
+                "title": "2.",
+                "body": "Nine days after the day of the plug \\(day 0.5), treat pregnant mice by oral gavage with a single dose of 2.5 mg tamoxifen and 1.25 mg progesterone to induce barcoding in the developing embryos at E9.5. Tamoxifen stock solution is prepared by dissolving 1 g tamoxifen in 4 ml absolute ethanol and 36 ml peanut oil at 55 °C. Stock solution can be stored at -20 °C."
+            },
+            {
+                "title": "3.",
+                "body": "The pups are delivered on E20.5 by caesarean section and raised by foster mothers."
+            },
+            {
+                "title": "4.",
+                "body": "Genotype the pups for the _Tie2<sup>MCM</sup>_ allele at 3-4 weeks after birth on genomic DNA prepared from tail biopsies using primers #972, #984 and #HL14. PCR conditions are as follows: 2 min at 94 °C; \\(20 s at 94 °C, 30 s at 62 °C, 1 min at 72 °C) 35 times; 5 min at 72 °C."
+            },
+            {
+                "title": "5.",
+                "body": "Successful tamoxifen induction of _Rosa26<sup>Polylox/+</sup>Tie2<sup>MCM/+</sup>_ mice is tested by PCR amplification of the _Polylox_ locus from genomic DNA of Ficoll-separated peripheral blood leukocytes. The _Polylox_ PCR is performed with the Expand Long Template PCR system using primers #2450 and #2427, annealing at the 5’ and 3’ anchor regions of the _Polylox_ cassette, respectively. PCR conditions are as follows: 5 min at 95 °C; \\(30 s at 95 °C, 30 s at 56 °C, 5 min at 72 °C) repeat 35 times; 10 min at 72 °C. Separate PCR products by gel electrophoresis.\r\n  \r\n\n\n\r\n\n\n_b) Adult mice_"
+            },
+            {
+                "title": "1.",
+                "body": "Prepare tamoxifen stock solution by dissolving 1 g tamoxifen in 4 ml absolute ethanol and 36 ml peanut oil at 55 °C."
+            },
+            {
+                "title": "2.",
+                "body": "Adult _Rosa26<sup>Polylox/+</sup>Tie2<sup>MCM/+</sup>_ mice are injected intraperitoneally with 1 mg tamoxifen on five consecutive days."
+            },
+            {
+                "title": "3.",
+                "body": "Successful tamoxifen induction of _Rosa26<sup>Polylox/+</sup>Tie2<sup>MCM/+</sup>_ mice is tested by PCR amplification of the _Polylox_ locus as described above \\(Section Ia 5.)"
+            }
+        ]
+    },
+    {
+        "title": "**II. Organ preparation**",
+        "body": [
+            "On the day of analysis, mice are sacrificed by carbon dioxide inhalation. Peritoneal cells should be harvested by peritoneal lavage before any other abdominal organs are prepared. \r\n\n\n\r\n\n\n_a) Peritoneal Cavity_",
+            {
+                "title": "1.",
+                "body": "Harvest peritoneal exudate cells by lavage of the peritoneal cavity for 5 times with 2 ml of 5% FACS buffer \\(DPBS with 5% vol/vol FBS)."
+            },
+            {
+                "title": "2.",
+                "body": "Small opening and gentle lavage with plastic Pasteur pipettes is helpful to avoid injury and blood cell contamination.\r\n  \r\n\n\n\r\n\n\n_b) Spleen_"
+            },
+            {
+                "title": "1.",
+                "body": "Take out the spleen and cut the organ into small pieces in 5% FACS buffer using surgical scissors."
+            },
+            {
+                "title": "2.",
+                "body": "To obtain a single cell suspension of splenocytes, the minced spleen is passed through a 40-μm filter using 5% FACS buffer and the plunger of a 5-ml syringe.\r\n  \r\n\n\n\r\n\n\n_c) Bone Marrow_"
+            },
+            {
+                "title": "1.",
+                "body": "Prepare femora and tibiae \\(humerus, pelvis and vertebrae can also be included to maximize bone marrow recovery)."
+            },
+            {
+                "title": "2.",
+                "body": "Bone marrow cells are either flushed from the long bones with 5% FACS buffer, or all bones are crashing in a mortar in 5% FACS buffer."
+            },
+            {
+                "title": "3.",
+                "body": "Resuspend the extracted bone marrow cells by repeated pipetting and remove remaining bone pieces by filtering through a 40-μm mesh."
+            }
+        ]
+    },
+    {
+        "title": "**III. Purification of cells by FACS sorting**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Determine the concentration of the cell suspensions, e.g. on an automated cell counter. This was done using Cellometer Auto 2000 Cell Viability Counter according to the manufacturer’s protocol."
+            },
+            {
+                "title": "2.",
+                "body": "Block Fc receptors by incubation of the cells \\(5x10<sup>6</sup> cells/50 μl) for 15 min with 300 μg/ml whole mouse IgG."
+            },
+            {
+                "title": "3.",
+                "body": "Add cocktails with titrated concentrations of fluorescent dye-labeled antibodies in 5% FACS buffer and stain the cells for 45 min in the dark on ice. Afterwards, wash cells in an appropriate amount of 5% FACS buffer."
+            },
+            {
+                "title": "4.",
+                "body": "For dead cell exclusion e.g. add 100 nM SYTOX Blue at least 5 min before analysis."
+            },
+            {
+                "title": "5.",
+                "body": "Cell suspensions should be filtered directly to remove any cell clumps before being placed on the FACS sorter, e.g. by passing the suspension through the mash of a snap cap cell strainer."
+            },
+            {
+                "title": "6.",
+                "body": "Stained cells are analyzed on a FACSAriaIII cell sorter running BD FACSDiva software and populations of interest are sorted into 20% FACS collection buffer \\(DPBS containing 20% FBS). Alternatively, cells can directly be sorted into PCR buffer."
+            },
+            {
+                "title": "7.",
+                "body": "Aliquots of the sorted cells should be reanalyzed to determine sort purity."
+            }
+        ]
+    },
+    {
+        "title": "**IV. PCR amplification of the _**",
+        "body": "Polylox"
+    },
+    {
+        "title": "**_ locus**",
+        "body": [
+            "_a) From single cells via nested PCR_",
+            {
+                "title": "1.",
+                "body": "By FACS sorting individual cells are deposited into 8-tube PCR stripes containing in each well 25 μl of 1x PCR buffer supplemented with 12.6 μg Proteinase K."
+            },
+            {
+                "title": "2.",
+                "body": "Perform lysis for 1 h at 55 °C, terminate at 95 °C for 10 min, and cool down to 4 °C before adding the remaining PCR reagents to a final volume of 50 μl."
+            },
+            {
+                "title": "3.",
+                "body": "Amplification of the _Polylox_ cassette is done by nested PCR using the Expand Long Template PCR system: \r\n      - First round PCR: primer #2450 and primer #494 for 5 min at 95 °C; \\(30 s at 95 °C, 30 s at 56 °C, 5 min at 72 °C) repeat 35 times; 10 min at 72 °C. \r\n\n\n    - Second round PCR: Use 1-2 μl of the first PCR reaction as template and amplify with primers #2426 and #2427 for 5 min at 95 °C; \\(30 s at 95 °C, 30 s at 62 °C, 5 min at 72 °C) 35 times; 10 min at 72 °C."
+            },
+            {
+                "title": "4.",
+                "body": "The nested PCR products are analyzed by gel electrophoresis for product length, and sent for Sanger sequencing \\(e.g. GATC Biotech).\r\n  \r\n\n\n\r\n\n\n_b) Cell populations \\(10,000-50,000 cells) by direct PCR_"
+            },
+            {
+                "title": "1.",
+                "body": "Sort cells into 1.5 ml Eppendorf tubes containing 300 μl of 20% FACS buffer."
+            },
+            {
+                "title": "2.",
+                "body": "Use 2-5% of the sorted cells for reanalysis and harvest the remaining cells by centrifugation for 5 min at 1500 g and 4 ºC."
+            },
+            {
+                "title": "3.",
+                "body": "Turn the tube 180° in the rotor and spin again for 5 min at 1500 g."
+            },
+            {
+                "title": "4.",
+                "body": "Carefully remove the supernatant and resuspend with 25 μl lysis buffer \\(1x PCR buffer 1 from the Expand Long Template PCR system in water and 12.6 μg Proteinase K). Digest at 55 °C for 1 hour and terminate the reaction at 95 °C for 10 min. DNA can be at -20 °C, but the experiment should continued swiftly."
+            },
+            {
+                "title": "5.",
+                "body": "PCR amplification of the _Polylox_ locus is as described above \\(Section Ia 5.)"
+            },
+            {
+                "title": "6.",
+                "body": "Visualize PCR products \\(one third of the PCR reaction) by gel electrophoresis.\r\n  \r\n\n\n\r\n\n\n_c) Cell populations \\(>50,000 cells) via phenol-chloroform DNA extraction_"
+            },
+            {
+                "title": "1.",
+                "body": "Sort cells into 2 ml 20% FACS collection buffer and harvest the cell pellet by centrifuge at 400 g for 10 min after reanalysis for sort purity."
+            },
+            {
+                "title": "2.",
+                "body": "Carefully remove the supernatant leaving 50-100 μl of the supernatant to avoid disturbing of the cell pellet."
+            },
+            {
+                "title": "3.",
+                "body": "Resuspend the pellet in 500 μl freshly prepared proteinase K-solution \\(10 mM Tris-HCl pH 8, 5 mM EDTA, 1% SDS, 0.3 M Na-acetate, 0.2 mg/ml proteinase K) and incubated at 37 °C for at least 3 hours."
+            },
+            {
+                "title": "4.",
+                "body": "From the lysate, purify genomic DNA by phenol-chloroform extraction. Briefly, extract once with an equal volume of a 1:1 mixture of phenol and chloroform. Then extract the aqueous phase at least twice with an equal volume of chloroform. Precipitate the DNA by adding 1/10 volume of Na-acetate \\(3M) pH 5 and 1 volume of isopropanol and 5-20 μg glycogen for 1 hour at –20 °C. Spin at 16000 g for 10 min and wash the DNA pellet twice with 75% ethanol. Dissolve the air-dried pellet in water. Measure DNA concentration."
+            },
+            {
+                "title": "5.",
+                "body": "The _Polylox_ cassette is readily amplified from 100-200 ng of template DNA \\(representing 1.7 - 3.5 x10<sup>4</sup> cells) by PCR using the conditions described above \\(Section Ia 5.)"
+            },
+            {
+                "title": "6.",
+                "body": "PCR products \\(one third of the PCR reaction) are observed by gel electrophoresis."
+            }
+        ]
+    },
+    {
+        "title": "**V. _**",
+        "body": "Polylox"
+    },
+    {
+        "title": "**_ Sequencing**",
+        "body": [
+            "_a) Sanger sequencing from single cells_\r\n\n\n_Polylox_ amplicons from single cells were sequenced by primer walking, using a commercial service \\(e.g. GATC biotech, Germany). PCR products were either purified by QIAquick PCR Purification Kit, or DNA clean up was done by the provider of the sequencing service.\r\n\n\n\r\n\n\n\r\n\n\n_b) SMRT sequencing from cell populations_",
+            {
+                "title": "1.",
+                "body": "Use the entire PCR product that is left after gel electrophoresis for an initial AMPure PB bead clean up step. Perform according to the manufacturer’s protocol."
+            },
+            {
+                "title": "2.",
+                "body": "For quality control determine DNA concentration by Qubit measurement and perform a Bioanalyzer run according to the manufacturers’ protocols."
+            },
+            {
+                "title": "3.",
+                "body": "Continue library preparation for PacBio SMRT sequencing according to the “Amplicon Template Preparation and Sequencing” protocol released by the company.\r\n  http://www.pacb.com/wp-content/uploads/Procedure-Checklist-Amplicon-Template-Preparation-and-Sequencing.pdf"
+            },
+            {
+                "title": "4.",
+                "body": "Perform primer annealing and polymerase binding according to the manufacturer’s protocol."
+            },
+            {
+                "title": "5.",
+                "body": "Load the library by Magbead mode \\(PacBio RS II) or diffusion mode \\(PacBio Sequel) for SMRT sequencing. We usually recorded for 4 hours."
+            }
+        ]
+    },
+    {
+        "title": "**VI. Barcode identification**",
+        "body": "The SMRT sequencing yields data files with CCS reads. The following part explains the retrieval of _Polylox_ barcodes from PacBio CCS Reads \\(RPBPBR). \r\n\n\n\r\n\n\n_a) Software and hardware_\r\n\n\n• Data \\(PacBio CCS reads, either in fasta or fastq format)\r\n\n\n• _Polylox_ adapters and segments \\(provided in the data folder of RPBPBR toolkit)\r\n\n\n• Bowtie2 software \\(http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)\r\n\n\n• SAMtools \\(http://www.htslib.org/)\r\n\n\n• RPBPBR toolkit \\(https://github.com/sunlightwang/RPBPBR) \r\n\n\n• Hardware: Computer running either Linux or Mac OS X \\(10.6 Snow Leopard or later; at least 4 GB of RAM \\(8 GB per core preferred); at least quad-core CPU\r\n\n\n• Perl \\(https://www.perl.org/ ) by default already installed in Linux or Mac OS X computers\r\n\n\n\r\n\n\n_b) Software setup_\r\n\n\nCommands given in the protocol are runnable at the UNIX shell prompt, which are prefixed with a ‘$’ character. \r\n\n\n\r\n\n\n_To install the SAMtools_, download the SAMtools \\(http://www.htslib.org/download/) and unpack the SAMtools tarball: \r\n\n\n$ tar jxvf samtools-1.5.tar.bz2  \r\n\n\nThen cd to the SAMtools source directory and build the samtools binary\r\n\n\n$ cd samtools-1.5 \r\n\n\n$ ./configure --prefix=/path/to/install\r\n\n\n$ make\r\n\n\n$ make install\r\n\n\nCopy the samtools binary to some directory in your PATH \\(e.g. $HOME/bin): \r\n\n\n$ cp samtools $HOME/bin \r\n\n\nOr add the directory containing samtools binary to your PATH environment variable\r\n\n\n$ export PATH=/path/to/install/bin:$PATH \r\n\n\n\r\n\n\n_To install Bowtie2_, download the latest binary package for Bowtie2 \\(https://sourceforge.net/projects/bowtie-bio/files/bowtie2/) and unpack the Bowtie2 zip archive:\r\n\n\n$ unzip bowtie2-2.3.2-legacy-macos-x86_64.zip\r\n\n\nCopy the Bowtie executables to a directory in your PATH \\(e.g. $HOME/bin): \r\n\n\n$ cd bowtie2-2.3.2-legacy\r\n\n\n$ cp bowtie2* $HOME/bin \r\n\n\nOr add the directory containing bowtie2 binaries to your PATH environment variable\r\n\n\n$ export PATH=/path/to/bowtie2/binary/directory:$PATH \r\n\n\n\r\n\n\n_To install RPBPBR toolkit_, clone the latest binary package from RPBPBR github site \\(https://github.com/sunlightwang/RPBPBR/) \r\n\n\n$ git clone https://github.com/sunlightwang/RPBPBR.git\r\n\n\nAdd the directory containing RPBPBR binaries to your PATH environment variable\r\n\n\n$ export PATH=/path/to/RPBPBR/bin/:$PATH \r\n\n\n\r\n\n\n_c) Procedure _\r\n\n\n_To run RPBPBR on the example data files_, cd to the RPBPBR example directory\r\n\n\n$ cd /path/to/RPBPBR/example\r\n\n\nThen execute RPBPBR on each example file:  \r\n\n\n$ RPBPBR test1.fastq test1 fastq\r\n\n\n$ RPBPBR test2.fa test2 fasta\r\n\n\n\r\n\n\nRPBPBR takes PacBio CCS reads \\(in either fasta or fastq format) and directly reports the number of barcodes in the PacBio library of interest for downstream analysis. By default, RPBPBR takes 4 cores per process; however, the number of cores is adjustable in the script. Using 4 cores, the running time of RPBPBR varies from < 1 hour to several hours depending on the amount of reads to be processed. \r\n\n\n\r\n\n\nUsage: RPBPBR < input.fasta/fastq > < out.prefix > < type:fasta/fastq > \\[keep-temp] \r\n\n\n\r\n\n\n< input.fasta/fastq > required, the PacBio read file in fasta or fastq format. \r\n\n\n< out.prefix > required, the prefix of output file, and also the name of a temporary directory to be created during the process. \r\n\n\n< type:fasta/fastq > required, the format of the PacBio read file, only can be fasta or fastq, other formats not acceptable. \r\n\n\n\\[keep-temp] optional, if not specified or with value 0, the temporary directory created during the process will be removed after the process is done; otherwise, it will be kept. \r\n\n\n\r\n\n\n_d) Output _\r\n\n\nOutput file name: < out.predix >.barcode.count.tsv \r\n\n\nOutput file is a tabular text file, each line gives the count \\(in the second column) of each barcode listed in the first column. \r\n\n\n\r\n\n\nTotal: total PacBio reads that have been processed. \r\n\n\nIntact: the number of PacBio reads with both 5’ and 3’ adapter sequences. \r\n\n\nBarcodes*: starting from 5’ and end with 3’, barcode segments are connected with hyphens. \r\n\n\n* In the barcode string, X represents non-recognized segments due to low sequencing quality."
+    },
+    {
+        "title": "**VII. Barcode filtering**",
+        "body": "This section explains the computation of barcode generation probabilities based on which rare barcodes can be identified.\r\n\n\n\r\n\n\n_a) Software_\r\n\n\n• Data \\(Excel Sheet from RPB, see VI. Barcode identification)\r\n\n\n• Matlab \\(R2013b)\r\n\n\n• barcode_pipeline.m script \r\n\n\n• data.mat \r\n\n\no barcode_library  _// all possible barcodes_\r\n\n\no path_matrix  _// Pgen for a distinct # of recombinations_\r\n\n\no min_list  _// list of minimal number of recombinations_\r\n\n\n\r\n\n\n_b) Software setup_\r\n\n\nCopy barcode_pipeline.m and data.mat in desired path. \r\n\n\nImport the following files from experimental data into your Matlab Workspace:\r\n\n\n• A list of found barcodes in cell format \r\n\n\n• A m by n matrix of reads, m is the number of barcodes, n the number of populations\r\n\n\n• A list of population names in cell format\r\n\n\n\r\n\n\n_c) Procedure_\r\n\n\nTo run barcode_pipeline.m type:\r\n\n\nbarcode_pipeline \\(< found_codes >, < found_reads >,< population_annotation >)\r\n\n\nThe pipelines running time varies between < 1 min to 10 minutes depending on the number codes.\r\n\n\nBarcode_pipeline first checks all experimentally found barcodes with the complete list of possible barcodes, potentially purging erroneous barcodes from the list. Then the minimal number of recombinations for every barcode is determined \\(look up in pre-calculated table). From this minimal recombination number a frequency distribution of recombination events is calculated, which is then used to calculate the generation probabilities for all barcodes.\r\n\n\n\r\n\n\n_d) Output_\r\n\n\nOutput is a Matlab-structure with the following fields:\r\n\n\n• purged_codes      _// list of all possible codes in the data-set_\r\n\n\n• purged_reads    _// matrix containing the reads_\r\n\n\n• purged_freq    _// frequencies – normalized for populations_\r\n\n\n• recombination_frequencies  _// distribution of recombinations 0-10_\r\n\n\n• minimal_recom    _// list of minimal recombinations for all codes_\r\n\n\n• pgen     _// Pgen for every code_\r\n\n\n• annotation    _// population-annotation list_"
+    }
+]

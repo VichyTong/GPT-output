@@ -1,0 +1,140 @@
+[
+    {
+        "title": "**Reagent Setup**",
+        "body": []
+    },
+    {
+        "title": "**B5 cell culture media**",
+        "body": "Add 4 mg l<sup>-1</sup> 2.4-D, 2 mg l<sup>-1</sup> kin, 2 gr l<sup>-1</sup> activated charcoal, 30 mg l l<sup>-1</sup> sucrose, and 7 gr l<sup>-1</sup> of agar into B5 media and adjust the PH to 5.8-6."
+    },
+    {
+        "title": "**Cell suspension media**",
+        "body": "Add 4 mg l<sup>-1</sup>  2.4-D, 0.5 mg l<sup>-1</sup>  kin, and 30 mg l<sup>-1</sup> sucrose into B5 media."
+    },
+    {
+        "title": "**Ethanol\\(70%)**",
+        "body": "Mix absolute ethanol and H<sub>2</sub>O at a ratio of 70 ethanol:30 H<sub>2</sub>O\\(v/v)."
+    },
+    {
+        "title": "**Sodium hypochloride\\(2.5 %v/v)**",
+        "body": "Mix sodium hypochloride \\(5%) and H2O at a ratio of 50 sodium hypochlorite \\(5%): 50 H2O ml \\(v/v)."
+    },
+    {
+        "title": "**Preparation of pegylated nano niosomal 2,4-D**",
+        "body": [
+            "SECTION 1 Dissolve 30 mg cholesterol in 30 ml ethanol. Then add span20, tween20, and PEG3000, respectively according to the Table",
+            {
+                "title": "1.",
+                "body": "Add 5 mg 2,4-D to the above solution. The reactants were allowed to react for 30 minutes at room temperature on magnetite stirrer at 120 rpm .The solvent was evaporated by rotary evaporator. SECTION 2 Add 50 ml sterilized distilled water to the gel containing 2,4-D. The obtained suspension containing 2,4-D was subjected to sonication by ultra sonic sonicator. This was further passed through filter 0.22µm in order to obtain uniform niosomes."
+            }
+        ]
+    },
+    {
+        "title": "**Extraction medium**",
+        "body": "Mix methanol and hydrochloric acid at a ratio of 75 methanol:25 hydrochloric acid \\(v/v).\r\n\n\nPreparation of mobile phases Mix methanol, H2O, and acetonitrile at a ratio of 5 methanol : 35 H2O: 60 acetonitrile \\(v/v).CRITICAL It is important that the solution should be filtered before use."
+    },
+    {
+        "title": "**TABLE 1. Composition of pegylated niosomal 2,4-D particle**",
+        "body": "<table border=\"1\" style=\"width:70%\"><tr><td>"
+    },
+    {
+        "title": "**Component**",
+        "body": "</td><td>"
+    },
+    {
+        "title": "**Noisome**",
+        "body": "\\(mg 50m l<sup>-1</sup>)</td><td>"
+    },
+    {
+        "title": "**2.4-DNoisome**",
+        "body": "\\(mg 50m l<sup>-1</sup>)</td></tr><tr><td>Cholesterol</td><td>30</td><td>30</td></tr><td>Span20</td><td>50</td><td>50</td></tr><td>Tween20</td><td>30</td><td>30</td></tr><td>PEG3000</td><td>7</td><td>7</td></tr><td>Cholesterol</td><td>0</td><td>5</td></tr></table>"
+    },
+    {
+        "title": "**PROCEDURE**",
+        "body": []
+    },
+    {
+        "title": "**Tissues sterilization**",
+        "body": [
+            "TIMING 2 hours",
+            {
+                "title": "1.",
+                "body": "Soak the samples in the water containing dish washing liquid for sterilization and then place them under running water for 20 minutes"
+            },
+            {
+                "title": "2.",
+                "body": "Wash the explants with 70 % ethanol for 1 minute"
+            },
+            {
+                "title": "3.",
+                "body": "Transfer the samples to 2.5 % sodium hypochlorite containing two drops of tween 20 for 15 minutes"
+            },
+            {
+                "title": "4.",
+                "body": "Wash the samples with the sterilized distilled water for 3 times, and each time for 15 minutes"
+            }
+        ]
+    },
+    {
+        "title": "**Tissue culture proliferation**",
+        "body": [
+            "TIMING 60 days",
+            {
+                "title": "5.",
+                "body": "Dry the explants on filter paper, and then transfer the lateral meristem into B5 media, including 2,4-D \\(4 mg.l<sup>-1</sup>), Kin \\(0.5 mg.l<sup>-1</sup>), and activated charcoal \\(2 gr.l<sup>-1</sup>)"
+            },
+            {
+                "title": "6.",
+                "body": "Incubate the samples at 25° C ,completely dark condition for a month"
+            },
+            {
+                "title": "7.",
+                "body": "Subculture the explants into B5 media containing 2.4-D \\(4 mg.l<sup>-1</sup>), Kin \\(0.5 mg.l<sup>-1</sup>), and activated charcoal \\(2 grl<sup>-1</sup>) and incubate the explants at 25°C ,completely dark condition for a month\r\n  CRITICALSTEP Measure different traits of callus for determination of : 1.Dry weight 2.Fresh weight 3.Callus surface 4.Callus mass and 5.Percentage of surviving"
+            }
+        ]
+    },
+    {
+        "title": "**Cell suspension growth in presence of nano niosomal 2,4 D**",
+        "body": [
+            "TIMING 25 days",
+            {
+                "title": "8.",
+                "body": "Add 2 g callus \\(biomass) to 50 ml cell suspension medium and then incubate them at 25°C , 130 rpm , completely dark condition"
+            },
+            {
+                "title": "9.",
+                "body": "Add nanoparticles into cell suspension growth media at logarithmic phase, \\(21 days)\r\n  CRITICALSTEP To determine the logarithmic growth phase, take 1 ml cell suspension every day, centrifuge at 13000 rpm for 10 min, wash the cells with sterile distilled water thrice and then weigh out the cells."
+            },
+            {
+                "title": "10.",
+                "body": "After 96 h, remove the cells by centrifugation at 13000 rpm for 10 min"
+            },
+            {
+                "title": "12.",
+                "body": "Discard the supernatant and transfer the precipitated cells to a 2 ml tube."
+            }
+        ]
+    },
+    {
+        "title": "**Extraction of crud Taxol from the cells**",
+        "body": [
+            "TIMING 2hours",
+            {
+                "title": "13.",
+                "body": "Homogenate 1 g of samples with 1 ml extraction buffer"
+            },
+            {
+                "title": "14.",
+                "body": "Place the homogenate at room temperature for 1 h and vortex it each 5 min"
+            },
+            {
+                "title": "15.",
+                "body": "Remove the cell debris by centrifugation at 12000 rpm for 10 min"
+            },
+            {
+                "title": "16.",
+                "body": "Transfer the supernatant to a new tube, and then filter through filter paper 0.22 µm, the extract was used to determine Taxol content by HPLC method.\r\n  \r\n\n\nFigure 1 shows a schematic model of all steps in Taxol extraction procedure.\r\n\n\nFigure 2 shows a schematic model of all steps in pegylated nano niosomal 2,4 D- preparation.\r\n\n\n."
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    "<p><strong>Bead preparation for capture</strong></p><p>1.&nbsp;&nbsp;&nbsp;Mix an ",
+    "Aliquot of 2ml Lysis Binding Buffer (LysBB, 2x concentrated) with 2ml of water to ",
+    "Obtain 1x concentrated LysBB for bead washing</p><p>2.&nbsp;&nbsp;&nbsp;Transfer 20\u00b5l Dynabeads\u2122 MyOne\u2122 Streptavidin C1 per reaction to 1.5ml tubes (beads for up to 15 reactions can be prepared at once in a 1.5ml tube), ",
+    "Place in a magnetic rack and ",
+    "Discard the supernatant</p><p>3.&nbsp;&nbsp;&nbsp;Re",
+    "Suspend beads in 500\u00b5l 1x LysBB, ",
+    "Place in a magnetic rack and ",
+    "the washed beads in 100\u00b5l 1x LysBB per reaction and ",
+    "Add of 2\u00b5l of CV2_btn (100 \u00b5M)&nbsp;and 2\u00b5l CV16_btn (100 \u00b5M) per reaction, ",
+    "Rotate tubes for 10min at room temperature for binding of the oligonucleotides to the beads</p><p>5.&nbsp;&nbsp;&nbsp;Place tube on a magnetic rack, ",
+    "Discard the supernatant, re",
+    "Suspend in 40\u00b5l alkaline melt solution per reaction</p><p>6.&nbsp;&nbsp;&nbsp;Incubate the suspension for 5min at room temperature, then ",
+    "Place tube in a magnetic rack, discarded the supernatant</p><p>7.&nbsp;&nbsp;&nbsp;Re",
+    "We used the \u2018Palette Cam\u2019 app (Alexander Mathers, App Store) to score red, green, and blue (RGB) values and extracted the hue.",
+    "This can be easily done using a web tool (e.g. https://www.rapidtables.com/convert/color/rgb-to-hsv.html) or in Microsoft Excel (=ROUNDDOWN(IF(180/PI()*ATAN2(2*R -G-B,SQRT(3)*(G-B))&lt;0,180/PI()*ATAN2(2*R-G-B,SQRT(3)*(G-B))+360,180/PI()*ATAN2(2*R-G-B,SQRT(3)*(G-B))),0).",
+    "Hue can also be scored directly when using e.g. \u2018Color Grab (color detection)\u2019 app for android or \u2018Aurora\u2019 app for iOS.</p>"
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "title": "1)",
+        "body": "FASII gel-elongation assay was done by preincubating 0.25 - 2 µg of _E. coli_ or _S. aureus_ lysate with a serial dilution of inhibitors at room temperature for 20 min in 50 µl of buffer containing 100 mM sodium phosphate \\(pH 7.0), 5 mM EDTA, 1 mM NADPH, 1 mM NADH, 150 µM DTT, 5 mM ß-mercaptoethanol, 20 µM acetyl-CoA or n-octanoyl-CoA or any other acyl-CoA as needed, 4% DMSO, and 8 µM of ACP pretreated with DTT."
+    },
+    {
+        "title": "2)",
+        "body": "The reaction was initiated by addition of 10 µl of water-diluted \\[C-14]malonyl-CoA, which gave a final concentration of 4 µM malonyl-CoA."
+    },
+    {
+        "title": "3)",
+        "body": "The reaction was incubated at 37°C for 30 min for _E. coli_ lysate and 60 min for _S. aureus_ lysate."
+    },
+    {
+        "title": "4)",
+        "body": "After the reaction, 10 µl \\(plus 10 µl 2X native sample buffer) of each sample was directly applied to a l6% polyacrylamide gel containing a range of 0.4 M to 4 M urea as needed."
+    },
+    {
+        "title": "5)",
+        "body": "The gel was resolved and transfered to a polyvinylidene difluoride \\(PVDF) membrane, exposed to Phosphor Screen and visualized by using a PhosphorImager scanner."
+    }
+]

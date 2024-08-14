@@ -1,0 +1,94 @@
+[
+    "\nAssay for cold-tolerance induced by temperature experience \\(Fig. 1,",
+    {
+        "title": "2).",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Cultivate C. elegans to adults under well-fed conditions. Place two adult nematodes \\(P0) onto the NGM in 60-mm diameter plates, which are the assay plates in the following procedure."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the assay plates at each experimental temperature for 8–12 h, until the P0 adults have laid about 100 eggs."
+            },
+            {
+                "title": "3.",
+                "body": "Remove all P0 adults to synchronize the stages of nematodes"
+            },
+            {
+                "title": "4.",
+                "body": "Incubate the assay plates until the progeny develop to the adult stage at their respective temperatures, e.g.: \r\n  15°C, cultivate for 144–150 hours\r\n\n\n20°C, cultivate for 85–90 hours\r\n\n\n25°C, cultivate for 60–65 hours"
+            },
+            {
+                "title": "5.",
+                "body": "Place the assay plates containing fully matured—but not old—adult animals directly onto ice for 20 min. Note that assay plates must be sealed by Parafilm with only half of their agar bottoms in contact with the ice."
+            },
+            {
+                "title": "6.",
+                "body": "Place the assay plates into a plastic container with a lid and transfer them to the refrigerator at 2°C."
+            },
+            {
+                "title": "7.",
+                "body": "Incubate the assay plates at 2°C for 48 h."
+            },
+            {
+                "title": "8.",
+                "body": "Store the assay plates at 15°C overnight."
+            },
+            {
+                "title": "9.",
+                "body": [
+                    "Count the numbers of dead and live adult animals, and calculate the survival rate. \r\n  \r\n\n\nAt least nine assays \\(steps 1 to",
+                    {
+                        "title": "9)",
+                        "body": "are performed for each strain. Calculate mean survival rates and the standard error of the mean \\(SEM) for the data from more than nine assay plates.\r\n\n\n\r\n\n\nIf the growth rates of mutants are slower or faster than wild types, shift the laying day \\(step"
+                    },
+                    {
+                        "title": "2)",
+                        "body": "to synchronize the start of the cold exposures of wild-types and mutants.\r\n\n\n\r\n\n\nIf the mutants have the constitutive dauer-formation phenotype \\(daf-c), cultivate them at 15°C from eggs to L4 larvae and then cultivate them overnight at the designated temperature \\(20°C or 25°C) before cold shock. \r\n\n\n\r\n\n\nCultivation temperature-shifted cold-tolerance assay \r\n\n\nIn this assay, the animals are cultivated from eggs to young adults or L4 larvae at one temperature and then cultivated at a second temperature for some hours before cold shock."
+                    }
+                ]
+            },
+            {
+                "title": "1.",
+                "body": "Cultivate C. elegans to adults under well-fed conditions. Place two adult animals \\(P0) onto the NGM in 60-mm diameter plates, which are the assay plates in the following procedure. Three assay plates of the same strain are used for one assay."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the assay plates at the first temperature for 8–12 hours until the P0 adults have laid about 100 eggs."
+            },
+            {
+                "title": "3.",
+                "body": "Remove all P0 adults to synchronize the stages of the nematodes."
+            },
+            {
+                "title": "4.",
+                "body": "Incubate the assay plates until the progeny develop into young adults or adults at the first temperature, e.g.: \r\n   15°C, cultivate for 132–150 h\r\n\n\n20°C, cultivate for 72–90 h\r\n\n\n  25°C, cultivate for 52–65 h\r\n\n\nIf step 5 involves 18 h incubation above 20°C, it is best to move to this step when the animals are L4 larvae."
+            },
+            {
+                "title": "5.",
+                "body": "Transfer the assay plates to another incubator kept at the second temperature and incubate for several hours \\(e.g., 0, 3, 5, 8, or 18 h)."
+            },
+            {
+                "title": "6.",
+                "body": "After incubation at the second temperature, place the assay plates on ice for 20 min. Note that the assay plates must be sealed by Parafilm with only half of their agar bottoms in contact with the ice."
+            },
+            {
+                "title": "7.",
+                "body": "Place the assay plates into a plastic container with a lid and transfer them to the refrigerator at 2°C"
+            },
+            {
+                "title": "8.",
+                "body": "Incubate the assay plates at 2°C for 48 h."
+            },
+            {
+                "title": "9.",
+                "body": "Store the assay plates at 15°C overnight."
+            },
+            {
+                "title": "10.",
+                "body": "Count the numbers of dead and live adult animals, and calculate the survival rate.\r\n  \r\n\n\nRepeat the assay three times with three assay plates each and calculate the mean survival rates and the standard error of the mean \\(SEM) for the data from more than nine assay plates."
+            }
+        ]
+    }
+]

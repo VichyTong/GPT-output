@@ -1,0 +1,56 @@
+[
+    {
+        "title": "1.",
+        "body": [
+            "Download and install R.\r\n  ",
+            {
+                "title": "**Tip:**",
+                "body": "Only the base directory is needed."
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": "Click on the icon to start R.  With Linux/Unix, type the letter R from a command window."
+    },
+    {
+        "title": "3.",
+        "body": [
+            "Read the data into R by typing on the command line:\r\n  _StormMax=read.csv - \"http://garnet.fsu.edu/<sub>jelsner/extspace/extremedatasince1899.csv\":http://garnet.fsu.edu/</sub>jelsner/extspace/extremedatasince1899.csv\r\n\n\n",
+            {
+                "title": "**Caution:**",
+                "body": "The quotes must be bidirectional.  With a copy/paste directly from this document, the quotes will most likely be unidirectional causing an error message."
+            }
+        ]
+    },
+    {
+        "title": "4.",
+        "body": "Subset the cyclones by basin \\(cyclones away from the U.S. coastline) and by year after 1977 \\(satellite era) by typing:\r\n  _StormMaxBasin=subset\\(StormMax,Region==\"Basin\"); StormMaxBasin=subset\\(StormMaxBasin,Yr>1977)_"
+    },
+    {
+        "title": "5.",
+        "body": "Make the columns of the data set available by name by typing: \r\n  _attach\\(StormMaxBasin)_"
+    },
+    {
+        "title": "6.",
+        "body": "Create an exploratory plot of the annual lifetime maximum wind speed \\(intensity) as a function of year by typing:\r\n  _x=boxplot\\(Wmax~as.factor\\(Yr),plot=F)_\r\n\n\n_boxplot\\(Wmax~as.factor\\(Yr),ylim=c\\(35,175),xlab=\"Year\",ylab=\"Intensity \\(kt)\")_\r\n\n\n_xx=1:29_\r\n\n\n_abline\\(lm\\(x$stats\\[5,]~xx),col=\"red\")_\r\n\n\n_abline\\(lm\\(x$stats\\[4,]~xx),col=\"blue\")_\r\n\n\n_abline\\(lm\\(x$stats\\[3,]~xx),col=\"green\")_"
+    },
+    {
+        "title": "7.",
+        "body": "Install and load the _quantreg_ package developed by Roger Koenker<sup>2</sup>.  Then print the reference citation.\r\n  _install.packages\\(\"quantreg\")_\r\n\n\n_library\\(quantreg)_\r\n\n\n_citation\\(\"quantreg\")_"
+    },
+    {
+        "title": "8.",
+        "body": [
+            "Summarize the results of a quantile regression at the upper quantiles 0.75, 0.9, and 0.95.\r\n  _summary\\(rq\\(Wmax~Yr,tau=c\\(0.75,0.9,0.95)),se=\"iid\")_\r\n\n\n",
+            {
+                "title": "**Tip:**",
+                "body": "The standard errors \\(_se=_ argument) can be estimated using other methods, type: _?summary.rq_"
+            }
+        ]
+    },
+    {
+        "title": "9.",
+        "body": "Plot the model results.\r\n  _model=rq\\(Wmax~Yr,tau=seq\\(0.2,0.8,0.1))_\r\n\n\n_plot\\(summary\\(model,alpha=.05,se=\"iid\"),parm=2,pch=19,cex=1.2,mar=c\\(5,5,4,2)+0.1,ylab=\"Trend \\(kt/yr)\",xlab=\"Quantile\")_"
+    }
+]

@@ -1,0 +1,318 @@
+[
+    {
+        "title": "**Align NIR laser into microscope**",
+        "body": ""
+    },
+    {
+        "title": "**Critical**",
+        "body": ": This alignment step will strongly influence image quality.\r\n\n\n\r\n\n\nMost modern two-photon microscopes are equipped with fiber-coupled visible light lasers for confocal microscopy and a direct coupled infrared laser for two-photon excitation. In this alignment protocol we assume that the visible laser is well aligned and can be used as a guide beam. We assume that the NIR beam is steered into the microscope with two independent, adjustable mirrors \\(see Figure 2a). The mirrors allow moving the laser beam up-and-down and left-to-right.\r\n\n\n\r\n\n\nWe use these two mirrors to move the NIR beam until it is parallel to and overlaps with the visible laser beam in the sample. We use the back-aperture and the focal plane of the objective as alignment points \\(see Figure 2)."
+    },
+    {
+        "title": "**1.**",
+        "body": "Cover an open objective position with lens paper."
+    },
+    {
+        "title": "**2.**",
+        "body": "Tune NIR laser to wavelength visible by human eye \\(e.g. 720nm)."
+    },
+    {
+        "title": "**3.**",
+        "body": "Select fiber-coupled laser line \\(e.g. 561nm) and appropriate main dichroic \\(e.g. HFT KP 700/561)."
+    },
+    {
+        "title": "**4.**",
+        "body": "Choose high zoom settings and start scanning."
+    },
+    {
+        "title": "**5.**",
+        "body": "Adjust laser power until a dark red \\(e.g. 720nm) spot and a spot in the color of the fiber-coupled laser line are visible on the lens paper."
+    },
+    {
+        "title": "**6.**",
+        "body": "Adjust one mirror until both spots are centered to each other. The spots can be detected with the confocal setup with wide open pinhole and less zoom."
+    },
+    {
+        "title": "**7.**",
+        "body": "Switch to a low magnification objective and image the alignment slide in reflected light with both laser lines in two channels, simultaneously. Make sure to avoid cross-talk. \\(e.g. HFT KP 700/561, mirror, NFT 565, KP 685, and channel 2; LP 575, and channel 3)."
+    },
+    {
+        "title": "**Critical**",
+        "body": ": Use collimator lens to ensure parfocality of visible light and NIR image."
+    },
+    {
+        "title": "**8.**",
+        "body": "Adjust the second mirror until both images overlap."
+    },
+    {
+        "title": "**9.**",
+        "body": "Repeat steps 6 to 8 until the two laser lines overlap perfectly in the back-aperture and the focal plane."
+    },
+    {
+        "title": "**Troubleshooting\\!**",
+        "body": ""
+    },
+    {
+        "title": "**Check quality of NIR laser**",
+        "body": "Use laser spectrum analyzer and test sample to check quality of NIR laser. The width of the spectrum is inversely proportional to the pulse width \\(e.g. the spectrum is very narrow if laser is not mode-locked)."
+    },
+    {
+        "title": "**10.**",
+        "body": "Place cover-slip next to output beam aperture of NIR laser. The main portion of the beam is transmitted; a small portion is reflected 90°."
+    },
+    {
+        "title": "**11.**",
+        "body": "Place the input window of the spectrometer head into the dimmer beam. If signal is too high, place a piece of Scott-tape in front of it."
+    },
+    {
+        "title": "**12.**",
+        "body": "Tune spectrometer to wavelength selected for NIR laser."
+    },
+    {
+        "title": "**13.**",
+        "body": "You should see a stable, bell-shaped spectral curve. The width depends on the pulse-width of the laser used."
+    },
+    {
+        "title": "**Troubleshooting\\!**",
+        "body": ""
+    },
+    {
+        "title": "**BONE PREPARATION**",
+        "body": ""
+    },
+    {
+        "title": "**14.**",
+        "body": "Harvest bone marrow cells from actin-eGFP transgenic mice."
+    },
+    {
+        "title": "**15.**",
+        "body": "Isolate HCSs using FACS1."
+    },
+    {
+        "title": "**16.**",
+        "body": "Inject cells into tail vein of mouse."
+    },
+    {
+        "title": "**Timing**",
+        "body": ": wait 4-6 hours."
+    },
+    {
+        "title": "**17.**",
+        "body": "Sacrifice mouse."
+    },
+    {
+        "title": "**Timing**",
+        "body": ": while preparing the bones for imaging, the two-photon microscope can be set up and reference spectra can be taken \\(see steps 24 to 28)."
+    },
+    {
+        "title": "**18.**",
+        "body": "Isolate femur and tibia."
+    },
+    {
+        "title": "**19.**",
+        "body": "Remove muscle."
+    },
+    {
+        "title": "**20.**",
+        "body": "Cut bone into 2-3mm thick pieces in vertical orientation using a small saw \\(e.g. rotary dental instrument)."
+    },
+    {
+        "title": "**21.**",
+        "body": "Fill Petri dish with 2mm of 0.5% agarose in PBS."
+    },
+    {
+        "title": "**22.**",
+        "body": "Insert bone into the agarose layer of the Petri dish with open end toward the dish bottom as close as possible to cover-slip."
+    },
+    {
+        "title": "**23.**",
+        "body": "Add DMEM."
+    },
+    {
+        "title": "**IMAGING**",
+        "body": ""
+    },
+    {
+        "title": "**24.**",
+        "body": ""
+    },
+    {
+        "title": "**Optional**",
+        "body": ": Switch on heating of incubator box."
+    },
+    {
+        "title": "**Timing**",
+        "body": ": Wait two hours for temperature to equilibrate."
+    },
+    {
+        "title": "**25.**",
+        "body": "Tune NIR laser to 920 nm to image eGFP. If other fluorescent protein is used find optimum excitation wavelength."
+    },
+    {
+        "title": "**Timing**",
+        "body": ": Let NIR laser warm up 30 min before imaging."
+    },
+    {
+        "title": "**26.**",
+        "body": "Decide on objective lens to be used for experiment \\(see equipment for details)."
+    },
+    {
+        "title": "**27.**",
+        "body": "Set up beam-path of two-photon microscope to image eGFP labeled cells \\(e.g. HFT KP 650, mirror, NFT 490, BP 500-550 IR, and channel 3)."
+    },
+    {
+        "title": "**28.**",
+        "body": "Image eGFP labeled cell using these settings."
+    },
+    {
+        "title": "**Troubleshooting\\!**",
+        "body": ""
+    },
+    {
+        "title": "**29.**",
+        "body": "Set up beam-path of two-photon microscope for spectral imaging of eGFP labeled cells for reference spectrum \\(e.g. HFT KP 650, plate, BG 39, META detector in lambda mode from 365.6nm to 708nm with 10.7nm steps)."
+    },
+    {
+        "title": "**30.**",
+        "body": "Acquire reference spectrum from eGFP labeled cell and save it."
+    },
+    {
+        "title": "**Troubleshooting\\!**",
+        "body": ""
+    },
+    {
+        "title": "**31.**",
+        "body": "Replace slide with eGFP labeled cells with Petri-dish with mounted, live bone fragments."
+    },
+    {
+        "title": "**32.**",
+        "body": "Set up microscope for wide-field DIC imaging. Remove plastic lid of Petri dish when using DIC."
+    },
+    {
+        "title": "**Troubleshooting\\!**",
+        "body": ""
+    },
+    {
+        "title": "**33.**",
+        "body": "Find bone fragments. In most cases it will not be possible to identify internal bone structures or cells. Wide-field fluorescence will result in a uniform haze. A good starting point to find cells is the center of the bone where it appears reddish in transmitted light."
+    },
+    {
+        "title": "**34.**",
+        "body": "Set up beam-path of two-photon microscope to image eGFP, SHG and transmitted light DIC \\(e.g. HFT KP 650, mirror, NFT 490, BP 500-550 IR, and channel 3; BP 435-485 IR, and channel 2;  DIC prism, sample, DIC prism, analyzer, and transmitted light detector)."
+    },
+    {
+        "title": "**35.**",
+        "body": "Image sample till you find a potential cell."
+    },
+    {
+        "title": "**Troubleshooting\\!**",
+        "body": ""
+    },
+    {
+        "title": "**36.**",
+        "body": "Set up beam-path of two-photon microscope for spectral detection \\(e.g. HFT KP 650, plate, BG 39, META detector in lambda mode from 365.6nm to 708nm with 10.7nm steps)."
+    },
+    {
+        "title": "**Critical**",
+        "body": ": Settings and objective have to be identical to settings established in step 29 to acquire reference spectrum."
+    },
+    {
+        "title": "**Troubleshooting\\!**",
+        "body": ""
+    },
+    {
+        "title": "**37.**",
+        "body": "Compare spectrum to reference spectrum of eGFP. The spectrum of an eGFP labeled cell \\(peak at 507nm) should be identical to the reference spectrum and can be clearly distinguished from SHG signals \\(narrow peak at 460nm) and auto-fluorescence \\(wide spectrum without distinct peaks)."
+    },
+    {
+        "title": "**38.**",
+        "body": "Repeat steps 34 to 37 till eGFP positive cell is identified."
+    },
+    {
+        "title": "**39.**",
+        "body": "If cell was positively identified, switch back to settings established in step 34."
+    },
+    {
+        "title": "**40.**",
+        "body": "Select time interval for time-lapse imaging \\(e.g. 15 min)."
+    },
+    {
+        "title": "**41.**",
+        "body": "Optional: Set up z-stack if 3D imaging is required."
+    },
+    {
+        "title": "**42.**",
+        "body": "Start time-lapse imaging."
+    },
+    {
+        "title": "**43.**",
+        "body": "Set up beam-path of two-photon microscope for spectral detection and confirm identity of eGFP labeled cells \\(see steps 36 and 37)."
+    },
+    {
+        "title": "**44.**",
+        "body": "Move on to next cell and repeat previous steps, starting at step 34."
+    },
+    {
+        "title": "**IMAGE PROCESSING**",
+        "body": ""
+    },
+    {
+        "title": "**45.**",
+        "body": "Remove noise with 3x3 median filter using standard image acquisition software."
+    },
+    {
+        "title": "**46.**",
+        "body": "Optional: If z-stacks where acquired in steps 41 and 42, load results into 3D software. Identify cells of interest and define cell volume. Subtract background from eGFP signal."
+    },
+    {
+        "title": "**47.**",
+        "body": "Optional: If quantification of relative expression levels is required and a second label to highlight cell shape was used:"
+    },
+    {
+        "title": "**a.**",
+        "body": "Identify cells of interest using transmitted light DIC and all fluorescence channels \\(e.g. cells close to bone surface)."
+    },
+    {
+        "title": "**b.**",
+        "body": "Define cell volume based on second label."
+    },
+    {
+        "title": "**c.**",
+        "body": "Subtract background from signal."
+    },
+    {
+        "title": "**d.**",
+        "body": "Measure corrected mean intensity of signal label within cell volume defined by second label."
+    },
+    {
+        "title": "**48.**",
+        "body": "Load image at single time point into ImageJ."
+    },
+    {
+        "title": "**49.**",
+        "body": "Measure background and define threshold \\(e.g. 90% to 120% of mean background intensity)."
+    },
+    {
+        "title": "**50.**",
+        "body": "Set pixels below threshold to zero."
+    },
+    {
+        "title": "**51.**",
+        "body": "Draw segmented line along bone surface."
+    },
+    {
+        "title": "**52.**",
+        "body": "Start Java custom script. The script will sample intensities along the line. For each sample point on the line, the script calculates the mean intensities of all pixels within ±8µm perpendicular to the line at the position of the sample point. To quantify labeled cells independently of expression level, the script divides the number of pixels along the line that have intensity greater than the threshold by the total number of pixels."
+    },
+    {
+        "title": "**53.**",
+        "body": "Optional: If multicolor co-localization is required and multiple colors where used:"
+    },
+    {
+        "title": "**a.**",
+        "body": "Repeat steps 49 to 52 for second color."
+    },
+    {
+        "title": "**b.**",
+        "body": "To estimate the amount of co-localization, count all pixels along the line with mean intensity values larger than the threshold in both channels. Divide this number by the total number of pixels along the line."
+    }
+]

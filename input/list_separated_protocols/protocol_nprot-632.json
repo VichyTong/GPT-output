@@ -1,0 +1,211 @@
+[
+    {
+        "title": "**Day 1**",
+        "body": "Inoculate yeast cells from a solid culture \\(agar plate) into 5 ml of YPD medium or appropriate selective medium supplemented with 2% \\(w/v) D-glucose and incubate at 28°C overnight with shaking."
+    },
+    {
+        "title": "**Day 2**",
+        "body": []
+    },
+    {
+        "title": "**A) Cell pellet preparation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transfer overnight culture into 100 ml of YPD and incubate at 28°C with shaking. OD<sub>600 nm</sub> should be 0.3-0.5 \\(=1 x 10<sup>7</sup> cell/ml)"
+            },
+            {
+                "title": "2.",
+                "body": "Place cells in 50-ml tubes and centrifuge at 3,000g for 4 min at 4°C."
+            },
+            {
+                "title": "3.",
+                "body": "Discard the supernatant and resuspend cell pellets by vortexing in 25 ml of sterile H<sub>2</sub>O. Combine two cell pellets and centrifuge at 3,000g for 2 min at 4°C."
+            },
+            {
+                "title": "4.",
+                "body": "Discard the supernatant and resuspend the cell pellet in 1 ml of 1X PBS. Transfer into 2-ml screw-cap eppendorf tube and centrifuge at 2,000g for 2 min at 4°C."
+            },
+            {
+                "title": "5.",
+                "body": "Discard the supernatant and store the pellet at -80°C."
+            }
+        ]
+    },
+    {
+        "title": "**B) Resin and pre-saturated tube preparation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pre-saturate Protein G Resin: place 20 μl of Protein G Resin per sample to be immunoprecipitated in one 1.5-ml eppendorf tube and add 1 ml of 1X PBS/BSA. Mix well."
+            },
+            {
+                "title": "2.",
+                "body": "Centrifuge at 800g for 2 min at 4°C."
+            },
+            {
+                "title": "3.",
+                "body": "Gently remove supernatant and wash three times with 1 ml of 1X PBS/BSA."
+            },
+            {
+                "title": "4.",
+                "body": "Resuspend resin with 1 ml of 1X PBS/BSA and incubate overnight at 4°C under gentle shaking."
+            },
+            {
+                "title": "5.",
+                "body": "Pre-saturate eppendorf tubes with BSA: aliquot 1 ml of 1X PBS/BSA into 1.5-ml eppendorf tubes \\(two tubes for each sample) and incubate overnight at 4°C under gentle shaking. Wash with 1 ml of 1X PBS just before use."
+            }
+        ]
+    },
+    {
+        "title": "**Day 3**",
+        "body": [
+            {
+                "title": "1.",
+                "body": [
+                    "Thaw cell pellets \\(from step A5 of Day",
+                    {
+                        "title": "2)",
+                        "body": "on ice and resuspend each pellet in 1 ml of ice-cold Inhibitors Buffer."
+                    }
+                ]
+            },
+            {
+                "title": "2.",
+                "body": "Centrifuge at 800g for 2 min at 4°C. Discard the supernatant and resuspend the cell pellet in 500 μl of Inhibitors Buffer."
+            },
+            {
+                "title": "3.",
+                "body": "Add 1 g of 425-600-μm glass beads."
+            },
+            {
+                "title": "4.",
+                "body": "Homogenize using the FastPrep® System \\(Qbiogene-MP Biomedicals): shake for 15 sec and then keep on ice for 1 min. Repeat 10 times."
+            },
+            {
+                "title": "5.",
+                "body": "Check cell breakage under a microscope."
+            },
+            {
+                "title": "6.",
+                "body": "Pierce the tube bottom with a needle."
+            },
+            {
+                "title": "7.",
+                "body": "Insert the tube into a new 2-ml eppendorf tube and spin at top speed to transfer the cell extract into the lower tube."
+            },
+            {
+                "title": "8.",
+                "body": "Centrifuge at 16,000g for 20 min at 4°C."
+            },
+            {
+                "title": "9.",
+                "body": "Transfer the supernatant into a new 1.5-ml eppendorf tube and adjust the volume to 1 ml with Inhibitors Buffer."
+            },
+            {
+                "title": "10.",
+                "body": "Determine sample protein concentration."
+            },
+            {
+                "title": "11.",
+                "body": "Normalize samples for protein concentration \\(optimal concentration: 2.5-3 mg/ml). Transfer 1 ml of each sample into the pre-saturated eppendorf tubes washed with 1 ml of 1X PBS \\(see \"Day-2, B-5\")."
+            },
+            {
+                "title": "12.",
+                "body": "Transfer 50 μl of each normalized cellular extract into a new eppendorf tube and add 10 μl of Loading Buffer. Heat samples at 95°C for 5 min. Store at -20°C \\("
+            }
+        ]
+    },
+    {
+        "title": "**INPUT**",
+        "body": [
+            "sample).",
+            {
+                "title": "13.",
+                "body": "Add primary antibody to normalized samples and incubate for 2 hr at 4°C under gentle shaking to allow formation of antigen-antibody complexes. \\(We use 10 μg of monoclonal anti-HA antibodies)."
+            },
+            {
+                "title": "14.",
+                "body": "Centrifuge pre-saturated Protein G Resin at 800g for 2 min at 4°C. Gently remove supernatant with pipette."
+            },
+            {
+                "title": "15.",
+                "body": "Wash resin twice with Inhibitors Buffer \\(gently remove supernatant with pipette)."
+            },
+            {
+                "title": "16.",
+                "body": "Following the second wash, resuspend Protein G Resin 1:1 with 1X PBS."
+            },
+            {
+                "title": "17.",
+                "body": "Wash a pre-saturated eppendorf tube with 1 ml of 1X PBS for each sample. In each tube, add 1 ml of 1X PBS and 40 μl of Protein G Resin suspension from previous step."
+            },
+            {
+                "title": "18.",
+                "body": "Centrifuge at 800g for 2 min at 4°C. Remove supernatant with pipette."
+            },
+            {
+                "title": "19.",
+                "body": [
+                    "Add 1 ml of antigen-antibody complex \\(from step",
+                    {
+                        "title": "13)",
+                        "body": "and incubate for 2 hr at 4°C under gentle shaking."
+                    }
+                ]
+            },
+            {
+                "title": "20.",
+                "body": "Centrifuge at 800g for 2 min at 4°C."
+            },
+            {
+                "title": "21.",
+                "body": "Transfer 50 μl of supernatant in a new eppendorf tube and add 10 μl of Loading Buffer. Heat samples at 95°C for 5 min. Store samples at -20°C \\("
+            }
+        ]
+    },
+    {
+        "title": "**IMMUNODEPLETED**",
+        "body": [
+            "sample).",
+            {
+                "title": "22.",
+                "body": "Discard the remaining supernatant and wash resin with 1 ml of a freshly prepared Inhibitors Buffer. Shake gently for 2 min and centrifuge at 800g for 2 min at 4°C."
+            },
+            {
+                "title": "23.",
+                "body": "Repeat step 22 three times. Remove supernatant with pipette."
+            },
+            {
+                "title": "24.",
+                "body": "Add 20 μl of 1:3 diluted Loading Buffer. Heat samples at 95°C for 5 min."
+            },
+            {
+                "title": "25.",
+                "body": "Centrifuge at top speed for 5 min at room temperature."
+            },
+            {
+                "title": "26.",
+                "body": "Transfer the supernatant into a new 1.5-ml eppendorf tube. Store samples at -20°C \\["
+            }
+        ]
+    },
+    {
+        "title": "**IMMUNOPRECIPITATED**",
+        "body": "\\("
+    },
+    {
+        "title": "**IP**",
+        "body": [
+            ") sample].",
+            {
+                "title": "27.",
+                "body": "Analyze samples by SDS-PAGE and immunoblotting \\("
+            }
+        ]
+    },
+    {
+        "title": "**IB**",
+        "body": ") \\(Figure 1)."
+    }
+]

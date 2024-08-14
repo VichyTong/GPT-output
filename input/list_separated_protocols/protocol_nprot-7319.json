@@ -1,0 +1,31 @@
+[
+    "\nThis protocol starts after 250 mM imidazole elution of protein HisTag-GSHHW-HB2225 \\(water soluble protein) or protein HisTag-T4L-GSHHW-3hbtmV2 \\(membrane protein) off the Ni-NTA beads. We take protein HisTag-T4L-GSHHW-3hbtmV2 \\(membrane protein) as the example to illustrate the protocol.",
+    {
+        "title": "1.",
+        "body": "Take 0.5 mL of imidazole \\(250 mM) eluted HisTag-T4L-GSHHW-3hbtmV2 into Amicon Ultra 0.5 mL centrifugal filters, spin 4 times to exchange buffer into cleavage buffer: 0.1 M CHES, 0.1 M NaCl, 0.1 M acetone oxime, 5 mM DPC, pH 8.6. Note, imidazole has to be completely removed before cleavage."
+    },
+    {
+        "title": "2.",
+        "body": "After 4 times buffer exchange, measure protein concentration to be 0.5-1.0 mg/mL, if protein concentration is higher, dilute protein concentration to this range using cleavage buffer."
+    },
+    {
+        "title": "3.",
+        "body": "To a 1.7 mL eppendorf tube, add 10 uL NiCl2 \\(0.1 M), then add 1 mL of HisTag-T4L-GSHHW-3hbtmV2 into the same tube, vortex gently to mix well."
+    },
+    {
+        "title": "4.",
+        "body": "Incubate reaction at room temperature \\(22 °C) for 16 hours. Don’t shake or vortex."
+    },
+    {
+        "title": "5.",
+        "body": "Run protein gel to monitor reaction after 16 hours to see cleavage progression. If not complete, reaction can be left longer until complete."
+    },
+    {
+        "title": "6.",
+        "body": "After reaction is done, add protein solution to centrifugal filters again to exchange protein \\(3 times) into desired buffer \\(0.1 M Tris, 0.25 M NaCl, 5 mM DPC, pH 8.0), and to remove free Ni2+."
+    },
+    {
+        "title": "7.",
+        "body": "Add 0.2 mL bed volume of Ni-NTA beads to the protein solution and rotate to extract the cleaved tag to give desired protein."
+    }
+]

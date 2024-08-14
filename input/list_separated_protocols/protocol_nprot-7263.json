@@ -1,0 +1,82 @@
+[
+    {
+        "title": "**1. Pre-sgRNA plasmids cloning**",
+        "body": []
+    },
+    {
+        "title": "**I) Digesting pre-sgRNA plasmid with EcoRI-HF and BamHI-HF with the following reaction:**",
+        "body": "500 ng PB-CAGGs-zeocin plasmid\r\n\n\n1 μl CutSmart buffer \r\n\n\n0.5 μl EcoRI-HF\r\n\n\n0.5 μl BamHI-HF\r\n\n\nAdd H<sub>2</sub>O up to 10 μl.\r\n\n\nIncubate 2 hours at 37° C.\r\n\n\nAfter the digest, gel purify the linearized plasmid."
+    },
+    {
+        "title": "**II) Clone pre-sgRNA**",
+        "body": [
+            "Pre-sgRNA contains a sgRNA sequence flanked by two miRNA complementary binding sites.\r\n\n\nExample pre-sgRNA sequence:\r\n\n\n294T-sgRNA\\(TRE)-294T:\r\n\n\n\\(ACACACAAAAGGGAAGCACTTT)tacgttctctatcactgataGTTTAAGAGCTATGCTGGAAACAGCATAGCAAGTTTAAATAAGGCTAGTCCGTTATCAACTTGAAAAAGTGGCACCGAGTCGGTGC\\(ACACACAAAAGGGAAGCACTTT)\r\n\n\nBases in \\() indicate the miRNA binding sites which are reverse and complementary with mature miRNA sequence \\(miR-294-3p).  Nucleotides in the middle outside of \\() indicate the sgRNA\\(F+E) sequence<sup>23</sup>, while the first 20 nucleotides of sgRNA \\(lower case) are crRNA sequences which target to TRE promoter. We recommend using the “Guide Design Resources”: https://zlab.bio/guide-design-resources) to facilitate target selection.",
+            {
+                "title": "a)",
+                "body": "Order the following oligos:\r\n\n\nOligo1 \\(Forward) for the example pre-sgRNA sequence: \r\n\n\nAGAATTCACACACAAAAGGGAAGCACTTTTACGTTCTCTATCACTGA\r\n\n\nOligo2 \\(Reverse) for the example pre-sgRNA sequence:\r\n\n\nAGGATCCAAAGTGCTTCCCTTTTGTGTGTGCACCGACTCGGTGCCAC"
+            },
+            {
+                "title": "b)",
+                "body": "Carry out PCR reactions on a thermal cycler as follows:\r\n\n\n95° C for 2 minutes; 35 cycles of 95° C for 30s, 60° C for 30s, 72° C for 30s; 72° C for 5 minutes; 4° C forever."
+            },
+            {
+                "title": "c)",
+                "body": "Run raw PCR product on 1.5% agarose gel electrophoresis, separate 164 bp amplicon and purify with HiPure Gel Pure DNA Mini Kit \\(Magen)."
+            },
+            {
+                "title": "d)",
+                "body": "Digest purified PCR product with BamHI-HF and EcoRI-HF via the following reaction at 37° C for 2 hours:\r\n\n\n 26 μl Purified PCR product \r\n\n\n3 μl Cutsmart buffer \r\n\n\n0.5 μl EcoRI-HF\r\n\n\n0.5 μl BamHI-HF\r\n\n\ntotal 30 μl."
+            },
+            {
+                "title": "e)",
+                "body": "After digestion, purify with HiPure Gel Pure DNA Mini Kit \\(Magen)."
+            },
+            {
+                "title": "f)",
+                "body": "Ligate pre-sgRNAs into the vector with reactions as follows:\r\n\n\n1 μl Linearized PB-CAGGS-zeocin vector \r\n\n\n7 μl Pre-sgRNAs \r\n\n\n1 μl T4 DNA ligation buffer \r\n\n\n1 μl T4 DNA ligase"
+            },
+            {
+                "title": "g)",
+                "body": "Incubate at room temperature for 1 hour."
+            },
+            {
+                "title": "h)",
+                "body": "Transform into Trans-T1 Phage Resist Chemically Compotent Cell \\(Transgen) according to the manufacturer’s protocol."
+            },
+            {
+                "title": "i)",
+                "body": "Use forward primer inside CAGGS promoter and reverse oligonucleotides as a reverse primer for PCR screening. Choice colonies which have a single band around == ~== 250 bp. Confirm the sequence of pre-sgRNA by Sanger Sequencing."
+            },
+            {
+                "title": "j)",
+                "body": "Extract plasmids using AxyPrep Plasmid Miniprep Kit \\(Axygen). Now plasmids are ready to use."
+            }
+        ]
+    },
+    {
+        "title": "**2. Generate miR-294-sensing-CRISPR-on mouse embryonic stem cells.**",
+        "body": "Day1\r\n\n\nPlate 50,000 mouse embryonic stem cells in 24-well plates, using standard growth medium.\r\n\n\nDay2\r\n\n\nReplace with 500 μl of growth medium.\r\n\n\nPrepare A mix with 200 ng dCas9-VPR, 200 ng 294T-sgRNA-294T, 100 ng TRE3G-RFP, 100 ng pBase and 1 μl P3000 Reagent in 50 μl OPTI-MEM. Add 1.25 μl Lipo3000 in 50 μl OPTI-MEM to get B mix. Vortex each mix well. Combine A and B mix, vortex thoroughly and incubate 5 minutes at room temperature. Add the solution to the cells carefully.\r\n\n\nDay3\r\n\n\nReplace with 500 μl growth medium.\r\n\n\nDay4-7\r\n\n\nCells are treated with 10 μg/ml Blasticidin S \\(Gibco), 150 μg/ml Hygromycin \\(Roche), 100 μg/ml Zeocin \\(Invitrogen).\r\n\n\nDay8 \r\n\n\nPlate 500 cells on feeder for colony picking."
+    },
+    {
+        "title": "**3. MICR-ON and MICR-i**",
+        "body": []
+    },
+    {
+        "title": "**For endogenous gene activation**",
+        "body": [
+            "Day1 \r\n\n\nPlate 50,000 HEK293T cells per well in poly-D-lysine-coated 48-well plate.\r\n\n\nDay2 \r\n\n\n     18 hours later replace with 500 μl of growth medium. Mix 20 nM final concentration of miR-122 or NC in 25 μl OPTI-MEM \\(amounts and volumes for a single well). Mix 0.5 μl DharmaFect 1 Transfection Reagent in another 25 μl of OPTI-MEM. Vortex to mix two solutions separately, incubate 5 minutes at room temperature. \r\n\n\nCombine the two solutions, mix gently and incubate 20 minutes at room temperature.\r\n\n\nAdd the solution to the cells carefully.\r\n\n\n     After 6 hours, replace medium with standard growth medium. Prepare A mix with 125 ng dCas9-VPR plus 125 ng pre-sgRNA plasmids or empty control plasmids and 0.5 μl P3000 Reagent in 25 μl OPTI-MEM. Add",
+            {
+                "title": "0.",
+                "body": "6 μl Lipo3000 in 25 μl OPTI-MEM to get B mix. Vortex each mix well. Combine A and B mix, vortex and incubate 5 minutes at room temperature. Add the solution to the cells carefully.\r\n\n\nDay4\r\n\n\n     48 hours after transfection, cells were harvested with Trizol for extracting total RNA for mRNA qRT-PCR \\(mRNA Universal SYBR qPCR Master Mix, Vazyme)."
+            }
+        ]
+    },
+    {
+        "title": "**For endogenous gene repression, use dCas9-KRAB instead of dCas9-VPR.**",
+        "body": []
+    },
+    {
+        "title": "**4. MICR-BE**",
+        "body": "Day1 \r\n\n\nPlate 50,000 Hela cells per well in 24-well plate.\r\n\n\nDay2\r\n\n\n     18 hours later replace with 500 μl of growth medium.Mix 50 nM final conctration of miR-294 or NC in 50 μl OPTI-MEM \\(amounts and volumes for a single well). Mix 1 μl DharmaFect 1 Transfection Reagent in another 50 μl of OPTI-MEM. Vortex to mix two solutions separately, incubate 5 minutes at room temperature. \r\n\n\nCombine the two solutions, mix gently and incubate 20 minutes at room temperature.\r\n\n\nAdd the solution to the cells carefully.\r\n\n\nAfter 6 hours replace medium with standard growth medium. Prepare A mix with 250 ng dCas9-Apobec1-UGI \\(BE3) plus 250 ng pre-sgRNA plasmids or empty control plasmids and 1 μl P3000 Reagent in 50 μl OPTI-MEM. Add 1.25 μl Lipo3000 in 50 μl OPTI-MEM to get B mix. Vortex each mix well. Combine A and B mix, vortex and incubate 5 minutes at room temperature. Add the solution to the cells carefully.\r\n\n\nDay4\r\n\n\n48 hours after transfection, cells are treated with 500 μg/ml Hygromycin \\(Roche), 100 μg/ml Zeocin \\(Invitrogen).\r\n\n\nDay6\r\n\n\nAfter 2 days, cells are harvested for extracting genomic DNA. Genomic regions are amplified with PCR with primers designed by “Primer-BLAST \\(NCBI)”:https://www.ncbi.nlm.nih.gov/tools/primer-blast/. Carry out PCR amplification as follows:\r\n\n\n95° C for 10 minutes; 35 cycles of 95° C for 30s, 60° C for 30s, 72° C for 30s; 72° C for 5 minutes; 4° C forever.\r\n\n\nPCR products are purified using spin columns in Universal DNA Purification Kit \\(TIANGEN Biotech).\r\n\n\nAnneal and digest purified PCR product with ApaI.\r\n\n\nAssemble reaction as follows:\r\n\n\n200 ng PCR product \r\n\n\n2 μl 10X NEBuffer 3.1 \r\n\n\nAdd H<sub>2</sub>O up to 19 μl.\r\n\n\nHeat up the reaction to 95° C, using thermocycler for 5 minutes and let it cool down to room temperature.\r\n\n\nAdd 1 μl ApaI to the reaction, incubate 25° C for 3 hours.\r\n\n\nRun digested product on 2% agarose gel under 120V for 30 minutes.\r\n\n\nThe intensity of PCR amplicon and cleaved bands is quantified using ImageJ. For each lane, the fraction of cleaved products is calculated by the following formula: Fc = \\(b+c)/\\(a+b+c), where a is the intensity of the undigested PCR product and b and c are intensities of each cleavage products. Sequence editing efficiency = 1-Fc<sup>1/2</sup>."
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "title": "**A. Design ddPCR amplicons**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Design specific primers flanking the Cas9•sgRNA cutsite \\(target amplicon). Design specific primers for a region near but not overlapping the target amplicon \\(template amplicon). Amplicons should be approximately 125-225 bp in length. We placed template amplicons between 41 bases and 407 bases away from the target amplicon. Each fluorogenic hydrolysis probe should be designed to anneal within its cognate amplicon but distal to the Cas9•sgRNA cutsite, such that indels resulting from repair of DSBs will not interfere with probe binding. \r\n  1.1. General guidelines for designing primers and probes can be found \"here\":http://www.bio-rad.com/en-us/applications-technologies/planning-droplet-digital-pcr-experiments\r\n\n\n1.2. The web-based \"PrimerQuest tool\":https://www.idtdna.com/Primerquest/Home/Index can be used to design primers and double-quenched probes.\r\n\n\n1.3. We have successfully used both TaqMan probes \\(ThermoFisher) and double-quenched qPCR probes \\(Integrated DNA Technologies)."
+            },
+            {
+                "title": "2.",
+                "body": "Identify restriction enzyme\\(s) that cut distal to both amplicons, ideally creating a fragment no more than approximately 3 kb in length.  It is critical that the enzyme\\(s) chosen does not cut within or between the target and template amplicons. Digesting with such an enzyme can improve amplification efficiency, but is not required in most cases."
+            }
+        ]
+    },
+    {
+        "title": "**B. Purify Genomic DNA using Qiagen DNeasy kit**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Resuspend and transfer confluent cells from a 12-well plate to a 1.7 uL microcentrifuge tube."
+            },
+            {
+                "title": "2.",
+                "body": "Centrifuge cells for 5 min at 300 x g, discard supernatant."
+            },
+            {
+                "title": "3.",
+                "body": "Resuspend cells in 200 uL PBS."
+            },
+            {
+                "title": "4.",
+                "body": "Add 20 uL Proteinase K"
+            },
+            {
+                "title": "5.",
+                "body": "Add 200 uL buffer AL, mix by vortexing."
+            }
+        ]
+    },
+    {
+        "title": "**Incubate at 56 °C for 1 hour**",
+        "body": [
+            {
+                "title": "6.",
+                "body": "Add 200 uL ethanol \\(96-100%)"
+            },
+            {
+                "title": "6.",
+                "body": "Pipet mixture into a DNeasy Mini spin column and collection tube. Centrifuge at >6,000 x g for 1 min. Discard flow through and collection tube."
+            },
+            {
+                "title": "7.",
+                "body": "Place the column in a new collection tube. Add 500 uL Buffer AW1. Centrifuge at >6,000 x g for 1 min. Discard flow through and collection tube."
+            },
+            {
+                "title": "8.",
+                "body": "Place the column in a new collection tube. Add 500 uL Buffer AW2. Centrifuge at 20,000 x g for 1 min. Discard flow through and collection tube."
+            },
+            {
+                "title": "9.",
+                "body": "Transfer the column to a new 1.7 or 2 mL microcentrifuge tube. Elute the DNA by adding 150 uL nuclease free water or Elution Buffer lacking EDTA. Incubate for 1 min at room temperature. Centrifuge at >6,000 x g for 1 min. \r\n  Expected concentration ranges from 50 - 150 ng/uL."
+            }
+        ]
+    },
+    {
+        "title": "**C. Digest DNA for Control Dilution Series**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Identify a restriction enzyme that cuts within the target amplicon but not within the template amplicon."
+            },
+            {
+                "title": "2.",
+                "body": "Digest and inactivate uncut control DNA according to the restriction enzyme protocol. Uncut control DNA should be treated exactly the same, except that the restriction enzyme should be omitted."
+            },
+            {
+                "title": "3.",
+                "body": "Make ratiometric mixes of cut to uncut DNA for a standard curve \\(e.g. 1:1, 1:2, 1:4, 1:10 and 1:100)."
+            }
+        ]
+    },
+    {
+        "title": "**D. Master mix for ddPCR**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "1x reaction:\r\n  10 uL 2x ddPCR Supermix for Probes\r\n\n\n0.125 uL Restriction enzyme 1  for fragmentation \\(optional)\r\n\n\n0.125 uL Restriction enzyme 2  for fragmentation \\(optional)\r\n\n\n1.8 uL 10 um primer mix \\(forward and reverse primers for both target and template amplicons)\r\n\n\n50 -150 ng DNA \\(acceptable range)\r\n\n\n1 uL 5um probe mix \\(target and template probes)\r\n\n\nBring to a final volume of 20 uL with nuclease free water."
+            }
+        ]
+    },
+    {
+        "title": "**E. Creating Droplets**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place disposable DGB cartridge into proprietary holder and close."
+            },
+            {
+                "title": "2.",
+                "body": "Pipet 70uL of oil for probes into the eight designated wells."
+            },
+            {
+                "title": "3.",
+                "body": "Pipet your samples into the eight designated wells, ensuring that there are no air bubbles at the bottom of the wells. If you have less than eight samples, fill remaining wells with water."
+            },
+            {
+                "title": "4.",
+                "body": "Place proprietary gasket on top of cartridge and holder."
+            },
+            {
+                "title": "5.",
+                "body": "Place cartridge and holder into the Q200 droplet generator. Close lid to begin generation"
+            },
+            {
+                "title": "6.",
+                "body": "Pipet droplets from cartridge to 96 well thermal PCR plate and seal using adhesive aluminum  or heat sealer."
+            }
+        ]
+    },
+    {
+        "title": "**F. Cycling conditions**",
+        "body": "Enzyme activation: 10 min at 95 °C\r\n\n\n40 cycles of:\r\n\n\n     Denaturation: 30 sec at 94 °C\r\n\n\n     Annealing/extension: 60 sec at  60 °C\r\n\n\nEnzyme inactivation: 10 min at 98 °C\r\n\n\nHold \\(optional): indefinitely at 4 °C"
+    },
+    {
+        "title": "**G. Loading QX200 Droplet reader**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "After thermal cycling, droplets may be stored at 4°C for up to 24 hours before analysis."
+            },
+            {
+                "title": "2.",
+                "body": "Place the sealed 96-well plate in the QX100 or QX200 Droplet reader, secured with a metal plate holder."
+            },
+            {
+                "title": "3.",
+                "body": "Open QuantaSoftTM Software and initialize a new experiment by first creating a new plate layout template. See the QuantaSoft Instruction manual for detailed setup procedures to designate sample name, experiment type, master mix used, target name\\(s), and fluorescent channels used \\(e.g. Ch1 for FAM and Ch2 for VIC-labeled TaqManTM probes)."
+            },
+            {
+                "title": "4.",
+                "body": "After the layout is complete, click ‘Run’ to start the droplet reading process and then select the dye sets and run options desired."
+            },
+            {
+                "title": "5.",
+                "body": "After droplet reading, plates are analyzed using the QuantaSoft software. Concentrations reported are copies/µL of the final 1x ddPCR reaction and should be adjusted according to the template volume that was present in the reaction mixture."
+            },
+            {
+                "title": "6.",
+                "body": "Positive droplet calls are automatically determined by the QuantaSoft software, in wells with good separation between positive and negative droplets. Thresholds for positive droplets can be imposed or altered using by the user, which may be useful in some instances to adjust gating for droplets of low intensity or to better accommodate results when using multiplexed probes."
+            }
+        ]
+    },
+    {
+        "title": "**H. Data analysis**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "After droplet reading, plates are analyzed using the QuantaSoft software. Concentrations reported are copies/µL of the final 1x ddPCR reaction and should be adjusted according to the template volume that was present in the reaction mixture."
+            },
+            {
+                "title": "2.",
+                "body": "Positive droplet calls are automatically determined by the QuantaSoft software, in wells with good separation between positive and negative droplets. Thresholds for positive droplets can be imposed or altered using by the user, which may be useful in some instances to adjust gating for low intensity droplets or to better accommodate results when using multiplexed probes."
+            },
+            {
+                "title": "3.",
+                "body": "Raw DSB frequency can be calculated as follows: \\(\\[target-,template+])/\\(\\[target-,template+]  + \\[target+,template+])"
+            },
+            {
+                "title": "4.",
+                "body": "To generate standard curves, raw DSB frequencies for ratiometric standard samples are calculated as in \\(3) and a linear regression is performed."
+            },
+            {
+                "title": "5.",
+                "body": "Absolute DSB frequencies for experimental samples can be calculated by fitting the corresponding raw DSB frequencies to the standard curve linear regression determined in \\(4)."
+            }
+        ]
+    }
+]

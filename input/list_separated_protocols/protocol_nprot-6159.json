@@ -1,0 +1,208 @@
+[
+    {
+        "title": "**Remove the seed coats, surface sterilization and germination of cucumber seeds •TIMING 3 hours for handling, 2 days for cultivation \\(seeds germination)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Use Cl<sub>2</sub> \\(add 2 ml HCl to 15 ml NaClO in a seal container, please be careful) sterile the cucumber seeds for 1-2 hours, not for long. Soak cucumber mature seeds in tap water for 2 h at room temperature in Petri dish."
+            },
+            {
+                "title": "2.",
+                "body": "Remove the seed coats from seeds with forceps by pinch the pointed end of seeds first and then push aside the seed coats."
+            },
+            {
+                "title": "3.",
+                "body": "Sterilize 20-50 seeds for 30 s with 20 ml of 75% ethanol in a sterile Petri dish with a lid. Drain ethanol and rinse with 20 ml of 3% sodium hypochlorite solution. Gently shake the seeds on a shaker for 15 min. Rinse three times with sterile deionized water. From this step to step 18 should be performed in a laminar flow hood."
+            },
+            {
+                "title": "4.",
+                "body": "Place surface-sterilized seeds with forceps onto Petri plates containing seed germination medium, allowing 15-25 seeds per plate. Germinate the seeds in the dark at 28°C for 2 d."
+            }
+        ]
+    },
+    {
+        "title": "**Inoculum preparation •TIMING 30 min for handling, 2 days for cultivation**",
+        "body": [
+            {
+                "title": "5.",
+                "body": "On the day after Step 4, inoculating 2 ml of LB liquid medium containing rifampicin \\(100 mg/l) and Kanamycin \\(50 mg/l) with a single Agrobacterium colony carrying the appropriate construct. Culture at 28°C in a shaker at 200 rpm for 24 h."
+            },
+            {
+                "title": "6.",
+                "body": [
+                    "Subculture 200 μl of 2 ml culture from",
+                    {
+                        "title": "Step 6",
+                        "body": "into 50 ml of LB liquid medium containing rifampicin \\(100 mg/l) and Kanamycin \\(50 mg/l). Culture at 28°C in a shaker at 200 rpm until the OD at 600 nm to 0.6-0.8."
+                    }
+                ]
+            },
+            {
+                "title": "7.",
+                "body": "Spin the Agrobacterium culture down \\(4000g or 5000g) for 10 min at RT \\(room temperature). Remove the supernatant and rinse the pellet in 1 ml liquid MS liquid medium. Dilute the MS medium containing _Agrobacterium_ to OD<sub>600</sub>=0.25 using MS liquid medium."
+            }
+        ]
+    },
+    {
+        "title": "**Explant preparation, _Agrobacterium_ infection and co-cultivation •TIMING 4 hours for handling, 2 days for cultivation \\(co-cultivation)**",
+        "body": [
+            {
+                "title": "8.",
+                "body": [
+                    "Pull the seedlings \\(from Step",
+                    {
+                        "title": "5)",
+                        "body": "out of the germination medium and place in an empty sterile Petri plate dishes with a stack of sterile filter paper."
+                    }
+                ]
+            },
+            {
+                "title": "9.",
+                "body": "Cut the radicle first, and then cut off 1/2-1/3 the end of cotyledon off and remove the endopleura off at the same time. Detach the first cotyledon by using the sterile scalpel to wipe the upside cotyledon off. Knocking the hypocotyl over to detach the downside cotyledon and growing point using sterile forceps and scalpel \\(Fig. 1)."
+            },
+            {
+                "title": "10.",
+                "body": "Collect the detached cotyledons into MS liquid medium \\(without _Agrobacterium_) in a 50 ml sterile glass beaker."
+            },
+            {
+                "title": "11.",
+                "body": [
+                    "Pour out the MS liquid medium \\(without _Agrobacterium_), and pour into MS liquid medium \\(with _Agrobacterium_ OD<sub>600</sub>=0.25 from Step",
+                    {
+                        "title": "8)",
+                        "body": "and shake gently. Cover the sterile glass beaker with sterile culture container sealing film and put into the desiccator which connected with the vacuum pump. After 2 sessions of vacuum infiltration were applied for 5 min, explants were leave for another 5 min in _Agrobacterium_."
+                    }
+                ]
+            },
+            {
+                "title": "12.",
+                "body": "Pour out the MS liquid medium \\(with _Agrobacterium_), put a sterile filter paper onto cocultivation medium and touch the medium exactly. Place the infected explants on the filter paper and keep the adaxial surface of the cotyledons upward using forceps \\(Fig. 1), allowing about 20-35 explants per Petri dish plate. Seal the plate and incubate in dark at 28°C for 2d."
+            }
+        ]
+    },
+    {
+        "title": "**Shoot initiation •TIMING 0.5 hours for handling, 2-3 weeks for cultivation \\(shoot regeneration)**",
+        "body": [
+            {
+                "title": "13.",
+                "body": [
+                    "Transfer explants onto shooting medium containing 50 mg/ml kanamycin and 500 mg/ml carbenicillin to select the transgenic shoot and inhibit the growth of Agrobacterium, allowing 5-6 explants per Petri dish plate, as the explants will grow up. Incubate under light \\(150 μmol m<sup>-2</sup> s<sup>-1</sup>, 16",
+                    {
+                        "title": "h)",
+                        "body": "at 25°C for 2-3 weeks."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Regeneration of transgenic plants •TIMING 3 hours for handling, 4-6 weeks for cultivation \\(root regeneration)**",
+        "body": [
+            {
+                "title": "14.",
+                "body": "After the shoots growth out from the explants \\(Fig. 1), pull the explants out and place in an empty sterile Petri plate dishes with a stack of sterile filter paper."
+            },
+            {
+                "title": "15.",
+                "body": [
+                    "Cut the shoots off using sterile forceps and scalpel. Remove the embryoids on the end part of the shoots. Transfer shoots to 100 ml glass Erlenmeyer flasks or glass tissue culture vessels containing rooting medium with kanamycin \\(50 mg/l) and carbenicillin \\(500 mg/l). Place three to four shoots per Erlenmeyer flasks. Incubate under light \\(150 μmol m<sup>-2</sup> s<sup>-1</sup>, 16",
+                    {
+                        "title": "h)",
+                        "body": "at 25°C for 1-2 weeks."
+                    }
+                ]
+            },
+            {
+                "title": "16.",
+                "body": [
+                    "After 1-2 weeks, take out the no rooting plants and recut the unfolded leaves and the end part of the shoots using sterile forceps and tweezers and transfer shoots to new rooting medium. Repeat this procedure one times per week in the next 2-3 weeks. Place one to two shoots per glass Erlenmeyer flasks. Incubate in under light \\(150 μmol m<sup>-2</sup> s<sup>-1</sup>, 16",
+                    {
+                        "title": "h)",
+                        "body": "at 25°C for 2-4 weeks."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Plant acclimation •TIMING 3 hours for handling, 3-5 weeks for cultivation**",
+        "body": [
+            {
+                "title": "17.",
+                "body": "After the roots grow strongly, open the cover of the glass Erlenmeyer flasks. Put the cover on the top of the Erlenmeyer flasks loosely. Incubate in dim light \\(10-50 μmol m<sup>-2</sup> s<sup>-1</sup>) at 25°C for 3 days."
+            },
+            {
+                "title": "18.",
+                "body": "Knock the bottom of the Erlenmeyer flasks gently and make the medium not firmed. Pull out the plants from the Erlenmeyer flasks gently using forceps. Wash off the medium with running tap water gently."
+            },
+            {
+                "title": "19.",
+                "body": "Fill the pots with wet compost mixture, place the regenerated plants into the compost by making a hole. Compact the soil and water slightly."
+            },
+            {
+                "title": "20.",
+                "body": [
+                    "Cover the plants with zip bags and tight to the pot using rubber band to keep moisture. Incubate in good condition chamber for cucumber growth under light \\(gradually from 300 μmol m<sup>-2</sup> s<sup>-1</sup> to 500 μmol m<sup>-2</sup> s<sup>-1</sup>, 16",
+                    {
+                        "title": "h)",
+                        "body": "at 25°C/18°C for 1-2 weeks. Add water into the tray under pots when the soil is getting dry."
+                    }
+                ]
+            },
+            {
+                "title": "21.",
+                "body": [
+                    "Take the zip bags off after the regeneration plants grown in a good condition. Watering the plants when the soil is getting dry. Incubate in under light \\(500 μmol m<sup>-2</sup> s<sup>-1</sup>, 16",
+                    {
+                        "title": "h)",
+                        "body": "at 25°C/18°C for 1-2 weeks."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Examination of transgenic plants •TIMING 1 day for handling**",
+        "body": [
+            {
+                "title": "22.",
+                "body": "Number the regeneration cucumber plants and cut a peace of the mature leaves, extract the genome DNA using the cetyltrimethy ammonium bromide \\(CTAB) method<sup>40</sup>."
+            },
+            {
+                "title": "23.",
+                "body": "Confirm the transgenic plants has been inserted in the T-DNA using the specific primers designed on the T-DNA and do PCR amplification and gel electrophoresis assay."
+            }
+        ]
+    },
+    {
+        "title": "**Seed production from transgenic plants •TIMING 1 hour for handling, 8-12 weeks for cultivation**",
+        "body": [
+            {
+                "title": "24.",
+                "body": "Transfer the molecular identified transgenic plants to greenhouse, to give seedlings normal environment condition with the temperature no higher than 33°C and no lower than 16°C, light intensity 500 μmol m<sup>-2</sup> s<sup>-1</sup>, relative humidity 70-80%."
+            },
+            {
+                "title": "25.",
+                "body": "The transgenic cucumber plants require normal cultivation management and artificial self-pollination when plants flowering. On the day before the female and male flower blooming, clip the both the female and male flowers on the same plants, and then do artificial pollination using the same plants male flowers to the female flowers on the second morning, and then clip the female flowers to keep away the pollen from the other plants."
+            },
+            {
+                "title": "26.",
+                "body": "When the epidermis of autocarps are turned yellow and indicated that the seeds are fully mature, pick them up and place under the cool, dry place for 1-2 weeks for the after-ripening of seeds."
+            },
+            {
+                "title": "27.",
+                "body": "Open the cucumber fruit using knife and collect the seeds. Wash the seeds clean with tap water and store in mesh bags under the cool, dry place to dry the seeds."
+            },
+            {
+                "title": "28.",
+                "body": [
+                    "The transgenic cucumber seeds of T0 can germinated directly in soil or in cultivation containers filled soil and used for further analysis of gene biology after molecular identified the exit of T-DNA insertion. T-DNA identification refer to",
+                    {
+                        "title": "Step 25",
+                        "body": "and Step 26."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,135 @@
+[
+    "\n<p>Order 50-70kg adult male Yorkshire swine and prepare for five study phases: (1) Animal preparation and instrumentation (2) Baseline data (3) Controlled hemorrhage (4) Hemorrhagic shock, and (5) Resuscitation.</p><p><br></p><p><strong>I. Animal Preparation and Instrumentation: (Variable time)</strong></p><p>",
+    {
+        "title": "1.",
+        "body": "Anesthetize the animal with Telazol (5mg/kg) and Xylazine (2mg/kg).</p><p>"
+    },
+    {
+        "title": "2.",
+        "body": "Transport animal to the procedure room.</p><p>"
+    },
+    {
+        "title": "3.",
+        "body": "Initiate isoflurane via facemask targeting a 1.0 MAC followed by prone intubation with a 7.0 endotracheal tube.</p><p>"
+    },
+    {
+        "title": "4.",
+        "body": "Transition to general anesthesia at 10cc/kg TV and RR of 12-14 with a target pCO2 of 30-45 and FiO2 of 40%, adjusted as needed. </p><p>"
+    },
+    {
+        "title": "5.",
+        "body": "Place Bovie pad and EKG leads after shaving as needed.</p><p>"
+    },
+    {
+        "title": "6.",
+        "body": "Place the animal in supine and restrain.</p><p>"
+    },
+    {
+        "title": "7.",
+        "body": "Insert percutaneous US-guided venous and arterial access with appropriate catheter placement:</p><p>\t\ta. 7 Fr sheath in bilateral femoral arteries.</p><p>\t\t\ti. Place an aortic pressure probe in either the right or left femoral artery line.</p><p>\t\t\tii. Connect the Masterflex peristaltic pump to the alternate femoral artery line.</p><p>\t\tb. 7 Fr sheath in either femoral vein.</p><p>\t\t\ti. Place an IVC pressure probe in the femoral vein line.</p><p>\t\tc. 7 Fr sheath in either jugular vein.</p><p>\t\t\ti. Reserve this line or another venous line for fluid administration. </p><p>\t\td. 7 Fr sheath in either carotid artery.</p><p>\t\ti. Reserve this line for arterial blood samples.</p><p>\t\tii. If performing endovascular placement of the pressure catheter directly into the SMA, utilize a hydrophilic guide wire and angled catheter via the carotid artery cannula. </p><p>"
+    },
+    {
+        "title": "8.",
+        "body": "Administer 1L of 0.9% normalized saline (NS) prior to surgical exposures.</p><p>"
+    },
+    {
+        "title": "9.",
+        "body": "Perform a full abdominal laparotomy. </p><p>"
+    },
+    {
+        "title": "10.",
+        "body": "Perform a cystostomy with foley catheter placement into the bladder.</p><p>"
+    },
+    {
+        "title": "11.",
+        "body": "Perform a splenectomy to prevent autotransfusion during the hemorrhagic phase. </p><p>"
+    },
+    {
+        "title": "12.",
+        "body": "Perform a full left medial visceral rotation for exposure of the proximal SMA. </p><p>\t\ta. Place a 6mm flow probe around the SMA (adjust flow probe diameter as needed).</p><p>"
+    },
+    {
+        "title": "13.",
+        "body": "Perform a partial right medial visceral rotation for exposure of the IVC, SMV, and portal vein. </p><p>\t\ta. Place a 12mm flow probe around the distal portal vein (adjust flow probe diameter as needed). </p><p>\t\tb. Place a 16mm flow probe around the IVC (adjust flow probe diameter as needed).</p><p>\t\tc. Place a 5 Fr sheath in the portal vein directly above the flow probe, then introduce a pressure catheter.            </p><p>"
+    },
+    {
+        "title": "14.",
+        "body": "Confirm fluoroscopically that all catheters and devices are appropriately positioned.</p><p>"
+    },
+    {
+        "title": "15.",
+        "body": "Perform a TIMEOUT. </p><p>\t\ta. Confirm appropriate line placements, confirm all sheaths are patent, confirm the timer is ready, confirm all pressure and flow data is transducing properly. </p><p>\t\tb. Confirm all LabChart connections and channels are appropriately labeled. </p><p><br></p><p><strong>II. Baseline Phase: (60 min)</strong></p><p>"
+    },
+    {
+        "title": "1.",
+        "body": "Initiate a timer of 60 minutes for baseline normalization period.</p><p>"
+    },
+    {
+        "title": "2.",
+        "body": "Start 0.9% NS and administer 50cc of Dextrose50 (D50).</p><p>"
+    },
+    {
+        "title": "3.",
+        "body": "Obtain a ABG and 1 tube of serum at the end of the 60 minutes. </p><p>"
+    },
+    {
+        "title": "4.",
+        "body": "Provide D50, bicarbonate, or alterations to the ventilator settings as needed for maintaining a stable physiologic state.</p><p><br></p><p><strong>III. Begin Controlled Hemorrhage: (Variable time)</strong></p><p>"
+    },
+    {
+        "title": "1.",
+        "body": "Administer 10,000 Units of Heparin intravenously prior to controlled exsanguination.</p><p>"
+    },
+    {
+        "title": "2.",
+        "body": "Connect the peristaltic pump to the femoral vein with the output end connected to a Heparinized bag.</p><p>"
+    },
+    {
+        "title": "3.",
+        "body": "Prior to beginning study protocol, program the peristaltic pump for a pressure-driven model with a target systolic blood pressure of 50 mmHg.</p><p>"
+    },
+    {
+        "title": "4.",
+        "body": "Set the peristaltic pump rate to 50mL per min until SBP of 50 mmHg is obtained. </p><p>"
+    },
+    {
+        "title": "5.",
+        "body": "Place the shed blood into a Heparinized bag.</p><p><br></p><p><strong>IV. Hemorrhagic Shock Phase: (60 min)</strong></p><p>"
+    },
+    {
+        "title": "1.",
+        "body": "Keep the animal in a state of hemorrhagic shock during this period with careful observation of SBP, MAP, and TV.</p><p>"
+    },
+    {
+        "title": "2.",
+        "body": "Collect 1 ABG and 1 serum sample per 30 minutes (Total 2 ABG, 2 Serum). </p><p><br></p><p><strong>V. Resuscitation Phase: (120 min)</strong></p><p>"
+    },
+    {
+        "title": "1.",
+        "body": "Resuscitation animal until lactic acidosis clears completely. </p><p>"
+    },
+    {
+        "title": "2.",
+        "body": "Return the shed blood to the animal via the peristaltic pump and initiate IV 0.9% NS or Lactated Ringers (LR). </p><p>"
+    },
+    {
+        "title": "3.",
+        "body": "Provide D50, calcium carbonate, norepinephrine, and epinephrine as needed throughout resuscitation to regain baseline systolic pressure. </p><p>"
+    },
+    {
+        "title": "4.",
+        "body": "Adjust ventilator settings as needed for resuscitation to normal physiologic state. </p><p>"
+    },
+    {
+        "title": "5.",
+        "body": "Collect 1 ABG and 1 serum sample per 60 minutes (Total 2 ABG, 2 Serum). </p><p>\t\ta. Obtain 5 samples of serum, centrifuge at 3,000 rpm for 15 minutes, aliquot into 1mL sample tubes, and freeze at -20°C for later analysis. </p><p><br></p><p><strong>VI. End of Study:</strong></p><p>"
+    },
+    {
+        "title": "1.",
+        "body": "Euthanize the animal and follow proper disposal protocol. </p><p>"
+    },
+    {
+        "title": "2.",
+        "body": "Clean all equipment used.</p>"
+    }
+]

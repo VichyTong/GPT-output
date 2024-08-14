@@ -1,0 +1,124 @@
+[
+    "\nAll incubation steps are at the Heidolph unimax shaker \\(150rpm) at room temperature with an amount of 100ul, unless different amounts are reported.",
+    {
+        "title": "1.",
+        "body": [
+            {
+                "title": "**Coating**",
+                "body": ": Dilute MoAb anti-H IL-6R to 2 ug/ml. Coat the plate with MoAb anti-H IL-6R and incubate the plate for 1 hr at the shaker, and incubate the plate \\(without shaker) overnight at 4°C."
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": [
+            {
+                "title": "**Washing**",
+                "body": ": Wash the plate 5 times with washing buffer \\(200 ml in each well). Discard the buffer by throwing the washing buffer firmly in the sink. Wells should appear dry after throwing the washing buffer away."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": [
+            {
+                "title": "**Blocking**",
+                "body": ": Block the MoAb anti-H IL-6R by incubation of 200 ml blocking buffer for 1 hr."
+            }
+        ]
+    },
+    {
+        "title": "4.",
+        "body": [
+            {
+                "title": "**Washing**",
+                "body": ": Wash the plate 5 times with washing buffer \\(200 ml. in each well). Discard the buffer by throwing the washing buffer firmly in the sink. Wells should appear dry after throwing the washing buffer away."
+            }
+        ]
+    },
+    {
+        "title": "5.",
+        "body": [
+            {
+                "title": "**Sample incubation**",
+                "body": ": Row 1 & 2 contain the Standard samples in two-fold, start with conc.1000 pg/ml, 500 pg/ml, 250 pg/ml, 125 pg/ml, 62.5 pg/ml, 31.25 pg/ml, 15.625 pg/ml.\r\n  Row 3 to 12 contain test samples dilutions \\(diluted 1000 and 1200 times)\r\n\n\nIncubate Standard and test samples for 2 hr"
+            }
+        ]
+    },
+    {
+        "title": "6.",
+        "body": [
+            {
+                "title": "**Washing**",
+                "body": ": Wash the plate 5 times with washing buffer \\(200 ml in each well). Discard the buffer by throwing the washing buffer firmly in the sink. Wells should appear dry after throwing the washing buffer away."
+            }
+        ]
+    },
+    {
+        "title": "7.",
+        "body": [
+            {
+                "title": "**Detection**",
+                "body": ": Dilute PoAb anti-H IL-6R-biotine to 0.3 ug/ml and Incubate for 1,5 hr."
+            }
+        ]
+    },
+    {
+        "title": "8.",
+        "body": [
+            {
+                "title": "**Washing**",
+                "body": ": Wash the plate 5 times with washing buffer \\(200 ml in each well). Discard the buffer by throwing the washing buffer firmly in the sink. Wells should appear dry after throwing the washing buffer away."
+            }
+        ]
+    },
+    {
+        "title": "9.",
+        "body": [
+            {
+                "title": "**Conjugate reaction**",
+                "body": ": Incubate the plate for 30 minutes in a dark room with Streptavidine poly-HRP 1:8000 diluted in HPE buffer."
+            }
+        ]
+    },
+    {
+        "title": "10.",
+        "body": [
+            {
+                "title": "**Washing**",
+                "body": ": Wash the plate 5 times with washing buffer \\(200 ml in each well). Discard the buffer by throwing the washing buffer firmly in the sink. Wells should appear dry after throwing the washing buffer away."
+            }
+        ]
+    },
+    {
+        "title": "11.",
+        "body": [
+            {
+                "title": "**Colour reaction**",
+                "body": ": Dilute a 2 mg TMB tablet in 1 ml reaction buffer. Add 2ul 30% H2O2 before use. Let react for 15 – 20 minutes"
+            }
+        ]
+    },
+    {
+        "title": "12.",
+        "body": [
+            {
+                "title": "**Stopping**",
+                "body": ": Stop the reaction after 15 – 20 minutes by adding 100 ul 2N H2SO4"
+            }
+        ]
+    },
+    {
+        "title": "13.",
+        "body": [
+            {
+                "title": "**Scanning**",
+                "body": ": Scan the plate at 450 nm – 575 nm \\(reference filter) in the Emax machine and calculate concentrations"
+            },
+            {
+                "title": "**Reference values**",
+                "body": ": The reference value for sIL-6R is 31 pg/ml \\(Range 14 – 46 pg/ml, source: R&D Systems\\(9))"
+            }
+        ]
+    }
+]

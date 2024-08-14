@@ -1,0 +1,14 @@
+[
+    {
+        "index": 82,
+        "string": "- Stain the gel as previously described and size select 3\u00b4-ligated small RNAs by cutting the area between the ligated 18- and 30-mer markers ",
+        "phrase": "as previously described",
+        "refer": "In this sentence, \"as previously described\" refers to the method of staining the gel."
+    },
+    {
+        "index": 99,
+        "string": "- Stain the gel as previously described and size select",
+        "phrase": "as previously described",
+        "refer": "as previously described refers to the instructions given earlier in the passage."
+    }
+]

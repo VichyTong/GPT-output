@@ -1,0 +1,938 @@
+[
+    {
+        "title": "**Coating of coverslips**",
+        "body": [
+            "\\(for BLISS in cells)",
+            {
+                "title": "1.",
+                "body": "Place the coverslips in a 10 cm dish, cover them with 5 ml PLL solution, and then gently shake the dishes for 15 min"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": make sure that coverslips stay covered by liquid",
+            {
+                "title": "2.",
+                "body": "Aspirate the solution and transfer it into a 15 ml tube"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": the solution can be then used up to three times",
+            {
+                "title": "3.",
+                "body": "Wash the coverslips three times with 1× PBS at room temperature \\(rt) and once with ethanol \\(EtOH) 70%"
+            },
+            {
+                "title": "4.",
+                "body": "Air-dry the coverslips and proceed with cell spotting and fixation"
+            }
+        ]
+    },
+    {
+        "title": "**Breakpoint**",
+        "body": ": if not used immediately, coverslips can be stored in EtOH 70% at 4 °C and air-dried just before use."
+    },
+    {
+        "title": "**Attachment and fixation of suspension cells**",
+        "body": [
+            "\\(for BLISS in cells)",
+            {
+                "title": "1.",
+                "body": "Place the desired number of PLL-coated coverslips into a 24-well cell culture plate"
+            },
+            {
+                "title": "2.",
+                "body": "In each well, dispense a cell suspension freshly prepared in 1× PBS"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": we usually spot up to 3×10<sup>5</sup> cells onto a 13 mm coverslip",
+            {
+                "title": "3.",
+                "body": "Let the cells sediment onto the coverslip for 10 min at rt"
+            },
+            {
+                "title": "4.",
+                "body": "Slowly add one volume of PFA 8% in 1× PBS equal to the volume of cell suspension added before onto the coverslip"
+            },
+            {
+                "title": "5.",
+                "body": "Incubate for 10 min at rt"
+            },
+            {
+                "title": "6.",
+                "body": "Rinse the coverslips twice with 1× PBS at rt"
+            },
+            {
+                "title": "7.",
+                "body": "Store the samples in 1× PBS at 4 °C or proceed to permeabilization"
+            }
+        ]
+    },
+    {
+        "title": "**Breakpoint**",
+        "body": ": fixed cells can be stored at 4 °C for several days up to a month. To avoid bacterial contamination, cells should be stored in 1× PBS supplemented with NaN<sub>3</sub> 0.05%."
+    },
+    {
+        "title": "**Transfection and fixation of HEK cells in multi-well plates**",
+        "body": [
+            "\\(for CRISPR-BLISS)",
+            {
+                "title": "1.",
+                "body": "Coat a 24-well cell culture plate with PDL following the same procedure used for coating coverslips with PLL"
+            },
+            {
+                "title": "2.",
+                "body": "Seed ~1.25×10<sup>5</sup> HEK 293T cells per well"
+            },
+            {
+                "title": "3.",
+                "body": "Grow cells for 16-18 h until they reach 60–70% confluence"
+            },
+            {
+                "title": "4.",
+                "body": "Transfect cells according to your favorite protocol"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": for Cas9-BLISS, we typically use 2 μl of Lipofectamine 2000 and 500 ng of Cas9 plasmid in 100 μl total of OptiMEM per well",
+            {
+                "title": "5.",
+                "body": "After transfection, aspirate the medium and wash the cells in 1× PBS at rt"
+            },
+            {
+                "title": "6.",
+                "body": "To each well, add 0.5 ml of PFA 4% in 1× PBS at rt"
+            },
+            {
+                "title": "7.",
+                "body": "Incubate for 10 min at rt"
+            },
+            {
+                "title": "8.",
+                "body": "Rinse the plate twice with 1× PBS at rt"
+            },
+            {
+                "title": "9.",
+                "body": "Store the plate in 1× PBS at 4 °C or proceed to permeabilization"
+            }
+        ]
+    },
+    {
+        "title": "**Liver cryopreservation and sectioning**",
+        "body": [
+            "\\(for tissue-BLISS)",
+            {
+                "title": "1.",
+                "body": "Cut the biopsy into small pieces and transfer them into a 15 ml tube containing PFA 4% in 1× PBS"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate for 1 h at rt while rotating"
+            },
+            {
+                "title": "3.",
+                "body": "Add a volume of glycine 2 M to obtain a 125 mM final concentration"
+            },
+            {
+                "title": "4.",
+                "body": "Mix well by pipetting up and down"
+            },
+            {
+                "title": "5.",
+                "body": "Wash the tissue fragments twice with 1× PBS at rt"
+            },
+            {
+                "title": "6.",
+                "body": "Immerse the tissue fragments in sucrose 15% on a rotator overnight at 4 °C"
+            },
+            {
+                "title": "7.",
+                "body": "Immerse the tissue fragments in sucrose 30% on a rotator at 4 °C until they sink at the bottom of the tube"
+            },
+            {
+                "title": "8.",
+                "body": "Embed the tissue fragments in OCT and quickly freeze them at –20 °C before cryosectioning"
+            },
+            {
+                "title": "9.",
+                "body": "Section the block into 30 μm slices, mounting them onto microscope slides"
+            },
+            {
+                "title": "10.",
+                "body": "Air-dry the sections for 60 min at rt"
+            },
+            {
+                "title": "11.",
+                "body": "Store the sections at 4 °C or proceed to permeabilization"
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of nuclei suspension from liver biopsies**",
+        "body": [
+            "\\(for tissue-BLISS)",
+            {
+                "title": "1.",
+                "body": "Cut the biopsy into small pieces and transfer them into a 2 ml tube containing 1-1.5 ml of NIB buffer"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate for 15-40 min at, pipetting the suspension up and down every 5 min, until the tissue fragments become transparent"
+            },
+            {
+                "title": "3.",
+                "body": "Centrifuge at 500 g for 5 min at rt"
+            },
+            {
+                "title": "4.",
+                "body": "Discard the supernatant"
+            },
+            {
+                "title": "5.",
+                "body": "Resuspend the nuclei in 200-500 μl of 1× PBS at rt"
+            },
+            {
+                "title": "6.",
+                "body": "Dispense 100-200 μl of the nuclei suspension onto a 13 mm PLL-coated coverslip"
+            },
+            {
+                "title": "7.",
+                "body": "Incubate for 10 min at rt"
+            },
+            {
+                "title": "8.",
+                "body": "Slowly add one volume of PFA 8% in 1× PBS equal to the volume of nuclei suspension added before onto the coverslip"
+            },
+            {
+                "title": "9.",
+                "body": "Incubate for 10 min at rt"
+            },
+            {
+                "title": "10.",
+                "body": "Rinse the coverslips twice with 1× PBS at rt"
+            },
+            {
+                "title": "11.",
+                "body": "Store the samples in 1× PBS at 4 °C or proceed to permeabilization"
+            }
+        ]
+    },
+    {
+        "title": "**DAY 1**",
+        "body": []
+    },
+    {
+        "title": "**Cells and tissue lysis**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Briefly rinse the sample in 1× PBS at rt"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": for samples on 13 mm coverslips, this is conveniently done in a",
+            {
+                "title": "12-",
+                "body": "or 24-well plate. For tissue-BLISS, the tissue section is covered with a Secure-Seal™ Hybridization Chamber. All the steps until post _in situ_ ligation are done by pipetting 100 μl volumes in and out of the chamber."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the sample in LB1 for 1h at 4 °C"
+            },
+            {
+                "title": "3.",
+                "body": "Briefly rinse the sample in 1× PBS at rt"
+            },
+            {
+                "title": "4.",
+                "body": "Exchange to LB2 and incubate for 1 h at 37 °C"
+            },
+            {
+                "title": "5.",
+                "body": "Wash the samples and proceed to _in situ_ blunting"
+            },
+            {
+                "title": "6.",
+                "body": "Exchange to 1× PBS at rt"
+            },
+            {
+                "title": "7.",
+                "body": "Incubate for 1–2 min at rt"
+            },
+            {
+                "title": "8.",
+                "body": "Repeat wash in 1× PBS at rt"
+            }
+        ]
+    },
+    {
+        "title": "**In situ DSBs blunting**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Exchange to 1× CutSmart® buffer at rt"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate for 2 min at rt"
+            },
+            {
+                "title": "3.",
+                "body": "Repeat twice the equilibration in CutSmart® buffer"
+            },
+            {
+                "title": "4.",
+                "body": "Dispense 50 μl of the following blunting mix on piece of Parafilm M® placed in a Petri dish containing a piece of tissue presoaked in distilled water wrapped all around its edge:\r\n  • Nuclease-free water                37.5 μl\r\n\n\n• Blunting buffer 10×*                       5 μl\r\n\n\n• BSA 10 mg/ml* 0.5 μl \r\n\n\n• dNTPs 1 mM*    5 μl\r\n\n\n• Blunting enzyme mix*    2 μl\r\n\n\n*Components included in Quick Blunting™ Kit"
+            },
+            {
+                "title": "5.",
+                "body": "Place the coverslip on top of the blunting mix solution with cells facing downwards"
+            },
+            {
+                "title": "6.",
+                "body": "Seal the dish with Parafilm M®"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": the volumes and format are for a 13 mm coverslip. For different sample types, the volumes must be adjusted proportionally. For cells in 24-well plates or tissue sections covered by Secure-Seal™ Hybridization Chamber the blunting mix is added directly into the well or pipetted into the chamber.",
+            {
+                "title": "7.",
+                "body": "Incubate for 1 h at rt"
+            }
+        ]
+    },
+    {
+        "title": "**In situ A-tailing**",
+        "body": [
+            "\\(for CRISPR-BLISS)",
+            {
+                "title": "1.",
+                "body": "Exchange to 1× CutSmart® buffer at rt"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate for 2 min at rt"
+            },
+            {
+                "title": "3.",
+                "body": "Repeat twice the equilibration in CutSmart® buffer"
+            },
+            {
+                "title": "4.",
+                "body": "Dispense 50 μl of the following A-tailing mix using the NEBNext dA-Tailing Module on piece of Parafilm M® placed in a Petri dish containing a piece of tissue presoaked in distilled water wrapped all around its edge:\r\n  ●  Nuclease-free water     42 µl\r\n\n\n●  NEBNext dA-Tailing Buffer \\(10X)*  5 µl\r\n\n\n●  Klenow Fragment \\(3´→ 5´ exo–)*                3 µl\r\n\n\n*Components included in NEBNext® dA-Tailing kit"
+            },
+            {
+                "title": "5.",
+                "body": "Place the coverslip on top of the A-tailing mix solution with cells facing downwards"
+            },
+            {
+                "title": "6.",
+                "body": "Seal the dish with Parafilm M®"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": the volumes and format are for a 13 mm coverslip. For different sample types, the volumes must be adjusted proportionally. For cells in 24-well plates or tissue sections covered by Secure-Seal™ Hybridization Chamber the A-tailing mix is added directly into the well or pipetted into the chamber.",
+            {
+                "title": "7.",
+                "body": "Incubate the samples for 30 min at 37 °C"
+            }
+        ]
+    },
+    {
+        "title": "**In situ DSBs ligation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Remove the blunting/A-tailing mix and add 1× CutSmart® buffer at rt"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": for samples on coverslips, this is done by transferring the coverslips from Parafilm M® into a",
+            {
+                "title": "12-",
+                "body": "or 24-well plate"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate for 2 min at rt"
+            },
+            {
+                "title": "3.",
+                "body": "Repeat twice the wash in 1× CutSmart® buffer"
+            },
+            {
+                "title": "4.",
+                "body": "Exchange to 1× T4 Ligase buffer"
+            },
+            {
+                "title": "5.",
+                "body": "Incubate for 5 min at rt"
+            },
+            {
+                "title": "6.",
+                "body": "Dispense 50 μl of the following ligation mix on piece of Parafilm M® placed in a Petri dish containing a piece of tissue presoaked in distilled water and wrapped all around its edge:\r\n  ● Nuclease-free water 37.5 μl\r\n\n\n● T4 ligase buffer 10× 5 μl\r\n\n\n● ATP 10 mM 4 μl\r\n\n\n● BSA 50 mg/ml 1 μl\r\n\n\n● BLISS adapter 10 μM 2 μl\r\n\n\n● T4 ligase 0.5 μl"
+            },
+            {
+                "title": "7.",
+                "body": "Place the coverslips on top of the ligation mix solution with cells facing downwards"
+            },
+            {
+                "title": "8.",
+                "body": "Seal the dish with Parafilm M®"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": the above volumes and format are intended for 13 mm coverslips. For different sample types, the volumes must be adjusted proportionally. For cells in 24-well plates or tissue sections covered by Secure-Seal™ Hybridization Chamber the ligation mix is added directly into the well or pipetted into the chamber",
+            {
+                "title": "9.",
+                "body": "Incubate for 16–18 h at 16 °C"
+            }
+        ]
+    },
+    {
+        "title": "**DAY 2**",
+        "body": []
+    },
+    {
+        "title": "**Removal of unligated adapters**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Remove the ligation mix and add HSW buffer at rt"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": for samples on coverslips, this is done by transferring the coverslips from Parafilm M® into a",
+            {
+                "title": "12-",
+                "body": "or 24-well plate"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate 1 h at 37 °C, shaking"
+            },
+            {
+                "title": "3.",
+                "body": "Repeat the exchange to fresh HSW buffer and incubation at 37 °C 3–5 times"
+            },
+            {
+                "title": "4.",
+                "body": "Exchange to 1× PBS at rt"
+            },
+            {
+                "title": "5.",
+                "body": "Incubate for 1–2 min at rt"
+            },
+            {
+                "title": "6.",
+                "body": "Exchange to nuclease-free water"
+            },
+            {
+                "title": "7.",
+                "body": "Incubate for 1–2 min at rt"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": ": at this point, samples on coverslips can be air-dried onto a piece of Parafilm M®. For tissue samples, the Secure-Seal™ chamber can be removed from the slide, and the tissue air-dried. For samples in 24-well plates, it is not necessary to dry the cells, as the Proteinase K digestion mix \\(see below) can be dispensed directly into the well"
+    },
+    {
+        "title": "**Extraction of genomic DNA**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Dispense 100 μl of the following DNA extraction mix onto the sample:\r\n  ● DNA extraction buffer 95 μl\r\n\n\n● Proteinase K 20 mg/ml 5 μl"
+            },
+            {
+                "title": "2.",
+                "body": "Scrape the cells off the coverslips using a sterile cell scraper"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": the above volumes and format are intended for 13 mm coverslips. For tissue sections, the same approach may be used by adjusting the volume depending on the size of the tissue section. Alternatively, the Pinpoint Slide DNA Isolation System™ may be used to capture a portion of the tissue. For cells in 24-well plates, the DNA extraction mix can be dispensed directly into the well after adjusting the volume proportionally",
+            {
+                "title": "3.",
+                "body": "Transfer the solution into a 1.5 ml Eppendorf® RNA/DNA LoBind"
+            },
+            {
+                "title": "4.",
+                "body": "Incubate 16–18 h in a thermo-shaker at 55 °C, shaking at 800 rpm"
+            }
+        ]
+    },
+    {
+        "title": "**DAY 3**",
+        "body": []
+    },
+    {
+        "title": "**DNA clean-up**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Purify the extracted DNA either using silica-based columns or standard phenol-chloroform and isopropanol precipitation protocols"
+            },
+            {
+                "title": "2.",
+                "body": "Elute DNA in nuclease-free TE buffer"
+            },
+            {
+                "title": "3.",
+                "body": "Measure DNA concentration and then dilute DNA in TE buffer to the concentration recommended for the sonication instrument used \\(see below)"
+            }
+        ]
+    },
+    {
+        "title": "**DNA fragmentation by sonication**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Sonicate DNA aiming to achieve a mean fragment size of 300–500 bp. Examples of instruments and settings that we have successfully used are summarized below:\r\n  • Bioruptor® Plus, for cells with the setting; 30 s ON, 90 s OFF, high mode, 20 cycles in 100 μl TE\r\n\n\n• Bioruptor® Plus, for tissue samples with the setting; 30 s ON, 90 s OFF, high mode, 40 cycles in 100 μl TE\r\n\n\n• Covaris S-series, for cells and tissue samples with the setting; duty 10%, intensity 4, time 30 s, cycle/burst 200, 4 cycles in 50 μl TE/H2O"
+            }
+        ]
+    },
+    {
+        "title": "**DNA concentrating using AMPure beads \\(option 1)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pre-warm AMPure XP beads for 30 min at rt"
+            },
+            {
+                "title": "2.",
+                "body": "Add a 0.8× ratio of AMPure XP bead suspension to the extracted DNA"
+            },
+            {
+                "title": "3.",
+                "body": "Mix thoroughly by pipetting up-down 5-6 times"
+            },
+            {
+                "title": "4.",
+                "body": "Incubate for 5 min at rt"
+            },
+            {
+                "title": "5.",
+                "body": "Place the sample on a magnetic stand"
+            },
+            {
+                "title": "6.",
+                "body": "Incubate for 5 min until all the beads have attached to the magnet"
+            },
+            {
+                "title": "7.",
+                "body": "Aspirate and discard the supernatant"
+            },
+            {
+                "title": "8.",
+                "body": "With the sample on the magnetic stand, add 200 μl ice-cold EtOH 80%"
+            },
+            {
+                "title": "9.",
+                "body": "Aspirate the supernatant"
+            },
+            {
+                "title": "10.",
+                "body": "Repeat once the wash in ice-cold EtOH 80%"
+            },
+            {
+                "title": "11.",
+                "body": "Air-dry the beads for 5 min at rt"
+            },
+            {
+                "title": "12.",
+                "body": "Remove the sample from the magnetic stand"
+            },
+            {
+                "title": "13.",
+                "body": "Resuspend the beads in 10 μl of nuclease-free water"
+            },
+            {
+                "title": "14.",
+                "body": "Incubate for 5 min at rt"
+            },
+            {
+                "title": "15.",
+                "body": "Place the sample on the magnetic stand"
+            },
+            {
+                "title": "16.",
+                "body": "Incubate for 5 min until all the beads have attached to the magnet"
+            },
+            {
+                "title": "17.",
+                "body": "Transfer 8 μl of the cleared solution into a 0.5 ml Eppendorf® RNA/DNA LoBind tube"
+            },
+            {
+                "title": "18.",
+                "body": "Measure DNA concentration using the Qubit® dsDNA HS Assay Kit"
+            }
+        ]
+    },
+    {
+        "title": "**Breakpoint**",
+        "body": ": at this point, samples can be stored at –20 °C until _in vitro_ transcription"
+    },
+    {
+        "title": "**DNA concentrating using SpeedVac \\(option 2)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place the extracted DNA samples in the speedVac instrument with the heat temperature set on medium"
+            },
+            {
+                "title": "2.",
+                "body": "Centrifuge for 20 min"
+            },
+            {
+                "title": "3.",
+                "body": "Keep 8.5 μl of concentrated DNA"
+            },
+            {
+                "title": "4.",
+                "body": "Measure DNA concentration using the Qubit® dsDNA HS Assay Kit"
+            }
+        ]
+    },
+    {
+        "title": "**Breakpoint**",
+        "body": ": at this point, samples can be stored at –20 °C until _in vitro_ transcription"
+    },
+    {
+        "title": "**In vitro transcription \\(IVT)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "In a 0.5 ml Eppendorf® RNA/DNA LoBind tube prepare the following mix:\r\n  ● Sonicated genomic DNA 7.5 μl \r\n\n\n● rNTPs mix*^    8 μl\r\n\n\n● T7 polymerase buffer 10×*    2 μl\r\n\n\n● T7 polymerase*    2 μl\r\n\n\n● RiboSafe RNase Inhibitor 0.5 μl\r\n\n\n*Components included in the MEGAscript® kit\r\n\n\n^Prepared by mixing equal volumes of each rNTP solution provided with MEGAscript® kit"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate for 14 h at 37 °C in a thermocycler with lid set at 70 °C"
+            }
+        ]
+    },
+    {
+        "title": "**DAY 4**",
+        "body": []
+    },
+    {
+        "title": "**Removal of genomic DNA**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Add 1 μl of DNase I, RNase-free to the IVT product"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate 15 min at 37 °C"
+            }
+        ]
+    },
+    {
+        "title": "**RNA cleanup**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pre-warm Agencourt RNAClean XP beads for 30 min at rt"
+            },
+            {
+                "title": "2.",
+                "body": "Transfer the IVT product into a 1.5 ml Eppendorf® RNA/DNA LoBind tube"
+            },
+            {
+                "title": "3.",
+                "body": "Bring the volume up to 30 μl with nuclease-free water"
+            },
+            {
+                "title": "4.",
+                "body": "Add a 1.8× ratio of RNAClean XP beads suspension to the IVT product"
+            },
+            {
+                "title": "5.",
+                "body": "Incubate for 10 min at rt"
+            },
+            {
+                "title": "6.",
+                "body": "Place the sample on a magnetic stand"
+            },
+            {
+                "title": "7.",
+                "body": "Incubate for 5 min until all the beads have attached to the magnet"
+            },
+            {
+                "title": "8.",
+                "body": "Aspirate and discard the supernatant"
+            },
+            {
+                "title": "9.",
+                "body": "With the sample on the magnetic stand, add 200 μl of freshly prepared EtOH 80%"
+            },
+            {
+                "title": "10.",
+                "body": "Incubate at least 1–2 min at rt"
+            },
+            {
+                "title": "11.",
+                "body": "Aspirate the supernatant"
+            },
+            {
+                "title": "12.",
+                "body": "Repeat twice the wash with EtOH 80%"
+            },
+            {
+                "title": "13.",
+                "body": "Air-dry the beads for 10 min at rt"
+            },
+            {
+                "title": "14.",
+                "body": "Remove the sample from the magnetic stand"
+            },
+            {
+                "title": "15.",
+                "body": "Resuspend the beads in 6 μl of nuclease-free water"
+            },
+            {
+                "title": "16.",
+                "body": "Incubate for 5 min at rt"
+            },
+            {
+                "title": "17.",
+                "body": "Place the sample on the magnetic stand"
+            },
+            {
+                "title": "18.",
+                "body": "Incubate for 5 min until all the beads have attached to the magnet"
+            },
+            {
+                "title": "19.",
+                "body": "Transfer 6 μl of the cleared solution into a 0.5 ml Eppendorf® RNA/DNA LoBind tube"
+            }
+        ]
+    },
+    {
+        "title": "**Checkpoint**",
+        "body": ": 1 μl of purified IVT product can be checked on Bioanalyzer 2100 using a RNA 6000 Pico Kit"
+    },
+    {
+        "title": "**RA3 Illumina adapter ligation**",
+        "body": []
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": all the subsequent steps are done on ice, unless otherwise specified",
+            {
+                "title": "1.",
+                "body": "Dilute the RA3 adapter in nuclease-free water 1:5 vol./vol."
+            },
+            {
+                "title": "2.",
+                "body": "Add 1 μl of the diluted RA3 adapter to the sample"
+            },
+            {
+                "title": "3.",
+                "body": "In a thermo-cycler, incubate for 2 min at 70 °C with the lid set at 70 °C"
+            },
+            {
+                "title": "4.",
+                "body": "Immediately place the sample on ice"
+            },
+            {
+                "title": "5.",
+                "body": "Add 4 μl of the following mix:\r\n  ● T4 RNA Ligase buffer 10× 2 μl\r\n\n\n● T4 RNA Ligase 2, truncated 1 μl\r\n\n\n● RNaseOUT™ 1 μl"
+            },
+            {
+                "title": "6.",
+                "body": "Incubate the sample for 1 h at 28 °C in a thermocycler with the lid set at 30 °C"
+            },
+            {
+                "title": "7.",
+                "body": "Transfer the sample on ice"
+            },
+            {
+                "title": "8.",
+                "body": "Add 3.5 μl of nuclease-free water"
+            }
+        ]
+    },
+    {
+        "title": "**Reverse transcription**",
+        "body": []
+    },
+    {
+        "title": "**Note**",
+        "body": [
+            ": all the subsequent steps are done on ice, unless otherwise specified",
+            {
+                "title": "1.",
+                "body": "Prepare a dNTPs mix at 12.5 mM in nuclease-free water"
+            },
+            {
+                "title": "2.",
+                "body": "Add 1 μl of RTP primer to the sample"
+            },
+            {
+                "title": "3.",
+                "body": "Incubate the sample for 2 min at 70 °C in a thermocycler with the lid set at 70 °C"
+            },
+            {
+                "title": "4.",
+                "body": "Immediately place the sample on ice"
+            },
+            {
+                "title": "5.",
+                "body": "Add 5.5 μl of the following reverse transcription mix:\r\n  ● 1<sup>st</sup> strand buffer*  2 μl\r\n\n\n● dNTPs mix 12.5 mM 0.5 μl\r\n\n\n● DTT 100 mM* 1 μl\r\n\n\n● SuperScript® III* 1 μl\r\n\n\n● RNaseOUT™ 1 μl\r\n\n\n*Components included in the SuperScript® III Reverse Transcriptase kit"
+            },
+            {
+                "title": "6.",
+                "body": "Incubate the sample for 1 h at 50 °C in a thermocycler with the lid set at 70 °C"
+            }
+        ]
+    },
+    {
+        "title": "**Library indexing and amplification**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transfer the sample into a 200 μl PCR tube"
+            },
+            {
+                "title": "2.",
+                "body": "Add 2 μl of the desired RPI primer to the sample"
+            },
+            {
+                "title": "3.",
+                "body": "Add 35.5 μl of the following PCR mix:\r\n  ● Nuclease-free water 8.5 μl\r\n\n\n● RP1 primer   2 μl\r\n\n\n● NEBNext® 2X PCR Mix 25 μl"
+            },
+            {
+                "title": "4.",
+                "body": "Perform the following cycles in a thermocycler with the lid set at 105 °C:\r\n  A. 98 °C, 30 sec\r\n\n\nB. 98 °C, 10 sec\r\n\n\nC. 60 °C, 30 sec\r\n\n\nD. 72 °C, 30 sec\r\n\n\nE. Go to B and repeat for 10–16 cycles\r\n\n\nF. 72 °C, 10 min\r\n\n\nG. 4 °C, hold"
+            }
+        ]
+    },
+    {
+        "title": "**Note**",
+        "body": ": the number of PCR cycles should be adjusted empirically based on the amount of genomic DNA used in the IVT reaction. For example, for a 13 mm coverslip fully covered with human diploid cells, we typically use 12–14 cycles"
+    },
+    {
+        "title": "**Library clean-up**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pre-warm AMPure XP beads for 30 min at rt"
+            },
+            {
+                "title": "2.",
+                "body": "Transfer the PCR product into a 1.5 ml Eppendorf® RNA/DNA LoBind tube"
+            },
+            {
+                "title": "3.",
+                "body": "Add a 0.8× ratio of AMPure XP bead suspension to the extracted DNA"
+            },
+            {
+                "title": "4.",
+                "body": "Mix thoroughly by pipetting up-down 5-6 times"
+            },
+            {
+                "title": "5.",
+                "body": "Incubate for 5 min at rt"
+            },
+            {
+                "title": "6.",
+                "body": "Place the sample on a magnetic stand"
+            },
+            {
+                "title": "7.",
+                "body": "Incubate for 5 min until all the beads have attached to the magnet"
+            },
+            {
+                "title": "8.",
+                "body": "Aspirate and discard the supernatant"
+            },
+            {
+                "title": "9.",
+                "body": "With the sample on the magnetic stand, add 200 μl ice-cold EtOH 80%"
+            },
+            {
+                "title": "10.",
+                "body": "Aspirate the supernatant"
+            },
+            {
+                "title": "11.",
+                "body": "Repeat once the wash in ice-cold EtOH 80%"
+            },
+            {
+                "title": "12.",
+                "body": "Air-dry the beads for 5 min at rt"
+            },
+            {
+                "title": "13.",
+                "body": "Remove the sample from the magnetic stand"
+            },
+            {
+                "title": "14.",
+                "body": "Resuspend the beads in 20 μl of nuclease-free water"
+            },
+            {
+                "title": "15.",
+                "body": "Incubate for 5 min at rt"
+            },
+            {
+                "title": "16.",
+                "body": "Place the sample on the magnetic stand"
+            },
+            {
+                "title": "17.",
+                "body": "Incubate for 5 min until all the beads have attached to the magnet"
+            },
+            {
+                "title": "18.",
+                "body": "Transfer 17–18 μl of the cleared solution into a 1.5 ml Eppendorf® RNA/DNA LoBind tube"
+            },
+            {
+                "title": "19.",
+                "body": "Measure DNA concentration using the Qubit® dsDNA HS Assay Kit"
+            },
+            {
+                "title": "20.",
+                "body": "Store the library at –20 °C"
+            }
+        ]
+    },
+    {
+        "title": "**Checkpoint**",
+        "body": ": 1 μl of library can be checked on Bioanalyzer 2100 using a High Sensitivity DNA Kit"
+    }
+]

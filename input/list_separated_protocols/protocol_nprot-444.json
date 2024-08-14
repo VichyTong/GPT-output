@@ -1,0 +1,76 @@
+[
+    {
+        "title": "1.",
+        "body": [
+            "Prepare single cell suspension.",
+            {
+                "title": "a)",
+                "body": "Harvest bone marrow cells by flushing femur with ice-cold bone marrow harvesting medium."
+            },
+            {
+                "title": "b)",
+                "body": "Filter the suspended cells through 70um cell strainer \\(BD Cat. 352350) while keeping cells on ice."
+            },
+            {
+                "title": "c)",
+                "body": "Count the cell concentration."
+            },
+            {
+                "title": "d)",
+                "body": "centifuge the filtered cells at 1500rpm for 5-10 min."
+            },
+            {
+                "title": "e)",
+                "body": "Resuspend the cells with HBSS+ staining buffer \\(HBSS+, ~2x10<sup>7</sup> cells/mL if possible)."
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Stain cells with appropriate antibodies.",
+            {
+                "title": "a)",
+                "body": "Aliquot 100ul single suspension cells for staining."
+            },
+            {
+                "title": "b)",
+                "body": "Prepare controls including unstained sample and  samples stained with single color fluorescence antibody \\(antibodies) for FACS compensation."
+            },
+            {
+                "title": "c)",
+                "body": "Add 2uL CD45 antibody and other antibodies to 100uL cells and slowly rock in 4ºC for 15 min."
+            },
+            {
+                "title": "d)",
+                "body": "Spin down the cells at 1500rpm for 7 min and resuspend cell pellets with 200ul ice-cold HBSS+."
+            },
+            {
+                "title": "e)",
+                "body": "Add 5-7ul 7-AAD solution into 200ul cells to exclude dead cells during FACS analysis."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": [
+            "Perform FACS analysis",
+            {
+                "title": "a)",
+                "body": "Adjust voltage."
+            },
+            {
+                "title": "b)",
+                "body": "Run compensation."
+            },
+            {
+                "title": "c)",
+                "body": "Run samples and collect FACS data."
+            },
+            {
+                "title": "d)",
+                "body": "Analyze your FACS data on CD45-SSC plots."
+            }
+        ]
+    }
+]

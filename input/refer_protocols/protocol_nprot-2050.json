@@ -1,0 +1,20 @@
+[
+    {
+        "index": 48,
+        "string": "NE \\(10 \u03bcM), ISO \\(25 \u03bcM), Dex \\(0.5 \u03bcM), theophylline \\(15 \u03bcg/ml) or H89 \\(10\u03bcM), tricostatin-A \\(TSA,1\u03bcM) was used as previously described<sup>3</sup>.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the previous description or method of using NE (10 \u03bcM), ISO (25 \u03bcM), Dex (0.5 \u03bcM), theophylline (15 \u03bcg/ml), H89 (10 \u03bcM), and tricostatin-A (TSA, 1 \u03bcM) as mentioned in reference 3."
+    },
+    {
+        "index": 56,
+        "string": "HDAC8 S39A mutation was performed as previously described<sup>4</sup>.",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the method or procedure used to perform the HDAC8 S39A mutation."
+    },
+    {
+        "index": 74,
+        "string": "   Western blottings were performed as previously described<sup>5</sup>.",
+        "phrase": "as previously described",
+        "refer": "In the given sentence, \"as previously described\" refers to the method or procedure of performing Western blot analysis that has been mentioned or explained before."
+    }
+]

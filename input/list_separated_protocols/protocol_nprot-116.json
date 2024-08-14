@@ -1,0 +1,282 @@
+[
+    {
+        "title": "**Harvesting cells &#x22C5;TIMING 1 h**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Culture DT40 cell lines expressing GFP- or FLAG-tagged proteins and culture wild-type cells \\(control) in four 300-cm<sup>2</sup> flasks containing 250 ml DT40 medium until cell density reaches 1 x 10<sup>6</sup>/ml."
+            },
+            {
+                "title": "2.",
+                "body": "Transfer the culture medium to two 500-ml centrifuge bottles and pellet cells at 200g for 10 min at 4 °C."
+            },
+            {
+                "title": "3.",
+                "body": "Resuspend the cells in 50 ml PBS and centrifuge in a 50 ml conical tube at 200g for 10 min at 4 °C. Repeat this step twice."
+            }
+        ]
+    },
+    {
+        "title": "**Preparing cell extracts &#x22C5;TIMING 1-2 h**",
+        "body": [
+            {
+                "title": "4.",
+                "body": "Resuspend cell pellets to 5 ml in HDG150."
+            },
+            {
+                "title": "5.",
+                "body": "Disrupt cells with 35 strokes in a Dounce homogenizer with a tight-fitting pestle."
+            },
+            {
+                "title": "6.",
+                "body": "Pellet nuclei in a 15-ml conical tube at 1700g for 10 min at 4 °C. Flash-freeze the supernatant \\(cytoplasmic fraction) in liquid nitrogen and store at -80 °C for future use."
+            },
+            {
+                "title": "7.",
+                "body": "Wash nuclei with 5 ml of HDG150 and pellet at 1700g for 10 min at 4 °C."
+            },
+            {
+                "title": "8.",
+                "body": "Resuspend nuclei in 5 ml of HDG150 and immerse in an ice-water bath."
+            },
+            {
+                "title": "9.",
+                "body": "Disrupt nuclei with the handy-sonifier fitted with a micro-tip. Sonicate for 10 sec at maximum power followed by waiting for 50 sec to chill samples. Repeat this step six times for a total of 1 min of sonication time."
+            },
+            {
+                "title": "10.",
+                "body": "Divide the disrupted nuclei solution into three 2-ml microcentrifuge tubes and centrifuge at 20000g for 10 min at 4 °C."
+            },
+            {
+                "title": "11.",
+                "body": "Combine supernatants \\(nuclear extract) in a 15-ml conical tube. Proceed to immunoprecipitation \\("
+            }
+        ]
+    },
+    {
+        "title": "**Step 30**",
+        "body": [
+            ") or flash-freeze in liquid nitrogen and store at -80 °C.",
+            {
+                "title": "12.",
+                "body": "Resuspend the pellets in each tube in 1.6 ml HDG150 by brief sonication."
+            },
+            {
+                "title": "13.",
+                "body": "Centrifuge at 20000g for 10 min at 4 °C."
+            },
+            {
+                "title": "14.",
+                "body": "Resuspend the pellets in each tube in 1.6 ml of HDG150 by brief sonication and combine in a 15-ml conical tube \\(chromatin fraction)."
+            }
+        ]
+    },
+    {
+        "title": "**Micrococcal nuclease digestion &#x22C5;TIMING 3h**",
+        "body": [
+            {
+                "title": "15.",
+                "body": "Add 15 µl 1 M CaCl<sub>2</sub> to the chromatin fraction and mix well."
+            },
+            {
+                "title": "16.",
+                "body": "Add 200µl micrococcal nuclease."
+            },
+            {
+                "title": "17.",
+                "body": "Rotate at 20 rpm for 60 min in a cold room \\(4 °C)."
+            }
+        ]
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": [
+            {
+                "title": "18.",
+                "body": "Add 125 µl 0.2 M EGTA to inactivate micrococcal nuclease."
+            },
+            {
+                "title": "19.",
+                "body": "Check DNA fragment sizes by 2% agarose gel electrophoresis. Purify the DNA from 50 µl of the digested chromatin fraction by phenol-chloroform extraction followed by ethanol precipitation. Resuspend the pellet in 30 µl TE and load 5 µl in each lane. A DNA ladder corresponding to mono- to tri-nucleosomes can be seen by ethidium bromide staining under UV irradiation \\(See Fig. 1)."
+            }
+        ]
+    },
+    {
+        "title": "**Solubilization of digested chromatin DNA &#x22C5;TIMING 1 h**",
+        "body": [
+            {
+                "title": "20.",
+                "body": "This step can be performed with option A or option B."
+            }
+        ]
+    },
+    {
+        "title": "**Option A**",
+        "body": "Mix 5 ml of the digested chromatin prepared in"
+    },
+    {
+        "title": "**step 18**",
+        "body": "with 40 ml HDGN340 in a 50-ml conical tube. Rotate at 20 rpm for 60 min in a cold room \\(4°C)."
+    },
+    {
+        "title": "**OptionB**",
+        "body": "Add 250 µl 3 M KCl to 5 ml of digested chromatin prepared in"
+    },
+    {
+        "title": "**step 18**",
+        "body": [
+            ". Rotate at 20rpm for 60min in a cold room \\(4°C).",
+            {
+                "title": "21.",
+                "body": "For both option A and option B precipitate insoluble materials by spinning at 8000g for 10 min at 4 °C. Transfer supernatant to a 50-ml conical tube \\(option A) or a 15-ml conical tube \\(option B)."
+            }
+        ]
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**Coupling anti-GFP antibody to protein A Sepharose beads &#x22C5;TIMING 1-2 h**",
+        "body": [
+            {
+                "title": "22.",
+                "body": "Wash a 200 µl bed volume of protein A Sepharose beads three times with 600 µl PBS. The amount of beads for each reaction is 50 µl. Thus, the amounts of the reagents used in this section should be scaled proportionally to the sample number."
+            },
+            {
+                "title": "23.",
+                "body": "Incubate 30 µl anti-GFP antibody with the beads in 500 µl PBS for 15-30 min at room temperature."
+            }
+        ]
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": [
+            {
+                "title": "24.",
+                "body": "Wash the beads five times with 500 µl PBS."
+            },
+            {
+                "title": "25.",
+                "body": "Resuspend the beads in 400 µl PBS and add 25 µl freshly prepared DSS. Rotate for 30-45 min at room temperature."
+            },
+            {
+                "title": "26.",
+                "body": "Wash the beads five times with 600 µl of 0.1 M glycine \\(pH 2.5)."
+            }
+        ]
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": [
+            {
+                "title": "27.",
+                "body": "Wash the beads twice with 600 µl PBS."
+            },
+            {
+                "title": "28.",
+                "body": "Wash the beads twice with 600 µl HDG150."
+            },
+            {
+                "title": "29.",
+                "body": "Resuspend the beads in 200 µl HDG150."
+            }
+        ]
+    },
+    {
+        "title": "**Immunoprecipitation &#x22C5;TIMING 5h to overnight**",
+        "body": [
+            {
+                "title": "30.",
+                "body": "Add 50 µl bed volume of either anti-GFP antibody-coupled beads or anti-FLAG M2 affinity beads to 5 ml of solubilized chromatin or 5 ml of nuclear extract prepared at"
+            }
+        ]
+    },
+    {
+        "title": "**step 21 or 11**",
+        "body": ", respectively. Rotate at 20 rpm for 3-4 h in a cold room \\(4 °C)."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": [
+            {
+                "title": "31.",
+                "body": "Pellet antibody-coupled beads at 200g for 30 sec at 4 °C."
+            }
+        ]
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": [
+            {
+                "title": "32.",
+                "body": "Transfer beads to a 1.5-ml microcentrifuge tube."
+            },
+            {
+                "title": "33.",
+                "body": "Add 1 ml HDGN320 \\(for chromatin) or HDGN150 \\(for nuclear extract) to beads. Mix well by inverting tubes. Centrifuge at 200g for 10 sec at 4 °C. Discard supernatants. Repeat this step five times."
+            }
+        ]
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": [
+            {
+                "title": "34.",
+                "body": "Resuspend beads in 400 µl HDGN340 or HDGN150 and transfer to a spin-cup column. Centrifuge at 3000g for 10 sec at 4 °C. Discard the flow-through fraction."
+            },
+            {
+                "title": "35.",
+                "body": "Transfer the spin-cup column to a fresh 1.5-ml microcentrifuge tube."
+            },
+            {
+                "title": "36.",
+                "body": "Add 50 µl 0.1 M glycine \\(pH 2.5) to the beads. To resuspend beads, tilt the spin-cup column horizontally and rotate quickly by hand several times. Incubate 1 min at room temperature. Centrifuge at 3000g for 10 sec at 4 °C."
+            },
+            {
+                "title": "37.",
+                "body": "Repeat"
+            }
+        ]
+    },
+    {
+        "title": "**step 36**",
+        "body": [
+            "two more times for a total eluate volume of 150 µl.",
+            {
+                "title": "38.",
+                "body": "Remove the spin-cup column and add 150 µl 20% TCA to the eluate. Let stand at least 2 h at -20 °C."
+            },
+            {
+                "title": "39.",
+                "body": "Add 450 µl of acetone and let stand for at least 2 h at -20 °C."
+            }
+        ]
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": [
+            "This step can be extended to overnight.",
+            {
+                "title": "40.",
+                "body": "Vortex vigorously to strip off precipitates stuck to the wall of the microcentrifuge tube. Centrifuge at 20000g for 15 min at 4 °C. Remove supernatant completely."
+            },
+            {
+                "title": "41.",
+                "body": "Add 500µl of diethylether to pellet and vortex vigorously. Centrifuge at 20000g for 10 min at 4 °C. Remove supernatant completely."
+            },
+            {
+                "title": "42.",
+                "body": "Resuspend pellet to 10 µl SDS sample buffer."
+            },
+            {
+                "title": "43.",
+                "body": "Incubate for 1 h at 37 °C in an air-incubator."
+            },
+            {
+                "title": "44.",
+                "body": "Apply samples on SDS-PAGE."
+            }
+        ]
+    }
+]

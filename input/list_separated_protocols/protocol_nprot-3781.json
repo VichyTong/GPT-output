@@ -1,0 +1,171 @@
+[
+    {
+        "title": "**DIG-label In Situ Hybridizations**",
+        "body": []
+    },
+    {
+        "title": "**Adapted from Scharen-Wiemers and Gerfin-Moser Histochemistry 100:431-440.**",
+        "body": []
+    },
+    {
+        "title": "**I. Tissue section:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Fix embryo overnight at 4 C in 4% paraformaldehyde, 0.1 M PB."
+            },
+            {
+                "title": "2.",
+                "body": "Transfer embryo to 30% sucrose in 0.1M PB for 4 hr at 4 C, addition of some fixative probably reduces risk of RNase activity."
+            },
+            {
+                "title": "3.",
+                "body": "Mount in tissue tek \\(can store at -70 C several weeks if necessary)."
+            },
+            {
+                "title": "4.",
+                "body": "Cut 12.5µm sections \\(thicker sections may increase signal)."
+            },
+            {
+                "title": "5.",
+                "body": "Section with fisherbrand superfrost plus slides \\(No 12-550-15)."
+            },
+            {
+                "title": "6.",
+                "body": "After sectioning air dry 20 minutes \\(maximum is 3 hr)."
+            }
+        ]
+    },
+    {
+        "title": "**II. Tissue preparation**",
+        "body": []
+    },
+    {
+        "title": "**NOTE Eliminase treat all glassware before starting**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Fix in freshly made 4 % paraformaldehyde/PBS for 10 minutes at RT."
+            },
+            {
+                "title": "2.",
+                "body": "Wash three times with PBS for 3 minutes each."
+            },
+            {
+                "title": "3.",
+                "body": "Digest in freshly diluted proteinase K \\(1mg/ml in 50 mM Tris 7.5, 5 mM EDTA) 5 minutes at RT. \r\n  \\(Note: these conditions will have to be adjusted for various embryo stages.)"
+            },
+            {
+                "title": "4.",
+                "body": "Fix in 4 % paraformaldehyde/PBS for 5 minutes at RT."
+            },
+            {
+                "title": "5.",
+                "body": "Wash three times with PBS for 3 minutes each."
+            },
+            {
+                "title": "6.",
+                "body": "Acetylation : 197 ml H2O, 2.4 ml triethanolamine \\(Fluka 90279); mix well. Add 0.52 ml acetic anhydride, and mix by dipping slides several times. Acetylate 10 minutes room temp. Start preparing mix when slides are in last wash."
+            },
+            {
+                "title": "7.",
+                "body": "Permeabilize with 1% TritonX100 in PBS for 15 minutes at room temp."
+            },
+            {
+                "title": "8.",
+                "body": "Wash 3 times with PBS for 5 minutes each"
+            }
+        ]
+    },
+    {
+        "title": "**III. Hybridization**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place 500 µl hybridization buffer on slide."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate at room temperature for 2 hr \\(overnight also works well) at room temp in a 50% formamide/5xSSC humidified chamber horizontal without coverslips."
+            },
+            {
+                "title": "3.",
+                "body": "Replace pre-hyb \\(pour off, dab off edge with paper towel to remove excess) with 75 µl hybridization solution containing probe at 200-400 ng/ml DIG RNA which was heated to 80 C for 5 min. and iced."
+            },
+            {
+                "title": "4.",
+                "body": "Coverslip slides, place in humidified \\(5xSSC, 50% Formamide) chamber overnight at 70˚C. \r\n  Note: It is best to separate slides with different probes since some contamination is possible from neighboring slides in the chamber."
+            }
+        ]
+    },
+    {
+        "title": "**IV Washes/Immunological staining**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place slides in rack, submerge in 70˚C 5xSSC to remove coverslips. Carefully remove slides with forceps."
+            },
+            {
+                "title": "2.",
+                "body": "With forceps, transfer slides into 0.2XSSC at 70˚C for 1-3 hr."
+            },
+            {
+                "title": "3.",
+                "body": "Transfer to 0.2xSSC at RT for 5 min."
+            },
+            {
+                "title": "4.",
+                "body": "Transfer to buffer B1 5 minutes at RT."
+            },
+            {
+                "title": "5.",
+                "body": "Place 1-2 ml B1 with 1% heat inactivated goat \\(or sheep) serum \\(HINGS) on horizontal slides for 1 hr at RT."
+            },
+            {
+                "title": "6.",
+                "body": "Put 0.5 ml anti-DIG Ab \\(1:2000 dilution in B1 + 1 % HINGS) on each slide \\(=B2)"
+            },
+            {
+                "title": "7.",
+                "body": "Place humidified chamber at 4˚C overnight \\(for abundant RNA 1 hr RT okay, but overnight greatly enhances signal and reduces color reaction time)."
+            },
+            {
+                "title": "8.",
+                "body": "Rinse with B1 once, 3x20 minutes wash \\(more extensive washes may reduce background if this is a problem)."
+            },
+            {
+                "title": "9.",
+                "body": "Equilibrate with B3."
+            },
+            {
+                "title": "10.",
+                "body": "Place 200 µl B4 on parafilm, and invert slide onto solution."
+            },
+            {
+                "title": "11.",
+                "body": "Incubate at RT 6 hr-3 days in humidified chamber in dark."
+            },
+            {
+                "title": "12.",
+                "body": "Stop reaction with PBS \\(can be kept for up to several days at 4˚C)."
+            }
+        ]
+    },
+    {
+        "title": "**V. Mounting**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Rinse slide with water."
+            },
+            {
+                "title": "2.",
+                "body": "Air dry completely"
+            },
+            {
+                "title": "3.",
+                "body": "coverslip with Glycerol \\(warm to 60 ˚C, 3 drops on slide, add coverslip)"
+            }
+        ]
+    }
+]

@@ -1,0 +1,291 @@
+[
+    {
+        "title": "**Sample preparation prior to gel separation**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Add DTT to a final concentration of 1 mM \\(prepare fresh) together with NuPAGE® LDS Sample Buffer."
+            },
+            {
+                "title": "2)",
+                "body": "Reduce at 70<sup>o</sup>C for 10 min."
+            },
+            {
+                "title": "3)",
+                "body": "Cool down to room temperature before alkylation."
+            },
+            {
+                "title": "4)",
+                "body": "Add IAA \\(iodoacetamide) to final concentration of 2 mM \\(prepare fresh)."
+            },
+            {
+                "title": "5)",
+                "body": "Incubate for 30 min at room temperature in the dark. Note: IAA is light sensitive and degrades easily."
+            },
+            {
+                "title": "6)",
+                "body": "Sample is now ready to load, or can be frozen."
+            }
+        ]
+    },
+    {
+        "title": "**Gel separation and staining**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Perform electrophoresis using a NuPAGE 4-12% Bis-Tris gel \\(1.5 mm x 10 well) according to the manufacturers instructions, for a wide protein molecular weight range use MOPS buffer."
+            },
+            {
+                "title": "2)",
+                "body": "Fix the gel with 40% methanol/2% acetic acid for 1 hour."
+            },
+            {
+                "title": "3)",
+                "body": "Stain with colloidal coomassie overnight \\(prepared as recommended by Sigma: Dilute Sigma stock 1:5 with water, then mix 40 mL with 10 mL of methanol just prior to use)."
+            },
+            {
+                "title": "4)",
+                "body": "Rinse with 25% methanol/5% acetic acid for 1 min."
+            },
+            {
+                "title": "5)",
+                "body": "Destain with 25% methanol for 1 hour."
+            },
+            {
+                "title": "6)",
+                "body": "The gel is now ready for band excision."
+            }
+        ]
+    },
+    {
+        "title": "**Band Excision**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "All surfaces in a laminar flow cabinet should be wiped with 70% ethanol then pure ethanol as well as the light box and scalpel that will be used to excise the gel."
+            },
+            {
+                "title": "2)",
+                "body": "Prepare 96-well plates by stacking a perforated plate for excised gel bands on top of a standard 96-well plate."
+            },
+            {
+                "title": "3)",
+                "body": "Fill each well in the perforated 96-well plate with 50 μL of 50 mM ammonium bicarbonate."
+            },
+            {
+                "title": "4)",
+                "body": "Excise gel bands from the bottom to the top of the gel lane and cut each slice into 1-2 mm cubes and transfer into a well in the plate."
+            },
+            {
+                "title": "5)",
+                "body": "For bands or regions from the top of the gel lane, the excised piece should be bigger, i.e., over 2 mm x 2 mm to avoid blockage of the hole in the perforated wells."
+            }
+        ]
+    },
+    {
+        "title": "**Destaining of gel pieces**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "All of the following incubation steps are performed at 37<sup>o</sup>C with shaking \\(600 rpm) unless specified."
+            },
+            {
+                "title": "2)",
+                "body": "To destain the gel pieces add 50 μL of 50 mM ammonium bicarbonate and incubate for 30 min at 37<sup>o</sup>C."
+            },
+            {
+                "title": "3)",
+                "body": "Add 100 μL of acetonitrile to each well and incubate for 30 min at 37<sup>o</sup>C."
+            },
+            {
+                "title": "4)",
+                "body": "Remove liquid by spinning the plate in a centrifuge at 600 rpm for 30s."
+            },
+            {
+                "title": "5)",
+                "body": "Repeat steps 2-4 until the gel pieces are destained completely."
+            },
+            {
+                "title": "6)",
+                "body": "Add 50 μL of acetonitrile; incubate for 10 min to shrink the gel pieces."
+            },
+            {
+                "title": "7)",
+                "body": "Remove liquid by spinning as in step 4."
+            },
+            {
+                "title": "8)",
+                "body": "Leave the plate in the laminar flow cabinet for 10 min without a lid to allow any remaining acetonitrile to evaporate."
+            },
+            {
+                "title": "9)",
+                "body": "The gel pieces are now ready for tryptic digestion or the plate can now be stored at 4<sup>o</sup>C."
+            }
+        ]
+    },
+    {
+        "title": "**Tryptic digestion and peptide extraction**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Prepare a stock solution of trypsin \\(sequencing grade, Roche) by adding 250 μL of 0.1% TFA to a 25 μg vial of trypsin to give a 0.1 μg/ μL solution."
+            },
+            {
+                "title": "2)",
+                "body": "Just before use, dilute 15 μL of the trypsin stock solution with 100 μL of ice-cold 50 mM ammonium bicarbonate to give a final concentration of trypsin of 13 ng/ μL."
+            },
+            {
+                "title": "3)",
+                "body": "Add 10 μL of the 13 ng/ μL trypsin solution \\(for visible coomassie stained bands) or 5 μL \\(gel clear regions) to each well."
+            },
+            {
+                "title": "4)",
+                "body": "Add 50-100 μL of ammonium bicarbonate to each well to ensure that the gel pieces are completely covered by the buffer."
+            },
+            {
+                "title": "5)",
+                "body": "Incubate at 37<sup>o</sup>C for 1 hour with shaking \\(600 rpm)."
+            },
+            {
+                "title": "6)",
+                "body": "Check that the gel pieces are covered with buffer and incubate at 25<sup>o</sup>C overnight \\(18 hours)."
+            },
+            {
+                "title": "7)",
+                "body": "To extract peptides from the gel slices add 100 μL of acetonitrile to each well and incubate at 37<sup>o</sup>C for 30 min with shaking \\(600 rpm)."
+            },
+            {
+                "title": "8)",
+                "body": "Collect the supernatant by spinning into a new V-bottom 96-well plate."
+            },
+            {
+                "title": "9)",
+                "body": "Add 50 μL of 0.5% formic acid to each well and incubate for 30 min at 37<sup>o</sup>C with shaking \\(600 rpm)."
+            },
+            {
+                "title": "10)",
+                "body": "Add 100 μL of acetonitrile to each well and incubate for 30 min at 37<sup>o</sup>C with shaking \\(600 rpm)."
+            },
+            {
+                "title": "11)",
+                "body": "Collect the supernatant into the same plate used in step 8."
+            },
+            {
+                "title": "12)",
+                "body": "Repeat steps 9 and 10 and pool supernatants into the same plate."
+            },
+            {
+                "title": "13)",
+                "body": "Dry down the extracted peptides in a SpeedVac."
+            },
+            {
+                "title": "14)",
+                "body": "Store the plate with the extracted peptides at -20<sup>o</sup>C."
+            },
+            {
+                "title": "15)",
+                "body": "Store the plate with the gel pieces at 4<sup>o</sup>C."
+            }
+        ]
+    },
+    {
+        "title": "**Mass Spectrometry**",
+        "body": []
+    },
+    {
+        "title": "**Setup**",
+        "body": [
+            "Peptide desalting and reverse phase separation of peptides is performed using an Ultimate 3000 Nano/Capillary LC System or similar system. The LC system is coupled to a LTQ-FT, a hybrid linear ion trap and a 7 Tesla Fourier transform ion cyclotron resonance mass spectrometer \\(or similar system).",
+            {
+                "title": "1)",
+                "body": "Operate the LTQ FT mass spectrometer in standard data dependent acquisition mode controlled by Xcalibur 1.4 software. Acquire survey scans \\(m/z 400-1500) on the FT-ICR at a resolution of 100,000 at m/z 400 and acquire one microscan per spectrum."
+            },
+            {
+                "title": "2)",
+                "body": "The three most abundant multiply charged ions with a minimal intensity of 1000 counts are subject to MS/MS in the linear ion trap at an isolation width of 2 Th."
+            },
+            {
+                "title": "3)",
+                "body": "Perform precursor activation with an activation time of 30 msec and set the activation Q at 0.25 and the normalised collision energy to 35%."
+            },
+            {
+                "title": "4)",
+                "body": "Set the dynamic exclusion width at ± 10 ppm with 1 repeat for a duration of 30 sec."
+            },
+            {
+                "title": "5)",
+                "body": "To achieve high mass accuracy, the automatic gain control \\(AGC) target value is regulated at 1 x e<sup>6</sup> for FT and 1 x e<sup>4</sup> for the ion trap, with maximum injection time at 1000 msec for FT, and 200 msec for ion trap, respectively."
+            }
+        ]
+    },
+    {
+        "title": "**LC-MS/MS analysis**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Prior to analysis, calibrate the instrument using a standard calibration mixture of caffeine, MRFA and Ultramark 1600 according to the manufacturers’ instructions."
+            },
+            {
+                "title": "2)",
+                "body": "Check the performance of the instruments with multiple LC-MS/MS analyses of 10 fmol BSA."
+            },
+            {
+                "title": "3)",
+                "body": "Resuspend peptides in each well with 30 μL of 0.5% formic acid and incubate for 10 min at 25<sup>o</sup>C with shaking \\(600 rpm)."
+            },
+            {
+                "title": "4)",
+                "body": "To neutralise the pH add 15 μL of 0.4 M ammonium bicarbonate and incubate for 10 min at 25<sup>o</sup>C with shaking \\(600 rpm)."
+            },
+            {
+                "title": "5)",
+                "body": "The resuspended peptides are now ready for LC-MS/MS analysis."
+            },
+            {
+                "title": "6)",
+                "body": "Use as mobile phase A \\(water with 0.1% formic acid) and mobile phase B \\(80% acetonitrile with 0.1% formic acid) for reverse phase chromatography."
+            },
+            {
+                "title": "7)",
+                "body": "Before sample injection, the trap column is equilibrated with 100% mobile phase A and the analytical column is equilibrated with 5% mobile phase B."
+            },
+            {
+                "title": "8)",
+                "body": "Load 40 μL of each peptide sample using with the autosampler and desalt on a trap column \\(0.3 mm id x 5 mm) with a flow of 25 μL/min mobile phase A for 5 min."
+            },
+            {
+                "title": "9)",
+                "body": "Switch the valve to make the trap column online with the analytical column."
+            },
+            {
+                "title": "10)",
+                "body": "Start MS acquisition \\(for 35 min)."
+            },
+            {
+                "title": "11)",
+                "body": "Start a gradient elution of the peptides at a flow of 0.3 μL per min on the analytical column, from 5% to 40% mobile phase B over 30 min, followed by a wash up to 85% B for 5 min, another 5 min at 85% B and re-equilibrate at 5% B for 15 min."
+            }
+        ]
+    },
+    {
+        "title": "**Data procesing and analysis**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Process MS data using BioWorks 3.2 \\(Thermo Electron) to give a peak list files and submit to a Mascot V2.0 \\(Matrix Science) server for iterative searching on a protein sequence database downloaded from UniProt - \"http://www.expasy.org/\":http://www.expasy.org/."
+            },
+            {
+                "title": "2)",
+                "body": "Set Acetyl \\(Protein N-term), Carbamidomethyl \\(C) and Oxidation \\(M) as variable modifications and a peptide mass tolerance of ± 20 ppm and a fragment mass tolerance of ± 0.5 Da and allow for a maximum of two missed cleavages."
+            },
+            {
+                "title": "3)",
+                "body": "Determine false discovery rates by reverse database searches and empirical analyses of the distributions of mass deviation and Mascot Ion Scores can be used to establish score and mass accuracy filters."
+            },
+            {
+                "title": "4)",
+                "body": "Only accept proteins reproducibly identified replicate experiments \\(by at least two peptides) and in cases where the same protein is found in the peptide affinity purification and in the control then the ratio of peptides must be at least 3 to be accepted."
+            }
+        ]
+    }
+]

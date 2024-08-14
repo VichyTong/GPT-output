@@ -1,0 +1,44 @@
+[
+    {
+        "title": "**Fixation and embedding**",
+        "body": "1, Fixation: put the materials into the FAA fixative and drive away the air in the materials.\r\n\n\n2, Dehydration: 50%, 70%, 80%, 90%, 95%, 100%, 100%, 100% ethanol, each for 30 min RT \\(room temperation).\r\n\n\n3,Transparent: remove the ethanol and replace with the mixture: 25% xylene - 75% ethanol, 50% xylene - 50% ethanol, 75% xylene - 25% ethanol, 90% xylene - 10% chloroform, 90% xylene-10% chloroform, 90% xylene-10% chloroform, 30min for each step.\r\n\n\n4, Immerse the wax: 50% paraffin wax - 50% xylene, 42℃ for 4 - 16 hours and repeat once; then transfer to the 60℃ incubator and replace with pure paraffin wax, 60℃ 2 - 6 days, change the wax with the new one for at least four times.\r\n\n\n5, Embedding the materials."
+    },
+    {
+        "title": "**Sectioning**",
+        "body": "5 - 10 um sections, 42℃ for at least 24 hours on the glasses with poly-lys and then stored at 4 ℃."
+    },
+    {
+        "title": "**Synthesis of probe**",
+        "body": "1, Transcription \\(20ul system):\r\n\n\nxul linearized template DNA \\(1ug)\r\n\n\n4ul 5 x transcription buffer \\(containing rNTP mixture & DIG-UTP etc)\r\n\n\n20-\\(6+x) ul DEPC-water\r\n\n\n2ul RNA polymerase \\(T7 or SP6 polymerase), 42℃ 2hours.\r\n\n\n2, Digestion of template:\r\n\n\n2 ul RNase-free Dnase at 37℃for 15min, Add 0.8ul 500mM EDTA to stop the reaction.\r\n\n\n3, Precipitating the probe \\(for 20ul reaction system):\r\n\n\n1ul 10mg/ml tRNA \\(It can be omitted)\r\n\n\n2.5ul 4M LiCl\r\n\n\n75ul 100% ethanol –20℃ overnight.\r\n\n\n4℃ 13000rpm spin down, washing 2 times with 70% ethanol and resuspended in 100ul\r\n\n\nDEPC-water. If necessary, incubate in 60℃ 10min to get the probe into solution.\r\n\n\n4, Hydrolysis of probe \\(for 50ul probe solution):\r\n\n\n20ul 200mM NaHCO<sub>3</sub> + 30ul 200mM Na<sub>2</sub>CO<sub>3</sub> , hydrolyzed at 60℃. Stop the reaction by adding\r\n\n\n10ul of 1M pH4.7 NaAc buffer \\(or 3ul 3M pH6.0 sodium acetate and 5ul 10% glacial acetic acid)\r\n\n\nPrecipitatethe probe:\r\n\n\n1 μl 20 mg/ml Glycogen \\(optional) + 10 μl 4 M LiCl + 300 μl Ethanol. Incubate at -20°C overnight.\r\n\n\n4℃ 13000rpm spin down, washing 2 times with 70% ethanol and resuspended in 100ul DEPC-water. \r\n\n\n5, Semi-quantitative determination of probe according the protocol of RNA labeling Kit:\r\n\n\napply a 1ul probe solution of the dilution series to the nylon membrane, fix the nucleic acid for 30min at 120℃, incubate in maleic acid buffer 2min, blocking for 30min at RT with agitation, combinding with antibody in Blocking solution for 30min at RT, pour off the antibody solution and wash with washing buffer for 2×15min, replaced the washing buffer with TNM50 and incubate for 3min, coloring in detection buffer \\(NBT/BCIP) in dark for several minutes."
+    },
+    {
+        "title": "**Prehybridization treatment**",
+        "body": "1, Dewaxing and hydration:\r\n\n\n100%xylene 20min at R.T., 100%xylene 20min at R.T., 66%xylene 2min, 33%xylene 2 min, 100%, 100%, 90%, 70%, 50%, 30%, 10% ethanol and H<sub>2</sub>O, H<sub>2</sub>O 2min at RT for each step.\r\n\n\n2, Digestion with Proteinase K: add the proteinase K to 37℃ prewarmed K buffer to the final concentration of 1 <sub> 5 ug/ml, and then washed three times with the sterilized ddH</sub>2~O.\r\n\n\n3.Acetylation:\r\n\n\n100mM pH8.0 triethanolamine\\(2.68ml Triethanolamine per 200ml EDPC water, about 0.8ml concentrated HCl to adjust pH) 5min. Stiring the chloroform treated stir bar hard and add anhydride to final concentration of 0.25% \\(500ul/200ml), after mixing for 5 seconds, incubate the slides for 5min at RT.\r\n\n\n4.Dehydration:\r\n\n\n2×SSC, 5min and then repeat once, 10% ethanol 2min at R.T.\r\n\n\n30% ethanol 2min at R.T,\r\n\n\n50% ethanol 2min at R.T,\r\n\n\n70% ethanol 2min at R.T,\r\n\n\n90%, 2min at R.T, 100%ethanol 2min at R.T, 100%ethanol 2min at R.T. Dry sections under vacuum at least 1h until hybridization. If essential pretreated sections can be stored at –20℃."
+    },
+    {
+        "title": "**Hybridization**",
+        "body": "hybridization: 42℃ overnight in humidified box with wet paper \\(contains 0.3M NaCl－50％formamide)."
+    },
+    {
+        "title": "**Washing**",
+        "body": "1, washing:\r\n\n\n40ml 4xSSC RT, 5-10min\r\n\n\n40ml 4xSSC RT, 5-10min\r\n\n\n40ml 4xSSC RT, 5-10min\r\n\n\n40ml 4xSSC RT, 5-10min.\r\n\n\n2, RNase treatment: put slides in the prewarmed 37℃ RNase buffer \\(500Mm NaCl-1mM EDTA-10mM Tris.HCl pH 7.5), add RNase A to the final concentration of 25ug/ml for 30 min.\r\n\n\n3, RNase buffer resine  for 15min at 37℃ and repeat twice. \r\n\n\n4, low-stringency wash:\r\n\n\n2XSSC resin for 30min and repeat once at R.T. with gentle stirring.\r\n\n\n5, high-stringency wash: 0.1xSSC  resin for 1hour at 60℃."
+    },
+    {
+        "title": "**Detection**",
+        "body": [
+            "1, 1×PBT pH7.5 RT 5min.\r\n\n\n2, 0.5% Blocking Reagent in PBT 30~60min.\r\n\n\n3, 1×PBT 1min.\r\n\n\n4, combinding with anti-DIG-AP RT 30~120min in humidified box with wet paper with 1×PBT.",
+            {
+                "title": "5.",
+                "body": "1×PBT 250ml, 20minX2min."
+            },
+            {
+                "title": "6.",
+                "body": "1×TNM50 5min."
+            },
+            {
+                "title": "7.",
+                "body": "Show the singal: RT in dark for 30min to 24 hours without shaking.\r\n  8.Cover the glasses."
+            }
+        ]
+    }
+]

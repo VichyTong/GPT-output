@@ -1,0 +1,255 @@
+[
+    "\nPROCEDURE\r\n\n\nCell maintenance and preparation",
+    {
+        "title": "1.",
+        "body": "Human colon cancer HCT 116 cells were cultured in a T-25 culture flask supplied with DMEM containing 10% \\(v/v) fetal bovine serum \\(FBS) and 1% \\(v/v) penicillin/streptomycin under 37 °C and 5% CO2."
+    },
+    {
+        "title": "2.",
+        "body": "To prepare cell suspension, cell were washed by 1X PBS solution to remove the dead cells."
+    },
+    {
+        "title": "3.",
+        "body": "Treat the cells with Trypsin for 5 min to detach the cell from the culture flask."
+    },
+    {
+        "title": "4.",
+        "body": "Centrifuge the cell suspension under 1500 rpm for 5 min."
+    },
+    {
+        "title": "5.",
+        "body": "Remove the supernatant and use fresh DMEM supplied with 10% FBS to re-suspend the cell pellet. \r\n  \r\n\n\nFabrication of microfluidic circulatory system"
+    },
+    {
+        "title": "1.",
+        "body": "Microfluidic silicon master is fabricated by using the standard soft lithography technique. The microfluidic device is designed to contain a wide straight channel with 100 µm width and a constriction channel with 800 µm length and 20 µm width. The height of the microchannel is 37 µm everywhere."
+    },
+    {
+        "title": "2.",
+        "body": "Prepare the PDMS pre-gel reagent by mixing the polymerase base and curing agent at the weight ratio of 10:1. Well mix the reagent by sufficient stirring."
+    },
+    {
+        "title": "3.",
+        "body": "Vacuum the well-mixed PDMS reagent for 60 minutes to remove the air bubbles."
+    },
+    {
+        "title": "4.",
+        "body": "Pour the PDMS pre-gel reagent on the silicon master and incubate in oven at 85 °C for 1 hour for gelling."
+    },
+    {
+        "title": "5.",
+        "body": "Cut and peel off the PDMS replica from silicon master."
+    },
+    {
+        "title": "6.",
+        "body": "Punch the inlet and outlet holes by using biopsy. Clean the surface using tape."
+    },
+    {
+        "title": "7.",
+        "body": "Attach the PDMS replica to clean glass slide by plasma treatment for 1 minute."
+    },
+    {
+        "title": "8.",
+        "body": "Post-bake the attached microfluidic device at 85 °C for 1 hour. This will ensure the attachment is strong enough for bearing the flow pressure."
+    },
+    {
+        "title": "9.",
+        "body": "Insert two segments of polyethylene tubing into the inlet and outlet of the microfluidic device respectively."
+    },
+    {
+        "title": "10.",
+        "body": "Connect the ends of two segments of polyethylene tubing with a large silicon tubing by using adaptors. The connection ensures a close-loop circulatory system.\r\n  Tip: Smaller tubing is for connecting PDMS microfluidics device, whereas larger soft silicon tubing is for wrapping on the pump that ensures the driving forces provided by squeezing."
+    },
+    {
+        "title": "11.",
+        "body": "Wrap the silicon tubing on the rollers of peristaltic pump.\r\n  \r\n\n\nCirculation of cell suspension"
+    },
+    {
+        "title": "1.",
+        "body": "Pull out one side of the polyethylene tubing. Sterilize all tubing and microfluidic devices by injecting 70% ethanol for 10 minutes."
+    },
+    {
+        "title": "2.",
+        "body": "Rinse the tubing and device by running 1X PBS. \r\n  Tip: Air bubbles should be pushed out and removed by injecting PBS solution."
+    },
+    {
+        "title": "3.",
+        "body": "Inject cell suspension into the circulatory system.\r\n  Tip: Cells suspension sample should be dispersed again by using the pipette. Because during the sterilization of the device, cells may start to settle at the bottom of the centrifuge tube. When inject the cell suspension, PBS residue would be pushed out and removed. When the solution with pink color starts to come out, it means the cell suspension has filled the whole setup."
+    },
+    {
+        "title": "4.",
+        "body": "Re-connect the microfluidic device with the end of polyethylene tubing that has been pulled out for sterilization and injection."
+    },
+    {
+        "title": "5.",
+        "body": "Wrap the silicone tubing on the roller of the peristaltic pump."
+    },
+    {
+        "title": "6.",
+        "body": "Sterilize the peristaltic pump and outer surface of microfluidic circulatory system by swiping 70% ethanol."
+    },
+    {
+        "title": "7.",
+        "body": "Place the microfluidic device and peristaltic pump into the incubator with 37 °C and 5% CO2."
+    },
+    {
+        "title": "8.",
+        "body": "Start circulation by manipulating the peristaltic pump."
+    },
+    {
+        "title": "9.",
+        "body": "The flow rate of circulation can be controlled by changing the rotating speed \\(revolution per minute \\(rpm)) of the roller in the peristaltic pump. Peristaltic speed of 0.1, 0.5, and 1.0 rpm is used for the circulation in our experiment. Wall shear stress can be calculated based on the peristaltic speed of circulation and the geometry of microfluidic channel. \r\n  \r\n\n\nDetermination of cell viability and growth after circulation"
+    },
+    {
+        "title": "1.",
+        "body": "When the circulation is done, pull out polyethylene tubing. Use syringe needle insert into one side of the tubing and put the other side into petri dish or centrifuge tube. Use syringe containing sterile air blow the cell suspension out."
+    },
+    {
+        "title": "2.",
+        "body": "Use Live/Dead assays to treat the cell collection after 1 hour sediment."
+    },
+    {
+        "title": "3.",
+        "body": "Determine cell viability by using confocal microscope."
+    },
+    {
+        "title": "4.",
+        "body": "To determine the cell proliferation, cell suspension are collected in petri dish containing fresh DMEM culture medium."
+    },
+    {
+        "title": "5.",
+        "body": "Incubate the sample for 2 hours for sediment in on-stage incubator with 37 °C and 5% CO2."
+    },
+    {
+        "title": "6.",
+        "body": "Record time-lapse video of cell growth in petri dish for 16 hours by using camera mounted on fluorescent microscope. Time-lapse video of cell growth is used for analyzing the rate of cell growth.\r\n  \r\n\n\nQuantitative real-time PCR\r\n\n\nPHASE SEPARATION"
+    },
+    {
+        "title": "1.",
+        "body": "Collect cell suspension from circulation into centrifuge tube."
+    },
+    {
+        "title": "2.",
+        "body": "Centrifuge the sample at 1500 rpm for 5 minutes. Remove the supernatant."
+    },
+    {
+        "title": "3.",
+        "body": "Disperse the cell pellet into TRIZOL reagent."
+    },
+    {
+        "title": "4.",
+        "body": "Incubate the homogenized samples for 5 minutes at 15 to 30°C to permit complete dissociation of nucleoprotein complexes."
+    },
+    {
+        "title": "5.",
+        "body": "Add 0.2 mL of chloroform per 1 mL of TRIZOL reagent."
+    },
+    {
+        "title": "6.",
+        "body": "Cap sample tubes securely."
+    },
+    {
+        "title": "7.",
+        "body": "Shake tubes vigorously by hand for 15 seconds and incubate them at 15 to 30°C for 2 to 3 minutes."
+    },
+    {
+        "title": "8.",
+        "body": "Centrifuge the samples at no more than 12,000 x g for 15 minutes at 2 to 8°C."
+    },
+    {
+        "title": "9.",
+        "body": "Following centrifugation, the mixture separates into a lower red, phenol-chloroform phase, and interphase, and a colorless upper aqueous phase."
+    },
+    {
+        "title": "10.",
+        "body": "RNA remains exclusively in the aqueous phase."
+    },
+    {
+        "title": "11.",
+        "body": "The volume of the aqueous phase is about 60% of the volume of the TRIZOL reagent used for homogenization.\r\n  \r\n\n\nRNA PRECIPITATION"
+    },
+    {
+        "title": "1.",
+        "body": "Transfer 350 μL of aqueous phase to a fresh tube."
+    },
+    {
+        "title": "2.",
+        "body": "Precipitate the RNA from the aqueous phase by mixing with isopropyl alcohol."
+    },
+    {
+        "title": "3.",
+        "body": "Use 0.5 mL of isopropyl alcohol per 1 mL of TRIZOL reagent used for the initial homogenization."
+    },
+    {
+        "title": "4.",
+        "body": "Incubate samples at 15 to 30°C for 10 minutes."
+    },
+    {
+        "title": "5.",
+        "body": "Centrifuge at no more than 12,000 x g for 10 minutes at 2 to 8°C."
+    },
+    {
+        "title": "6.",
+        "body": "The RNA precipitate, often invisible before centrifugation, forms a gel-like pellet on the side and bottom of the tube.\r\n  \r\n\n\nRNA WASH"
+    },
+    {
+        "title": "1.",
+        "body": "Remove and discard the supernatant."
+    },
+    {
+        "title": "2.",
+        "body": "Wash the RNA pellet once with 75% ethanol, adding at least 1 mL of 75% ethanol per 1 mL of TRIZOL reagent used for the initial homogenization."
+    },
+    {
+        "title": "3.",
+        "body": "Mix the sample by vortexing and centrifuge at no more than 7,500 x g for 5 minutes at 2 to 8°C.\r\n  \r\n\n\nREDISSOLVING THE RNA"
+    },
+    {
+        "title": "1.",
+        "body": "At the end of the procedure, briefly dry the pellet \\(air-dry to 5-10 minutes)."
+    },
+    {
+        "title": "2.",
+        "body": "Dissolve RNA in 40-50 μL RNase-free water or 0.5% SDS solution by passing the solution a few times through a pipette tip."
+    },
+    {
+        "title": "3.",
+        "body": "Incubate for 10 minutes at 55 to 60°C."
+    },
+    {
+        "title": "4.",
+        "body": "RNA can also be redissolved in 100% deionized formamide and stored at -70°C.\r\n  \r\n\n\nPREPARING RNA TEMPLATE"
+    },
+    {
+        "title": "1.",
+        "body": "Use RNase-free water as blank and baseline for Nanodot machine to obtain concentration of RNA in samples, placing 1 μL sample on sensor after cleaning."
+    },
+    {
+        "title": "2.",
+        "body": "Use protocol from MAXIMA first strand cDNA synthesis kit for RT-qPCR."
+    },
+    {
+        "title": "3.",
+        "body": "Calculate the amount of template RNA required using the following calculation:\r\n  a. X = concentration obtained from Nanodot\r\n\n\nb. Y = amount of template solution needed\r\n\n\nc. Amount of template required = 5 μg/\\(X/1000) = Y μL"
+    },
+    {
+        "title": "4.",
+        "body": "Follow MAXIMA protocol and add to sterile, RNAse-free tube on ice in order described."
+    },
+    {
+        "title": "5.",
+        "body": "Mix gently and centrifuge."
+    },
+    {
+        "title": "6.",
+        "body": "Incubate for 10 minutes at 25°C followed by 15 minutes at 50°C, and then terminate reaction by heating at 85°C for 5 minutes \\(use program already on PCR machine)."
+    },
+    {
+        "title": "7.",
+        "body": "Calculate the amount of substrates required for RT-PCR assay, run on RT-PCR machine, and calculate data."
+    },
+    {
+        "title": "8.",
+        "body": "Data calculation\r\n  d. Open data file\r\n\n\ne. Click on quantitation\r\n\n\nf. Select samples \r\n\n\ng. In quantitation drop-down menu, select copy to clipboard\r\n\n\nh. Open excel file\r\n\n\ni. Paste data\r\n\n\nj. Sort by sample name\r\n\n\nk. Calculate average of each sample set\r\n\n\nl. Calculate standard deviation of each sample set\r\n\n\nm. Normalize each average to actin average\r\n\n\nn. Create data table\r\n\n\no. Populate with data \r\n\n\np. Normalize each set to control\r\n\n\nq. Obtain final data with this formula: power\\(2,-\\(normalized data))\r\n\n\nr. Plot"
+    }
+]

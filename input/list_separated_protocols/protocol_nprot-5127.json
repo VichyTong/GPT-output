@@ -1,0 +1,77 @@
+[
+    {
+        "title": "**Transfection of Target Cells with dCas9 and sgRNA Expression Vectors**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "One day prior to transfection, seed 12-well cell culture plates with 6x10<sup>4</sup> HEK293T cells in 1 mL DMEM/GlutaMAX supplemented with 10% FBS per well. Incubate at 37°C and 5% CO2."
+            },
+            {
+                "title": "2.",
+                "body": "Twenty-four hours after plating cells, prepare the transfection complexes, scaling up the mixture masses and volumes as needed:\r\n  \r\n\n\ni. For each well, combine the following expression vector DNAs.\r\n\n\n\r\n\n\n250 ng pPB: pCAG-GID1-VPR-IRES-Puro-WPRE pPGK-GAI-tagBFP-Sp dCas9\r\n\n\n250 ng pPB: pCAG-PYL1-VPR-IRES-Puro-WPRE-SV40PA pPGK-ABI-tagBFP-Sa dCas9\r\n\n\n83.3 ng pHR: pU6-Sp sgCD95-1 pCMV-EGFP\r\n\n\n83.3 ng pHR: pU6-Sp sgCD95-2 pCMV-EGFP\r\n\n\n83.3 ng pHR: pU6-Sp sgCD95-3 pCMV-EGFP\r\n\n\n83.3 ng pHR: pU6-Sa sgv2CXCR4-1 pCMV-EGFP\r\n\n\n83.3 ng pHR: pU6-Sa sgv2CXCR4-2 pCMV-EGFP\r\n\n\n83.3 ng pHR: pU6-Sa sgv2CXCR4-3 pCMV-EGFP\r\n\n\n\r\n\n\nii. Add this 1 μg DNA mixture to 100 μL Opti-MEM Reduced-Serum Medium in a microcentrifuge tube. Mix well by pipetting up and down.\r\n\n\n\r\n\n\niii. Add 3 μL Mirus TransIT-LT1 Transfection Reagent into the same tube. Mix well by pipetting up and down.\r\n\n\n\r\n\n\niv. Allow transfection complexes to form for 30 min at room temperature."
+            },
+            {
+                "title": "3.",
+                "body": "Add 100 μL of the transfection mixture to each well of the 12-well plate containing plated HEK293T cells. Mix well by rocking the plate back and forth. Incubate 24 h at 37°C and 5% CO2."
+            }
+        ]
+    },
+    {
+        "title": "**Induction of Target Cells with Abscisic acid/Gibberellin**",
+        "body": [
+            {
+                "title": "4.",
+                "body": "Twenty-four hours after transfection, prepare small molecules for induction as follows:\r\n  \r\n\n\nPrepare 500x concentrated stocks of abscisic acid and gibberellin.\r\n\n\nAbscisic acid: Dissolve 13.22 mg abscisic acid in 1 mL DMSO to make a 50 mM solution.\r\n\n\nGibberellin: Dissolve 2.09 mg gibberellic acid acetyoxymethyl ester in 1 mL DMSO to make a 5 mM solution.\r\n\n\nThese stocks can be stored at -20°C."
+            },
+            {
+                "title": "5.",
+                "body": "Add 2 μL of the 500x concentrated stocks of abscisic acid and/or gibberellin to each well of the 12-well plate containing transfected HEK293T cells."
+            },
+            {
+                "title": "6.",
+                "body": "Add DMSO in parallel such that 4 μL total volume of \\(DMSO + abscisic acid + gibberellin) are added to each well. Mix well by rocking the plate back and forth. Incubate 48 h at 37°C and 5% CO2."
+            }
+        ]
+    },
+    {
+        "title": "**Immunostaining for CD95/CXCR4**",
+        "body": [
+            {
+                "title": "7.",
+                "body": "Forty-eight hours after induction, harvest cells as follows:\r\n  \r\n\n\ni. Aspirate cell culture media from each well.\r\n\n\n \r\n\n\nii. Add 300 μL Versene solution per well, and incubate 5 min at 37°C and 5% CO2 to dissociate cells."
+            },
+            {
+                "title": "8.",
+                "body": "Transfer Versene solution containing dissociated cells into one microfuge tube per well. Centrifuge 2 min at 3,500 RPM in a microcentrifuge."
+            },
+            {
+                "title": "9.",
+                "body": "Prepare a blocking buffer containing 10% FBS in DPBS."
+            },
+            {
+                "title": "10.",
+                "body": "Aspirate Versene solution from pelleted cells, taking care not to disturb the cell pellet. Resuspend cells in 375 μL blocking buffer by pipetting up and down. Centrifuge 2 min at 3,500 RPM."
+            },
+            {
+                "title": "11.",
+                "body": "Prepare staining solutions as follows, scaling up volumes as needed:\r\n  \r\n\n\nFor each sample:\r\n\n\nAdd 0.2 μL APC-CXCR4 antibody \\(1:500, final concentration 0.4 μg/mL) and 0.5 μL PE-CD95 antibody \\(1:200, final concentration 0.5 μg/mL) to 100 μL 10% FBS in PBS.\r\n\n\n\r\n\n\nFor isotype controls:\r\n\n\nAdd 0.2 μL APC IgG2 antibody \\(1:500, final concentration 0.4 μg/mL) or 0.25 μL PE IgG1 antibody \\(1:400, final concentration 0.5 μg/mL) to 100 μL 10% FBS in PBS."
+            },
+            {
+                "title": "12.",
+                "body": "Aspirate blocking buffer from pelleted cells, taking care not to disturb the cell pellet. Resuspend cells in 100 μL staining solution by pipetting up and down."
+            },
+            {
+                "title": "13.",
+                "body": "Incubate cells 1 h at room temperature protected from light. Centrifuge 2 min at 3,500 RPM."
+            },
+            {
+                "title": "14.",
+                "body": "Aspirate staining solution from pelleted cells, taking care not to disturb the cell pellet. Resuspend cells in 375 μL blocking buffer by pipetting up and down. Centrifuge 2 min at 3,500 RPM."
+            },
+            {
+                "title": "15.",
+                "body": "Resuspend cells in 150 μL blocking buffer and immediately analyze by flow cytometry."
+            }
+        ]
+    }
+]

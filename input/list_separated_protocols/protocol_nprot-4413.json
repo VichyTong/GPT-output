@@ -1,0 +1,30 @@
+[
+    {
+        "title": "1.",
+        "body": "For each replicate, start with 1 ml serum or plasma."
+    },
+    {
+        "title": "2.",
+        "body": "Bring up volume to fill ultracentrifuge tube with PBS."
+    },
+    {
+        "title": "3.",
+        "body": "Centrifuge for 90 min at 100,000 x g at 4°C."
+    },
+    {
+        "title": "4.",
+        "body": "Discard supernatant and resuspend pellet in PBS to fill ultracentrifuge tube."
+    },
+    {
+        "title": "5.",
+        "body": "Centrifuge for 70 min at 100,000 x g at 4°C."
+    },
+    {
+        "title": "6.",
+        "body": "Discard supernatant."
+    },
+    {
+        "title": "7.",
+        "body": "Proceed to miRNeasy RNA isolation by adding 1 mL Qiazol to pellet."
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "title": "1.",
+        "body": "Preparation of engineered graphene films\r\n  a. The graphene film was obtained by filtration of solvent dispersed graphene sheets at a concentration of 1 mg/mL.\r\n\n\nb. The selected area of graphene film was scanned with pulsed nitrogen laser with wavelength of 337 nm \\(200 Hz). It’s noted the area can be adjusted.\r\n\n\nc. The spot-to-spot distance was set to be 30 µm and 500 shots were taken at each spot. The laser intensity was set to be 50% \\(about 121.8 µJ for 100%)."
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Preparation of micro-patterns\r\n  a. Diluted analytes \\(DOTAP) solutions were prepared in a step-wise manner. The solution should be stocked in -20 ºC fridge before use.\r\n\n\nb. The stamp \\(Figure",
+            {
+                "title": "1a)",
+                "body": "was dipped into the solution and then pressed onto the engineered graphene film to mark the pattern. It’s noted that such pattern is invisible on the stamped paper \\(Figure"
+            },
+            {
+                "title": "1b)",
+                "body": "and can only be subsequently constructed by 2D matrix-free MS imaging technique."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": "Matrix-free LDI MS imaging\r\n  a. In the imaging set up, the spot-to-spot distance was set to be 50 µm and 50 laser shots were taken with laser intensity of 36% at each spot.  The nitrogen laser \\(337 nm) was applied at a repetition rate of 200 Hz. A full mass spectrum ranging from 200 to 2000 m/z was acquired for every pixel at an x-y step-size of 50 μm.\r\n\n\nb. Imaging data was stored in the FlexImaging data format \\(Bruker Bioscience). 2D image construction and statistical analysis were executed using custom-made scripts in the FlexImaging software \\(Bruker Biosicence, AUS). Peak finding and integration was performed for each pixel to select peaks at specific m/z of 380 and 662. Peaks were integrated using a 0.3 Da window."
+    }
+]

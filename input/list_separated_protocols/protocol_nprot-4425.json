@@ -1,0 +1,74 @@
+[
+    {
+        "title": "1.",
+        "body": "Add 350 µl LYSIS Buffer to resuspended exosome pellet and vortex 15 seconds."
+    },
+    {
+        "title": "2.",
+        "body": "Incubate for 5 minutes at room temperature for 5 minutes."
+    },
+    {
+        "title": "3.",
+        "body": "Add 200 µl of 100% Ethanol."
+    },
+    {
+        "title": "4.",
+        "body": "Vortex 10 seconds."
+    },
+    {
+        "title": "5.",
+        "body": "Assemble spin column and collection tube. Transfer mixture \\(600 µl) to spin column."
+    },
+    {
+        "title": "6.",
+        "body": "Centrifuge for 1 minute at 13,000 rpm at room temperature. \\(Check to see that the liquid has all flowed through; if not, spin longer.)"
+    },
+    {
+        "title": "7.",
+        "body": "Discard flow-through."
+    },
+    {
+        "title": "8.",
+        "body": "Add 400 µl WASH Buffer."
+    },
+    {
+        "title": "9.",
+        "body": "Centrifuge for 1 minute at 13,000 rpm at room temperature. \\(Check to see that the liquid has all flowed through; if not, spin longer.)"
+    },
+    {
+        "title": "10.",
+        "body": "Discard flow-through."
+    },
+    {
+        "title": "11.",
+        "body": "Add 400 µl WASH Buffer."
+    },
+    {
+        "title": "12.",
+        "body": "Centrifuge for 1 minute at 13,000 rpm at room temperature. \\(Check to see that the liquid has all flowed through; if not, spin longer.)"
+    },
+    {
+        "title": "13.",
+        "body": "Discard flow-through."
+    },
+    {
+        "title": "14.",
+        "body": "Centrifuge for 2 minutes at 13,000 rpm at room temperature."
+    },
+    {
+        "title": "15.",
+        "body": "Transfer spin column to fresh microfuge tube."
+    },
+    {
+        "title": "16.",
+        "body": "Add 30 µl ELUTION Buffer directly to membrane in spin column."
+    },
+    {
+        "title": "17.",
+        "body": "Centrifuge for 2 minutes at 2,000 rpm at room temperature \\(loads buffer into membrane)."
+    },
+    {
+        "title": "18.",
+        "body": "Centrifuge for 1 minute at 13,000 rpm at room temperature to elute RNA."
+    }
+]

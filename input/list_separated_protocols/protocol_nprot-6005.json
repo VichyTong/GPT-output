@@ -1,0 +1,289 @@
+[
+    "\nCore inoFISH protocol\r\n\n\nThis is the basic inoFISH protocol used in several steps of the experimental procedure, below. This protocol is consistent with our in-house inoFISH protocol, available in this Google Doc, which we will continuously update as we tweak experimental conditions as we find them to be useful:  https://goo.gl/ujxex1 . The procedure as of May 3, 2017, used for inoFISH experiments in the publication associated with this protocol, is as follows:\r\n\n\nPre-inoFISH\r\n\n\nCell fixation\r\n\n\nNOTE: All steps should be done in chemical hood with ventilation.\r\n\n\nTime required: Fixation: 15 minutes; Permeabilization: at least 1 hour.\r\n\n\nFor multi-chambered slides \\(cultured cells):",
+    {
+        "title": "1.",
+        "body": "Aspirate off media with vacuum."
+    },
+    {
+        "title": "2.",
+        "body": "Add 1 mL PBS per well to rinse, aspirate off."
+    },
+    {
+        "title": "3.",
+        "body": "Repeat 1 mL PBS rinse and aspirate.\r\n         5"
+    },
+    {
+        "title": "4.",
+        "body": "Add 1 mL Fixation solution to each well. Allow to fix cells for 10 minutes. Aspirate off fixation solution.\r\n\n\na. Keep fixing time consistent between experiments."
+    },
+    {
+        "title": "5.",
+        "body": "Meanwhile, label the sample’s plate with the fixing date. Make sure covers and chamber\r\n  of chambered coverslips are labeled \\(to keep track of wells)."
+    },
+    {
+        "title": "6.",
+        "body": "Add 1 mL PBS per well to rinse, aspirate off. Repeat."
+    },
+    {
+        "title": "7.",
+        "body": "Add 1 mL 70% ethanol per well."
+    },
+    {
+        "title": "8.",
+        "body": "Parafilm the plate to prevent evaporation of ethanol.\r\n  a. Store at 4C \\(for minimum 1 hour, up to 3 months).\r\n\n\ninoFISH\r\n\n\nDAY 1: Hybridization\r\n\n\n----Prep of probes in hybridization buffer----\r\n\n\nTime required: 20 minutes, including thawing of probe stocks\r\n\n\nPer well of sample \\(double numbers for 2-well plate):"
+    },
+    {
+        "title": "9.",
+        "body": "Add 50μL hybridization buffer to Eppendorf tube \\(1.5 mL).\r\n  a. Hybridization buffer is viscous from dextran sulfate, so vortex then spin down"
+    },
+    {
+        "title": "10.",
+        "body": "Add each of the following to the 50μL hybridization buffer:\r\n\n\na. 1 uL editing site detection single oligo probes at a stock concentration of 0.3-1.2 μM \\(usually 2 of them at 1μL each, A/I in Cy3/Cy5)\r\n\n\nb. 1 uL mask oligo \\(has common sequence for both SNP probes, added such that mask:probe molar ratio is between 1:1 and 1.5:1; with two detection probes, the range of mask stock concentrations would be 0.6 - 3.6uM)\r\n\n\nc. 1 uL guide probe \\(a typical RNA FISH probe with no tiled oligo at the SNP position, ideally in Cal Fluor 610). For Cal Fluor 610, we use 1uL of 5uM guide probe stock.\r\n\n\n----Hybridization----\r\n\n\nTime required: 5-15 minutes, depending on the number of samples"
+    },
+    {
+        "title": "11.",
+        "body": "Aspirate off 70% ethanol from fixed cell sample well."
+    },
+    {
+        "title": "12.",
+        "body": "Add 1 mL wash buffer to each sample well.\r\n  a. Allow sample to equilibrate for 2-3 minutes."
+    },
+    {
+        "title": "13.",
+        "body": "Aspirate off wash buffer and tilt chamber to get residual liquid.\r\n  a. Be quick so other samples don’t dry out."
+    },
+    {
+        "title": "14.",
+        "body": "Add 50 μL of probe-containing hybridization buffer as a drop in center of sample.\r\n  a. Use clean tweezers to place a clean 18 x 18 mm coverslip onto the drop.\r\n\n\nb. Tap down slide gently with tweezers to spread liquid."
+    },
+    {
+        "title": "15.",
+        "body": "Create “moisturizer” using 1⁄2 of Kimwipe rolled, tied into a pretzel, and saturated with\r\n  750μL of 2X SSC."
+    },
+    {
+        "title": "16.",
+        "body": "Replace chamber cover, culture plate cover, and and seal with parafilm."
+    },
+    {
+        "title": "17.",
+        "body": "Put in 37°C incubator overnight \\(or at least 4 hours).\r\n  6\r\n\n\n DAY 2: Wash, Anti-fade \\(GluOx, Catalase, DAPI), and Imaging\r\n\n\nTime required: 35 minutes\r\n\n\n----Remove Coverslip, 1st wash----"
+    },
+    {
+        "title": "18.",
+        "body": "Take out samples from 37°C incubator, remove parafilm."
+    },
+    {
+        "title": "19.",
+        "body": "Add 1 mL wash buffer to each sample well."
+    },
+    {
+        "title": "20.",
+        "body": "Use clean tweezers to remove coverglass insert.\r\n  a. Don’t crush the sample, discard coverglass insert."
+    },
+    {
+        "title": "21.",
+        "body": "Aspirate off wash buffer and replace with 1 mL fresh wash buffer."
+    },
+    {
+        "title": "22.",
+        "body": "Replace chamber and plate covers, parafilm."
+    },
+    {
+        "title": "23.",
+        "body": "Put back into 37°C incubator for 30 minutes."
+    },
+    {
+        "title": "24.",
+        "body": "Start thawing DAPI \\(with 10 minutes left to spare).\r\n  ----2nd wash/DAPI----\r\n\n\nTime required: 35 minutes"
+    },
+    {
+        "title": "25.",
+        "body": "Remove sample from incubator and remove parafilm."
+    },
+    {
+        "title": "26.",
+        "body": "Aspirate off wash buffer, add another 1 mL of wash buffer to each sample well."
+    },
+    {
+        "title": "27.",
+        "body": "Add 1 uL DAPI \\(50 ug/mL stock) to each sample well."
+    },
+    {
+        "title": "28.",
+        "body": "Replace covers, parafilm and put back into 37°C incubator for 30 minutes."
+    },
+    {
+        "title": "29.",
+        "body": "Meanwhile, set up microscope.\r\n  ----Glucose Oxidase Prep----\r\n\n\nTime required: 10 minutes\r\n\n\nGlucose Oxidase \\(GluOx) is required to reduce photobleaching of Cy5 by dissolved oxygen Glucose + Oxygen in sample --\\(GluOx)--> less O2 in sample. Glucose oxidase stock enzyme is aliquoted out and frozen for storage. Note: Glucose oxidase tends to lose potency with repeated freeze/thaw cycles. In order to keep it working as well as possible, either thaw it out right when needed or by putting it at 4C for 10 minutes until ready to add, then immediately refreeze it. After about 20 freeze thaws, it’s time for a new aliquot."
+    },
+    {
+        "title": "30.",
+        "body": "During 2nd wash, prepare \"Anti-Fade\" buffer, ~1 mL volume for each Cy5 sample \\(for each well → double numbers for 2-well plate)."
+    },
+    {
+        "title": "31.",
+        "body": "Split anti-fade buffer into 100 & 900 μL volumes for each well.\r\n  a. 100 μL is for enzymatic solution, 900 μL is just buffer for equilibrating sample."
+    },
+    {
+        "title": "32.",
+        "body": "Vortex catalase in its amber vial or aliquots from 4°C."
+    },
+    {
+        "title": "33.",
+        "body": "Take out glucose oxidase from -20°C only when ready to add."
+    },
+    {
+        "title": "34.",
+        "body": "Add 1 μL of oxidase enzyme and 1 μL of catalase to 100 μL anti-fade buffer.\r\n  ----Final Wash and addition of glucose oxidase solution \\(for Cy5)----\r\n\n\nTime required: 5 minutes"
+    },
+    {
+        "title": "35.",
+        "body": "Aspirate off wash buffer and add 1 mL of 2X SSC at room temperature, wait 1 minute."
+    },
+    {
+        "title": "36.",
+        "body": "Aspirate off 2X SSC and add 900 μL of anti-fade \\(no enzyme) buffer to each sample\r\n  well. Allow to equilibrate for 1 minute at room temperature then aspirate."
+    },
+    {
+        "title": "37.",
+        "body": "Add 100 μL of Anti-fade with GluOx and Catalase to center of sample."
+    },
+    {
+        "title": "38.",
+        "body": "Use clean tweezers to add clean coverslip to lightly squash & reduce O2.\r\n  7\r\n\n\n ----Imaging----\r\n\n\nTime required: usually 10-15 minutes per 100x field of view \\(time per sample depends on the number and size of cells you want to capture, as well as exposure times)\r\n\n\nSample is now ready for imaging. Imaging can be done over several hours \\(store at 4°C in between imaging sessions; at this temperature samples may also be stored overnight with 1mL 2X SSC in the well prior to imaging). If imaging for > 4 hours in a single well, replace that well’s 100uL Anti-fade + GluOx and Catalase every 4 hours. As with regular smFISH, to image a cell properly, each image stack should cover the entire body of a cell \\(start blurry at the bottom of the cell, and end blurry at the top of the cell).\r\n\n\ninoFISH image analysis pipeline\r\n\n\nThis is the computational workflow that we use for analyzing inoFISH experiments. It is time-consuming. For an experiment with <sub>200 imaged cells spread over two experimental conditions the full image data analysis pipeline will often take  </sub>16 working hours  to complete. All image inspection and spot calling is conducted entirely in the rajlabimagetools software package. We strongly recommend familiarizing oneself with this software and its use in simpler smFISH experiments prior to starting an inoFISH experiment: https://bitbucket.org/arjunrajlaboratory/rajlabimagetools/wiki/workedExample .\r\n\n\nThe full documentation wiki for rajlabimagetools is here: https://bitbucket.org/arjunrajlaboratory/rajlabimagetools/wiki/browse/ . The SNP FISH analysis pipeline guide is here, and it is directly compatible with inoFISH guide-detection probe colocalization analyses: https://bitbucket.org/arjunrajlaboratory/rajlabimagetools/wiki/SNPFISH%20Colocalization%20Us er%20Guide .\r\n\n\nPlease see the rajlabimagetools wiki for a complete description of how to organize your image files and load them into rajlabimagetools. In brief,"
+    },
+    {
+        "title": "1.",
+        "body": "Cell segmentation"
+    },
+    {
+        "title": "2.",
+        "body": "Preliminary processing and spot calling"
+    },
+    {
+        "title": "3.",
+        "body": "Manual inspection of spot intensity thresholds in all channels, with particularly careful\r\n  attention paid to detection probe channels.\r\n\n\na. NOTE: This is the single most time-consuming and difficult step of inoFISH\r\n\n\nexperiments. We have developed multiple tools in rajlabimagetools that allow you to inspect individual fluorescent channels and collections of channels. See the wiki for details.\r\n\n\nb. We recommend having a second person, ideally someone who also works with smFISH data, review your spot calls. We found this type of analysis review to rapidly improve the quality of detection probe spot calls.\r\n\n\ni. This will be time-consuming for your colleague, as well.\r\n\n\n     8"
+    },
+    {
+        "title": "4.",
+        "body": "Gaussian spot position fitting\r\n\n\na. This process refines spot position estimates."
+    },
+    {
+        "title": "5.",
+        "body": "Guide-detection spot colocalization"
+    },
+    {
+        "title": "6.",
+        "body": "Manual inspection of colocalization events with re-review of detection spot calls\r\n  a. NOTE: This is time-consuming. We again recommend having a colleague review your results as a sanity check.\r\n\n\nb. Review your spot calls multiple times for consistency.\r\n\n\nc. Re-threshold spots as needed and update Gaussian fitters/spot colocalizers\r\n\n\nautomatically."
+    },
+    {
+        "title": "7.",
+        "body": "Pixel-shift colocalization analysis"
+    },
+    {
+        "title": "8.",
+        "body": "Extraction and exporting of processed data as required for downstream analyses. Some examples of data tables that you might find useful are demonstrated in worked examples in the wiki: https://bitbucket.org/arjunrajlaboratory/rajlabimagetools/wiki/SNPFISH%20Colocalization %20User%20Guide .\r\n  Overall experimental procedure\r\n\n\nSelect a target editing site in a transcript of interest"
+    },
+    {
+        "title": "1.",
+        "body": "Identify the genomic coordinates of the editing site of interest."
+    },
+    {
+        "title": "2.",
+        "body": "Download a RefSeq-annotated reference genomic sequence of the full transcript with\r\n  the editing site. We will use this for RT-PCR primer design and for inoFISH probe design. We use the UCSC browser tool with the following options:\r\n\n\na. Sequence Retrieval Region Options:\r\n\n\ni. 5’ UTR Exons\r\n\n\nii. CDS Exons\r\n\n\niii. 3’ UTR Exons\r\n\n\niv. One FASTA record per region, 0 upstream, 0 downstream\r\n\n\nv. Split UTR and CDS exons into separate FASTA records\r\n\n\nb. Sequence Formatting Options:\r\n\n\ni. Exons in upper case, everything else in lower case"
+    },
+    {
+        "title": "3.",
+        "body": "Download reference genome sequence corresponding to the locus around the editing\r\n  site, about 400-bp upstream and 400-bp downstream. We only need this for gDNA PCR primer design.\r\n\n\nUse bulk assay techniques, such as gDNA PCR and RT-PCR with Sanger sequencing, to preliminarily check for any editing at this site in biological samples of interest"
+    },
+    {
+        "title": "4.",
+        "body": "Design gDNA PCR and RT-PCR primers such that your product will contain amplified sequence at the editing site. We recommend designing primers such that your products:\r\n  a. Have the editing site 100bp - 400bp from both ends of the amplicon \\(or from internal Sanger sequencing primer sites).\r\n\n\n   9\r\n\n\n b. Are < 1-kbp in length\r\n\n\nc. Optional: design additional internal Sanger sequencing primers for each\r\n\n\npredicted PCR product such that the editing site is still 100bp - 400bp from the\r\n\n\nprimers."
+    },
+    {
+        "title": "5.",
+        "body": "Culture two replicates of a biological sample of interest."
+    },
+    {
+        "title": "6.",
+        "body": "Harvest genomic DNA from one replicate your cultured sample of interest. We have\r\n  used the DNeasy Blood & Tissue Kit \\(Qiagen) for cultured human cell lines, but feel free\r\n\n\nto use whatever works for you. Store at -20C until ready to perform PCR."
+    },
+    {
+        "title": "7.",
+        "body": "Harvest total RNA from one replicate of your cultured sample of interest. We have used\r\n  the miRNeasy Mini Kit \\(Qiagen) for cultured human cell lines. Store at -80C until ready to\r\n\n\nperform RT-PCR."
+    },
+    {
+        "title": "8.",
+        "body": "Perform gDNA PCR. We have used Platinum® Taq DNA Polymerase High Fidelity."
+    },
+    {
+        "title": "9.",
+        "body": "Perform RT-PCR.\r\n  a. For RT we have used the SuperScript III First-Strand Synthesis System with included oligo-dT primers.\r\n\n\nb. For PCR we have used Platinum® Taq DNA Polymerase High Fidelity."
+    },
+    {
+        "title": "10.",
+        "body": "Check amplification by running on an agarose gel \\(with Ethidium Bromide or SYBR\r\n  Safe)."
+    },
+    {
+        "title": "11.",
+        "body": "Eliminate residual dNTPs with ExoSAP-IT."
+    },
+    {
+        "title": "12.",
+        "body": "Sanger sequence gDNA PCR and RT-PCR products."
+    },
+    {
+        "title": "13.",
+        "body": "Verify RNA editing by comparing Sanger sequencing traces at the editing site in gDNA\r\n  PCR and RT-PCR products. At the editing site the genomic product should be homozygous A, whereas the RT product should have a mixed A, G trace \\(or entirely G if editing is 100% efficient at this site).\r\n\n\nCheck inoFISH compatibility of target editing site"
+    },
+    {
+        "title": "14.",
+        "body": "Computationally isolate the RT-PCR product Sanger sequencing results for the 81-bp region \\(40-bp upstream and 40-bp downstream) of the target editing site."
+    },
+    {
+        "title": "15.",
+        "body": "In RT-PCR results, ensure that there are no other nearby heterozygous SNPs, indels, or RNA editing sites leading to transcript base variation near the specific editing site of interest.\r\n  a. CRITICAL STEP: if the transcript has additional base variation near the particular editing site of interest, it may not be possible to design detection probes \\(usually 20-nt - 35-nt) such that the only variation in the detection probe target sequence is the editing site of interest.\r\n\n\nDesign inoFISH guide and detection probes"
+    },
+    {
+        "title": "16.",
+        "body": [
+            "Perform smFISH probe design for the full transcript as previously described ",
+            {
+                "title": "****",
+                "body": "*cit. a. CRITICAL STEP: if the transcript is too short or contains too many repetitive\r\n  sequences to fit at least 24 oligonucleotide guide probes, then the inoFISH guide may not work, and inoFISH may fail for this target.\r\n\n\n10"
+            }
+        ]
+    },
+    {
+        "title": "17.",
+        "body": "Perform inoFISH detection probe design for the editing site. We use the SNV FISH snpfishdesign pipeline, as previously described. In order to create detection probes that target the unedited and edited versions of the editing site, use a “SNPList” file with a “SNP” at the position \\(coordinate on reference chromosome) of the editing site with alleles T/C. \r\n\n\na. CRITICAL STEP: it must be possible to design detection probes overlapping the editing site or inoFISH will fail."
+    },
+    {
+        "title": "18.",
+        "body": "The inoFISH detection probe design pipeline will provide one detection probe per editing status and shorter probe-complementary masks of three different lengths. inoFISH experiments require at least: both detection probes and one mask. Since the masks are unmodified oligos, we recommend ordering all three options preemptively in the interest of efficient probe set optimization \\(discussed below).\r\n  Screen candidate inoFISH probe sets for optimal signal-to-noise ratio"
+    },
+    {
+        "title": "19.",
+        "body": "For a small set of combinations of detection probe concentrations and mask length conditions, culture replicates of some simple control samples, for which you have at least RT-PCR with Sanger sequencing as a baseline rough estimate of cell population-wide editing level at the site of interest.\r\n  a. Note: if you have other estimates of editing level at this site in these samples, such as RT-PCR with restriction endonuclease digestion or high-read-depth RNA-seq data, even better\\!"
+    },
+    {
+        "title": "20.",
+        "body": "Use the above core inoFISH protocol for each candidate probe set concentration and mask length condition.\r\n  a. Note: If considering more than two probe set conditions, it may make sense to stage FISH experiments over several days, as imaging of detection probe spots often require time-consuming, long exposure times."
+    },
+    {
+        "title": "21.",
+        "body": "Complete the above inoFISH image analysis pipeline for each candidate probe set condition."
+    },
+    {
+        "title": "22.",
+        "body": "Compare colocalization rates and pixel-shift false-positive colocalization across probe set conditions. Proceed to the next step of the experimental procedure if you have a probe set condition with an observed colocalization rate and a pixel-shift rate with which you can power an experiment of interest.\r\n  a. See the associated publication’s Supplementary Note for a discussion of the quantitative analysis of inoFISH experiments.\r\n\n\nb. If none of the probe set conditions produce satisfactory colocalization rates and pixel-shift rates, try a couple other conditions. However, please note that we have encountered a one editing site for which we were unable to generate a probe set after testing six probe set conditions. We are not sure why this site was resistant\r\n\n\nto probe design"
+    },
+    {
+        "title": "23.",
+        "body": "Ensure that swapping the dyes conjugated to your optimal probe set’s detection probes\r\n  also gives you a good signal-to-noise \\(colocalization-to-pixel-shift) ratio.\r\n\n\nConduct inoFISH experiments and editing level analyses"
+    },
+    {
+        "title": "24.",
+        "body": "Use your optimal probe set in a set of experiments of interest. Make sure that they are powered to detect the effect size for which you are interested in testing. For a discussion of quantitative editing level analysis, see the Supplementary Note of the manuscript with which this protocol is associated."
+    }
+]

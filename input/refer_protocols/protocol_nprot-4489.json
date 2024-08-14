@@ -1,0 +1,8 @@
+[
+    {
+        "index": 25,
+        "string": "To this end the Master Regulator Analysis \\(MRA) algorithm is used as previously described<sup>11,12</sup>, evaluating the statistical significance \\(P-values computed by Fisher\u2019s exact test, FET) of the overlap between the \u201cregulon\u201d of each microRNA, and the gene signature of the subtype in which the microRNA was identified as differentially expressed at the previous steps.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the description of the Master Regulator Analysis (MRA) algorithm in references 11 and 12."
+    }
+]

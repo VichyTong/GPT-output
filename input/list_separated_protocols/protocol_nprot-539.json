@@ -1,0 +1,47 @@
+[
+    "\n1.Plate 20-25x10<sup>6</sup> macrophages in culture flask.\r\n\n\n2.Wash the cells and change the media next day.\r\n\n\n3.Infect the macrophages with L. major for 6 h.",
+    {
+        "title": "4.",
+        "body": "Wash the cells with plain RPMI \\(Gibco) to remove parasites that are not internalized."
+    },
+    {
+        "title": "5.",
+        "body": "Where required treat the cells either with β-MCD\\(10Mm) for 45 min and/or with cholesterol for 1h in the serum free medium at 37 <sup>0</sup>C."
+    },
+    {
+        "title": "6.",
+        "body": "After treatment or 72 h of infection stimulate the cells where required and then lyse the cells in cold 726 μl of TNE-buffer \\(25 mM Tris-HCl pH 7.5, 50 mM NaCl, 5 mM EGTA) containing 1% Triton-X100 supplemented with protease and phosphatase inhibitors for 30 min on ice."
+    },
+    {
+        "title": "7.",
+        "body": "Mix the lysate with 1452 μl of 70% Nycodenz \\(Sigma), dissolved in TNE-buffer."
+    },
+    {
+        "title": "8.",
+        "body": "Load this mix in the bottom of 4 ml of polyallomar ultracentrifuge tube."
+    },
+    {
+        "title": "9.",
+        "body": "Overlay this bottom loaded mix with 25, 21.5, 18, 15, and 8% Nycodenz, prepared in TNE-buffer."
+    },
+    {
+        "title": "10.",
+        "body": "Spin the tube at 200,000 × g for 4 h at 40C using SW 60 Ti rotor \\(Beckman Coulter)."
+    },
+    {
+        "title": "11.",
+        "body": "After centrifugation collect eleven fractions \\(Fr.) each of 364 μl from top to bottom of the tube."
+    },
+    {
+        "title": "12.",
+        "body": "Analyse the fraction by SDS-PAGE and immunoblot."
+    },
+    {
+        "title": "13.",
+        "body": "Probe the blot with caveolin-1 antibody to confirm cav-1 positive \\(Fr.2-Fr.5) or detergent resistant membrane fractions \\(DRMs)."
+    },
+    {
+        "title": "14.",
+        "body": "Probe the blot with anti-β-coat protein or anti-CD71 to confirm soluble \\(Fr.7-Fr.11) fractions."
+    }
+]

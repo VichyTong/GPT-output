@@ -1,0 +1,30 @@
+[
+    {
+        "title": "1.",
+        "body": "Digest 2 μg of vector with restriction enzymes.  Gel purify the vector and isolate the DNA using QIAEX II gel extraction kit.  Quantitate the vector."
+    },
+    {
+        "title": "2.",
+        "body": "Inserts are amplified using Taq DNA polymerase.  Set up a 100 μl PCR reaction with 250 μM of each dNTP, 0.5 μM of each primer, and 2.5 U of Taq DNA polymerase \\(from Eppendorf).  Cycle as follows: 94°C for 45 seconds; 30 cycles of 94°C for 45 seconds, 54°C for 45 seconds, and 72°C for 1 minute; 72°C for 10 minutes.  Add 20 U of DpnI to 100 μl of PCR products after PCR, incubate at 37°C for 1 hour.  Purify the PCR products by QIAquick PCR purification column.  Quantitate PCR products."
+    },
+    {
+        "title": "3.",
+        "body": "For iPCR insert, heat the PCR product to 95°C for 5 minutes to denature, cool slowly to room temperature in 1 hour to renature, dilute and proceed to annealing reaction.  For mixed PCR inserts, the two PCR products should be mixed in equal amounts and heated to 95°C for 5 minutes to denature, cooled slowly to room temperature for 1 hour to renature and diluted priot to proceeding to the annealing reaction."
+    },
+    {
+        "title": "4.",
+        "body": "Take 1 μg of the vector and treat with 0.5 U of T4 DNA polymerase in T4 buffer \\(NEB) plus BSA in a 20 μl reaction at room temperature for 30 minutes.  Stop the reaction by adding 1/10 volume of 10 mM dCTP and leave on ice."
+    },
+    {
+        "title": "5.",
+        "body": "Set up a 10 μl annealing reaction using 1:1 or higher insert to vector ratio with 150 ng of a 3.1 kb vector \\(0.074 pmol), 1x ligation buffer, appropriate amount of insert, and water.  Incubate at 37°C for 30 minutes.  Leave on ice or store at -20°C."
+    },
+    {
+        "title": "6.",
+        "body": "Add 5 μl of the annealed mixture into 150 μl of BW23474 chemical competent cells, incubate on ice for 30 minutes, heat shock at 42°C for 45 seconds, return to ice for 2 minutes, add 0.9 ml of SOC and recover at 37°C for 1 hour."
+    },
+    {
+        "title": "7.",
+        "body": "Plate 100 μl onto plates containing the appropriate antibiotics; and incubate in 37°C for over-night."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "1)",
+        "body": "For uptake measurements, grow yeast cells to logarithmic phase in YNB medium supplemented with 3% glucose and 1 mM L-arginine."
+    },
+    {
+        "title": "2)",
+        "body": "Harvest cells at OD<sub>600</sub> of 0.6 to 0.8, wash, and resuspend in 40 mM potassium phosphate buffer, pH 7, to a final OD<sub>600</sub> of 8."
+    },
+    {
+        "title": "3)",
+        "body": "Five minutes before the uptake measurement, supplement cells  with 6% glucose and incubate at 30ºC."
+    },
+    {
+        "title": "4)",
+        "body": "To start the reaction, add 450 µL of cell suspension to 400 µL of the same buffer containing 200 µM methylammonium and 10 nM <sup>14</sup>C-methylammonium \\(2.11 Gbq/mmol; Amersham)."
+    },
+    {
+        "title": "5)",
+        "body": "After 0.5, 1, 2, and 4 min, withdraw 200 µL aliquots, dilute in 5 mL ice-cold potassium phosphate buffer containing 200 mM methylammonium, and filter through glass fiber filters \\(GF/C; Whatman)."
+    },
+    {
+        "title": "6)",
+        "body": "Wash filters twice with 5 mL of cold deionized water and analyze by liquid scintillation spectrometry."
+    }
+]

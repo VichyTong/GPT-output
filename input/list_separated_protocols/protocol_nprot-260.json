@@ -1,0 +1,26 @@
+[
+    {
+        "title": "1.",
+        "body": "Prepare the following stock solutions in 10 mM NH4OAc, pH 6.0: 500 µM cucurbituril, 25 µM dapoxyl, 1 mM lysine, 800 µg/ml lysine decarboxylase."
+    },
+    {
+        "title": "2.",
+        "body": "Add 100 µl Dapoxyl stock \\(25 µM) and 780 µl buffer to the cuvette and place the cuvette into the fluorometer. Start recording in the kinetic mode \\(exc = 336 nm, em = 380 nm)."
+    },
+    {
+        "title": "3.",
+        "body": "Add 20 µl of cucurbituril stock \\(500 µM) to the solution and wait ca. 2 min until the fluorescence intensity has equilibrated."
+    },
+    {
+        "title": "4.",
+        "body": "Add 50 µl of lysine stock \\(1 mM) to the solution."
+    },
+    {
+        "title": "5.",
+        "body": "Add 50 µl of lysine decarboxylase \\(800 µg/ml) to initiate the reaction and record fluorescence until no change in fluorescence intensity is registered."
+    },
+    {
+        "title": "6.",
+        "body": "Total assay volume is 1 ml. Final concentrations are: 2.5 µM Dapoxyl, 10 µM cucurbituril, 50 µM lysine, 40 µg/ml lysine decarboxylase. Steps 2-5 can be repeated with varying enzyme, substrate, or cucurbituril concentrations."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "title": "**Trypsin inhibitory activity assay**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Incubate in a quartz cell 10 μl of biological sample \\(from each re-dissolved chromatographic fraction) with 50 μl trypsin \\(33 μg ml<sup>-1</sup> in 20 mM CaCl<sub>2</sub>, 0.1 M Tris, pH 8.0) and 790 μl activity buffer \\(20 mM CaCl<sub>2</sub>, 0.1 M Tris, pH 8.0) for 3 min at room temperature."
+            },
+            {
+                "title": "2.",
+                "body": [
+                    "Repeat",
+                    {
+                        "title": "Step 1",
+                        "body": "in another quartz cell and add 10 μl activity buffer \\(20 mM CaCl<sub>2</sub>, 0.1 M Tris, pH 8.0) instead of biological sample in order to obtain the control sample."
+                    }
+                ]
+            },
+            {
+                "title": "3.",
+                "body": "Add 150 μl of the substrate N-benzoyl-arginine ethyl ester hydrochloride to each quartz cell \\(see REAGENTS)."
+            },
+            {
+                "title": "4.",
+                "body": "Gently mix all the quartz cells and measure the absorbance change at 254 nm and 25 °C over 2 min, producing 240 time points \\(signal averaging time = 0.5 s)."
+            },
+            {
+                "title": "5.",
+                "body": "Control slopes should be 0.050 ± 0.003 units of absorbance \\(U.Abs.) per min."
+            },
+            {
+                "title": "6.",
+                "body": "Biological samples yielding slopes below 0.035 U.Abs. per min are taken for intensity fading MS assays."
+            }
+        ]
+    },
+    {
+        "title": "**Carboxypeptidase A inhibitory activity assay**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Incubate in a quartz cell 10 μl biological sample \\(from each re-dissolved chromatographic fraction) with 2 μl carboxypeptidase A \\(35 μg ml<sup>-1</sup> in 20 mM Tri-HCl buffer, 0.5 M NaCl, pH 7.5) and 978 μl activity buffer \\(20 mM Tri-HCl buffer, 0.5 M NaCl, pH 7.5) for 3 min at room temperature."
+            },
+            {
+                "title": "2.",
+                "body": [
+                    "Repeat",
+                    {
+                        "title": "Step 1",
+                        "body": "in another quartz cell and add 10 μl activity buffer \\(50 mM Tri-HCl buffer, 100 mM NaCl, pH 7.5) instead of biological sample in order to obtain the control sample."
+                    }
+                ]
+            },
+            {
+                "title": "3.",
+                "body": "Add 10 μl of the substrate N-\\(4-methoxyphenylazoformyl)-Phe-OH to each quartz cell \\(see REAGENTS)."
+            },
+            {
+                "title": "4.",
+                "body": "Gently mix all the quartz cells and measure the absorbance change at 350 nm and 25 °C over 3 min, producing 360 time points \\(signal averaging time = 0.5 s)."
+            },
+            {
+                "title": "5.",
+                "body": "Control slopes should be 0.12 ± 0.02 U.Abs. per min."
+            },
+            {
+                "title": "6.",
+                "body": "Biological samples yielding slopes below 0.060 U.Abs. per min are taken for 'intensity fading MS' assays."
+            }
+        ]
+    }
+]

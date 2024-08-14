@@ -1,0 +1,54 @@
+[
+    {
+        "title": "1.",
+        "body": "Dissect Drosophila larval brains in saline \\(0.7% NaCl),"
+    },
+    {
+        "title": "2.",
+        "body": "Treat dissected brains for 10 min with a hypotonic solution of 0.5% sodium citrate."
+    },
+    {
+        "title": "3.",
+        "body": "Fix for 5 min in a drop of fixing solution \\(1.8% Formaldehyde, 45% acetic acid) on a coverslip."
+    },
+    {
+        "title": "4.",
+        "body": "Gently lean a clean slide over the coverslip and squash the brain in the same fixing solution"
+    },
+    {
+        "title": "5.",
+        "body": "Freeze the slide in liquid nitrogen"
+    },
+    {
+        "title": "6.",
+        "body": "Remove the coverslip and immerse the slide in cold ethanol \\(-20°C) for 10 minutes."
+    },
+    {
+        "title": "7.",
+        "body": "Wash the slide in PBS-T \\(PBS containing 0.1% TritonX)."
+    },
+    {
+        "title": "8.",
+        "body": "Incubate the slide overnight with appropriate primary antibody in a humid box at 4°C"
+    },
+    {
+        "title": "9.",
+        "body": "The next day, wash the slide twice in PBS-T for 10 minutes"
+    },
+    {
+        "title": "10.",
+        "body": "Incubate the slide with the secondary antibody for 2 h at room temperature, in a humid box."
+    },
+    {
+        "title": "11.",
+        "body": "Wash the slide twice in PBS-T for 10 minutes and let it air dry."
+    },
+    {
+        "title": "12.",
+        "body": "Mount the slide in Vectashield medium H-1200 with DAPI \\(4,6 diamidino-2-phenylindole; Vector Laboratories, Burlingame, CA) to stain DNA and reduce fluorescence fading."
+    },
+    {
+        "title": "13.",
+        "body": "Analyze the immunostaining with a epifluorescence microscope"
+    }
+]

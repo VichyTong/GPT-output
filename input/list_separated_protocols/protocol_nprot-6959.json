@@ -1,0 +1,382 @@
+[
+    {
+        "title": "**REAGENT SETUP**",
+        "body": []
+    },
+    {
+        "title": "**IraZolve-Mito staining solution**",
+        "body": "IraZolve-Mito \\(MW = 907.48 g/mol) is provided as a powder \\(0.5 mg) that can be stored at room temperature. The powder should be dissolved in high-quality/sterile/anhydrous DMSO \\(55.1 µL) to prepare IraZolve-MitoTM stock solution of 10 mM, which can be stored at 4 ºC \r\n\n\nStock solution of IraZolve-MitoTM \\(10 mM) should be diluted in either complete sterile DPBS to a final concentration of 20 µM \\(1:500 dilution of 10mM stock solution). ▲"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": "Prepare fresh 20 µM staining solution for each experiment. At the end of experiment, this staining solution should be discarded."
+    },
+    {
+        "title": "**MitoTracker<sup>®</sup> Red CMXRos staining solution**",
+        "body": "Prepare 1 mM stock solution by adding 94 µL of high-quality/sterile/anhydrous DMSO to 50 µg of the lyophilized MitoTracker® product \\(MW = 531.52 g/mol). This stock solution can be stored at ‒20 ºC for at least one year. We recommend avoiding multiple freeze-thaw cycles. ▲"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": "This imaging agent is light sensitive, therefore, store it in a dark container. For mitochondrial staining by MitoTracker<sup>®</sup> Red CMXRos, dilute the stock solution at 1:1000 either in complete DMEM media or in DPBS. At the end of experiment, this staining solution should be discarded."
+    },
+    {
+        "title": "**4% PFA fixation solution**",
+        "body": "To 4 g of PFA add 50 mL of distilled water. Add 1 mL 1M NaOH. To dissolve, heat and stir at 60 ºC. Once dissolved, add 10 mL 10 × DPBS. Allow to cool and adjust to pH 7.4 with 1M HCl. Add distilled water to 100 mL, filter solution and store aliquots at ‒20 ºC."
+    },
+    {
+        "title": "**\\!**",
+        "body": []
+    },
+    {
+        "title": "**CAUTION**",
+        "body": "PFA is toxic. Please read the MSDS before working with this chemical. Gloves and safety glasses should be worn and solutions made inside a fume hood."
+    },
+    {
+        "title": "**Saponin solution \\(10% w/vol)**",
+        "body": "Dissolve 1 g of Saponin in 10 mL of sterile DPBS. Store at 4 ºC. For permeabilization of the cell membrane, add 100 µL of 10% Saponin \\(w/vol) in 10 mL of DPBS. This will yield 10 mL of a diluted solution with a final solute concentration of 0.1 %."
+    },
+    {
+        "title": "**Blocking solution**",
+        "body": "Dissolve 2.5 g of the lyophilized BSA powder in 50 mL of sterile DPBS; stir continuously. Add 250 µL of 10% Saponin, and then disperse into 10 mL-aliquots. Store at ‒20 ºC."
+    },
+    {
+        "title": "**Anti-Cytochrome C antibody \\(1 µg/mL)**",
+        "body": "This antibody is delivered as 100 µg stock \\(0.6 mg/mL) in PBS, containing 0.02% sodium azide, and it should be stored at ‒20 °C avoiding freeze/thaw cycle. For anti-Cytochrome C staining, add 2 µL of the antibody stock in 1 mL of blocking solution."
+    },
+    {
+        "title": "**Secondary antibody**",
+        "body": "Anti-Rabbit IgG conjugated with Cy5 labels were prepared at 1:200 dilution in blocking solution \\(i.e. 5% BSA containing 0.05% Saponin)."
+    },
+    {
+        "title": "**Hoechst 33258 staining solution**",
+        "body": "Hoechst 33258 DNA stain is delivered as a 10 mg/mL solution in water, which should be stored at 4º C in the dark. This stock solution can be used for at least a year. For nuclear staining, prepare Hoechst 33258 at 1:1000 dilution in DPBS. ▲"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": "This imaging agent is light sensitive, so therefore store it in the dark."
+    },
+    {
+        "title": "**EQUIPMENT SETUP**",
+        "body": []
+    },
+    {
+        "title": "**Nikon A1+ microscope setup.**",
+        "body": "Essential components are as follows \\(note that while a specialist protocol has been presented, IraZolve-Mito can be imaged on any standard confocal or epifluorescent microscope):\r\n\n\n• A Nikon A1+ \\(Nikon, Japan) fitted with a LU-N4/LU-N4S 4-laser unit \\(403, 488, 561 and 640 nm), the A1-DUG GaAsP Multi Detector Unit \\(2 GaAsP PMTs and 2 standard PMTs) and a 32 channel spectral detector \\(Nikon, Japan)\r\n\n\n• An Uno-Combined-Controller, CO<sub>2</sub> microscope electric top stage incubation system \\(Okolab, Italy) holding 37 °C and 5% CO<sub>2</sub>\r\n\n\n• Collect images for IraZolve-Mito using a 403 nm laser set to 2 power setting and emission between 505 and 625 detected by the spectral detector, with gain set to 180 for cardiac tissue and 170 for skeletal muscle tissue. ▲"
+    },
+    {
+        "title": "**CRITICAL**",
+        "body": [
+            "Note that for epifluorescence microscopy, IraZolve-Mito can be excited by UV/blue light sources with emissions collected using a wideband pass filter, or narrowband pass filter within emission range of 550-650 nm. For two-photon microscopy, IraZolve-Mito can be excited by 800-830 nm excitation wavelengths. Ideally, image with a spectral detector set for the emission of 550-650 nm, alternatively detected by using an emission filter suited to the detection of red fluorophores.\r\n\n\n• For imaging of MitoTracker<sup>®</sup> Red CMXRos, use 561 nm excitation wavelength \\(0.3 power setting) and collect emission at 595 nm by a GaAsP PMT detector \\(gain of PMT HV",
+            {
+                "title": "30).",
+                "body": [
+                    "For co-staining experiments, use the settings above in sequence to collect IraZolve-Mito and MitoTracker<sup>®</sup> Red CMXRos respectively, minimising any overlap in spectral profiles.\r\n\n\n• Image anti-Cytochrome C antibody staining using a 640 nm laser \\(7 power setting) and emission wavelength 700 nm by a standard PMT \\(gain of PMT HV 125)\r\n\n\n• Image Hoechst 33258 DNA stain using 403 nm laser \\(<sub> 1.0 laser power), and collect emission at 450 nm wavelength by a GaAsP PMT detector \\(gain of PMT HV </sub>",
+                    {
+                        "title": "65)",
+                        "body": "• Set the pinhole radius to 42.1 µm\r\n\n\n• 40X/WI λS DIC N2 water emersion lens\r\n\n\n• Set the temperature in the imaging facility to a constant 19 °C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Zeiss LSM 710 META NLO microscope setup**",
+        "body": ". Essential components are as follows:\r\n\n\n• Zeiss LSM 710 META NLO inverted microscope \\(Carl Zeiss, Jena, Germany)\r\n\n\n• A two-photon Mai-Tai<sup>®</sup> tunable Ti:Sapphire femtosecond pulse laser \\(710–920 nm; Spectra-Physics, USA)\r\n\n\n• A polychromatic multichannel detector \\(META spectral detector), MBS-InVis: MBS 690+, FW1: Rear, excitation wavelength 740 nm and emission interval 474–504 nm \\(for endogenous fluorophore, NAD\\(P)H)\r\n\n\n• The laser power should be set to 11%\r\n\n\n• The pinhole should be set to a maximum 600 µm\r\n\n\n• The pixel dwell time set should be set to 1.58 µs, and each image averaged eight times to increase the signal-to-noise ratio\r\n\n\n• LD C-Apochromat 40X/NA 1.1 Water Corr UV-VIS-IR M27 objective \\(Carl Zeiss, Germany)\r\n\n\n• Set the temperature in the imaging facility to a constant 19 °C"
+    },
+    {
+        "title": "**PROCEDURE**",
+        "body": []
+    },
+    {
+        "title": "**1. Tissue preparation and fixation protocol**",
+        "body": "The experimental procedures should be approved by an Animal Ethics Committee \\(e.g. SAHMRI Animal Ethics Committee in South Australia) and follow the guidelines of a Code of Practice for the Care and Use of Animals \\(e.g. as developed for Scientific Purposes developed by the National Health and Medical Research Council in Australia). The investigators should understand the ethical principles outlined in Grundy et al. \\[10]"
+    },
+    {
+        "title": "**\\! CAUTION**",
+        "body": "All animal experiments must be performed in accordance with the relevant authorities’ regulations."
+    },
+    {
+        "title": "**1.1│ Tissue collection**",
+        "body": "\\(i) Humanely kill the animal via overdose of sodium pentobarbitone or CO<sub>2</sub> inhalation.\r\n\n\n\\(ii) Remove cardiac muscle tissue from the left ventricle and skeletal muscle from the quadriceps. Remove all fat and connective tissues.\r\n\n\n\\(iii) Place collected live tissue samples into 70 mL specimen containers containing sterile DPBS. Keep tissue samples on ice and protect from light."
+    },
+    {
+        "title": "**▲ CRITICAL STEP**",
+        "body": "Transport tissue samples to the imaging facility within 90 min and image within 7 h."
+    },
+    {
+        "title": "**1.2│ Tissue sectioning**",
+        "body": "The following sections describe how to prepare tissue samples for mitochondrial staining. Please proceed to option \\("
+    },
+    {
+        "title": "**A**",
+        "body": ") for live, option \\("
+    },
+    {
+        "title": "**B**",
+        "body": ") for 4% PFA fixed, and option \\("
+    },
+    {
+        "title": "**C**",
+        "body": ") for snap-frozen tissue sections.\r\n\n\n\\("
+    },
+    {
+        "title": "**A**",
+        "body": ")"
+    },
+    {
+        "title": "**Preparation of live tissue sections**",
+        "body": "●"
+    },
+    {
+        "title": "**TIMING**",
+        "body": "==~=="
+    },
+    {
+        "title": "**30 min**",
+        "body": "Cut tissue samples using a sharp scalpel to allow clean cutting and prevent damage associated with tearing of tissue. Do not use scissors. Sections should be no more than 5 mm in thickness. The sectioning should be performed in sterile DPBS at RT \\(21 ± 2 °C)."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": "\\("
+    },
+    {
+        "title": "**B**",
+        "body": ")"
+    },
+    {
+        "title": "**Preparation of 4% PFA fixed tissue sections**",
+        "body": "●"
+    },
+    {
+        "title": "**TIMING**",
+        "body": "==~=="
+    },
+    {
+        "title": "**21 h**",
+        "body": "\\(i) Cut tissue samples using a sharp scalpel to allow clean cutting and prevent damage associated with tearing of tissue. Do not use scissors. For best results tissue should be cut to ==~== 1 cm3. The sectioning should be performed in sterile DPBS at RT \\(21 ± 2 °C).\r\n\n\n\\(ii) Submerge tissue samples in 4 % PFA for ==~== 20 h at 4 °C.\r\n\n\n\\(iii) Remove PFA fixative and wash the fixed tissues in DPBS for 30 min at RT."
+    },
+    {
+        "title": "**\\! CAUTION**",
+        "body": "Discard PFA in appropriate chemical waste receptacle.\r\n\n\n\\(iv)  Store tissue samples in DPBS at 4 °C until required."
+    },
+    {
+        "title": "**■ PAUSE POINT**",
+        "body": "Long-term storage in sterile DPBS at 4 °C."
+    },
+    {
+        "title": "**▲ CRITICAL STEP**",
+        "body": "Cut tissue sections at ==~==2 mm thick by using a sharp scalpel in sterile DPBS. Prior to staining, keep these tissue sections in DPBS for 2 h at RT.\r\n\n\n\\("
+    },
+    {
+        "title": "**C**",
+        "body": ")"
+    },
+    {
+        "title": "**Preparation of frozen tissue sections**",
+        "body": "●"
+    },
+    {
+        "title": "**TIMING ==~== 1-2 h**",
+        "body": "\\(i) Cut tissue samples into cubes less than 1 cm3 and snap freeze in liquid nitrogen at the animal facility. Transport tissue samples on dry ice before being stored at ‒80 °C. Note that by using isopentane \\(2-methylbutane) cooled in liquid nitrogen, the optimal muscle morphology can be preserved \\[11].\r\n\n\n\\(ii) Cut tissue sections on a cryostat at 5 µm-thick and collect onto charged glass slides.\r\n\n\n\\(iii) Heat-fix tissue sections to slides at 60 °C for at least 60 min.\r\n\n\n\\(iv) Store slides at ‒20 °C until required."
+    },
+    {
+        "title": "**■ PAUSE POINT**",
+        "body": "Long-term storage at ‒20 °C."
+    },
+    {
+        "title": "**▲ CRITICAL STEP**",
+        "body": "Cryosections should be thawed at RT for 30 min, before being placed in DPBS for rehydration \\(5 min)."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**2. Mitochondrial labelling of tissues**",
+        "body": "The following section describes how to perform mitochondrial labelling. Please proceed to option \\("
+    },
+    {
+        "title": "**A**",
+        "body": ") for IraZolve-Mito, to option \\("
+    },
+    {
+        "title": "**B**",
+        "body": ") for MitoTracker<sup>®</sup> Red CMXRos, to option \\("
+    },
+    {
+        "title": "**C**",
+        "body": ") for anti-Cytochrome C antibody staining,\r\n\n\n\\("
+    },
+    {
+        "title": "**A**",
+        "body": ")"
+    },
+    {
+        "title": "**IraZolve-Mito labelling of tissues**",
+        "body": "●"
+    },
+    {
+        "title": "**TIMING ==~== 40 min**",
+        "body": "Mitochondrial staining with IraZolve-Mito can be performed on live, 4% PFA fixed or snap-frozen tissue samples. \r\n\n\n\\(i) Submerge tissue samples in 1 mL of the IraZolve-Mito staining solution in 5 mL tubes. For snap-frozen samples, use a slide staining jar or similar to submerge slides in IraZolve-Mito staining solution \\(==~==10 mL depending on jar size and number of slides).\r\n\n\n\\(ii) Incubate at RT with gentle agitation provided by a rocker for 30 min.\r\n\n\n\\(iii) Aspirate the staining solution.\r\n\n\n\\(iv) Wash tissues for 5 min in DPBS with gentle agitation provided by a rocker.\r\n\n\n\\(v) Optional: For co-staining with MitoTracker<sup>®</sup> Red CMXRos, proceed to option \\("
+    },
+    {
+        "title": "**B**",
+        "body": ")."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": "\\("
+    },
+    {
+        "title": "**B**",
+        "body": ")"
+    },
+    {
+        "title": "**MitoTracker® Red CMXRos labelling of tissues**",
+        "body": "●"
+    },
+    {
+        "title": "**TIMING ~ 40 min**",
+        "body": "Mitochondrial staining with MitoTracker<sup>®</sup> Red CMXRos is suitable for live tissue samples only. This protocol has been adjusted from Johnson and Rabinovitch \\[12].\r\n\n\n\\(i) Submerge tissue samples in 1 mL of the MitoTracker<sup>®</sup> Red CMXRos staining solution in 5 mL tubes. For snap-frozen samples, use a slide staining jar or similar to submerge slides in MitoTracker<sup>®</sup> Red CMXRos staining solution \\(==~== 10 mL depending on jar size and number of slides).\r\n\n\n\\(ii) Incubate at ice for 15 min with general agitation provided by a rocker.\r\n\n\n\\(iii) Aspirate the staining solution.\r\n\n\n\\(iv) Wash tissues for 5 min in DPBS with gentle agitation provided by a rocker."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": "\\("
+    },
+    {
+        "title": "**C**",
+        "body": ")"
+    },
+    {
+        "title": "**Anti-Cytochrome C antibody probing**",
+        "body": "●"
+    },
+    {
+        "title": "**TIMING ==~== 24 h**",
+        "body": "Mitochondrial detection by anti-Cytochrome C antibody probing is suitable for PFA fixed tissue samples only. \r\n\n\n\\(i) Permeabilise 4% PFA fixed tissues with 0.1% Saponin in DPBS for 2 h at RT.\r\n\n\n\\(ii) Block non-specific binding of the antibody by submerging tissues in 5% BSA containing 0.05% Saponin for 2 h at RT.\r\n\n\n\\(iii) Incubate tissues with anti-Cytochrome C antibody \\(1 µg/mL; prepared in 5% BSA containing 0.05% Saponin) overnight at 4 ºC with gentle agitation provided by a rocker platform.\r\n\n\n\\(iv) Wash tissues for 2 h in DPBS.\r\n\n\n\\(v) Add secondary anti-IgG antibody conjugated with Cy5 labels and incubate for 1 h at RT.\r\n\n\n\\(vi) Wash tissues for 2 h in DPBS.\r\n\n\n\\(vii) Stain tissues with Hoechst 33258 DNA stain \\(1:1000 in DPBS) for 1 min.\r\n\n\n\\(viii) Wash tissues for 5 min in DPBS."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**3. Mounting tissues for imaging**",
+        "body": "For tissue mounting, use µ-slide 8 well chambers. Keep tissues moist, but not mounted in DPBS as this may cause tissues to float away from the imaging surface. For example, mount tissues with a longitudinal cross-section in contact with the imaging surface of the chamber, where possible. Good contact between the sample and the surface can be achieved by gently pressing the tissue down into the chamber. Using samples that are roughly the same size as the chamber, can also help to hold the tissue in place. A dissection microscope can be used to place and orientate the tissues. For snap-frozen tissue add an appropriate amount of mounting media, such as 80% glycerol in PBS, to the section and add a cover slip."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**4**",
+        "body": "."
+    },
+    {
+        "title": "**Imaging setup**",
+        "body": "●"
+    },
+    {
+        "title": "**TIMING**",
+        "body": "==~=="
+    },
+    {
+        "title": "**1 h**",
+        "body": "The following section describes how to set up for image acquisition. Please proceed to option \\("
+    },
+    {
+        "title": "**A**",
+        "body": ") for IraZolve-Mito, to option \\("
+    },
+    {
+        "title": "**B**",
+        "body": ") for MitoTracker<sup>®</sup> Red CMXRos, to option \\("
+    },
+    {
+        "title": "**C**",
+        "body": ") for anti-Cytochrome C antibody staining, and to option \\("
+    },
+    {
+        "title": "**D**",
+        "body": ") for imaging endogenous NAD\\(P)H. Options \\("
+    },
+    {
+        "title": "**A-C**",
+        "body": ") describe set ups for the Nikon A1+ microscope, fitted with a LU-N4/LU-N4S 4-laser unit \\(403, 488, 561 and 640 nm), the A1-DUG GaAsP Multi Detector Unit \\(2 GaAsP PMTs + 2 standard PMTs) and a 32 channel spectral detector. Option"
+    },
+    {
+        "title": "**\\(D)**",
+        "body": "describes the set up for the Zeiss LSM710 META NLO inverted microscope supplemented with a two-photon Mai-Tai<sup>®</sup>, tunable Ti:Sapphire femtosecond pulse laser \\(710–920 nm, Spectra-Physics). These protocols should be adapted to the specific confocal or two-photon imaging systems that are available."
+    },
+    {
+        "title": "**▲ CRITICAL STEP**",
+        "body": "Once mounted, live tissues must be imaged immediately with no more than 30 min elapsing between mounting and image completion as imaging beyond this time can lead to excessive drying of tissue samples.\r\n\n\n\\("
+    },
+    {
+        "title": "**A**",
+        "body": ")"
+    },
+    {
+        "title": "**Imaging IraZolve-Mito**",
+        "body": "\\(i) Place the µ-slide 8 well chambers on microscope stage."
+    },
+    {
+        "title": "**▲ CRITICAL STEP**",
+        "body": "Live cells are sensitive to high/low temperatures as well as CO<sub>2</sub> level. Make sure to maintain constant 37 °C and 5% CO<sub>2</sub> for H9c2 cells. Switch on the Uno-Combined-Controller, CO<sub>2</sub> microscope electric top stage incubation system, and wait for 60 min to equilibrate the chamber before starting.\r\n\n\n\\(ii) Start NIS Elements software and select 40X/WI λS DIC N2 water emersion lens from the list.\r\n\n\n\\(iii) Focus on the sample through the microscope; use DIC.\r\n\n\n\\(iv) Switch optical path to A1 and click “Remove Interlock” button. Select a scan mode, Galvano.\r\n\n\n\\(v) For imaging select the following specifications, which provide the optimal image acquisition under standard conditions: 403 nm laser set to 2 power setting and emission between 505 and 625 detected by a 32 channel spectral detector \\(with gain set to 180 for cardiac tissue and 170 for skeletal muscle tissue). The pinhole radius can be set to 42.1 µm."
+    },
+    {
+        "title": "**▲ CRITICAL STEP**",
+        "body": "Avoid extended excitation of the sample. Save images as ND2 file to maintain meta data."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": "\\(B) Imaging MitoTracker<sup>®</sup> Red CMXRos\r\n\n\n\\(i) Follow steps"
+    },
+    {
+        "title": "**v**",
+        "body": ","
+    },
+    {
+        "title": "**Section 7A.**",
+        "body": "\\(ii) For imaging select the following specifications: 561 nm excitation wavelength \\(0.3 power setting) and emission at 595 nm using a GaAsP PMT detector \\(gain of PMT HV 30)."
+    },
+    {
+        "title": "**▲ CRITICAL STEP**",
+        "body": "For co-staining experiments, use the settings above in sequence to collect IraZolve-Mito and MitoTracker<sup>®</sup> Red CMXRos respectively, minimising any overlap in spectral profiles."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": "\\("
+    },
+    {
+        "title": "**C**",
+        "body": ")"
+    },
+    {
+        "title": "**Imaging anti-Cytochrome C antibody**",
+        "body": "\\(i) Follow steps"
+    },
+    {
+        "title": "**i-v, Section 7A.**",
+        "body": "\\(ii) For imaging select the following specifications: a 640 nm laser \\(7 power setting) and emission wavelength 700 nm by a standard PMT \\(gain of PMT HV 125). For Hoechst 33258 DNA stain, select 403 nm laser \\(==<sub>== 1.0 laser power). Collect emission at 450 nm wavelength by a GaAsP PMT detector \\(gain of PMT HV ==</sub>== 65)."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": "\\("
+    },
+    {
+        "title": "**D**",
+        "body": ")"
+    },
+    {
+        "title": "**Imaging endogenous NAD\\(P)H**",
+        "body": "This option is only suitable with live tissue samples. \r\n\n\n\\(i) Start Zen software and select LD C-Apochromat 40X/NA 1.1 Water Corr UV-VIS-IR M27 objective from the list.\r\n\n\n\\(ii) Place the µ-slide 8 well chambers on microscope stage.\r\n\n\n\\(iii) Focus on the sample through the microscope; use transmitted light.\r\n\n\n\\(iv) Switch on a two-photon Mai-Tai<sup>®</sup> tunable Ti:Sapphire femtosecond pulse laser and wait for 5-10 min before starting.\r\n\n\n\\(v) From the software, select “Lambda scan”.\r\n\n\n\\(vi)  Set the laser power to 11% and the pinhole to maximum 600 µm.\r\n\n\n\\(vii) Collect images using two-photon excitation wavelength at 740 nm and a 474–504 nm emission interval.\r\n\n\n\\(viii) We recommend to set the pixel dwell time to 1.58 µs, and average each image eight times to increase the signal-to-noise ratio.\r\n\n\n▲"
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": "Avoid extended excitation of the sample. Save images in LSM file to maintain meta data."
+    },
+    {
+        "title": "**? TROUBLESHOOTING**",
+        "body": []
+    }
+]

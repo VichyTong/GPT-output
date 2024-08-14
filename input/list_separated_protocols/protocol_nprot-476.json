@@ -1,0 +1,82 @@
+[
+    {
+        "title": "**Rearing 3<sup>rd</sup> instar larvae**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Tap adult flies over to bottles or vials containing fresh food and yeast granules.  Use healthy flies that had not been exposed to CO<sub>2</sub> for ≥3 days, and do not expose the flies to CO<sub>2</sub> during the transfer."
+            },
+            {
+                "title": "2)",
+                "body": "After 2—3 days, remove the flies from the bottles by gentle tapping.  Do not use CO<sub>2</sub>."
+            },
+            {
+                "title": "3)",
+                "body": "Allow the larvae to grow for an additional 2—3 days.  Add H<sub>2</sub>O as needed to ensure that the fly food remains moist."
+            }
+        ]
+    },
+    {
+        "title": "**Collection of larvae from the food**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Scoop out food containing the larvae \\(~3—6 ml) into 40 ml of a 15% sucrose solution in a 50 ml tube.  The food will sink and the larvae will float."
+            },
+            {
+                "title": "2)",
+                "body": "After a brief incubation \\(~30—60 seconds), transfer the larvae \\(using a cut off P1000 pipet tip; diameter opening 5—8 mm) to a fresh 50 ml tube and wash the larvae with 15% sucrose until all remaining food debris is removed \\(usually 1—3 times)."
+            },
+            {
+                "title": "3)",
+                "body": "Transfer the larvae to a new tube, wash them with H<sub>2</sub>O at least two additional times to remove the sucrose.  Be sure that all pupae and dead flies are removed."
+            },
+            {
+                "title": "4)",
+                "body": "\\(Optional) If the collected larvae include more than 5% of 1<sup>st</sup> and/or 2<sup>nd</sup> instar larvae, transfer the larvae to a bacterial plate with moisturized 2% agarose, and remove the early stage instar larvae by aspiration."
+            },
+            {
+                "title": "5)",
+                "body": "Before initiating the behavioral assays, keep the collected larvae for 15—30 minutes at room temperature \\(~22 °C) in a 35 x 10 mm Petri dish or in the cap from a 50 ml tube under a dim light with adequate moisture to ensure that they do not become desiccated."
+            }
+        ]
+    },
+    {
+        "title": "**Set-up for thermotaxis assays**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "The apparatus for performing the thermotaxis assay consists of two adjacent aluminum blocks containing temperature controlled circulating H<sub>2</sub>O \\(Thomas Scientific, 9106).  The two blocks are separated by a thin insulator  \\(X-ray film) and held together in a plexiglass tray."
+            },
+            {
+                "title": "2)",
+                "body": "Monitor the temperatures on the test plates using microprobe thermometers \\(BAT-12, Physitemp Instruments) and flexible implantable probes \\(IT-21, Physitemp Instruments) placed at the center of each side \r\n\n\nof the test plates.  The temperatures deviate ±0.2 °C over the whole area on each side of the test plate."
+            },
+            {
+                "title": "3)",
+                "body": "The test plates used to perform the thermotaxis assays are plexiglass covers from 6 x 12 mini trays \\(Nunc 136528) coated with 7 ml of 2% agarose."
+            },
+            {
+                "title": "4)",
+                "body": "Establish the temperatures on each side of the test plates by placing the cover on the apparatus."
+            },
+            {
+                "title": "5)",
+                "body": "To prevent drying, lightly spray H<sub>2</sub>O onto the agarose surface of the test plate."
+            }
+        ]
+    },
+    {
+        "title": "**The Behavioral test**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Transfer 40—100 larvae \\(≥95% 3<sup>rd</sup> instar) from the Petri dish or cap described above to the middle of the two sides of the thermotaxis plate, and conduct the experiment in complete darkness."
+            },
+            {
+                "title": "2)",
+                "body": "After 15 min, photograph the test plate, tabulate the number of larvae on each side of the plate, and calculate the preference index \\(PI) according to the following formula:\r\n\n\n\r\n\n\nPI = \\[\\(no. of larvae on the 18 ºC side) – \\(no. of larvae on the side with the variable temperature)]/\\(total no. of larvae on both sides of the test plate)"
+            }
+        ]
+    }
+]

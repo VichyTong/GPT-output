@@ -1,0 +1,46 @@
+[
+    {
+        "title": "1.",
+        "body": "Transfer 200 µl of plasma into a 1.5 ml microfuge tube."
+    },
+    {
+        "title": "2.",
+        "body": "Add 2 μL of Thrombin \\(500U/mL) to a final concentration of 5U/mL."
+    },
+    {
+        "title": "3.",
+        "body": "Incubate at room temperature for 5 minutes while mixing \\(gently flicking tube)."
+    },
+    {
+        "title": "4.",
+        "body": "Centrifuge for 5 minutes at 10,000 rpm. There should be a visible fibrin pellet at the bottom of the tube."
+    },
+    {
+        "title": "5.",
+        "body": "Transfer supernatant to a fresh tube."
+    },
+    {
+        "title": "6.",
+        "body": "Add 50 μl of ExoQuick Exosome Precipitation Solution to the plasma and incubate 30 min at 4°C."
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge ExoQuick/plasma mixture at 1,500 × g for 30 minutes at room temperature."
+    },
+    {
+        "title": "8.",
+        "body": "Aspirate supernatant."
+    },
+    {
+        "title": "9.",
+        "body": "Spin down residual ExoQuick solution by centrifugation at 1,500 × g for 5 minutes at room temperature."
+    },
+    {
+        "title": "10.",
+        "body": "Remove all traces of fluid by aspiration, taking great care not to disturb the pellet."
+    },
+    {
+        "title": "11.",
+        "body": "Resuspend the pellet in 20 μl sterile PBS."
+    }
+]

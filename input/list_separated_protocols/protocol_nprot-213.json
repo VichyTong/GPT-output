@@ -1,0 +1,51 @@
+[
+    "\nCompetitive inhibition of CXCL8 binding to CXCR2 receptor by CXCR2 agonist",
+    {
+        "title": "1.",
+        "body": "Cultivate cells endogenously expressing or stably overexpressing CXCR2 \\(i.e. HEK293-CXCR2 cells) \\(10<sup>5</sup> cells/mL) in a 24-well plate in DMEM medium plus 10% FCS overnight."
+    },
+    {
+        "title": "2.",
+        "body": "Remove the medium and add binding buffer \\(medium without FCS)."
+    },
+    {
+        "title": "3.",
+        "body": "Put the plate on ice for 10 min."
+    },
+    {
+        "title": "4.",
+        "body": "Add cold agonist, i.e. rMIF or cold CXCL8 \\(0 – 1 µM) together with the tracer \\(40 pM of 125I -labeled recombinant CXCL8)."
+    },
+    {
+        "title": "5.",
+        "body": "Perform equilibrium receptor binding for 90 min at 4 °C."
+    },
+    {
+        "title": "6.",
+        "body": "Remove the medium and wash the cells twice with cold medium."
+    },
+    {
+        "title": "7.",
+        "body": "Harvest the cells by adding 0.5 M NaOH."
+    },
+    {
+        "title": "8.",
+        "body": "Transfer the lysate to a liquid scintillation tube."
+    },
+    {
+        "title": "9.",
+        "body": "Add Aquasafe 500 plus LSC cocktail and mix well."
+    },
+    {
+        "title": "10.",
+        "body": "Determine the cell-bound radioactivity by liquid scintillation counting."
+    },
+    {
+        "title": "11.",
+        "body": "For most agonist-receptor interactions, assume that receptor binding inhibition by agonist \\(i.e. rMIF or cold CXCL8) follows a one-site model."
+    },
+    {
+        "title": "12.",
+        "body": "Calculate the EC<sub>50</sub>, K<sub>i</sub> and K<sub>d</sub> values by using the equation of Cheng and Prusoff for heterologous competition experiments, applying the GraphPad software."
+    }
+]

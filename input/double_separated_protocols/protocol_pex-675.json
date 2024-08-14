@@ -1,0 +1,20 @@
+[
+    "<p><strong>Step A \u2013",
+    "Alignment</strong></p><p>First, ",
+    "Re",
+    "Move duplicates and ",
+    "Align the reads to the reference genome using your aligner of choice.",
+    "Retain uniquely mapped reads only.",
+    "Sorting and indexing your BAM files can ",
+    "Save run-time later, but is not necessary.</p><p><strong>Step B \u2013 Running RNAEditingIndexer</strong></p><p>The BAM files and the corresponding reference genome are to be used as the in",
+    "Put to the RNAEditingIndexer.",
+    "We recommend using either a virtual environment such as conda or to use the provided Docker image).",
+    "</p><p>For human, the RNAEditingIndexer averages (by default) on Alu repeats.",
+    "For mouse, the default regions are B1 and B2 repeats.",
+    "If your genome doesn\u2019t have built-in support you will need to ",
+    "Prepare the needed regions, annotations and SNPs files as described in the documentation.</p><p>",
+    "This step uses all the programs described in the documentation (BamUtils, SAMtools, and BEDTools).",
+    "It is recommended to ",
+    "Check both the logs and the out",
+    "Put to the screen for errors as some errors will not abort the execution</p>"
+]

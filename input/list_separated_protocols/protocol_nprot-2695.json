@@ -1,0 +1,71 @@
+[
+    "\nPreparation of the cage and mice",
+    {
+        "title": "1.",
+        "body": "Change the bedding material in the home cage 24 h or earlier before testing."
+    },
+    {
+        "title": "2.",
+        "body": "Weigh the novel mice and mark them on the tail 24 h or earlier before testing. This step can be skipped if the novel mice can be identified in a different way, such as by ear punching."
+    },
+    {
+        "title": "3.",
+        "body": "Weigh the test mice and mark them on the tail at the time of the first injection of rapamycin. This step can be postponed until testing if the mice are to be examined without any treatment."
+    },
+    {
+        "title": "4.",
+        "body": "Pair a test mouse and a novel mouse of the same sex, on the condition that the novel mouse is not heavier \\(< 5%) than the test mouse.\r\n  \r\n\n\nTesting"
+    },
+    {
+        "title": "5.",
+        "body": "Transfer the mice to the testing room."
+    },
+    {
+        "title": "6.",
+        "body": "Turn on ventilating fans in the sound-attenuating chamber."
+    },
+    {
+        "title": "7.",
+        "body": "Allow the mice to acclimate to the testing room for 1 h or longer. Steps 3 and 4 above should be completed at this time."
+    },
+    {
+        "title": "8.",
+        "body": "Clean the sound-attenuating chamber with 70% alcohol."
+    },
+    {
+        "title": "9.",
+        "body": "Move all of the cagemates of the test mouse to a novel cage."
+    },
+    {
+        "title": "10.",
+        "body": "Place the home cage of the test mouse alone with the camera, and leave the mouse undisturbed for 15 min or longer.\r\n  CRITICAL\r\n\n\nThe investigators should remain outside the testing room to let the test mouse acclimate to the environment."
+    },
+    {
+        "title": "11.",
+        "body": "Start video recording."
+    },
+    {
+        "title": "12.",
+        "body": "Place the paired novel mouse into the home cage, and record behavior for 10 min.\r\n  CRITICAL\r\n\n\nThe investigators should remain outside the testing room during the video recording to not disturb the behavior of the test mouse."
+    },
+    {
+        "title": "13.",
+        "body": "Stop recording."
+    },
+    {
+        "title": "14.",
+        "body": "Return the mice to their cagemates, and remove the cage."
+    },
+    {
+        "title": "15.",
+        "body": "Repeat steps 8 to 14 if other test mice are to be examined.\r\n  \r\n\n\nMeasurement"
+    },
+    {
+        "title": "16.",
+        "body": "Download the recorded data."
+    },
+    {
+        "title": "17.",
+        "body": "Watch the videos and score active interaction, defined as sniffing, close following, and allo-grooming.\r\n  CRITICAL\r\n\n\nAggressive behaviors should not be included as dependent measures."
+    }
+]

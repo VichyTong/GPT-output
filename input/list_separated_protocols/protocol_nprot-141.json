@@ -1,0 +1,22 @@
+[
+    {
+        "title": "1)",
+        "body": "Introduce HindIII and XhoI sites by site directed mutagenesis 5’ and 3’ respectively of the eGFP ORF from pCMV-EGFP \\(InVitrogen, Carlsbad, CA)."
+    },
+    {
+        "title": "2)",
+        "body": "Amplify the GATEWAY<sup>TM</sup> fragment by PCR with primers containing an EcoRV site in the forward primer and HindIII sites in the reverse primer and clone blunt in the SmaI restriction site of pDR196."
+    },
+    {
+        "title": "3)",
+        "body": "Digest this plasmid by HindIII to isolate a pPMA-GW fragment and ligate with a HindIII-eGFP-XhoI fragment into the HindIII-XhoI sites of pDR196 to generate a pDR-GW-eGFP plasmid."
+    },
+    {
+        "title": "4)",
+        "body": "Clone AtAMT1;1 into pDR-GW-eGFP using GATEWAY<sup>TM</sup> technology to generate pDR-AtAMT1;1-eGFP."
+    },
+    {
+        "title": "5)",
+        "body": "Confirm the AtAMT1;1-eGFP C-terminus fusion by sequencing and test for functionality by the yeast complementation assay in the yeast strain 31019b \\(see yeast growth assays protocol). The AtAMT1;1-eGFP complements the mutants deficient in ammonium uptake \\(data not shown)."
+    }
+]

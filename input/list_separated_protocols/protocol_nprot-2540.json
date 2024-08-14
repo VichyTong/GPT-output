@@ -1,0 +1,291 @@
+[
+    "\nProcedure \r\n\n\nDay 1",
+    {
+        "title": "1.",
+        "body": "Digest the plasmids with restriction enzyme which generate 5’ protruding terminus \r\n     DNA 8μg, 10xBuffer 10μl, H<sub>2</sub>O 78μl, Enzyme 2μl \\(2hr) and 2μl \\(2hr)"
+    },
+    {
+        "title": "2.",
+        "body": "Check the 1μl reacted DNA in a gel and confirm a complete digestion."
+    },
+    {
+        "title": "3.",
+        "body": "Add 4μl of 5mg/ml ProK and 10μl of 10%SDS, then incubate for 30 min at 37℃"
+    },
+    {
+        "title": "4.",
+        "body": "Add 2M Tris pH7.5 6μl and phenol-chloroform 100μl, vortex and centrifuge for 5 min at room temperature with15,000 rpm."
+    },
+    {
+        "title": "5.",
+        "body": "Recover supernatant to new 1.5ml tube and then repeat step"
+    },
+    {
+        "title": "4.",
+        "body": ""
+    },
+    {
+        "title": "6.",
+        "body": "Recover supernatant to new tube and add 100μl chlorofolm. Vortex and centrifuge for 5 min at room temperature with15,000 rpm."
+    },
+    {
+        "title": "7.",
+        "body": "Recover supernatant to new tube and add 300μl Ethanol and 3M Sodium acetate"
+    },
+    {
+        "title": "8.",
+        "body": "Mix with inverting a tube and centrifuge for 10 min at 4℃ with 15000rpm."
+    },
+    {
+        "title": "9.",
+        "body": "Discard supernatant and wash pellet with 80% Ethanol."
+    },
+    {
+        "title": "10.",
+        "body": "Discard supernatant and dry the pellet. Dissolve 15μl Tris-EDTA and store -20℃.   \r\n  \r\n\n\n \r\n\n\nDay 2 \\(Ways to make a Dig probe or DNP probe are different)\r\n\n\nFor Dig labeled RNA probes"
+    },
+    {
+        "title": "1.",
+        "body": "Mix following solutions and incubate at 37℃ for 3hrs.\r\n  DNA\\(template)             2μl\r\n\n\n5x buffer                   4μl\r\n\n\n10x DIG                   2μl\r\n\n\nH<sub>2</sub>O                      10μl \\(not treated with DEPC) \r\n\n\nRNase inhibitor             1μl  \\( 40 Unit )\r\n\n\nT3 or T7                  1μl  \\(10Unit,use after diluting with RNA dilution buffer )\r\n\n\n           Total; 20 μl"
+    },
+    {
+        "title": "2.",
+        "body": "Check the synthesized quantity 1hr after reaction by a gel running. If the quantity is small, add a little more enzyme."
+    },
+    {
+        "title": "3.",
+        "body": "After 3hrs, add following solutions directly into a reaction tube.\r\n    0.5M EDTA \\(8.0)            1μl\r\n\n\n  8M LiCl                    1μl   \r\n\n\n  EtOH                    75 μl"
+    },
+    {
+        "title": "4.",
+        "body": "Mix well and immediately centrifuge at 15000rpm for 10min at 4℃"
+    },
+    {
+        "title": "5.",
+        "body": "80% EtOH wash"
+    },
+    {
+        "title": "6.",
+        "body": "dry and dissolve in 20μl TE"
+    },
+    {
+        "title": "7.",
+        "body": "add following solutions \r\n    8M LiCl                    1μl   \r\n\n\n  EtOH                    75 μl"
+    },
+    {
+        "title": "8.",
+        "body": ". Mix well and immediately centrifuge at 15000rpm for 10min at 4℃"
+    },
+    {
+        "title": "9.",
+        "body": "80% EtOH wash"
+    },
+    {
+        "title": "10.",
+        "body": "Dry and dissolve in DPEC H<sub>2</sub>O 20μl"
+    },
+    {
+        "title": "11.",
+        "body": "Store at -80 ℃\r\n  \r\n\n\nFor DNP labeled RNA probes"
+    },
+    {
+        "title": "1.",
+        "body": "Synthesis of Anti Sense probe ; Mix following solution and incubate at 37℃ 3hrs\r\n  Template DNA\\(prepared on Day1)  6μl\r\n\n\n5×buffer\\(Roche Dig labeling mix)  12μl\r\n\n\nATP \\(Ambion, final =1mM)       6μl\r\n\n\nCTP          6μl\r\n\n\nGTP          6μl\r\n\n\nUTP          6μl\r\n\n\n  H<sub>2</sub>O          12μl\r\n\n\n  Rnase Inhibitor  3μl\r\n\n\n  T7 or T3       3μl"
+    },
+    {
+        "title": "2.",
+        "body": "Add 6μl  DNase I \\(10u/μl)  6μl and incubate for 15min at 37℃"
+    },
+    {
+        "title": "3.",
+        "body": "Purify RNA probes by Roche G50 column"
+    },
+    {
+        "title": "4.",
+        "body": "Add 3 volumes EtOH and 3M Sodium Acetate and mix well"
+    },
+    {
+        "title": "5.",
+        "body": "Centrifuge at 4℃, 15000 rpm for 10min"
+    },
+    {
+        "title": "6.",
+        "body": "Discard supernatant and wash pellet by 80%EtOH."
+    },
+    {
+        "title": "7.",
+        "body": "Repeat Step5 and 6"
+    },
+    {
+        "title": "8.",
+        "body": "Dry a pellet and dissolve in 20μl H<sub>2</sub>O."
+    },
+    {
+        "title": "9.",
+        "body": "DNP label \\(Mirus Labeling kit) ; Mix following solutions and incubate at 37℃ for 2hrs.\r\n   \r\n\n\nH<sub>2</sub>O                   33μl\r\n\n\n10×Buffer A             5μl\r\n\n\nAS                             5μl\r\n\n\nLabel IT Reagent          7μl"
+    },
+    {
+        "title": "10.",
+        "body": "Purify RNA probe by a column\\(included in Miruskit)"
+    },
+    {
+        "title": "11.",
+        "body": "Add 3 volumes EtOH and 3M Sodium Acetate and mix well"
+    },
+    {
+        "title": "12.",
+        "body": "Centrifuge at 4℃, 15000 rpm for 10min"
+    },
+    {
+        "title": "13.",
+        "body": "Discard supernatant and wash pellet by 80%EtOH."
+    },
+    {
+        "title": "14.",
+        "body": "Dry a pellet and dissolve in 5μl H<sub>2</sub>O.\r\n  \r\n\n\nDay 3"
+    },
+    {
+        "title": "1.",
+        "body": "Dissect the embryos out in DEPC-PBS and Fix in 4% PFA."
+    },
+    {
+        "title": "2.",
+        "body": "Rocking at 4℃ for 5hrs to overnight."
+    },
+    {
+        "title": "3.",
+        "body": "Wash for 5min each with 25,50, 75% MeOH in PBT, then twice with 100%MeOH."
+    },
+    {
+        "title": "4.",
+        "body": "Rehydrate through this methanol/PBT series in reverse and wash twice with PBT."
+    },
+    {
+        "title": "5.",
+        "body": "Bleach with 6% hydrogen peroxidase in PBT for 1hr."
+    },
+    {
+        "title": "6.",
+        "body": "Wash the embryos with PBT three times for 5min."
+    },
+    {
+        "title": "7.",
+        "body": "Tread with 10μg/ml ProteinaseK in PBT for 15minutes."
+    },
+    {
+        "title": "8.",
+        "body": "Refix the embryos with 0.2% glutaraldehyde/ 4% PFA"
+    },
+    {
+        "title": "9.",
+        "body": "Wash 3 times with PBT"
+    },
+    {
+        "title": "10.",
+        "body": "Soak in 0.25% NH<sub>3</sub> / 70% EtOH  20min\r\n  11.PBT wash 3times"
+    },
+    {
+        "title": "12.",
+        "body": "Soak in freshly prepared 0.1% Sodium Borohydride / PBT solution for 30min and repeat this step 4 times."
+    },
+    {
+        "title": "13.",
+        "body": "PBT wash 3times"
+    },
+    {
+        "title": "14.",
+        "body": "Change to PreHybridization Mix solution 2 times\\(50% Formamide, 5xSSC pH5, 50μg/ml Yeast RNA, 1%SDS, 50μg/ml Heparin)"
+    },
+    {
+        "title": "15.",
+        "body": "PreHybridization for 30min. at 70℃ in Hybridization oven"
+    },
+    {
+        "title": "16.",
+        "body": "Change solution to Hybridiztion Mix \\(probeA,DIG; 1μl + probeB, DNP;1μl  / Prehybridization Mix solution 500μl)"
+    },
+    {
+        "title": "17.",
+        "body": "Incubate overnight at 70℃\r\n  \r\n\n\nDay 4"
+    },
+    {
+        "title": "1.",
+        "body": "Wash the embryos twice with solution I \\(50% Formamide, 5xSSC pH5, 1%SDS) for 30min at 72℃."
+    },
+    {
+        "title": "2.",
+        "body": "Wash the embryos twice with solution III \\(50% Formamide, 2xSSC pH5, 0.1%Tween20) for 30 min at 72℃."
+    },
+    {
+        "title": "3.",
+        "body": "Wash 3 times for 5min with solution II \\(0.5MNacl, 10mMTris-HCl pH7.5, 0.1%Tween20 )"
+    },
+    {
+        "title": "4.",
+        "body": "Wash embryos with 100 μg/ml RNaseA in solution II for 30 min at 37℃."
+    },
+    {
+        "title": "5.",
+        "body": "Wash the embryos for 5 min with solution II, then with solution III."
+    },
+    {
+        "title": "6.",
+        "body": "Wash twice with solution III for 30min at 67℃."
+    },
+    {
+        "title": "7.",
+        "body": "TBST wash 3 times"
+    },
+    {
+        "title": "8.",
+        "body": "Change to blocking solution \\(0.1 M TrisHCl, pH 7.5,  0.15 M NaCl,  0.5% Blocking powder) and incubate at 4℃ with rocking for 1hr"
+    },
+    {
+        "title": "9.",
+        "body": "Change to blocking solution 1ml including anti-DIG-HRP\\(Roche) 5μl, then incubate with rocking at 4℃ overnight.  \r\n  \r\n\n\nDay 5"
+    },
+    {
+        "title": "1.",
+        "body": "Wash 3 times for 5 min with TBST"
+    },
+    {
+        "title": "2.",
+        "body": "TBST wash 1hr at 4℃ with rocking and repeat 5 times"
+    },
+    {
+        "title": "3.",
+        "body": "Change to Amplification Buffer \\(Molecular Probe TSA kit.) then wait for a few minutes"
+    },
+    {
+        "title": "4.",
+        "body": "Changes to Amplification Buffer 1ml including Tyramide-Alexa555 \\(Molecular Probe TSA kit)1μl, then incubate at 4℃ for 30min in dark room."
+    },
+    {
+        "title": "5.",
+        "body": "Make 30% H<sub>2</sub>O<sub>2</sub> 1μl in Amplification Buffer 200μl \\(solutionA)"
+    },
+    {
+        "title": "6.",
+        "body": "Make Tyramide-Alexa555 1μl, solutionA 1μl and Amplification Buffer 100μl \\(solutionB)"
+    },
+    {
+        "title": "7.",
+        "body": "Change to solutionB and incubate for 30 min at room temperature in a dark room"
+    },
+    {
+        "title": "8.",
+        "body": "TBST wash 3 times for 5min."
+    },
+    {
+        "title": "9.",
+        "body": "Change to H<sub>2</sub>O including 0.1M Glysin, pH2.5 \\(pH should be adjusted by 30%HCl) and incubate for 30 min at room temperature"
+    },
+    {
+        "title": "10.",
+        "body": "TBST wash 3 times for 5 min.\r\n  11.Change to blocking solution and incubate at 4℃ for 1hr with rocking\r\n\n\n12.Change to blocking solution including Anti-DNP-HRP \\(PerkinElmer) 1μl and incubate at 4℃ for overnight with rocking\r\n\n\n\r\n\n\nDay 6\r\n\n\nRepeat of step 1-10 of Day"
+    },
+    {
+        "title": "5.",
+        "body": "Tyramide should be changed to Tyramide-Alexa488."
+    }
+]

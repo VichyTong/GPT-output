@@ -1,0 +1,30 @@
+[
+    {
+        "title": "1.",
+        "body": "Grow KMBC cholangiocarcinoma cells on 32 x 10 cm tissue culture plates. Use Extracellular vesicle \\(EV)-cleared media for cultures \\(total 400 ml). Incubate on cells for 48 hr."
+    },
+    {
+        "title": "2.",
+        "body": "Collect supernatant and filter through a 0.22 µM PES filter"
+    },
+    {
+        "title": "3.",
+        "body": "Aliquot into ultracentrifugation tubes, and centrifuge for 70 min at 100,000 x g at 4°C."
+    },
+    {
+        "title": "4.",
+        "body": "Discard supernatant, and resuspend pellet from each tube with 1 ml PBS."
+    },
+    {
+        "title": "5.",
+        "body": "Combine washed pellets into one ultracentrifuge tube, and centrifuge for 70 min at 100,000 x g at 4°C."
+    },
+    {
+        "title": "6.",
+        "body": "Discard supernatant, resuspend final EV pellet with 600 µl PBS. Store samples at -70°C until ready for use."
+    },
+    {
+        "title": "7.",
+        "body": "RNA Isolation can be performed from one of the following options. \r\n  \r\n\n\nA. miCURY RNA Isolation Kit, Exiqon\r\n\n\ni. Transfer 200 µl of EV into 1.5 ml microcentrifuge tube. \r\n\n\nii. Add 60 µl Lysis Solution BF, vortex 5 sec, incubate for 3 min at room temperature.\r\n\n\niii. Add 20 µl Protein Precipitation Solution BF, vortex 5 sec, incubate for 1 min at room temperature.\r\n\n\niv. Centrifuge at 11,000g for 3 min at room temperature.\r\n\n\nv. Transfer clear supernatant to new microcentrifuge tube.\r\n\n\nvi. Add 270 µl Isopropanol, vortex 5 sec.\r\n\n\nvii. Assemble microRNA Mini Spin Column BF in a new collection tube and load entire sample onto column.\r\n\n\nviii. Centrifuge at 11,000g for 30 sec at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nix. Add 700 µl Wash Solution 2 BF to column and centrifuge at 11,000g for 30 sec at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nx. Add 250 µl Wash Solution 2 BF to column and centrifuge at 11,000g for 2 min at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nxi. Add 50 µl rDNase directly onto membrane of spin column. \r\n\n\nxii. Close lid and incubate for 15 min at room temperature\r\n\n\nxiii. Add 100 µl Wash Solution 1 BF to column and centrifuge at 11,000g for 30 sec at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nxiv. Add 700 µl Wash Solution 2 BF to column and centrifuge at 11,000g for 30 sec at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nxv. Add 250 µl Wash Solution 2 BF to column and centrifuge at 11,000g for 2 min at room temperature.\r\n\n\nxvi. Transfer spin column into a new collection tube.\r\n\n\nxvii. Add 50 µl RNase free H2O directly onto the membrane of spin column.\r\n\n\nxviii. Close lid and incubate for 1 min at room temperature.\r\n\n\nxix. Centrifuge at 11,000g for 1 min at room temperature.\r\n\n\nxx. Discard spin column and store purified RNA at -70°C.\r\n\n\n\r\n\n\nB. miRNeasy Mini Kit\r\n\n\ni. Transfer 200 µl of EV into 1.5 ml microcentrifuge tube. \r\n\n\nii. Add 700 µl QIAzol Lysis Reagent, vortex 5 sec, incubate for 5 min at room temperature.\r\n\n\niii. Add 140 µl chloroform, shake vigorously for 15 sec, incubate for 3 min at room temperature.\r\n\n\niv. Centrifuge sample at 12,000g for 15 min at 4°C.\r\n\n\nv. Transfer the upper aqueous phase to a new microcentrifuge tube.\r\n\n\nvi. Add 500 µl 100% Ethanol, mix by pipetting.\r\n\n\nvii. Assemble RNAeasy Mini Column in a new collection tube and load entire sample onto column.\r\n\n\nviii. Centrifuge sample at 8,000g for 15 sec at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nix. Add 700 µl Buffer RPE to column and centrifuge at 8,000g for 15 sec at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nx. Add 500 µl Buffer RPE to column and centrifuge at 8,000g for 2 min at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nxi. Centrifuge column at 8,000 x g for 1 min at room temperature to dry membrane.\r\n\n\nxii. Transfer spin column into a new collection tube.\r\n\n\nxiii. Add 30 µl RNase free H2O directly onto the membrane of spin column.\r\n\n\nxiv. Close lid and centrifuge for 1 min at 8,000 x g at room temperature.\r\n\n\nxv. Discard spin column and store purified RNA at -70°C.\r\n\n\n\r\n\n\nC. SeraMir Exosome RNA Purification Kit \\(Since EV is already isolated by ultracentrifugation, omit ExoQuick-TC precipitation step)\r\n\n\ni. Transfer 200 µl of EV into 1.5 ml microcentrifuge tube. \r\n\n\nii. Add 140 µl Lysis Buffer to EV, vortex 15 sec, incubate for 5 min at room temperature. \r\n\n\niii. Add 80 µl 100% Ethanol, vortex 10 sec.\r\n\n\niv. Assemble Spin Column in a new collection tube and load entire sample onto column.\r\n\n\nv. Centrifuge sample at 13,000 rpm for 1 min at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nvi. Add 400 µl Wash Buffer to column and centrifuge at 13,000 rpm for 1 min at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nvii. Add 400 µl Wash Buffer to column and centrifuge at 13,000 rpm for 1 min at room temperature. Discard flow-through and return column to collection tube.\r\n\n\nviii. Centrifuge column at 13,000 rpm for 2 min at room temperature to dry membrane.\r\n\n\nix. Transfer spin column into a new collection tube.\r\n\n\nx. Add 30 µl Elution Buffer directly onto the membrane of spin column.\r\n\n\nxi. Close lid and centrifuge at 2,000 rpm for 2 min at room temperature.\r\n\n\nxii. Increase speed and centrifuge at 13,000 rpm for 1 min at room temperature.\r\n\n\nxiii. Discard spin column and store purified RNA at -70°C."
+    }
+]

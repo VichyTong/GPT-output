@@ -1,0 +1,411 @@
+[
+    {
+        "title": "**Micro-C XL Protocol**",
+        "body": []
+    },
+    {
+        "title": "**I. First Crosslinking**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Culture 100 mL of yeast to the midlog stage, OD=0.55 o/n."
+            },
+            {
+                "title": "2.",
+                "body": "Add 37% formaldehyde directly to the culture to 3% of a final concentration."
+            },
+            {
+                "title": "3.",
+                "body": "Shake the culture at 210 rpm for 15 min at 30˚C \\(FA only) or 10 min at 30˚C \\(Dual crosslinking)."
+            },
+            {
+                "title": "4.",
+                "body": "Quench the crosslinking by adding 10 mL of 2.5M Glycine."
+            },
+            {
+                "title": "5.",
+                "body": "Incubate for 5 min at room temperature."
+            },
+            {
+                "title": "6.",
+                "body": "Centrifuge the cells at 4000 rpm for 5 min at 4˚C."
+            },
+            {
+                "title": "7.",
+                "body": "Pour off the medium and wash the cells in 50 mL of sterile water by vortexing."
+            },
+            {
+                "title": "8.",
+                "body": "Centrifuge the cells at 4000 rpm for 5 min at 4˚C."
+            },
+            {
+                "title": "9.",
+                "body": "Pour off the water."
+            }
+        ]
+    },
+    {
+        "title": "**II. Permeabilize the cell wall**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Resuspend the cell pellet in 10 mL of Buffer Z and add 7 µL of 2-Mercaptoethanol \\(final 10mM)."
+            },
+            {
+                "title": "2.",
+                "body": "Add 250 µL Zymolyase solution \\(final 250 µg/mL)."
+            },
+            {
+                "title": "3.",
+                "body": "Shake the tube at 210 rpm for 40 min at 30˚C."
+            },
+            {
+                "title": "4.",
+                "body": "Centrifuge the cells at 4000 rpm for 10 min at 4˚C."
+            },
+            {
+                "title": "5.",
+                "body": "Aspirate the supernatant with a vacuum suction."
+            },
+            {
+                "title": "6.",
+                "body": "Rinse the permeabilized cells by 5mL cold 1× PBS."
+            },
+            {
+                "title": "7.",
+                "body": "Centrifuge the cells at 4000 rpm for 2 min at 4˚C."
+            },
+            {
+                "title": "8.",
+                "body": "Aspirate the supernatant with a vacuum suction."
+            }
+        ]
+    },
+    {
+        "title": "**III. Second Crosslinking**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Freshly prepare the long crosslinker stock and working solution as below:\r\n  Crosslinkers MW Spacer \\(Å) Stock  Working\r\n\n\nDSG 326.26 7.7 0.3M in DMSO 3mM in PBS\r\n\n\nEGS 456.36 16.1 0.3M in DMSO 3mM in PBS"
+            },
+            {
+                "title": "2.",
+                "body": "Resuspend the cells homogenously by 5 mL of working solution."
+            },
+            {
+                "title": "3.",
+                "body": "Rotate the tube for 40 min at 30˚C."
+            },
+            {
+                "title": "4.",
+                "body": "Quench the crosslinking by adding 1 mL of 2.5M Glycine."
+            },
+            {
+                "title": "5.",
+                "body": "Centrifuge the cells at 4000 rpm for 10 min at 4˚C."
+            },
+            {
+                "title": "6.",
+                "body": "Aspirate the supernatant with a vacuum suction."
+            },
+            {
+                "title": "7.",
+                "body": "Rinse the permeabilized cells by 5 mL cold 1× PBS."
+            },
+            {
+                "title": "8.",
+                "body": "Centrifuge the cells at 4000 rpm for 2 min at 4˚C."
+            },
+            {
+                "title": "9.",
+                "body": "Aspirate the supernatant with a vacuum suction."
+            },
+            {
+                "title": "10.",
+                "body": "The crosslinked pellet can be store at -80˚C for few months."
+            }
+        ]
+    },
+    {
+        "title": "**IV. Chromatin fragmentation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Resuspend the cell pellet in 200 µL of MBuffer#1 \\(freshly complete)."
+            },
+            {
+                "title": "2.",
+                "body": "Add the appropriate amount of MNase to digest the chromatin to > 95% mononucleosomes."
+            },
+            {
+                "title": "3.",
+                "body": "Incubate the tube for 20 min at 37˚C."
+            },
+            {
+                "title": "4.",
+                "body": "Add 2 mM EGTA and incubate the tube for 10 min at 65˚C to stop the MNase activity."
+            },
+            {
+                "title": "5.",
+                "body": [
+                    "Here, you can continue processing the sample in multiple ways prior to Micro-C sequencing library generation, depending on the desired experimental design. Micro-C has been successfully carried out using three chromatin preps:",
+                    {
+                        "title": "1)",
+                        "body": "Total chromatin."
+                    },
+                    {
+                        "title": "2)",
+                        "body": "Supernatant."
+                    },
+                    {
+                        "title": "3)",
+                        "body": "Pellet. Any of these fractions can be subjected to the following Micro-C protocol, although we note that optimal signal-to-noise is achieved using relatively insoluble \\(Pellet) chromatin."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**V. Chromatin cleaning and concentration**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Total chromatin:"
+            },
+            {
+                "title": "1.",
+                "body": "Transfer the whole sample into the 0.5 mL Amicon 10K spin column."
+            },
+            {
+                "title": "2.",
+                "body": "Concentrate the sample at 16000xg for at 4˚C until the volume goes down to ~ 50 µL."
+            },
+            {
+                "title": "3.",
+                "body": "Wash / pipette the sample by 450 µL MBuffer#2."
+            },
+            {
+                "title": "4.",
+                "body": "Repeat wash step 2 -"
+            },
+            {
+                "title": "3.",
+                "body": []
+            },
+            {
+                "title": "5.",
+                "body": "Concentrate the sample at 16000xg for at 4˚C until the volume goes down to ~ 30 µL."
+            },
+            {
+                "title": "6.",
+                "body": [
+                    "Add BSA to 1× final concentration.",
+                    {
+                        "title": "2)",
+                        "body": "Supernatant:"
+                    }
+                ]
+            },
+            {
+                "title": "1.",
+                "body": "Centrifuge the tube at 16000xg for 5 min at 4˚C."
+            },
+            {
+                "title": "2.",
+                "body": "Collect the supernatant."
+            },
+            {
+                "title": "3.",
+                "body": "Concentrate the sample by the 0.5 mL Amicon 10K spin column at 16000xg for at 4˚C until the volume goes down to ~ 50 µL."
+            },
+            {
+                "title": "4.",
+                "body": "Wash / pipette the sample by 450 µL MBuffer#2."
+            },
+            {
+                "title": "5.",
+                "body": "Repeat wash step 2 -"
+            },
+            {
+                "title": "3.",
+                "body": []
+            },
+            {
+                "title": "6.",
+                "body": "Concentrate the sample at 16000xg for at 4˚C until the volume goes down to ~ 30 µL."
+            },
+            {
+                "title": "7.",
+                "body": [
+                    "Add BSA to 1× final concentration.",
+                    {
+                        "title": "3)",
+                        "body": "Pellet:"
+                    }
+                ]
+            },
+            {
+                "title": "1.",
+                "body": "Centrifuge the tube at 16000xg for 5 min at 4˚C."
+            },
+            {
+                "title": "2.",
+                "body": "Collect the pellet."
+            },
+            {
+                "title": "3.",
+                "body": "Resuspend the pellet in 1 mL MBuffer#2."
+            },
+            {
+                "title": "4.",
+                "body": "Centrifuge the tube at 16000xg for 5 min at 4˚C."
+            },
+            {
+                "title": "5.",
+                "body": "Aspirate the buffer with a vacuum suction."
+            },
+            {
+                "title": "6.",
+                "body": "Repeat wash steps 3 -"
+            },
+            {
+                "title": "5.",
+                "body": []
+            },
+            {
+                "title": "7.",
+                "body": "Resuspend the pellet to 30 µL of MBuffer#2 + final 1× BSA \\(or NEBuffer 2.1)."
+            }
+        ]
+    },
+    {
+        "title": "**VI. Repair and label the end of chromatin fragments**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "De-phosphorylation\r\n\n\nTotal 32.5µL Final condition\r\n\n\nChromatin sample 30µL 50mM NaCl, 10mM Tris, 10mM MgCl2, 1X BSA\r\n\n\n1U/µL r-Shrimp alkaline phosphatase 2.5 2.5U\r\n\n\n Incubate for 45min at 37°C.  \r\n\n\n Inactivate for 5min at 65°C."
+            },
+            {
+                "title": "2)",
+                "body": "End-Chewing\r\n\n\nTotal 42.7µL Final condition\r\n\n\nChromatin sample from VI.1 32.5µL -\r\n\n\n10X NEBuffer#2 3 70mM NaCl, 14mM Tris, 14mM MgCl2\r\n\n\n100mM ATP 0.5 1mM ATP\r\n\n\n200X BSA 0.2 1X\r\n\n\n0.1M DTT 1 3mM\r\n\n\n3U/µL T4 DNA polymerase 2.5 7.5U\r\n\n\n10U/µL T4 PNK 3 30U\r\n\n\n Incubate at 37°C for 7min."
+            },
+            {
+                "title": "3)",
+                "body": "End-labeling\r\n\n\nTotal 100µL Final condition\r\n\n\nChromatin sample from VI.2 42.7µL -\r\n\n\n0.4mM Biotin-dATP 25 100µM\r\n\n\n0.4mM Biotin-dCTP 25 100µM\r\n\n\n10mM dTTP + dGTP 1 100µM\r\n\n\n10X T4 DNA ligase buffer 6 30mM NaCl, 35mM Tris, 12mM MgCl2, 7mM DTT\r\n\n\n200× BSA 0.3 1× BSA\r\n\n\n PCR machine: Incubate for 25min at 25°C  15min at 12°C  4°C.\r\n\n\n Add EDTA \\(final 30mM) and heat inactivation for 20 min at 65°C."
+            }
+        ]
+    },
+    {
+        "title": "**VII. Proximity ligation and Remove unligated ends**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Ligation\r\n\n\nAlthough in our test Micro-C in “pellet” can be scaled down to a 1 mL ligation reaction, we suggest using at least 2.5 mL for routine experiments.\r\n\n\nTotal 2.5mL \r\n\n\n\\(pellet) 10mL \r\n\n\n\\(Total & Sup) Final condition\r\n\n\nChromatin sample from VI. 100L 100µL -\r\n\n\nWater 2122 8809 -\r\n\n\n10× T4 DNA ligase buffer w/ ATP 250 1000 1×\r\n\n\n200× BSA 12.5 50 1×\r\n\n\n1M MgCl2 3 3 Equal to the moles of EDTA from previous part.\r\n\n\n400U/µL T4DNA ligase 12.5 38 1.5 – 2U/µL\r\n\n\n Incubate for 60min at room temperature. \r\n\n\n Pellet: Centrifuge the pellet by 16000xg for 10min at 4°C.\r\n\n\n Total/Sup: 15mL Amicon 30k concentrates sample by spin at 4000g for 40min at 4°C."
+            },
+            {
+                "title": "2)",
+                "body": "Remove the biotin-dNTP at unligated ends\r\n\n\nTotal 100µL\r\n\n\n\\(pellet) 280µL\r\n\n\n\\(Total & Sup) Final\r\n\n\nChromatin sample - 250 -\r\n\n\n10× NEBuffer#1 10 28 1×\r\n\n\nWater 89 - -\r\n\n\n100U/µL Exonuclease III 1 1 100U\r\n\n\n Incubate for 5 min at 37°C."
+            },
+            {
+                "title": "3)",
+                "body": "Reverse crosslinking\r\n\n\n Add 20X proteinase K to 1× final concentration.\r\n\n\n Incubate for overnight at 55°C."
+            }
+        ]
+    },
+    {
+        "title": "**VIII. Dinucleosomal DNA purification**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Phenol:Chloroform:Isoamyl Alcohol extraction twice  spin at 19800xg for 10min."
+            },
+            {
+                "title": "2.",
+                "body": "Ethanol precipitation: 0.1x volume of sodium acetate and 2.5× volume of 100% ethanol  -80°C for > 1hr  spin at 19800xg for 15min at 4°C  wash pellet by 75% ethanol  spin at 19800xg for 5 min at 4°C  Air dry pellet for 10min."
+            },
+            {
+                "title": "3.",
+                "body": "Resuspend pellet in 50L of TE buffer \\(+ 1× RNase solution) and incubate for 30min at 37°C."
+            },
+            {
+                "title": "4.",
+                "body": "ZymoClean to purify DNA."
+            },
+            {
+                "title": "5.",
+                "body": "Run DNA samples on 3% Nusieve agarose DNA gel."
+            },
+            {
+                "title": "6.",
+                "body": "Size selection of the band between 250 – 350 bp."
+            },
+            {
+                "title": "7.",
+                "body": "ZymoGel purification and dissolve final product in 17µL of elution buffer."
+            },
+            {
+                "title": "8.",
+                "body": "Quantify the input DNA by Qubit."
+            }
+        ]
+    },
+    {
+        "title": "**IX. Library construction by “with-bead” method**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "End-it\r\n\n\nTotal 25µL\r\n\n\nDNA 17\r\n\n\n10× End-it buffer 2.5\r\n\n\n10× ATP 2.5\r\n\n\n10× dNTP 2.5\r\n\n\nEnd-it enzyme mix 0.5\r\n\n\n Incubate for 45 min at room temperature.\r\n\n\n 2× Ampure XP purification."
+            },
+            {
+                "title": "2)",
+                "body": "A-tailing\r\n\n\nTotal 25µL\r\n\n\nDNA 16\r\n\n\n10X Exo- Klenow buffer 2.5\r\n\n\n1mM dATP 5\r\n\n\nExo- Klenow fragment enzyme 1.5\r\n\n\n Incubate for 30min at 37°C.\r\n\n\n 2× Ampure XP purification. \\(PEG/NaCl solution: 20% PEG, 2.5M NaCl)"
+            },
+            {
+                "title": "3)",
+                "body": "Adapter ligation\r\n\n\nTotal 15µL\r\n\n\nIn-line / Indexing Adapter Ratio of Adapter:Input DNA = 10:1 – 50:1\r\n\n\nWater to total 15µL\r\n\n\n10× Fast-link DNA ligase buffer 1.5\r\n\n\n10× ATP 1.5\r\n\n\nFast-link DNA ligase 1\r\n\n\n Incubate for > 2 hr at room temperature.\r\n\n\n Add 10µL of EB to total volume 25 µL.\r\n\n\n 2× Ampure XP purification and elute DNA in 150 µL of water."
+            },
+            {
+                "title": "4)",
+                "body": "Streptavidin beads purification"
+            },
+            {
+                "title": "1.",
+                "body": "Wash 2.5 µL of beads per sample \\(100mL culture) by 1× TBW twice."
+            },
+            {
+                "title": "2.",
+                "body": "Resuspend the washed beads in 150 µL 2× BW."
+            },
+            {
+                "title": "3.",
+                "body": "Mix with 150 µL of adapter-ligated DNA sample."
+            },
+            {
+                "title": "4.",
+                "body": "Rotate for 15 min at room temperature."
+            },
+            {
+                "title": "5.",
+                "body": "Wash by 500 µL of 1× TBW twice."
+            },
+            {
+                "title": "6.",
+                "body": "Rinse by 200 µL of MBuffer#2."
+            },
+            {
+                "title": "7.",
+                "body": [
+                    "Resuspend in 15 – 20 µL of EB buffer.",
+                    {
+                        "title": "5)",
+                        "body": "On-beads PCR\r\n\n\nTotal 10µL \r\n\n\n\\(scalable)\r\n\n\nStreptavidin-Biotin-DNA sample 1\r\n\n\nWater 3.5\r\n\n\n2× KAPA HiFi Hot Start Mix 5\r\n\n\n10µM PE1 primer 0.25\r\n\n\n10µM PE2 primer 0.25\r\n\n\n\r\n\n\nDenaturation 98°C 45sec\r\n\n\n8-12 cycles 98°C 15sec\r\n\n\n 60°C 30sec\r\n\n\n 72°C 30sec\r\n\n\nExtension 72°C 1min\r\n\n\n 4°C Hold\r\n\n\n Check the size and quantity of library by DNA gel or Fragment analyzer.\r\n\n\n Size-selection of dimer size library by 3% Nusieve agarose DNA gel or 1:1 Ampure XP beads purification."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**X. Deep sequencing by Illumina PE-50**",
+        "body": []
+    }
+]

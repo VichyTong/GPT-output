@@ -1,0 +1,53 @@
+[
+    "\nThe following procedure details how to use the pySM library \\(https://github.com/alexandrovteam/pySM) to perform FDR controlled annotation. \r\n\n\n\r\n\n\n\r\n\n\n \"<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/4803/thumbnail/thefigure_workflow_detailed.png?1474008322\">See figure in Figures section.</a>\":http://www.nature.com/protocolexchange/system/uploads/4803/original/thefigure_workflow_detailed.png?1474008322\r\n\n\n\r\n\n\n\r\n\n\nThe pipeline has two core parts: Calculation of Metabolite Signal Match \\(MSM) scores for every molecular formula in a metabolite database. Reporting of molecular formula at a specified FDR\r\n\n\n\r\n\n\nInstallation",
+    {
+        "title": "1)",
+        "body": "Obtaining the code\r\n\n\na. Create a convenient directory, for example spatial_metabolomics and clone the repository into there:\r\n\n\nb. mkdir spatial_metabolomics\r\n\n\nc. cd spatial_metabolomics\r\n\n\nd. git clone https://github.com/alexandrovteam/pySM"
+    },
+    {
+        "title": "2)",
+        "body": "We recommend installing pySM and its dependencies inside a virtual environment as follows.\r\n\n\na. Next, if you have Anaconda installation of Python, follow the installation instructions Setting up a virtual environment using conda. Otherwise, follow the instructions Setting up a virtual environment using virtualenv.\r\n\n\nb. Setting up a virtual environment using conda\r\n\n\ni. Initialize and activate an 'pySM' environment with all the dependencies:\r\n\n\nii. cd pySM\r\n\n\niii. conda env create\r\n\n\niv. source activate pySM\r\n\n\nv. Install pySM package with pip:\r\n\n\nvi. pip install . -r requirements.txt\r\n\n\nc. Setting up a virtual environment using virtualenv\r\n\n\ni. Setup and activate a new virtual environment:\r\n\n\nii. pip install virtualenv\r\n\n\niii. virtualenv venv\r\n\n\niv. source venv/bin/activate\r\n\n\nv. Install pySM and dependencies with pip:\r\n\n\nvi. cd pySM\r\n\n\nvii. pip install . -r requirements.txt\r\n\n\nAnnotating a dataset"
+    },
+    {
+        "title": "1)",
+        "body": [
+            "Inputs\r\n\n\na. To process a dataset three things are needed:",
+            {
+                "title": "1.",
+                "body": "a high-resolution imaging MS dataset;"
+            },
+            {
+                "title": "2.",
+                "body": "a metabolite database"
+            },
+            {
+                "title": "3.",
+                "body": "a configuration file"
+            }
+        ]
+    },
+    {
+        "title": "2)",
+        "body": "Dataset\r\n\n\nData should be in the .imzML format. The pipeline is designed for and was tested on centroided data."
+    },
+    {
+        "title": "3)",
+        "body": "Database\r\n\n\nThe database is a CSV with columns for id, name, exact_mass, formula"
+    },
+    {
+        "title": "4)",
+        "body": "Configuration file\r\n\n\nA complete example configuration can be found here \\(https://github.com/alexandrovteam/pySM/blob/master/pySM/example/example_config.json). The following parameters should be set individually for every dataset, other parameters can generally be left at their default values\r\n\n\n\r\n\n\n\"name\":\"dataset_short_name\",\r\n\n\n\"image_generation\":\\{\r\n\n\n\"ppm\": \r\n\n\n},\r\n\n\n\"file_inputs\":\\{\r\n\n\n\"data_file\":\"/path/to/imaging_ms_dataset.imzML\",\r\n\n\n\"database_load_folder\":\"/path/to/tmp_folder_for_storing_isotope_patterns\",\r\n\n\n\"results_folder\":\"/path/to/folder_for_storing_results\",\r\n\n\n\"database_file\":\"/path/to/database.csv\"\r\n\n\n},\r\n\n\n\"fdr\":\\{\r\n\n\n\"pl_adducts\":\\[\r\n\n\n\\{\"adduct\":\"+H\"},\r\n\n\n\\{\"adduct\":\"+Na\"},\r\n\n\n\\{\"adduct\":\"+K\"}\r\n\n\n],\r\n\n\n},\r\n\n\n\"isotope_generation\":\\{\r\n\n\n\"charge\":\\[\r\n\n\n\\{\"polarity\":\"+\", \"n_charges\":1}\r\n\n\n],\r\n\n\n\"isocalc_sig\":0.01,\r\n\n\na. name: a short name for the dataset, if \"name\":\"\" the imzml filename will be used\r\n\n\nb. ppm: the m/z window for ion images\r\n\n\nc. file_inputs: path for loading data/storing results\r\n\n\nd. fdr: false discovery rate properties\r\n\n\ne. pl_adducts: real adducts to search for\r\n\n\nf. isotope_generation:\r\n\n\ng. charge: polarity and charge state to search for \\(the pipeline currently only supports one charge state at a time). e.g. for negative mode singly charged use \"charge\":\\[ \\{\"polarity\":\"-\", \"n_charges\":1} ],\r\n\n\nh. isocalc_sig: peaks are predicted with a gaussian shape. This parameter is the sigma parameter. sigma = FWHM/2.3548.\r\n\n\ni. isocalc_resoultion is not mass spectral resolution, it is the digitisation rate of the isotope patterns"
+    },
+    {
+        "title": "5)",
+        "body": "Calculating MSM Scores\r\n\n\na. The spatial_metabolomics module runs the pipeline for calculating MSM scores. To calculate MSM scores for a whole dataset and database simply pass the configuration file to the run_pipeline function:\r\n\n\nfrom pySM import spatial_metabolomics\r\n\n\njson_filename = '/path/to/config.json'\r\n\n\nspatial_metabolomics.run_pipeline\\(json_filename)"
+    },
+    {
+        "title": "6)",
+        "body": "This will then write the MSM score for every combination of molecular formula and target adduct found in the metabolite database to a text file in the \"results_folder\" specified in the config file. Additionally a randomly selected set of decoy adducts will be chosen for , and their MSM scores calculated. \\(The number of decoy adducts is controlled by the config parameter fdr\\n_im)."
+    },
+    {
+        "title": "7)",
+        "body": "Reporting FDR\r\n\n\na. The main use of FDR control is to report which molecular formulas are annotated at a fixed FDR. This uses the results file generated by spatial_metabolomics.run_pipeline and the target and decoy adducts specified in the configuration file.\r\n\n\n\r\n\n\nfrom  pySM import spatial_metabolomics, fdr_measures\r\n\n\njson_filename = '/path/to/config.json'\r\n\n\nresults_fname = spatial_metabolomics.generate_output_filename\\(spatial_metabolomics.get_variables\\(json_filename),\\[],'spatial_all_adducts')\r\n\n\ntarget_adducts,decoy_adducts = fdr_measures.get_adducts\\(json_filename)\r\n\n\nfdr = fdr_measures.decoy_adducts\\(results_fname,target_adducts,decoy_adducts)\r\n\n\nb. To print a list of molecular-formula for each target adduct that have an MSM score which results in an FDR of less than fdr_target.\r\n\n\nfdr_target=0.1\r\n\n\nprint fdr.decoy_adducts_get_pass_list\\(fdr_target,n_reps=20,col='msm')"
+    }
+]

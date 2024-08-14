@@ -1,0 +1,208 @@
+[
+    {
+        "title": "**1) Process Raw Data**",
+        "body": "The input file for COHCAP is a table of beta values.  Users should typically be able to produce this table using Genome Studio.  Click \"here\":https://docs.google.com/uc?id=0B1xpw6_kQMKuVm1kS3V6dlJBbmc&export=download&revid=0B1xpw6_kQMKuQ25yS0RDQ3JlYWNKTEk0THRGZmxQQjVGTU40PQ for more detailed instructions on using this strategy.  The main benefit to using this input file format is that any sort of pre-processing can be preformed upstream of COHCAP.\r\n\n\n\r\n\n\nAlthough users can almost always find data matrices with beta values, it may not always be possible to find raw .idat files in the precise format that can be processed using Genome Studio.  To avoid this need, this protocol will use the _minfi_ package for pre-processing.\r\n\n\n\r\n\n\nThe cell line data set used in the COHCAP publication will be used as an example for this protocol."
+    },
+    {
+        "title": "**1a) Download raw data**",
+        "body": ": Because the \"GEO entry\":http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42308 doesn't provide raw .idat files, please download the data from this link: \"http://sourceforge.net/projects/cohcap/files/Protocol_Exchange_Example.zip/download\":http://sourceforge.net/projects/cohcap/files/Protocol_Exchange_Example.zip/download\r\n\n\n\r\n\n\nPlease note that this file also provides a template for running this protocol as well as the benchmarks described in the introduction."
+    },
+    {
+        "title": "**1b) Run minfi to create COHCAP input file**",
+        "body": "First, open R.\r\n\n\n\r\n\n\nNext, set the working directory to the extracted \"Protocol_Exchange_Example\" folder.  This can be accomplished using the"
+    },
+    {
+        "title": "**setwd\\()**",
+        "body": "command in R.  The template script assumes that the .zip file has been extracted on the Desktop of a Windows computer \\(but it still requires some modification to the file path to work on your own computer).\r\n\n\n\r\n\n\nUsing the example data set, run the following code:"
+    },
+    {
+        "title": "**==== start code====**",
+        "body": []
+    },
+    {
+        "title": "**library\\(minfi)**",
+        "body": []
+    },
+    {
+        "title": "**idat.folder <- \"5958154021\"**",
+        "body": []
+    },
+    {
+        "title": "**RG.raw <- read.450k.exp\\(idat.folder)**",
+        "body": []
+    },
+    {
+        "title": "**methyl.norm <- preprocessIllumina\\(RG.raw, bg.correct = TRUE, normalize = \"controls\")**",
+        "body": []
+    },
+    {
+        "title": "**beta.table <- getBeta\\(methyl.norm)**",
+        "body": []
+    },
+    {
+        "title": "**probes <- rownames\\(beta.table)**",
+        "body": []
+    },
+    {
+        "title": "**output.table <- data.frame\\(SiteID=probes, beta.table)**",
+        "body": []
+    },
+    {
+        "title": "**beta.file <- \"minfi.txt\"**",
+        "body": []
+    },
+    {
+        "title": "**write.table\\(output.table, file=beta.file, sep=\"\\t\", quote=F, row.names=F)**",
+        "body": []
+    },
+    {
+        "title": "**====end code====**",
+        "body": "The purpose of the code above is to create a text file \\(minfi.txt) that will be used as the input file for COHCAP."
+    },
+    {
+        "title": "**2) Annotation and Quality Control**",
+        "body": []
+    },
+    {
+        "title": "**==== start code====**",
+        "body": []
+    },
+    {
+        "title": "**library\\(COHCAP)**",
+        "body": []
+    },
+    {
+        "title": "**sample.file <- \"COHCAP_sample_description.txt\"**",
+        "body": []
+    },
+    {
+        "title": "**project.folder <- getwd\\()**",
+        "body": []
+    },
+    {
+        "title": "**project.name <- \"COHCAP_450k_Protocol_Exchange\"**",
+        "body": []
+    },
+    {
+        "title": "**beta.table <- COHCAP.annotate\\(beta.file, project.name, project.folder, platform=\"450k-UCSC\")**",
+        "body": []
+    },
+    {
+        "title": "**COHCAP.qc\\(sample.file, beta.table, project.name, project.folder)**",
+        "body": []
+    },
+    {
+        "title": "**====end code====**",
+        "body": [
+            "The above code should produce a table of annotated beta values in the \"Raw_Data\" folder as well as  the following quality control files in the \"QC\" folder:",
+            {
+                "title": "2a)",
+                "body": "\"COHCAP_450k_Protocol_Exchange_cluster.pdf\":http://www.nature.com/protocolexchange/system/uploads/2961/original/COHCAP_450k_Protocol_Express_cluster.jpg?1390603806 : allows user to see if samples within the same group cluster together\r\n\n\n\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/protocols/2965/uploads/2961\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/2961/original/COHCAP_450k_Protocol_Express_cluster.jpg?1390603806\" width=\"90%\"> </a>\r\n\n\n\r\n\n\n2b)"
+            }
+        ]
+    },
+    {
+        "title": "**COHCAP_450k_Protocol_Exchange_descriptive statistics.txt**",
+        "body": [
+            ": contains minimum, maximum, median and 25th/75th percentile beta values; intented to complement the sample histogram",
+            {
+                "title": "2c)",
+                "body": "\"COHCAP_450k_Protocol_Exchange_hist.pdf\":http://www.nature.com/protocolexchange/system/uploads/2963/original/COHCAP_450k_Protocol_Express_hist.jpg?1390603831 : allows use to see if any samples appear to have an abnormal beta distribution \\(in which case, we would recommend those samples should be removed as outliers); the descriptive statistics file can help users identify the specific outliers\\(s)\r\n\n\n\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/protocols/2965/uploads/2963\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/2963/original/COHCAP_450k_Protocol_Express_hist.jpg?1390603831\" width=\"90%\"> </a>"
+            },
+            {
+                "title": "2d)",
+                "body": "\"COHCAP_450k_Protocol_Exchange_pca.pdf\":http://www.nature.com/protocolexchange/system/uploads/2965/original/COHCAP_450k_Protocol_Express_pca.jpg?1390603854 : allows user to see if samples within the same group cluster together\r\n\n\n\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/protocols/2965/uploads/2965\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/2965/original/COHCAP_450k_Protocol_Express_pca.jpg?1390603854\" width=\"90%\"> </a>\r\n\n\n\r\n\n\n2e)"
+            }
+        ]
+    },
+    {
+        "title": "**COHCAP_450k_Protocol_Exchange_pca.txt**",
+        "body": ": includes all principal components, allowing use to produce additional figures it they are not satisfied with the default 2D PCA plot"
+    },
+    {
+        "title": "**3) CpG Site Analysis**",
+        "body": []
+    },
+    {
+        "title": "**==== start code====**",
+        "body": []
+    },
+    {
+        "title": "**filtered.sites <- COHCAP.site\\(sample.file, beta.table, project.name, project.folder, ref=\"parental\")**",
+        "body": []
+    },
+    {
+        "title": "**====end code====**",
+        "body": "The code produces the following files:\r\n\n\n\r\n\n\n3a)"
+    },
+    {
+        "title": "**COHCAP_450k_Protocol_Exchange_CpG_site_filter.xlsx**",
+        "body": ": table of differentially methylated CpG sites\r\n\n\n\r\n\n\n3b)"
+    },
+    {
+        "title": "**COHCAP_450k_Protocol_Exchange_wig**",
+        "body": "folder: contains .wig files for visualization using IGV or the UCSC Genome Browser\r\n\n\n\r\n\n\nVisualizing these files will be described in the next section, but you can at least confirm the following files have been created:"
+    },
+    {
+        "title": "**mutant.avg.beta.wig**",
+        "body": ": average beta values per CpG site across all samples in the \"mutant\" group"
+    },
+    {
+        "title": "**mutant.vs.parental.delta.beta.wig**",
+        "body": ": average delta beta values per CpG sites for the average beta across all samples in the \"mutant\" group subtracted by the average beta across all samples in the \"parental\" group"
+    },
+    {
+        "title": "**parental.avg.beta.wig**",
+        "body": ":average beta values per CpG site across all samples in the \"parental\" group"
+    },
+    {
+        "title": "**4) CpG Island Analysis**",
+        "body": []
+    },
+    {
+        "title": "**==== start code====**",
+        "body": []
+    },
+    {
+        "title": "**filtered.islands <- COHCAP.avg.by.island\\(sample.file, filtered.sites, beta.table, project.name, project.folder, ref=\"parental\")**",
+        "body": []
+    },
+    {
+        "title": "**====end code====**",
+        "body": "The code produces the following files:\r\n\n\n\r\n\n\n4a)"
+    },
+    {
+        "title": "**COHCAP_450k_Protocol_Exchange_CpG_island_filtered-Avg_by_Island.xlsx**",
+        "body": ": statistics for differentially methylated CpG islands\r\n\n\n\r\n\n\n4b)"
+    },
+    {
+        "title": "**COHCAP_450k_Protocol_Exchange_Box_Plots**",
+        "body": ": folder containing box-plots for differentially methylated CpG islands.  For example, the box-plot for chr18:55862653-55862873 \\(mapped to gene NEDD4L, corresponding to the file \"NEDD4L_chr18_55862653_55862873.pdf\":http://www.nature.com/protocolexchange/system/uploads/2967/original/NEDD4L_chr18_55862653_55862873.jpg?1390852235 ) is shown below:\r\n\n\n\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/protocols/2965/uploads/2967\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/2967/original/NEDD4L_chr18_55862653_55862873.jpg?1390852235\" width=\"90%\"> </a>\r\n\n\n\r\n\n\nThis CpG island will be used as an example to demonstrate how you can use the .wig files \\(in the \"CpG_Site\" folder) to visualize methylation patterns anywhere in the genome."
+    },
+    {
+        "title": "**Visualizing CpG Site Methylation via IGV<sup>8</sup> \\(Optional)**",
+        "body": "Step #1) Download IGV: \"http://www.broadinstitute.org/software/igv/download\":http://www.broadinstitute.org/software/igv/download\r\n\n\n\r\n\n\nStep #2) Open IGV\r\n\n\n\r\n\n\nStep #3) Make sure the genome reference is set to hg19\r\n\n\n\r\n\n\nStep #4) Import the .wig files using \"File --> Load from File\".  If desired, you can also load other tracks \\(such as CpG Islands) the same way.\r\n\n\n\r\n\n\nStep #5) Enter the desired region of interest \\(can be coordinates in the form chrA:pos1-pos2 or a gene symbol).  As an example, we will visualize the regions summarized in the box plot above \\(chr18:55862653-55862873)\r\n\n\n\r\n\n\nStep #6) To make visulization easier, you may wish to expand the tracks by doing to \"Tracks --> Fit Data to Window\"\r\n\n\n\r\n\n\nStep #7) At any time, you can export a screenshot of what you view in IGV using \"File --> Save Image\".  Here is a screenshot for the region listed above \\(also see \"Figure 7\":http://www.nature.com/protocolexchange/system/uploads/2969/original/IGV_chr18_55862653_55862873.png?1390853127 ):\r\n\n\n\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/protocols/2965/uploads/2969\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/2969/original/IGV_chr18_55862653_55862873.png?1390853127\" width=\"90%\"> </a>"
+    },
+    {
+        "title": "**Visualizing CpG Site Methylation via UCSC Genome Browser<sup>9</sup> \\(Optional)**",
+        "body": "Step #1) Go to the UCSC Genome Browser web portal: \"http://genome.ucsc.edu/cgi-bin/hgGateway\":http://genome.ucsc.edu/cgi-bin/hgGateway\r\n\n\n\r\n\n\nMake sure you are using hg19 as your human reference sequence.\r\n\n\n\r\n\n\nStep #2) Click the button for \"add custom tracks\"\r\n\n\n\r\n\n\nStep #3) Upload your .wig files by clicking \"Select File\" and then \"Submit\".  This will need to be done separately for each .wig file.  Keep clicking \"add custom tracks\" until all necessary files are uploaded.\r\n\n\n\r\n\n\nUnlike IGV, you do not need to do anything special to upload tracks like the UCSC CpG Island locations.\r\n\n\n\r\n\n\nStep #4) Once all of the .wig files are uploaded, click \"go to genome browser\"\r\n\n\n\r\n\n\nStep #5) Enter the desired region of interest \\(can be coordinates in the form chrA:pos1-pos2 or a gene symbol).  As an example, we will visualize the regions summarized in the box plot above \\(chr18:55862653-55862873)\r\n\n\n\r\n\n\nStep #6) The UCSC Genome Browser contains a lot of tracks to compare to your differentially methylated region.  You can add tracks \\(listed below the genome view) by setting the pull-down value to anything except \"hide\" and clicking \"refresh\".  For example, the UCSC CpG Islands track is in the \"Regulation\" section \\(and likely not set to be viewed by default)\r\n\n\n\r\n\n\nStep #7) If you wish to view your genomic region more clearly, right-click on the image and select \"View Image\".  This will open up a new window with a .png image that can be saved.  For example, see a screenshot of the region below \\(also see \"Figure 8\":http://www.nature.com/protocolexchange/system/uploads/2971/original/UCSC_chr18_55862653_55862873.png?1390854865 ):\r\n\n\n\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/protocols/2965/uploads/2971\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/2971/original/UCSC_chr18_55862653_55862873.png?1390854865\" width=\"90%\"> </a>\r\n\n\n\r\n\n\nThis region was selected because it was falsely identified by all the programs presented in \"Table 2\":http://www.nature.com/protocolexchange/system/uploads/2957/original/Table_2.jpg?1390347459 . As you can see from the figures above \\(and \"Supplemental Figure S7\":http://nar.oxfordjournals.org/content/suppl/2013/03/27/gkt242.DC1/nar-03334-met-n-2012-File006.pdf from the original COHCAP paper), visual inspection would likely confirm this region as a reasonable candidate.  Nevertheless, the are some additional criteria that could be applied that would exclude this region:"
+    },
+    {
+        "title": "**Possible Criteria #1**",
+        "body": ": Filter based upon genomic region.  This is an intronic CpG island.  If visualization of the CpG island shows no overlap with the gene promoter, this candidate may be less interesting \\(although, strictly speaking, there isn't a technical reason why this region shouldn't validate successfully)"
+    },
+    {
+        "title": "**Possible Criteria #2**",
+        "body": [
+            ": Increase the minimum number of CpG sites per island \\(default =",
+            {
+                "title": "4).",
+                "body": "A more densely covered region may be less likely to show contradictory results due to lack of consistent methylation changes at all possible CpG sites \\(not just the ones included on the 450k array)."
+            }
+        ]
+    },
+    {
+        "title": "**In all cases, it is strongly recommended that you visualize your .wig files to identify the optimal start and stop coordinates for your differentially methylated region.**",
+        "body": "The optimal boundaries often do not exactly correspond to the start and stop coordinates for the official CpG island \\(which is how the region is defined in COHCAP, even the CpG shores for a given CpG island)."
+    }
+]

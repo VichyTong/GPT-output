@@ -1,0 +1,26 @@
+[
+    {
+        "index": 59,
+        "string": "</strong>Inhibition of TYMS was measured as previously described<sup>76</sup>.",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the method or procedure used to measure the inhibition of TYMS, which is described in a previous source (reference 76)."
+    },
+    {
+        "index": 65,
+        "string": "</strong>Inhibition of SHMT1 and SHMT2 was measured as previously described<sup>77</sup>.",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the method or procedure used to measure the inhibition of SHMT1 and SHMT2."
+    },
+    {
+        "index": 216,
+        "string": "Formate extraction, derivatization, and quantification was performed using GC-MS analysis as previously described<sup>28</sup>.",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the method of formate extraction, derivatization, and quantification using GC-MS analysis."
+    },
+    {
+        "index": 223,
+        "string": "Next, the DNA samples were hydrolyzed and dephosphorylated to single nucleosides as previously described (Galashevskaya, A. et al.&nbsp;DNA Repair.",
+        "phrase": "as previously described",
+        "refer": "as previously described refers to the method of hydrolyzing and dephosphorylating the DNA samples to single nucleosides."
+    }
+]

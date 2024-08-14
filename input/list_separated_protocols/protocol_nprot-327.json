@@ -1,0 +1,126 @@
+[
+    {
+        "title": "1|",
+        "body": "Crosslink protein/DNA by adding 37% \\(54 µl) formaldehyde to 2ml of media"
+    },
+    {
+        "title": "2|",
+        "body": "Shake gently to mix and then incubate at room temperature for 10 min."
+    },
+    {
+        "title": "3|",
+        "body": "Add 10X Glycine solution \\(200 µl) to quench unreacted formaldehyde"
+    },
+    {
+        "title": "4|",
+        "body": "Mix gently and incubate at room temperature for 5 min."
+    },
+    {
+        "title": "5|",
+        "body": "Remove medium and wash with cold PBS \\(2X)"
+    },
+    {
+        "title": "6|",
+        "body": "Add 0.1ml PBS containing protease inhibitor cocktail"
+    },
+    {
+        "title": "7|",
+        "body": "Collect cells, centrifuge at 700xg for 3 min at 4 <sup>o</sup>C and discard supernatant"
+    },
+    {
+        "title": "8|",
+        "body": "Resuspend cell pellet in 200μl lysis buffer containing protease inhibitor cocktail."
+    },
+    {
+        "title": "9|",
+        "body": "Sonicate cell lysate on ice for 4 second 3 times"
+    },
+    {
+        "title": "10|",
+        "body": "Centrifuge at 14,000 rpm at 4 <sup>0</sup>C for 10 min and transfer supernatant \\(~100 μl) to fresh tube"
+    },
+    {
+        "title": "11|",
+        "body": "Add 900 μl of dilution buffer containing protease inhibitor cocktail"
+    },
+    {
+        "title": "12|",
+        "body": "Add 60 μl of protein G agarose and incubate for 1 hr at 4 0C with rotation"
+    },
+    {
+        "title": "13|",
+        "body": "Centrifuge at 3000g for 1 min and collect supernatant into fresh tube"
+    },
+    {
+        "title": "14|",
+        "body": "Add 4μg of anti STAT1 antibody and incubate overnight at 4 0C with rotation"
+    },
+    {
+        "title": "15|",
+        "body": "Add 60 μl of protein G agarose for 1 hr at 4 <sup>0</sup>C with rotation"
+    },
+    {
+        "title": "16|",
+        "body": "Centrifuge at 3000X g for 1 min and remove supernatant"
+    },
+    {
+        "title": "17|",
+        "body": "Wash pellet with low salt wash buffer, high salt wash buffer, LiCl immune complex wash buffer and finally TE buffer"
+    },
+    {
+        "title": "18|",
+        "body": "Add 100 μl of elution buffer and mix gently"
+    },
+    {
+        "title": "19|",
+        "body": "Incubate at room temperature for 15 min"
+    },
+    {
+        "title": "20|",
+        "body": "Centrifuge at 3000 x g for 1 min and collect supernatant into new tube"
+    },
+    {
+        "title": "21|",
+        "body": "Repeat step 19 to 21 and combine supernatant"
+    },
+    {
+        "title": "22|",
+        "body": "Add 8ul 5M NaCl and incubate at 65 <sup>o</sup>C for 5 hrs"
+    },
+    {
+        "title": "23|",
+        "body": "Add 1ul of RNase A and incubate for 30 min at 37 <sup>o</sup>C"
+    },
+    {
+        "title": "24|",
+        "body": "Add 4ul 0.5M EDTA, 8ul 1M Tris-HCl and 1ul Proteinase K and incubate at 45oC for 2 hrs"
+    },
+    {
+        "title": "25|",
+        "body": "Add 1ml of bind reagent A to each tube and mix well"
+    },
+    {
+        "title": "26|",
+        "body": "Transfer 600 μl of mixture to spin filter in collection tube and centrifuge at 14,000 g for 30 second"
+    },
+    {
+        "title": "27|",
+        "body": "Discard liquid in collection tube and put the spin filter back into same collection tube"
+    },
+    {
+        "title": "28|",
+        "body": "Transfer the remaining 600 μl of mixture to spin filter and centrifuge at 14,000 g for 30 second"
+    },
+    {
+        "title": "29|",
+        "body": "Remove the liquid in collection tube and add 500 μl of wash reagent B to the spin filter in collection tube"
+    },
+    {
+        "title": "30|",
+        "body": "Put the spin filter into new collection tube and add 50 μl of elution buffer to the spin filter"
+    },
+    {
+        "title": "31|",
+        "body": "Centrifuge at 14,000 x g for 30 second and save eluate for PCR"
+    }
+]

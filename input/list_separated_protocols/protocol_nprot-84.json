@@ -1,0 +1,70 @@
+[
+    {
+        "title": "**Neuron transfection**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transfect cultured neurons with a form of NGL-2 in which EGFP was tagged to the N terminus \\(EGFP-NGL-2) at DIV 14, and incubate for 2 days."
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of EGFP antibody-coated beads**",
+        "body": [
+            {
+                "title": "2.",
+                "body": "Mix 5 μg of biotin-conjugated EGFP antibodies \\(Rockland) and 2 μL of neutravidin-conjugated FluoSphere beads \\(Molecular Probes; 1 μm diameter), and incubate for 1 h."
+            },
+            {
+                "title": "3.",
+                "body": "Increase the volume of the mixture to 1 mL by adding Hank’s balanced salt solution \\(HBSS), and centrifuge at 13,000 rpm for 1 min in a microcentrifuge."
+            },
+            {
+                "title": "4.",
+                "body": "Carefully remove the supernatant, and resuspend the precipitates in 100 μL of conditioned media where neurons were growing."
+            }
+        ]
+    },
+    {
+        "title": "**Bead-induced aggregation of NGL-2**",
+        "body": [
+            {
+                "title": "5.",
+                "body": "Place the coverslips containing transfected neurons \\(DIV16) face-up on 6-well \\(or larger) dishes. Save the conditioned media for Step"
+            },
+            {
+                "title": "7.",
+                "body": ""
+            },
+            {
+                "title": "6.",
+                "body": "Add 100 μL of the resuspended beads onto the neurons and incubate at 37 <sup>o</sup>C for 30 min."
+            },
+            {
+                "title": "7.",
+                "body": "Wash the neurons twice with HBSS, and place the coverslip back into the culture media."
+            },
+            {
+                "title": "8.",
+                "body": "After 24 h of incubation, fix and immunostain the neurons with primary antibodies against various synaptic proteins and fluorophore-conjugated secondary antibodies."
+            }
+        ]
+    },
+    {
+        "title": "**Image acquisition and quantitation**",
+        "body": [
+            {
+                "title": "9.",
+                "body": "Capture Z-stacked images by confocal immunofluorescence microscopy as well as DIC imaging."
+            },
+            {
+                "title": "10.",
+                "body": "For quantitation, manually trace the boundaries of the beads. Copy a boundary to a nearby dendritic area for normalization."
+            },
+            {
+                "title": "11.",
+                "body": "An average immunofluorescence intensity of a synaptic marker from a bead area was measured and normalized to that from a nearby control area."
+            }
+        ]
+    }
+]

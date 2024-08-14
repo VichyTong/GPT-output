@@ -1,0 +1,50 @@
+[
+    {
+        "title": "1)",
+        "body": "Amplify a pUC fragment containing the bacterial origin of replication and the kanamycin resistance marker by PCR from PCR-BluntII-TOPO \\(Invitrogen, Carlsbad, CA) and ligate with a PvuII fragment of pDRf1 containing the f1 origin of replication, the PMA1 promoter and ADH3 terminator producing pDL001."
+    },
+    {
+        "title": "2)",
+        "body": "Subclone a synthetic oligonucleotide containing 55 bp upstream of the start \\(-55 to"
+    },
+    {
+        "title": "0)",
+        "body": "and 55 bp downstream of the stop \\(+1810 to 1865) of Gap1 ORF with HpaI and AscI restriction sites into pGEM-T-easy."
+    },
+    {
+        "title": "3)",
+        "body": "Amplify the hphMX3 cassette \\(for hygromycin B selection in yeast) by PCR from pAG34<sup>1</sup> and clone into the SpeI site located in the 5’-part of the Gap1 cassette."
+    },
+    {
+        "title": "4)",
+        "body": "Amplify this cassette by PCR and clone into a blunted BglII of pDL001."
+    },
+    {
+        "title": "5)",
+        "body": "Subclone AtAMT1;1, AtAMT1;1-T460A and AtAMT1;1-eGFP from pDR vectors into the KpnI site of the Gap1 integrative plasmid."
+    },
+    {
+        "title": "6)",
+        "body": "Use the yeast strain 31019b \\(∆::LEU2 ::KanMX2 ura3; see reference"
+    },
+    {
+        "title": "2)",
+        "body": "to generate DL1 \\( Δ Δ) mutant strain and the versions in which AtAMT1;1 or its mutants are integrated."
+    },
+    {
+        "title": "7)",
+        "body": "Transform yeast strain 31019b using a LiAc protocol<sup>\\(3)</sup> with an AscI linearized Gap1 integrative vector containing either AtAMT1;1, AtAMT1;1-T460A, AtAMT1;1-eGFP or the empty vector, to generate gap1::WT, gap1::T460A, gap1::AMT1;1-eGFP or Δgap1 strains respectively."
+    },
+    {
+        "title": "8)",
+        "body": "Select transformants on solid YPD medium supplemented with 300 µg/mL hygromycin."
+    },
+    {
+        "title": "9)",
+        "body": "Amplify colonies in liquid YPD and reselect on solid YPD supplemented with 300 µg/mL hygromycin."
+    },
+    {
+        "title": "10)",
+        "body": "Confirm the insertion at the Gap1 locus by PCR and by complementation of functional proteins."
+    }
+]

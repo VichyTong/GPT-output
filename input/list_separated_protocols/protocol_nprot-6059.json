@@ -1,0 +1,288 @@
+[
+    {
+        "title": "**A. Hydration of a Seahorse XF<sup>e</sup>24 sensor cartridge**",
+        "body": "Add 1.0 ml of XF calibrant solution to each well of a 24-well utility plate, cover the utility plate with the hydro-booster \\(pink spacer), and then place the sensor cartridge in the utility plate. Finally, cover the sensor cartridge with the lid. Place the sensor cartridge in a 25°C incubator to hydrate over 12 hrs."
+    },
+    {
+        "title": "**Tip:**",
+        "body": "The sensor cartridge should be hydrated at least 12 hrs before use. In our case, we allowed the sensor cartridge to hydrate overnight \\(approximately 16 hrs)."
+    },
+    {
+        "title": "**B. Preparation of Cell-Tak-coated microplates**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare 1.5 ml of Cell-Tak solution by dissolving 33.8 µg of Cell-Tak in the appropriate volume of 0.1 M sodium bicarbonate \\(pH 8.0), and immediately add 1 M sodium hydroxide at half the volume of Cell-Tak stock solution \\(in 5% acetic acid) used to prepare a final volume of 1.5-ml solution."
+            }
+        ]
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "The concentration of Cell-Tak stock solution may vary in each lot.　We mixed 16.55 µl of Cell-Tak stock solution \\(2.03 mg/ml in 5% acetic acid) with 1.475 ml of sodium bicarbonate \\(0.1 M, pH 8.0) and immediately added 8.275 µl sodium hydroxide \\(1 M) to adjust the pH to approximately 8.0.",
+            {
+                "title": "2.",
+                "body": "Apply 50 µl of the Cell-Tak solution to each well of the XF<sup>e</sup>24 cell culture microplates and incubate them at RT for 20 min."
+            },
+            {
+                "title": "3.",
+                "body": "Aspirate the Cell-Tak solution and rinse each well twice using 200 µl of sterile water."
+            }
+        ]
+    },
+    {
+        "title": "**Tip:**",
+        "body": "The Cell-Tak-coated-XF<sup>e</sup>24 cell culture microplates may be stored for up 1 week at 4˚C."
+    },
+    {
+        "title": "**C. Embryonic cell preparation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Put male and female flies in a fly embryo-collecting container set on a grape juice agar dish with a yeast chunk in the center \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1a and 2a, b**",
+        "body": ") in the afternoon \\(e.g., 2 pm)."
+    },
+    {
+        "title": "**Tip:**",
+        "body": [
+            "Use young flies at the age of 3-7 days post eclosion to obtain enough eggs, and the peak of egg-laying will come approximately 5-7 days after mating. Mating can be done either in a fly bottle or in the embryo-collecting container.",
+            {
+                "title": "2.",
+                "body": "Replace the grape juice agar dish with a new one without the yeast chunk by turning the container upside down and mildly anesthetizing the flies with CO<sup>2</sup>. Culture the flies in a cooled incubator set at 25˚C for 1 hr to collect the embryos."
+            },
+            {
+                "title": "3.",
+                "body": "Remove the grape juice agar dish with the eggs from the container, and further incubate the eggs on the dish at 25˚C for 2 hrs."
+            },
+            {
+                "title": "4.",
+                "body": "Prepare Schneider's _Drosophila_ medium containing 5% FBS and 40% bleach in water just before use, and keep both at 4˚C. Chill an autoclaved Dounce tissue homogenizer with a loose pestle on ice."
+            },
+            {
+                "title": "5.",
+                "body": "Take the eggs \\(embryos) on the dish out of the incubator and rinse the dish with the embryo washing buffer. Collect the embryos from the dish with a cotton swab \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1b and 2c**",
+        "body": ") and the embryo washing buffer. Transfer the embryo suspension into a sterilized 1.5-ml tube using a 1-ml plastic pipette."
+    },
+    {
+        "title": "**Tip:**",
+        "body": [
+            "Cut off the tip of a 1-ml plastic pipette with scissors for embryo transfer without damage.",
+            {
+                "title": "6.",
+                "body": "Wash the embryos in the 1.5-ml tube several times with the embryo washing buffer and another couple of times with sterilized water \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1c**",
+        "body": ")."
+    },
+    {
+        "title": "**Tip:**",
+        "body": [
+            "Centrifugation is not required. The embryos settle quickly.",
+            {
+                "title": "7.",
+                "body": "Dechorionate the embryos with 1 ml of 40% bleach for 2 min \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1c and 2d**",
+        "body": ")."
+    },
+    {
+        "title": "**Tip:**",
+        "body": [
+            "Longer incubations reduce cell viability.",
+            {
+                "title": "8.",
+                "body": "Remove the bleach immediately."
+            },
+            {
+                "title": "9.",
+                "body": "Rinse the embryos with 1 ml of 5% FBS/Schneider's _Drosophila_ medium 4 times."
+            }
+        ]
+    },
+    {
+        "title": "**Tip:**",
+        "body": [
+            "Centrifugation is not required. The embryos settle quickly.",
+            {
+                "title": "10.",
+                "body": "Resuspend the embryos in 1 ml of 5% FBS/Schneider's _Drosophila_ medium, and transfer into an autoclaved Dounce tissue homogenizer \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1d and 2e**",
+        "body": [
+            ").",
+            {
+                "title": "11.",
+                "body": "Move the Dounce pestle slowly up and down 10-12 times \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1d and 2e**",
+        "body": [
+            ").",
+            {
+                "title": "12.",
+                "body": "Filter the homogenized embryos into a sterilized 50-ml tube through a 40-µm cell strainer \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1e and 2f**",
+        "body": [
+            ").",
+            {
+                "title": "13.",
+                "body": "Transfer the filtered homogenized solution into a sterilized 1.5 ml tube, and spin down embryonic cells at 1,000 g for 3 min at 4˚C."
+            },
+            {
+                "title": "14.",
+                "body": "Remove the supernatant carefully, resuspend the cell pellet using 1.0 ml of 5% FBS/Schneider's _Drosophila_ medium, and spin down at 1,000 g for 3 min at 4˚C."
+            },
+            {
+                "title": "15.",
+                "body": "Repeat step 13 two or three more times to remove debris. Suspend the cells with 210 µl of serum-free Schneider's _Drosophila_ medium and count the cell number using 10 µl of the cell suspension \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1f and 2g-i**",
+        "body": [
+            ").",
+            {
+                "title": "16.",
+                "body": "Resuspend the cells in an appropriate volume of serum-free Schneider's _Drosophila_ medium kept at RT to achieve the desired cell density per well \\(Best results were obtained in 0.8-1.6 x10<sup>5</sup> cells per well \\(See"
+            }
+        ]
+    },
+    {
+        "title": "**Figure 4**",
+        "body": "). Resuspend cells at a concentration of 0.8 x 10<sup>6</sup> to 1.6 x 10<sup>6</sup> cells/ml)."
+    },
+    {
+        "title": "**Note:**",
+        "body": "We prepared approximately 600 µl of cell suspension from 1,200 eggs for 6-well plating."
+    },
+    {
+        "title": "**D. Loading of compounds and calibration of the cartridge sensor**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Take the sensor cartridge out of the 25˚C incubator."
+            },
+            {
+                "title": "2.",
+                "body": "Apply the appropriate volume of the compounds to the sensor cartridge ports \\(see"
+            }
+        ]
+    },
+    {
+        "title": "**Table 1**",
+        "body": [
+            ").",
+            {
+                "title": "3.",
+                "body": "Remove the lid and hydro-booster, assemble the sensor cartridge and the utility plate again, and load it into the Seahorse Analyzer’s tray. Then, start the calibration of the sensor cartridge."
+            }
+        ]
+    },
+    {
+        "title": "**Tip:**",
+        "body": "The calibration process takes approximately 20 min. Proceed to the next steps."
+    },
+    {
+        "title": "**E. OCR and ECAR analysis**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Add 100 µl of serum-free Schneider's _Drosophila_ medium to all wells of the Cell-Tak-coated microplate kept at RT."
+            }
+        ]
+    },
+    {
+        "title": "**Tip:**",
+        "body": [
+            "Cell-Tak-coated XF<sup>e</sup>24 Cell culture microplate must be kept at RT before cell seeding. Do not pre-incubate the serum-containing medium in Cell-Tak-coated wells, as this results in the loss of adhesion.",
+            {
+                "title": "2.",
+                "body": "Dispense 100 µl of the cell suspension from step 16 in"
+            }
+        ]
+    },
+    {
+        "title": "**C**",
+        "body": "to each sample well."
+    },
+    {
+        "title": "**Note:**",
+        "body": [
+            "We used 6 wells per line.\r\n\n\nTip: Monolayer cell adhesion on the microplate is important to measure the OCR and ECAR.",
+            {
+                "title": "3.",
+                "body": "Add 100 µl of serum-free Schneider's _Drosophila_ medium to the background/control wells."
+            },
+            {
+                "title": "4.",
+                "body": "Centrifuge the microplate at 200 g for 1 min. Do not use a braking system."
+            },
+            {
+                "title": "5.",
+                "body": "Transfer the microplate to the 25˚C incubator for 25-30 minutes to ensure the cells have completely attached."
+            },
+            {
+                "title": "6.",
+                "body": "Confirm that most of the cells have adhered to the bottom of wells using an inverted microscope \\("
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2j**",
+        "body": [
+            ").",
+            {
+                "title": "7.",
+                "body": "Slowly and gently add 400 µl of serum-free Schneider's _Drosophila_ medium along the side of each well to avoid disturbing the cells."
+            },
+            {
+                "title": "8.",
+                "body": "Further incubate the microplate in the 25˚C incubator for 15 min."
+            },
+            {
+                "title": "9.",
+                "body": "Replace the utility plate from step 3 in"
+            }
+        ]
+    },
+    {
+        "title": "**D**",
+        "body": "with the embryonic cell-seeded microplate and start the assay. Proceed to the MitoStress assay according to the manufacturer’s protocol \\("
+    },
+    {
+        "title": "**Table 2**",
+        "body": [
+            ").",
+            {
+                "title": "10.",
+                "body": "After the assay, collect the cells using a 1-ml pipette, and lyse the cell pellet using a 5-10x volume of RIPA buffer. Measure the total protein concentration using a BCA assay kit."
+            }
+        ]
+    }
+]

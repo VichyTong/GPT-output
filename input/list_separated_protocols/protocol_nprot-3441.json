@@ -1,0 +1,283 @@
+[
+    {
+        "title": "**Isolation of skin-draining lymph nodes**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Euthanize the donor mice using institution approved procedures. Clean mouse skin with 70% ethanol."
+            },
+            {
+                "title": "2.",
+                "body": "Use surgical scissors and forceps to dissect the mice from the ventral side."
+            },
+            {
+                "title": "3.",
+                "body": "Excise the inguinal, auxiliary and cervical skin-draining lymph nodes with forceps or scissors and trim away the extra fat and connective tissues."
+            },
+            {
+                "title": "4.",
+                "body": "Place the trimmed skin-draining lymph nodes into complete AR10 medium and keep on ice."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            ": Process the lymph nodes as soon as possible, prevent drying of tissues.\r\n\n\nSeparation of lymph node cells \\(LNCs) into single cell suspension",
+            {
+                "title": "5.",
+                "body": "Work in a biosafety cabinet, with aseptic techniques, fill a small petri dish with 1 mL of 1x DPBS."
+            },
+            {
+                "title": "6.",
+                "body": "Remove the lymph nodes from AR10 and transfer into DPBS to wash by brief rinsing."
+            },
+            {
+                "title": "7.",
+                "body": "In another clean petri dish, add 1 mL of fresh AR10 and place a 70 µM cell strainer in the middle of the dish."
+            },
+            {
+                "title": "8.",
+                "body": "Pick up the lymph nodes with a pair of forceps and transfer into the middle of the cell strainer."
+            },
+            {
+                "title": "9.",
+                "body": "Use the plunger end of a syringe to gently grind the lymph nodes against the cell strainer for about 5 minutes."
+            },
+            {
+                "title": "10.",
+                "body": "The culture medium will turn cloudy as the lymph nodes disintegrate, leaving a small amount of white connective tissue in the strainer."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            ": While grinding the lymph nodes, change the angle and direction often to ensure complete breakdown of the tissues to recover the maximum amount of LNCs.",
+            {
+                "title": "11.",
+                "body": "Pipette 1 mL of fresh AR10 and rinse the bottom of the cell strainer to wash the extra LNCs into the petri dish. There should be 2 mL of LNC suspension at this step."
+            },
+            {
+                "title": "12.",
+                "body": "Remove the cell strainer and transfer all of the LNC suspension into a clean 15 mL centrifuge tube."
+            },
+            {
+                "title": "13.",
+                "body": "Wash the petri dish with another 1 mL of fresh AR10 and transfer into the centrifuge tube."
+            },
+            {
+                "title": "14.",
+                "body": "Top up centrifuge tube to 10 mL with another 7 mL of fresh AR10, pipette thoroughly but gently to wash the LNC suspension."
+            },
+            {
+                "title": "15.",
+                "body": "Take out 10 µL and count the cell number with a hemocytometer and trypan blue, or use another method to count the cells."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            ": Once the total number of cells is calculated, determine how many cells will be used for expansion. 10 million cultured cells are required to inject into a single recipient; the number of cells will expand around 8-10 fold during the 6-day culture. Therefore, we initiate the culture with 2 million cells for each mouse we expect to inject to ensure we will have enough cells for the target number of cell recipients.",
+            {
+                "title": "16.",
+                "body": "Prepare complete medium AR10 with cytokines. Make enough AR10 with cytokines to resuspend the cell pellet into 2 million cells/mL."
+            },
+            {
+                "title": "17.",
+                "body": "Centrifuge the LNC suspension for 5 minutes at 350x g at room temperature."
+            },
+            {
+                "title": "18.",
+                "body": "Remove the supernatant carefully leaving the cell pellet."
+            },
+            {
+                "title": "19.",
+                "body": "Resuspend the cell pellet to 2 million cells/mL with AR10 supplemented with cytokines."
+            },
+            {
+                "title": "20.",
+                "body": "Pipette 1 mL of LNC suspension into a 24-well, non-tissue culture treated plate until desired number of wells are filled. Each single well should now have 2 million LNCs and each is expected to expand 8-10 fold after 6 days."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            ": Keeping the LNCs at a high density throughout the culturing process allows better cell-to-cell contact as well as interaction with the antibody coated magnetic beads. In pilot experiments, initiating the cell culture in a T25 flask with a larger volume of media did not yield as high cell number compared to initiating cultures in a 24-well culture plate.",
+            {
+                "title": "21.",
+                "body": "Place the 24-well plates in the 37 ºC incubator with 5% CO2."
+            },
+            {
+                "title": "22.",
+                "body": "Prepare dynabead mixture at this point, resuspend well."
+            },
+            {
+                "title": "23.",
+                "body": "Take out the 24-well plates from the incubator and add 500 µL of dynabead mixture into each well of the plate. Each well should have 2 million cells in 1.5 mL of medium supplemented with cytokine and dynabeads."
+            },
+            {
+                "title": "24.",
+                "body": "Transfer the plate back into 37 ºC incubator with 5% CO2."
+            }
+        ]
+    },
+    {
+        "title": "**Activation and expansion of LNCs**",
+        "body": [
+            {
+                "title": "25.",
+                "body": "Check the culture daily but do not disturb the LNC suspension."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            ": Clumping of LNCs with the dynabeads can be observed after 24 hours \\(Figure 2a). Do not attempt to break up the clumps as they will disappear after 48 hours.",
+            {
+                "title": "26.",
+                "body": "The LNCs will expand and cover the entire bottom of the wells after 48 hours, the color of culture medium will turn light yellow."
+            },
+            {
+                "title": "27.",
+                "body": "Split each well to two by gently resuspending the culture and pipetting 750 μL to an adjacent well. Add 750 μL of AR10 supplemented with cytokines so each well contains 1.5 mL."
+            },
+            {
+                "title": "28.",
+                "body": "After another 24 hours, combine 2x wells into 1x T25 flask and add 3 mL of AR10 supplemented with cytokines."
+            },
+            {
+                "title": "29.",
+                "body": "After another 24 hours, combine 2x T25 into 1x T75 flask and add 8 mL of AR10 supplemented with cytokines."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": ": The passaging protocol here serves as a general guideline only. The purpose is to keep the LNCs at very high density, around 1.5 to 2 million cells/mL."
+    },
+    {
+        "title": "**Preparation of expanded LNCs for injection**",
+        "body": [
+            {
+                "title": "30.",
+                "body": "Combine the LNC suspension in T75 flasks into 50 mL centrifuge tube\\(s)."
+            },
+            {
+                "title": "31.",
+                "body": "Place a clean round bottom centrifuge tube into an EasySep magnet or similar."
+            },
+            {
+                "title": "32.",
+                "body": "Transfer LNCs suspension into the centrifuge tube to a level at the same height as the magnet and let it set for 1 minute."
+            },
+            {
+                "title": "33.",
+                "body": "Gently pipette the LNC suspension from the centrifuge tube to a clean 50 mL centrifuge tube."
+            },
+            {
+                "title": "34.",
+                "body": "Repeat steps 32-33 until removal of all dynabeads from all LNC suspension has been achieved."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            ": Remember to keep the centrifuge tube inside the magnet while transferring LNC suspension to a new 50 mL falcon tube. If pipetting, do not scratch the wall of the tube as the dynabeads will come off back into the LNC suspension.",
+            {
+                "title": "35.",
+                "body": "Take 10 μL and count the number of cells with a hemocytometer."
+            },
+            {
+                "title": "36.",
+                "body": "Centrifuge the LNC suspension for 5 minutes at 350x g at room temperature."
+            },
+            {
+                "title": "37.",
+                "body": "Remove the supernatant from the LNC pellet and resuspend into 10 million cells/100 μL with sterile PBS."
+            },
+            {
+                "title": "38.",
+                "body": "Draw the resuspended LNC suspension into insulin syringe\\(s) or similar and keep on ice."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": ": It is preferable to avoid using normal syringes as there will be a small volume inside the syringe that is very difficult to eject, insulin syringes bypass this problem because syringe and needle are sealed as one unit. Inject the LNCs as soon as possible."
+    },
+    {
+        "title": "**Adoptive transfer of LNCs into naïve C3H/HeJ mice**",
+        "body": [
+            {
+                "title": "39.",
+                "body": "Anaesthetize the recipient mice using isoflurane or similar following the standardized protocols as provided by the local institution."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            ": Recipient mice must be at least 10 weeks old or they are unlikely to be susceptible to AA induction.",
+            {
+                "title": "40.",
+                "body": "Shave a small area on the lower back of the mice to expose an area of skin for intra-dermal injection."
+            },
+            {
+                "title": "41.",
+                "body": "Gently pinch up a section of the skin with a pair of blunt forceps and insert the syringe needle almost parallel to the plane of the skin pinched up by the forceps, into the dermis layer."
+            }
+        ]
+    },
+    {
+        "title": "**CRITICAL STEP**",
+        "body": [
+            ": Be careful not to go too deep or the LNCs will be injected into subcutaneous layer. Preliminary investigations revealed significantly lower success rates with subcutaneous injection \\(Figure",
+            {
+                "title": "2).",
+                "body": "<a href=\"http://www.nature.com/protocolexchange/system/uploads/3315/original/Fig3_600dpi_Label_Crop.jpg?1412288762\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/3315/thumbnail/Fig3_600dpi_Label_Crop.png?1412288762\" > </a>"
+            },
+            {
+                "title": "42.",
+                "body": "Inject 100 μL of LNC suspension slowly into the skin. A small bulge will appear at the site of injection."
+            },
+            {
+                "title": "43.",
+                "body": "Retract the syringe, but use the forceps to hold the skin for a few seconds to allow the injected LNCs to dissipate a little bit as well as to allow the injection site opening to close."
+            },
+            {
+                "title": "44.",
+                "body": "Transfer the injected mice back to their cage but take care not to press on the injection site."
+            },
+            {
+                "title": "45.",
+                "body": "Repeat steps 40-43 until all mice are injected."
+            },
+            {
+                "title": "46.",
+                "body": "The mice should recover from anaesthesia within 10 minutes."
+            }
+        ]
+    },
+    {
+        "title": "**Development of alopecia areata**",
+        "body": [
+            {
+                "title": "47.",
+                "body": "Continue to feed the mice with a low-fat diet. High fat/oil diets reduce success rates of AA transfer."
+            },
+            {
+                "title": "48.",
+                "body": "Hair at the site of injection will start to grow back after about one week due to injury induced hair growth."
+            },
+            {
+                "title": "49.",
+                "body": "Monitor the ventral side of the mice every few days as hair loss can start to develop as early as two weeks post injection and typically initially occurs away from the injection site."
+            }
+        ]
+    }
+]

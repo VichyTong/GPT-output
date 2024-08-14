@@ -1,0 +1,98 @@
+[
+    {
+        "title": "1.",
+        "body": "Collect embryos for 24h. Optional: Let them age for up to 12h at room\r\n  temperature."
+    },
+    {
+        "title": "2.",
+        "body": "Decorionate embryos for 2 minutes in 100% bleach fluid \\(2% sodium\r\n  perchloride)."
+    },
+    {
+        "title": "3.",
+        "body": "Wash embryos with 1 x PBS."
+    },
+    {
+        "title": "4.",
+        "body": "Wash embryos with 1 x PBT."
+    },
+    {
+        "title": "5.",
+        "body": "Transfer embryos into a bottle containing 1 volume of PBS and 1 volume of n-\r\n  Heptane. Use 20 ml of PBS per 1 ml of embryos. Mix by briefly shaking the\r\n\n\nbottle."
+    },
+    {
+        "title": "6.",
+        "body": "Remove PBS \\(lower phase). Leave the interphase intact."
+    },
+    {
+        "title": "7.",
+        "body": "Add 1 volume of methanol and shake vigorously by hand for 1 minute."
+    },
+    {
+        "title": "8.",
+        "body": "Remove n-heptane and interphase."
+    },
+    {
+        "title": "9.",
+        "body": "Transfer embryos into the Falcon tube \\(15ml or 50ml depending on the\r\n  sample volume) and wash twice with 1 volume of methanol."
+    },
+    {
+        "title": "10.",
+        "body": "Remove methanol."
+    },
+    {
+        "title": "11.",
+        "body": "Wash embryos with 1 volume of PBS."
+    },
+    {
+        "title": "12.",
+        "body": "Add 1 volume of lysis buffer \\(50 mM Tris-HCl pH 8.0, 100 mM EDTA, 100 mM\r\n  NaCl, 0.5% SDS, 5 mg/ml Proteinase K, 100 mg/ml RNAse A).\r\n\n\nLyse for 2-3 hours at 55°C. Gently mix by inverting the tube every 15 minutes."
+    },
+    {
+        "title": "13.",
+        "body": "Centrifuge at 4000g for 15 minutes. Transfer supernatant to a new Falcon\r\n  tube. Optional: Remove 200 μl for quality analysis."
+    },
+    {
+        "title": "14.",
+        "body": "Add 1 volume of Phenol:Chloroform:Isoamyl alcohol. Incubate on\r\n  a rotating wheel for 1 hour at 4°C."
+    },
+    {
+        "title": "15.",
+        "body": "Centrifuge at 4000g for 10 minutes. Transfer aqueous \\(upper) phase to\r\n  a new Falcon tube."
+    },
+    {
+        "title": "16.",
+        "body": "Repeat steps 14–15."
+    },
+    {
+        "title": "17.",
+        "body": "Add 1 volume of Chloroform:Isoamyl alcohol. Incubate on a rotating wheel for\r\n  1 hour at 4°C."
+    },
+    {
+        "title": "18.",
+        "body": "Centrifuge at 4000g for 10 minutes. Transfer aqueous \\(upper) phase to\r\n  a new Falcon tube."
+    },
+    {
+        "title": "19.",
+        "body": "Add 0.05 volume of 3.0 M KAc. Mix by gently inverting the tube."
+    },
+    {
+        "title": "20.",
+        "body": "Add 0.7 volume of isopropanol. Incubate on a rotating wheel for 30 minutes at\r\n  4°C."
+    },
+    {
+        "title": "21.",
+        "body": "Centrifuge at 6000g for 15 minutes. Remove supernatant."
+    },
+    {
+        "title": "22.",
+        "body": "Wash the pellet twice with 1 volume of 70% ethanol."
+    },
+    {
+        "title": "23.",
+        "body": "Air-dry the pellet for 10 minutes at room temperature."
+    },
+    {
+        "title": "24.",
+        "body": "Dissolve the pellet in 1 x TE prewarmed to 55°C. Store DNA at 4°C."
+    }
+]

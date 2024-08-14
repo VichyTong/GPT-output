@@ -1,0 +1,179 @@
+[
+    "\nOverview\r\n\n\nSteps 1 – 9: Maintenance of hPSCs\r\n\n\nSteps 10 – 22: Induction of IM cells by embryoid body \\(EB) formation \\(EB method)\r\n\n\nSteps 23 – 29: Induction of IM cells by colony formation \\(Colony method)\r\n\n\nSteps 30 – 40: Induction of IM cells with single cell dissociation \\(Single cell method)\r\n\n\n\r\n\n\nMaintenance of hPSCs\r\n\n\nPreparation of SNL feeder cells",
+    {
+        "title": "1.",
+        "body": "Partially thaw the frozen vial of mitotically inactivated SNL feeder cells in 37 °C water bath, resuspend the 1 ml cell solution in 10 ml DMEM/10 % FBS medium, and spin down at approximately 160 g for 5 min."
+    },
+    {
+        "title": "2.",
+        "body": "Remove the supernatant and resuspend the pellet in 10 ml DMEM/10 % FBS medium."
+    },
+    {
+        "title": "3.",
+        "body": "Plate the cell suspension onto gelatin-coated plates at a density of approximately 50,000 cells/cm2 and incubate overnight.\r\n  Passage of hPSCs"
+    },
+    {
+        "title": "4.",
+        "body": "Remove differentiated hPSCs using aseptic technique."
+    },
+    {
+        "title": "5.",
+        "body": "Aspirate old hPSC medium from plate, wash with 5 ml PBS \\(-), and add warm CTK dissociation solution \\(1 ml/10cm plate)."
+    },
+    {
+        "title": "6.",
+        "body": "Incubate at 37 °C for 3 min."
+    },
+    {
+        "title": "7.",
+        "body": "Wash out SNLs twice with 5 ml PBS \\(-)."
+    },
+    {
+        "title": "8.",
+        "body": "Harvest the hPSC colonies in 5 ml fresh hPSC medium by using a cell scraper."
+    },
+    {
+        "title": "9.",
+        "body": "Pipette and triturate the hPSC colonies in hPSC medium using P1000 pipetman and split onto new feeder cells at a ratio between 1:3 and 1:6.\r\n  \r\n\n\nInduction of IM cells by embryoid body \\(EB) formation \\(EB method)"
+    },
+    {
+        "title": "10.",
+        "body": "Repeat steps 4 –"
+    },
+    {
+        "title": "7.",
+        "body": ""
+    },
+    {
+        "title": "11.",
+        "body": "Add 5 ml hPSC medium and scrape hPSCs off the surface with a cell scraper, then pipet the cells up and down 5-10 times using P1000 pipetman."
+    },
+    {
+        "title": "12.",
+        "body": "Plate the suspension onto gelatin-coated plate and incubate at 37 °C for 30 min to remove SNLs."
+    },
+    {
+        "title": "13.",
+        "body": "Transfer the hPSC cell solution to 15ml tube and allow cells to settle via gravity."
+    },
+    {
+        "title": "14.",
+        "body": "Remove the supernatant and resuspend with 10 ml Stage 1 medium, then allow cells to settle via gravity."
+    },
+    {
+        "title": "15.",
+        "body": "Remove the supernatant and resuspend with 8 ml Stage 1 medium containing 100 ng/ml recombinant human/mouse/rat activin A and 100 ng/ml recombinant mouse Wnt3a or 3 μM CHIR99021."
+    },
+    {
+        "title": "16.",
+        "body": "Distribute the cell suspension into a low attachment 6-well plate \\(2 ml/well) to form EB. Culture at 37 °C for 2 days."
+    },
+    {
+        "title": "17.",
+        "body": "Transfer the EB solution to a 15ml tube and allow EBs to settle via gravity."
+    },
+    {
+        "title": "18.",
+        "body": "Remove the supernatant and resuspend with 10 ml Stage 2 medium, then allow cells to settle via gravity."
+    },
+    {
+        "title": "19.",
+        "body": "Remove the supernatant and resuspend with 8 ml Stage 2 medium containing 100 ng/ml recombinant human BMP7 and 100 ng/ml recombinant mouse Wnt3a or 3 μM CHIR99021."
+    },
+    {
+        "title": "20.",
+        "body": "Transfer the cell solution onto a gelatin-coated 6-well plate \\(2 ml/well)."
+    },
+    {
+        "title": "21.",
+        "body": "Change medium with BMP7 and Wnt3a or CHIR99021 every 2 - 3 days and culture at 37 °C for 4 - 20 days.\r\n  \r\n\n\nInduction of IM cells by colony formation \\(Colony method)"
+    },
+    {
+        "title": "22.",
+        "body": "Repeat steps 10 –"
+    },
+    {
+        "title": "14.",
+        "body": ""
+    },
+    {
+        "title": "23.",
+        "body": "Remove the supernatant, resuspend with 12 ml SNL-conditioned hPSC medium containing 10 ng/ml recombinant human bFGF and seed on Matrigel-coated 24-well plate \\(500 μl/well)."
+    },
+    {
+        "title": "24.",
+        "body": "Grow the cells until hPSC colonies reach approximately 70% confluency."
+    },
+    {
+        "title": "25.",
+        "body": "Aspirate the medium and wash twice with PBS \\(-)."
+    },
+    {
+        "title": "26.",
+        "body": "Add Stage 1 medium containing 100 ng/ml recombinant human/mouse/rat activin A and 100 ng/ml recombinant mouse Wnt3a or 3 μM CHIR99021 \\(500 μl/well) and culture at 37 °C for 2 days."
+    },
+    {
+        "title": "27.",
+        "body": "Aspirate the medium and wash with Stage 2 medium."
+    },
+    {
+        "title": "28.",
+        "body": "Add Stage 2 medium containing 100 ng/ml recombinant human BMP7 and 100 ng/ml recombinant mouse Wnt3a or 3 μM CHIR99021 \\(500 μl/well)."
+    },
+    {
+        "title": "29.",
+        "body": "Change medium with BMP7 and Wnt3a or CHIR99021 every 2 - 3 days and culture for 8 days.\r\n  \r\n\n\nInduction of IM cells with single cell dissociation \\(Single cell method)"
+    },
+    {
+        "title": "30.",
+        "body": "Repeat steps 4 –"
+    },
+    {
+        "title": "7.",
+        "body": ""
+    },
+    {
+        "title": "31.",
+        "body": "Add 2 ml warm Accutase."
+    },
+    {
+        "title": "32.",
+        "body": "Incubate at 37 °C for 6 min."
+    },
+    {
+        "title": "33.",
+        "body": "Pipet and dissociate the hPSC colonies into single cells using P1000 pipetman."
+    },
+    {
+        "title": "34.",
+        "body": "Add 8 ml Stage 1 medium and pipet the cells up and down using P1000 pipetman."
+    },
+    {
+        "title": "35.",
+        "body": "Count the cell number."
+    },
+    {
+        "title": "36.",
+        "body": "Transfer the hPSC cell solution to 15ml tube and spin down at 160 g for 5 min."
+    },
+    {
+        "title": "37.",
+        "body": "Remove the supernatant and resuspend with Stage 1 medium containing 100 ng/ml recombinant human/mouse/rat activin A, 100 ng/ml recombinant mouse Wnt3a or 3 μM CHIR99021, and 10 μM Y27,632 at a density of 6.0 X 105 cells/ml."
+    },
+    {
+        "title": "38.",
+        "body": "Distribute into Human Collagen Type I-coated 24-well plates at a density of 1.5 X 105 cells/cm2 \\(500 μl/well) and culture at 37 °C for 2 days."
+    },
+    {
+        "title": "39.",
+        "body": "Aspirate the medium and wash with warm Stage 2 medium."
+    },
+    {
+        "title": "40.",
+        "body": "Add Stage 2 medium containing 100 ng/ml recombinant human BMP7 and 100 ng/ml recombinant mouse Wnt3a or 3 μM CHIR99021 \\(500 μl/well)."
+    },
+    {
+        "title": "41.",
+        "body": "Change medium with BMP7 and Wnt3a or CHIR99021 every 2 - 3 days and culture at 37 °C for 8 days."
+    }
+]

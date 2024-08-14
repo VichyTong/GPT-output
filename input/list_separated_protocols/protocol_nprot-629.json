@@ -1,0 +1,91 @@
+[
+    "\nA. Sampling of blood",
+    {
+        "title": "1.",
+        "body": "collect blood from subject \\(human or mouse)"
+    },
+    {
+        "title": "2.",
+        "body": "prepare EDTA plasma"
+    },
+    {
+        "title": "3.",
+        "body": "store plasma at -80 °C before use\r\n  \r\n\n\nB. Preparation of precipitation agent containing internal standards"
+    },
+    {
+        "title": "1.",
+        "body": "dissolve 50 g/L ZnSO<sub>4</sub> in water"
+    },
+    {
+        "title": "2.",
+        "body": "mix ZnSO<sub>4</sub> solution 1:1 with methanol \\(v/v) to get the precipitation agent"
+    },
+    {
+        "title": "3.",
+        "body": "dilute internal standards in precipitation agent: <sup>13</sup>C<sub>2</sub>-Testosterone 1.5 ng/mL \\(final concentration); d4-Cortisol 7.5 ng/mL \\(final concentration); d9-Progesterone 1.5 ng/mL \\(final concentration); d8-Corticosterone 15 ng/mL \\(final concentration)"
+    },
+    {
+        "title": "4.",
+        "body": "place at -20 °C before use\r\n  \r\n\n\nC. Sample preparation"
+    },
+    {
+        "title": "1.",
+        "body": "mix 50 µL plasma with 100 µL precipitation agent"
+    },
+    {
+        "title": "2.",
+        "body": "vortex mix for 60 s"
+    },
+    {
+        "title": "3.",
+        "body": "incubate at 4 °C for 30 min with continuous shaking"
+    },
+    {
+        "title": "4.",
+        "body": "centrifuge at 14000 rpm at 4 °C for 10 min"
+    },
+    {
+        "title": "5.",
+        "body": "transfer supernatant to deep well plate for measurement\r\n  \r\n\n\nD. Chromatographic separation of samples"
+    },
+    {
+        "title": "1.",
+        "body": "prepare solvents for chromatography; methanol:water \\(5:95) for solid phase extraction; acetonitrile:water:formic acid \\(10:90:0.1) as solvent A for gradient run; acetonitrile:formic acid \\(100:0.1) as solvent B for gradient run"
+    },
+    {
+        "title": "2.",
+        "body": "equilibrate chromatographic system with solvents \\(gradient flow rate is 0.5 mL/min; online-SPE flow rate is 3 mL/min"
+    },
+    {
+        "title": "3.",
+        "body": "inject 80 µL of supernatant via autosampler"
+    },
+    {
+        "title": "4.",
+        "body": "apply gradient and valve switching information \\(sample is enriched on online-SPE column and eluted in backflush onto the analytical column) from table 1\r\n  \r\n\n\nE. MS/MS analysis"
+    },
+    {
+        "title": "1.",
+        "body": "measure samples in positive mode using an ESI source"
+    },
+    {
+        "title": "2.",
+        "body": "set ion source parameters to CUR = 20; CAD = 6; IS = 4500; TEM = 600; GS1 = 40; GS2 = 55"
+    },
+    {
+        "title": "3.",
+        "body": "use the multiple reaction monitoring \\(MRM) mass transitions given in table 1"
+    },
+    {
+        "title": "4.",
+        "body": "for calibration run standards in the following concentrations: 0.1, 0.19, 0.39, 0.78, 1.56, 3.13, 6.25, 12.5, 25 ng/mL for androstenedione, testosterone, progesterone, and 17OH-progesterone; 0.98, 1.95, 3.91, 7.81, 15.63, 31.25, 62.5, 125, 250 ng/mL for cortisone, cortisol, and corticosterone"
+    },
+    {
+        "title": "5.",
+        "body": "also run appropriate blanks \\(steroid stripped plasma) and quality control samples"
+    },
+    {
+        "title": "6.",
+        "body": "evaluate results using Analyst 1.4.2 software \\(Applied Biosystems)"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    "\nFirst part of the protocol is preparing and mapping reads.",
+    {
+        "title": "1.",
+        "body": "Trim reads to remove adapter sequences. Example using  ‘cutadapt’ and Nextera adapters:\r\n  cutadapt --trim-n -m 15 -o trimmed.S1_1.fastq.gz -p trimmed.S1_2.fastq.gz -a CTGTCTCTTATACACATCTCCGAGCCCACGAGA -A CTGTCTCTTATACACATCTGACGCTGCCGACGA S1_1.fastq.gz S1_2.fastq.gz"
+    },
+    {
+        "title": "2.",
+        "body": "Align the samples to the genome using ‘STAR.’"
+    },
+    {
+        "title": "3.",
+        "body": "Merge all BAM files into a single BAM file using ‘samtools merge’.\r\n  \r\n\n\nSecond part of the protocol is preparing a reference as well as identifying novel splicing patterns and annotating these."
+    },
+    {
+        "title": "4.",
+        "body": "Convert a GTF reference to an SAJR specific GFF reference using SAJR’s annotation conversion mode."
+    },
+    {
+        "title": "5.",
+        "body": "Run SAJR in de novo annotation mode to find novel splice-forms using the merged BAM file and the known annotation to produce a novel annotation, novel.gff"
+    },
+    {
+        "title": "6.",
+        "body": "Run SAJR in annotation comparison mode to compare the novel annotation with the known annotation and use get_genename_from_junction_comparison.pl to filter the results:\r\n  get_genename_from_junction_comparison.pl sajr.comp > sajr.novel2known.tsv"
+    },
+    {
+        "title": "7.",
+        "body": "Use bedtools and get_genename_from_segment_overlap.pl to associate SAJR ids with known gene ids from the reference:\r\n  bedtools intersect -s -f 1.0 -loj -a novel.gff -b known.gff > novel_overlap_known.gff\r\n\n\nget_genename_from_segment_overlap.pl novel_overlap_known.gff > novel2known_from_overlap.tsv"
+    },
+    {
+        "title": "8.",
+        "body": "Use bedtools and annotate_novel_segments.pl to annotate novel spliced regions:\r\n  bedtools intersect -s -f 1.0 -r -loj -a novel.gff -b known.gff > novel_overlap_known_stringent.gff\r\n\n\nannotate_novel_segments.pl novel_overlap_known_stringent.gff > novel_overlap_known_stringent_novel.tsv\r\n\n\n\r\n\n\nThe final part of the protocol is estimating inclusion levels in each sample, and testing for differences between groups of samples."
+    },
+    {
+        "title": "9.",
+        "body": "Run SAJR in count mode for each sample using the novel.gff reference."
+    },
+    {
+        "title": "10.",
+        "body": "Use the R package part of SAJR to identify alternative splicing, see sajr_analysis.R for an example workflow incorporating annotation of novel spliced regions."
+    }
+]

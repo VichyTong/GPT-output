@@ -1,0 +1,202 @@
+[
+    {
+        "title": "**Injection of lumafluors into target region of pathway-specific neurons:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Anesthetize mice with ketamine \\(100mg/kg)/xylaxine \\(10mg/kg) mixture.  Make sure animals are fully anesthetized by gently squeezing the footpad to ensure no reflex response. If animals begin to wake up, inject 0.1 μl of the ketamine \\(100mg/kg)/xylaxine \\(10mg/kg) mixture."
+            },
+            {
+                "title": "2.",
+                "body": "Shave the top portion of the head."
+            },
+            {
+                "title": "3.",
+                "body": "Place the head of the mouse securely in the stereotaxic apparatus by positioning the front teeth in the nose holder, followed by securing the ear bars in place.  Make sure that the nose holder and ear bars are set at zero."
+            },
+            {
+                "title": "4.",
+                "body": "Apply ocular lubricant to the eyes of the mouse."
+            },
+            {
+                "title": "5.",
+                "body": "Disinfect the dissection area using cotton swabs with betadine.  Make sure to start in the center of the head, moving the swab in circular motions outward to minimize contamination."
+            },
+            {
+                "title": "6.",
+                "body": "Using sterilized forceps and scissors expose the skull by making a sagittal incision along the midline. Make sure to peel the periosteum off using a cotton swab."
+            },
+            {
+                "title": "7.",
+                "body": "Roughly make the skull of the mouse as flat as possible by eye."
+            },
+            {
+                "title": "8.",
+                "body": "Attach both Hamilton syringes with 26 gauge needles to the stereotaxic apparatus and set the syringe on the right side to zero degrees.  Set the other syringe to 10° for NAc injection or 15° for the mPFC injection."
+            },
+            {
+                "title": "9.",
+                "body": "Perform the flat test by placing the Hamilton syringe that is set to zero degrees on bregma and measure the dorsal/ventral coordinate."
+            },
+            {
+                "title": "10.",
+                "body": "Following this measurement, move the syringe posterior to lambda and again measure the dorsal/ventral coordinate.  If the two measurements are more than 0.2mm out of alignment, adjust accordingly."
+            },
+            {
+                "title": "11.",
+                "body": "Then move the syringe back to bregma and take the two measurements that are lateral to bregma.  Again make sure there is not more than a 0.2mm difference."
+            },
+            {
+                "title": "12.",
+                "body": "Once the flat test has been performed, adjust both syringes to be at 10° for the lumafluor injection."
+            },
+            {
+                "title": "13.",
+                "body": "Place both needles at bregma and take the anterior/posterior \\(A/P), medial/lateral \\(M/L), and dorsal/ventral \\(D/V) measurements."
+            },
+            {
+                "title": "14.",
+                "body": "Once these measurements have been taken, move the syringes to the NAc coordinates at 10° \\(AP +1.6mm; LM +1.5mm; DV -4.4mm) or mPFC coordinates at 15° \\(AP +1.7mm; LM +0.75mm; DV -2.5mm)."
+            },
+            {
+                "title": "15.",
+                "body": "Using a micro-drill, make burr holes at the new coordinates."
+            },
+            {
+                "title": "16.",
+                "body": "Fill the entire syringe with PBS and then push out the solution until 1.5 μl of the \r\n  syringe is full."
+            },
+            {
+                "title": "17.",
+                "body": "Pull up to 2.0 μl with air."
+            },
+            {
+                "title": "18.",
+                "body": "Fill the syringe with 1.0 μl of green or red lumafluors \\(total volume of syringe \r\n  is now 3.0 μl)."
+            },
+            {
+                "title": "19.",
+                "body": "Lower syringe to 0.1 mm below the newly calculated dorsal/ventral coordinates to create a pocket in the tissue and then immediately pull up to the calculated coordinate."
+            },
+            {
+                "title": "20.",
+                "body": "Inject 0.1 μl of lumafluors per minute to avoid tissue damage."
+            },
+            {
+                "title": "21.",
+                "body": "Keep syringe in place for 5 minutes after all the lumafluors have been injected to \r\n  allow for complete diffusion of dye and prevent backflow up the needle tract."
+            },
+            {
+                "title": "22.",
+                "body": "Remove Hamilton syringes by slowly pulling up and remove mouse from stereotaxic apparatus."
+            },
+            {
+                "title": "23.",
+                "body": "Apply neosporin to the skull using a cotton swab."
+            },
+            {
+                "title": "24.",
+                "body": "Close incision with surgical clips holding the two sides of the tissue with forceps."
+            },
+            {
+                "title": "25.",
+                "body": "Place mouse in its cage on heating pad until it wakes up."
+            }
+        ]
+    },
+    {
+        "title": "**In vitro Electrophysiology:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "After one week of recovery, perform cell-attached recordings from lumafluor positive VTA DA neurons in mice injected with lumafluors into the NAc or mPFC. VTA DA neurons are identified by >1.1 ms triphasic waveform."
+            },
+            {
+                "title": "2.",
+                "body": "Place a container with 200 mL of artificial cerebrospinal fluid \\(aCSF), containing 128 mM NaCl, 3 mM KCl, 1.25 mM NaH<sub>2</sub>PO<sub>4</sub>, 10mM D-glucose, 24 mM NaHCO<sub>3</sub>, 2mM CaCl<sub>2</sub>, and 2 mM MgCl<sub>2</sub> \\(oxygenated with 95% O<sub>2</sub> and 5% CO<sub>2</sub>, pH 7.4, 295-305 mOsm) and another container with 200 mL of sucrose aCSF \\(derived from fully replacing NaCl with 254 mM sucrose and saturated by 95% O<sub>2</sub> and 5% CO<sub>2</sub>) into a -80°C freezer for 20 minutes prior to beginning slice preparation.  Remove the containers from the -80°C freezer and oxygenate \\(95% O<sub>2</sub> and 5% CO<sub>2</sub>) both containers throughout procedure."
+            },
+            {
+                "title": "3.",
+                "body": "Anesthetize the mouse with isoflourane for approximately 30 seconds."
+            },
+            {
+                "title": "4.",
+                "body": "Immediately perfuse the mouse with the ice-cold aCSF by opening the chest cavity and inserting a 25 gauge needle into the left ventricle until all blood has cleared from the organs \\(~60 seconds)."
+            },
+            {
+                "title": "5.",
+                "body": "Quickly remove the brain and place into the ice-cold sucrose aCSF container for 60 seconds."
+            },
+            {
+                "title": "6.",
+                "body": "During this time, place a small amount of Loctite glue in the center of the microslicer tray."
+            },
+            {
+                "title": "7.",
+                "body": "Immediately remove the brain from the solution and make two full cuts, one at the cerebellum and the other at the optic chiasm, leaving the portion of the brain containing the VTA."
+            },
+            {
+                "title": "8.",
+                "body": "Mount the brain, anterior side down, gently tapping the top to make sure it is securely on the dish."
+            },
+            {
+                "title": "9.",
+                "body": "Quickly cover the brain with cold sucrose-aCSF and ensure the dish remains oxygenated while slicing."
+            },
+            {
+                "title": "10.",
+                "body": "Slice cleanly, cutting 250 μm slices."
+            },
+            {
+                "title": "11.",
+                "body": "Place slices into a holding chamber with aCSF for 1 hour recovery at 37°C."
+            },
+            {
+                "title": "12.",
+                "body": "Pull electrodes \\(5-7 MΩ resistance)."
+            },
+            {
+                "title": "13.",
+                "body": "Fill electrodes with internal solution containing 115 mM postassium gluconate, 20 mM KCl, 1.5 mM MgCl<sub>2</sub>, 10 mM phosphocreatine, 10 mM HEPES, 2 mM magnesium ATP and 0.5 mM GTP \\(pH 7.2, 285 mOsm)."
+            },
+            {
+                "title": "14.",
+                "body": [
+                    "For cell-attached recordings, band pass filter signals at 300Hz-1kHz and Bessel filter at 10KHz \\(gain",
+                    {
+                        "title": "50)",
+                        "body": "using a Multiclamp 700B amplifier."
+                    }
+                ]
+            },
+            {
+                "title": "15.",
+                "body": "Use pClamp 10 for data acquisition."
+            },
+            {
+                "title": "16.",
+                "body": "Using positive pressure, align the electrode tip to the membrane of the neurons. Try to touch the cells with extreme care to avoid having effect on firing activity."
+            },
+            {
+                "title": "17.",
+                "body": "Release positive pressure slowly \\(by removing needle from syringe)."
+            },
+            {
+                "title": "18.",
+                "body": "Watch the trace for firing activity \\(3 minutes).  Apply slight oral sucking to needle to enhance signal if nothing is observed."
+            },
+            {
+                "title": "19.",
+                "body": "Record firing activity for 3 minutes."
+            },
+            {
+                "title": "20.",
+                "body": "Place red threshold bar at the tips of the action potentials to record the online statistics."
+            },
+            {
+                "title": "21.",
+                "body": "Apply positive pressure to release the neuron and locate the next one."
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    "\nA.0. ",
+    {
+        "title": "**Vigorous pipetting**",
+        "body": "The intensity of this simple procedure can be adjusted by varying the manual plunging force of the micropipettor during intake/discharge of the liquid. It may be necessary to cut the edge of the tip if crystals are too large to enter the tip; in this case carefully use a cleaned razor blade or sterile scalpel to slice off the thin edge to reveal a wider tip opening.\r\n\n\n\r\n\n\nA.1. Place a new tip on a micropipettor.\r\n\n\n\r\n\n\nA.2. Obtain a new microcentrifuge tube if separating crystals from source.\r\n\n\n\r\n\n\nA.3. Use the micropipettor to intake the required volume of crystals in solution.\r\n\n\n\r\n\n\nA.4. Discharge the solution either back to crystal source or to the microcentrifuge tube.\r\n\n\n\r\n\n\nA.5. Repeat steps A.3–A.4 as needed, taking care not to disturb the sample with air bubbles.\r\n\n\n\r\n\n\nA.6. Add well buffer/mother liquor if needed to dilute the sample.\r\n\n\n\r\n\n\nB.0."
+    },
+    {
+        "title": "**Sonication**",
+        "body": [
+            "Intensity using the suggested sonicating bath model can be adjusted by",
+            {
+                "title": "1)",
+                "body": "varying power,"
+            },
+            {
+                "title": "2)",
+                "body": "varying frequency,"
+            },
+            {
+                "title": "3)",
+                "body": "varying content of bath and crystal sample vessel, and"
+            },
+            {
+                "title": "4)",
+                "body": "varying the time duration of sonication. We use the Elmasonic P30H because of its ability to reduce its ultrasonic frequency and power for gentle sonication. Therefore we generally keep the machine at its lowest power setting and only vary the duration of sonication \\(duration of crystal vessel/microcentrifuge tube contact with bath content, in this case, water); this is the method we present below. Other sonicating baths may be used, however the experimenter should test sonication intensity and adjust water bath contents and crystal sample as necessary to reduce or increase ultrasonic intensity.\r\n\n\n\r\n\n\nB.1. Prepare an ultrasonic water bath by adding at least enough water to the container until the depth reaches 4–5 cm.\r\n\n\n\r\n\n\nB.2. Place a new tip on a micropipettor.\r\n\n\n\r\n\n\nB.3. Obtain a new microcentrifuge tube if separating crystals from source.\r\n\n\n\r\n\n\nB.4. Use the micropipettor to intake the required volume of crystals in solution.\r\n\n\n\r\n\n\nB.5. Discharge the solution to the microcentrifuge tube.\r\n\n\n\r\n\n\nB.6. Add well buffer/mother liquor if needed to dilute the sample.\r\n\n\n\r\n\n\nB.7. Close microcentrifuge tube. Wrap tightly with Parafilm if desired for further protection.\r\n\n\n\r\n\n\nB.8. Set the sonicating bath to run continuously.\r\n\n\n\r\n\n\nB.9. For 1–10 seconds, dip the bottom end of the microcentrifuge tube into the water, making sure the surface of the crystal solution inside the tube is below the surface of the water bath. Adjust sonication time duration depending on crystal fragility.\r\n\n\n\r\n\n\nC.0."
+            }
+        ]
+    },
+    {
+        "title": "**Vortexing**",
+        "body": [
+            "Agitation intensity can be adjusted in this case by one or more of the following options:",
+            {
+                "title": "1)",
+                "body": "changing bead size,"
+            },
+            {
+                "title": "2)",
+                "body": "changing microcentrifuge tube size,"
+            },
+            {
+                "title": "3)",
+                "body": "changing vortex speed, and"
+            },
+            {
+                "title": "4)",
+                "body": "changing vortex duration \\(time). We typically use a glass bead of 0.5 mm diameter inside a 1.5 μL microcentrifuge tube. Ensure that bead and tube temperatures are stabilized at sample temperature before proceeding.\r\n\n\n\r\n\n\nC.1. Set the vortex mixer at the highest speed setting, and set power switch to auto mode \\(touch/pulse mode).\r\n\n\n\r\n\n\nC.2. Place a new tip on a micropipettor.\r\n\n\n\r\n\n\nC.3. Obtain a new microcentrifuge tube if separating crystals from source.\r\n\n\n\r\n\n\nC.4. Use the micropipettor to intake the required volume of crystals in solution.\r\n\n\n\r\n\n\nC.5. Discharge the solution to the microcentrifuge tube.\r\n\n\n\r\n\n\nC.6. Add well buffer/mother liquor if needed to dilute the sample.\r\n\n\n\r\n\n\nC.7. Add glass bead to the microcentrifuge tube.\r\n\n\n\r\n\n\nC.8. Close microcentrifuge tube. Wrap tightly with Parafilm if desired for further protection.\r\n\n\n\r\n\n\nC.9. Use the flat rubberized head platform on the vortex mixer for stability.\r\n\n\n\r\n\n\nC.10. Place the bottom of the microcentrifuge tube in the center of the rotating platform until it actuates; vortex for 2 seconds."
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    "\nPerform immunofluorescence staining performed essentially as described \\(Perez-Burgos et al., 2003).",
+    {
+        "title": "1.",
+        "body": "Treat HeLa cells \\(70–80% confluence) with nocodazole \\(400 ng/ml, Sigma) vernight."
+    },
+    {
+        "title": "2.",
+        "body": "Collect by trypsinization."
+    },
+    {
+        "title": "3.",
+        "body": "Resuspend cells in hypotonic buffer \\(10 mM Tris-HCl, pH 7.5, 10 mM NaCl, 5 mM MgCl2) and incubate at 37°C for 15 min."
+    },
+    {
+        "title": "4.",
+        "body": "Add 1/10 volume of 3% Tween 20 and centrifuge the cells onto Superfrost slides using a Shandon Cytospin3 \\(Shandon, UK) for 5 min at 1000 rpm."
+    },
+    {
+        "title": "5.",
+        "body": [
+            "After centrifugation, incubate the slides with KCM-T solution \\(10 mM Tris, pH 8.0, 120 mM KCl, 20 mM NaCl, 0.5 mM EDTA, 0.1% Tween",
+            {
+                "title": "20)",
+                "body": "containing 0.1% Triton X-100 at RT for 10 min."
+            }
+        ]
+    },
+    {
+        "title": "6.",
+        "body": "After washing with KCM-T buffer \\(without Triton X-100) for three times, fix the cells in freshly prepared 4% para-formaldehyde \\(in PBS, pH 7.4) at RT for 10 min."
+    },
+    {
+        "title": "7.",
+        "body": "After washing with KCM-T buffer for three times, block the slides with KCM-T buffer containing 2.5% BSA and 10% goat serum at RT for 30 min."
+    },
+    {
+        "title": "8.",
+        "body": "Incubate the slides with  primary antibody \\(1:200 dilution, Anti-phospho-Histone H3-Ser10, Mitosis Marker, Upstate, Catalog # 06-570; 1: 500, Anti-ubiquityl-Histone H2A, clone E6C5, Upstate, Catalog # 05-678) at RT for 1 h."
+    },
+    {
+        "title": "9.",
+        "body": "After washing the slides with KCM-T buffer for three times, incubate them with secondary antibodies at 1:500 dilutions \\(FITC conjugated goat anti-rabbit IgG, Texas Red conjugated goat anti-mouse IgG, Santa Cruz) for an additional 1 hr."
+    },
+    {
+        "title": "10.",
+        "body": "After washing the slides with  KCM-T for three times and followed by washing with PBS for one more time, add DAPI at a concentration of 0.5 μg/ml and incubate for 1 min."
+    },
+    {
+        "title": "11.",
+        "body": "After washing with PBS twice and water once, mount the slides with vectorshield mounting media \\(Vector Laboratories)."
+    },
+    {
+        "title": "12.",
+        "body": "Capture images with an Olympus microscope with 20×objective."
+    }
+]

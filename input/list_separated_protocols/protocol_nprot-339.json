@@ -1,0 +1,83 @@
+[
+    {
+        "title": "**Ubp-M knock-down cell lines**",
+        "body": [
+            "Ubp-M knock-down cell lines were generated using a vector-based knockdown strategy as previously described \\(Wang et al., 2004).",
+            {
+                "title": "1.",
+                "body": "Transfect vectors expressing the hairpin RNAs as listed below into HeLa cells with Effectene \\(Qiagen)."
+            },
+            {
+                "title": "2.",
+                "body": "Select transfected cells in the presence of 2 ug/ml puromycin."
+            },
+            {
+                "title": "3.",
+                "body": "Amplify selected clones and analyse the efficiency of Ubp-M knockdown as well as its effect on cellular uH2A levels were analyzed as described \\(Wang et al., 2004). \r\n  \r\n\n\nThe DNA sequence encoding the stem hairpin RNA for Ubp-M: 5’-ACCAGTGCTTAGAGAACTATCTCTTGAATAGTTCTCTAAGCACTG\r\n\n\nGT-3’ and 5’-ACCAGTGCTTAGAGAACTATTCAAGAGATAGTTCTCTAAGCA\r\n\n\nCTGGT-3’. \r\n\n\nFor transient knockdown, purchase siRNA oligonucleotides against Ubp-M from Invitrogen in a purified, annealed duplex form and transfect into cells as described \\(Wei et al., 2006). The sequences for these siRNA are as follows: \r\n\n\nsiRNA1\r\n\n\n5’-CCUCCUGUUCUUACUCUUCAUUUAA-3’\r\n\n\n5’-UUAAAUGAAGAGUAAGAACAGGAGG-3’ and \r\n\n\nsiRNA2\r\n\n\n5’-CCGGAAAUCUUAGAUUUGGCUCCUU-3’\r\n\n\n5’-AAGGAGCCAAAUCUAAGAUUUCCGG-3’"
+            }
+        ]
+    },
+    {
+        "title": "**RNAi resistant Ubp-M constructs**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "To construct RNAi resistant Ubp-M constructs, introduce a point mutation into targeting siRNA nucleotide acid sequence but without changing the encoded amino acid."
+            },
+            {
+                "title": "2.",
+                "body": "Perform site-directed mutagenesis as described \\(Wang et al., 2004)."
+            },
+            {
+                "title": "3.",
+                "body": "Use Primers F1: 5’-AAGGATCCGGAAAGAAACGGACAAAGGGAAAAACTGTTCC-3’ and R1: 5’-TTCTTTTAGGAGCTCCCTGAGTACAGGAGTTTGTGACAA-3’ to amplify the N-terminal portion."
+            },
+            {
+                "title": "4.",
+                "body": "Use Primers F2: 5’-CAGAACTTGTCACAAACTCCTGTACTCAGGGAGCTCCTAAA-3’ and R2: 5’-GATCTAGATTACAGTATTCTCTCATAAAATAGGAGGTACG-3’ to amplify the C-terminal portion."
+            },
+            {
+                "title": "5.",
+                "body": "Amplify the full length Ubp-M construct using primers F1 and R2 and inserted into pcDNA3 vector \\(Invitrogen)."
+            },
+            {
+                "title": "6.",
+                "body": "Verify the mutation by DNA sequencing."
+            },
+            {
+                "title": "7.",
+                "body": "Perform transfection with Effectene \\(Qiagen) following the manufacturer’s instruction."
+            },
+            {
+                "title": "8.",
+                "body": "72 hrs after transfection, seed and transfect cells with the same plasmid again."
+            },
+            {
+                "title": "9.",
+                "body": "Collect cells six days after the first transfection and analyze by RT-PCR as described \\(Wei et al., 2006).  \r\n  Primers for RT-PCR amplification: \r\n\n\nHoxA9: 5’-ACGTGGACTCGTTCCTGCTG-3' and \r\n\n\n       5’-AGGTTTAATGCCATAAGGCCG-3’\r\n\n\nHoxB1: 5’-TCAGGCGGTTGACAGCTATG-3’ and \r\n\n\n       5’-ATGCTGCGGAGGATATGGC-3’\r\n\n\nHoxC5: 5’-TGTGGGAACTATGGATCGGC-3’ and \r\n\n\n       5’-ACGGGTAAATCTGTGGCGG-3’\r\n\n\nHoxD10: 5’-GATTCCTTGATCAGTGCCTGC-3’ and\r\n\n\n        5’-GCCGAAATGAGTTTGTTGCG-3’\r\n\n\nGAPDH: 5’-ACCACAGTCCATGCCATCAC-3’ and \r\n\n\n       5’-TCCACCACCCTGTTGCTGTA-3’"
+            }
+        ]
+    },
+    {
+        "title": "**ChIP and double ChIP**",
+        "body": [
+            "Perform ChIP and double ChIP as described with modifications as the following",
+            {
+                "title": "5.",
+                "body": ""
+            },
+            {
+                "title": "1.",
+                "body": "Lyse cells in lysis buffer \\[1% SDS, 10 mM EDTA, 50 mM Tris-HCl \\(pH 8.0), 0.1 mM PMSF, 1 ug/ml aprotinin, 1 ug/ml leupeptin and 1 ug/ml pepstatin A] and dilute 10 times with dilution buffer \\[1 % Triton X-100, 150 mM NaCl, 2 mM EDTA, 20 mM Tris-HCl \\(pH 8.0), 0.1 mM PMSF, 1 ug/ml aprotinin, 1 ug/ml leupeptin and 1 ug/ml pepstatin A] for immunoprecipitation."
+            },
+            {
+                "title": "2.",
+                "body": "Perform PCR reactions with the following primers:\r\n  A:  5'-CTTCATTCAGCTTTGGGCACGCTT-3' and \r\n\n\n      5'-GGCCTGGTTGAAACAAGCGTTGAA-3'\r\n\n\nB:  5’-CCCAGAATGCTGAGGCGCTTTAAT-3’ and \r\n\n\n       5’-ACCACCACTACCACCATGGAAACT-3’\r\n\n\nC:   5’-TGGTTCTTTAATGAGCCGGACCAC-3’ and \r\n\n\n       5’-TGTTGCCACACACGGGAAGATACT-3’\r\n\n\nD:   5’-TGTCCTTCTTGGCCCAGTCAGTTT-3’ and \r\n\n\n      5’-TAAGAAGCGGCCAAGGTGTCTCTA-3’\r\n\n\nE:   5’-TAGAGACACCTTGGCCGCTTCTTA-3’ and \r\n\n\n      5’-CACGGACAACAGCGACATCTACTA-3’ \r\n\n\nF:   5’-ATGTCCTTTCCCAACAGCTCTCCT-3’ and \r\n\n\n      5’-AAATATCCAGGGACGGGAACCTCA-3’ \r\n\n\nG:   5’-TGGTTGGTGCTTGAGTTGGGAAAC-3’ and \r\n\n\n       5’-TTGCCTGGGTATTGTTGCATTCCC-3’ \r\n\n\nH:   5’-TCACCGACAGGCAGGTCAAGATTT-3’ and \r\n\n\n       5’-TGGATGGATGGATGGATGGATGCT-3’"
+            },
+            {
+                "title": "3.",
+                "body": "In the PCR reaction, include one cycle of 5 min at 95°C followed by 33 cycles of 95°C for 30 sec, 68°C for 30 sec, 72°C for 30 sec for regions A, B, C, E, F and G. For D, use an annealing temperatures of 66°C, and for H, 60°C. Perform all PCR reactions within the range of linear amplification."
+            }
+        ]
+    }
+]

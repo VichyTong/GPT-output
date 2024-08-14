@@ -1,0 +1,225 @@
+[
+    "\nA. ",
+    {
+        "title": "**Preparation of size-selected genomic DNA \\(Timing: ~1 day)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "_Genomic DNA extraction_\r\n  Genomic DNA is extracted using standard method. DNA is then well-dissolved in water."
+            },
+            {
+                "title": "2.",
+                "body": "_Fragmentation of genomic DNA_\r\n  a. Dilute required amount of genomic DNA to 20 ng/µL in TE buffer.\r\n\n\nb. Aliquot 100 µL in 0.65 mL microtubes for DNA shearing.\r\n\n\nc. Keep tube on ice for 10 min, then vortex and spin briefly.\r\n\n\nd. Place tubes on the tube holder.\r\n\n\ne. Start sonication with Diagenode™ Bioruptor® Pico Ultrasonicator using the following setting: 15 seconds ON, 90 seconds OFF and 7 pulses."
+            },
+            {
+                "title": "3.",
+                "body": "_Size select fragmented DNA_\r\n  The original protocol 3 used agarose gel to select the desired fragmented DNA size. Here, size selection is based on the use of Agencourt AMPure XP beads \\(Beckman Coulter, A63881).The following bead-to-sample ratio is used to make a library size distribution with a peak size of 300 bp. For a different library size, the bead-to-sample ratio will need to be adjusted.\r\n\n\na. Homogenize AMPure XP beads at RT before use.\r\n\n\nb. Adjust the fragmented DNA volume to 100 µL.\r\n\n\nc. Add 0.75X volume of beads \\(75 µL) to the DNA sample, mix well by pipetting and incubate at RT for 5 min.\r\n\n\nd. Place the tube on magnetic rack for 5 min.\r\n\n\ne. Carefully transfer 73 µL of the supernatant to a new 1.5 mL tube and discard the beads.\r\n\n\nf. Add 0.5X volume of beads \\(50 µL) to the collected supernatant \\(so total bead-to-sample ratio is 1.25X at this step), mix well by pipetting and incubate at RT for 5 min.\r\n\n\ng. Place the tube on the magnetic rack for 5 min then carefully remove all supernatant.\r\n\n\nh. Wash the beads twice with freshly prepared 80% ethanol. After the second wash, briefly spin, place the tube on the magnetic rack and completely remove all residual ethanol.\r\n\n\ni. Dry the beads at 40 °C until the pellet starts to break. Avoid over drying the bead pellet, time varying depending on the amount of beads.  \r\n\n\nj. Elute DNA in 102 µL of water and transfer exactly 100 µL of the supernatant in a new 1.5 mL tube. \r\n\n\nk. Add 0.85X volume of beads \\(85 µL), mix well by pipetting and incubate at RT for 5 min.\r\n\n\nl. Place the tube on the magnetic rack for 5 min. Then carefully remove all supernatant. \r\n\n\nm. Wash the beads twice with freshly prepared 80% ethanol. After the second wash, spin briefly, place the tube on the magnetic rack and completely remove all residual ethanol.\r\n\n\nn. Dry the beads at 40 °C until the bead pellet starts to break. \r\n\n\no. Elute DNA in 75 µL of water and transfer 73 µL of the supernatant in a new 1.5 mL tube.\r\n\n\np. Analyze size-selected DNA on Agilent 2100 Bioanalyzer \\(An example of size-selected DNA is provided in <a href=\" http://www.nature.com/protocolexchange/system/uploads/3937/original/Fig2.pdf?1444417997\" >Figure 2a</a>). \r\n\n\n\r\n\n\nNOTE: The exact bead to sample ratio is critical to select the desired DNA fragments. Therefore, it is important to be extremely careful when pipetting the beads. \r\n\n\n\r\n\n\nB."
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of Pre-capture DNA library \\(Timing: ~1 day)**",
+        "body": [
+            "Follow the protocol of NEBNext® DNA Library Prep Reagent Set for Illumina® \\(NEB, E6000S) with some modifications.\r\n\n\nStarting material: 1 µg of size-selected DNA",
+            {
+                "title": "1.",
+                "body": "_End repair of size-selected DNA_\r\n  a. Mix the following components in a 1.5 mL tube:\r\n\n\n\r\n\n\nSize-selected DNA: 1 – 75 µL\r\n\n\nPhosphorylation Reaction Buffer \\(10X): 10 µL\r\n\n\nT4 DNA polymerase: 5 µL\r\n\n\nT4 Polynucleotide Kinase: 5 µL\r\n\n\ndNTPs: 4 µL\r\n\n\nDNA Polymerase I, Large \\(Klenow): 1 µL\r\n\n\nSterile water: up to 100 µL\r\n\n\nTotal volume: 100 µL\r\n\n\n\r\n\n\nb. Incubate in a Thermocycler for 30 min at 20 °C.\r\n\n\nc. Clean up the reaction with AMPure XP beads: add 1.2X volume of beads \\(120 µL) to the reaction and follow the cleanup protocol. At final step, elute DNA in 34 µL of water and carefully transfer 32 μl of the supernatant to a new 1.5 mL tube."
+            },
+            {
+                "title": "2.",
+                "body": "_dA-Tailing of End Repaired DNA_\r\n  \r\n\n\na. Mix the following components in a 1.5 mL tube:\r\n\n\n\r\n\n\nEnd Repaired, Blunt DNA: 32 µL\r\n\n\nNEBuffer 2 \\(10X): 5 µL\r\n\n\nDeoxyadenosine 5’-Triphosphate: 10 µL\r\n\n\nKlenow Fragment \\(3’→5’ exo-): 3 µL\r\n\n\nTotal volume: 50 µL\r\n\n\n\r\n\n\nb. Incubate in a Thermocycler for 30 min at 37 °C.\r\n\n\nc. Clean up the reaction with AMPure XP beads: add 1.2X volume of bead \\(60 µL) to the reaction and follow the cleanup protocol. At final step, elute DNA in 12 µL of water and carefully transfer 10 μL of the supernatant to a new 1.5 mL tube."
+            },
+            {
+                "title": "3.",
+                "body": "_Adaptor ligation of dA-Tailed DNA_\r\n  a. Mix the following components in a 1.5 mL tube:\r\n\n\n\r\n\n\ndA-Tailed DNA: 10 µL\r\n\n\nQuick Ligation Reaction Buffer \\(2X): 25 µL\r\n\n\nNEBNext Adaptor : 10 µL\r\n\n\nQuick T4 DNA Ligase : 5 µL\r\n\n\nTotal volume: 50 µL\r\n\n\n\r\n\n\nb. Incubate in a Thermocycler for 15 minutes at 20 °C.\r\n\n\nc. Add 3 μL of USER™ enzyme mix by pipetting up and down, and incubate at 37 °C for 15 min.\r\n\n\nd. Clean up the reaction with AMPure XP beads: add 1.2X volume of bead \\(63.6 µL) to the reaction and follow the cleanup protocol. At final step, elute DNA in 27 µL of water and carefully transfer 25 μL of the supernatant to a new 1.5 mL tube.\r\n\n\n\r\n\n\nNOTE: Skip the Size Select Adaptor Ligated DNA in the NEB’s protocol and directly proceed the next step."
+            },
+            {
+                "title": "4.",
+                "body": "_PCR enrichment of ligated DNA_\r\n  The PCR primers for this step are designed with 15 bp of homology arms flanking the cloning site of the Starr-seq vector1.\r\n\n\na. Mix the following components in a PCR tube:\r\n\n\n\r\n\n\nLigated DNA: 2.5 µL\r\n\n\nCapstarr-seq primer mix \\(12.5 µM each, <a href=\" http://www.nature.com/protocolexchange/system/uploads/3945/original/Table_1.pdf?1444418231\" >Table 1</a>, No.1 & 2): 5 µL\r\n\n\nKAPA HiFi HotStart Readymix DNA Polymerase: 25 µL\r\n\n\nSterile H2O: 17.5 µL\r\n\n\nTotal volume: 50 µL\r\n\n\n\r\n\n\nb. Place the tube in Thermocycler and run the following program:\r\n\n\n\r\n\n\n98 °C for 45 s\r\n\n\n98 °C for 15 s, 65 °C for 30 s, 72 °C for 30 s \\(7 cycles)\r\n\n\n72 °C for 2 min\r\n\n\nKeep at 4 °C\r\n\n\n\r\n\n\nc. Clean up the PCR reaction with AMPure XP beads: add 1.2X volume of beads \\(60 µL) to the reaction and follow the cleanup protocol. At final step, elute DNA in 22 µL of water and carefully transfer 20 μL of the supernatant to a new 1.5 mL tube.\r\n\n\nd. Measure the concentration of DNA with a Qubit dsDNA Kit.\r\n\n\ne. Assess quality of DNA library with Agilent 2100 Bioanalyzer using the DNA High Sensitive Kit. A shift of 100 bp in the size distribution should be observed after adding adaptors to the library \\(<a href=\" http://www.nature.com/protocolexchange/system/uploads/3937/original/Fig2.pdf?1444417997\" >Figure 2b</a>).\r\n\n\nf. Perform the required number of PCR reactions \\(steps 4a-4c) in order to obtain the desired amount of DNA for the capture \\(10-20 µg of DNA is required for a single capture). If DNA yield is not enough, starts again library preparation from the beginning \\(steps B1 to step B4).\r\n\n\n\r\n\n\nC."
+            }
+        ]
+    },
+    {
+        "title": "**Capture enrichment \\(Timing: ~3 days, Hands-on: 2 hours)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "_Microarray design_\r\n  For target enrichment, a home-designed 3 bp resolution oligonucleotide microarray covering the desired genomic regions is constructed using the SureSelect Capture Array technology \\(Agilent) and the eArray tool default setting \\(https://earray.chem.agilent.com/earray/). Depending on the number of region of interest it is possible to choose either the 244k or 1M format. \r\n\n\nNote: It should be noted that the size of tested regions depends solely on the size distribution of the Pre-capture DNA library \\(Steps A & B), and not on the size of the defined regions of interest."
+            },
+            {
+                "title": "2.",
+                "body": "_Microarray processing_\r\n  Follow the protocol of Agilent SureSelect DNA Capture array from Section 3, step 1 to step 5 \\(Manual part number G4458-90000, version 1.0, July 2009). \r\n\n\nThe hybridization sample mixture is as following:\r\n\n\n\r\n\n\nSample DNA \\(10 µg to 20 µg in nuclease-free water): 138 µL\r\n\n\nBlocking oligo 1 \\(200 µM): Capstarr-seq_Forward \\(No.1): 5 µL\r\n\n\nBlocking oligo 2 \\(200 µM): Capstarr-seq_Reverse \\(No.2): 5 µL\r\n\n\nBlocking oligo 3 \\(200 µM): Capstarr-seq_Forward_Rev \\(No.3): 5 µL\r\n\n\nBlocking oligo 4 \\(200 µM): Capstarr-seq_Reverse_Rev \\(No.4): 5 µL\r\n\n\nCot-1 DNA \\(1 mg/mL)#: 50 µL\r\n\n\nAgilent 10X Blocking Agent: 52 µL\r\n\n\nAgilent 2X Hi-RPM Hybridization Buffer : 260 µL\r\n\n\nTotal volume: 520 µL\r\n\n\n\r\n\n\n\\(#) use Cot-1 DNA from the appropriate species.\r\n\n\n\r\n\n\nD."
+            }
+        ]
+    },
+    {
+        "title": "**Amplification of eluted post-capture DNA \\(Timing: ~1 days)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "_Purify eluted post-capture DNA with the AMPure XP beads_\r\n  Add 1X volume of beads \\(490 µL) to the eluted post-capture DNA and follow the cleanup protocol. At final step, elute DNA in 52 µL of water and carefully transfer 50 μL of the supernatant to a new 1.5 mL tube."
+            },
+            {
+                "title": "2.",
+                "body": "_PCR amplification_\r\n  a. Set up a PCR reaction as following:\r\n\n\n\r\n\n\nEluted post-capture DNA: 5 µL \r\n\n\nCapstarr-seq primer mix \\(10 µM each, No.1 & 2): 5 µL\r\n\n\nKAPA HiFi HotStart Readymix DNA Polymerase: 25 µL \r\n\n\nSterile H2O: 15 µL\r\n\n\nTotal volume: 50 µL\r\n\n\n\r\n\n\nb. Place the tubes in Thermocycler and run the following program:\r\n\n\n\r\n\n\n98 °C for 45 s\r\n\n\n98 °C for 15 s, 65 °C for 30 s, 72 °C for 30 s \\(20 - 24 cycles#)\r\n\n\n72 °C for 2 min\r\n\n\nKeep at 4 °C\r\n\n\n\r\n\n\n\\(#) number of cycle is depending on the efficiency of the capture. For the first time, we recommend running with 20 cycles."
+            },
+            {
+                "title": "3.",
+                "body": "_PCR Clean up with the AMPure XP beads_\r\n  a. Add 1X volume of bead \\(60 µL) to the reaction and follow the clean up protocol. At final step, elute DNA in 42 µL of water and carefully transfer 40 μL of the supernatant to a new 1.5 mL tube.\r\n\n\nb. Measure the concentration of DNA with the Qubit dsDNA HS Assay Kit.\r\n\n\nc. \\(Optional) Analyze post-capture DNA library on Agilent 2100 bioanalyzer using DNA High Sensitive Kit. The amplified post-capture library should have the same size distribution as the pre-capture library with the peak size of 400 bp \\(<a href=\" http://www.nature.com/protocolexchange/system/uploads/3937/original/Fig2.pdf?1444417997\" >Figure 2c</a>).\r\n\n\n\r\n\n\n\r\n\n\nd. Perform additional number of PCR reactions \\(step D2 and step D3) to reach to required amount of DNA for the next cloning step \\(at least 2 µg of DNA)."
+            },
+            {
+                "title": "4.",
+                "body": "_Evaluation of capture efficiency_\r\n  We recommend selecting a set of at least 3 targeted regions and 3 non-targeted regions for qPCR assay in order to having accurate confirmation. \r\n\n\na. Set up two series of qPCR reactions using as template either pre-capture amplified DNA library \\(step B4) or post-capture amplified library \\(step D3).\r\n\n\n\r\n\n\nDNA: 0.5 ng\r\n\n\nPrimer mix \\(10 µM each): 2 µL\r\n\n\nPower SYBR: 10 µL\r\n\n\nSterile H2O: up to 20 µL\r\n\n\nTotal volume: 20 µL\r\n\n\n\r\n\n\nb. Quantify target enrichment \r\n\n\nEvaluate the target enrichment by ΔCt values. The difference between pre-capture and post-capture Ct values indicates the level of enrichment and the capture is considered to be efficient when ΔCt ≥ 5 \\(<a href=\" http://www.nature.com/protocolexchange/system/uploads/3939/original/Fig3.pdf?1444418049\" >Figure 3</a>).\r\n\n\n\r\n\n\nE."
+            }
+        ]
+    },
+    {
+        "title": "**Library cloning \\(Timing: ~4 days)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "_Prepare linearized Starr-seq vector_\r\n  STARR-Seq screening vector should be obtained from Stark’s lab \\(ref3). The large amount of plasmid is prepared by Maxiprep \\(QIAGENE). Vector is then linearized by restriction enzyme digestion as following:\r\n\n\na. AgeI digestion\r\n\n\n- Prepare digestion mixture as follow:\r\n\n\n\r\n\n\n Plasmid DNA: 5 µg\r\n\n\nCutsmart buffer \\(10X): 10 µL\r\n\n\nAgeI-HF \\(20 U/µL): 2.5 µL\r\n\n\nSterile H2O: up to 100 µL\r\n\n\nTotal volume: 100 µL\r\n\n\n\r\n\n\n- Incubate the digestion mixture at 37 °C for 4 – 6 hours.\r\n\n\n- Purify digested plasmid with QIAquick PCR Purification Kit and elute the product in 50 µL of water.\r\n\n\nb. SalI digestion\r\n\n\n- Prepare digestion mixture as follow:\r\n\n\n\r\n\n\nPlasmid DNA: 5 µg\r\n\n\nCutsmart buffer \\(10X): 10 µL\r\n\n\nSalI-HF \\(20 U/µL): 2.5 µL\r\n\n\nSterile H2O: up to 100 µL\r\n\n\nTotal volume: 100 µL\r\n\n\n\r\n\n\n                               - Incubate the digestion mixture at 37 °C for 6 – 8 hours.\r\n\n\nc. Gel electrophoresis\r\n\n\n- Prepare agarose gel at 0.8% in a long tray.\r\n\n\n- Load digested plasmid on gel \\(avoid overload plasmid DNA).\r\n\n\n- Run at low voltage until the bands are well separated.\r\n\n\n- Excise the desired band \\(3.5kb) under UV 365 mm \\(process as fast as possible to avoid DNA damage).\r\n\n\n- Purify linearized plasmid with QIAquick Gel Extraction Kit and elute in 50 µL of water.\r\n\n\nd. NcoI digestion \\(optional)\r\n\n\nNcoI cut at a site between AgeI and SalI. This step helps to avoid any contamination of circular vector.\r\n\n\n- Digestion mixture as follow:\r\n\n\n\r\n\n\nPlasmid DNA: 5 µg\r\n\n\nCutsmart buffer \\(10X): 10 µL\r\n\n\nNcoI-HF \\(20 U/µL): 2.5 µL\r\n\n\nSterile H2O: up to 100 µL\r\n\n\nTotal volume: 100 µL\r\n\n\n\r\n\n\n- Purify digested plasmid with QIAquick PCR Purification Kit and elute in 50 µL of water."
+            },
+            {
+                "title": "2.",
+                "body": "_In-Fusion cloning reaction_\r\n  Before using the linearized vector for cloning, it is recommended to perform a transformation test with linearized vector only to evaluate the background. Typically, the transformation of 100 ng of linearized vector should give few hundred colonies \\(acceptable range).\r\n\n\na. Perform 12 In-Fusion reactions using In-Fusion HD Cloning Kit. For 1 reaction, combine the following reagents in a PCR tube:\r\n\n\n\r\n\n\nLinearized vector: 200 ng\r\n\n\nLibrary: 50 ng\r\n\n\nIn-Fusion enzyme mix: 2 µL\r\n\n\nH2O: up to 10 µL\r\n\n\n\r\n\n\nb. Incubate reactions for 15 min at 50 °C, and then transfer tubes to ice.\r\n\n\nc. Pool all 12 In-Fusion reactions in 1.5 mL tubes.\r\n\n\nd. Purify In-Fusion reaction with AMPure beads: Add 1X volume of bead \\(100 µL) to the reaction and follow the clean-up protocol. At final step, elute recombinant plasmid in 22 µL of water and carefully transfer 20 μL of the supernatant to a new 1.5 mL tube."
+            },
+            {
+                "title": "3.",
+                "body": "_Transformation of recombinant library into E.coli_\r\n  Perform 12 transformations in total\r\n\n\na. Thaw MegaX DH10B™ T1R Electrocomp™ Cells on wet ice.\r\n\n\nb. When cells are thawed, mix cells by tapping gently. Add 220 µL of cells to chilled 1.5 mL tube containing 20 µL of purified recombinant plasmid.\r\n\n\nc.  Pipette 20 µL of cell/DNA mixture into a chilled 0.1 cm cuvette and electroporate. If you are using the BTXR ECMR 630 or Bio-Rad GenePulserR II electroporator, we recommend using the following electroporation conditions: 2.0 kV, 200 Ω, 25 μF. If you are using a different electroporator, you may need to vary these electroporation conditions to achieve optimal transformation efficiency. The time constant should be between 4,8 – 5,2.\r\n\n\nd. Add 1 mL of Recovery Medium to the cells in the cuvette and transfer the solution to a 15 mL culture tube.\r\n\n\ne. Perform the remaining 11 transformations and pool altogether in the same tube.\r\n\n\nf. Close the tube lid and shake at 225 rpm 37 °C for 1 hour.\r\n\n\ng. To estimate total number of clone in the library, spread 0.002%, 0.004% and 0.006% of the total transformation mix on pre-warmed LB plates containing 100 μg/mL ampicillin. Incubate plates overnight at 37 °C.\r\n\n\nh. The remaining transformation mix is directly transferred to 1 L of LB containing 100 μg/mL ampicillin and grow overnight at 37 °C with shaking at 250 rpm. \r\n\n\ni. The next day, count the number of colony on plates and estimate the number of clones in the whole transformation reaction. Usually a total of 6-8 million colonies is achieved."
+            },
+            {
+                "title": "4.",
+                "body": "_Maxiprep \\(QIAGEN Plasmid Maxi Kit)_\r\n  a. Collect cultured bacteria after 14-16 hours and perform 10 Maxipreps \\(100 mL of bacteria per one Maxiprep) following the manufacture’s protocol.\r\n\n\nb. Purified plasmid library is then well diluted in water at high concentration \\(~5 µg/µL).\r\n\n\n\r\n\n\nF."
+            }
+        ]
+    },
+    {
+        "title": "**Library transfection \\(Timing: ~2 days)**",
+        "body": [
+            "To ensure sufficient representation of each target region, highly efficient transfection of the CapStarr-seq library might be achieved. In total, 1.25 mg of plasmid library is transfected into 50 million cells using the cell-line specific conditions. \r\n\n\nAs an example, we demonstrate here detailed protocol for K562 cell transfection follow Neon 100 uL transfection kit protocol.",
+            {
+                "title": "1.",
+                "body": "One day before transfection, plate the cells at a density at which cells can reach to 70% - 80% confluent the next day."
+            },
+            {
+                "title": "2.",
+                "body": "Prepare required culture flasks, fill with pre-warmed culture medium."
+            },
+            {
+                "title": "3.",
+                "body": "Count the cell number."
+            },
+            {
+                "title": "4.",
+                "body": "Take an aliquot of 50 x 106 cells and wash in pre-warmed PBS."
+            },
+            {
+                "title": "5.",
+                "body": "Pellet the cells by centrifugation and completely remove PBS."
+            },
+            {
+                "title": "6.",
+                "body": "Resuspend cells in 1 mL Buffer R."
+            },
+            {
+                "title": "7.",
+                "body": "Add plasmid library: 25 µg of plasmid library per million cells, so total 1250 µg plasmid library is needed for 50 million cells."
+            },
+            {
+                "title": "8.",
+                "body": "Perform 10 transfections: 5 million cells per transfection with conditions as following:\r\n  Pulse voltage: 1450       Pulse width: 10          Pulse number:   3"
+            },
+            {
+                "title": "9.",
+                "body": "Spread the transfected cells in prepared culture flasks. Return cells into 37 °C, 5% CO¬¬2 incubator."
+            },
+            {
+                "title": "10.",
+                "body": "Optional: the overall enhancer activity of the library can be evaluated by FACS analysis with an aliquot of cells after 24 hours of transfection. Typically, a shift of GFP expression as compared to cells transfected with the empty STARR-seq vector is observed \\(<a href=\" http://www.nature.com/protocolexchange/system/uploads/3941/original/Fig4.pdf?1444418074\" >Figure 4</a>).\r\n  \r\n\n\nG."
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of targeted cDNA \\(Timing: ~1 days)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "_RNA extraction_\r\n  24h after transfection, cells are collected for RNA isolation using the RNeasy Mini Plus Kit with some remarks:\r\n\n\n- Homogenize samples using QIAshredder \\(QIAGEN, 79656).\r\n\n\n- Apply the DNase-on-column \\(QIAGEN, 79254).\r\n\n\n- Total RNA amount is measured with Nanodrop Spectrometer."
+            },
+            {
+                "title": "2.",
+                "body": "_mRNA purification_\r\n  - Follow the manual instruction of µMACS mRNA Isolation Kit. Depending on the amount of total RNA, using the required number of columns \\(do not overload the columns).\r\n\n\n- Purified mRNA concentration is measured by Qubit RNA HS Assay kit. Normally, mRNA account for 1% - 5% of total RNA population."
+            },
+            {
+                "title": "3.",
+                "body": "_DNase I treatment_ \r\n  a. Prepare the following mixture in a PCR tube:\r\n\n\n\r\n\n\nmRNA: all from above step\r\n\n\n10X Buffer: 5 µL \r\n\n\nDnase I: 1 µL\r\n\n\nH2O: up to 50 µL\r\n\n\nTotal volume: 50 µL\r\n\n\n\r\n\n\nb. Incubate the mixture at 37 °C for 30 min then place on ice.\r\n\n\nc. RNA clean-up following the Rneasy Mini Plus Kit.\r\n\n\nd. Quantify final mRNA concentration by Qubit RNA HS Assay Kit."
+            },
+            {
+                "title": "4.",
+                "body": "_Targeted cDNA synthesis_\r\n  Perform 10 reverse transcription reactions following the SuperScript® III First-Strand Synthesis System protocol. \r\n\n\na. Prepare the RNA/primer mixture \\(this following mixture is for 1 reaction):\r\n\n\n\r\n\n\nmRNA: 300 ng\r\n\n\nRT primer \\(10 µM, <a href=\" http://www.nature.com/protocolexchange/system/uploads/3945/original/Table_1.pdf?1444418231\" >Table 1</a>, No.5): 1 µL\r\n\n\ndNTP \\(10 µM): 1 µL\r\n\n\nSterile H2O: up to 10 µL\r\n\n\nTotal volume: 10 µL\r\n\n\n\r\n\n\nb. Incubate the tubes at 65 °C for 5 min, then place on ice for at least 1 min.\r\n\n\nc. Prepare the following cDNA synthesis mix \\(this following mixture is for 1 reaction):\r\n\n\n\r\n\n\n10X RT buffer: 2 µL\r\n\n\n25 mM MgCl2: 4 µL\r\n\n\n0.1M DTT: 2 µL\r\n\n\nRnase OUT \\(40U/ µL): 1 µL\r\n\n\nSuperscript III RT \\(200U/ µL): 1 µL\r\n\n\nTotal volume: 10 µL\r\n\n\n\r\n\n\nd. Add 10 µL of cDNA synthesis mix to each RNA/primer mixture, mix gently and collect by brief centrifugation. Incubate at 50 °C for 50 min and terminate the reaction at 85 °C for 5 min. Chill on ice.\r\n\n\ne. Add 1 µL of Rnase H to each tube and incubate for 20 min at 37 °C.\r\n\n\nf. Purify the reaction with QIAquick PCR Purification Kit and elute in 50 µL of water.\r\n\n\ng. Measure single strand cDNA concentration by Qubit® ssDNA Assay Kit.\r\n\n\n\r\n\n\nH."
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of Libraries for Sequencing \\(Timing: ~4 hours)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "_Targeted PCR_ \r\n  a. Prepare 10 PCR reactions in PCR tubes.\r\n\n\nFor cDNA Library, the following mixture is for 1 reaction: \r\n\n\ncDNA: 5 ng\r\n\n\nTargeted library PCR primer mix \\(12.5 µM each, <a href=\" http://www.nature.com/protocolexchange/system/uploads/3945/original/Table_1.pdf?1444418231\" >Table 1</a>, No.6 & 8): 5 µL\r\n\n\nKAPA HiFi HotStart Readymix DNA Polymerase : 25 µL\r\n\n\nSterile H2O: up to 50 µL\r\n\n\nTotal volume: 50 µL\r\n\n\nFor Input Library, the following mixture is for 1 reaction:\r\n\n\nPlasmid DNA \\(from maxiprep): 0.2 ng\r\n\n\nTargeted Input PCR primer mix \\(12.5 µM each, <a href=\" http://www.nature.com/protocolexchange/system/uploads/3945/original/Table_1.pdf?1444418231\" >Table 1</a>, No.7 & 8): 5 µL\r\n\n\nKAPA HiFi HotStart Readymix DNA Polymerase: 25 µL\r\n\n\nSterile H2O: up to 50 µL\r\n\n\nTotal volume: 50 µL \r\n\n\n\r\n\n\nb. Place the tubes in Thermocycler and run the following program:\r\n\n\n\r\n\n\n98 °C for 2 min\r\n\n\n98 °C for 20 s, 65 °C for 20 s, 72 °C for 1 min \\(15 cycles)\r\n\n\n72 °C for 2 min\r\n\n\nKeep at 4 °C\r\n\n\n\r\n\n\nc. Purify the reaction with QIAquick PCR Purification Kit and elute in 50 µL of water.\r\n\n\nd. Analyze DNA libraries on Agilent 2100 Bioanalyzer with DNA High Sensitive Kit. \r\n\n\nThe expected size for amplified Input library is the total size of insert plus ~1 kb of the vector.\r\n\n\nThe expected size for amplified cDNA library is the total size of the insert plus ~800 bp of the vector because of the splicing \\(<a href=\" http://www.nature.com/protocolexchange/system/uploads/3943/original/Fig5.pdf?1444418098\" >Figure 5</a>).\r\n\n\n\r\n\n\nNOTE: Depending on the size distribution of the obtained DNA profile, it could be necessary to purify the expected DNA fragments after running on an agarose gel as described in Vanhille et al. 2015"
+            },
+            {
+                "title": "2.",
+                "body": [
+                    "_Index PCR_ \r\n  Perform a PCR reaction to add sequencing indexes to the libraries using NEBNext® Multiplex Oligos for Illumina® \\(Index Primer Set",
+                    {
+                        "title": "1).",
+                        "body": "a. Mix the following components:\r\n\n\n\r\n\n\nDNA library/Input: 2 ng\r\n\n\nUniversal primer \\(25 µM): 2.5 µL\r\n\n\nIndex primer \\(25 µM)# : 2.5 µL\r\n\n\nKAPA HiFi HotStart Readymix DNA Polymerase: 25 µL\r\n\n\nSterile H2O: up to 50 µL\r\n\n\nTotal volume: 50 µL\r\n\n\n\r\n\n\n\\(#) If you are using the NEBNext Multiplex Oligos for Illumina \\(#E7335, #E7500), for each reaction, only one of the 12 PCR indexes is used for the PCR.    \r\n\n\n\r\n\n\nb. Place the tubes in Thermocycler and run the following program:\r\n\n\n\r\n\n\n98 °C for 2 min\r\n\n\n98 °C for 15s, 65 °C for 30 s, 72 °C for 30s \\(10 cycles)\r\n\n\n72 °C for 2 min\r\n\n\nKeep at 4 °C\r\n\n\n\r\n\n\nc. PCR Clean up with AMPure XP beads: add 1X volume of beads \\(50 µL) to the PCR product and follow the cleanup protocol. At final step, elute DNA in 52 µL of water and carefully transfer 50 μL of the supernatant to a new 1.5 mL tube.\r\n\n\nd. Quantify DNA library and Input library on Agilent 2100 Bioanalyzer using DNA High Sensitive Kit. The distribution of libraries should peak at 450 bp \\(<a href=\" http://www.nature.com/protocolexchange/system/uploads/3943/original/Fig5.pdf?1444418098\" >Figure 5</a>).\r\n\n\n\r\n\n\nI."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Library sequencing and processing \\(Timing: 1-2 days)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Perform sequencing using an Illumina high-throughput sequencing platform and standard single-end sequencing. We usually aim for coverage of 1k reads per captured regions."
+            },
+            {
+                "title": "2.",
+                "body": "Align sequenced reads to the adequate genome using standard tools. Do not remove multiple reads starting at the same coordinates."
+            },
+            {
+                "title": "3.",
+                "body": "Elongate each read accordingly to the average size of the library.\r\n  \r\n\n\nJ."
+            }
+        ]
+    },
+    {
+        "title": "**Quantification of enhancer activity**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "For each captured regions quantify the number of Fragment Per Kilobase per Million mapped reads \\(FPKM) in both Input and CapStarr-seq experiments."
+            },
+            {
+                "title": "2.",
+                "body": "Remove regions where FPKM in the Input sample is below"
+            },
+            {
+                "title": "1.",
+                "body": []
+            },
+            {
+                "title": "3.",
+                "body": "For each region compute the FPKM ratio between CapStarr-seq and Input samples."
+            },
+            {
+                "title": "4.",
+                "body": "Determine à threshold for enhancer activity. If the experiments contains a set negative controls or randomly chosen regions, then the threshold can be estimated using a fold discovery rate approach. If not, threshold can be estimated by computing the inflexion point of the ranked FPKM ratios."
+            }
+        ]
+    }
+]

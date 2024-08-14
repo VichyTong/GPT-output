@@ -1,0 +1,478 @@
+[
+    [
+        "entity",
+        "action",
+        "entity) - (plants",
+        "selected for",
+        "tetrad-stage pollen"
+    ],
+    [
+        "top ~30 cm part containing tassels",
+        "harvested into",
+        "flask filled with wate"
+    ],
+    [
+        "entity",
+        "relation",
+        "entity) \n\n(spikelet",
+        "contains",
+        "three older and three younger anthers"
+    ],
+    [
+        "cells",
+        "released from",
+        "three same-stage anthers"
+    ],
+    [
+        "Isolation Buffer",
+        "used to",
+        "release cells"
+    ],
+    [
+        "samples",
+        "identified containing",
+        "last-stage tetrads"
+    ],
+    [
+        "last-stage tetrads",
+        "easy to separate into",
+        "microspores"
+    ],
+    [
+        "glass tools",
+        "used to",
+        "separate microspores"
+    ],
+    [
+        "last-stage tetrads",
+        "do not adhere to",
+        "glass tool"
+    ],
+    [
+        "D-sorbitol",
+        "used in",
+        "MDA Amplification"
+    ],
+    [
+        "QIAGEN REPLI-g Single Cell Kit",
+        "used for",
+        "MDA Amplification"
+    ],
+    [
+        "single cell DNA",
+        "amplified by",
+        "MDA Amplification"
+    ],
+    [
+        "MDA Amplification",
+        "uses",
+        "10×PCR Buffer"
+    ],
+    [
+        "MDA Amplification",
+        "uses",
+        "dNTP"
+    ],
+    [
+        "MDA Amplification",
+        "uses",
+        "rTaq"
+    ],
+    [
+        "d2H2O",
+        "used in",
+        "MDA Amplification"
+    ],
+    [
+        "TruSeq DNA Sample Prep v2 Kit",
+        "used for",
+        "DNA sample preparation"
+    ],
+    [
+        "Agencourt Ampure XP beads",
+        "used for",
+        "DNA purification"
+    ],
+    [
+        "80% EtOH",
+        "used in",
+        "DNA purification"
+    ],
+    [
+        "MinElute Gel Extraction Kit",
+        "used for",
+        "DNA extractio"
+    ],
+    [
+        "DNA",
+        "diluted and added to",
+        "PCR mixture"
+    ],
+    [
+        "forward primer",
+        "added to",
+        "PCR mixture"
+    ],
+    [
+        "reverse primer",
+        "added to",
+        "PCR mixture"
+    ],
+    [
+        "10×PCR Buffer",
+        "added to",
+        "PCR mixture"
+    ],
+    [
+        "dNTP",
+        "added to",
+        "PCR mixture"
+    ],
+    [
+        "rTaq",
+        "added to",
+        "PCR mixture"
+    ],
+    [
+        "d2H2O",
+        "added to",
+        "PCR mixture"
+    ],
+    [
+        "PCR",
+        "performed with",
+        "cycling parameter"
+    ],
+    [
+        "Polymerase chain reaction product",
+        "detected by",
+        "2% Agarose gel electrophoresis"
+    ],
+    [
+        "Sample",
+        "considered of sufficient quality",
+        "if no less than 8 of the 10 markers are successfully amplified"
+    ],
+    [
+        "QIAGEN REPLI-g Single Cell Kit",
+        "used for",
+        "sample preparation"
+    ],
+    [
+        "10×PCR Buffer",
+        "used in",
+        "PCR amplification"
+    ],
+    [
+        "dNTP",
+        "used in",
+        "PCR amplification"
+    ],
+    [
+        "rTaq",
+        "used in",
+        "PCR amplification"
+    ],
+    [
+        "d2H2O",
+        "used in",
+        "PCR amplification"
+    ],
+    [
+        "TruSeq DNA Sample Prep v2 Kit",
+        "used for",
+        "library preparation"
+    ],
+    [
+        "Agencourt Ampure XP beads",
+        "used for",
+        "DNA purification"
+    ],
+    [
+        "80% EtOH",
+        "used for",
+        "DNA purification"
+    ],
+    [
+        "MinElute Gel Extraction Kit",
+        "used for",
+        "DNA purificatio"
+    ],
+    [
+        "Polymerase chain reaction product",
+        "used for",
+        "measuring DNA concentratio"
+    ],
+    [
+        "amplification product",
+        "added into",
+        "d2H2O"
+    ],
+    [
+        "DNA concentration",
+        "measured by",
+        "Nanodrop 200"
+    ],
+    [
+        "DNA fragmented",
+        "mixed with",
+        "End Repair Mix and Resuspension Buffer"
+    ],
+    [
+        "mixture",
+        "incubated at",
+        "30℃ for 30mi"
+    ],
+    [
+        "Agencourt Ampure XP beads",
+        "used for",
+        "purification"
+    ],
+    [
+        "end repaired sample",
+        "mixed with",
+        "Agencourt Ampure XP beads"
+    ],
+    [
+        "purification",
+        "incubated at",
+        "room temperature for 15 min"
+    ],
+    [
+        "sample",
+        "placed on",
+        "magnetic stand"
+    ],
+    [
+        "supernatant",
+        "aspirated and discarded"
+    ],
+    [
+        "fresh 80% EtOH",
+        "added to",
+        "sample"
+    ],
+    [
+        "washing",
+        "completed by",
+        "incubating at RT for 30s"
+    ],
+    [
+        "sample",
+        "dried at",
+        "room temperature for ~5-10min"
+    ],
+    [
+        "resuspension buffer",
+        "added to",
+        "beads"
+    ],
+    [
+        "supernatant",
+        "transferred into",
+        "new PCR wel"
+    ],
+    [
+        "Agencourt Ampure XP beads",
+        "used for",
+        "2nd purification"
+    ],
+    [
+        "Ligation sample",
+        "mixed with",
+        "Agencourt Ampure XP beads"
+    ],
+    [
+        "magnetic stand",
+        "used to",
+        "separate beads from supernatant"
+    ],
+    [
+        "80% EtOH",
+        "used for",
+        "washing"
+    ],
+    [
+        "Resuspension Buffer",
+        "added to",
+        "separated beads"
+    ],
+    [
+        "supernatant",
+        "transferred to",
+        "new PCR wel"
+    ],
+    [
+        "2% Agarose gel",
+        "used for",
+        "electrophoresis"
+    ],
+    [
+        "MinElute Gel Extraction Kit",
+        "used for",
+        "size selection"
+    ],
+    [
+        "QG Buffer",
+        "added to",
+        "2ml tube containing 300mg gel"
+    ],
+    [
+        "gel",
+        "melted completely",
+        "after incubation with QG Buffer"
+    ],
+    [
+        "isopropanol",
+        "added to melted gel",
+        "and mixed thoroughly"
+    ],
+    [
+        "MinElute column",
+        "placed in",
+        "new 2ml collection tube"
+    ],
+    [
+        "melted sample",
+        "transferred to",
+        "MinElute column"
+    ],
+    [
+        "centrifugation",
+        "performed for",
+        "1min at 13000 rpm"
+    ],
+    [
+        "flow-through",
+        "discarded",
+        "after each centrifugation"
+    ],
+    [
+        "QG Buffer",
+        "added to",
+        "column and centrifuged"
+    ],
+    [
+        "PE Buffer",
+        "added to",
+        "column and centrifuged"
+    ],
+    [
+        "residual ethanol",
+        "removed completely",
+        "after centrifugation"
+    ],
+    [
+        "column",
+        "placed into",
+        "clean 1.5ml tube"
+    ],
+    [
+        "EB Buffer",
+        "added onto",
+        "center of column membrane"
+    ],
+    [
+        "incubation",
+        "performed at RT for",
+        "3min"
+    ],
+    [
+        "centrifugation",
+        "performed for",
+        "1min"
+    ],
+    [
+        "flow-through",
+        "collected and used as",
+        "sample purified for PCR reactio"
+    ],
+    [
+        "Agencourt Ampure XP beads",
+        "used for",
+        "3rd purification"
+    ],
+    [
+        "PCR sample",
+        "mixed with",
+        "50μl Beads"
+    ],
+    [
+        "PCR sample",
+        "incubated at",
+        "RT for 15min"
+    ],
+    [
+        "PCR sample",
+        "placed on",
+        "magnetic stand at RT for 5min"
+    ],
+    [
+        "supernatant",
+        "removed and discarded using",
+        "200μl pipette"
+    ],
+    [
+        "fresh 80% EtOH",
+        "added to",
+        "PCR sample"
+    ],
+    [
+        "PCR sample",
+        "incubated at",
+        "RT for 30s"
+    ],
+    [
+        "supernatant",
+        "removed and discarded"
+    ],
+    [
+        "fresh 80% EtOH",
+        "added again to",
+        "PCR sample"
+    ],
+    [
+        "PCR sample",
+        "incubated at",
+        "RT for 30s"
+    ],
+    [
+        "supernatant",
+        "removed and discarded"
+    ],
+    [
+        "sample",
+        "dried at",
+        "RT for ~5-10min"
+    ],
+    [
+        "Resuspension Buffer",
+        "added to",
+        "Beads"
+    ],
+    [
+        "sample",
+        "incubated at",
+        "RT for 2min"
+    ],
+    [
+        "sample",
+        "placed on",
+        "magnetic stand at RT for 5min"
+    ],
+    [
+        "supernatant",
+        "transferred into",
+        "new PCR well"
+    ],
+    [
+        "library",
+        "stored at",
+        "-20℃ for up to two months"
+    ],
+    [
+        "library",
+        "qualified and quantified for",
+        "pair-end sequencing on Illumina Hiseq 2000 platform"
+    ]
+]

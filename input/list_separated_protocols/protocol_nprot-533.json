@@ -1,0 +1,46 @@
+[
+    {
+        "title": "1.",
+        "body": "Prepare L cells at 50% confluency in 6-well plates."
+    },
+    {
+        "title": "2.",
+        "body": "In the next day, transfect a group of L cells with 1 μg of NGL-3 and 0.5 μg of EGFP by the lipofectamine method. In parallel, transfect another group of L cells with 1 μg of LAR and 0.5 g of DsRed. EGFP and DsRed coexpressions are to differentially visualize the two groups of cells."
+    },
+    {
+        "title": "3.",
+        "body": "After 48 hrs, wash L cells twice with PBS, followed by trypsin treatment of the cells."
+    },
+    {
+        "title": "4.",
+        "body": "After trypsin treatment, add 2 ml of DMEM containing 10% fetal bovine serum to inactivate trypsin."
+    },
+    {
+        "title": "5.",
+        "body": "Spin down the L cells at 1,000 rpm for 5 min."
+    },
+    {
+        "title": "6.",
+        "body": "Resuspend the cell pellet in 1 ml of serum-free DMEM to disperse cells."
+    },
+    {
+        "title": "7.",
+        "body": "Transfer 500 μl of the DMEM containing L cells to a 1.5 ml microtube and rotate it for 1hr at room temperature. This 1-hr incubation is thought to help cells recover damaged adhesion proteins."
+    },
+    {
+        "title": "8.",
+        "body": "Mix 500 μl of NGL-3-expressing cells with 500 μl of LAR-expressing cells in a microtube and rotate it for 30 min at room temperature to allow cell aggregation to occur."
+    },
+    {
+        "title": "9.",
+        "body": "Carefully transfer 100 μl of the cell mixture to a well of culture slide containing 400 μl of serum-free DMEM."
+    },
+    {
+        "title": "10.",
+        "body": "Capture Z-stacked images by confocal microscopy \\(20x objective)."
+    },
+    {
+        "title": "11.",
+        "body": "For quantification, count the number of cell aggregates from a single Z-stacked frame. Cell aggregates are defined by a group of four or more clustered cells that contain at least one red and green cell."
+    }
+]

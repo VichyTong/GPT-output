@@ -1,0 +1,145 @@
+[
+    {
+        "title": "**Sample Prefractionation**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "50 μl human vitreous contains approximately 50-150 μg of protein, as determined by the Bio-Rad protein assay method. Solubilize samples in 2X sample buffer and heat at 96°C for 5 min. Place samples briefly on ice until ready for use and  centrifuge at 14000 rpm for 5 min in an Eppendorf centrifuge prior to loading onto SDS-PAGE. Normalize samples to undiluted vitreous volume \\(eg, 50 μl) for comparisons.\r\n\n\nPAUSE POINT The treated sample can be stored at -80°C for 6 month for future runs."
+            },
+            {
+                "title": "2|",
+                "body": [
+                    "Separate vitreous samples by SDS-PAGE\r\n\n\nCRITICAL STEP The glass plates and all chambers and casting systems are washed thoroughly and handed with clean gloves, to avoid contamination with other proteins and keratins.\r\n\n\n\r\n\n\nPrepare the resolving gel \\(12% or 10%, approx. 35 ml for one 14 ×16 cm gel) containing the following components: \r\n\n\nResolving gel              12% \r\n\n\n30 % \\(w/v) acrylamide/ Bis 14 ml\r\n\n\n1.5 M Tris/HCl pH 8.8,    8.75 ml \r\n\n\n10 % \\(w/",
+                    {
+                        "title": "v)",
+                        "body": "SDS            0.35 ml \r\n\n\ndistilled water            11.73 ml\r\n\n\n\r\n\n\nThe corresponding stacking gel \\(4%, approx. 12.5 ml for one gels) contains:\r\n\n\n30 % \\(w/v) acrylamide/ Bis  1.65 ml\r\n\n\n0.5 M Tris/ HCl pH 6.8     3.15 ml\r\n\n\n10 % \\(w/"
+                    },
+                    {
+                        "title": "v)",
+                        "body": "SDS             0.125 ml\r\n\n\ndistilled water             7.5 ml\r\n\n\n\r\n\n\n\\!CAUTION: Acrylamide and bisacrylamide are highly neurotoxic. When handling these chemicals, wear gloves and use a pipetting aid.\r\n\n\n\r\n\n\nLoad samples and prestained molecular weight markers on gel.\r\n\n\nCarry out electrophoresis at a constant current of 30 mA per gel \\(1.5-mm-thick). Under these conditions, the gel will take approximately 3–4 h to run. If it is more convenient to run the gel for a longer period \\(e.g. 8 h), reduce the current to 15 mA and reduce the current to 7 mA per gel for overnight. Overnight running improves resolution and is preferred for the sample of more than 100 μg protein. When the tracking dye reaches the bottom of the gel, turn the power supply off and disconnect the power cables."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Coomassie Brilliant Blue staining**",
+        "body": [
+            {
+                "title": "3|",
+                "body": "Submerge the gel in enough Coomassie Blue staining solution that the gel floats freely in the tray. Shake slowly on a laboratory shaker or rocker for 30-60 min.\r\n\n\n\\!CAUTION: Covered plastic trays work well and minimize exposure to methanol and acetic acid vapors."
+            },
+            {
+                "title": "4|",
+                "body": "Destain the gel with several changes of destaining solution until the background is transparent. \\(Gentle rocking for about 2-3 hours).\r\n\n\nCRITICAL STEP Destaining must be monitored visually and adjusted accordingly."
+            },
+            {
+                "title": "5|",
+                "body": "Acquire gel images using your chosen imaging system."
+            },
+            {
+                "title": "6|",
+                "body": "Gel can be stored in 7% acetic acid solution at 4°C for several weeks prior to in-gel digestion, but stopping at next step is preferred."
+            },
+            {
+                "title": "7|",
+                "body": "Divide the entire lane for each sample into 60-70 slices of 1 mm width and place in eppendorf tubes. The slices can be stored at -20°C for several weeks prior to in-gel digestion. \r\n\n\nPAUSE POINT Gels can be stored in 7% acetic acid solution at 4°C for several weeks without significant loss of protein. For long-term storage, protein slices to be identified by MS should be cut out and frozen at –80ºC."
+            }
+        ]
+    },
+    {
+        "title": "**In gel digestion**",
+        "body": [
+            "CRITICAL STEP Wear gloves throughout this process. Thoroughly clean all equipment and use disposable components when possible.",
+            {
+                "title": "8|",
+                "body": "Add 1 ml of water to remove any residual acid. Remove and discard water."
+            },
+            {
+                "title": "9|",
+                "body": "Add 1 ml of a 50% acetonitrile: 50% 50 mM ammonium bicarbonate \\(from the 100 mM stock solution) and soak for 30 min to 1 h.  If coomassie stain is very dark, soak for at least 1 h, change the 1 ml of a 50% acetonitrile: 50% 50 mM ammonium bicarbonate if necessary."
+            },
+            {
+                "title": "10|",
+                "body": "Remove 1 ml of a 50% acetonitrile: 50% 50 mM ammonium bicarbonate."
+            },
+            {
+                "title": "11|",
+                "body": "Add 200 μl of acetonitrile to completely dehydrate gel slices \\(acrylamide slices should turn opaque white).  Let sit in acetonitrile for approximately 10 min and then remove acetonitrile."
+            },
+            {
+                "title": "12|",
+                "body": "Dry gel chips in the speed vac \\(10-15 min – until completely dry)."
+            },
+            {
+                "title": "13|",
+                "body": "Rehydrate slices by adding 90 μl trypsin digest solution and incubate overnight at 37ºC."
+            }
+        ]
+    },
+    {
+        "title": "**Peptide extraction**",
+        "body": [
+            {
+                "title": "14|",
+                "body": "Remove supernatant and save for analysis."
+            },
+            {
+                "title": "15|",
+                "body": "Rinse slice at 3 times with 80% acetonitrile, 1% formic acid."
+            },
+            {
+                "title": "16|",
+                "body": "Remove liquid and pool with supernatant from step 14."
+            },
+            {
+                "title": "17|",
+                "body": "Dry down digest in Speed Vac until approximately 2 μl remains.\r\n\n\nCRITICAL STEP Don’t over dry the digest."
+            },
+            {
+                "title": "18|",
+                "body": "Resuspend in 18 μl 2% Acetonitrile.\r\n\n\nPAUSE POINT  The digest can be stored at –80ºC for months."
+            }
+        ]
+    },
+    {
+        "title": "**Nano-LC-MS/MS analysis**",
+        "body": [
+            {
+                "title": "19|",
+                "body": "Separate the samples with microcapillary reverse-phase column in line with a LTQ linear ion trap mass spectrometer. Data acquisition parameters were full scan MS \\(range 370 to 2000 m/z) followed by 10 data-dependent MS/MS events. \r\n\n\nMS2 Isolation width: 2.0\r\n\n\nMS2 Normalized Collision Energy: 25\r\n\n\nMS2 Activation Q: 0.25\r\n\n\nMS2 Activation Time: 30.0\r\n\n\nExclusion Mass Width by Mass\r\n\n\nExclusion Mass Width Low: 1.00\r\n\n\nExclusion Mass Width High: 1.50\r\n\n\nDynamic Exclusion Enabled\r\n\n\n  Repeat Count: 2\r\n\n\n  Repeat Duration: 30.0\r\n\n\n  Exclusion List Size: 500\r\n\n\n  Exclusion Duration: 90.0"
+            }
+        ]
+    },
+    {
+        "title": "**Data analysis**",
+        "body": [
+            {
+                "title": "20|",
+                "body": "Prepare a protein database in FASTA format. Protein databases in FASTA format are available for various species from the National Center for Biotechnology Information \\(NCBI)\\( ftp://ftp.ncbi.nih.gov/blast/db/) or from European Bioinformatics Institute \\(ftp://ftp.ebi.ac.uk/pub/databases/IPI/current/)."
+            },
+            {
+                "title": "21|",
+                "body": "Index the Database with Database Manager.  Indexer Parameters are \r\n\n\nMonoisotopic\r\n\n\nTrypsin \\(KR)\r\n\n\nFully enzymatic –cleaves at both ends\r\n\n\nMW Range: 300-3500\r\n\n\nMissed cleavage sites: 0\r\n\n\nDifferential/PTM: M+16 and C+71"
+            },
+            {
+                "title": "22|",
+                "body": "Process multiple .raw files that are contained in an Xcalibur Sequence \\(.sld) file through TurboSEQUEST. TurboSEQUEST Search Parameters are as follows.\r\n\n\nMW Range 600-3500\r\n\n\nThreshold: Absolute, 5000\r\n\n\nPrecursor ion tolerance:1.4\r\n\n\nMass Units:AMU\r\n\n\nGroup Scan: 1\r\n\n\nMinimun group count: 1\r\n\n\nMinimum ion count: 15\r\n\n\nUse Charge State: Auto\r\n\n\nMSn level: Auto"
+            },
+            {
+                "title": "23|",
+                "body": "Export the TurboSEQUEST search results into XML, excel or SQT format."
+            },
+            {
+                "title": "24|",
+                "body": [
+                    "Enter resultant matches and compile into a MySQL relational database and perform proteomics computational analyses.  We use an in-house program based on PHP-MySQL-Apache platform.\r\n\n\nData processing proceeds in five steps: parsing in to database, peptide level filtering, summarizing, protein level filtering, and reporting.\r\n\n\nThe first step is carried out by parsing the Sequest search result into a MySQL database. \r\n\n\nThe second step removes low-scoring peptide. If a peptide does not meet the following criteria, it will be removed. Cross-correlation score > 1.5, 2.0 and 2.5 for charge states +1, +2 and +3, respectively; Delta Correlation >0.1; Primary Score >200; Ranking of the Primary Score <3; and percent fragment ions >30%.",
+                    {
+                        "title": "Step 3",
+                        "body": "is to combine all search results from a sample \\(generated from entire lane of gel slices) into a single file based on the protein accession number. Slice number information should be retained in this file for later filtering and analysis. \r\n\n\nThe step 4 is filtering the redundant proteins, trypsin, keratin, and proteins that do not have 2 unique peptides identified from a single slice or adjacent slices.  \r\n\n\nThe last step is compiling the all the sample into one file. If multiple accession numbers are assigned for a peptide match then select uniform accession numbers that is consistent with all peptide matches for that protein to enable the comparison of proteins identified from different samples. The number of unique peptides identified for a given protein can be used as a semi-quantitative measure of that protein abundance among different samples."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "title": "**Glass passivation :**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Wash glass coverslips in Ethanol 70% for 1 minute and dry them with absorbant paper."
+            },
+            {
+                "title": "2.",
+                "body": "Illuminate the coverslips with the deep UVs lamp for 5 minutes.The distance with the lamp should be 5 cm for the Jelight UVO cleaner."
+            },
+            {
+                "title": "3.",
+                "body": "Put a drop of 50 to 200 µl \\(depending on the coverslip size) of a 0.1 mg/mL PLL-g-PEG solution on a parafilm and put the coverslip on top, activated face in contact with the PEG. Incubate 1 hour at room temperature, in humid chamber to avoid evaporation."
+            },
+            {
+                "title": "4.",
+                "body": "Wash 2 min in PBS, then rinse 2 times 2 min in H2O"
+            }
+        ]
+    },
+    {
+        "title": "**UV illumination :**",
+        "body": [
+            "\\(wear gloves)",
+            {
+                "title": "1.",
+                "body": "Wash mask with 70% Ethanol \\(use a soft tissue for cleaning not to scratch the mask). Repeat washing steps if necessary."
+            },
+            {
+                "title": "2.",
+                "body": "Put the quartz mask with its metal side \\(bearing the features) facing the UV lamp"
+            },
+            {
+                "title": "3.",
+                "body": "Illuminate 5 min to clean the surface and make it hydrophilic."
+            },
+            {
+                "title": "4.",
+                "body": "Put 3µl of millipore H2O \\(for 25 mm coverslip) on the metal side of the mask"
+            },
+            {
+                "title": "5.",
+                "body": "Place the coverslip with the pegylated side on the water drop."
+            },
+            {
+                "title": "6.",
+                "body": "Use a plastic tip to press the coverslip against the mask and remove the excess water\r\n  Caution: any air bubble will cause enlargment of underlying patterns \\! This is also true for airbubbles that arise due to evaporation during illumination."
+            },
+            {
+                "title": "7.",
+                "body": "Put the quartz mask with its quartz side facing the lamp \\(coverslips on the opposite side)."
+            },
+            {
+                "title": "8.",
+                "body": "Illuminate 3 to 10 min\r\n  Minimal illumination time can vary for different cell types. In our hands, 3 min were sufficient for successful spreading of RPE-1 cells, whereas HeLa cells needed at least 5 min, as they are more sensitive to remaining PEG molecules."
+            },
+            {
+                "title": "9.",
+                "body": "After illumination, put 5 mL of water on the coverlip and leave until the coverslip spontaneously floats."
+            },
+            {
+                "title": "10.",
+                "body": "Take the coverlip carefully to avoid scratching the mask with the tweezer or use plastic tweezers."
+            },
+            {
+                "title": "11.",
+                "body": "Incubate the illuminated surface1 h at room temperature with 25 µg/mL of fibronectin solution in 100 mM NaHCO<sub>3 \\(pH 8.5) . To visualize the patterns, you can add 5 µg/mL of labelled fibrinogen or fibronectin. Use  a drop of 100 µl solution on a parafilm. NaHCO</sub>3 basic buffer favors protein binding on the illuminated regions."
+            }
+        ]
+    },
+    {
+        "title": "**Plating of the cells :**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Collect cells preferably using EDTA 0,02% in PBS and NOT trypsin. This is particularly important for HeLa cells. Using EDTA allows faster rebinding of the cells in the patterns, which is important to avoid cells clustering before adhering on patterns."
+            },
+            {
+                "title": "2.",
+                "body": "Rince EDTA solution with pre-warmed and pH equilibrated culture medium \\(important for cells to rebind fast)."
+            },
+            {
+                "title": "3.",
+                "body": "Resuspend cells using a 1 mL micropipette to seperate them well."
+            },
+            {
+                "title": "4.",
+                "body": "Add 100.000 to 200.000 cells for a 25 mm coverslip or 6 well plate well. Use a small volume \\(for exemple 500 µL for a 35 mm well or dish). This will allow cells to fall fast on the surface and to remain homogeneously spread.\r\n  Leave the dish in the incubator without moving it."
+            },
+            {
+                "title": "5.",
+                "body": "Wash unattached cells 20-30 min \\(depending on the cell type) after plating with equilibrated hot medium. To wash, add medium from one side and aspirate from the other side at the same time to create a gentle flow over cells.\r\n  Cells should be spread on the patterns 1 hour after plating."
+            }
+        ]
+    }
+]

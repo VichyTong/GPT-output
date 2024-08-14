@@ -1,0 +1,59 @@
+[
+    "\nVorum Silver Stain Method",
+    {
+        "title": "1)",
+        "body": "Fix 2-18 hrs. \\(50% MeOH/12% HoAc, 0.05% formalin), 1 liter/gel"
+    },
+    {
+        "title": "2)",
+        "body": "Wash three times in 35% EtOH/water for 20 min"
+    },
+    {
+        "title": "3)",
+        "body": "Wash twice in distilled water for 10 minutes"
+    },
+    {
+        "title": "4)",
+        "body": "Sensitize 2 min with 0.5L of 100 mM sodium thiosulfate, 30 mM potassium ferricyanide"
+    },
+    {
+        "title": "5)",
+        "body": "Wash in 0.5 L water for 10 min. four times"
+    },
+    {
+        "title": "6)",
+        "body": "Stain 20 min. with 1 L 0.2% silver nitrate, 0.076% formalin"
+    },
+    {
+        "title": "7)",
+        "body": "Wash in water 1 min. twice"
+    },
+    {
+        "title": "8)",
+        "body": "Develop till dark enough with 1 L of 6% sodium carbonate, 0.05% formalin, 0.0004% sodium thiosulfate"
+    },
+    {
+        "title": "9)",
+        "body": "Stop 5 min. with 1 L of 50% MeOH/12% HoAC"
+    },
+    {
+        "title": "10)",
+        "body": "Store in 1% HoAc/water Desiderio Silver Destain"
+    },
+    {
+        "title": "11)",
+        "body": "Water 5 min \\(3X)"
+    },
+    {
+        "title": "12)",
+        "body": "Destain whole gel 15 min. with 1:1 v/v 30mM potassium ferricyanide and 100 mM\r\n\n\nsodium thiosulfate prepared fresh"
+    },
+    {
+        "title": "13)",
+        "body": "Water 5 min. \\(10X)"
+    },
+    {
+        "title": "14)",
+        "body": "Proceed to Vorum procedure and fix for 2 hrs and redo silver stain\r\n\n\n*Destain is useful if background darkens faster than the protein bands or if the gel is not stopped quickly enough and is generally too dark."
+    }
+]

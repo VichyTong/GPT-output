@@ -1,0 +1,14 @@
+[
+    {
+        "index": 235,
+        "string": "Perform smFISH probe design for the full transcript as previously described *****cit.",
+        "phrase": "as previously described",
+        "refer": "as previously described refers to the steps or methods mentioned earlier in the text."
+    },
+    {
+        "index": 240,
+        "string": "We use the SNV FISH snpfishdesign pipeline, as previously described.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the method or procedure of using the SNV FISH snpfishdesign pipeline."
+    }
+]

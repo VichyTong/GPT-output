@@ -1,0 +1,311 @@
+[
+    "\nFor the complete detailed protocol, see PDF file \"sop-flow-cytometry-invasion-assay.pdf\":http://www.nature.com/protocolexchange/system/uploads/1964/original/sop-flow-cytometry-invasion-assay.pdf?1319107440\r\n\n\n\r\n\n\nPart A – Labeling target RBC\r\n\n\n\r\n\n\nThe choice of fluorescent label for target RBC is dependent on the choice of DNA dye, which itself depends on the flow cytometer that will be used to acquire the data at the end of the invasion assay. The fluorescence emission peak of CFDA SE is approximately 517nm, close to SYBR Green I at about 520nm. CFDA SE can thus only be used in combination with Hoechst 33342. The fluorescence emission peak of DDAO SE is close to 657nm. So, it can be used in combination with either Hoechst 33342 or SYBR Green I.",
+    {
+        "title": "1.",
+        "body": "Add 12mL of RPMI 1640 and 0.5mL of washed RBC to a 50mL tube to obtain a 2% hematocrit and mix gently"
+    },
+    {
+        "title": "2.",
+        "body": "Transfer 3mL of 2% hematocrit RBC suspension to a 15mL tube labeled “stained RBC” and centrifuge at 450g for 3min \\(moderate brakes can be applied)"
+    },
+    {
+        "title": "3.",
+        "body": "Aspirate and discard all of the supernatant from the centrifuged tube"
+    },
+    {
+        "title": "4.",
+        "body": "Add 3.1mL of RPMI 1640 to a 15mL tube labeled “CFDA” \\(or “DDAO”)"
+    },
+    {
+        "title": "5.",
+        "body": "Add 12.4μL of 5mM CFDA SE in DMSO \\(or 6.2μL of 5mM DDAO SE in DMSO) to the “CFDA” \\(or “DDAO”) tube to obtain a 20μM \\(or 10μM) suspension and mix the suspension thoroughly"
+    },
+    {
+        "title": "6.",
+        "body": "Add 3mL of 20μM CFDA SE \\(or 10μM DDAO SE) to the “stained RBC” tube and immediately pipette the suspension up and down thoroughly to resuspend the pellet"
+    },
+    {
+        "title": "7.",
+        "body": "Place the tube on a rotator, switch on the rotation at maximum speed and incubate at +37°C for 2h"
+    },
+    {
+        "title": "8.",
+        "body": "Centrifuge the “stained RBC” tube at 450g for 3min"
+    },
+    {
+        "title": "9.",
+        "body": "Aspirate and discard all of the supernatant"
+    },
+    {
+        "title": "10.",
+        "body": "Add 3mL of complete media and pipette up and down to resuspend the cell pellet"
+    },
+    {
+        "title": "11.",
+        "body": "Centrifuge at 450g for 3min"
+    },
+    {
+        "title": "12.",
+        "body": "Aspirate and discard all of the supernatant"
+    },
+    {
+        "title": "13.",
+        "body": "Add 3mL of complete media and pipette up and down to resuspend the cell pellet"
+    },
+    {
+        "title": "14.",
+        "body": "Place the tube on a rotator, switch on the rotation at maximum speed and incubate at +37°C for 30min"
+    },
+    {
+        "title": "15.",
+        "body": "Centrifuge at 450g for 3min"
+    },
+    {
+        "title": "16.",
+        "body": "Aspirate and discard all of the supernatant"
+    },
+    {
+        "title": "17.",
+        "body": "Add 3mL of incomplete media and pipette up and down to resuspend the cell pellet"
+    },
+    {
+        "title": "18.",
+        "body": "Centrifuge at 450g for 3min"
+    },
+    {
+        "title": "19.",
+        "body": "Repeat steps 16 to 18 once more"
+    },
+    {
+        "title": "20.",
+        "body": "Aspirate and discard all of the supernatant"
+    },
+    {
+        "title": "21.",
+        "body": "Add 3mL of incomplete media and pipette up and down to resuspend the cell pellet\r\n  \r\n\n\nPart B – Enzymatic treatments"
+    },
+    {
+        "title": "1.",
+        "body": "Transfer 400μL of cell suspension from the “stained RBC” tube to each of 6 microfuge tubes labeled “A” to “F”"
+    },
+    {
+        "title": "2.",
+        "body": "Add 8μL of 1U/mL neuraminidase in RPMI 1640 to tube B and tube E"
+    },
+    {
+        "title": "3.",
+        "body": "Place the 6 tubes on a rotator, switch on the rotation at maximum speed and incubate at +37°C for 1h"
+    },
+    {
+        "title": "4.",
+        "body": "Centrifuge the microfuge tubes on a benchtop microcentrifuge for 30s"
+    },
+    {
+        "title": "5.",
+        "body": "Aspirate and discard the supernatants"
+    },
+    {
+        "title": "6.",
+        "body": "Add 400μL of incomplete media to each of the 6 tubes and centrifuge on a benchtop microcentrifuge for 30s"
+    },
+    {
+        "title": "7.",
+        "body": "Aspirate and discard the supernatant from each of the 6 tubes"
+    },
+    {
+        "title": "8.",
+        "body": "Add 400μL of incomplete media to each of the 6 tubes and resuspend the cell pellets by pipetting up and down"
+    },
+    {
+        "title": "9.",
+        "body": "Add 2μL of 10mg/mL trypsin in RPMI 1640 to tube C, 40μL of 10mg/mL trypsin in RPMI 1640 to tube D and tube E, and 40μL of 10mg/mL chymotrypsin in RPMI 1640 to tube F"
+    },
+    {
+        "title": "10.",
+        "body": "Place the 6 tubes on the rotator, switch on the rotation at maximum speed and incubate at +37°C for 1h"
+    },
+    {
+        "title": "11.",
+        "body": "Centrifuge the microfuge tubes on a benchtop microcentrifuge for 30s"
+    },
+    {
+        "title": "12.",
+        "body": "Aspirate and discard the supernatants"
+    },
+    {
+        "title": "13.",
+        "body": "Add 400μL of incomplete media to each of the 6 tubes and centrifuge the tubes on a benchtop microcentrifuge for 30s"
+    },
+    {
+        "title": "14.",
+        "body": "Repeat steps 12 and 13 once more"
+    },
+    {
+        "title": "15.",
+        "body": "Aspirate and discard the supernatant from each of the 6 tubes"
+    },
+    {
+        "title": "16.",
+        "body": "Add 400μL of complete media to each of the 6 tubes resuspend the cell pellets by pipetting up and down\r\n  \r\n\n\nPart C – Plate setup and incubation"
+    },
+    {
+        "title": "1.",
+        "body": "Label 18 wells of a 96-well, round-bottom plate, on its lid, from A to E and from 1 to 3"
+    },
+    {
+        "title": "2.",
+        "body": "Add approximately 200μL of PBS to the 78 unlabeled wells of the plate"
+    },
+    {
+        "title": "3.",
+        "body": "Add 50μL of donor pRBC at 2% hematocrit, 1-2% parasitemia, to each of the 18 wells labeled A1 to F3"
+    },
+    {
+        "title": "4.",
+        "body": "Rotate the plate 180 degrees"
+    },
+    {
+        "title": "5.",
+        "body": "Add 50μL of target RBC at 2% hematocrit from each of the 6 microfuge to the corresponding wells \\(e.g. 50μL from tube A to each of wells A1, A2 and A3)"
+    },
+    {
+        "title": "6.",
+        "body": "Mix by pipetting up and down the contents of each of the 18 wells, while carefully avoiding creating bubbles"
+    },
+    {
+        "title": "7.",
+        "body": "Place the plate inside an incubator culture chamber, pre-warmed to +37°C"
+    },
+    {
+        "title": "8.",
+        "body": "Close the chamber and gas the chamber for 3min with a mixture of 1% O2, 3% CO2 and a balance of N2"
+    },
+    {
+        "title": "9.",
+        "body": "Place the chamber inside an incubator at +37°C and incubate for 48h \r\n  \r\n\n\nPart D – Parasite staining\r\n\n\n\r\n\n\nIf the target RBC were stained with CFDA SE, staining of the parasites will have to be done with Hoechst 33342. If the target RBC were stained with DDAO SE, either Hoechst 33342 or SYBR Green I may be used to stain the parasites, depending on the laser lines available on the flow cytometer.\r\n\n\n\r\n\n\nHere follows the procedure for staining with SYBR Green I:"
+    },
+    {
+        "title": "1.",
+        "body": "Centrifuge the assay plate at 450g for 3min"
+    },
+    {
+        "title": "2.",
+        "body": "Draw and discard 50μL of culture supernatant from each of the 18 wells labeled A1 to F3"
+    },
+    {
+        "title": "3.",
+        "body": "Add 200μL of PBS to each of the 18 wells and centrifuge at 450g for 3min"
+    },
+    {
+        "title": "4.",
+        "body": "Draw and discard 200μL of supernatant from each of the 18 wells"
+    },
+    {
+        "title": "5.",
+        "body": "Add 200μL of 2% paraformaldehyde/0.2% glutaraldehyde in PBS to each of the 18 wells, pipette up and down to resuspend the cell pellet, and incubate at +4°C for 1h"
+    },
+    {
+        "title": "6.",
+        "body": "Centrifuge the plate at 450g for 3min"
+    },
+    {
+        "title": "7.",
+        "body": "Draw and discard 200μL of supernatant from each of the 18 wells"
+    },
+    {
+        "title": "8.",
+        "body": "Add 200μL of PBS to each of the 18 wells and centrifuge at 450g for 3min"
+    },
+    {
+        "title": "9.",
+        "body": "Draw and discard 200μL of supernatant from each of the 18 wells"
+    },
+    {
+        "title": "10.",
+        "body": "Add 200μL of 0.3% Triton X-100 in PBS to each of the 18 wells, pipette up and down to resuspend the cell pellet and incubate at room temperature for 10min"
+    },
+    {
+        "title": "11.",
+        "body": "Centrifuge the plate at 450g for 3min"
+    },
+    {
+        "title": "12.",
+        "body": "Draw and discard 200μL of supernatant from each of the 18 wells"
+    },
+    {
+        "title": "13.",
+        "body": "Add 200μL of PBS to each of the 18 wells and centrifuge the plate at 450g for 3min"
+    },
+    {
+        "title": "14.",
+        "body": "Draw and discard 200μL of supernatant from each of the 18 wells"
+    },
+    {
+        "title": "15.",
+        "body": "Add 200μL of 0.5mg/mL ribonuclease A in PBS to each of the 18 wells, pipette up and down to resuspend the cell pellet and incubate at +37°C for 1h"
+    },
+    {
+        "title": "16.",
+        "body": "Centrifuge the plate at 450g for 3min"
+    },
+    {
+        "title": "17.",
+        "body": "Draw and discard 200μL of supernatant from each of the 18 wells"
+    },
+    {
+        "title": "18.",
+        "body": "Add 200μL of PBS to each of the 18 wells and centrifuge at 450g for 3min"
+    },
+    {
+        "title": "19.",
+        "body": "Draw and discard 200μL of supernatant from each of the 18 wells"
+    },
+    {
+        "title": "20.",
+        "body": "Add 200μL of 1:5,000 SYBR Green I in PBS to each of the 18 wells, pipette up and down to resuspend the cell pellet and incubate at +37°C for 1h"
+    },
+    {
+        "title": "21.",
+        "body": "Centrifuge the plate at 450g for 3min"
+    },
+    {
+        "title": "22.",
+        "body": "Draw and discard 200μL of supernatant from each of the 18 wells"
+    },
+    {
+        "title": "23.",
+        "body": "Add 200μL of PBS to each of the 18 wells and centrifuge at 450g for 3min"
+    },
+    {
+        "title": "24.",
+        "body": "Repeat steps 22 and 23 twice more"
+    },
+    {
+        "title": "25.",
+        "body": "Draw and discard 200μL of supernatant from each of the 18 wells"
+    },
+    {
+        "title": "26.",
+        "body": "Add 200μL of PBS to each of the 18 wells and pipette up and down to resuspend the cell pellets \r\n  \r\n\n\nPart E – Acquisition on flow cytometer"
+    },
+    {
+        "title": "1.",
+        "body": "Label 18 wells of a 96-well, flat-bottom plate, on its lid, from A1 to F3"
+    },
+    {
+        "title": "2.",
+        "body": "Add 250μL of PBS to each of the 18 wells"
+    },
+    {
+        "title": "3.",
+        "body": "Draw 25μL from each of the 18 wells of the plate containing the stained cells of the invasion assay, and add this to the corresponding wells on the new plate containing only PBS"
+    },
+    {
+        "title": "4.",
+        "body": "Pipette up and down to mix the diluted cell suspension"
+    },
+    {
+        "title": "5.",
+        "body": "Acquire the plate containing the diluted cell suspension on a flow cytometer fitted with the appropriate laser lines for the fluorescent cell label and DNA dye chosen \\(acquire 100,000 events to have a minimum of 50,000 target cells to analyze)"
+    }
+]

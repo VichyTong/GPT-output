@@ -1,0 +1,163 @@
+[
+    {
+        "operation": "None",
+        "reagent": "None",
+        "equipment": "bone marrow",
+        "condition": "None",
+        "origin": "1. Maturate mast cells from bone marrow using interleukin 3. Isolate bone from femurs and tibias of 8-12 Pac-1-/- and Pac-1+/+ week old mice.  Grow cells at 4&#xD7;10<sup>5</sup> cells/mL in RPMI 1640 medium \\(Life Technologies, Rockville) supplemented with 10% fetal bovine serum \\(HyClone, Logan), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech) for 4-6 weeks at 37<sup>o</sup>C in 5% CO2.  By 4-6 weeks in culture, greater than 98% of cells should be c-kit and Fc&#x3B5;RI positive as assessed by fluorescein isothiocyanate \\(FITC)-labelled anti-c-kit \\(BD, Pharmingen) and anti-DNP IgE \\(Sigma) antibodies respectively using Flow Cytometry.  Cell morphology should also be assessed by cytospin and staining with giemsa and toluidine blue.  To stimulate, sensitise cells with anti-DNP IgE mAb \\(100 ng/mL, Sigma) for 18 hours, wash twice to remove unbound IgE and stimulate with 20 ng/mL of DNP-HSA \\(Sigma) for chosen times.\r"
+    },
+    {
+        "operation": "add",
+        "reagent": "interleukin 3, RPMI 1640 medium, fetal bovine serum, penicillin, streptomycin, L-glutamine, &#x3B2;-mercaptoethanol, HEPES, and recombinant murine IL-3",
+        "equipment": "None",
+        "condition": "None",
+        "origin": "1. Maturate mast cells from bone marrow using interleukin 3. Isolate bone from femurs and tibias of 8-12 Pac-1-/- and Pac-1+/+ week old mice.  Grow cells at 4&#xD7;10<sup>5</sup> cells/mL in RPMI 1640 medium \\(Life Technologies, Rockville) supplemented with 10% fetal bovine serum \\(HyClone, Logan), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech) for 4-6 weeks at 37<sup>o</sup>C in 5% CO2.  By 4-6 weeks in culture, greater than 98% of cells should be c-kit and Fc&#x3B5;RI positive as assessed by fluorescein isothiocyanate \\(FITC)-labelled anti-c-kit \\(BD, Pharmingen) and anti-DNP IgE \\(Sigma) antibodies respectively using Flow Cytometry.  Cell morphology should also be assessed by cytospin and staining with giemsa and toluidine blue.  To stimulate, sensitise cells with anti-DNP IgE mAb \\(100 ng/mL, Sigma) for 18 hours, wash twice to remove unbound IgE and stimulate with 20 ng/mL of DNP-HSA \\(Sigma) for chosen times.\r"
+    },
+    {
+        "operation": "None",
+        "reagent": "Pac-1-/- and Pac-1+/+ mice",
+        "equipment": "None",
+        "condition": "None",
+        "origin": "1. Maturate mast cells from bone marrow using interleukin 3. Isolate bone from femurs and tibias of 8-12 Pac-1-/- and Pac-1+/+ week old mice.  Grow cells at 4&#xD7;10<sup>5</sup> cells/mL in RPMI 1640 medium \\(Life Technologies, Rockville) supplemented with 10% fetal bovine serum \\(HyClone, Logan), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech) for 4-6 weeks at 37<sup>o</sup>C in 5% CO2.  By 4-6 weeks in culture, greater than 98% of cells should be c-kit and Fc&#x3B5;RI positive as assessed by fluorescein isothiocyanate \\(FITC)-labelled anti-c-kit \\(BD, Pharmingen) and anti-DNP IgE \\(Sigma) antibodies respectively using Flow Cytometry.  Cell morphology should also be assessed by cytospin and staining with giemsa and toluidine blue.  To stimulate, sensitise cells with anti-DNP IgE mAb \\(100 ng/mL, Sigma) for 18 hours, wash twice to remove unbound IgE and stimulate with 20 ng/mL of DNP-HSA \\(Sigma) for chosen times.\r"
+    },
+    {
+        "operation": "add",
+        "reagent": "anti-DNP IgE mAb, cells",
+        "equipment": "None",
+        "condition": "None",
+        "origin": "1. Maturate mast cells from bone marrow using interleukin 3. Isolate bone from femurs and tibias of 8-12 Pac-1-/- and Pac-1+/+ week old mice.  Grow cells at 4&#xD7;10<sup>5</sup> cells/mL in RPMI 1640 medium \\(Life Technologies, Rockville) supplemented with 10% fetal bovine serum \\(HyClone, Logan), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech) for 4-6 weeks at 37<sup>o</sup>C in 5% CO2.  By 4-6 weeks in culture, greater than 98% of cells should be c-kit and Fc&#x3B5;RI positive as assessed by fluorescein isothiocyanate \\(FITC)-labelled anti-c-kit \\(BD, Pharmingen) and anti-DNP IgE \\(Sigma) antibodies respectively using Flow Cytometry.  Cell morphology should also be assessed by cytospin and staining with giemsa and toluidine blue.  To stimulate, sensitise cells with anti-DNP IgE mAb \\(100 ng/mL, Sigma) for 18 hours, wash twice to remove unbound IgE and stimulate with 20 ng/mL of DNP-HSA \\(Sigma) for chosen times.\r"
+    },
+    {
+        "operation": "add",
+        "reagent": "DNP-HSA, cells",
+        "equipment": "None",
+        "condition": "None",
+        "origin": "1. Maturate mast cells from bone marrow using interleukin 3. Isolate bone from femurs and tibias of 8-12 Pac-1-/- and Pac-1+/+ week old mice.  Grow cells at 4&#xD7;10<sup>5</sup> cells/mL in RPMI 1640 medium \\(Life Technologies, Rockville) supplemented with 10% fetal bovine serum \\(HyClone, Logan), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech) for 4-6 weeks at 37<sup>o</sup>C in 5% CO2.  By 4-6 weeks in culture, greater than 98% of cells should be c-kit and Fc&#x3B5;RI positive as assessed by fluorescein isothiocyanate \\(FITC)-labelled anti-c-kit \\(BD, Pharmingen) and anti-DNP IgE \\(Sigma) antibodies respectively using Flow Cytometry.  Cell morphology should also be assessed by cytospin and staining with giemsa and toluidine blue.  To stimulate, sensitise cells with anti-DNP IgE mAb \\(100 ng/mL, Sigma) for 18 hours, wash twice to remove unbound IgE and stimulate with 20 ng/mL of DNP-HSA \\(Sigma) for chosen times.\r"
+    },
+    {
+        "operation": "assess",
+        "reagent": "None",
+        "equipment": "Flow Cytometry",
+        "condition": "c-kit and Fc&#x3B5;RI positivity",
+        "origin": "1. Maturate mast cells from bone marrow using interleukin 3. Isolate bone from femurs and tibias of 8-12 Pac-1-/- and Pac-1+/+ week old mice.  Grow cells at 4&#xD7;10<sup>5</sup> cells/mL in RPMI 1640 medium \\(Life Technologies, Rockville) supplemented with 10% fetal bovine serum \\(HyClone, Logan), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech) for 4-6 weeks at 37<sup>o</sup>C in 5% CO2.  By 4-6 weeks in culture, greater than 98% of cells should be c-kit and Fc&#x3B5;RI positive as assessed by fluorescein isothiocyanate \\(FITC)-labelled anti-c-kit \\(BD, Pharmingen) and anti-DNP IgE \\(Sigma) antibodies respectively using Flow Cytometry.  Cell morphology should also be assessed by cytospin and staining with giemsa and toluidine blue.  To stimulate, sensitise cells with anti-DNP IgE mAb \\(100 ng/mL, Sigma) for 18 hours, wash twice to remove unbound IgE and stimulate with 20 ng/mL of DNP-HSA \\(Sigma) for chosen times.\r"
+    },
+    {
+        "operation": "assess",
+        "reagent": "None",
+        "equipment": "cytospin and staining with giemsa and toluidine blue",
+        "condition": "cell morphology",
+        "origin": "1. Maturate mast cells from bone marrow using interleukin 3. Isolate bone from femurs and tibias of 8-12 Pac-1-/- and Pac-1+/+ week old mice.  Grow cells at 4&#xD7;10<sup>5</sup> cells/mL in RPMI 1640 medium \\(Life Technologies, Rockville) supplemented with 10% fetal bovine serum \\(HyClone, Logan), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech) for 4-6 weeks at 37<sup>o</sup>C in 5% CO2.  By 4-6 weeks in culture, greater than 98% of cells should be c-kit and Fc&#x3B5;RI positive as assessed by fluorescein isothiocyanate \\(FITC)-labelled anti-c-kit \\(BD, Pharmingen) and anti-DNP IgE \\(Sigma) antibodies respectively using Flow Cytometry.  Cell morphology should also be assessed by cytospin and staining with giemsa and toluidine blue.  To stimulate, sensitise cells with anti-DNP IgE mAb \\(100 ng/mL, Sigma) for 18 hours, wash twice to remove unbound IgE and stimulate with 20 ng/mL of DNP-HSA \\(Sigma) for chosen times.\r"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "BMMCs, pG5E4D38-Luc plasmid, solution T",
+        "equipment": "Amaxa nucleofector device",
+        "condition": "None",
+        "origin": "2. For the measurement of transcriptional Elk-1 activity, transfect 4 x 10<sup>6</sup> BMMCs with 1.75 &#x3BC;g pG5E4D38&#x2013;Luc, 1.75 &#x3BC;g pSG-Gal-Elk-1 \\(both plasmids kindly provided by Dr. Peter Shaw, University of Nottingham, UK, Frost et al, 1997) and 1 &#x3BC;g of the lacZ-expression vector pCMV&#x3B2; \\(Clonetech, to allow standardization of the measured luciferase activity) using solution T and an Amaxa nucleofector device \\(K&#xF6;ln, Germany; set to program T-016). In addition, &#x201C;mock-transfect&#x201D;cells with PBS in order to measure the background luciferase and &#x3B2;-galactosidase activities. This Elk-1 reporter system is based on a hybrid fusion protein consisting of the DNA binding domain of the yeast transcription factor Gal4 and the transactivation domain of Elk-1 that binds via its Gal4 moiety to the pG5E4D38&#x2013;Luc plasmid and drives the transcription of the luciferase gene only if it is phosphorylated by ERK within its Elk-1 moiety \\(Kortenjann et al, 1994). \r"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "BMMCs, pSG-Gal-Elk-1 plasmid, solution T",
+        "equipment": "Amaxa nucleofector device",
+        "condition": "None",
+        "origin": "2. For the measurement of transcriptional Elk-1 activity, transfect 4 x 10<sup>6</sup> BMMCs with 1.75 &#x3BC;g pG5E4D38&#x2013;Luc, 1.75 &#x3BC;g pSG-Gal-Elk-1 \\(both plasmids kindly provided by Dr. Peter Shaw, University of Nottingham, UK, Frost et al, 1997) and 1 &#x3BC;g of the lacZ-expression vector pCMV&#x3B2; \\(Clonetech, to allow standardization of the measured luciferase activity) using solution T and an Amaxa nucleofector device \\(K&#xF6;ln, Germany; set to program T-016). In addition, &#x201C;mock-transfect&#x201D;cells with PBS in order to measure the background luciferase and &#x3B2;-galactosidase activities. This Elk-1 reporter system is based on a hybrid fusion protein consisting of the DNA binding domain of the yeast transcription factor Gal4 and the transactivation domain of Elk-1 that binds via its Gal4 moiety to the pG5E4D38&#x2013;Luc plasmid and drives the transcription of the luciferase gene only if it is phosphorylated by ERK within its Elk-1 moiety \\(Kortenjann et al, 1994). \r"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "BMMCs, lacZ-expression vector pCMVβ, solution T",
+        "equipment": "Amaxa nucleofector device",
+        "condition": "None",
+        "origin": "2. For the measurement of transcriptional Elk-1 activity, transfect 4 x 10<sup>6</sup> BMMCs with 1.75 &#x3BC;g pG5E4D38&#x2013;Luc, 1.75 &#x3BC;g pSG-Gal-Elk-1 \\(both plasmids kindly provided by Dr. Peter Shaw, University of Nottingham, UK, Frost et al, 1997) and 1 &#x3BC;g of the lacZ-expression vector pCMV&#x3B2; \\(Clonetech, to allow standardization of the measured luciferase activity) using solution T and an Amaxa nucleofector device \\(K&#xF6;ln, Germany; set to program T-016). In addition, &#x201C;mock-transfect&#x201D;cells with PBS in order to measure the background luciferase and &#x3B2;-galactosidase activities. This Elk-1 reporter system is based on a hybrid fusion protein consisting of the DNA binding domain of the yeast transcription factor Gal4 and the transactivation domain of Elk-1 that binds via its Gal4 moiety to the pG5E4D38&#x2013;Luc plasmid and drives the transcription of the luciferase gene only if it is phosphorylated by ERK within its Elk-1 moiety \\(Kortenjann et al, 1994). \r"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "pCMVβ and pNFAT-Luc plasmids, BMMCs",
+        "equipment": "None",
+        "condition": "None",
+        "origin": "3. For the measurement of transcriptional NFAT:AP-1 activity, transfect BMMCs with 1 &#x3BC;g pCMV&#x3B2; and 3.5 &#x3BC;g of the NFAT reporter plasmid pNFAT-Luc \\(kindly provided by Dr. Gerald Crabtree, Stanford University, Stanford, USA) as described above. This NFAT reporter carries three tandem copies of the distal NFAT:AP-1 composite element of the human IL-2 promotor \\(Durand et al, 1988), which were cloned upstream of the minimal IL-2 promotor \\(from position -89 to +51) and the luciferase reporter gene. Consequently, this reporter is only transactivated when both NFAT and AP-1 are present in the nucleus and assembled to a ternary complex \\(Fiering et al, 1990; Macian et al., 2001). This widely used reporter plasmid responds to all known NFAT family members and can be activated in a NFAT-dependent manner in a variety of cell types.\r"
+    },
+    {
+        "operation": "plate",
+        "reagent": "BMMCs",
+        "equipment": "culture medium",
+        "condition": "None",
+        "origin": "4.Following transfection with reporter plasmids, plate BMMCs in 3 mL culture medium \\(RPMI 1640 medium \\(Life Technologies) supplemented with 10% fetal bovine serum \\(HyClone), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech)) and allow to recover for 24 h. Then sensitise with 100 ng/mL anti-DNP IgE antibodies for 18 hours. Subsequently, split the cells and either stimulate with 20 ng/mL DNP-HSA for 6 h \\(Elk-1) or 8 h \\(NFAT:AP-1) or leave untreated. Following stimulation, lyse the cells in luciferase lysis buffer \\(Promega) and determine the raw luciferase activities using a luciferase activity kit \\(Promega). As an internal control for transfection efficiency, measure the &#x3B2;-galactosidase \\(&#x3B2;-gal) activities using Galactostar and Galacton reagents \\(Tropix). The background &#x3B2;-gal activity of mock-transfected cells should be subtracted from the lysates of transfected BMMCs and the relative &#x3B2;-gal activity of each sample was calculated. In order to obtain the standardised luciferase activity, divide the luciferase activity of each sample by the corresponding relative &#x3B2;-gal activity.\r"
+    },
+    {
+        "operation": "supplement",
+        "reagent": "fetal bovine serum, penicillin, streptomycin, L-glutamine, &#x3B2;-mercaptoethanol, HEPES, and recombinant murine IL-3",
+        "equipment": "RPMI 1640 medium",
+        "condition": "None",
+        "origin": "4.Following transfection with reporter plasmids, plate BMMCs in 3 mL culture medium \\(RPMI 1640 medium \\(Life Technologies) supplemented with 10% fetal bovine serum \\(HyClone), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech)) and allow to recover for 24 h. Then sensitise with 100 ng/mL anti-DNP IgE antibodies for 18 hours. Subsequently, split the cells and either stimulate with 20 ng/mL DNP-HSA for 6 h \\(Elk-1) or 8 h \\(NFAT:AP-1) or leave untreated. Following stimulation, lyse the cells in luciferase lysis buffer \\(Promega) and determine the raw luciferase activities using a luciferase activity kit \\(Promega). As an internal control for transfection efficiency, measure the &#x3B2;-galactosidase \\(&#x3B2;-gal) activities using Galactostar and Galacton reagents \\(Tropix). The background &#x3B2;-gal activity of mock-transfected cells should be subtracted from the lysates of transfected BMMCs and the relative &#x3B2;-gal activity of each sample was calculated. In order to obtain the standardised luciferase activity, divide the luciferase activity of each sample by the corresponding relative &#x3B2;-gal activity.\r"
+    },
+    {
+        "operation": "sensitise",
+        "reagent": "anti-DNP IgE antibodies",
+        "equipment": "BMMCs",
+        "condition": "None",
+        "origin": "4.Following transfection with reporter plasmids, plate BMMCs in 3 mL culture medium \\(RPMI 1640 medium \\(Life Technologies) supplemented with 10% fetal bovine serum \\(HyClone), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech)) and allow to recover for 24 h. Then sensitise with 100 ng/mL anti-DNP IgE antibodies for 18 hours. Subsequently, split the cells and either stimulate with 20 ng/mL DNP-HSA for 6 h \\(Elk-1) or 8 h \\(NFAT:AP-1) or leave untreated. Following stimulation, lyse the cells in luciferase lysis buffer \\(Promega) and determine the raw luciferase activities using a luciferase activity kit \\(Promega). As an internal control for transfection efficiency, measure the &#x3B2;-galactosidase \\(&#x3B2;-gal) activities using Galactostar and Galacton reagents \\(Tropix). The background &#x3B2;-gal activity of mock-transfected cells should be subtracted from the lysates of transfected BMMCs and the relative &#x3B2;-gal activity of each sample was calculated. In order to obtain the standardised luciferase activity, divide the luciferase activity of each sample by the corresponding relative &#x3B2;-gal activity.\r"
+    },
+    {
+        "operation": "stimulate",
+        "reagent": "DNP-HSA",
+        "equipment": "BMMCs",
+        "condition": "None",
+        "origin": "4.Following transfection with reporter plasmids, plate BMMCs in 3 mL culture medium \\(RPMI 1640 medium \\(Life Technologies) supplemented with 10% fetal bovine serum \\(HyClone), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech)) and allow to recover for 24 h. Then sensitise with 100 ng/mL anti-DNP IgE antibodies for 18 hours. Subsequently, split the cells and either stimulate with 20 ng/mL DNP-HSA for 6 h \\(Elk-1) or 8 h \\(NFAT:AP-1) or leave untreated. Following stimulation, lyse the cells in luciferase lysis buffer \\(Promega) and determine the raw luciferase activities using a luciferase activity kit \\(Promega). As an internal control for transfection efficiency, measure the &#x3B2;-galactosidase \\(&#x3B2;-gal) activities using Galactostar and Galacton reagents \\(Tropix). The background &#x3B2;-gal activity of mock-transfected cells should be subtracted from the lysates of transfected BMMCs and the relative &#x3B2;-gal activity of each sample was calculated. In order to obtain the standardised luciferase activity, divide the luciferase activity of each sample by the corresponding relative &#x3B2;-gal activity.\r"
+    },
+    {
+        "operation": "lyse",
+        "reagent": "BMMCs",
+        "equipment": "luciferase lysis buffer",
+        "condition": "None",
+        "origin": "4.Following transfection with reporter plasmids, plate BMMCs in 3 mL culture medium \\(RPMI 1640 medium \\(Life Technologies) supplemented with 10% fetal bovine serum \\(HyClone), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech)) and allow to recover for 24 h. Then sensitise with 100 ng/mL anti-DNP IgE antibodies for 18 hours. Subsequently, split the cells and either stimulate with 20 ng/mL DNP-HSA for 6 h \\(Elk-1) or 8 h \\(NFAT:AP-1) or leave untreated. Following stimulation, lyse the cells in luciferase lysis buffer \\(Promega) and determine the raw luciferase activities using a luciferase activity kit \\(Promega). As an internal control for transfection efficiency, measure the &#x3B2;-galactosidase \\(&#x3B2;-gal) activities using Galactostar and Galacton reagents \\(Tropix). The background &#x3B2;-gal activity of mock-transfected cells should be subtracted from the lysates of transfected BMMCs and the relative &#x3B2;-gal activity of each sample was calculated. In order to obtain the standardised luciferase activity, divide the luciferase activity of each sample by the corresponding relative &#x3B2;-gal activity.\r"
+    },
+    {
+        "operation": "determine",
+        "reagent": "raw luciferase activities",
+        "equipment": "luciferase activity kit",
+        "condition": "None",
+        "origin": "4.Following transfection with reporter plasmids, plate BMMCs in 3 mL culture medium \\(RPMI 1640 medium \\(Life Technologies) supplemented with 10% fetal bovine serum \\(HyClone), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech)) and allow to recover for 24 h. Then sensitise with 100 ng/mL anti-DNP IgE antibodies for 18 hours. Subsequently, split the cells and either stimulate with 20 ng/mL DNP-HSA for 6 h \\(Elk-1) or 8 h \\(NFAT:AP-1) or leave untreated. Following stimulation, lyse the cells in luciferase lysis buffer \\(Promega) and determine the raw luciferase activities using a luciferase activity kit \\(Promega). As an internal control for transfection efficiency, measure the &#x3B2;-galactosidase \\(&#x3B2;-gal) activities using Galactostar and Galacton reagents \\(Tropix). The background &#x3B2;-gal activity of mock-transfected cells should be subtracted from the lysates of transfected BMMCs and the relative &#x3B2;-gal activity of each sample was calculated. In order to obtain the standardised luciferase activity, divide the luciferase activity of each sample by the corresponding relative &#x3B2;-gal activity.\r"
+    },
+    {
+        "operation": "measure",
+        "reagent": "&#x3B2;-galactosidase activities",
+        "equipment": "Galactostar and Galacton reagents",
+        "condition": "None",
+        "origin": "4.Following transfection with reporter plasmids, plate BMMCs in 3 mL culture medium \\(RPMI 1640 medium \\(Life Technologies) supplemented with 10% fetal bovine serum \\(HyClone), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech)) and allow to recover for 24 h. Then sensitise with 100 ng/mL anti-DNP IgE antibodies for 18 hours. Subsequently, split the cells and either stimulate with 20 ng/mL DNP-HSA for 6 h \\(Elk-1) or 8 h \\(NFAT:AP-1) or leave untreated. Following stimulation, lyse the cells in luciferase lysis buffer \\(Promega) and determine the raw luciferase activities using a luciferase activity kit \\(Promega). As an internal control for transfection efficiency, measure the &#x3B2;-galactosidase \\(&#x3B2;-gal) activities using Galactostar and Galacton reagents \\(Tropix). The background &#x3B2;-gal activity of mock-transfected cells should be subtracted from the lysates of transfected BMMCs and the relative &#x3B2;-gal activity of each sample was calculated. In order to obtain the standardised luciferase activity, divide the luciferase activity of each sample by the corresponding relative &#x3B2;-gal activity.\r"
+    },
+    {
+        "operation": "subtract",
+        "reagent": "background &#x3B2;-gal activity",
+        "equipment": "mock-transfected cells",
+        "condition": "None",
+        "origin": "4.Following transfection with reporter plasmids, plate BMMCs in 3 mL culture medium \\(RPMI 1640 medium \\(Life Technologies) supplemented with 10% fetal bovine serum \\(HyClone), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech)) and allow to recover for 24 h. Then sensitise with 100 ng/mL anti-DNP IgE antibodies for 18 hours. Subsequently, split the cells and either stimulate with 20 ng/mL DNP-HSA for 6 h \\(Elk-1) or 8 h \\(NFAT:AP-1) or leave untreated. Following stimulation, lyse the cells in luciferase lysis buffer \\(Promega) and determine the raw luciferase activities using a luciferase activity kit \\(Promega). As an internal control for transfection efficiency, measure the &#x3B2;-galactosidase \\(&#x3B2;-gal) activities using Galactostar and Galacton reagents \\(Tropix). The background &#x3B2;-gal activity of mock-transfected cells should be subtracted from the lysates of transfected BMMCs and the relative &#x3B2;-gal activity of each sample was calculated. In order to obtain the standardised luciferase activity, divide the luciferase activity of each sample by the corresponding relative &#x3B2;-gal activity.\r"
+    },
+    {
+        "operation": "obtain",
+        "reagent": "standardised luciferase activity",
+        "equipment": "None",
+        "condition": "dividing luciferase activity by relative &#x3B2;-gal activity",
+        "origin": "4.Following transfection with reporter plasmids, plate BMMCs in 3 mL culture medium \\(RPMI 1640 medium \\(Life Technologies) supplemented with 10% fetal bovine serum \\(HyClone), 100 &#x3BC;g each of penicillin and streptomycin per mL, 2mM L-glutamine \\(Life Technologies), 50 &#x3BC;M &#x3B2;-mercaptoethanol, 1% HEPES and 5 ng/mL of recombinant murine IL-3 \\(Peprotech)) and allow to recover for 24 h. Then sensitise with 100 ng/mL anti-DNP IgE antibodies for 18 hours. Subsequently, split the cells and either stimulate with 20 ng/mL DNP-HSA for 6 h \\(Elk-1) or 8 h \\(NFAT:AP-1) or leave untreated. Following stimulation, lyse the cells in luciferase lysis buffer \\(Promega) and determine the raw luciferase activities using a luciferase activity kit \\(Promega). As an internal control for transfection efficiency, measure the &#x3B2;-galactosidase \\(&#x3B2;-gal) activities using Galactostar and Galacton reagents \\(Tropix). The background &#x3B2;-gal activity of mock-transfected cells should be subtracted from the lysates of transfected BMMCs and the relative &#x3B2;-gal activity of each sample was calculated. In order to obtain the standardised luciferase activity, divide the luciferase activity of each sample by the corresponding relative &#x3B2;-gal activity.\r"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "2ug, Amaxa solution T",
+        "equipment": "None",
+        "condition": "mast cells transfected with WT Pac-1",
+        "origin": "5. For over-expression or rescue experiments, transfect mast cells with 2ug of WT Pac-1, C257S Pac-1 or pMIG vector control."
+    },
+    {
+        "operation": "transfect",
+        "reagent": "2ug, Amaxa solution T",
+        "equipment": "None",
+        "condition": "mast cells transfected with C257S Pac-1",
+        "origin": "5. For over-expression or rescue experiments, transfect mast cells with 2ug of WT Pac-1, C257S Pac-1 or pMIG vector control."
+    },
+    {
+        "operation": "transfect",
+        "reagent": "2ug, Amaxa solution T",
+        "equipment": "None",
+        "condition": "mast cells transfected with pMIG vector control",
+        "origin": "5. For over-expression or rescue experiments, transfect mast cells with 2ug of WT Pac-1, C257S Pac-1 or pMIG vector control."
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "title": "**Design of sgRNA target sequence**",
+        "body": "SgRNA target sites were designed by seeking sequences corresponding to N20NGG on exon regions of the sense or antisense strand of the DNA by ZiFit Targeter program13. Then we BLAST \\(Basic Local Alignment Search Tool) these candidate target sequences against the P. xuthus genome to eliminate those with potential off-target sites using strict criteria, where the candidate editable site is defined only when the seed region \\(12 nucleotides \\(nt) to protospacer adjacent motif \\(PAM) NGG) is unique1. From candidate editable sites, we selected those with the first two bases of GG, GA or AG for sgRNA synthesis."
+    },
+    {
+        "title": "**SgRNA preparation**",
+        "body": [
+            "SgRNA can be produced by plasmid-based or PCR-based strategies. We list the protocol of two methods here, but based on our experiences, we recommend PCR-based strategy. \r\n\n\nFor plasmid-based method, please go",
+            {
+                "title": "1.",
+                "body": "For PCR-based method, please go"
+            },
+            {
+                "title": "3.",
+                "body": []
+            },
+            {
+                "title": "1.",
+                "body": [
+                    "_Construction of empty gRNA plasmid._",
+                    {
+                        "title": "1)",
+                        "body": "Order the double-strand oligonucleotides including sequences of T7 promoter \\(underlined with framed denoting the transcription start site), restriction endonuclease BsaI \\(Bold) and DraI \\(Bold and italic) sites, and guide RNA \\(underlined and italic) as following:\r\n\n\nTAATACGACTCACTATAGGAGAGACCGAGAGAGGGTCTCAGTTTTAGAGCTAGAAATAGCAAGTTAAAATAAGGCTAGTCCGTTATCAACTTGAAAAAGTGGCACCGAGTCGGTGCTTTTAAA"
+                    },
+                    {
+                        "title": "2)",
+                        "body": "Ligate the above double-strand oligonucleotides into PMD18-T. \r\n\n\n\r\n\n\nddH2O                     3 μl            \r\n\n\nPMD18-T Simple vector       1 μl\r\n\n\nDouble-strand oligonucleotides  1 μl\r\n\n\nSolution I                   5 μl       \r\n\n\n                          10 μl\r\n\n\nIncubate at 16°C for overnight."
+                    },
+                    {
+                        "title": "3)",
+                        "body": "Transformation and plate on Kanamycin \\(Kan) + plate \\(50 mg/ml)."
+                    },
+                    {
+                        "title": "4)",
+                        "body": "Confirm correct insertion of double-strand oligonucleotides by sequencing using M13-47 primer."
+                    },
+                    {
+                        "title": "5)",
+                        "body": "Mini-prep PMD18-T7-gRNA plasmid using QIAprep Spin Miniprep Kit."
+                    }
+                ]
+            },
+            {
+                "title": "2.",
+                "body": [
+                    "_Construction of sgRNA expression plasmid_",
+                    {
+                        "title": "1)",
+                        "body": "Order oligos \\(oligo1 and oligo2, produced by ZiFit Targeter program)"
+                    },
+                    {
+                        "title": "2)",
+                        "body": "Aneal and phosphorylate oligos\r\n\n\n\r\n\n\nddH2O                6.5 μl\r\n\n\nOligo1 \\(100 μM)          1 μl \r\n\n\nOligo2 \\(100 μM)          1 μl\r\n\n\n10X T4 Ligation Buffer     1 μl \r\n\n\nT4 PNK                0.5 μl               \r\n\n\n                       10 μl\r\n\n\n\r\n\n\n37 °C \\(no hot-cap)        30 min\r\n\n\n95 °C                   5 min\r\n\n\n95 °C, -1.3°C/cycle       45 s    × 60 cycles \r\n\n\n4 °C                   hold"
+                    },
+                    {
+                        "title": "3)",
+                        "body": "Preparation of PMD18-T7-gRNA plasmid \r\n\n\n \r\n\n\nddH2O                    * μl                   \r\n\n\nPMD18-T7-gRNA plasmid    4 μg\r\n\n\n10X CutSMART Buffer       5 μl\r\n\n\nBsaI                      1 μl      \r\n\n\n                       50 μl\r\n\n\n\\(*Calculate based on PMD18-T7-gRNA plasmid concentration)\r\n\n\n\r\n\n\nIncubate at 37°C for overnight.\r\n\n\nPurify the digestion product using TIANgel Maxi Purification Kit."
+                    },
+                    {
+                        "title": "4)",
+                        "body": "Ligation of annealed oligos with BsaI-linearized PMD18-T7-sgRNA\r\n\n\nDilute annealed oligos with 100 folds\r\n\n\n\r\n\n\nDiluted annealed oligos                  1 μl\r\n\n\nLinearized PMD18-T7-sgRNA \\(40 ng/μl)    3 μl\r\n\n\n10 X T4 buffer                         1 μl \r\n\n\nT4 Ligase                            0.5 μl    \r\n\n\n                                    10 μl\r\n\n\nIncubate at 16°C for 6 h."
+                    },
+                    {
+                        "title": "5)",
+                        "body": "Transformation and plate on Kan+ plate \\(50 mg/ml)."
+                    },
+                    {
+                        "title": "6)",
+                        "body": "Confirm correct insertion of sgRNA oligos by sequencing using M13-47 primer."
+                    },
+                    {
+                        "title": "7)",
+                        "body": "Mini-prep PMD18-T7-sgRNA plasmid using QIAprep Spin Miniprep Kit. \r\n\n\n\r\n\n\nPlease go 4\\(1)."
+                    }
+                ]
+            },
+            {
+                "title": "3.",
+                "body": [
+                    "_SgRNA template preparation using PCR-based methods_",
+                    {
+                        "title": "1)",
+                        "body": "Order a unique oligonucleotide encoding T7 polymerase binding site and the sgRNA target sequence N20 \\(CRISPRF: GAAATTAATACGACTCACTATAN20GTTTTAGAGCTAGAAATAGC) and common oligonucleotide encoding the remaining sgRNA sequence \\(sgRNAR: AAAAGCACCGACTCGGTGCCACTTTTTCAAGTTGATAACGGACTAGCCT TATTTTAACTTGCTATTTCTAGCTCTAAAAC)."
+                    },
+                    {
+                        "title": "2)",
+                        "body": "Primer self amplification of CRISPRF and sgRNAR \r\n\n\n\r\n\n\nddH2O                         67 μl   \r\n\n\n5X Q5 Buffer                    20 μl\r\n\n\n10 mM dNTPs                    2 μl\r\n\n\n10 μM CRISPRF                 5 μl\r\n\n\n10 μM sgRNAR                   5 μl \r\n\n\nQ5 high-quality DNA polymerase     1 μl     \r\n\n\n                              100 μl\r\n\n\n\r\n\n\n98 °C   30 s\r\n\n\n98 °C   10 s\r\n\n\n60 °C   30 s    × 35 cycles\r\n\n\n72 °C   15 s\r\n\n\n72 °C   10 min\r\n\n\n\r\n\n\nPurify with Qiagen PCR purification kit, and elute in 30 μl EB. \r\n\n\n\r\n\n\nPlease go 4 \\(2)."
+                    }
+                ]
+            },
+            {
+                "title": "4.",
+                "body": [
+                    "_Transcription of sgRNAs in vitro_ \\(Ensure that reagents, tubes and tips are RNase-free and that the work is done in a ribonuclease-free environment).",
+                    {
+                        "title": "1)",
+                        "body": "Preparation of sgRNA plasmids\r\n\n\n\r\n\n\nRNase-free water       * μl\r\n\n\n10X CutSMART Buffer  5 μl\r\n\n\nsgRNA plasmid        10 μg\r\n\n\nDraI                  1 μl     \r\n\n\n                     50 μl\r\n\n\n\\(*Calculate based on sgRNA plasmid concentration)\r\n\n\n\r\n\n\nIncubate at 37°C for 6 h.\r\n\n\nCheck if plasmids are digested completely by loading 2μl in 1% gel electrophoresis. Purify digested product using QIAquick PCR Purification Kit and elute with 10 μl RNase-free water."
+                    },
+                    {
+                        "title": "2)",
+                        "body": "In vitro transcription of sgRNA using MAXIscript T7 Kit \\(Life technology, USA)\r\n\n\n\\(1) Thaw the frozen reagents, and then keep 4 nucleotides and enzyme on ice but keep 10X Reaction Buffer at room temperature.\r\n\n\n\\(2) Assembly transcription reaction at room temperature and incubate\r\n\n\n\r\n\n\nNuclease-free water      * \r\n\n\nDNA template"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "****",
+        "body": "10X Reaction Buffer    2 μl        \r\n\n\n10 mM ATP           1 μl\r\n\n\n10 mM CTP           1 μl\r\n\n\n10 mM GTP           1 μl\r\n\n\n10 mM UTP           1 μl\r\n\n\nEnzyme Mix           2 μl      \r\n\n\n                    20 μl\r\n\n\n\\(=="
+    },
+    {
+        "title": "**==Calculate based on DNA template concentration; ==**",
+        "body": "*== 1 μg linearized PMD18-T7-sgRNA plasmid or 600 ng purified self-amplification PCR-product)\r\n\n\n\r\n\n\nMix thoroughly and incubate at 37°C for 4-6 h.\r\n\n\n\r\n\n\n\\(3) Add1 μl TURBO DNase, mix well, and incubate at 37°C for 15 min.\r\n\n\n \\(4) Add RNase-free water to the DNase I-treated transcription reaction up to 50 μl. \r\n\n\n\\(5) Add 5 μl 5 M Ammonium Acetate and vortex to mix. \r\n\n\n\\(6) Add 3 volumes 100% ethanol. \r\n\n\n\\(7) Chill the solution at –20°C for 30 min or longer. \r\n\n\n\\(8) Spin for >15 min at maximum speed in a 4°C centrifuge.\r\n\n\n\\(9) Carefully discard the supernatant, and wash the pellet once with cold 70% ethanol. \r\n\n\n\\(10) Elute in 10 μl RNase-free water, and determine sgRNA\\(s) concentration by NanoDrop 2000. We recommend a concentration of more than 1 μg/μl for later use.\r\n\n\n\\(11) Store sgRNA \\(s) in 5 μl aliquots at –70°C."
+    },
+    {
+        "title": "**Cas9 mRNA preparation**",
+        "body": [
+            "\\(Ensure that reagents, tubes and tips are RNase-free and that the work is done in a ribonuclease-free environment)",
+            {
+                "title": "1.",
+                "body": "_Preparation of pTD1-T7-Cas9_. \r\n  \r\n\n\nRNase-free water        * μl\r\n\n\n10XCutsmart           5 μl\r\n\n\npTD1-T7-Cas9 plasmid  10 μg\r\n\n\nNotI-HF               1 μl     \r\n\n\n                       50 μl     \r\n\n\n\\(*Calculate based on plasmid concentration)\r\n\n\n\r\n\n\nIncubate at 37°C for 6 h.\r\n\n\nCheck if plasmids are digested completely by loading 2μl in 1% gel electrophoresis. Purify digested product using QIAquick Gel Purification Kit and elute with 10 μl RNase-free water."
+            },
+            {
+                "title": "2.",
+                "body": [
+                    "_In vitro transcription of Cas9 mRNA using mMESSAGE mMACHINE T7 Kit_ \\(Life technology, USA)",
+                    {
+                        "title": "1)",
+                        "body": "Dissolve the reagents. Thaw the frozen reagents, and then keep the ribonucleotides T7 \\(2X NTP/CAP) and enzyme mix on ice but keep 10X T7 Reaction Buffer at room temperature."
+                    },
+                    {
+                        "title": "2)",
+                        "body": "Assemble transcription reaction at room temperature and incubate\r\n\n\n\r\n\n\nNuclease-free water         *  μl\r\n\n\nLinearized plasmid template   1 μg\r\n\n\n2X NTP/CAP              10 μl\r\n\n\n10X T7 Reaction Buffer       2 μl\r\n\n\nEnzyme Mix                2 μl    \r\n\n\n                            20 μl           \r\n\n\n\r\n\n\n\\(*Calculate based on Linearized plasmid template concentration)\r\n\n\n\r\n\n\nMix thoroughly and incubate at 37°C for 4-6 h."
+                    },
+                    {
+                        "title": "3)",
+                        "body": "Add 1 μl TURBO DNase, and mix well, incubate at 37°C for 15 min."
+                    },
+                    {
+                        "title": "4)",
+                        "body": "Add 30 μl Nuclease-free water and 30 μl Lithium Chloride \\(LiCl) Precipitation Solution, mix thoroughly, and chill at -20°C for more than 1-2 h."
+                    },
+                    {
+                        "title": "5)",
+                        "body": "Centrifuge at 4°C for 15 min at maximum speed to pellet the RNA."
+                    },
+                    {
+                        "title": "6)",
+                        "body": "Carefully remove the supernatant. Wash the pellet once with ~1 ml 70% ethanol, and re-centrifuge to maximize removal of unincorporated nucleotides."
+                    },
+                    {
+                        "title": "7)",
+                        "body": "Carefully remove the 70% ethanol, and re-suspend the RNA in Nuclease free water."
+                    },
+                    {
+                        "title": "8)",
+                        "body": "Check by gel electrophoresis to verify the integrity of Cas9 mRNA, and determine the Cas9 mRNA concentration by NanoDrop 2000. We recommend a concentration of more than 2 μg/μl for later use."
+                    },
+                    {
+                        "title": "9)",
+                        "body": "Store frozen at –20°C or –70°C."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Preparation of microinjection mixture**",
+        "body": [
+            "\\(sgRNAs and Cas9 mRNA)\r\n\n\n1.Thaw aliquots of the Cas9 mRNA and sgRNAs on ice.",
+            {
+                "title": "2.",
+                "body": "Dilute the Cas9 mRNA and sgRNAs with RNase-free water to a concentration that is designed for microinjection in a final volume of 10 μl. \r\n  3.Pipette the mixture up and down several times.\r\n\n\n4.Centrifuge at 4°C for 1 min at maximum speed."
+            }
+        ]
+    },
+    {
+        "title": "**Egg preparation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Adult and hand pair\r\n  Pupae were reared in plastic baskets at room temperature or under the conditions of 26 °C, 75% relative humidity and 18h/6h light/darkness. Emerged adults were crossed via hand-pairing<sup>14,15</sup>."
+            },
+            {
+                "title": "2.",
+                "body": "Egg laying, collecting and preparing\r\n  Mated females were transferred into net room with host plants for oviposition. Eggs were collected from the host plant leafs following 15-60 min oviposition bouts, dipped into clear water and then aligned on the microscope slide mounted into a model designed by our lab using soft paintbrush, fixed by glue."
+            }
+        ]
+    },
+    {
+        "title": "**Microinjection and egg hatching**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "_Microinjection_\r\n  2 nl mixture of sgRNA\\(s) and Cas9-encoding mRNA with the different combination of final concentration was injected through the chorion into each egg under a stereoscopic microscope \\(Nikon SMZ800), using an TransferMan NK2 and FemtoJet microinjection system."
+            },
+            {
+                "title": "2.",
+                "body": "_Hatching_\r\n  Injected eggs contained in the petri dishes were placed in an incubator at 25°C and 70% relative humidity. When embryos are close to hatch, host leaves \\(e.g a horticulturally rutaceous plant \\(Zanthxylum piperitum) are placed into the dishes for newly hatched larva feeding."
+            }
+        ]
+    },
+    {
+        "title": "**Breeding and Phenotyping**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "_Breeding_\r\n  The leaves with newly hatched larvae are carefully transferred into large petri dishes. All larva were fed on host leaf collectively or individually in glass containers. Container is cleaned and leaves of host plant are renewed every day. Pupae are transferred into plastic baskets to eclose."
+            },
+            {
+                "title": "2.",
+                "body": "_Phenotyping_\r\n  For developed but unhatched eggs, which are morphologically black, we dissect larvae from eggs and observe their morphological traits using stereoscopic microscope. Larvae of the newly hatched and the second instar were carefully checked using stereoscopic microscope and pictured using microscopic digital camera if there are morphological changes compared with wild type. From third instar larvae on, morphologic changes in different developmental stages are observed using stereoscopic microscope or by naked eyes. In the cases of the three genes, we mainly observe abdomen habitus for Abd-B; for ebony, we mainly pay attention to the color of larvae and adults; for frizzled, we mainly observe the cuticular structures."
+            }
+        ]
+    },
+    {
+        "title": "**Genotyping**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "_Sampling, genomic DNA extraction, and target loci amplification_\r\n  Sampling strategies are determined based on the anticipated phenotypes of target genes and the developmental situation of injected individuals. Genomic DNA extraction and PCR for unhatched larva dissected from developed eggs are carried out using Animal Tissue Direct PCR kit \\(FOREGENE, China) following manual instruction; genomic DNA of hatched larva, prepupa, pupa and adult are extracted using Gentra Puregene Blood Kit \\(Qiagen, Germany), and their target sites are amplified using exTaq polymerase. Amplified target region \\(300-800 bp) are purified with Qiagen PCR purification kit, and eluted in 30μl Nuclease-free water."
+            },
+            {
+                "title": "2.",
+                "body": "_T7 endonuclease I mutation detection assays_\r\n  Purified or unpurified PCR products of target loci were for T7 endonuclease I \\(T7EI) mutation detection assays as previously described"
+            },
+            {
+                "title": "16.",
+                "body": "It is noted that T7E1 might cause false positives if the target DNA sequences carry allelic polymorphism, AT-rich region, or sequence differences due to PCR errors."
+            },
+            {
+                "title": "3.",
+                "body": "_Cloning and Sequencing_\r\n  T7EI positive and/or morphologically mutated individuals were further confirmed by Sanger sequencing 12 TA clones."
+            }
+        ]
+    },
+    {
+        "title": "**Validation of expression of disrupted gene**",
+        "body": [
+            "Expression changes \\(mRNA level or at protein level) of disrupted gene in mutant and wild type can provide direct clues to gene function.",
+            {
+                "title": "1.",
+                "body": [
+                    "_Quantitative reverse transcription-PCR \\(qRT-PCR)_",
+                    {
+                        "title": "1)",
+                        "body": "Design and order primers for target gene and internal control gene. \r\n\n\nNote: The gene for cytoplasmis actin gene A3 that is expressed constitutively in the cell was used as an internal standard to estimate the relative expression of mRNA in the current study."
+                    },
+                    {
+                        "title": "2)",
+                        "body": "Total RNA was extracted using the guanidinium thiocyanate-phenol-chloroform extraction method \\(Trizol, Invitrogen) according to manufacturer’s protocol. \r\n\n\nNote: For the individuals of small body such as eggs, the first instar larvae etc., at least five individuals are needed as one biological sample for extraction of total RNA. Three biological replicates were carried out for both mutants and wild types."
+                    },
+                    {
+                        "title": "3)",
+                        "body": "Reverse transcribe mRNA into cDNA using the RevertAid H Minus First Strand cDNA Synthesis kit \\(Thermo) according to instructions."
+                    },
+                    {
+                        "title": "4)",
+                        "body": "Quantitative RT-PCR was performed using QUANTSTUDIOTM 12K FLEX \\(Applied Biosystems) with the SYBR Premix Ex Taq \\(Takara), with four experiment duplicates for each sample.\r\n\n\n\r\n\n\nddH2O                                   7 μl \r\n\n\n2X SYBR® Premix Ex Taq \\(Tli RNaseH Plus)   10 μl\r\n\n\n10μM PCR Forward Primer                  0.5 μl\r\n\n\n10μM PCR Reverse Primer                  0.5 μl\r\n\n\n100 ng DNA template                        2 μl       \r\n\n\n                                        20 μl\r\n\n\n\r\n\n\n95 °C                   20 s\r\n\n\n95 °C                   15 s\r\n\n\n95 °C, -1.6°C/s  58 °C    20 s    × 40 cycles"
+                    },
+                    {
+                        "title": "5)",
+                        "body": "Data analysis\r\n\n\nThe relative expression of target gene in mutants and in wild type was analyzed by 2-ΔΔCT method. The differences in expression of Abd-B gene between mutants and wild type were compared by SPSS16.0 statistics software \\(SPSS Inc., Chicago, USA) using Independent_Sample t Test. A p value <0.05 was considered significant."
+                    }
+                ]
+            },
+            {
+                "title": "2.",
+                "body": [
+                    "_Western blot analysis_: Abd-B protein as an example",
+                    {
+                        "title": "1)",
+                        "body": "Antibody preparation\r\n\n\na. Retrieve antibody to the protein of target gene ortholog in other insects \\(e.g. fruitlfy) in the Developmental Studies Hybridoma Bank \\(DSHB) and, if yes, order. E.g. \\(1A2E9) \\(DSHB).\r\n\n\nb. Select internal control gene \\(e.g. β-actin) and order its antibody.\r\n\n\nc. Order the second antibody."
+                    },
+                    {
+                        "title": "2)",
+                        "body": "Protein samples were prepared in RIPA buffer \\(Sigma) from mutants and wild-types. \r\n\n\nFor small body such as eggs, the first instar larvae, about 10 individuals are needed as one biological sample for extraction of protein."
+                    },
+                    {
+                        "title": "3)",
+                        "body": "All protein samples from 10 individuals were run on 10% SDS-polyacylamide gels."
+                    },
+                    {
+                        "title": "4)",
+                        "body": "Transferred to the polyvinylidene difluoride \\(PVDF) membranes."
+                    },
+                    {
+                        "title": "5)",
+                        "body": "Blocking: incubate membranes in 10 ml 5% bovine albumin for 1 h in shaking table."
+                    },
+                    {
+                        "title": "6)",
+                        "body": "Detect target gene product\r\n\n\na. Dilute the 1st antibody of target gene protein in bovine albumin. Dilute rate can be determined by pilot experiment. Antibody of Abd-B gene product \\(1A2E9) \\(DSHB) developed from fruitfly12 is diluted in bovine albumin with a ratio of 1:"
+                    }
+                ]
+            },
+            {
+                "title": "50.",
+                "body": [
+                    "b. Add 10 ml 1st antibody, and incubate 2 h in shaking table, recover the 1st antibody solution for later use. Wash the membranes 3 times with 1XTBS-T, each 5 minutes.\r\n\n\nc. Dilute the secondary antibody Horseradishperoxidase-coupled anti-mouse IgG \\(SA00001-1) \\(Proteintech) with a ratio of 1: 1000. \r\n\n\nd. Add 10 ml the 2nd antibody, and incubate 2 h in shaking table, recover the 2nd antibody solution for later use. wash the membranes 3 times with 1XTBS-T, each for 5 min.\r\n\n\ne. Detect chemiluminescence with SupersignalTM West Pico Chemiluminescent Substrate \\(Thermo scientific) according to the manufacturer’s instructions.",
+                    {
+                        "title": "7)",
+                        "body": "_Striping and blocking_ \r\n\n\na. Wash the membranes 3 times with 1XTBS-T, each 5 min.\r\n\n\nb. Wash the membranes 3 times with 0.05M NaOH, each 30 min.\r\n\n\nc. Wash the membranes 3 times with 1X PBS \\(pH7.0), each 5 min.\r\n\n\nd. Wash the membranes 3 times with 1XTBS-T, each 5 min.\r\n\n\ne. Blocking. Add 10 ml 5% bovine albumin and incubate 1 h in shaking table, and then discard bovine albumin."
+                    },
+                    {
+                        "title": "8)",
+                        "body": "Detect internal gene β-actin product\r\n\n\na. Dilute 1st antibody of internal protein in bovine albumin with a ratio of 1: 500. \r\n\n\nb. Add 10 ml β-actin 1st antibody, incubate 2 h shaking table, recovery the β-actin 1st antibody solution for later use. Wash the membranes 3 times 5 minutes each with 1XTBS-T.\r\n\n\nc. Dilute the 2nd antibody HRP-coupled anti-mouse IgG with a ratio of 1: 1000. \r\n\n\nd. Add 10 ml the 2nd antibody, and incubate 2 h in shaking table, recover the 2nd antibody solution for later use. wash the membranes 3 times with 1XTBS-T, each for 5 min. \r\n\n\ne. Detect chemiluminescence with SupersignalTM West Pico Chemiluminescent Substrate according to the manufacturer’s instructions."
+                    }
+                ]
+            }
+        ]
+    }
+]

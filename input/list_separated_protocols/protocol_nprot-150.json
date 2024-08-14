@@ -1,0 +1,490 @@
+[
+    {
+        "title": "**1. Production of a phosphoepitope-specific antibody by using a phosphopeptide**",
+        "body": []
+    },
+    {
+        "title": "**Immunization**",
+        "body": []
+    },
+    {
+        "title": "**1|**",
+        "body": [
+            "The emulsification of adjuvant/antigen is one of the most important steps to obtain an excellent antibody. This step can be performed using option A and/or option B. Before immunization, it is hard to speculate which adjuvant system is suitable for the production of an appropriate antibody. So, we commend you to try both adjuvant systems. \r\n\n\nA) First option: Freund adjuvant system \\(water-in-oil emulsion)",
+            {
+                "title": "1.",
+                "body": "After the adjuvant \\(especially Freund complete adjuvant) has been mixed well, load a syringe with 0.5 ml adjuvant per1 rabbit. Use Freund complete or incomplete adjuvant for the first or booster injection, respectively."
+            },
+            {
+                "title": "2.",
+                "body": "Dilute the phosphopeptide-conjugated KLH with PBS to make a solution containing 0.2-0.4 mg ml<sup>-1</sup> phosphopeptide. Then, load another syringe with 0.5 ml antigen solution \\(corresponding to 0.1-0.2 mg phosphopeptide) per 1 rabbit."
+            },
+            {
+                "title": "3.",
+                "body": "Connect the above 2 two syringes via a 18 gauge double emulsifying needle. Mix the adjuvant with the antigen by forcing the materials back and forth through the needle."
+            },
+            {
+                "title": "4.",
+                "body": "Push all of the emulsion into one syringe and disconnect the empty syringe.\r\n  B) Second option: RIBI adjuvant system \\(oil-in-water emulsion)"
+            },
+            {
+                "title": "1.",
+                "body": "Warm the vial to 40-45 °C for 5-10 min."
+            },
+            {
+                "title": "2.",
+                "body": "Dilute the phosphopeptide-conjugated KLH with PBS to make a solution containing 0.1-0.2 mg ml<sup>-1</sup> phosphopeptide. Using a syringe with a 21 gauge needle, inject 2 ml antigen solution \\(per 2 rabbits) directly into the vial through the rubber stopper. Leaving the cap seal and rubber stopper in place, vortex the vial."
+            },
+            {
+                "title": "3.",
+                "body": "Load a syringe with 1 ml emulsion \\(corresponding to 0.1-0.2 mg phosphopeptide) per 1 rabbit. Unused adjuvant/antigen emulsion can be stored at 4<sup>o</sup>C for several months, unless the antigen is unstable. So, we use the remaining emulsion \\(1 ml) for the next booster injection."
+            }
+        ]
+    },
+    {
+        "title": "**2|**",
+        "body": "This step is optional. Collect blood from each rabbit before the immunization in order to obtain the control serum. We usually obtain 0.5-1 ml preimmune serum from each rabbit."
+    },
+    {
+        "title": "**3|**",
+        "body": "Immunize a rabbit by the injection of 1 ml prepared adjuvant/antigen emulsion \\(corresponding to 0.1-0.2 mg phosphopeptide). For Freund adjuvant system, inject the emulsion at multi-intradermal sites. For RIBI adjuvant system, inject the emulsion at the following sites; 0.05 ml per site × 6 intradermal, 0.3 ml intramuscular into each hind leg \\(total 2 sites), and 0.1 ml subcutaneous in neck region."
+    },
+    {
+        "title": "**\\!CAUTION**",
+        "body": "Be careful for the needle-stick injury, which may lead to keloid formation, especially in the case of Freund’s adjuvant system."
+    },
+    {
+        "title": "**4|**",
+        "body": "Perform booster injections every 4 weeks."
+    },
+    {
+        "title": "**5|**",
+        "body": "After 10-14 days from each booster injection, collect about 50 ml blood from each rabbit. Incubate the blood at 37 °C for 1 h and stir at 4 °C overnight. Centrifuge each sample at 1,000 g for 30 min at 4 °C and collect each supernatant \\(serum)."
+    },
+    {
+        "title": "**6|**",
+        "body": "This step is optional. Incubate at 56 °C for 30 min in order to inactivate the complement system of the serum."
+    },
+    {
+        "title": "**7|**",
+        "body": "Filtrate each serum sample with 0.22 μm filter."
+    },
+    {
+        "title": "**8|**",
+        "body": "This step is optional. Check the titer of antibody against the phosphopeptide, by using enzyme-linked immunosorbent assay \\(ELISA) <sup>16</sup>."
+    },
+    {
+        "title": "**PAUSE POINT**",
+        "body": "Store in aliquots at -80 °C."
+    },
+    {
+        "title": "**Preparation of the affinity matrix**",
+        "body": []
+    },
+    {
+        "title": "**9|**",
+        "body": "Prepare one 15 ml tube for each peptide. Swell 0.2 mg of TSKgel AF-Tresyl Toyopal650 with 1 ml of coupling buffer in each tube. The column bed volume reaches about 1 ml. Spin-down the gel matrix and remove the supernatant."
+    },
+    {
+        "title": "**10|**",
+        "body": "Dissolve 1 mg of phosphorylated or non-phosphorylated peptide with 1 ml of coupling buffer. Check pH of the solution, which must be 8.0-9.0. Mix each peptide solution with 1 ml of the swollen matrix in a 15 ml tube."
+    },
+    {
+        "title": "**11|**",
+        "body": "Rotate gently for 4 h at room temperature or overnight at 4 °C on a rotor."
+    },
+    {
+        "title": "**12|**",
+        "body": "Spin-down the gel matrix and remove the peptide solution. Wash with 10 gel volumes \\(10 ml) of blocking buffer."
+    },
+    {
+        "title": "**13|**",
+        "body": "Add 10 gel volumes \\(10 ml) of blocking buffer and rotate additionally for 1-2 h at room temperature or for 4 h at 4 °C."
+    },
+    {
+        "title": "**14|**",
+        "body": "Spin-down the gel matrix and remove the blocking buffer. Equilibrate the gel matrix with TBS \\(for short-term storage) or the stock solution \\(for long-term storage). Store at 4 °C."
+    },
+    {
+        "title": "**Purification of an antibody specific to the phosphopeptide**",
+        "body": []
+    },
+    {
+        "title": "**15|**",
+        "body": "For the initial purification, we usually prepare 5 ml serum. Each step described below should be done in a cold room or at 4 °C."
+    },
+    {
+        "title": "**16|**",
+        "body": "This step is optional. Dilute the serum prepared above with the equal volume of TBS."
+    },
+    {
+        "title": "**17|**",
+        "body": "Mix the \\(diluted) serum with 1 ml of the non-phosphorylated peptide-coupled gel matrix in a suitable tube."
+    },
+    {
+        "title": "**18|**",
+        "body": "Rotate the mixture end-over-end overnight. In this step, antibodies against non-phosphorylated peptide must be attached to the matrix."
+    },
+    {
+        "title": "**19|**",
+        "body": "Load the mixture onto a suitable column \\(Muromac column etc.). Collect the flow-through."
+    },
+    {
+        "title": "**20|**",
+        "body": "Wash the column with 1 ml of TBS and collect the flow-through, in order to get the remaining unattached antibody. Repeat this step 2-3 times. Mix all flow-through fractions and keep them at 4 °C before applying the next gel matrix."
+    },
+    {
+        "title": "**21|**",
+        "body": "Wash the column with excess elution buffer \\(over 10 bed volumes), in order to remove the antibody against the non-phosphorylated peptide. After wash, equilibrate with stock solution \\(for long-term storage) or TBS \\(for immediate re-use). Check pH of the final flow-through fraction, which must be around 7.5."
+    },
+    {
+        "title": "**22|**",
+        "body": "Repeat steps 17-21 \\(optional)."
+    },
+    {
+        "title": "**23|**",
+        "body": "Mix all flow-through fractions with 1 ml of the phosphopeptide-coupled gel matrix in a suitable tube."
+    },
+    {
+        "title": "**24|**",
+        "body": "Rotate the mixture end-over-end overnight. In this step, antibodies specific to phosphopeptide must be attached to the matrix."
+    },
+    {
+        "title": "**25|**",
+        "body": "Load the mixture onto a suitable column \\(Muromac column etc.)."
+    },
+    {
+        "title": "**26|**",
+        "body": "Wash the column with 10 bed volumes \\(10 ml) of TBS, twice."
+    },
+    {
+        "title": "**27|**",
+        "body": "Wash the column with 10 bed volumes \\(10 ml) of wash buffer, twice."
+    },
+    {
+        "title": "**28|**",
+        "body": "Wash the column with 10 bed volumes \\(10 ml) of TBS, twice."
+    },
+    {
+        "title": "**29|**",
+        "body": "During the above washing steps, prepare 40 μl of neutralizing buffer in each collecting tube. Before the elution step, we recommend you to mix 0.5 ml elution buffer with 40 μl of neutralizing buffer and then check the pH of the mixture, which must be around 7.5. If not, change the volume of neutralizing buffer and check again."
+    },
+    {
+        "title": "**30|**",
+        "body": "Elute the antibody with half bed volume \\(0.5 ml) of elution buffer using a stepwise elution. Collect each drop of elute into the tube prepared above. Mix immediately but gently in the tube. Repeat the elution 5-6 times."
+    },
+    {
+        "title": "**31|**",
+        "body": "Apply 5-10 μl per elute to sodium dodecylsulfate-polyacrylamide gel electrophoresis \\(SDS-PAGE). Check its amount and purity of IgG, which can be detected as bands corresponding to 50-55 kDa \\(its heavy chain) and 20-55 kDa \\(its light chan)."
+    },
+    {
+        "title": "**32|**",
+        "body": "Collect the antibody-rich fractions \\(likely 2-3 fractions)."
+    },
+    {
+        "title": "**33|**",
+        "body": "This step can be performed using option A or option B.\r\n\n\nA) First option\r\n\n\nAdd about 0.05 volume of 20 mg ml<sup>-1</sup> BSA, in order to make the antibody solution containing 1 mg ml<sup>-1</sup> BSA.\r\n\n\nB) Second option:\r\n\n\nTransfer the antibody solution to Amicon Ultra \\(Millipore). Concentrate the antibody solution by centrifuge."
+    },
+    {
+        "title": "**34|**",
+        "body": "The storage step can be performed using option A or option B.\r\n\n\nA) First option\r\n\n\nDialyze the antibody solution for 3-6 hr with 200 ml TBS. Exchange TBS at least once during dialysis. Aliquot the antibody solution and immediately froze in liquid nitrogen. Store at -80 °C.\r\n\n\nB) Second option:\r\n\n\nUse 200 ml TBS containing 50% \\(v/v) glycerol as a dialyzing buffer. Store at -20 °C after dialysis."
+    },
+    {
+        "title": "**? TROUBLE SHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**2. Semi-replacement from endogenous protein to exogenous protein by RNAi technique**",
+        "body": []
+    },
+    {
+        "title": "**Making retroviral vector plasmids**",
+        "body": []
+    },
+    {
+        "title": "**35|**",
+        "body": "In this section, we show the protocols mainly in the case of plasmids coding a carboxy-terminally HA-tagged mouse INCENP. If the introducing gene sequence completely matches with the siRNA target sequence, additional silent mutation should be required within the matched sequence. In this case, mutate amino acid codon\\(s) within the matched sequence to different one\\(s) that code the same amino acid\\(s). As an example, we show the silent mutation of human Chk1 in Fig. 2b."
+    },
+    {
+        "title": "**36|**",
+        "body": "To facilitate the cloning step, we generally use the Gateway system \\(Invitrogen).  However, conventional cloning procedure with restriction enzymes is fine."
+    },
+    {
+        "title": "**37|**",
+        "body": "Design the PCR primers to amplify the coding sequence of the gene.  The forward primer starts with 5’-AAAAAGCAGGCTgccacc-3’ followed by the first 15 to 22 nucleotides of the coding sequence of the gene so that the matching sequence should be around 20 nucleotides.  The reverse primer starts with 5’-AGAAAGCTGGGtta-3’ followed by the last 17 to 20 nucleotides complementary to the coding sequence of the gene.  In the case of carboxy-terminally HA-tagged mouse INCENP, the forward primer was 5’-AAAAAGCAGGCTgccaccATGGGGACCACAGCC-3’, and the reverse primer was 5’- AGAAAGCTGGGttaGCACTGAGCAGCGTAATCT-3’."
+    },
+    {
+        "title": "**38|**",
+        "body": "Mix 35 μl of sterile water, 5 μl of 10 x KOD plus buffer, 2 μl of 25 mM MgSO<sub>4</sub>, 5 μl of 2 mM dNTPs mix, 1 μl \\(100 ng) of template DNA, 0.5 μl each of 10 μM primers and 1 μl \\(1 unit) of KOD plus."
+    },
+    {
+        "title": "**39|**",
+        "body": "Subject to PCR cycles consisting of 1 cycle of 98°C  \\(1 min) and 10 cycles of 98°C  \\(5 sec), 50°C  \\(10 sec) and 68°C  \\(1 min per kb of the product size)."
+    },
+    {
+        "title": "**40|**",
+        "body": "Transfer 10 μl of the reaction to 40 μl of PCR reaction mixture consisting of 21.6 μl of sterile water, 10 μl of 10x KOD buffer, 1.6 μl of 25 mM MgSO<sub>4</sub>, 4 μl of 2 mM dNTPs mix, 4 μl each of attB adaptor primers \\(5’-GGGGACAAGTTTGTACAAAAAAGCAGGCT-3’ and 5’-GGGGACCACTTTGTACAAGAAAGCTGGGT-3’) and 0.8 μl \\(0.8 unit) of KOD plus.  Subject to PCR cycles consisting of 1 cycle of 98°C  \\(1 min) and 5 cycles of 98°C  \\(5 sec), 45°C  \\(10 sec) and 68°C  \\(1 min per kb of the product size), and 15 cycles of 98°C  \\(5 sec), 50°C  \\(10 sec) and 68°C  \\(1 min per kb of the product size)."
+    },
+    {
+        "title": "**41|**",
+        "body": "Apply 5 μl of the PCR products by 0.9% agarose gel electrophoresis."
+    },
+    {
+        "title": "**42|**",
+        "body": "This step is optional. If the template DNA is a kanamycin-resistant plasmid, add 5 μl of 10 × DpnI reaction buffer and 5 units of DpnI, incubate for 15 min at 37°C.  Then heat inactivate the DpnI at 65°C for 15 min"
+    },
+    {
+        "title": "**43|**",
+        "body": "Add 150 μl of TE buffer and 100 μl of 30% PEG8000/30 mM MgCl<sub>2</sub> to the PCR product."
+    },
+    {
+        "title": "**44|**",
+        "body": "Vortex well and centrifuge at 15,000rpm for 15 min at room temperature."
+    },
+    {
+        "title": "**45|**",
+        "body": "Remove the supernatant."
+    },
+    {
+        "title": "**46|**",
+        "body": "Dissolve the pellet in 20 μl of TE buffer."
+    },
+    {
+        "title": "**BP reaction to make ENTRY plasmids**",
+        "body": []
+    },
+    {
+        "title": "**47|**",
+        "body": "Mix 1 μl of 5x BP reaction buffer, 2.5 μl of the PCR products, 0.5 μl \\(75 ng) of pDONR221 and 1 μl of BP clonase."
+    },
+    {
+        "title": "**48|**",
+        "body": "Incubate at 25 °C for 60 min"
+    },
+    {
+        "title": "**49|**",
+        "body": "Add 0.5 μl of proteinase K solution, and incubate for 10 min at 37 °C."
+    },
+    {
+        "title": "**50|**",
+        "body": "Transform 50 μl of DH10b chemical competent cells with 2 μl of the BP reaction."
+    },
+    {
+        "title": "**51|**",
+        "body": "Select colonies on LB plate containing 30 μg ml<sup>-1</sup> kanamycin."
+    },
+    {
+        "title": "**52|**",
+        "body": "Pick up colonies, and check the insert size of the plasmids."
+    },
+    {
+        "title": "**53|**",
+        "body": "Check the cloned gene by sequencing with M13 forward and reverse primers and oligonucleotides designed to cover the whole gene."
+    },
+    {
+        "title": "**LR reaction**",
+        "body": []
+    },
+    {
+        "title": "**54|**",
+        "body": "Mix 1 μl of 5 × LR reaction buffer, 1.5 μl \\(50-100 ng) the entry plasmid DNA, 1.5 μl of pDEST-CMSCVpuro<sup>17</sup>  \\(50-100 ng) and 1 μl of LR clonase enzyme mix."
+    },
+    {
+        "title": "**55|**",
+        "body": "Incubate at 25 °C for 60 min to overnight."
+    },
+    {
+        "title": "**56|**",
+        "body": "Add 0.5 μl of proteinase K solution to stop the reaction."
+    },
+    {
+        "title": "**57|**",
+        "body": "Transform 50 μl of DH10b chemical competent cells with 2 μl of the LR reaction."
+    },
+    {
+        "title": "**58|**",
+        "body": "Select colonies on LB plate containing 100 μg ml<sup>-1</sup> ampicillin."
+    },
+    {
+        "title": "**59|**",
+        "body": "Check the cloned gene by cutting with BsrG1 which cuts recombination sites \\(attB) of the reaction."
+    },
+    {
+        "title": "**Production of recombinant retroviruses**",
+        "body": []
+    },
+    {
+        "title": "**60|**",
+        "body": "Seed 293T or 293FT cells at a density of 3.0 × 10<sup>5</sup> cells per 90-mm dish and cultivate them in a CO<sub>2</sub> incubator at 37 °C for 24 h."
+    },
+    {
+        "title": "**61|**",
+        "body": "Add 30 ml of TransIT293 to 500 ml of D-MEM without serum and mix well by vortex mixer."
+    },
+    {
+        "title": "**62|**",
+        "body": "Stand for 5 min."
+    },
+    {
+        "title": "**63|**",
+        "body": "Add 5 μg of the retroviral vector plasmid \\(i.e., pCMSCVpuro-mINCENP-HA) and 5 μg of pCL-10A1<sup>18</sup> to the solution and mix well by vortex mixer."
+    },
+    {
+        "title": "**64|**",
+        "body": "Stand for 10 min."
+    },
+    {
+        "title": "**65|**",
+        "body": "Add the solution onto the cells in a dish and incubate the cells at 37 °C for 36 h."
+    },
+    {
+        "title": "**66|**",
+        "body": "Aspirate the medium and add 10 ml of fresh growth medium with care not to detach cells, and incubate the cells at 37 °C for additional 24 h."
+    },
+    {
+        "title": "**67|**",
+        "body": "Collect the medium with 10 ml syringe, and filter through 0.45 μm-disk filter."
+    },
+    {
+        "title": "**68|**",
+        "body": "Aliquot the filtered medium \\(viral fluid) in screw capped tubes."
+    },
+    {
+        "title": "**69|**",
+        "body": "Freeze and store tubes at -80 °C."
+    },
+    {
+        "title": "**Titeration of the virus**",
+        "body": []
+    },
+    {
+        "title": "**70|**",
+        "body": "Seed HeLa cells at a density of 5 x 10<sup>4</sup> cells per well in a 12-well plate and cultivate them in a CO<sub>2</sub> incubator at 37 °C for 24 h."
+    },
+    {
+        "title": "**71|**",
+        "body": "Aspirate the medium and add 1 ml of the growth medium supplemented with 8 μg ml<sup>-1</sup> of polybrene."
+    },
+    {
+        "title": "**72|**",
+        "body": "Dilute the viral stock 100 times with growth medium supplemented with 8 μg ml<sup>-1</sup> of polybrene."
+    },
+    {
+        "title": "**73|**",
+        "body": "Add 0, 1, 10 and 100 μl of the diluted viral fluid to each well in a row and incubate the cells at 37 °C for additional 24 h."
+    },
+    {
+        "title": "**74|**",
+        "body": "Aspirate the medium and add growth medium and incubate the cells at 37 °C for additional 24 h."
+    },
+    {
+        "title": "**75|**",
+        "body": "Aspirate the medium and add 2 ml of the growth medium supplemented with 0.5 μg ml<sup>-1</sup> puromycin per well."
+    },
+    {
+        "title": "**76|**",
+        "body": "Change the medium supplemented with 0.5 mg ml<sup>-1</sup> puromycin every fourth day."
+    },
+    {
+        "title": "**77|**",
+        "body": "Fix the cells with methanol and stain cells with 25 × diluted Giemsa staining solution."
+    },
+    {
+        "title": "**78|**",
+        "body": "Count the number of colonies in each well and calculate the titer \\(drug resistant colony forming units per ml) of each virus.  If the twenty colonies were observed in a well infected with 10 μl of 100 × diluted viral fluid, the titer of the viral fluid is 20 × 10,000 = 2.0 × 10<sup>5</sup> cfu ml<sup>-1</sup>. Depending on the insert size and its sequence, generally more than 10<sup>5</sup> cfu ml<sup>-1</sup> of recombinant retroviruses can be obtained.  In most experiments, titer of 10<sup>4</sup> cfu ml<sup>-1</sup> is sufficient for obtaining pooled population of cells expressing gene of interest."
+    },
+    {
+        "title": "**? TROUBLE SHOOTING**",
+        "body": []
+    },
+    {
+        "title": "**Establishment of HeLa cells expressing exogenous protein by the retrovirus-mediated gene transfer**",
+        "body": []
+    },
+    {
+        "title": "**79|**",
+        "body": "Seed HeLa cells at a density of 1 x 10<sup>5</sup> cells per well in a 6-well plate and cultivate them in a CO<sub>2</sub> incubator at 37°C for 24 h."
+    },
+    {
+        "title": "**80|**",
+        "body": "Thaw the frozen viral fluid in a metal tube stand or water bath at room temperature."
+    },
+    {
+        "title": "**81|**",
+        "body": "Take ∼10<sup>5</sup> cfu of each viral fluid \\(generally less than 1 ml) in a tube and add 2 mg ml<sup>-1</sup> of polybrene at the final concentration of 8 mg ml<sup>-1</sup>."
+    },
+    {
+        "title": "**82|**",
+        "body": "Aspirate the medium and add the growth medium supplemented with 8 mg ml<sup>-1</sup> of polybrene."
+    },
+    {
+        "title": "**83|**",
+        "body": "Add the viral fluid to each well and incubate the cells at 37°C for additional 24 h."
+    },
+    {
+        "title": "**84|**",
+        "body": "Include plain-vector virus-infected cells and mock-infected cells as controls."
+    },
+    {
+        "title": "**85|**",
+        "body": "Aspirate the medium and add growth medium and incubate the cells at 37°C for additional 24 h."
+    },
+    {
+        "title": "**86|**",
+        "body": "Aspirate the medium and add the growth medium supplemented with 0.5 mg ml<sup>-1</sup> puromycin."
+    },
+    {
+        "title": "**87|**",
+        "body": "Change medium supplemented with 0.5 μg ml<sup>-1</sup> puromycin every three days until the all mock-infected HeLa cells die \\(usually it takes 3 to 5 days)."
+    },
+    {
+        "title": "**88|**",
+        "body": "If the cells reach confluent, trypsinize cells and transfer them into 90-mm dish for further selection and propagation. The pooled population can be generally used for further experiments. If necessary, the infected cells are cloned by limiting dilution and examined clones,"
+    },
+    {
+        "title": "**Knock down of endogenous protein by RNAi**",
+        "body": []
+    },
+    {
+        "title": "**89|**",
+        "body": "In this section, we show the following protocol to use above HeLa cells in 60 mm dish. One day before transfection, plate the cells in the growth medium. The cell density depends on the incubation time after siRNA oligo transfection. For 2-day incubation, plate HeLa cells at a density of 8-10 × 10<sup>4</sup> cells/60 mm dish. Incubate the cells at 37 °C in a CO<sub>2</sub> incubator for ∼24h."
+    },
+    {
+        "title": "**90|**",
+        "body": [
+            "For each transfection sample, prepare siRNA:Oligofectamine complexes as follows.",
+            {
+                "title": "1.",
+                "body": "Dilute 10 μl of 20 μM annealed oligos in 170 μl of Opti-MEM without serum and antibiotics. Mix gently."
+            },
+            {
+                "title": "2.",
+                "body": "Dilute 2-4 μl of Oligofectamine in 15 μl of Opti-MEM medium without serum and antibiotics. Mix gently and incubate it at room temperature for 5-10 min."
+            },
+            {
+                "title": "3.",
+                "body": "After the incubation, combine the diluted siRNA with the diluted Oligofectamine; total volume is about 0.2 ml. Mix gently and incubate at room temperature for 15-20 min."
+            }
+        ]
+    },
+    {
+        "title": "**91|**",
+        "body": "During the incubation of siRNA:Oligofectamine complexes, wash cells with 2 ml of Opti-MEM twice. Then, add 0.8 ml of Opti-MEM to each dish."
+    },
+    {
+        "title": "**92|**",
+        "body": "Add siRNA:Oligofectamine complexes to each dish \\(total volume is ∼1 ml). Mix gently by rocking plate back and forth."
+    },
+    {
+        "title": "**93|**",
+        "body": "Incubate the cells at 37 °C in a CO<sub>2</sub> incubator for 4hr."
+    },
+    {
+        "title": "**94|**",
+        "body": "After 4 hr incubation, add 1 ml of DMEM supplemented with 20% FBS \\(final FBS concentration is about 10 %). Mix gently by rocking plate back and forth. Incubate the cells at 37 °C in a CO<sub>2</sub> incubator. At 24-72 h after addition of siRNA oligo, use these cells for immunocytochemistry, immunoblotting etc."
+    },
+    {
+        "title": "**? TROUBLE SHOOTING**",
+        "body": []
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "title": "1.",
+        "body": "Perfuse mouse thoroughly transcardially with pH 7.4 0.1M PBS"
+    },
+    {
+        "title": "2.",
+        "body": "Remove heads with scissors."
+    },
+    {
+        "title": "3.",
+        "body": "Strip skulls of soft tissues."
+    },
+    {
+        "title": "4.",
+        "body": "Remove mandibles."
+    },
+    {
+        "title": "5.",
+        "body": "Remove all skull material rostral to maxillae."
+    },
+    {
+        "title": "6.",
+        "body": "With surgical scissors, remove tops of skulls, cutting clockwise, beginning and ending inferior to the right post-tympanic hook."
+    },
+    {
+        "title": "7.",
+        "body": "Scoop out brain, maintaining tissue integrity."
+    },
+    {
+        "title": "8.",
+        "body": "Place brains immediately in ice-cold FACS buffer \\(pH 7.4 0.1M PBS, 1mM EDTA, 1% BSA, 50U/ml DNAseI). If you plan also to label neurons, l-Glutamine/Glutamax should be added to buffer to limit neuronal death during preparation."
+    },
+    {
+        "title": "9.",
+        "body": "Carefully strip meninges \\(dura mater, arachnoid mater and pia mater) from the exterior surfaces of brains with Dumont #5 forceps."
+    },
+    {
+        "title": "10.",
+        "body": "Using a scalpel, with a coronal cut, separate brain into cerebrum and cerebellum/brainstem."
+    },
+    {
+        "title": "11.",
+        "body": "Using forceps, separate cerebellum from brainstem; carefully peel out meningeal lining of the fourth ventricle."
+    },
+    {
+        "title": "12.",
+        "body": "Using a scalpel, bisect the cerebrum longitudinally and carefully peel out the choroid plexus and associated meningeal tissue."
+    },
+    {
+        "title": "13.",
+        "body": "Further dissect into desired brain areas for analysis \\(e.g. hippocampus, neocortex, etc.)."
+    },
+    {
+        "title": "14.",
+        "body": "Transfer brain tissue to a 15mL Tenbroeck homogenizer containing 10 ml ice-cold facs buffer."
+    },
+    {
+        "title": "15.",
+        "body": "Break up tissue with three gentle strokes."
+    },
+    {
+        "title": "16.",
+        "body": "Press crude homogenate through a 70 μm nylon mesh cell strainer with a plastic plunger, two times in serial, to yield a single cell suspension."
+    },
+    {
+        "title": "17.",
+        "body": "Centrifuge cells at 1200 RPM at 4ºC for 10 minutes with no brake, remove supernatant, re-suspend cells in ice-cold FACS buffer."
+    },
+    {
+        "title": "18.",
+        "body": "Remove myelin using Miltenyi AutoMACS and myelin removal beads according to manufacturer’s instructions."
+    },
+    {
+        "title": "19.",
+        "body": "Wash cells 1X with FACS buffer, centrifuge cells at 1100 RPM at 4ºC for 10 minutes with no brake, remove supernatant, re-suspend cells in 100 ul ice-cold FACS buffer and transfer cells to FACS tubes."
+    },
+    {
+        "title": "20.",
+        "body": "Label cells for extracellular microglial markers with antibodies each to CD11b, CD45, fixable live/dead dye, and any other desired markers \\(i.e. GFAP, NeuN, CD3e, etc.) for 30 m at 4º; keep protected from light."
+    },
+    {
+        "title": "21.",
+        "body": "Wash cells 2 times as in Step"
+    },
+    {
+        "title": "19.",
+        "body": ""
+    },
+    {
+        "title": "22.",
+        "body": "Resuspend cells in 100-400 ul 1% PFA in 0.1M pH 7.4 PBS. Vortex and store at 4º C protected from light."
+    },
+    {
+        "title": "23.",
+        "body": "Read cells on a multicolor flow cytometer."
+    },
+    {
+        "title": "24.",
+        "body": "To obtain equivalent and accurate cell counts, gate first using LIVE/DEAD, selecting live cells, then pulse width vs. area to select singlet cells, forward scatter vs. side scatter to eliminate debris, then by appropriate markers for cell type \\(e.g. CD11b for myeloid-derived cells). Microglia will be a CD45 Low CD11b High population; peripheral leukocytes will express high levels of CD45."
+    }
+]

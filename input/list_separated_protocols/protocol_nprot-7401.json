@@ -1,0 +1,250 @@
+[
+    {
+        "title": "**Purification of Cre protein**",
+        "body": [
+            "Day 1",
+            {
+                "title": "1)",
+                "body": "Mix 1 ng of a plasmid pET-HNCre\\(A207T)<sup>20</sup> and 20 μL of _Escherichia coli_ \\(_E. coli_) strain BL21\\(DE3) competent cells in a 1.5 mL-tube. Incubate the competent cell/DNA mixture on ice for 5 min."
+            },
+            {
+                "title": "2)",
+                "body": "Heat-shock the mixture by incubation at 42°C for 30 sec. Put the tube back on ice for 2 min."
+            },
+            {
+                "title": "3)",
+                "body": "Add 100 μL of SOC media to the mixture and incubate at 37°C for 30-60 min."
+            },
+            {
+                "title": "4)",
+                "body": "For the pre-culture, put the 100 µl of the mixture into 15 mL of LB with kanamycin. Incubate the LB with shaking at 37°C overnight. Rest of the transformation mixture can be plated on LB ager plate containing kanamycin in case of backup. Cre protein is less toxic to _E. Coli_, so that the supplementation of glucose, a catabolic repressor for leaky expression, to the preculture is not necessary.\r\n\n\n\r\n\n\nDay 2"
+            },
+            {
+                "title": "1)",
+                "body": "Pour the 15 mL of pre-culture to 1 L of LB with kanamycin in a baffled flask."
+            },
+            {
+                "title": "2)",
+                "body": "Incubate at 37°C with shaking for 2-3 h, until absorbance A<sub>600</sub> becomes 0.6."
+            },
+            {
+                "title": "3)",
+                "body": "Shift the temperature to 18°C and incubate with shaking for 30 min."
+            },
+            {
+                "title": "4)",
+                "body": "Add 1 mL of 0.1 M IPTG \\(0.1 mM of final concentration) to induce protein expression and incubate at 18°C with shaking overnight.\r\n\n\n\r\n\n\nDay 3"
+            },
+            {
+                "title": "1)",
+                "body": "Collect cells by centrifugation at 5,000 g for 20 min at 4°C. Remove supernatant."
+            },
+            {
+                "title": "2)",
+                "body": "Resuspend cells in 40 mL of ice-cold Lysis10 buffer."
+            },
+            {
+                "title": "3)",
+                "body": "Add 800 μl of 10% Triton X-100 towards final concentration of 0.2% Triton X-100."
+            },
+            {
+                "title": "4)",
+                "body": "Sonicate the suspension to shear the DNA for 10 min on ice. We do not add lysozyme or nuclease to the lysate, since these components are difficult to be removed completely from samples."
+            },
+            {
+                "title": "5)",
+                "body": "Centrifuge the suspension at 9,000 g for 10 min at 4°C to pellet the cellular debris."
+            },
+            {
+                "title": "6)",
+                "body": "Transfer the supernatant to a new tube on ice."
+            },
+            {
+                "title": "7)",
+                "body": "Repeat Steps 5 and 6."
+            },
+            {
+                "title": "8)",
+                "body": "Transfer 10 ml of a 50% slurry of Ni-NTA Agarose into a clean empty column."
+            },
+            {
+                "title": "9)",
+                "body": "Wash and equilibrate the column by running 20 ml of lysis buffer through the column."
+            },
+            {
+                "title": "10)",
+                "body": [
+                    "Add the supernatant of",
+                    {
+                        "title": "Step 7",
+                        "body": "lysate to the column."
+                    }
+                ]
+            },
+            {
+                "title": "11)",
+                "body": "Wash the column with 15 mL of Wash20 buffer."
+            },
+            {
+                "title": "12)",
+                "body": "Repeat Step 11."
+            },
+            {
+                "title": "13)",
+                "body": "Elute the protein with 3 mL of Elute500 buffer."
+            },
+            {
+                "title": "14)",
+                "body": "Repeat Step 13."
+            },
+            {
+                "title": "15)",
+                "body": "Analyze each fraction to determine the purity of Cre protein by SDS-PAGE followed by CBB stain.\r\n\n\n\r\n\n\nDay 4"
+            },
+            {
+                "title": "1)",
+                "body": "Purify the eluted HNCre protein with a gel filtration column and Buffer A using chromatography system and HiPrep 16/60 Sephacryl S-200 HR Gel filtration column."
+            },
+            {
+                "title": "2)",
+                "body": "Freeze the purified HNCre protein using liquid N<sub>2</sub> and store it at -80°C"
+            },
+            {
+                "title": "3)",
+                "body": "Thaw the frozen protein and dialyze it with HBS before use.\r\n\n\nNote: It is important to use buffers containing 500 mM NaCl because Cre protein, especially at lower salt concentration, tends to bind and thus copurified with nucleic acids, and also tends to aggregate during purification process."
+            }
+        ]
+    },
+    {
+        "title": "**Electroporation**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "T87 cells are maintained with rotary shaker \\(120 rpm) under constant light at 22°C. Passage T87 cells into fresh NT1 medium \\(pH 5.8) 1–5 days before electroporation. Time for pre-culture does not largely affect the electroporation efficiency."
+            },
+            {
+                "title": "2)",
+                "body": "Collect cells in a fresh 1.5 mL-tube. Cells can be left for 5 min to settle naturally."
+            },
+            {
+                "title": "3)",
+                "body": "Remove the supernatant and visually estimate the packed cell volume \\(pcv). Wash cells once with Opti-MEM I \\(at least 1 volume of pcv)."
+            },
+            {
+                "title": "4)",
+                "body": "Discard the supernatant. Add 200 µL of Opti-MEM I with 1–5 μM HNCre protein to the 20 µL pcv of cells on ice.\r\n\n\nNote: The delivery efficiency is increased with increasing concentrations of Cre protein."
+            },
+            {
+                "title": "5)",
+                "body": "Transfer cells into a 4-mm-wide cuvette on ice.\r\n\n\nNote: A 4-mm-wide cuvette is recommended because T87 cells often form large aggregates."
+            },
+            {
+                "title": "6)",
+                "body": "Place the cuvette into NEPA21 TypeⅡ."
+            },
+            {
+                "title": "7)",
+                "body": "Use the electroporation program; 375 V/cm \\(150 V setting/0.4 cm width), 10 ms, 5 times, and a 50 ms interval for poring pulse, and 20 V, 50 ms, 20 times, and a 50 ms interval for transfer pulse.\r\n\n\nNote: The delivery efficiency is increased with increasing the field strength or/and duration of poring pulse."
+            },
+            {
+                "title": "8)",
+                "body": "Immediately after electroporation, add 800 µL of NT1 medium \\(pH 5.8) to the cuvette and transfer all cells to a new 1.5 mL-tube."
+            },
+            {
+                "title": "9)",
+                "body": "Discard the supernatant and resuspend cells with 1 mL of NT1 medium \\(pH 5.8). Discard the supernatant and resuspend cells with 2 mL of NT1 medium \\(pH 5.8). Transfer cells to a 12-well plate."
+            },
+            {
+                "title": "10)",
+                "body": "Culture cells at 22°C with shaking until the assay.\r\n\n\nNote: When T87-xGxGUS cells is used, the delivery efficiency of HNCre protein can be measured by ß-glucuronidase \\(GUS) activity using X-Glucuronide or 6-chloro-4-methylumbelliferyl β-D-glucuronide, or genomic PCR primers flanking the two _loxP_ sites as follows."
+            }
+        ]
+    },
+    {
+        "title": "**GUS staining**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Two days after electroporation, discard the supernatant and resuspend cells with 0.5 mg/mL of X-Glucuronide dissolved in 300 μL of staining buffer.\r\n\n\nNote: At least 2 days of incubation after electroporation are necessary for the detection of GUS activity."
+            },
+            {
+                "title": "2)",
+                "body": "Incubate cells for 30 min at 37°C."
+            },
+            {
+                "title": "3)",
+                "body": "Transfer cells into 70% \\(w/v) ethanol."
+            },
+            {
+                "title": "4)",
+                "body": "Image cells using a phase contrast microscope."
+            }
+        ]
+    },
+    {
+        "title": "**Fluorescence quantification of GUS activity**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Two days after electroporation, wash cells once with NT1 medium \\(pH 7.0)."
+            },
+            {
+                "title": "2)",
+                "body": "Suspend cells with 5 µL of PCV in 100 µL of NT1 medium \\(pH 7.0)."
+            },
+            {
+                "title": "3)",
+                "body": "Transfer cells to a black 96-well plate."
+            },
+            {
+                "title": "4)",
+                "body": "Add 5 µL of 200 µM CMUG \\(final concentration of 10 µM CMUG) to each well."
+            },
+            {
+                "title": "4)",
+                "body": "Measure fluorescence using a microplate reader. The excitation wavelength and the emission wavelength are set at 355 nm and at 460 nm, respectively."
+            }
+        ]
+    },
+    {
+        "title": "**Genomic PCR**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Two days after electroporation, discard the supernatant and resuspend 10 µL pcv of cells with 10 µL of 250 mM NaOH and 0.1% Tween20."
+            },
+            {
+                "title": "2)",
+                "body": "Incubate cells for 10 min at 98°C to extract genomic DNA."
+            },
+            {
+                "title": "3)",
+                "body": "Add 5 µL of 1M Tris-HCl \\(pH 6.5)."
+            },
+            {
+                "title": "4)",
+                "body": "Centrifuge cells at 10,000 g for 5 min at RT."
+            },
+            {
+                "title": "5)",
+                "body": "Collect the supernatant."
+            },
+            {
+                "title": "6)",
+                "body": "Perform genomic PCR using MightyAmp DNA Polymerase Ver.3 and the supernatant as a template DNA with primers TCCTTCGCAAGACCCTTCCTC and GGATGGCAAGAGCCAAATGCTTAG."
+            },
+            {
+                "title": "7)",
+                "body": "Analyze PCR products by agarose gel electrophoresis."
+            },
+            {
+                "title": "8)",
+                "body": "Stain gels with GelGreen."
+            },
+            {
+                "title": "9)",
+                "body": "Image gels using a transilluminator."
+            }
+        ]
+    }
+]

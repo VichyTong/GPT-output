@@ -1,0 +1,84 @@
+[
+    {
+        "title": "**Expression**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "100ml o/n LB/amp culture"
+            },
+            {
+                "title": "2)",
+                "body": "Next day seed 700ml LB/amp with 100ml o/n culture, 37°C."
+            },
+            {
+                "title": "3)",
+                "body": "Grow cells until OD600 = 0.6-1.2"
+            },
+            {
+                "title": "4)",
+                "body": "Induce with 1mM IPTG.  Grow for 3hr 37°C."
+            },
+            {
+                "title": "5)",
+                "body": "Harvest 8krpm, 4 °C, 10min."
+            },
+            {
+                "title": "6)",
+                "body": "Resuspend 800ml cell culture pellet in 20ml Ni-NTA binding buffer.  LN<sub>2</sub> freeze."
+            }
+        ]
+    },
+    {
+        "title": "**Purification**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Thaw 1L cells.  Add PI tablet w/o EDTA.  Add 2mM PMSF."
+            },
+            {
+                "title": "2)",
+                "body": "Add 0.4mg/ml lysozyme.  Rock 15-30min until thick."
+            },
+            {
+                "title": "3)",
+                "body": "Add 10mM MgCl<sub>2</sub>.  Add 0.4µg/ml DNaseI.  Rock 15-30min until loose."
+            },
+            {
+                "title": "4)",
+                "body": "Add 0.1% Tx-100.  Rock 15min.  Save 10µl for SDS-PAGE."
+            },
+            {
+                "title": "5)",
+                "body": "Spin 16krpm, 4°C, 15min.  Save some supernatant and pellet for gel."
+            },
+            {
+                "title": "6)",
+                "body": "Meanwhile, wash 2ml Ni-NTA beads with binding buffer."
+            },
+            {
+                "title": "7)",
+                "body": "Load supernatant onto beads."
+            },
+            {
+                "title": "8)",
+                "body": "Wash with 50ml binding buffer."
+            },
+            {
+                "title": "9)",
+                "body": "Wash with 50ml wash buffer low salt."
+            },
+            {
+                "title": "10)",
+                "body": "Elute with elution buffer low salt."
+            },
+            {
+                "title": "11)",
+                "body": "Dialize into dialysis buffer while digesting off His tag with biotinylated thrombin.  Digest for 6hr RT.  Capture biotinylated thrombin with streptavidin agarose."
+            },
+            {
+                "title": "12)",
+                "body": "Run SDS PAGE on purification.  Determine if need to do further purification on S75 or S200. Do a quick protein concentration check.  Concentrate if necessary."
+            }
+        ]
+    }
+]

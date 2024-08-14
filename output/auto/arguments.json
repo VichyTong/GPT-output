@@ -1,0 +1,4077 @@
+[
+    {
+        "key": "angle",
+        "info": [
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "The angle of rotation in degrees"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "The angle at which the target is tilted"
+            }
+        ]
+    },
+    {
+        "key": "attribute",
+        "info": [
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The attribute to be checked"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The attribute to be caculated"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The attribute to be adjusted"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The attribute to be increased"
+            }
+        ]
+    },
+    {
+        "key": "component",
+        "info": [
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The part to be eluted from the reagent"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The part to be extracted from the reagent1"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The portion of the reagent1 that needs to be precipitated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The component to be separated"
+            }
+        ]
+    },
+    {
+        "key": "concentration",
+        "info": [
+            {
+                "require": 0,
+                "type": "concentration",
+                "comment": "The final concentration of the reagent to be added, if applicable"
+            },
+            {
+                "require": 0,
+                "type": "concentration",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "container",
+        "info": [
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The container where the item will be collected"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The container where the reagent will be dispensed"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The container to aliquot into"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Container to collect the filtered reagent"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The container where the pooling will take place"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Container for reagent loading"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The container to hold the reagent1"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The type of well or plate to be used for seeding"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The container where reagent1 needs to be inoculated,a INOCULATE instruction must has one of \"reagent2\" or \"container\""
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The container to collect sorted cells(usually tube)"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Container to place the divided parts into"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The container to setup, e.g., PCR tube, Eppendorf tube, PCR plate, glass plates, hotplate, perfusion station, culture dishes, manipulation dish"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The container where the reagent is packed"
+            }
+        ]
+    },
+    {
+        "key": "data",
+        "info": [
+            {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "data",
+                "comment": "The result of the operation"
+            }
+        ]
+    },
+    {
+        "key": "data0",
+        "info": [
+            {
+                "require": 1,
+                "type": "number",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "number",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "data",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "Exported data"
+            }
+        ]
+    },
+    {
+        "key": "data1",
+        "info": [
+            {
+                "require": 1,
+                "type": "data",
+                "comment": "The value to adjust the attribute to"
+            },
+            {
+                "require": 1,
+                "type": "data",
+                "comment": "The data to be analyzed, a ANALYZE instruction can either has \"reagent1\" or \"data1\", but cannot have neither or both"
+            },
+            {
+                "require": 1,
+                "type": "data",
+                "comment": "The target to be read(usually file)"
+            },
+            {
+                "require": 1,
+                "type": "data",
+                "comment": "The file to be imported"
+            },
+            {
+                "require": 1,
+                "type": "data",
+                "comment": "The data to be exported"
+            }
+        ]
+    },
+    {
+        "key": "density",
+        "info": [
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "The density of cells to be plated per cm^2 or per well"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "The desired cell density if dropping cell suspension"
+            }
+        ]
+    },
+    {
+        "key": "destination",
+        "info": [
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The destination where the sample is being transferred"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The destination where the volume is pipetted to"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The location where the reagent1 is to be placed"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The location where the reagent is to be loaded"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The destination of the drawn reagent, if applicable"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The destination where the object will be split into"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The target where the reagent is dropped"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Where the recovered sample is placed"
+            }
+        ]
+    },
+    {
+        "key": "device",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to remove the item"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for purification"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for measurement"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used for aspiration"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "default=standard vortexer"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for this operation"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The kit used for extraction"
+            },
+            {
+                "require": 0,
+                "type": "STR",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for flow(At least provide one of \"device\" or \"reagent2\")"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for normalization"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to dispense the reagent"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used to cut the object"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Device that help to fix"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used for drying"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device to be used for spinning, default=centrifuge"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device(usually tool) for selection"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used for cell counting, such as 'Countess Machine', 'hemocytometer', etc."
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The device to be turned on or off"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to separate the objects"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device in which the cells or organism are grown"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to weigh the reagent1, default=electric balance"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used for sealing if any"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Device or equipment used for assembly"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for quantification"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The storage condition for the saved sample"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The tool used to attach"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Specific cleaning kit if used"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "default=magnetic stir bar"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Any tools used during dissection"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The device or material to pass the reagent through"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to draw the reagent, such as a syringe or pipette"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for sorting, default=FACS"
+            },
+            {
+                "require": 1,
+                "type": "device",
+                "comment": "Products after connecting device1 and device2"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used to pull the object"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The device or software used to acquire the data"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The device to be switched"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for assessment"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Device used for recovery"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Sequencing device used"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The device used to read"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The device used for homogenization"
+            }
+        ]
+    },
+    {
+        "key": "device1",
+        "info": [
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The first device to be connected"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to be fitted"
+            }
+        ]
+    },
+    {
+        "key": "device2",
+        "info": [
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The second device to be connected"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to fit into object1"
+            }
+        ]
+    },
+    {
+        "key": "direction",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Direction in which the object is cut, including preposition"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Direction of fixed reagent1"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The direction of rotation"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The direction in which the object is pulled"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "environment",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition under which the item is collected"
+            },
+            {
+                "require": 1,
+                "type": "STR",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Operating environment, such as N2 or water bath"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Any specific environment under which the object is cut"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Operating environment, such as vacuum or nitrogen"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Environment under which the procedure is performed"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition to be checked"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The environment for operation"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition under which the data was collected"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition under which the separation is performed"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Additional growth conditions, such as CO2 concentration or shaking speed"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The conditions under which the seeded cells are to be incubated"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Conditions under which to proceed"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition to be met before proceeding"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The physical environment under which reagent1 is cooled, such as \"ice bath\" or \"in the dark\""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The condition under which the object should be split"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The environment under which reagent is observed"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "equipment",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Any equipment used during the transfer"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Equipment used in the procedure"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The equipment used to check the item"
+            }
+        ]
+    },
+    {
+        "key": "flowRate",
+        "info": [
+            {
+                "require": 0,
+                "type": "rate",
+                "comment": "The rate at which the reagent is flowed"
+            },
+            {
+                "require": 0,
+                "type": "rate",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "format",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The format in which the sample/data is to be saved"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The format to export the data in"
+            }
+        ]
+    },
+    {
+        "key": "frequency",
+        "info": [
+            {
+                "require": 0,
+                "type": "frequency",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "default=1 time"
+            },
+            {
+                "require": 0,
+                "type": "frequency",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "frequency",
+                "comment": "Number of reads per sample/cell"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "intensity",
+        "info": [
+            {
+                "require": 0,
+                "type": "intensity",
+                "comment": "The intensity of shaking"
+            },
+            {
+                "require": 1,
+                "type": "number",
+                "comment": "The intensity at which to centrifuge the sample, usually represented as rpm/xg/rcf"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "default=intermediate intensity"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "The intensity of operation"
+            },
+            {
+                "require": 1,
+                "type": "intensity",
+                "comment": "The intensity at which the spin should be performed, default=appropriate intensity"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The intensity at which to centrifuge the sample, usually represented as rpm/xg/rcf"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "The intensity of rotation"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "location",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The location where the dissection is performed"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "method",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to remove the item"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to collect the item"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method of mixing, such as inversion, vortexing, pipetting, etc."
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to purify the reagent"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Method used for elution, e.g., centrifugation, boiling, shaking"
+            },
+            {
+                "require": 0,
+                "type": "STR",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Method of precipitation, e.g., shaking, spinning, etc."
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for normalization"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to check the item"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to load the reagent"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Method used for counting cells, such as 'hemocytometer', 'cell counter', 'Trypan Blue method', etc."
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to adjust, if applicable"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for analysis"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to separate the objects"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for quantification"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Specific staining method if applicable"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method or kit used to generate the target"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method of administration of the anesthetic"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to attach"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for transfection, default=standard procedures"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The method of exposure"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Method used to divide the object"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The method used to assess the sample"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Method used for recovery"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Specific method or protocol for induction"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used for deposition"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method or tool used for alignment"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to sacrifice the animal"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method used to read, such as command line, setting, etc."
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The method or tool used to trim the object"
+            }
+        ]
+    },
+    {
+        "key": "mode",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The mode to be switched to"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Sequencing mode, e.g. single-end or paired-end"
+            }
+        ]
+    },
+    {
+        "key": "notice",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Things to notice while selection"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Any additional information or precautions"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "parameter",
+        "info": [
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The parameter to be measured"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Additional parameters for reading, such as wavelength, channel, etc."
+            }
+        ]
+    },
+    {
+        "key": "position",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The position where the object is attached"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The position to which the object is pulled"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The position in which the object should be held"
+            }
+        ]
+    },
+    {
+        "key": "procedure",
+        "info": [
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The procedure to be performed"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The procedure to proceed to"
+            }
+        ]
+    },
+    {
+        "key": "program",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "when \"device\"=PCR machine(thermocycler), this parameter should be changed to REQ"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "PCR program to be used for amplification"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "when device=Covaris Adaptive focused ultrasonicator, this parameter should be changed to REQ"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The program used for sorting data"
+            }
+        ]
+    },
+    {
+        "key": "protocol",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Standard transformation protocols to be followed"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Specific protocol followed for sequencing"
+            }
+        ]
+    },
+    {
+        "key": "purpose",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose of collection"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose of shaking"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose for selection"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose for saving the sample"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose of importing the file"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The purpose of trimming"
+            }
+        ]
+    },
+    {
+        "key": "quantity",
+        "info": [
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "The quantity of reagent or data to be acquired"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "Number of parts to divide the object into"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "volume",
+                "comment": "default=1 piece"
+            }
+        ]
+    },
+    {
+        "key": "ratio",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The ratio of reagents to be added, if applicable"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The ratio of reagents to be mixed"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "The ratio for splitting the object"
+            }
+        ]
+    },
+    {
+        "key": "reagent0",
+        "info": [
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object after rinsing"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "REG",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The sterilized object"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The cut object"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Filtered reagent1"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The separated object"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object after assembling"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Saved reagent"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The anesthetized animal"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Products after connecting reagent1 and reagent2"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Cleaned reagent or object"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Reagent1 after passing"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Sorted cells"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Reagent after splitting"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "Transfected cells"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Dialyzed mixture"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "Reagent after assessing"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Dehydrated sample"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "Wrapped reagent"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Dead animal"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Denatured reagent"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reconstituted reagent"
+            }
+        ]
+    },
+    {
+        "key": "reagent1",
+        "info": [
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to be removed"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The primary reagent to which other reagents are added"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample being transferred"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be incubated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be suspended"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The type of cells to be plated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to be collected"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The main reagent to be mixed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be diluted"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be shaken"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be centrifuged"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be purified"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to be replaced"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent used for measurement"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be aspirated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be coated"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to be rinsed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be eluted"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The mixture to be vortexed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be thawed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The cells to be passaged"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be pelleted"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be digested"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be extracted"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The source from which the volume is pipetted"
+            },
+            {
+                "require": 1,
+                "type": "REG",
+                "comment": "The reagent to be concentrated"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to be sterilized"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be precipitated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be quenched"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Flowing reagents"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be normalized"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be dispensed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be evaporated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be aliquoted"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be placed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be fixed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be dried"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be heated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The main reagent to be prepared"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Reagents used in the procedure"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be spun down"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be taken out or used"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to be stored"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The item to be checked"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be run"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be loaded"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "reagent to be counted(usually cell), keep alive"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be adjusted"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be injected"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be filtered"
+            },
+            {
+                "require": 1,
+                "type": "data",
+                "comment": "The reagent to be analyzed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be left"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be pooled"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent from which \"component\" is to be separated, keep alive"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The cells or organism to be grown"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be filled"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be weighed, keep alive"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The container to be sealed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The type of cells to be seeded"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The main component to be assembled"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be cooled"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be treated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be blocked"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be quantified"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be stained"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to be covered"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The column or device to be equilibrated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be inoculated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be amplified"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be sonicated"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The animal to be anesthetized"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be attached"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent or object to be cleaned"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be stirred"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The tissue to be dissected"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be passed through"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be drawn"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be sorted(usually cells)"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be rotated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be split"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be pulled"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be transformed"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The reagent to be transfected(usually cells)"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be exposed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be divided"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The mixture to be dialyzed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be picked"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be dropped"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be assessed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be recovered"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The object to be held"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be reduced"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be dehydrated"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The sample to be sequenced"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent or subject to be induced"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be deposited"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The first item to be compared"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to be aligned"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to be wrapped"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The animal to be sacrificed"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The main reagent to be setup"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be packed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be homogenized"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be given"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be denatured"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be trimmed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be supplemented"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent to be reconstituted"
+            }
+        ]
+    },
+    {
+        "key": "reagent1/data1",
+        "info": [
+            {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "The reagent/data to be selected"
+            },
+            {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "The reagent/data to be saved"
+            },
+            {
+                "require": 1,
+                "type": "reagent/data",
+                "comment": "The reagent/data to be acquired"
+            }
+        ]
+    },
+    {
+        "key": "reagent2",
+        "info": [
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Additional reagents to be added to the primary reagent"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents added during incubation"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The medium or buffer in which the reagent is suspended"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The destination for plating"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents to be mixed"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent used for dilution"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The item to replace with, defult = another brand new reagent"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents to be aspirated if any"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The material used for coating"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The material used to rinse the object,defult = water"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The eluent"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The medium used for passaging"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The digestive reagent"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The extractant"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The sterilant"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The reagent used for precipitation"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The quenching reagent"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Stationary reagent"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The fixative to be used, or The place to fix the reagent1"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents to be used"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents used during the run, such as supporting medium"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Stain used for cell counting, if applicable"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents to be pooled"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The material used to seal the container"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The medium in which cells are to be seeded"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional components to be assembled with the main component"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Additional reagents used for treatment"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent(usually solution) used for blocking"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents used for staining(usually staining agent)"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The material used to cover the object"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The buffer or solution used for equilibration"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The reagent where reagent1 needs to be inoculated(usually medium)"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents used in the amplification process"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The anesthetic to be used"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The object to which the first object is attached"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "Detergent"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Any reagents used during dissection"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents used during the process"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The buffer to be used during sorting"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The reagent into which transformation is to be done"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The plasmid to be transfected into the cells"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The solution to dialyze against"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Medium in which the object is picked"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The other reagent used to wipe"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reducing agent"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Dehydrating agents"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Primers used for sequencing"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents used for induction"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The substrate on which the material is deposited"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The second item to be compared"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The object to which object1 is aligned, keep alive"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The material used to wrap the item"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents added during setup"
+            },
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "Additional reagents added during homogenization"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The recipient(usually mouse) of the reagent"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The other reagent(s) to be added"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The reagent used for reconstitution"
+            }
+        ]
+    },
+    {
+        "key": "reagent3",
+        "info": [
+            {
+                "require": 0,
+                "type": "reagent",
+                "comment": "The other reagent used for passaging"
+            },
+            {
+                "require": 1,
+                "type": "reagent",
+                "comment": "The other reagent used for transfection(usually transfectant)"
+            }
+        ]
+    },
+    {
+        "key": "repeat",
+        "info": [
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "Number of times the object should be rinsed, default=1"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "The number of times the pipetting action is repeated"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "Number of times the procedure is repeated"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "Number of times the process is repeated"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "result",
+        "info": [
+            {
+                "require": 1,
+                "type": "number",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "settings",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "software setting, default=default settings"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The settings used on the device"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Any specific settings or conditions for the acquisition"
+            }
+        ]
+    },
+    {
+        "key": "size",
+        "info": [
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "Size of the sections to be cut"
+            },
+            {
+                "require": 0,
+                "type": "number",
+                "comment": "The size to which the object should be trimmed"
+            }
+        ]
+    },
+    {
+        "key": "software",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The software used for calculation if any"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The software used for analysis"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Software used for design"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The software where the file will be imported"
+            }
+        ]
+    },
+    {
+        "key": "source",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The source from where the sample is being transferred"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The location from where the reagent is to be taken out"
+            }
+        ]
+    },
+    {
+        "key": "state",
+        "info": [
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The state to which the device should be turned, either 'on' or 'off'"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The state needs to be ensured"
+            }
+        ]
+    },
+    {
+        "key": "target",
+        "info": [
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The target to be generated"
+            },
+            {
+                "require": 1,
+                "type": "string",
+                "comment": "The target to be wiped"
+            }
+        ]
+    },
+    {
+        "key": "targetConcentration",
+        "info": [
+            {
+                "require": 1,
+                "type": "concentration",
+                "comment": "The final concentration of the diluted reagent"
+            },
+            {
+                "require": 0,
+                "type": "CONC",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "concentration",
+                "comment": "The target concentration after normalization"
+            },
+            {
+                "require": 0,
+                "type": "concentration",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "temperature",
+        "info": [
+            {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=-20\u00b0C"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "The temperature at which the spin should be performed, default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "Temperature conditions if any"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 1,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": "default=room temperature"
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "temperature",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "temperature",
+                "comment": ""
+            }
+        ]
+    },
+    {
+        "key": "termination",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "Reaction endpoint, such as \"dryness\""
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The sign of stopping cultivation"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The timing to stop waiting, a WAIT instruction must has one of \"time\" or \"termination\""
+            }
+        ]
+    },
+    {
+        "key": "time",
+        "info": [
+            {
+                "require": 1,
+                "type": "time",
+                "comment": "default=appropriate time"
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "time",
+                "comment": "default=appropriate time"
+            },
+            {
+                "require": 1,
+                "type": "time",
+                "comment": "The duration for which to centrifuge the sample"
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": "default=briefly"
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": "Time of the procedure"
+            },
+            {
+                "require": 1,
+                "type": "time",
+                "comment": "The duration for which the spin should be performed, default=appropriate time"
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": "The time to wait, if specified"
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "time",
+                "comment": "default=1 hour"
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "time",
+                "comment": "default=2 min"
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": "Time for dehydration"
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "time",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "time",
+                "comment": "default=5 min"
+            }
+        ]
+    },
+    {
+        "key": "timing",
+        "info": [
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The timing to start waiting"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "The timing of ENSURE operation"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "When to supplement, if necessary"
+            },
+            {
+                "require": 0,
+                "type": "string",
+                "comment": "When the reconstitution should be done, if applicable"
+            }
+        ]
+    },
+    {
+        "key": "volume",
+        "info": [
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": "The volume to be pipetted"
+            },
+            {
+                "require": 1,
+                "type": "volume",
+                "comment": "The volume of the reagent to be dispensed (Volume per serving)"
+            },
+            {
+                "require": 1,
+                "type": "volume",
+                "comment": "The volume of each aliquot"
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": "The volume of the sample to be saved"
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "volume",
+                "comment": "The volume of the reagent to be drawn"
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": "The volume of each split part"
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 1,
+                "type": "volume",
+                "comment": "The volume of the reagent to be dropped"
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            },
+            {
+                "require": 0,
+                "type": "volume",
+                "comment": ""
+            }
+        ]
+    }
+]

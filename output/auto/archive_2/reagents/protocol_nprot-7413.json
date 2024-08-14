@@ -1,0 +1,430 @@
+[
+    {
+        "name": "piezo translation stage 0",
+        "description": "A piezo translation stage mounted to the microscope is used for fine-positioning of the trap right before a trapping experiment starts."
+    },
+    {
+        "name": "dichroic mirror 0",
+        "description": "A dichroic mirror \\(D) is selected according to the excitation and the heating laser wavelengths as well as the emission wavelength of the labeled sample."
+    },
+    {
+        "name": "heating laser 0",
+        "description": "Reflections of the heating laser in the detection pathway are blocked with a short-pass filter."
+    },
+    {
+        "name": "sample 0",
+        "description": "Fluorescent light of the sample is imaged to an EMCCD after passing a bandpass filter \\(F) as well as a tube lens."
+    },
+    {
+        "name": "The fluorescence is imaged in real time 0",
+        "description": "The fluorescence is imaged in real time and the control of the AD/DA converter \\(ADwin) is done with a custom LabVIEW program."
+    },
+    {
+        "name": "glass cover slip 0",
+        "description": "Thoroughly clean a glass cover slip with acetone and isopropyle.\r\n  "
+    },
+    {
+        "name": "glass cover slip 1",
+        "description": "2. Dry the clean glass cover slip on the hotplate at 120 \u00b0C for 10 min.\r\n  3."
+    },
+    {
+        "name": "glass cover slip 2",
+        "description": "Fix the cleaned glass cover slip on the spin coater.\r\n  "
+    },
+    {
+        "name": "adhesion promoter 0",
+        "description": "Spin coat 100 \u03bcl of the adhesion promoter on the glass cover slip at 3000 rpm for 30 s using dynamic dispense spin coating technique."
+    },
+    {
+        "name": "adhesion promoter 1",
+        "description": "No residual drops or film of the adhesion promoter should be visible after spin coating.\r\n  "
+    },
+    {
+        "name": "adhesion promoter 2",
+        "description": "Bake the adhesion promoter immediately after spin coating at 120 \u00b0C on the hotplate for 2 min.\r\n  7."
+    },
+    {
+        "name": "glass cover slip 2 1",
+        "description": "Fix the cover slip on the spin coater.\r\n  "
+    },
+    {
+        "name": "negative photoresist 0",
+        "description": "Spin coat 200 \u03bcl of the negative photoresist on the glass cover slip at 3000 rpm for 30 s using dynamic dispense spin coating technique.\r\n  "
+    },
+    {
+        "name": "negative photoresist 1",
+        "description": "Soft-bake the photoresist immediately after spin coating at 110 \u00b0C on the hotplate for 60 s.\r\n  10."
+    },
+    {
+        "name": "glass cover slip 4",
+        "description": "Fix the cover slip to the UV lithography system "
+    },
+    {
+        "name": "glass cover slip 5",
+        "description": "And align it with the photomask \\(for optimal exposure).\r\n  "
+    },
+    {
+        "name": "glass cover slip 6",
+        "description": "Expose the cover slip to the UV laser \\(66 mJ cm<sup>\u22122</sup>, i-line).\r\n  "
+    },
+    {
+        "name": "glass cover slip 7",
+        "description": "Dismantle the cover slip from the UV lithography system and bake it at 110 \u00b0C for 60 s.\r\n  13."
+    },
+    {
+        "name": "developer 0",
+        "description": "Develop the photoresist for 60 s. For this purpose, fill a 50 ml baker with the developer and wave the cover slip for exactly 60 s in the baker with a tweezer under the exhaustive hood.\r\n  "
+    },
+    {
+        "name": "glass cover slip 8",
+        "description": "Thoroughly rinse the cover slip with Milli-Q water."
+    },
+    {
+        "name": "glass cover slip 9",
+        "description": "Thermally evaporate a 30 nm chrome layer on the cover slip.\r\n  "
+    },
+    {
+        "name": "negative photoresist 2",
+        "description": "Strip the resist with the remover in the ultrasonic bath for 30 min."
+    },
+    {
+        "name": "glass cover slip 10",
+        "description": "Thoroughly rinse the cover slip with Milli-Q water "
+    },
+    {
+        "name": "glass cover slip 11",
+        "description": "And dry it with nitrogen.\r\n  "
+    },
+    {
+        "name": "glass cover slip 12",
+        "description": "**Fibril Preparation**"
+    },
+    {
+        "name": "buffer solutions 0",
+        "description": "**a) Preparation of buffer solutions**"
+    },
+    {
+        "name": "buffer solutions 1",
+        "description": "Preparation of phosphate buffer \\(pH 8.8 and pH 9.2):"
+    },
+    {
+        "name": "25 mM Na2HPO4 solution 0",
+        "description": "Dilute a 500 mM Na<sub>2</sub>HPO<sub>4</sub> stock solution with Milli-Q water to a final concentration of 25 mM. \r\n  2."
+    },
+    {
+        "name": "NaCl 0",
+        "description": "Add the respective amount of NaCl for salt dependent measurements.\r\n  "
+    },
+    {
+        "name": "buffer solutions 2",
+        "description": "3. Adjust the pH value with NaOH.\r\n  "
+    },
+    {
+        "name": "buffer solutions 3",
+        "description": "Store the buffer solution at room temperature.\r\n  "
+    },
+    {
+        "name": "25 mM Na2HPO4 solution 1",
+        "description": "Preparation of phosphate buffer \\(pH 7.4):"
+    },
+    {
+        "name": "Na2HPO4 and NaH2PO4 mixture 0",
+        "description": "Mix 500 mM stock solutions of Na<sub>2</sub>HPO<sub>4</sub> and NaH<sub>2</sub>PO<sub>4</sub> at a ratio of 8.1:1.9. \r\n  "
+    },
+    {
+        "name": "25 mM Na2HPO4 solution 2",
+        "description": "2. Dilute the solution with Milli-Q water to a final concentration of 25 mM.\r\n  3."
+    },
+    {
+        "name": "NaCl 1",
+        "description": "Add the respective amount of NaCl for salt dependent measurements.\r\n  "
+    },
+    {
+        "name": "buffer solutions 4",
+        "description": "4. Adjust the pH value with NaOH or H<sub>3</sub>PO<sub>4</sub>, respectively.\r\n  "
+    },
+    {
+        "name": "buffer solutions 5",
+        "description": "Store the buffer solution at room temperature.\r\n  "
+    },
+    {
+        "name": "25 mM Na2HPO4 solution 3",
+        "description": "Preparation of phosphate buffer \\(pH 6.1):"
+    },
+    {
+        "name": "Na2HPO4 and NaH2PO4 mixture 1",
+        "description": "Mix 500 mM stock solutions of Na<sub>2</sub>HPO<sub>4</sub> and NaH<sub>2</sub>PO<sub>4</sub> at a ratio of 1.5:8.5. \r\n  "
+    },
+    {
+        "name": "25 mM Na2HPO4 solution 2 1",
+        "description": "2. Dilute the solution with Milli-Q water to a final concentration of 25 mM.\r\n  3."
+    },
+    {
+        "name": "NaCl 2",
+        "description": "Add the respective amount of NaCl for salt dependent measurements.\r\n  "
+    },
+    {
+        "name": "buffer solutions 6",
+        "description": "4. Adjust the pH value with NaOH or H<sub>3</sub>PO<sub>4</sub>, respectively.\r\n  "
+    },
+    {
+        "name": "buffer solutions 7",
+        "description": "Store the buffer solution at room temperature.\r\n  "
+    },
+    {
+        "name": "TRIS buffer 0",
+        "description": "Preparation of TRIS buffer \\(pH 8.0):"
+    },
+    {
+        "name": "TRIS buffer 1",
+        "description": "Dissolve TRIS in Milli-Q water to a concentration of 50 mM.\r\n  2."
+    },
+    {
+        "name": "buffer solutions 8",
+        "description": "Add the respective amount of NaCl for a 100 mM concentration in the buffer. \r\n  "
+    },
+    {
+        "name": "buffer solutions 9",
+        "description": "3. Adjust the pH value with HCl.\r\n  4."
+    },
+    {
+        "name": "buffer solutions 10",
+        "description": "Store the buffer solution at room temperature.\r\n  "
+    },
+    {
+        "name": "A\u03b240 peptide 0",
+        "description": "1. Dissolve the lyophilized A\u03b2<sub>40</sub> peptide in 25 mM phosphate buffer \\(pH 8.8) containing 150 mM\r\n  NaCl to a concentration of 1 mg ml<sup>\u22121</sup>."
+    },
+    {
+        "name": "25 mM Na2HPO4 solution 5",
+        "description": "2. Incubate the solution at 37 \u00b0C while shaking at 450 rpm for at least 12 h.\r\n  3."
+    },
+    {
+        "name": "fibril stock solution 0",
+        "description": "Store the fibril stock solution at 4 \u00b0C.\r\n  "
+    },
+    {
+        "name": "fibril stock solution 1",
+        "description": "Preparation of A\u03b2<sub>42</sub> fibrils:"
+    },
+    {
+        "name": "A\u03b242 peptide 0",
+        "description": "Dissolve the lyophilized A\u03b2<sub>42</sub> peptide in 25 mM phosphate buffer \\(pH 9.2) containing 150 mM\r\n  NaCl to a concentration of 0.25 mg ml<sup>\u22121</sup>."
+    },
+    {
+        "name": "fibril stock solution 2",
+        "description": "Store the fibril stock solution at 4 \u00b0C.\r\n  "
+    },
+    {
+        "name": "A\\u03b240 peptide 0",
+        "description": "Dissolve the lyophilized peptide in 50 mM TRIS buffer \\(pH 8.0) containing 100 mM NaCl to a concentration of 0.1 mg ml<sup>\u22121</sup>.\r\n  "
+    },
+    {
+        "name": "25 mM Na2HPO4 solution 6",
+        "description": "2. Incubate the solution at 37 \u00b0C while shaking at 450 rpm for 4 days. \r\n  "
+    },
+    {
+        "name": "fibril stock solution 3",
+        "description": "Store the fibril stock solution at 4 \u00b0C.\r\n  "
+    },
+    {
+        "name": "fibril stock solution 4",
+        "description": "The fibril stock solution was dialyzed against the desired buffer solution using a dialysis tube with molecular weight cut-off \\(MWCO) of 1000."
+    },
+    {
+        "name": "fibril solution 0",
+        "description": "Pipette 1 ml of the fibril solution into the dialysis tube "
+    },
+    {
+        "name": "dialysis tube 0",
+        "description": "And seal it with a clamp.\r\n  "
+    },
+    {
+        "name": "desired buffer 0",
+        "description": "2. Fill 400 ml of the desired buffer into a beaker.\r\n  "
+    },
+    {
+        "name": "fibril solution 1",
+        "description": "On stirring, dialyze the fibril solution against the desired buffer for 2 h.\r\n  4."
+    },
+    {
+        "name": "desired buffer 1",
+        "description": "Exchange the desired buffer solution in the beaker with a fresh one "
+    },
+    {
+        "name": "fibril solution 2",
+        "description": "And dialyze again the fibril solution for 2 h.\r\n  5."
+    },
+    {
+        "name": "fibril solution 3",
+        "description": "Pipette the fibril solution into a microcentrifuge tube "
+    },
+    {
+        "name": "fibril stock solution 5",
+        "description": "And store it a 4 \u00b0C.\r\n  "
+    },
+    {
+        "name": "fibril solution 4",
+        "description": "**Sample Preparation**"
+    },
+    {
+        "name": "ThT stock solution 0",
+        "description": "Preparation of a 1 mM ThT stock solution:"
+    },
+    {
+        "name": "1 mM ThT solution 0",
+        "description": "Weigh the corresponding amount of ThT powder for a 1 mM ThT solution. \r\n  "
+    },
+    {
+        "name": "1 mM ThT solution 1",
+        "description": "2. Mix the ThT powder with water in a black microcentrifuge tube.\r\n  "
+    },
+    {
+        "name": "fibril stock solution 6",
+        "description": "3. Store the stock solution at 4 \u00b0C.\r\n  "
+    },
+    {
+        "name": "2 % polystyrene solution 0",
+        "description": "Preparation of a 2 % polystyrene solution as hydrophobic layer:"
+    },
+    {
+        "name": "cover slips 0",
+        "description": "A closed polystyrene layer is spin-coated on the cover slips to obtain a defined hydrophobic layer for an optimal adsorption of the blocking agent Pluronic F-127."
+    },
+    {
+        "name": "corresponding amount 0",
+        "description": "1. Weigh the corresponding amount of polystyrene for a 2 % solution.\r\n  "
+    },
+    {
+        "name": "polystyrene resin 0",
+        "description": "2. Dissolve the polystyrene resin with toluene under an exhaustive hood."
+    },
+    {
+        "name": "storage vial 0",
+        "description": "Take a storage vial with a toluene resistant cap.\r\n  "
+    },
+    {
+        "name": "storage vial 1",
+        "description": "3. Seal the cap with PARAFILM M for long-time storage at room temperature.\r\n  "
+    },
+    {
+        "name": "1 % Pluronic F-127 solution 0",
+        "description": "Preparation of a 1 % Pluronic F-127 solution as anti-adsorbent:"
+    },
+    {
+        "name": "1 % Pluronic F-127 solution 1",
+        "description": "The Pluronic F-127 is always prepared freshly or at least once per week."
+    },
+    {
+        "name": "1 % Pluronic F-127 solution 2",
+        "description": "Mix Pluronic F-127 powder with Milli-Q water in a glass beaker to attain a 1 % Pluronic F-127 solution.\r\n  "
+    },
+    {
+        "name": "1 % Pluronic F-127 solution 3",
+        "description": "3. Leave the beaker in an ultrasonic bath for 30 min for proper dissolving.\r\n  "
+    },
+    {
+        "name": "2 % polystyrene solution 1",
+        "description": "4. Store the solution at room temperature.\r\n  "
+    },
+    {
+        "name": "1 % Pluronic F-127 solution 4",
+        "description": "**b) Preparation of measurement sample**"
+    },
+    {
+        "name": "cover slips 1",
+        "description": "One of the cover slips is prepared with the chrome structure for trapping."
+    },
+    {
+        "name": "cover slips 2",
+        "description": "Thoroughly rinse the cover slips with acetone, isopropyle and Milli-Q water.\r\n  "
+    },
+    {
+        "name": "cover slips 3",
+        "description": "2. Dry the clean cover slips with a nitrogen gun.\r\n  "
+    },
+    {
+        "name": "2 % polystyrene solution 2",
+        "description": "Spin coat 30 \u03bcl of the 2 % polystyrene solution on the cover slips at 8000 rpm using dynamic dispense spin coating technique."
+    },
+    {
+        "name": "cover slips 4",
+        "description": "The cover slip has to face the polystyrene layer with the chrome structure.\r\n  "
+    },
+    {
+        "name": "cover slips 5",
+        "description": "Immerse the cover slips in the 1 % Pluronic F-127 solution for 10 min.\r\n  5."
+    },
+    {
+        "name": "cover slips 6",
+        "description": "Briefly dip the cover slips in Milli-Q water "
+    },
+    {
+        "name": "cover slips 3 1",
+        "description": "And dry them with nitrogen."
+    },
+    {
+        "name": "cover slips 8",
+        "description": "Put them aside for the next\r\n  few steps."
+    },
+    {
+        "name": "fibril working solution 0",
+        "description": "6. Prepare the fibril working solution by diluting 5 \u03bcl of the fibril stock solution with 100 \u03bcl Milli-Q water containing 0.1 % Pluronic F-127."
+    },
+    {
+        "name": "Milli-Q water 0",
+        "description": "\\(The amount of water is replaced with a corresponding amount of phosphate buffer or NaCl for pH and salt dependent experiments."
+    },
+    {
+        "name": "fibril working solution 1",
+        "description": "0.1 mg of the peptide monomers are added for growth experiments."
+    },
+    {
+        "name": "fibril working solution 2",
+        "description": "The working solution commonly is prepared freshly right before a trapping experiment.)\r\n  "
+    },
+    {
+        "name": "1 mM ThT stock solution 0",
+        "description": "Add 2 \u03bcl of the 1 mM ThT stock solution to the working solution resulting in a ThT concentration of about 20 \u03bcM.\r\n  8."
+    },
+    {
+        "name": "fibril working solution 3",
+        "description": "Store the prepared working solution in darkness \\(e.g."
+    },
+    {
+        "name": "cover slips 9",
+        "description": "Cover the edges of the cover slip \\(from step 5) not containing the chrome structure with a thin PDMS layer for sealing using the cannula \\(cf."
+    },
+    {
+        "name": "cover slips 10",
+        "description": "The polystyrene covered side of the cover slip is provided with PDMS here.\r\n  "
+    },
+    {
+        "name": "fibril working solution 4",
+        "description": "Pipette 0.35 \u03bcl of the final working solution in the middle of the cover slip containing the PDMS for sealing."
+    },
+    {
+        "name": "cover slips 11",
+        "description": "Place the other cover slip containing the chrome structure on top with the chrome structure facing towards the solution.\r\n  "
+    },
+    {
+        "name": "sample 1",
+        "description": "Fix the sample on the microscopy sample holder with the cover slip containing the chrome structure on the top side and start the trapping experiment.\r\n  "
+    },
+    {
+        "name": "sample 1 1",
+        "description": "4: Procedure for setting up the measurement sample."
+    },
+    {
+        "name": "cover slips 12",
+        "description": "The cover slip not containing the chrome structure is provided with PDMS at the edges."
+    },
+    {
+        "name": "sample solution 0",
+        "description": "\u03bcl of the sample solution is pipetted in the middle of the cover slip."
+    },
+    {
+        "name": "sample 4",
+        "description": "Finally, the sample is sealed with the cover slip containing the chrome structure resulting in the completed measurement sample.</font> </figcaption>"
+    }
+]

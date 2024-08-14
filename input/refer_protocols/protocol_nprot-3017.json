@@ -1,0 +1,14 @@
+[
+    {
+        "index": 61,
+        "string": "Protein separation by 2D-DIGE, handling of the target gel, and in-gel protein digestion are performed as previously described 29, except the following:",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the methods of protein separation by 2D-DIGE, handling of the target gel, and in-gel protein digestion."
+    },
+    {
+        "index": 78,
+        "string": "All the procedures are performed as previously described<sup>20,31</sup>.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the procedures mentioned in previous sources (references 20 and 31)."
+    }
+]

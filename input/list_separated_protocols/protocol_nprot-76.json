@@ -1,0 +1,106 @@
+[
+    {
+        "title": "**A. Quick fractionation of membrane/cytoplasmic and nuclear proteins**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Lyse cells with 0.5% Triton X-100 lysis buffer."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate on ice for 15 min."
+            },
+            {
+                "title": "3.",
+                "body": "Separate insoluble nuclei by centrifugation at 13 krpm for 15 min at 4˚C with a tabletop centrifuge \\(Eppendorf)."
+            },
+            {
+                "title": "4.",
+                "body": "Transfer the supernatant \\(membrane/ cytoplasmic fraction) into a new Eppendorf tube. Take small aliquot for DNA contamination detection."
+            },
+            {
+                "title": "5.",
+                "body": "Rinse the nuclear pellet with the lysis buffer once, then re-suspend in the lysis buffer containing 0.5% SDS and shear released genomic DNA by sonication for 5 seconds with a Brandon Sonifier 450  at output"
+            },
+            {
+                "title": "2.",
+                "body": "Pre-clear by centrifugation at 13 krpm for 15 min at 4˚C with a tabletop centrifuge. Transfer supernatant to a new tube."
+            },
+            {
+                "title": "6.",
+                "body": "Add an equal amount of 2x SDS-PAGE sample buffer to the  tubes containing the nuclear and membrane/cytoplasmic fractions and boil both tubes for 10 min."
+            },
+            {
+                "title": "7.",
+                "body": "Successful fractionation can be verified by lack of detectable DNA in the membrane/cytoplasmic-fraction using by agarose gel electrophoresis and of beta-tubulin in the nuclear fraction as detected by Western blotting."
+            }
+        ]
+    },
+    {
+        "title": "**B. Western blot analysis using the Odyssey Infrared Imaging System**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "By using the pre-stained blue protein size markers \\(Precision Plus Protein Standards; Bio-Rad) on the SDS-PAGE, the blue marker bands can be visualized later by the Odyssey Infrared Imaging System as orange in the 700 nm window."
+            },
+            {
+                "title": "2.",
+                "body": "Using the SE 260 Mini-Vertical Unit, the gel  is run at 15 mA while the dyefront is in the stacking gel \\(about 90 min). When the dyefront reaches the separation gel increase to 30mA per gel \\(about 90 min)."
+            },
+            {
+                "title": "3.",
+                "body": "Prepare Immobilon-FL membrane by wetting in MeOH for 15 sec, then rinse with ddH<sub>2</sub>0, and pre-soak in the transfer buffer for more than 30 min."
+            },
+            {
+                "title": "4.",
+                "body": "Transfer onto the pre-soaked Immobilon-FL  membrane. Use pre-chilled transfer buffer and use a cooling apparatus or keep in the refrigerator with stirring. When using the TE22 Mini Tank Transfer Unit, the guidelines for transfer are:  100 V for 70 min for  50-80 kDa proteins,  90 V for 80 min  for 20-50 kDa proteins, but the transfer condition might need to be customized depending on the protein that is to be detected."
+            },
+            {
+                "title": "5.",
+                "body": "Rinse the membrane with PBST."
+            },
+            {
+                "title": "6.",
+                "body": "Block the membrane with 5% fat-free dried milk in PBST for 30 min at room temperature with gentle agitation. Rince out dried milk with PBST before the next step."
+            },
+            {
+                "title": "7.",
+                "body": "Incubate the membrane with primary antibody diluted in the blotting buffer  \\(1:500-2,000 for most antibodies) for one hour at room temperature with gentle agitation on a rocking plate. These primary antibody solutions can be stored at 4˚C and used several times."
+            },
+            {
+                "title": "8.",
+                "body": "Wash the membrane four times with PBST for 15 min each."
+            },
+            {
+                "title": "9.",
+                "body": "Incubated the membrane with secondary antibodies diluted in 5% fat-free dried milk in PBST \\(see Materials, Reagents for dilutions) for 45 to 60 min at room temperature with gentle agitation on a rocking plate. From this step, keep the membrane  away from light."
+            },
+            {
+                "title": "10.",
+                "body": "Wash the membrane four times with PBST for 15 min each."
+            },
+            {
+                "title": "11.",
+                "body": [
+                    "Finally, rinse the membrane with PBS before scanning using the Odyssey system. \r\n  \r\n\n\nOdyssey system settings:",
+                    {
+                        "title": "1)",
+                        "body": "preset: membrane"
+                    },
+                    {
+                        "title": "2)",
+                        "body": "resolution:169 mm"
+                    },
+                    {
+                        "title": "3)",
+                        "body": "quality: medium"
+                    },
+                    {
+                        "title": "4)",
+                        "body": "focus offset: 0.0. Alexa Fluor 680 is detected as orange in the 700 nm window and IRDye 800 is detected as green in the 800nm window."
+                    }
+                ]
+            }
+        ]
+    }
+]

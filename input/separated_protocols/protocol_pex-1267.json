@@ -1,0 +1,23 @@
+[
+    "<p>1.",
+    "Immature mammalian cerebellar interneurons should be cultured with a sufficient nutrient medium and maintained at 23\u2103. </p><p>2.",
+    "<strong>",
+    "Experimental Design:</strong>",
+    "The interneurons will be split into four groups: those exposed to 1) UV radiation and microgravity on the ISS, 2) UV radiation and no microgravity on Earth, 3) no UV radiation and only microgravity on the ISS, and 4) neither UV radiation nor microgravity on Earth (control).",
+    "Each group will consist of four samples.",
+    "To compensate for UV irradiation on the ISS, I plan to measure the magnitude of this (in J/m\u00b2) and replicate it on all Earth samples.",
+    "Sample Ct\u2019s (threshold number of cycles), average (avg) Ct\u2019s for each condition, \u0394Ct (avg Ct\u2019s of each condition compared to control condition), \u0394\u0394Ct (difference between each condition\u2019s \u0394Ct and control \u0394Ct), and 2-\u0394\u0394Ct (fold relationship) values, as well as null hypothesis t-tests (p-value threshold of 0.05), will be calculated and conducted to assess statistical significance of results.",
+    "Higher Ct\u2019s correspond to lower initial DNA concentrations.</p><p>3.",
+    "An International Space Station (ISS) laboratory is required.",
+    "Two ultraviolet (UV) light bulbs (40W) will be placed in the ISS, and two on the Earth.",
+    "</p><p>4.",
+    "After exposure to their respective conditions (see <strong>Experimental Design #2</strong>) for ~72 hours, the interneurons will be centrifuged, disrupted (with Buffer RLT Plus), homogenized (via Bead Mill), and lysed and purified (via the DNeasy Plus Mini Kit; handbook by Qiagen will be closely followed to maintain adherence to recommended protocols).",
+    "</p><p>5.",
+    "NanoDrop 2000 will assess the quality and quantity of the extracted DNA; if needed, the DNA samples will be exposed to RNase and protease for further purification.",
+    "<",
+    "/p><p>6.",
+    "The <em>MAP2 </em>(microtubule associated protein 2) gene will be amplified with PCR (via Taq polymerase); <em>MAP2 </em>is important for microtubule assembly in neurogenesis and its PCR-primer-binding sequences (forward primer: CCACCTGAGATTAAGGATCA; reverse primer: GGCTTACTTTGCTTCTCTGA) contain many C-T sequences that are especially prone to damage from UV radiation",
+    "[3,4,5].",
+    "</p><p>7.",
+    "The iTaq\u2122 Universal SYBR\u00ae Green One-Step Kit will be used for quantification of DNA products.</p><p><br></p><p><br></p>"
+]

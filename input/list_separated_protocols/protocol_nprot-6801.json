@@ -1,0 +1,95 @@
+[
+    "\nREAGENT SETUP\r\n\n\n•  hESC medium\r\n\n\n   To prepare 500 ml of hESC medium, 400 ml of DMEM/F12, 100 ml of KOSR, 15 ml of FBS, 5 ml of GlutaMAX, 5 ml of MEM-NEAA, and 3.5µl of 2-ME were mixed together and sterile-filtered with a 22µm filter bottle. FGF2/bFGF and/or RI were added freshly just before usage. Medium can be stored at 4 °C for up to 2 weeks after preparation.\r\n\n\n\r\n\n\n•  Neural Induction \\(NI) medium\r\n\n\n   To prepare 500 ml of NI medium, 500 ml of DMEM/F12, 5 ml of N2 supplement, 5 ml of GlutaMAX, 5 ml of MEM-NEAA, and 500 µl of Heparin solution were mixed and sterile-filtered using a 22 µm filter bottle. Medium can be stored at 4 °C for up to 2 weeks after preparation.\r\n\n\n\r\n\n\n•  Differentiation Medium\r\n\n\n   To prepare 500 ml of differentiation medium, 250 ml of DMEM/F12, 250 ml of Neurobasal, 2.5 ml of N2 supplement, 5 ml of B27 \\(with or without vitamin A supplement), 125 µl of Insulin, 175 µl of a 1:100 solution of 2-ME \\(in DMEM/F12), 5 ml of GlutaMAX, 2.5 ml of MEM-NEAA, and 5 ml of P/S solution were mixed and sterile-filtered using a 22 µm filter bottle. Medium can be stored at 4 °C for up to 2 weeks after preparation.\r\n\n\n\r\n\n\n•  FGF2/bFGF stock solution\r\n\n\n   To prepare FGF2/bFGF stock solution \\(10 µg/ml), 50 µg of FGF2/bFGF was reconstituted in 5 ml PBS +0.1% BSA, and aliquoted into 50 or 100 µl aliquots. Aliquots can be stored at -20 °C for up to 1 year.\r\n\n\n\r\n\n\n•  Heparin stock solution:\r\n\n\n   Heparin stock solution \\(1 mg/ml) were prepared in PBS, and stored at -20oC for up to 1 year.\r\n\n\n\r\n\n\n•  Rock Inhibitor \\(RI) stock solution\r\n\n\n   To prepare RI stock solution, 5 mg of RI was reconstituted in 2.96 ml of H2O, and aliquoted into 0.5-1 ml aliquots. Aliquots can be stored at -20 °C.\r\n\n\n\r\n\n\n•  Gelatin solution for coating\r\n\n\n   Gelatin solution was prepared as 0.1% wt/vol in H2O. For 500 ml solution, 0.5 g of Gelatin were reconstituted in H2O at 50 °C, and sterile-filtered with a 22µm filter bottle. Gelatin solution can be stored at 4 °C for up to 1 year.\r\n\n\n\r\n\n\n•  Collagenase IV solution\r\n\n\n   Collagenase IV solution was prepared as 1 mg/ml in DMEM/F-12 medium, and sterile-filtered with a 22µm filter. Aliquots can be stored at -20 °C for up to 6 months.\r\n\n\n\r\n\n\n•  Dispase solution\r\n\n\n   Dispase solution was prepared as 0.5 mg/ml in DMEM/F-12 medium, and sterile-filtered with a 22µm filter. Aliquots can be stored at -20 °C for up to 6 months.\r\n\n\n\r\n\n\nPROCEDURE\r\n\n\nA) Cell maintenance\r\n\n\n•    FF hESCs \r\n\n\nFF hESCs were cultured in a feeder-free manner on Matrigel-coated plate with mTeSR medium in a 5% CO2 incubator at 37 °C. For coating, low-growth-factor Matrigel \\(0.5 mg per 6-well plate) was dissolved in ice-cold DMEM/F12. FF hESCs were routinely splitted using 0.5 mM EDTA in PBS. \r\n\n\n\r\n\n\n•    FD hESCs\r\n\n\nFD hESCs were maintained with hESC medium containing 20 ng/ml FGF2/bFGF in a 5% CO2 incubator at 37 °C on the gelatin- and MEF \\(1.87×105 cells/well)-coated 6-well cell culture plates. FD hESCs were routinely passaged using collagenase IV solution \\(0.1% wt/vol in H2O).\r\n\n\n\r\n\n\nB) Generation of Cerebral organoids\r\n\n\nDay 0, Embryoid body \\(EB) formation",
+    {
+        "title": "1.",
+        "body": "Single cell suspension was prepared as described previously using hESCs cultured in either feeder-independent or feeder-dependent manner \\(Lancaster et al., 2013)."
+    },
+    {
+        "title": "2.",
+        "body": "Cell density was counted using automated cell counter. Nine thousand live cells/well in 150 µl hESC medium containing RI \\(1:100) and low FGF2/bFGF \\(1:2500, 4 ng/ml) were seeded in a 96-well low-attachment U-bottom cell culture plate. \r\n  \r\n\n\nDay 3, Exchanging medium"
+    },
+    {
+        "title": "3.",
+        "body": "The medium was exchanged with fresh hESC medium without RI and FGF2/bFGF.\r\n  \r\n\n\nDay 5 or 6, Neural induction \\(NI)"
+    },
+    {
+        "title": "4.",
+        "body": "hESC medium was replaced by NI medium to induce neural lineage differentiation when the sizes of EBs are more than 500 µm.\r\n  \r\n\n\nDay 5 or 6 to Day 11 or 12, Neuroectoderm expansion"
+    },
+    {
+        "title": "5.",
+        "body": "NI medium was exchanged every second days with fresh NI medium for 6 days.\r\n  \r\n\n\n             \\! Attention: EBs with expanded radialized neuroepithelial structure were selected for the further procedure.\r\n\n\n\r\n\n\nDay 11 or 12, Nucleofection of plasmid cocktails to introduce gene mutations/amplifications"
+    },
+    {
+        "title": "6.",
+        "body": "Nucleofector solution is prepared according to manufacturer’s protocol by mixing 82 µl of solution 1 and 18 µl of supplement 1 for one reaction. Maximum 5 µg of plasmid cocktail, including 500 ng of transposase expression vector pCAG-SB100X, 1 µg of transposon vector for pCAG-eGFP, and 1 µg of each transposon vectors to express oncogene and/or CRISPR-Cas9 vectors were added into nucleofector solution."
+    },
+    {
+        "title": "7.",
+        "body": [
+            "About 15 EBs were collected, washed with PBS, resuspended with nucleofection solution with plasmid cocktails, and transferred into nucleofection cuvettes. \r\n  \r\n\n\n\\! Attention:",
+            {
+                "title": "a)",
+                "body": "Using widened pipette tips to transfer EBs."
+            },
+            {
+                "title": "b)",
+                "body": "Gentle operation is required for entire procedure to avoid the damage of EBs."
+            },
+            {
+                "title": "c)",
+                "body": "More than 15 EBs performed with nucleofection using NucleofectorTM 2b \\(Lonza) will significantly reduce the nucleofection efficiency."
+            }
+        ]
+    },
+    {
+        "title": "8.",
+        "body": "EBs in the nucleofection cuvettes were nucleofected under program A-023 using NucleofectorTM 2b."
+    },
+    {
+        "title": "9.",
+        "body": "EBs in the nucleofection cuvettes were gently added 1 ml of NI medium, and poured out into 6-cm dishes containing NI medium, and incubated in a 5% CO2 incubator at 37 °C for overnight.\r\n  \r\n\n\nDay 12 or 13, EB embedding"
+    },
+    {
+        "title": "10.",
+        "body": [
+            "EBs were embedded into matrigel based on previous described procedure. Briefly, EBs were transferred onto parafilm in",
+            {
+                "title": "6-",
+                "body": "or 10-cm petri dish. The excess medium was carefully removed."
+            }
+        ]
+    },
+    {
+        "title": "11.",
+        "body": "EBs were embedded into a droplet of matrigel, and adjusted into the center of the droplet before the matrigel droplet solidifies. Embedded EBs then were incubated into 37 °C incubator for 20 min to solidify the matrigel."
+    },
+    {
+        "title": "12.",
+        "body": "Differentiation medium \\(-A) was added onto EBs to wash embedded EBs off the parafilm. The parafilm was discarded from the petri dish."
+    },
+    {
+        "title": "13.",
+        "body": "Embedded EBs were cultured in a 5% CO2 incubator at 37 °C without shaking.\r\n  \r\n\n\nDay 16 or 17, Differentiation of cerebral organoids"
+    },
+    {
+        "title": "14.",
+        "body": "Differentiation medium \\(-A) were replaced by differentiation medium \\(+A)."
+    },
+    {
+        "title": "15.",
+        "body": "The dish was transferred onto an orbital shaker in a 5% CO2 incubator at 37 °C.\r\n  \r\n\n\nDay 16 or 17 to Day 40, Initiation of neoplastic cerebral organoids"
+    },
+    {
+        "title": "16.",
+        "body": "Medium was changed twice a week with differentiation medium \\(+A).\r\n  \r\n\n\nDay 40 and later, Neoplastic cerebral organoids selection for further analysis"
+    },
+    {
+        "title": "17.",
+        "body": "Neoplastic cerebral organoids with overgrowth of GFP-positive mutated cells will be collected for further analysis."
+    },
+    {
+        "title": "18.",
+        "body": "Differentiation medium \\(+A) was exchanged twice per week for neoplastic cerebral organoid culture to the desired age of collection for subsequent analyses such as immunofluorescence staining, RNA-seq, renal implantation, drug testing, and viral infection."
+    }
+]

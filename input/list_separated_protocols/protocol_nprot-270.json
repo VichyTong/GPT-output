@@ -1,0 +1,42 @@
+[
+    {
+        "title": "1.",
+        "body": "Collect the RBCs into heparinized tubes."
+    },
+    {
+        "title": "2.",
+        "body": "Wash the RBCs two times by gentle resuspension with 10 volumes of pyrogen free saline \\(0.9% NaCl), and centrifuge at 1000 x g for 10 min at room temperature."
+    },
+    {
+        "title": "3.",
+        "body": "Gently resuspend the RBC pellet with pyrogen-free saline and dilute the RBC to 0.8% \\(v/v)."
+    },
+    {
+        "title": "4.",
+        "body": "Culture the bacteria under test according to protocol #4, and adjust the population to 10<sup>5</sup>- 10<sup>6</sup> cfu/ml."
+    },
+    {
+        "title": "5.",
+        "body": "Set up the reaction mixture using the bacteria and the washed RBC.  The final concentration of RBC in the reaction is 0.4% \\(v/v)."
+    },
+    {
+        "title": "6.",
+        "body": "A mixture of the bacteria and pyrogen-free saline is used as a negative control."
+    },
+    {
+        "title": "7.",
+        "body": "Incubate the reaction mixture at 37 °C with gentle rotation at 90 rpm."
+    },
+    {
+        "title": "8.",
+        "body": "Quantify the bacterial population at certain time point of incubation.  To this end, remove 20 μl from the reaction mixture and carry out 10 times serial dilutions with pyrogen-free saline until 10<sup>-5</sup>.  Then apply 100 μl of the 10<sup>-5</sup>, 10<sup>-4</sup>, and 10<sup>-3</sup>dilutions \\(in triplicates) to nutrient agar plates and incubate at 37 °C overnight."
+    },
+    {
+        "title": "9.",
+        "body": "To investigate the necessity of microbial protease in triggering the ROS production, if any, add protease inhibitor Mix G \\(Serva Chemical Co., Westbury, NY, which have been tested not to substantially affect the bacterial growth on their own) at 1% \\(v/v) in the reaction mixture."
+    },
+    {
+        "title": "10.",
+        "body": "To confirm that the ROS produced is superoxide anion, add superoxide dismutase from bovine erythrocyte \\(Sigma, St Louis, MO, USA), at 10 Units/ml in the reaction mixture."
+    }
+]

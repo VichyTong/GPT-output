@@ -1,0 +1,51 @@
+[
+    "\nThe procedure needs a sequence of binary \\(i.e. presence-absence) grids to compute disturbance and recovery. The algorithm can be applied both on empirical, e.g. remotely sensed data, as on simulated data. Step _1.1-1.3_ explain steps to take in the data acquisition and pre-processing in case empirical data is used. When starting from a sequence of grids as the result of simulation the procedure can start from step _1.4_.\r\n\n\n\r\n\n\n_",
+    {
+        "title": "**1) Data and pre-processing:**",
+        "body": "_\r\n\n\n_1.1) Collect sequential spatial data:_\r\n\n\nFirst, a sequence of spatial data needs to be acquired. For instance, a time series of false color aerial images \\(i.e. false color composite \\(FCC), usually uses near infrared \\(NIR), red \\(R) and green \\(G) as color bands) work well for monitoring the development of vegetation. However, dependent on the ecosystem of interest and the contrast between ecosystem components, colour images collected with off the shelf \\(digital) camera’s \\(having red \\(R), green \\(G), and blue \\(B) color bands) can also be used. If collected analog, images need to be digitized. The sequence of snapshots should be sufficiently long containing sufficient disturbance and recovery events \\(see"
+    },
+    {
+        "title": "**Troubleshooting**",
+        "body": [
+            "for guidelines)\r\n\n\n\r\n\n\n_1.2) Georectify grids:_\r\n\n\nIf the data is not yet a grid, rasterize the data. The snapshots need to be georectified to make sure that each pixel \\(i.e. grid cells) corresponds with the same pixel in the subsequent snapshot.\r\n\n\n\r\n\n\n_1.3) Classify grid cells:_\r\n\n\nThe function requires binary data \\(i.e. absence = 0 and presence =",
+            {
+                "title": "1).",
+                "body": "If the data is continuous, e.g. biomass values, the data can be classified based on a threshold. In case the data sequence consists of images, they need to be converted to a biomass proxy first before the pixels can be classified. Dependent on the image type used converting the information in the images to a proxy for biomass can be computed, among others, based on e.g.:“Normalized Difference Vegetation Index” \\(NDVI) for FCC or follow ref. \\[8] “Green excess Index” \\(2G-RBi).\r\n\n\n\r\n\n\n_For FCC images_\r\n\n\nAs a proxy of the vegetation biomass the Normalized Difference Vegetation Index is calculated as:\r\n\n\n\r\n\n\nNDVI = \\(NIR - R) / \\(NIR + R)\r\n\n\n\r\n\n\nHere NIR, R, and G are the digital numbers \\(DN) of a 3 channels false color image, containing respectively the near infrared, red and green information.\r\n\n\n\r\n\n\n_For RGB images_\r\n\n\nThe Green Excess Index can be used as proxy for biomass in RGB images and is calculated as<sup>8</sup>:\r\n\n\n\r\n\n\n2G-RBi = 2*G - R - B\r\n\n\n\r\n\n\nHere R, G, and B are the digital numbers \\(DN) of the 3 channels \\(red, green and blue respectively) in a color image. \r\n\n\n\r\n\n\nOnce the data is a continuous biomass \\(proxy) value presence/absence is determined on a threshold. Above a biomass threshold biomass the ecosystem component is present, otherwise it is absent.\r\n\n\n\r\n\n\n_1.4) Stack grids:_\r\n\n\nThe grid of each classified snapshot needs to be stacked into one input file \\(Seq). The layers should be stacked in sequential order. The first layer in the stacked grid needs to contain the oldest snapshot. The stacking and the correct order of the stack is essential for the function to work.\r\n\n\n\r\n\n\n_1.5) Mapping environmental stressor:_\r\n\n\nFinally, a separate grid is needed in which information is present on the environmental stressor\\(s) that is/are likely to drive a critical slowing down response of the ecosystem. This grid is required as input for the analysis in step 3 \\(_"
+            }
+        ]
+    },
+    {
+        "title": "**Recovery rates along a stress gradient**",
+        "body": "_). The grid should have the same dimensions as a single snapshot grid.\r\n\n\n\r\n\n\n_"
+    },
+    {
+        "title": "**2) Timing recovery in sequential spatial data:**",
+        "body": "_\r\n\n\nTo compute recovery time after a disturbance the algorithm \\(see Fig. 2 and Fig. 3 implemented as the Matlab function fTimeRecov.m) is applied to the sequential spatial data \\(i.e. the stacked grid). The Matlab function provides four output files. For the final step \\(3) only the stacked grids ‘Tr_all’ and ‘Cens_all’ are required.\r\n\n\n\r\n\n\n_"
+    },
+    {
+        "title": "**3) Recovery rates along a stress gradient:**",
+        "body": [
+            "_\r\n\n\n_3.1) Binning recovery times:_\r\n\n\nAfter the recovery times have been computed at a pixel-by-pixel basis the data can be used to test if recovery rates decline with increasing stress, that is if critical slowing down occurs in the ecosystem along a stress gradient. To test this hypothesis the observed recovery times need to be grouped \\(i.e. binned) in categories of stress levels. Therefore, the gradient is categorized in equally sized bins. As a rule of thumb at least five categories containing observations of recovery time should be defined. Based on the categories, the recovery times and censoring flags \\(i.e. the output variables ‘Tr_all’ and ‘Cens_all’) are binned.\r\n\n\n\r\n\n\n_3.2) Estimating recovery rate for each bin:_\r\n\n\nFor each category the recovery rate is estimated based on the binned recovery times. Recovery rates are estimated using the maximum likelihood estimator for the exponential model. To avoid overestimation of the recovery rates, the censored recovery times should be taken into account when using the maximum likelihood estimator.\r\n\n\n\r\n\n\n_3.3) Relating recovery rates to stress gradient:_\r\n\n\nFinally, the relation between the estimated recovery rates and the stress gradient is investigated, e.g. by plotting the relation \\(Fig.",
+            {
+                "title": "4).",
+                "body": [
+                    "Moreover, the correlation between the stressor \\(i.e. bin centres of the categories) and associated recovery rate is calculated and tested for significance.\r\n\n\n\r\n\n\nNote: An example of the full workflow \\(Example2.m) is provided in the ZIP package that can be found as Supplementary File",
+                    {
+                        "title": "1.",
+                        "body": "In the example it is assumed a data sequence of snapshots is already prepared \\(steps 1.1 to 1.3) and the"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Procedure**",
+        "body": [
+            "is followed from 1.4 onward, including calculating the recovery rates along a stress gradient \\(step",
+            {
+                "title": "3).",
+                "body": "This example, of which the results are shown in Fig. 4, is based on simulated spatial data \\(t0.grid to t39.grid) along a gradient \\(gradient.grid)."
+            }
+        ]
+    }
+]

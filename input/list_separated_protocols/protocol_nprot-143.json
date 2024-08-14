@@ -1,0 +1,28 @@
+[
+    {
+        "title": "1)",
+        "body": "Clone AtAMT1;1 into pDRf1-GW using GATEWAY<sup>TM</sup> technology. Generate all amino acid substitutions by site-directed mutagenesis of the wild type AtAMT1;1 sequence<sup>1</sup>. Also generate AtAMT1;1 variants by site-directed\r\n\n\nmutagenesis."
+    },
+    {
+        "title": "2)",
+        "body": "For the C-terminal truncation mutants, use single strand DNA of pDRf1-AtAMT1;1 as a template to insert a short DNA fragment coding for a stop codon and carrying XhoI restriction site \\(5’tgagtcgac)."
+    },
+    {
+        "title": "3)",
+        "body": "Remove the remaining part of the Cterminus by XhoI digestion."
+    },
+    {
+        "title": "4)",
+        "body": "For all insertion mutants, use single stranded DNA from pDRf1-AtAMT1;1 carrying a 3x cmyc-tag at the very end of the AtAMT1;1 C-terminus as template."
+    },
+    {
+        "title": "5)",
+        "body": [
+            "Insert the C-terminal insertion of 5’atcgatggacgt, encoding IDGR, at positions 443, 444, 445, 446, 448, 455 or 456 into the AMT1;1 protein. For the L3-4 \\(Ins150) and L5-6 \\(Ins 231) insertions, insert a 5’ggttggagctcccgggggcgcc DNA fragment, encoding GGAPGGA, at position 150 or 231 into the AMT1;1 protein.\r\n\n\n\r\n\n\n",
+            {
+                "title": "**Insertions:**",
+                "body": "Ins150: …IAER_GGAPGGA_TQFV…\r\n\n\nIns231: …FDN_GGGAPGGA_GRAI…\r\n\n\nIns443: …ILKK_IDGR_LLRI…\r\n\n\nIns444: …LKKM_IDGR_KLLR…\r\n\n\nIns445: …KKMK_IDGR_LLRIS…\r\n\n\nIns446: …KMKL_IDGR_LRIS…\r\n\n\nIns448: …KLLR_IDGR_SSED…\r\n\n\nIns455: …EDEM_IDGR_AGMD…\r\n\n\nIns456: …DEMA_IDGR_GMD…"
+            }
+        ]
+    }
+]

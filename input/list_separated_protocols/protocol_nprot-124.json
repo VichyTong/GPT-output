@@ -1,0 +1,54 @@
+[
+    {
+        "title": "1.",
+        "body": "300 mg mouse liver each weighed into 15 mL centrifugation tubes and taken up in 1 ml PBS, 2 mL chloroform added"
+    },
+    {
+        "title": "2.",
+        "body": "mouse liver homogenized by polytron"
+    },
+    {
+        "title": "3.",
+        "body": "incubated at RT for 30’ under agitation,"
+    },
+    {
+        "title": "4.",
+        "body": "Centrifuged 5’ at maximum speed"
+    },
+    {
+        "title": "5.",
+        "body": "Chloroform phase transferred into fresh centrifugation tube"
+    },
+    {
+        "title": "6.",
+        "body": "Water phase extracted second time on shaker with 1.5 mL chloroform, 20’"
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuged 5’ at maximum speed"
+    },
+    {
+        "title": "8.",
+        "body": "Chloroform phases combined and solvent removed on SpeedVac"
+    },
+    {
+        "title": "9.",
+        "body": "Residue dissolved in 100 µL/\\(100 mg liver) methanol, centrifuged 5’ at 14.000 rpm and liquid transferred into HPLC glass vial"
+    },
+    {
+        "title": "10.",
+        "body": "Fractionated via HPLC on Nucleosil RP18 material 5 µm \\(10x4.0 mm column); gradient: \r\n  0-7 min: 70% water, 30% methanol\r\n\n\n7-15 min: 40% water, 60% methanol\r\n\n\n15-20 min: 100% methanol;\r\n\n\nfractions 9-12 min collected"
+    },
+    {
+        "title": "11.",
+        "body": "solvent of collected fractions removed by SpeedVac and residue taken up in 50 µl methanol"
+    },
+    {
+        "title": "12.",
+        "body": "fractionated by HPLC, column: MultoHigh RP18 5 µM \\(125x2.0 mm column); gradient:\r\n  0 min: 50% water, 50% methanol\r\n\n\n5 min: 50% water, 50% methanol\r\n\n\n25 min: 10% water, 90% methanol\r\n\n\n25.1 min: 100% methanol"
+    },
+    {
+        "title": "13.",
+        "body": "SecinH3 elutes at ca. 20 min; analyzed by MS"
+    }
+]

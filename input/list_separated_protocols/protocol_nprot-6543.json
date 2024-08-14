@@ -1,0 +1,75 @@
+[
+    "\nTissue section preparation",
+    {
+        "title": "1.",
+        "body": "Anesthetize mice with an overdose of pentobarbital and perfuse intracardially with PBS, followed by paraformaldehyde \\(PFA, 4% wt/vol in PBS)."
+    },
+    {
+        "title": "2.",
+        "body": "Dissected out tissues and postfix them in 4% PFA for 4 h at room temperature or 1 d at 4°C."
+    },
+    {
+        "title": "3.",
+        "body": "Dehydrate tissue samples in 30% sucrose solution."
+    },
+    {
+        "title": "4.",
+        "body": "Prepare thin tissue sections on a Cryostat microtome.\r\n  \r\n\n\nImmunostaining"
+    },
+    {
+        "title": "1.",
+        "body": "Wash and permeablize sections in 0.3% Triton X-100 in PBS \\(PBST) and blocked them in 2% BSA in PBST at room temperature for 1 h."
+    },
+    {
+        "title": "2.",
+        "body": "Incubate sections with primary antibodies for various times according to the efficiency of the antibodies."
+    },
+    {
+        "title": "3.",
+        "body": "Wash samples for three times in PBST. \r\n  \\(if DNA HCR initiator conjugated secondary antibodies are used, incubate samples in HCR amplification buffer \\[5× sodium chloride citrate \\(SCC buffer), 0.1% vol/vol Tween-20, and 10% wt/vol dextran sulfate in ddH2O] for 30min at room temperature)"
+    },
+    {
+        "title": "4.",
+        "body": "Sections are incubated with biotinylated secondary antibodies or DNA HCR initiator conjugated secondary antibodies."
+    },
+    {
+        "title": "5.",
+        "body": "Wash samples for three times in PBST.\r\n  \r\n\n\nisHCR amplification\r\n\n\n\\(All reagents were dissolved in HCR amplification buffer \\[5× sodium chloride citrate \\(SCC buffer), 0.1% vol/vol Tween-20, and 10% wt/vol dextran sulfate in ddH2O].)\r\n\n\n\\(For biotinylated secondary antibodies, perform the following four steps first:"
+    },
+    {
+        "title": "1.",
+        "body": "Incubate samples in 1 µg/mL streptavidin at room temperature for 30 min."
+    },
+    {
+        "title": "2.",
+        "body": "Wash three times in PBST."
+    },
+    {
+        "title": "3.",
+        "body": "Incubate samples with 0.5 µM DNA-biotin HCR initiators at room temperature for 30 min."
+    },
+    {
+        "title": "4.",
+        "body": "Wash three times in PBST.)"
+    },
+    {
+        "title": "1.",
+        "body": "Snap-cooled a pair of DNA-fluorophore HCR amplifiers separately in 5× SSC buffer by heating at 95°C for 90s and cooling to room temperature over 30 min."
+    },
+    {
+        "title": "2.",
+        "body": "Both of these amplifiers were then added to amplification buffer to a final concentration of 12.5 nM\r\n  \\(Optional: graphene oxide \\(GO) can be added for applications that demands background suppression. Add GO to the buffer from step 2 to 20 µg/mL and vortex thoroughly)"
+    },
+    {
+        "title": "3.",
+        "body": "Incubate samples with the buffer from step 2 overnight at room temperature."
+    },
+    {
+        "title": "4.",
+        "body": "Wash three times in PBST."
+    },
+    {
+        "title": "5.",
+        "body": "mount sections on slides and observe."
+    }
+]

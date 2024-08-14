@@ -1,0 +1,98 @@
+[
+    {
+        "title": "1.",
+        "body": "10<sup>7</sup> cells seeded into five 120 mm cell culture dishes and incubated overnight at 37°C, 5% CO<sub>2</sub> in full medium \\(EMEM/10% FCS)"
+    },
+    {
+        "title": "2.",
+        "body": "cells washed twice with PBS and medium exchanged for EMEM w/o FCS"
+    },
+    {
+        "title": "3.",
+        "body": "grown overnight"
+    },
+    {
+        "title": "4.",
+        "body": "inhibitors added to dishes and further incubated for 3 hrs at 37°C, 5% CO<sub>2</sub>: dishes 1 and 2: 0.2% DMSO; dish 3: SecinH3 12.5 µM; dish 4: SecinH3 6.25 µM; dish 5: D5 25 µM"
+    },
+    {
+        "title": "5.",
+        "body": "stimulation with 100 nM insulin 10’ at 37°C"
+    },
+    {
+        "title": "6.",
+        "body": "cells washed twice with ice cold PBS"
+    },
+    {
+        "title": "7.",
+        "body": "cells harvested with rubber policeman in 1.5 mL lysis buffer"
+    },
+    {
+        "title": "8.",
+        "body": "incubated 20’ on ice"
+    },
+    {
+        "title": "9.",
+        "body": "sonicated 7’’, 40%, cycle 50"
+    },
+    {
+        "title": "10.",
+        "body": "centrifuged 10’ at max. speed, 4 °C"
+    },
+    {
+        "title": "11.",
+        "body": "1200 µL supernatant incubated with GST-GGA3 beads \\(50 µg GST-GGA3\\(1-316) per tube)"
+    },
+    {
+        "title": "12.",
+        "body": "incubated 2 hrs at 4 °C under mild agitation"
+    },
+    {
+        "title": "13.",
+        "body": "centrifuged for 1’ at 500 x g and supernatant discarded"
+    },
+    {
+        "title": "14.",
+        "body": "pellets washed 3x with lysis buffer"
+    },
+    {
+        "title": "15.",
+        "body": "50 µL Laemmli loading buffer added to pellet and incubated 5’ @ 95 °C"
+    },
+    {
+        "title": "16.",
+        "body": "proteins separated by 15% SDS-PAGE; loading normalized to protein content in cell lysates"
+    },
+    {
+        "title": "17.",
+        "body": "blotted on nitrocellulose with semi-dry blotting method"
+    },
+    {
+        "title": "18.",
+        "body": "nitrocellulose blocked for 20’ with 5% milk powder in TBS/0.1% Tween-20"
+    },
+    {
+        "title": "19.",
+        "body": "nitrocellulose washed twice with TBST"
+    },
+    {
+        "title": "20.",
+        "body": "Anti-ARF6-antibody \\(1:100 dilution in 5% BSA/TBST) added and incubated overnight at 4 °C"
+    },
+    {
+        "title": "21.",
+        "body": "nitrocellulose washed three times with TBST"
+    },
+    {
+        "title": "22.",
+        "body": "goat-anti-mouse-HRP conjugate \\(1:20,000 dilution in 5% milk powder/TBST) added and incubated for one hr at RT"
+    },
+    {
+        "title": "23.",
+        "body": "nitrocellulose washed with TBST"
+    },
+    {
+        "title": "24.",
+        "body": "nitrocellulose covered with ECL-solution, incubated 3 min at RT; luminescence visualized with VersaDoc 5000 \\(BioRad)"
+    }
+]

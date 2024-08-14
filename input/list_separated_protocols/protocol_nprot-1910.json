@@ -1,0 +1,183 @@
+[
+    "\n_Intestinal manipulation \\(steps 1 – 12)_",
+    {
+        "title": "1.",
+        "body": "Induce and maintain anesthesia using isoflurane in oxygen."
+    },
+    {
+        "title": "2.",
+        "body": "Fix the mouse with its head away from the operator by taping its feet to the operating table."
+    },
+    {
+        "title": "3.",
+        "body": "Adjust direct halogen illumination to appropriate intensity for the operation."
+    },
+    {
+        "title": "4.",
+        "body": "Shave the abdomen using hair clippers and sterilize the skin with Kodan."
+    },
+    {
+        "title": "5.",
+        "body": "Make a 2 cm mid-line skin incision distally from the sternum."
+    },
+    {
+        "title": "6.",
+        "body": "Enter the peritoneal cavity via an incision along the linea alba made using a straight forceps and a sterile small scissor."
+    },
+    {
+        "title": "7.",
+        "body": "Keep the abdomen open with 2 retractors and place sterile moist cotton pads around the incision."
+    },
+    {
+        "title": "8.",
+        "body": "Carefully eventrate the small intestine with two saline-moistened cotton buds onto the sterile cotton pads."
+    },
+    {
+        "title": "9.",
+        "body": "Carefully unfold the small bowel loops on the cotton pads and run it once with moderate compression with two moist cotton buds from the oral to aboral direction."
+    },
+    {
+        "title": "10.",
+        "body": "Carefully replace the intestine back into the abdomen with moist cotton buds."
+    },
+    {
+        "title": "11.",
+        "body": "Complete surgical closure of the peritoneal by two continuous sutures using the needle holder, straight forceps and suture material."
+    },
+    {
+        "title": "12.",
+        "body": "Terminate anesthesia and allow the animal to recover from the surgery under a heating lamp.\r\n  _Separation of muscularis and mucosa/submucosa layers, Peyer’s patches and mesenteric lymph nodes \\(steps 13 – 22)_"
+    },
+    {
+        "title": "13.",
+        "body": "After 24 hours inspect the animal and wound closure for signs of infection or other complications."
+    },
+    {
+        "title": "14.",
+        "body": "Replace the animals under anesthesia using isoflurane in oxygen and kill the animal at this time point once under anesthesia by cervical dislocation and terminate anesthesia"
+    },
+    {
+        "title": "15.",
+        "body": "Reopen the abdomen by using small scissors and straight forceps"
+    },
+    {
+        "title": "16.",
+        "body": "The abdominal aorta should be clamped above the superior mesenteric artery and shortly above the aortic bifurcation and flushed with 5 ml of cold \\(4 °C) sodium chloride \\(0.9 %) to remove non-adherent blood cells from the vasculature."
+    },
+    {
+        "title": "17.",
+        "body": "Remove the complete GI tract by subdiaphragmal transection of the esophagus and the colon at the most distal position accessible with a small scissor \\(sample any organ or tissue of interest for further studies)."
+    },
+    {
+        "title": "18.",
+        "body": "Place GI tract in chilled KHB and inspect for integrity and the absence of hematomas."
+    },
+    {
+        "title": "19.",
+        "body": "Place the GI tract in a Sylgard dish with chilled KHB and remove the mesenteric lymph nodes. Place them in chilled KHB on ice for further experiments."
+    },
+    {
+        "title": "20.",
+        "body": "Separate the colon from the jejunum/ileum. Then divide the jejunum/ileum or colon into 5 cm long segments by small scissors and fix these segments with small pins placed at the segment ends. Then transect attaching mesentery using small scissors and straight forceps to completely unfold the organ."
+    },
+    {
+        "title": "21.",
+        "body": "Slip the segments separately over a glass rod \\(diameter 3 – 5 mm) and separate the muscularis layer from the mucosa/submucosa layer by scribe longitudinally the muscularis layer with the branch of a straight forceps and stripping it by sterile cotton buds from the lower mucosa/submucosa layer. Collect the stripped muscularis segments separately for small bowel and colon in 15 ml falcon tubes filled with chilled KHB and place the tubes on ice. Now while the mucosa layers are still on the glass rod one may excise the Peyer’s patches with small scissors and place them in chilled KHB on ice. Remove the remaining mucosa/submucosa layer segments from the glass rod and collect them separately for small bowel and colon in 15 ml falcon tubes filled with chilled KHB and place the tubes on ice."
+    },
+    {
+        "title": "22.",
+        "body": "If the mucosa/submucosa and muscularis segments, Peyer’s patches and mesenteric lymph nodes should be used for gene expression analysis by PCR or protein analysis by ELISA at this step the collected tissues should be centrifuged at 500 g to remove the KHB supernatant. The pellets should be placed in 1,5 ml cryotubes and snap-frozen in liquid nitrogen and stored at –80 °C.\r\n  _Producing single cell suspension from mesenteric lymph nodes \\(steps 23 – 24)_"
+    },
+    {
+        "title": "23.",
+        "body": "Pass the collected mesenteric lymph nodes through a 100 nm nylon mesh into a 15 ml tube filled with CMF/20 % FCS by disrupting them mechanically on the mesh with a straight forceps"
+    },
+    {
+        "title": "24.",
+        "body": "Wash the collected cells and store them in CMF/20 % FCS on ice until use.\r\n  _Producing single cell suspension of mucosa/submucoa semgents and Peyer’s patches \\(steps 25 – 31)_"
+    },
+    {
+        "title": "25.",
+        "body": "Centrifuge the collected submucosa/mucosa segments and remove the KHB supernatant \\(500 g for 5 minutes at 4 °C). Open the submucosa/mucosa tubes longitudinally with small scissors."
+    },
+    {
+        "title": "26.",
+        "body": "Wash the segments thoroughly before incubation in HBSS containing 2 mM EDTA for 15 minutes in a shaker at 37 °C."
+    },
+    {
+        "title": "27.",
+        "body": "To remove the epithelial layer and the mucus the segments should be shaken thoroughly in HBSS and the incubation process should be repeated for four cycles."
+    },
+    {
+        "title": "28.",
+        "body": "The remaining fragments of the mucosa/submucosa were incubated with 100 U/ml collagenase D and 30 µg/ml DNaseI in HBSS/20 % FCS at 37°C for 45 minutes. After that disrupt the fragments by shaking and collect the supernatants."
+    },
+    {
+        "title": "29.",
+        "body": "Repeat the process three times."
+    },
+    {
+        "title": "30.",
+        "body": "Pass the supernatant through a 100 nm Nylon mesh into a 50 ml tube. Wash and store it in HBSS/20 % on ice until use."
+    },
+    {
+        "title": "31.",
+        "body": "Peyer’s patches should be pooled for each mouse and digested with 100 U/ml collagenase D and 30 µg/ml DNaseI for 30 minutes, washed and stored in HBSS/20 % FCS on ice until use.\r\n  _Producing single cell suspension of muscularis segment \\(steps 32 – 37)_"
+    },
+    {
+        "title": "32.",
+        "body": "Centrifuge the collected muscularis segments and remove the KHB supernatant \\(500 g for 5 minutes at 4 °C)."
+    },
+    {
+        "title": "33.",
+        "body": "Cut the segments into smaller pieces with a scalpel under sterile conditions"
+    },
+    {
+        "title": "34.",
+        "body": "Incubate the muscularis pieces with 100 U/ml collagenase D and 30 µg/ml DNaseI in HBSS/20 % FCS at 37 °C for 45 minutes. After that disrupt the fragments by a pipette."
+    },
+    {
+        "title": "35.",
+        "body": "Pass the suspension through a 100 nm nylon mesh and wash the mesh with HBSS several times to clean the mesh."
+    },
+    {
+        "title": "36.",
+        "body": "Muscularis fragments not passing the mesh should be digested longer as described in steps 34 and 35 until all fragments are dissolved."
+    },
+    {
+        "title": "37.",
+        "body": "Wash the filtrated suspension with HBSS, centrifuge with 500 g for 5 minutes at 4 °C and store the pellet on ice until use.\r\n  _Purification of Dendritic Cells and T cells from the single cell suspensions \\(steps 38 – 43)_"
+    },
+    {
+        "title": "38.",
+        "body": "Incubate single-cell suspensions with 5 µg/107 cells Fc Block for 15 minutes at 4 °C."
+    },
+    {
+        "title": "39.",
+        "body": "Wash the single-cell suspensions three times in PBS \\(each wash cycle 500 g for 5 minutes at 4 °C). Pipette off supernatant completely."
+    },
+    {
+        "title": "40.",
+        "body": "Resuspend the cell pellet in 90 µl of buffer per 107 total cells."
+    },
+    {
+        "title": "41.",
+        "body": "Incubate single-cell suspensions with CD11c MicroBeads, CD3ε MicroBeads, CD4\\(L3T4) MicroBeads or CD8a \\(Ly-2) MicroBeads, respectively, with 10 µl/107 cells for 15 minutes at 4 °C."
+    },
+    {
+        "title": "42.",
+        "body": "Wash the single cell suspensions twice in PBS \\(each wash cycle 500 g for 5 minutes at 4 °C) and pipette off supernatant completely."
+    },
+    {
+        "title": "43.",
+        "body": "Resuspend up to 108 cells in 500 ul buffer and perform the MACS separation according to manufacturer’s recommendation.\r\n  _In vivo cell migration analysis in mice_\r\n\n\nTo investigate the possible migration of cells from the selectively manipulated jejunum to the unmanipulated colon we incubated the eventrated jejunum ex situ after step 8 of intestinal manipulation in a Petri dish containing a PBS solution with 10 µM CFSE for 10 minutes avoiding any contact of the CFSE dye to colon or peritoneal cavity. After that the eventrated jejunum was washed in PBS twice for 5 minutes to remove contaminating CFSE and the intestinal manipulation was performed as described in steps 9 to"
+    },
+    {
+        "title": "12.",
+        "body": "24 hours after this CFSE incubation we produced single cell suspensions of the jejunum and colon as described in steps 13 to"
+    },
+    {
+        "title": "31.",
+        "body": "These single cell suspensions were subject to flow cytometry for CFSE positive cells which were counterstained to detect T cells or dendritic cells."
+    }
+]

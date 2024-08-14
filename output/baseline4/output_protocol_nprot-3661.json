@@ -1,0 +1,1009 @@
+[
+    {
+        "name": "select",
+        "object": "plants presenting tetrad-stage pollen",
+        "origin": "**Isolate single microspores from a single tetrad**\r1) In the field, select plants presenting tetrad-stage pollen, and harvest the top ~30 cm part containing tassels into a flask filled with water.\r_Note 1_: Under these conditions, the immature pollens would keep developing, so that fresh tetrad-stage cells can be provides from upper to lower spikelets continuously at intervals of ~30min.\r2) In a spikelet there are three older and three younger anthers"
+    },
+    {
+        "name": "harvest",
+        "object": "the top ~30 cm part containing tassels",
+        "destination": "a flask filled with water",
+        "origin": "**Isolate single microspores from a single tetrad**\r1) In the field, select plants presenting tetrad-stage pollen, and harvest the top ~30 cm part containing tassels into a flask filled with water.\r_Note 1_: Under these conditions, the immature pollens would keep developing, so that fresh tetrad-stage cells can be provides from upper to lower spikelets continuously at intervals of ~30min.\r2) In a spikelet there are three older and three younger anthers"
+    },
+    {
+        "name": "incubate",
+        "object": "the flask with harvested tassels",
+        "environment": "field",
+        "notice": "immature pollens would keep developing, so that fresh tetrad-stage cells can be provides from upper to lower spikelets continuously at intervals of ~30min.",
+        "origin": "**Isolate single microspores from a single tetrad**\r1) In the field, select plants presenting tetrad-stage pollen, and harvest the top ~30 cm part containing tassels into a flask filled with water.\r_Note 1_: Under these conditions, the immature pollens would keep developing, so that fresh tetrad-stage cells can be provides from upper to lower spikelets continuously at intervals of ~30min.\r2) In a spikelet there are three older and three younger anthers"
+    },
+    {
+        "name": "identify",
+        "object": "a single tetrad",
+        "origin": "**Isolate single microspores from a single tetrad**\r1) In the field, select plants presenting tetrad-stage pollen, and harvest the top ~30 cm part containing tassels into a flask filled with water.\r_Note 1_: Under these conditions, the immature pollens would keep developing, so that fresh tetrad-stage cells can be provides from upper to lower spikelets continuously at intervals of ~30min.\r2) In a spikelet there are three older and three younger anthers"
+    },
+    {
+        "name": "isolate",
+        "object": "single microspores",
+        "source": "a single tetrad",
+        "origin": "**Isolate single microspores from a single tetrad**\r1) In the field, select plants presenting tetrad-stage pollen, and harvest the top ~30 cm part containing tassels into a flask filled with water.\r_Note 1_: Under these conditions, the immature pollens would keep developing, so that fresh tetrad-stage cells can be provides from upper to lower spikelets continuously at intervals of ~30min.\r2) In a spikelet there are three older and three younger anthers"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "cells from three same-stage anthers",
+        "source": "anthers",
+        "destination": "Isolation Buffer on a slide",
+        "origin": "Release cells from the three same-stage anthers into Isolation Buffer on a slide"
+    },
+    {
+        "name": "add",
+        "reagent1": "cells",
+        "reagent2": "Isolation Buffer",
+        "origin": "From step 2) to step 5), cells should be kept in the Isolation Buffer.\r3) Isolate a single tetrad into a new drop of Isolation Buffer using a thin glass pipette.\r_Note 3_: Use a thin glass pipette system and Programmable Microinjector PM 2000 \\(MDI, South Plainfield, USA) to isolate single tetrads \\(step 3)) and single microspores \\(step 5)), and to destroy the cell wall \\(step 4)), under 4×microscopy.\r4) Repeated aspiration in and out was used to destroy the cell walls and disrupt the tetrads"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "single tetrad",
+        "source": "Isolation Buffer",
+        "destination": "new drop of Isolation Buffer",
+        "device": "thin glass pipette system and Programmable Microinjector PM 2000 (MDI, South Plainfield, USA)",
+        "notice": "under 4×microscopy",
+        "origin": "From step 2) to step 5), cells should be kept in the Isolation Buffer.\r3) Isolate a single tetrad into a new drop of Isolation Buffer using a thin glass pipette.\r_Note 3_: Use a thin glass pipette system and Programmable Microinjector PM 2000 \\(MDI, South Plainfield, USA) to isolate single tetrads \\(step 3)) and single microspores \\(step 5)), and to destroy the cell wall \\(step 4)), under 4×microscopy.\r4) Repeated aspiration in and out was used to destroy the cell walls and disrupt the tetrads"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "single tetrad",
+        "reagent2": "Isolation Buffer",
+        "temperature": "room temperature",
+        "time": "not specified",
+        "environment": "not specified",
+        "device": "not specified",
+        "notice": "not specified",
+        "origin": "From step 2) to step 5), cells should be kept in the Isolation Buffer.\r3) Isolate a single tetrad into a new drop of Isolation Buffer using a thin glass pipette.\r_Note 3_: Use a thin glass pipette system and Programmable Microinjector PM 2000 \\(MDI, South Plainfield, USA) to isolate single tetrads \\(step 3)) and single microspores \\(step 5)), and to destroy the cell wall \\(step 4)), under 4×microscopy.\r4) Repeated aspiration in and out was used to destroy the cell walls and disrupt the tetrads"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "cells with destroyed cell walls and disrupted tetrads",
+        "source": "Isolation Buffer",
+        "destination": "not specified",
+        "component": "not specified",
+        "volume": "not specified",
+        "notice": "Repeated aspiration in and out was used to destroy the cell walls and disrupt the tetrads",
+        "origin": "From step 2) to step 5), cells should be kept in the Isolation Buffer.\r3) Isolate a single tetrad into a new drop of Isolation Buffer using a thin glass pipette.\r_Note 3_: Use a thin glass pipette system and Programmable Microinjector PM 2000 \\(MDI, South Plainfield, USA) to isolate single tetrads \\(step 3)) and single microspores \\(step 5)), and to destroy the cell wall \\(step 4)), under 4×microscopy.\r4) Repeated aspiration in and out was used to destroy the cell walls and disrupt the tetrads"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "cells",
+        "source": "Isolation Buffer",
+        "destination": "PCR wells filled with 4μl PBS(QIAGEN, Hilden, Germany)",
+        "volume": "less than 0.5μl",
+        "origin": "Then, four microspores can be separated without cell wall.\r5) One by one, place cells in less than 0.5μl Isolation Buffer into PCR wells filled with 4μl PBS \\(QIAGEN, Hilden, Germany)"
+    },
+    {
+        "name": "keep",
+        "reagent1": "PCR wells",
+        "condition": "on ice",
+        "origin": "The PCR wells should be kept on ice.\r_Note 4_: When aspirating a microspore in the glass pipette, make sure it is still visible under the microscope"
+    },
+    {
+        "name": "check",
+        "reagent1": "microspore",
+        "method": "under the microscope",
+        "notice": "make sure it is still visible",
+        "origin": "The PCR wells should be kept on ice.\r_Note 4_: When aspirating a microspore in the glass pipette, make sure it is still visible under the microscope"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "cell sample",
+        "source": "pipette",
+        "destination": "PCR well",
+        "origin": "After blowing it to a PCR well, the cell should not be seen in the pipette any more, to ensure that the cell is now in the PCR well for the next reaction.\r\r**Lysis of cells**\r6) Add 3μl lysis Buffer \\(DLB : DTT = 11 : 1) into the PCR well containing a cell sample"
+    },
+    {
+        "name": "add",
+        "reagent1": "3μl lysis Buffer (DLB : DTT = 11 : 1)",
+        "reagent2": "PCR well containing cell sample",
+        "origin": "After blowing it to a PCR well, the cell should not be seen in the pipette any more, to ensure that the cell is now in the PCR well for the next reaction.\r\r**Lysis of cells**\r6) Add 3μl lysis Buffer \\(DLB : DTT = 11 : 1) into the PCR well containing a cell sample"
+    },
+    {
+        "name": "centrifuge",
+        "notice": "briefly",
+        "origin": "Centrifuge briefly, then, incubate it at 65℃ for 10 min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "it",
+        "temperature": "65℃",
+        "time": "10 min",
+        "origin": "Centrifuge briefly, then, incubate it at 65℃ for 10 min"
+    },
+    {
+        "name": "add",
+        "reagent1": "3μl Stop Buffer",
+        "reagent2": "PCR reaction reagent",
+        "origin": "Finally, Add 3μl Stop Buffer, centrifuge briefly, and keep the PCR well on ice.\r_Note 5_: Tips should not touch the surface of the sample inside PCR well when adding reagents"
+    },
+    {
+        "name": "centrifuge",
+        "reagent": "PCR reaction reagent",
+        "speed": "briefly",
+        "origin": "Finally, Add 3μl Stop Buffer, centrifuge briefly, and keep the PCR well on ice.\r_Note 5_: Tips should not touch the surface of the sample inside PCR well when adding reagents"
+    },
+    {
+        "name": "keep",
+        "reagent": "PCR reaction reagent",
+        "temperature": "ice",
+        "origin": "Finally, Add 3μl Stop Buffer, centrifuge briefly, and keep the PCR well on ice.\r_Note 5_: Tips should not touch the surface of the sample inside PCR well when adding reagents"
+    },
+    {
+        "name": "add",
+        "reagent1": "29μl Reaction Buffer",
+        "reagent2": "reaction mixture",
+        "origin": "Do not shake the PCR well for mixing, to avoid losing the single cell sample and reducing the integrity of the DNA.\r_Note 6_: Step 6) to step 7) are based on standard protocol of QIAGEN REPLI-g Single Cell Kit.\r\r**MDA Amplification of single cell DNA**\r7) Prepare the following mixture: 29μl Reaction Buffer, 9μl sc d2H2O and 2μl reaction enzyme per one reaction"
+    },
+    {
+        "name": "add",
+        "reagent1": "9μl sc d2H2O",
+        "reagent2": "reaction mixture",
+        "origin": "Do not shake the PCR well for mixing, to avoid losing the single cell sample and reducing the integrity of the DNA.\r_Note 6_: Step 6) to step 7) are based on standard protocol of QIAGEN REPLI-g Single Cell Kit.\r\r**MDA Amplification of single cell DNA**\r7) Prepare the following mixture: 29μl Reaction Buffer, 9μl sc d2H2O and 2μl reaction enzyme per one reaction"
+    },
+    {
+        "name": "add",
+        "reagent1": "2μl reaction enzyme",
+        "reagent2": "reaction mixture",
+        "origin": "Do not shake the PCR well for mixing, to avoid losing the single cell sample and reducing the integrity of the DNA.\r_Note 6_: Step 6) to step 7) are based on standard protocol of QIAGEN REPLI-g Single Cell Kit.\r\r**MDA Amplification of single cell DNA**\r7) Prepare the following mixture: 29μl Reaction Buffer, 9μl sc d2H2O and 2μl reaction enzyme per one reaction"
+    },
+    {
+        "name": "add",
+        "reagent1": "PCR reaction mixture",
+        "reagent2": "10μl sample",
+        "origin": "Add the mixture to PCR well containing 10μl sample"
+    },
+    {
+        "name": "centrifuge",
+        "reagent": "sample",
+        "speed": "briefly",
+        "origin": "Centrifuge briefly and incubate at 30℃ for 8 h"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "sample",
+        "temperature": "30℃",
+        "time": "8 h",
+        "origin": "Centrifuge briefly and incubate at 30℃ for 8 h"
+    },
+    {
+        "name": "store",
+        "reagent1": "PCR product",
+        "temperature": "-20℃",
+        "origin": "Store it at -20℃ if not proceeding  to the next step immediately.\r_Note 7_: Similar to note 5, tips can’t touch the surface of the sample inside PCR well when adding reagents"
+    },
+    {
+        "name": "notice",
+        "notice": "Tips can't touch the surface of the sample inside PCR well when adding reagents.",
+        "origin": "Store it at -20℃ if not proceeding  to the next step immediately.\r_Note 7_: Similar to note 5, tips can’t touch the surface of the sample inside PCR well when adding reagents"
+    },
+    {
+        "name": "dilute",
+        "reagent1": "amplification product",
+        "factor": "1:50",
+        "origin": "These precautions avoid reducing the Integrity of DNA.\r_Note 8_: MDA products are suitable for Single Nucleotide Variants \\(SNV) analysis, but not appropriate for quantification analysis \\(Copy Number Variations, CNV).\r\r**Quality control of whole-genome amplification products**:\r8) Dilute the amplification product 1:50"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "diluted DNA",
+        "source": "diluted DNA sample",
+        "destination": "PCR reaction reagent",
+        "volume": "1μl",
+        "origin": "Use the 10 markers \\(Table 1) to amplify the diluted DNA by PCR.\r\rThe PCR mixture contains 1ul diluted DNA, 1ul forward primer \\(5mM), 1μl reverse primer \\(5mM), 1.5μl 10×PCR Buffer \\(Takara), 0.3μl dNTP \\(10mM), 0.15μl rTaq \\(Katara), 10.05μl d2H2O"
+    },
+    {
+        "name": "add",
+        "reagent1": "forward primer(5mM)",
+        "reagent2": "PCR reaction reagent",
+        "volume": "1μl",
+        "origin": "Use the 10 markers \\(Table 1) to amplify the diluted DNA by PCR.\r\rThe PCR mixture contains 1ul diluted DNA, 1ul forward primer \\(5mM), 1μl reverse primer \\(5mM), 1.5μl 10×PCR Buffer \\(Takara), 0.3μl dNTP \\(10mM), 0.15μl rTaq \\(Katara), 10.05μl d2H2O"
+    },
+    {
+        "name": "add",
+        "reagent1": "reverse primer(5mM)",
+        "reagent2": "PCR reaction reagent",
+        "volume": "1μl",
+        "origin": "Use the 10 markers \\(Table 1) to amplify the diluted DNA by PCR.\r\rThe PCR mixture contains 1ul diluted DNA, 1ul forward primer \\(5mM), 1μl reverse primer \\(5mM), 1.5μl 10×PCR Buffer \\(Takara), 0.3μl dNTP \\(10mM), 0.15μl rTaq \\(Katara), 10.05μl d2H2O"
+    },
+    {
+        "name": "add",
+        "reagent1": "10×PCR Buffer(Takara)",
+        "reagent2": "PCR reaction reagent",
+        "volume": "1.5μl",
+        "origin": "Use the 10 markers \\(Table 1) to amplify the diluted DNA by PCR.\r\rThe PCR mixture contains 1ul diluted DNA, 1ul forward primer \\(5mM), 1μl reverse primer \\(5mM), 1.5μl 10×PCR Buffer \\(Takara), 0.3μl dNTP \\(10mM), 0.15μl rTaq \\(Katara), 10.05μl d2H2O"
+    },
+    {
+        "name": "add",
+        "reagent1": "dNTP(10mM)",
+        "reagent2": "PCR reaction reagent",
+        "volume": "0.3μl",
+        "origin": "Use the 10 markers \\(Table 1) to amplify the diluted DNA by PCR.\r\rThe PCR mixture contains 1ul diluted DNA, 1ul forward primer \\(5mM), 1μl reverse primer \\(5mM), 1.5μl 10×PCR Buffer \\(Takara), 0.3μl dNTP \\(10mM), 0.15μl rTaq \\(Katara), 10.05μl d2H2O"
+    },
+    {
+        "name": "add",
+        "reagent1": "rTaq(Katara)",
+        "reagent2": "PCR reaction reagent",
+        "volume": "0.15μl",
+        "origin": "Use the 10 markers \\(Table 1) to amplify the diluted DNA by PCR.\r\rThe PCR mixture contains 1ul diluted DNA, 1ul forward primer \\(5mM), 1μl reverse primer \\(5mM), 1.5μl 10×PCR Buffer \\(Takara), 0.3μl dNTP \\(10mM), 0.15μl rTaq \\(Katara), 10.05μl d2H2O"
+    },
+    {
+        "name": "add",
+        "reagent1": "d2H2O",
+        "reagent2": "PCR reaction reagent",
+        "volume": "10.05μl",
+        "origin": "Use the 10 markers \\(Table 1) to amplify the diluted DNA by PCR.\r\rThe PCR mixture contains 1ul diluted DNA, 1ul forward primer \\(5mM), 1μl reverse primer \\(5mM), 1.5μl 10×PCR Buffer \\(Takara), 0.3μl dNTP \\(10mM), 0.15μl rTaq \\(Katara), 10.05μl d2H2O"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "PCR reaction reagent",
+        "thermo_program": "initial denaturation step at 95°C for 5 min followed by 35 cycles of 30 sec 95°C denaturation, 30 sec 55°C annealing, 1 min 72°C extension and a final extension step of 10 min",
+        "origin": "Use the 10 markers \\(Table 1) to amplify the diluted DNA by PCR.\r\rThe PCR mixture contains 1ul diluted DNA, 1ul forward primer \\(5mM), 1μl reverse primer \\(5mM), 1.5μl 10×PCR Buffer \\(Takara), 0.3μl dNTP \\(10mM), 0.15μl rTaq \\(Katara), 10.05μl d2H2O"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "PCR reaction reagent",
+        "thermo_program": "see Table 2",
+        "origin": "Perform PCR with the following cycling parameters:\r\rProcess Temperature Duration Cycles see Table 2.\r\rDetect the PCR product by 2% Agarose gel electrophoresis"
+    },
+    {
+        "name": "detect",
+        "reagent1": "PCR product",
+        "method": "2% Agarose gel electrophoresis",
+        "origin": "Perform PCR with the following cycling parameters:\r\rProcess Temperature Duration Cycles see Table 2.\r\rDetect the PCR product by 2% Agarose gel electrophoresis"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "amplification product",
+        "source": "PCR tube",
+        "destination": "d2H2O",
+        "volume": "4μl",
+        "origin": "Sample with no less than 8 of the 10 markers successfully amplified, is considered to be of a quality sufficient to make a library.\r\r**Measuring DNA concentration of amplification product**\r9) Add 4μl amplification product into 100μl d2H2O"
+    },
+    {
+        "name": "calculate",
+        "target": "concentration",
+        "reagent1": "DNA",
+        "value": "40~50 ng/μl",
+        "origin": "The concentration should be approximately 40~50 ng/μl.\r\r**DNA Library construction**\r10) Dilute DNA to 1.2μg in 60μl"
+    },
+    {
+        "name": "dilute",
+        "reagent1": "DNA",
+        "volume": "60μl",
+        "target_concentration": "1.2μg",
+        "origin": "The concentration should be approximately 40~50 ng/μl.\r\r**DNA Library construction**\r10) Dilute DNA to 1.2μg in 60μl"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "PCR product",
+        "source": "PCR tube",
+        "destination": "sonication tube",
+        "origin": "Then fragment it by sonication \\(Bioruptor UCD-200, Seraing, Belgium) at ~5℃for a few cycles \\(30s sonication and 30s rest per one cycle), so that most of the DNA fragments range from 300bp to 500bp.\r_Note 9_: Detection of fragments’ size is by 2% Agarose gel electrophoresis; if most of the fragment are still larger than 500bp, continue sonicating a few more cycles until the suitable size of fragments are generated"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "sonication tube",
+        "temperature": "5℃",
+        "thermo_program": "30s sonication and 30s rest per one cycle, repeated for a few cycles",
+        "origin": "Then fragment it by sonication \\(Bioruptor UCD-200, Seraing, Belgium) at ~5℃for a few cycles \\(30s sonication and 30s rest per one cycle), so that most of the DNA fragments range from 300bp to 500bp.\r_Note 9_: Detection of fragments’ size is by 2% Agarose gel electrophoresis; if most of the fragment are still larger than 500bp, continue sonicating a few more cycles until the suitable size of fragments are generated"
+    },
+    {
+        "name": "detect",
+        "reagent1": "sonicated DNA fragments",
+        "method": "2% Agarose gel electrophoresis",
+        "origin": "Then fragment it by sonication \\(Bioruptor UCD-200, Seraing, Belgium) at ~5℃for a few cycles \\(30s sonication and 30s rest per one cycle), so that most of the DNA fragments range from 300bp to 500bp.\r_Note 9_: Detection of fragments’ size is by 2% Agarose gel electrophoresis; if most of the fragment are still larger than 500bp, continue sonicating a few more cycles until the suitable size of fragments are generated"
+    },
+    {
+        "name": "if",
+        "condition": "most of the fragment are still larger than 500bp",
+        "do": [
+            {
+                "name": "incubate",
+                "reagent1": "sonication tube",
+                "thermo_program": "sonicate a few more cycles"
+            },
+            {
+                "name": "detect",
+                "reagent1": "sonicated DNA fragments",
+                "method": "2% Agarose gel electrophoresis"
+            }
+        ],
+        "origin": "Then fragment it by sonication \\(Bioruptor UCD-200, Seraing, Belgium) at ~5℃for a few cycles \\(30s sonication and 30s rest per one cycle), so that most of the DNA fragments range from 300bp to 500bp.\r_Note 9_: Detection of fragments’ size is by 2% Agarose gel electrophoresis; if most of the fragment are still larger than 500bp, continue sonicating a few more cycles until the suitable size of fragments are generated"
+    },
+    {
+        "name": "add",
+        "reagent1": "50μl of DNA fragmented",
+        "reagent2": "End Repair Mix",
+        "origin": "The number of cycles depends on when the fragments reach 300bp to 500bp; the mean number of cycles would be ten.\r_Note 10_: Step 11) to Step 18) are based on the standard protocol of TruSeq DNA Sample Prep v2 Kit \\(Illumina, San Diego, US).\r11) End repair: Add 40μl End Repair Mix and 10μl Resuspension Buffer to 50μl of DNA fragmented"
+    },
+    {
+        "name": "add",
+        "reagent1": "10μl Resuspension Buffer",
+        "reagent2": "End Repair Mix",
+        "origin": "The number of cycles depends on when the fragments reach 300bp to 500bp; the mean number of cycles would be ten.\r_Note 10_: Step 11) to Step 18) are based on the standard protocol of TruSeq DNA Sample Prep v2 Kit \\(Illumina, San Diego, US).\r11) End repair: Add 40μl End Repair Mix and 10μl Resuspension Buffer to 50μl of DNA fragmented"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "End Repair Mix",
+        "temperature": "20°C",
+        "time": "30 min",
+        "origin": "The number of cycles depends on when the fragments reach 300bp to 500bp; the mean number of cycles would be ten.\r_Note 10_: Step 11) to Step 18) are based on the standard protocol of TruSeq DNA Sample Prep v2 Kit \\(Illumina, San Diego, US).\r11) End repair: Add 40μl End Repair Mix and 10μl Resuspension Buffer to 50μl of DNA fragmented"
+    },
+    {
+        "name": "mix",
+        "reagent1": "PCR reaction reagent",
+        "origin": "After mix thoroughly, incubate it at 30℃ for 30min.\r12) Purification #1st by Agencourt Ampure XP beads \\(Beckman Coulter, cat"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "PCR reaction reagent",
+        "temperature": "30℃",
+        "time": "30min",
+        "origin": "After mix thoroughly, incubate it at 30℃ for 30min.\r12) Purification #1st by Agencourt Ampure XP beads \\(Beckman Coulter, cat"
+    },
+    {
+        "name": "purify",
+        "reagent1": "PCR reaction reagent",
+        "reagent2": "Agencourt Ampure XP beads(Beckman Coulter, cat)",
+        "purification_number": "1st",
+        "origin": "After mix thoroughly, incubate it at 30℃ for 30min.\r12) Purification #1st by Agencourt Ampure XP beads \\(Beckman Coulter, cat"
+    },
+    {
+        "name": "none",
+        "origin": "A 63881): Keep the Beads at room temperature \\(RT) and vortex briefly"
+    },
+    {
+        "name": "add",
+        "reagent1": "160μl Beads",
+        "reagent2": "100μl end repaired sample",
+        "origin": "Add 160μl Beads to 100μl of the end repaired sample"
+    },
+    {
+        "name": "mix",
+        "reagent1": "all components",
+        "origin": "Mix thoroughly, then incubate at RT for 15min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "mixture",
+        "temperature": "RT",
+        "time": "15min",
+        "origin": "Mix thoroughly, then incubate at RT for 15min"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "sample",
+        "destination": "magnetic stand",
+        "notice": "Place on magnetic stand at RT for 15min",
+        "origin": "Place this sample on a magnetic stand at RT for 15min"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "supernatant",
+        "source": "current container",
+        "destination": "waste container",
+        "volume": "200μl",
+        "device": "200μl pipette",
+        "origin": "Aspirate and discard the supernatant using a 200μl pipette"
+    },
+    {
+        "name": "add",
+        "reagent1": "200μl fresh 80% EtOH",
+        "reagent2": "supernatant",
+        "origin": "Add 200μl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "supernatant",
+        "temperature": "RT",
+        "time": "30s",
+        "origin": "Add 200μl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "remove",
+        "r1": "supernatant",
+        "origin": "Add 200μl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "add",
+        "reagent1": "200μl fresh 80% EtOH",
+        "reagent2": "washing solution",
+        "origin": "Add 200μl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "washing solution",
+        "temperature": "RT",
+        "time": "30s",
+        "origin": "Add 200μl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "remove",
+        "reagent1": "supernatant",
+        "source": "washing solution",
+        "origin": "Add 200μl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "remove",
+        "reagent1": "sample containing Beads",
+        "source": "magnetic stand",
+        "origin": "Remove the sample containing Beads from the magnetic stand, then add 17.5μl Resuspension Buffer to the Beads"
+    },
+    {
+        "name": "add",
+        "reagent1": "17.5μl Resuspension Buffer",
+        "reagent2": "Beads",
+        "origin": "Remove the sample containing Beads from the magnetic stand, then add 17.5μl Resuspension Buffer to the Beads"
+    },
+    {
+        "name": "mix",
+        "reagent1": "all reagents",
+        "origin": "Mix thoroughly and incubate at RT for 2min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "mixed reagents",
+        "time": "2min",
+        "temperature": "RT",
+        "origin": "Mix thoroughly and incubate at RT for 2min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "sample",
+        "temperature": "RT",
+        "time": "5min",
+        "origin": "Place the sample again on the magnetic stand at RT for 5min"
+    },
+    {
+        "name": "separate",
+        "reagent1": "sample",
+        "reagent2": "magnetic stand",
+        "origin": "Place the sample again on the magnetic stand at RT for 5min"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "supernatant",
+        "source": "PCR well",
+        "destination": "new PCR well",
+        "volume": "15μl",
+        "origin": "Finally, transfer 15μl of the supernatant into a new PCR well for the next step.\r13) Adenylate 3’ end: Add 2.5μl Resuspension Buffer and 12.5μl A Tailing Mix to the PCR well containing 15μl of sample purified as described above"
+    },
+    {
+        "name": "add",
+        "reagent1": "2.5μl Resuspension Buffer",
+        "reagent2": "PCR well containing 15μl of sample purified as described above",
+        "origin": "Finally, transfer 15μl of the supernatant into a new PCR well for the next step.\r13) Adenylate 3’ end: Add 2.5μl Resuspension Buffer and 12.5μl A Tailing Mix to the PCR well containing 15μl of sample purified as described above"
+    },
+    {
+        "name": "add",
+        "reagent1": "12.5μl A Tailing Mix",
+        "reagent2": "PCR well containing 15μl of sample purified as described above",
+        "origin": "Finally, transfer 15μl of the supernatant into a new PCR well for the next step.\r13) Adenylate 3’ end: Add 2.5μl Resuspension Buffer and 12.5μl A Tailing Mix to the PCR well containing 15μl of sample purified as described above"
+    },
+    {
+        "name": "mix",
+        "reagent1": "Resuspension Buffer",
+        "reagent2": "Index",
+        "reagent3": "Ligation Mix",
+        "notice": "mix thoroughly",
+        "origin": "Mix thoroughly, and incubate at 37℃ for 30min.\r14) Ligate Adapters: Add 2.5μl Resuspension Buffer, 2.5μl Index and 2.5μl Ligation Mix to the PCR well containing 30μl of A Tailing sample"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "PCR well containing 30μl of A Tailing sample",
+        "temperature": "37℃",
+        "time": "30min",
+        "origin": "Mix thoroughly, and incubate at 37℃ for 30min.\r14) Ligate Adapters: Add 2.5μl Resuspension Buffer, 2.5μl Index and 2.5μl Ligation Mix to the PCR well containing 30μl of A Tailing sample"
+    },
+    {
+        "name": "add",
+        "reagent1": "2.5μl Resuspension Buffer",
+        "reagent2": "PCR well containing A Tailing sample and incubated product",
+        "origin": "Mix thoroughly, and incubate at 37℃ for 30min.\r14) Ligate Adapters: Add 2.5μl Resuspension Buffer, 2.5μl Index and 2.5μl Ligation Mix to the PCR well containing 30μl of A Tailing sample"
+    },
+    {
+        "name": "add",
+        "reagent1": "2.5μl Index",
+        "reagent2": "PCR well containing A Tailing sample and incubated product",
+        "origin": "Mix thoroughly, and incubate at 37℃ for 30min.\r14) Ligate Adapters: Add 2.5μl Resuspension Buffer, 2.5μl Index and 2.5μl Ligation Mix to the PCR well containing 30μl of A Tailing sample"
+    },
+    {
+        "name": "add",
+        "reagent1": "2.5μl Ligation Mix",
+        "reagent2": "PCR well containing A Tailing sample and incubated product",
+        "origin": "Mix thoroughly, and incubate at 37℃ for 30min.\r14) Ligate Adapters: Add 2.5μl Resuspension Buffer, 2.5μl Index and 2.5μl Ligation Mix to the PCR well containing 30μl of A Tailing sample"
+    },
+    {
+        "name": "mix",
+        "reagent1": "all components",
+        "origin": "Mix thoroughly, and incubate at 30℃ for 10min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "mixed components",
+        "temperature": "30℃",
+        "time": "10min",
+        "origin": "Mix thoroughly, and incubate at 30℃ for 10min"
+    },
+    {
+        "name": "add",
+        "reagent1": "5μl Stop Buffer",
+        "reagent2": "PCR reaction mixture",
+        "origin": "Then add 5μl Stop Buffer immediately, and mix thoroughly.\r15) Purification #2nd using Agencourt Ampure XP beads \\(Beckman Coulter, cat"
+    },
+    {
+        "name": "mix",
+        "reagent1": "PCR reaction mixture",
+        "reagent2": "5μl Stop Buffer",
+        "origin": "Then add 5μl Stop Buffer immediately, and mix thoroughly.\r15) Purification #2nd using Agencourt Ampure XP beads \\(Beckman Coulter, cat"
+    },
+    {
+        "name": "purify",
+        "reagent1": "PCR reaction mixture",
+        "reagent2": "Agencourt Ampure XP beads(Beckman Coulter, cat)",
+        "origin": "Then add 5μl Stop Buffer immediately, and mix thoroughly.\r15) Purification #2nd using Agencourt Ampure XP beads \\(Beckman Coulter, cat"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "Beads",
+        "source": "storage",
+        "destination": "room temperature",
+        "origin": "A 63881): Place the Beads at room temperature \\(RT) and vortex"
+    },
+    {
+        "name": "vortex",
+        "reagent1": "Beads",
+        "origin": "A 63881): Place the Beads at room temperature \\(RT) and vortex"
+    },
+    {
+        "name": "add",
+        "reagent1": "42.5μl Beads",
+        "reagent2": "42.5μl Ligation sample",
+        "origin": "Add 42.5μl Beads to 42.5μl of the Ligation sample"
+    },
+    {
+        "name": "mix",
+        "reagent1": "all components",
+        "origin": "Mix thoroughly, then incubate at RT for 15min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "mixture",
+        "temperature": "RT",
+        "time": "15min",
+        "origin": "Mix thoroughly, then incubate at RT for 15min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "sample",
+        "temperature": "RT",
+        "time": "5min",
+        "origin": "Place the sample on a magnetic stand at RT for 5min"
+    },
+    {
+        "name": "separate",
+        "reagent1": "sample",
+        "reagent2": "magnetic stand",
+        "origin": "Place the sample on a magnetic stand at RT for 5min"
+    },
+    {
+        "name": "remove",
+        "reagent1": "supernatant",
+        "source": "container",
+        "origin": "Remove and discard the supernatant using a 200μl pipette"
+    },
+    {
+        "name": "discard",
+        "reagent1": "supernatant",
+        "origin": "Remove and discard the supernatant using a 200μl pipette"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "supernatant",
+        "destination": "waste container",
+        "volume": "200μl",
+        "device": "200μl pipette",
+        "origin": "Remove and discard the supernatant using a 200μl pipette"
+    },
+    {
+        "name": "add",
+        "reagent1": "200μl fresh 80% EtOH",
+        "reagent2": "supernatant",
+        "origin": "Add 200μl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "supernatant",
+        "temperature": "RT",
+        "time": "30s",
+        "origin": "Add 200μl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "remove",
+        "r1": "supernatant",
+        "origin": "Add 200μl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "add",
+        "reagent1": "200μl fresh 80% EtOH",
+        "reagent2": "washing reagent",
+        "origin": "Add 200μl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "washing reagent",
+        "temperature": "RT",
+        "time": "30s",
+        "origin": "Add 200μl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "remove",
+        "reagent1": "supernatant",
+        "source": "washing reagent",
+        "origin": "Add 200μl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "move",
+        "reagent": "sample containing Beads",
+        "source": "magnetic stand",
+        "origin": "Keep this sample containing Beads away from the magnetic stand, then add 22.5μl Resuspension Buffer"
+    },
+    {
+        "name": "add",
+        "reagent1": "22.5μl Resuspension Buffer",
+        "reagent2": "sample containing Beads",
+        "origin": "Keep this sample containing Beads away from the magnetic stand, then add 22.5μl Resuspension Buffer"
+    },
+    {
+        "name": "mix",
+        "reagent1": "all reagents",
+        "origin": "Mix thoroughly and incubate at RT for 2min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "mixed reagents",
+        "time": "2min",
+        "temperature": "RT",
+        "origin": "Mix thoroughly and incubate at RT for 2min"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "sample",
+        "source": "original container",
+        "destination": "magnetic stand",
+        "notice": "at RT for 5min",
+        "origin": "Place the sample on the magnetic stand at RT for 5min"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "supernatant",
+        "source": "original PCR well",
+        "destination": "new PCR well",
+        "volume": "20μl",
+        "origin": "Finally, transfer 20μl of the supernatant into a new PCR well for the next step.\r16) Size selection by MinElute Gel Extraction Kit \\(QIAGEN, Hilden, Germany, cat"
+    },
+    {
+        "name": "electrophoresis",
+        "reagent1": "2% Agarose gel",
+        "notice": "run until the main target band is visible",
+        "origin": "28604): After 2% Agarose gel electrophoresis, excise gel segment containing the main target band, which should be limited in size range of 100bp"
+    },
+    {
+        "name": "excise",
+        "reagent1": "gel segment containing the main target band",
+        "size_range": "100bp",
+        "origin": "28604): After 2% Agarose gel electrophoresis, excise gel segment containing the main target band, which should be limited in size range of 100bp"
+    },
+    {
+        "name": "add",
+        "reagent1": "900μl QG Buffer",
+        "reagent2": "2ml tube containing 300mg gel",
+        "origin": "Add 900μl QG Buffer to 2ml tube containing 300mg gel"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "gel",
+        "temperature": "room temperature",
+        "notice": "until gel melts completely",
+        "origin": "Incubate it at RT until gel melts completely"
+    },
+    {
+        "name": "add",
+        "reagent1": "300μl isopropanol",
+        "reagent2": "sample",
+        "origin": "Add 300μl isopropanol, and mix thoroughly"
+    },
+    {
+        "name": "mix",
+        "reagent1": "sample",
+        "method": "thoroughly",
+        "origin": "Add 300μl isopropanol, and mix thoroughly"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "750μl of melted sample",
+        "destination": "MinElute column",
+        "origin": "Transfer 750μl of the melted sample in the MinElute column, centrifuge for 1min at 13000 rpm and discard the flow-through"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "MinElute column",
+        "device": "centrifuge",
+        "time": "1min",
+        "speed": "13000 rpm",
+        "origin": "Transfer 750μl of the melted sample in the MinElute column, centrifuge for 1min at 13000 rpm and discard the flow-through"
+    },
+    {
+        "name": "remove",
+        "reagent1": "flow-through",
+        "source": "MinElute column",
+        "origin": "Transfer 750μl of the melted sample in the MinElute column, centrifuge for 1min at 13000 rpm and discard the flow-through"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "750μl",
+        "source": "unknown",
+        "destination": "unknown",
+        "notice": "repeatedly transfer",
+        "origin": "Repeatedly transfer another 750μl and centrifuge"
+    },
+    {
+        "name": "centrifuge",
+        "reagent1": "unknown",
+        "speed": "unknown",
+        "time": "unknown",
+        "origin": "Repeatedly transfer another 750μl and centrifuge"
+    },
+    {
+        "name": "add",
+        "reagent1": "500μl QG Buffer",
+        "reagent2": "column",
+        "origin": "Add 500μl QG Buffer to the column, centrifuge for 1min and discard flow-through"
+    },
+    {
+        "name": "centrifuge",
+        "reagent1": "column",
+        "duration": "1min",
+        "origin": "Add 500μl QG Buffer to the column, centrifuge for 1min and discard flow-through"
+    },
+    {
+        "name": "discard",
+        "reagent1": "flow-through",
+        "origin": "Add 500μl QG Buffer to the column, centrifuge for 1min and discard flow-through"
+    },
+    {
+        "name": "add",
+        "reagent1": "750μl PE Buffer",
+        "reagent2": "column",
+        "origin": "Add 750μl PE Buffer to the column, stand for 5min, then centrifuge for 1min and discard flow-through"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "column",
+        "time": "5min",
+        "origin": "Add 750μl PE Buffer to the column, stand for 5min, then centrifuge for 1min and discard flow-through"
+    },
+    {
+        "name": "centrifuge",
+        "reagent1": "column",
+        "time": "1min",
+        "origin": "Add 750μl PE Buffer to the column, stand for 5min, then centrifuge for 1min and discard flow-through"
+    },
+    {
+        "name": "remove",
+        "reagent1": "flow-through",
+        "source": "column",
+        "origin": "Add 750μl PE Buffer to the column, stand for 5min, then centrifuge for 1min and discard flow-through"
+    },
+    {
+        "name": "add",
+        "reagent1": "23μl EB Buffer",
+        "reagent2": "center of column membrane",
+        "origin": "Add 23μl EB Buffer onto the center of column membrane, incubate it at RT for 3min, then centrifuge it for 1 min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "column membrane",
+        "temperature": "RT",
+        "time": "3min",
+        "origin": "Add 23μl EB Buffer onto the center of column membrane, incubate it at RT for 3min, then centrifuge it for 1 min"
+    },
+    {
+        "name": "centrifuge",
+        "reagent1": "column membrane",
+        "time": "1min",
+        "origin": "Add 23μl EB Buffer onto the center of column membrane, incubate it at RT for 3min, then centrifuge it for 1 min"
+    },
+    {
+        "name": "collect",
+        "reagent": "flow-through",
+        "origin": "The flow-through is collected and added onto the center of the same column membrane, incubate it at RT for 3min, then centrifuge for 1 min"
+    },
+    {
+        "name": "add",
+        "reagent1": "flow-through",
+        "reagent2": "center of the same column membrane",
+        "origin": "The flow-through is collected and added onto the center of the same column membrane, incubate it at RT for 3min, then centrifuge for 1 min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "flow-through and center of the same column membrane",
+        "temperature": "RT",
+        "time": "3min",
+        "origin": "The flow-through is collected and added onto the center of the same column membrane, incubate it at RT for 3min, then centrifuge for 1 min"
+    },
+    {
+        "name": "centrifuge",
+        "reagent": "flow-through and center of the same column membrane",
+        "time": "1 min",
+        "origin": "The flow-through is collected and added onto the center of the same column membrane, incubate it at RT for 3min, then centrifuge for 1 min"
+    },
+    {
+        "name": "add",
+        "reagent1": "5μl Primer",
+        "reagent2": "20μl purified sample",
+        "origin": "Now the flow-thorough is the sample purified for PCR reaction.\r17) PCR amplification of library: Add 5μl Primer and 25μl PCR Mix to 20μl of the Purified sample above"
+    },
+    {
+        "name": "add",
+        "reagent1": "25μl PCR Mix",
+        "reagent2": "20μl mixture of purified sample and primer",
+        "origin": "Now the flow-thorough is the sample purified for PCR reaction.\r17) PCR amplification of library: Add 5μl Primer and 25μl PCR Mix to 20μl of the Purified sample above"
+    },
+    {
+        "name": "mix",
+        "reagent1": "PCR reaction mixture",
+        "origin": "Mix thoroughly, and perform PCR with the following cycling parameters:\r\rProcess Temperature Duration Cycles see Table 3.\r\r18) Purification #3rd by Agencourt Ampure XP beads \\(Beckman Coulter, cat"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "PCR reaction mixture",
+        "thermo_program": "see Table 3",
+        "origin": "Mix thoroughly, and perform PCR with the following cycling parameters:\r\rProcess Temperature Duration Cycles see Table 3.\r\r18) Purification #3rd by Agencourt Ampure XP beads \\(Beckman Coulter, cat"
+    },
+    {
+        "name": "keep",
+        "reagent": "Beads",
+        "temperature": "room temperature",
+        "origin": "A 63881): Keep the Beads at room temperature \\(RT) and vortex"
+    },
+    {
+        "name": "vortex",
+        "reagent": "Beads",
+        "origin": "A 63881): Keep the Beads at room temperature \\(RT) and vortex"
+    },
+    {
+        "name": "mix",
+        "reagent1": "all components",
+        "origin": "Mix thoroughly, then incubate it at RT for 15min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "mixed components",
+        "temperature": "RT",
+        "time": "15min",
+        "origin": "Mix thoroughly, then incubate it at RT for 15min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "PCR sample",
+        "temperature": "RT",
+        "time": "5min",
+        "origin": "Place this PCR sample on a magnetic stand at RT for 5min"
+    },
+    {
+        "name": "separate",
+        "reagent1": "PCR sample",
+        "reagent2": "magnetic stand",
+        "origin": "Place this PCR sample on a magnetic stand at RT for 5min"
+    },
+    {
+        "name": "remove",
+        "reagent1": "supernatant",
+        "source": "container",
+        "origin": "Remove and discard the supernatant using a 200μl pipette"
+    },
+    {
+        "name": "discard",
+        "reagent1": "supernatant",
+        "origin": "Remove and discard the supernatant using a 200μl pipette"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "supernatant",
+        "destination": "waste container",
+        "volume": "200μl",
+        "device": "200μl pipette",
+        "origin": "Remove and discard the supernatant using a 200μl pipette"
+    },
+    {
+        "name": "add",
+        "reagent1": "200μl fresh 80% EtOH",
+        "reagent2": "supernatant",
+        "origin": "Add 200μl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "supernatant",
+        "temperature": "RT",
+        "time": "30s",
+        "origin": "Add 200μl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "remove",
+        "reagent1": "supernatant",
+        "origin": "Add 200μl fresh 80% EtOH, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "add",
+        "reagent1": "200μl fresh 80% EtOH",
+        "reagent2": "washing solution",
+        "origin": "Add 200μl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "washing solution",
+        "temperature": "RT",
+        "time": "30s",
+        "origin": "Add 200μl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "remove",
+        "reagent1": "supernatant",
+        "source": "washing solution",
+        "origin": "Add 200μl fresh 80% EtOH again to complete the washing, incubate at RT for 30s, remove and discard the supernatant"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "sample with the Beads",
+        "destination": "away from the magnetic stand",
+        "origin": "Place the sample with the Beads away from the magnetic stand, then add 22.5μl Resuspension Buffer to the Beads"
+    },
+    {
+        "name": "add",
+        "reagent1": "22.5μl Resuspension Buffer",
+        "reagent2": "Beads",
+        "origin": "Place the sample with the Beads away from the magnetic stand, then add 22.5μl Resuspension Buffer to the Beads"
+    },
+    {
+        "name": "mix",
+        "reagent1": "all reagents",
+        "origin": "Mix thoroughly and incubate at RT for 2min"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "mixed reagents",
+        "time": "2min",
+        "temperature": "RT",
+        "origin": "Mix thoroughly and incubate at RT for 2min"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "sample",
+        "source": "original container",
+        "destination": "magnetic stand",
+        "origin": "Place the sample on the magnetic stand at RT for 5min again"
+    },
+    {
+        "name": "incubate",
+        "reagent1": "sample",
+        "time": "5min",
+        "temperature": "RT",
+        "environment": "on magnetic stand",
+        "origin": "Place the sample on the magnetic stand at RT for 5min again"
+    },
+    {
+        "name": "transfer",
+        "reagent1": "supernatant",
+        "source": "current PCR well",
+        "destination": "new PCR well",
+        "volume": "20μl",
+        "origin": "Finally, transfer 20μl of the supernatant into a new PCR well; it is the library"
+    }
+]

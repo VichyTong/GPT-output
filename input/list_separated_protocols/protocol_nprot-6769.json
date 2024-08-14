@@ -1,0 +1,375 @@
+[
+    {
+        "title": "**1. REAGENT PREPARATION**",
+        "body": []
+    },
+    {
+        "title": "**1.1 Preparation of FACS buffer**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Make stock solution of 10% NaN<sub>3</sub> in DPBS"
+            },
+            {
+                "title": "2.",
+                "body": "Transfer 497ml DPBS to a Schott bottle"
+            },
+            {
+                "title": "3.",
+                "body": "Add 1 ml 10% NaN<sub>3</sub> solution to DPBS for an end concentration of 0.02% NaN<sub>3</sub>"
+            },
+            {
+                "title": "4.",
+                "body": "Add 2 ml 0.5 M EDTA to give an end concentration of 2 mM"
+            },
+            {
+                "title": "5.",
+                "body": "Add 5 g BSA and allow to dissolve"
+            },
+            {
+                "title": "6.",
+                "body": "Store solution at 4°C"
+            }
+        ]
+    },
+    {
+        "title": "**2.  PROTOCOLS FOR CELL-SURFACE STAINING OF MACROPHAGES, DC AND T CELLS**",
+        "body": []
+    },
+    {
+        "title": "**2.1 Standard extracellular staining protocol**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Harvest cells into cold DBPS. 2 × 10<sup>5</sup> cells are required for each staining reaction."
+            },
+            {
+                "title": "2.",
+                "body": "Pellet cells by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "3.",
+                "body": "Aspirate supernatant using vacuum pump"
+            },
+            {
+                "title": "4.",
+                "body": "Resuspend cells in 100 µl/reaction of FACS buffer + 10% FcR block"
+            },
+            {
+                "title": "5.",
+                "body": "Incubate at 4°C for 30 min"
+            },
+            {
+                "title": "6.",
+                "body": "Transfer blocked cell suspensions into FACS tubes at  100 µl/tube"
+            },
+            {
+                "title": "7.",
+                "body": "Add primary antibodies as indicated"
+            },
+            {
+                "title": "8.",
+                "body": "Incubate at 4°C in dark for 20 min"
+            },
+            {
+                "title": "9.",
+                "body": "Add 5 µl 7-AAD per reaction. Incubate at 4°C in dark for 10 min"
+            },
+            {
+                "title": "10.",
+                "body": "Add 2 ml DBPS per tube. Vortex"
+            },
+            {
+                "title": "11.",
+                "body": "Pellet cells by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "12.",
+                "body": "Aspirate supernatant using vacuum pump."
+            },
+            {
+                "title": "13.",
+                "body": "Resuspend cells in 200 µl DPBS for analysis by flow cytometry."
+            }
+        ]
+    },
+    {
+        "title": "**2.2 Amplification of PE or APC signals using FASER kit**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Harvest cells into cold DBPS. 2 × 10<sup>5</sup> cells are required for each staining reaction."
+            },
+            {
+                "title": "2.",
+                "body": "Pellet cells by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "3.",
+                "body": "Aspirate supernatant using vacuum pump"
+            },
+            {
+                "title": "4.",
+                "body": "Resuspend cells in 100 µl / reaction of FACS buffer + 10% FcR block"
+            },
+            {
+                "title": "5.",
+                "body": "Incubate at 4°C for 30 min"
+            },
+            {
+                "title": "6.",
+                "body": "Transfer blocked cell suspensions into FACS tubes at 100 µl / tube"
+            },
+            {
+                "title": "7.",
+                "body": "Add primary PE or APC conjugated antibody as indicated"
+            },
+            {
+                "title": "8.",
+                "body": "Incubate at 4°C in dark for 20 min"
+            },
+            {
+                "title": "9.",
+                "body": "Add 5 µl 7-AAD per reaction. Incubate at 4°C in dark for 10 min"
+            },
+            {
+                "title": "10.",
+                "body": "Add 2 ml DBPS per tube. Vortex"
+            },
+            {
+                "title": "11.",
+                "body": "Pellet cells by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "12.",
+                "body": "Aspirate supernatant using vacuum pump."
+            },
+            {
+                "title": "13.",
+                "body": "Resuspend cells in 80 µl FACS buffer + 20 µl FcR block + 10 µl FASER reagent 1"
+            },
+            {
+                "title": "14.",
+                "body": "Incubate at 4°C in dark for 10 min"
+            },
+            {
+                "title": "15.",
+                "body": "Wash one time in 2 ml DPBS by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "16.",
+                "body": "Resuspend cells in 80 µl FACS buffer + 20 µl FcR block + 10 µl FASER reagent 2"
+            },
+            {
+                "title": "17.",
+                "body": "Incubate at 4°C in dark for 10 min"
+            },
+            {
+                "title": "18.",
+                "body": "Wash one time in 2 ml DPBS by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "19.",
+                "body": "Resuspend cells in 80 µl FACS buffer + 20 µl FcR block + 10 µl FASER reagent 1"
+            },
+            {
+                "title": "20.",
+                "body": "Incubate at 4°C in dark for 10 min"
+            },
+            {
+                "title": "21.",
+                "body": "Wash one time in 2 ml DPBS by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "22.",
+                "body": "Resuspend cells in 80 µl FACS buffer + 20 µl FcR block + 10 µl FASER reagent 2"
+            },
+            {
+                "title": "23.",
+                "body": "Incubate at 4°C in dark for 10 min"
+            },
+            {
+                "title": "24.",
+                "body": "Wash one time in 2 ml DPBS by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "25.",
+                "body": "Resuspend cells in 200 µl DPBS for analysis by flow cytometry."
+            }
+        ]
+    },
+    {
+        "title": "**3. INTRACELLULAR STAINING OF HUMAN MREGS FOR IDO**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Harvest cells into cold DBPS. 5 × 10<sup>5</sup> Mregs are required for each staining reaction"
+            },
+            {
+                "title": "2.",
+                "body": "Pellet cells by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "3.",
+                "body": "Aspirate supernatant using vacuum pump"
+            },
+            {
+                "title": "4.",
+                "body": "Resuspend cells in 3 ml DBPS"
+            },
+            {
+                "title": "5.",
+                "body": "Add 0.75 µl Fixable Live-Dead dye"
+            },
+            {
+                "title": "6.",
+                "body": "Incubate at 4°C in dark for 30 min"
+            },
+            {
+                "title": "7.",
+                "body": "Wash one time in 10 ml DPBS by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "8.",
+                "body": "Resuspend cells in 300 µl FACS buffer + 10% FcR block for 15 min"
+            },
+            {
+                "title": "9.",
+                "body": "Transfer blocked cell suspensions into FACS tubes at 100 µl / tube"
+            },
+            {
+                "title": "10.",
+                "body": "Add primary PE-conjugated CD33 or isotype antibody as indicated  in Figure 1 \\(3 reactions)"
+            },
+            {
+                "title": "11.",
+                "body": "Incubate at 4°C in dark for 30 min"
+            },
+            {
+                "title": "12.",
+                "body": "Wash samples one time in 2 ml DPBS by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "13.",
+                "body": "Add 100 µl IC Fixation Buffer for 30 min RT in the dark"
+            },
+            {
+                "title": "14.",
+                "body": "Wash samples twice in 2 ml Perm Buffer by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "15.",
+                "body": "Resuspend samples in 100 µl of FACS buffer + 10% FcR block for 15 min at 4°C"
+            },
+            {
+                "title": "16.",
+                "body": "Add intracellular staining antibodies as indicated for 30 min at RT in the dark"
+            },
+            {
+                "title": "17.",
+                "body": "Wash samples once in 2 ml Perm Buffer by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "18.",
+                "body": "Resuspend cells in 200 µl DPBS for analysis by flow cytometry\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/6619/original/Figures_Flow_Fig_2.jpg?1523899046\">See figure in Figures section.</a>"
+            }
+        ]
+    },
+    {
+        "title": "**4. INTRACELLULAR STAINING OF HUMAN TREGS FOR FOXP3 AND HELIOS**",
+        "body": []
+    },
+    {
+        "title": "**4.1 Intracellular staining of cultured T cells**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Harvest cells into cold DBPS. 5 × 10<sup>5</sup> cells are required for each staining reaction"
+            },
+            {
+                "title": "2.",
+                "body": "Pellet cells by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "3.",
+                "body": "Aspirate supernatant using vacuum pump"
+            },
+            {
+                "title": "4.",
+                "body": "Resuspend cells in 1 ml DBPS"
+            },
+            {
+                "title": "5.",
+                "body": "Add 1 µl Fixable Live-Dead dye"
+            },
+            {
+                "title": "6.",
+                "body": "Incubate at 4°C in dark for 30 min"
+            },
+            {
+                "title": "7.",
+                "body": "Wash one time in 10 ml DPBS by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "8.",
+                "body": "Resuspend cells in 100 µl FACS buffer + 10% FcR block for 15 min"
+            },
+            {
+                "title": "9.",
+                "body": "Transfer blocked cell suspensions into FACS tubes at 100 µl / tube"
+            },
+            {
+                "title": "10.",
+                "body": "Add cell surface antibodies as indicated in Figure 2"
+            },
+            {
+                "title": "11.",
+                "body": "Incubate at 4°C in dark for 30 min"
+            },
+            {
+                "title": "12.",
+                "body": "Wash samples one time in 2 ml DPBS by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "13.",
+                "body": "Aspirate supernatant using vacuum pump. Gentle vortex"
+            },
+            {
+                "title": "14.",
+                "body": "Add 500 µl Fixation/Permeabilization"
+            },
+            {
+                "title": "15.",
+                "body": "Incubate at 4°C in dark for 30 min"
+            },
+            {
+                "title": "16.",
+                "body": "Wash samples in 2 ml Perm Buffer by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "17.",
+                "body": "Add intracellular staining antibodies \\(FoxP3-PE, optional Helios-APC) as indicated"
+            },
+            {
+                "title": "18.",
+                "body": "Incubate for 30 min at 4°C in the dark"
+            },
+            {
+                "title": "19.",
+                "body": "Wash samples 3 times in 2 ml Perm Buffer by centrifugation at 300 g for 6 min"
+            },
+            {
+                "title": "20.",
+                "body": "Resuspend cells in 200 µl Perm Buffer for analysis by flow cytometry\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/6621/original/Figures_Flow_cytometry_Fig_3.jpg?1523899091\">See figure in Figures section.</a>"
+            }
+        ]
+    },
+    {
+        "title": "**4.2 Intracellular staining for FoxP3 in T cells from clinical blood samples**",
+        "body": "1 1 ml blood is used for each staining reaction. Dilute blood 1:1 with DBPS\r\n\n\n2 Layer blood carefully onto 6 ml Biocoll in a 15 ml tube\r\n\n\n3 Centrifuge at 2000 rpm, 20°C, for 25 min with no brake\r\n\n\n4 Recover cell layer in the interface\r\n\n\n5 Wash with 14 ml DPSB by centrifugation at 1600 rpm for 10 min\r\n\n\n6 Aspirate supernatant using vacuum pump\r\n\n\n7 Resuspend cells in 100 µl / reaction of FACS buffer + 10% FcR block\r\n\n\n8 Incubate at 4°C for 30 min\r\n\n\n9 Transfer blocked cell suspensions into FACS tubes at 100 µl / tube\r\n\n\n10 Add cell surface antibodies as indicated in Figure 3\r\n\n\n11 Incubate at 4°C in dark for 30 min\r\n\n\n12 Add 2 ml DBPS per tube. Vortex\r\n\n\n13 Pellet cells by centrifugation at 300 g for 6 min\r\n\n\n14 Aspirate supernatant using vacuum pump. Gentle vortex\r\n\n\n15 Add 500 µl Fixation/Permeabilization\r\n\n\n16 Incubate at 4°C in dark for 30 min\r\n\n\n17 Wash samples in 2 ml Perm Buffer by centrifugation at 300 g for 6 min\r\n\n\n18 Add intracellular staining antibodies as indicated\r\n\n\n19 Incubate for 30 min at RT in the dark\r\n\n\n20 Wash samples 3 times in 2 ml Perm Buffer by centrifugation at 300 g for 6 min\r\n\n\n21 Resuspend cells in 200 µl Perm Buffer for analysis by flow cytometry\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/6623/original/Figures_Flow_cytometry_FOXP3_Tigit_small.jpg?1523900494\">See figure in Figures section.</a>"
+    },
+    {
+        "title": "**5.  Gating strategy for identifying TIGIT<sup>+</sup> Tregs among NSG mouse splenocytes**",
+        "body": "<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/6625/original/Figures_Flow_cytometry_NSG_small.jpg?1523900496\">See figure in Figures section.</a>"
+    }
+]

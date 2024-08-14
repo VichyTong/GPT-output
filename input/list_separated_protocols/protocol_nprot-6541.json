@@ -1,0 +1,303 @@
+[
+    {
+        "title": "**Human Single Cell Suspension Prep**",
+        "body": [
+            "In general, we start with large sample of lung \\(approximately",
+            {
+                "title": "1g)",
+                "body": "and digest in 300mg increments. \r\n\n\n\r\n\n\n\r\n\n\nBegin by making digestion solution; you will need need 5ml per 200-300mg of human lung used. \r\n\n\n\r\n\n\nFor 10mL digestion solution:\r\n\n\n- 16.8mg collagenase type I\r\n\n\n- 1mL Dispase 50U/mL \r\n\n\n- 600uL DNase1 \\(165U/ml stock)\r\n\n\n- Fill to 10ml with PBS"
+            },
+            {
+                "title": "1.",
+                "body": "Warm digestive solution in 37C water bath while you prepare lungs."
+            },
+            {
+                "title": "2.",
+                "body": "Take large piece of human lung, and carefully remove all pleura. Pleura clogs up digestion solution and filters, make sure you get it all\\!"
+            },
+            {
+                "title": "3.",
+                "body": "Cut lung into 6-10 individual small pieces \\(~ 300mg or size of adult mouse lung). Place in ice cold PBS w/anti-anti. Use of antibiotics at this step reduces downstream contamination a lot\\!"
+            },
+            {
+                "title": "4.",
+                "body": "Take individual small pieces of human lung and cut into ~40 small pieces, trying to cut out as much of the airway as possible; this improves cell yield by improving digestion."
+            },
+            {
+                "title": "5.",
+                "body": "Weigh the pieces of chopped lung. Take ~300mg of dissected lung tissue, already chopped into very small pieces, and collect into a gentleMACS tube."
+            },
+            {
+                "title": "6.",
+                "body": "Add 5ml of digestion solution to each tube. Less is more here as it helps the tissue sit next to the tines on the MACS tube cap. Be sure to close cap of gentleMACS tube tightly \\(this can be tricky, you want to feel it “pop” into place) and place on ice until ready for next step."
+            },
+            {
+                "title": "7.",
+                "body": "Place all gentleMACS tubes onto Dissociator. Snap tube into place, the screen will tell you the tube is on tightly. Add heating elements to the tubes."
+            },
+            {
+                "title": "8.",
+                "body": "Run the “m_lung_01_02” program 3-5 times. This will do a gross breakup of the tissue. Check the MACS tubes after this – there should not be any large clumps of tissue in the fluid. Anything large should be stuck in the tines of the tube."
+            },
+            {
+                "title": "9.",
+                "body": "If there is an error, remove the cap and dislodge the junk out of the cap into the bottom and repeat"
+            },
+            {
+                "title": "10.",
+                "body": "Run the “37C_m_LIDK_1” program for 35 minutes."
+            },
+            {
+                "title": "11.",
+                "body": "Filter through 70 micron MACSsmart cell strainer into new 50mL tube."
+            },
+            {
+                "title": "12.",
+                "body": "Rinse 10-20 mL PBS through the 70 micron cell strainer to maximize yield. Let flow through. May need to remove large chunks of debris if clogging strainer up."
+            },
+            {
+                "title": "13.",
+                "body": "Spin at 450x g for 10 min at 4C. \\(If pellet is really fluffy, spin for add’l 4min; but should not be the case w/ the 10 min spin)"
+            },
+            {
+                "title": "14.",
+                "body": "Decant supernatant carefully. Then add 10mL of ACK Lysis buffer to lyse RBCs and incubate at RT for 10 minutes."
+            },
+            {
+                "title": "15.",
+                "body": "Spin 450x g for 5 min at 4C. Remove and discard supernatant. Repeat step 14 if many RBCs remain."
+            },
+            {
+                "title": "16.",
+                "body": "Wash with 5-10mL FACS buffer \\(1% FBS, 1 mM EDTA in PBS). Spin 450x g for 5 min. Repeat 2-3x."
+            },
+            {
+                "title": "17.",
+                "body": "Filter through 40uM cell strainer."
+            },
+            {
+                "title": "18.",
+                "body": "Stain cells with Trypan Blue and count via hemocytometer."
+            },
+            {
+                "title": "19.",
+                "body": "Place samples on ice while awaiting further steps. Can proceed to FACS, bead sorting, cytospins, RNA isolation, etc from this point."
+            }
+        ]
+    },
+    {
+        "title": "**Magnetic Bead Sorting and Collection**",
+        "body": [
+            {
+                "title": "20.",
+                "body": "We use the Miltenyi MACS bead sorting kits and follow the manufacturer’s protocol"
+            },
+            {
+                "title": "21.",
+                "body": "Place the cell suspension in a 15 mL tube."
+            },
+            {
+                "title": "22.",
+                "body": "Spin at 300-450x g for 5 minutes, remove supernatant, and resuspend pellet in primary antibody in FACS buffer."
+            },
+            {
+                "title": "23.",
+                "body": "If sorting for AEPs, use both primary antibodies together. For HT2-280 use a 1:50 dilution and for TM4SF1 use a 1:100 dilution. We use a total volume of 2mLs, and both antibodies benefit from fresh aliquot use. Can use HT2-280 antibody alone to sort for AT2 cells."
+            },
+            {
+                "title": "24.",
+                "body": "Incubate at 4C in the dark for 1 hour. Wash 2x with 10ml FACS buffer as above."
+            },
+            {
+                "title": "25.",
+                "body": "Incubate in MACS secondary anti-IgM-magnetic beads in FACS buffer \\(200ul ab to 800uL FACs buffer) for 30 minutes at 4C in the dark."
+            },
+            {
+                "title": "26.",
+                "body": "Wash 1x with 10ml FACS buffer and spin at 450x g for 4 min."
+            },
+            {
+                "title": "27.",
+                "body": "Evaluate the number of cells from step"
+            },
+            {
+                "title": "18.",
+                "body": "We load no more than 2 million cells per Miltenyi LS column for magnetic sorting. Choose the number of columns you will use for sorting and resuspend in 1ml per column \\(usually about 5-10 million cells, so 5-10ml) of FACS buffer. Place on ice"
+            },
+            {
+                "title": "28.",
+                "body": "Prepare Miltenyi LS columns for sorting per the manufacturer protocol. We add 3ml of FACS buffer to prepare the columns."
+            },
+            {
+                "title": "29.",
+                "body": "Add 1-2mL of cells per column. If you add more, you may clog the column and in our experience that will dramatically decrease yields."
+            },
+            {
+                "title": "30.",
+                "body": "Wash each column 3 times with 3mLs of FACs buffer. Allow the buffer to completely flow through the column before adding additional buffer."
+            },
+            {
+                "title": "31.",
+                "body": "Remove columns from magnet, and place it on a suitable collection tube."
+            },
+            {
+                "title": "32.",
+                "body": "Add 5mLs of FACs buffer and immediately flush out the magnetically labeled cells by firmly pushing the plunger into the column."
+            },
+            {
+                "title": "33.",
+                "body": "At this point, you have obtained the HT2-280+ fraction of the lung. This is the total alveolar type 2 cell population. This population is suitable for use in many end applications including the culture described here."
+            },
+            {
+                "title": "34.",
+                "body": "Set aside any cells you wish at this point. Keep on ice until use."
+            },
+            {
+                "title": "35.",
+                "body": "With the remainder of sorted cells, centrifuge at 300-450g for 5mins at 4C in 15mL tubes."
+            },
+            {
+                "title": "36.",
+                "body": "Remove supernatant, and incubate with 1mL of FACs buffer and 20uL of MultiSort Release Reagent from the Multisort kit. Be sure you used Multisort capable beads from Miltenyi."
+            },
+            {
+                "title": "37.",
+                "body": "Mix well and incubate for 10 mins in the dark in at 4C."
+            },
+            {
+                "title": "38.",
+                "body": "Wash cells by adding 1mL of FACs buffer per 1 million cells centrifuge at 300-450g for 10mins at 4C."
+            },
+            {
+                "title": "39.",
+                "body": "Remove supernatant and resuspend cells at a final concentration of no more than 10^7 total cells per 50uL of buffer."
+            },
+            {
+                "title": "40.",
+                "body": "Add 30uL of MultiSort Stop Reagent per 10^7 total cells and mix well."
+            },
+            {
+                "title": "41.",
+                "body": "Add 200uL of anti-APC-magnetic beads \\(if using the listed Tm4sf1 antibody) to 800uL of FACs buffer per pellet and incubate for 30 mins at 4C in the dark."
+            },
+            {
+                "title": "42.",
+                "body": "Wash 1x with 10ml FACS buffer and spin at 300-450x g for 4 min."
+            },
+            {
+                "title": "43.",
+                "body": "Resuspend in 1ml of FACS buffer for each 1 million cells.  As above, choose the number of columns needed and proceed to MACS sorting using MACS columns per manufacturer protocol."
+            },
+            {
+                "title": "44.",
+                "body": "Load and wash the LS columns as noted in steps 28-31 above. Be certain to collect the flow through from all washes at this step - this is the Tm4sf1 negative fraction of AT2 cells."
+            },
+            {
+                "title": "45.",
+                "body": "Add 5mLs of FACs buffer to each column, remove from magnet, and immediately flush out the magnetically labeled cells by firmly pushing the plunger into the column. This population of cells are HT280+Tm4sf1+ human AEPs."
+            }
+        ]
+    },
+    {
+        "title": "**Generation of Adult Human Alveolar Type 2 Cell 3D Organoids**",
+        "body": [
+            "_Prepare Tissue Culture Media_",
+            {
+                "title": "46.",
+                "body": "We have successfully used MTEC plus media and the Lonza SAGM Bullet Kit supplemented with antibiotics for lung organoids; recommend use of Anti-/Anti- for human culture to prevent contamination; both mycobacterial and fungal infection are an issue and have been observed, particularly in human samples\r\n  We prefer freshly prepared Lonza SAGM media, prepared within the last month, aliquoted into small aliquots and used rapidly; we spike small aliquots of media from the Bullet Kit, and use all reagents except for epinephrine."
+            },
+            {
+                "title": "47.",
+                "body": "For the first 48h of culture, we use MTEC/Plus or SAGM supplemented with ROCK inhibitor"
+            },
+            {
+                "title": "48.",
+                "body": "In order to avoid rapid polymerization with matrigel, maintain media at 4C until use.\r\n  \r\n\n\n_Prepare Matrigel_"
+            },
+            {
+                "title": "49.",
+                "body": "Prepare matrigel the night before planned culture; you will need ~50ul per well of planned experiments; we make working aliquots of 600ul and 1200ul and thaw on ice overnight in the cold room at 4C."
+            },
+            {
+                "title": "50.",
+                "body": "Matrigel lots vary in activity and quality for this assay; we test each lot and use lots with best colony forming efficiency on a consistent basis to minimize assay variability"
+            },
+            {
+                "title": "51.",
+                "body": "Matrigel is a liquid a 4C and rapidly polymerizes at RT; keep on ice until ready to use and mix only with other 4C reagants to prevent polymerization prior to culture preparation\r\n  \r\n\n\n_Prepare lung fibroblasts for 3D culture_"
+            },
+            {
+                "title": "52.",
+                "body": "We use low passage MCR5 cells \\(ATCC), and find that organoids grow better with these than with primary human fibroblasts."
+            },
+            {
+                "title": "53.",
+                "body": "On day of organoid prep, lift MCR5 cells from plate using 0.25% trypsin and create single cell suspension."
+            },
+            {
+                "title": "54.",
+                "body": "Wash the fibroblast pellet with PBS and resuspend cell pellet in SAGM or MTEC/Plus media; recommended concentration is 5-10k fibroblasts/ul.\r\n  \r\n\n\n_Prepare transwell plate_"
+            },
+            {
+                "title": "55.",
+                "body": "We use 24 well plates and place cultures in transwell inserts designed specifically for 24 well format; using other plates or inserts can lead to evaporation of media."
+            },
+            {
+                "title": "56.",
+                "body": "Prepare and label wells, and place inserts in wells; we fill wells that will not be used with sterile PBS to prevent evaporation of tissue culture media."
+            },
+            {
+                "title": "57.",
+                "body": "Place transwell plate in refrigerator or on ice until ready to use.\r\n  \r\n\n\n_Prepare 3D cultures in transwell inserts_"
+            },
+            {
+                "title": "58.",
+                "body": "Always used chilled plates and reagents to allow proper settling of cultures prior to matrigel polymerization."
+            },
+            {
+                "title": "59.",
+                "body": "Avoid bubbles in all mixtures to avoid disruption of 3D structures; this is best done by very gentle mixing by pipetting up and down to first stop only."
+            },
+            {
+                "title": "60.",
+                "body": "Mix 5k epithelial cells with 50k fibroblasts in a total volume of 45ul MTEC/Plus or SAGM \\(without Rock inhibitor) per well; we generally make a master mix of all cells at this ratio for the number of wells needed, and mix well before the addition of matrigel."
+            },
+            {
+                "title": "61.",
+                "body": "Add 45ul of matrigel per well to cell mixture; final concentration is 1:1 media to matrigel; after addition of matrigel gently mix without introducing air."
+            },
+            {
+                "title": "62.",
+                "body": "Pipet 90ul final mixture into each well of 24 well transwell insert. Pipet into middle of insert, avoid bubbles, and try to get a smooth and even covering of insert."
+            },
+            {
+                "title": "63.",
+                "body": "Work quickly, and fill all desired inserts; we leave the mixture on ice during pipetting but have not needed to use chilled pipet tips if working quickly and using cold reagents."
+            },
+            {
+                "title": "64.",
+                "body": "After filling all inserts, place plate at 37C for 10-15 minutes; warm MTEC/Plus or SAGM supplemented with Rock inhibitor \\(10uM, see above) during this time."
+            },
+            {
+                "title": "65.",
+                "body": "Add 500ul SAGM media into the bottom chamber of the transwell plate; we do not add media on top of the transwell cultures."
+            },
+            {
+                "title": "66.",
+                "body": "Place plate at 37OC, 5% CO2 for incubation.\r\n  \r\n\n\n_Maintenance of Organoid Cultures_"
+            },
+            {
+                "title": "67.",
+                "body": "We change media in the lower well every 48h, using SAGM or MTEC/Plus without Rock inhibitor starting on the first change. One can change every 72h but significantly slower growth has been observed in both mouse and human cultures under these conditions."
+            },
+            {
+                "title": "68.",
+                "body": "If treatment with small molecules or signaling factors is desired, we have had the best success with adding these after 48h to allow establishment of culture and addition of  fresh factor every 48h throughout experiment, but other methods may be possible."
+            },
+            {
+                "title": "69.",
+                "body": "We generally culture for 14-21d prior to analysis."
+            }
+        ]
+    }
+]

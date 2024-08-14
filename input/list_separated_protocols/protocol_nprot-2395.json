@@ -1,0 +1,34 @@
+[
+    {
+        "title": "1.",
+        "body": "Resuspend the cell pellet from 1 l of E. coli culture in Lysis Buffer \\(20 mM Tris-HCl, pH 8.0, 0.5 mM EDTA). Adapt the buffer volume to your French pressure cell."
+    },
+    {
+        "title": "2.",
+        "body": "Disrupt E. coli cells by passage through a French pressure cell \\(20,000 psi) and remove unbroken cells by centrifugation at 10,000g \\(4˚C, 10 min)."
+    },
+    {
+        "title": "3.",
+        "body": "Ultracentrifuge the supernatant at 100,000g \\(4˚C, 1 h)."
+    },
+    {
+        "title": "4.",
+        "body": "Resuspend and homogenize the pellet containing the E. coli membranes in Lysis Buffer and ultracentrifuge again."
+    },
+    {
+        "title": "5.",
+        "body": "Remove water-soluble proteins adhering to the membrane by homogenization in 20 mM Tris-HCl, pH 8.0, 300 mM NaCl and ultracentrifugation.\r\n  \r\n\n\nBreakpoint: Membrane pellet can be resuspended in 1 ml buffer without detergent and stored at -80 °C for months to years prior detergent solubilization."
+    },
+    {
+        "title": "6.",
+        "body": "Resuspend and solubilize the membrane pellet in 1% DDM, 20 mM Tris-HCl, pH 8.0, 300 mM NaCl, 10% glycerol, 0.01% NaN3 for 2 h at 4˚C under gentle agitation \\(final volume: 7 ml)."
+    },
+    {
+        "title": "7.",
+        "body": "Ultracentrifuge at 100,000g \\(4˚C, 50 min)."
+    },
+    {
+        "title": "8.",
+        "body": "The supernatant represents solubilized membranes, which can be used for purification of the His-tagged protein or SPA-binding experiments directly."
+    }
+]

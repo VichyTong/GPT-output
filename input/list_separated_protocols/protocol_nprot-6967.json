@@ -1,0 +1,123 @@
+[
+    "\nPlease see attached \"Detailed Protocol\":http://www.nature.com/protocolexchange/system/uploads/7013/original/Detailed_Protocol_rec-YnH.pdf?1533133123 for a full protocol.\r\n\n\n\r\n\n\nPARTS OF THE PROTOCOL\r\n\n\nPlease see Figure 1 for a \"Workflow Overview\":http://www.nature.com/protocolexchange/system/uploads/7059/original/Figure_1.pdf?1533558364\r\n\n\n\r\n\n\nPart I. Bait and Prey library preparation \r\n\n\n\r\n\n\n Step",
+    {
+        "title": "1.",
+        "body": "Batch Gateway cloning of ORF library into pDEST vectors\r\n\n\n \r\n\n\nPart II. Bait and Prey library fusion & Selection in liquid gel\r\n\n\n\r\n\n\n Step"
+    },
+    {
+        "title": "2.",
+        "body": "Competent yeast\r\n\n\n Step"
+    },
+    {
+        "title": "3.",
+        "body": "Linearization\r\n\n\n Step"
+    },
+    {
+        "title": "4.",
+        "body": "Batch yeast transformation\r\n\n\n Step"
+    },
+    {
+        "title": "5.",
+        "body": "Growth in liquid-gel selection media\r\n\n\n\r\n\n\nPart III. NGS library preparation \r\n\n\n\r\n\n\n Step"
+    },
+    {
+        "title": "6.",
+        "body": "Harvest yeast\r\n\n\n Step"
+    },
+    {
+        "title": "7.",
+        "body": "Yeast library DNA isolation\r\n\n\n Step"
+    },
+    {
+        "title": "8.",
+        "body": "Covaris shearing\r\n\n\n Step"
+    },
+    {
+        "title": "9.",
+        "body": "Circularisation\r\n\n\n Step"
+    },
+    {
+        "title": "10.",
+        "body": "R1/R2 PCR\r\n\n\n Step"
+    },
+    {
+        "title": "11.",
+        "body": "P5/P7 PCR\r\n\n\n\r\n\n\nPart IV. Paired-end sequencing \r\n\n\n\r\n\n\n Step"
+    },
+    {
+        "title": "12.",
+        "body": "Library quality control and paired-end MiSeq\r\n\n\n Step"
+    },
+    {
+        "title": "13.",
+        "body": "Analysis \r\n\n\n\r\n\n\n\r\n\n\nPROTOCOL AT A GLANCE, DAY BY DAY\r\n\n\n\r\n\n\nDAY 1\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "1.",
+        "body": "Batch Gateway cloning of ORF library into pDEST vectors \r\n\n\n- Prepare pool of pENTR-ORF clones at 10 nM\r\n\n\n- Prepare pDEST for Bait and Prey at 10 nM\r\n\n\n- Set up LR reactions\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "2.",
+        "body": "Prepare competent yeast \r\n\n\n- Streak Y2HGold on a YPDA plate\r\n\n\n\r\n\n\nDAY 2\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "1.",
+        "body": "Batch Gateway cloning of ORF library into pDEST vectors \r\n\n\n- Continue LR reaction\r\n\n\n- Transform LR reaction into NEB stable cells\r\n\n\n- Plate on LB-Agar with corresponding antibiotic\r\n\n\n\r\n\n\nDAY 3\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "1.",
+        "body": "Batch Gateway cloning of ORF library into pDEST vectors \r\n\n\n- Colony counting\r\n\n\n- Harvest colonies from LB-Agar plates\r\n\n\n- Qiaprep DNA prep of Bait and Prey pDEST-ORF pool \r\n\n\n \r\n\n\nStep"
+    },
+    {
+        "title": "2.",
+        "body": "Competent yeast\r\n\n\n- Grow 1 colony of Y2HGold during 8 hours\r\n\n\n- Transfer to 50 ml YPDA media\r\n\n\n- Grow overnight\r\n\n\n \r\n\n\nStep"
+    },
+    {
+        "title": "3.",
+        "body": "Linearization\r\n\n\n- Digest Bait and Prey pDEST-ORF pool with I-SceI/I-CeuI\r\n\n\n- Heat inactivation\r\n\n\n\r\n\n\nDAY 4\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "2.",
+        "body": "Competent yeast \r\n\n\n- Transfer yeast to 100 ml YPDA\r\n\n\n- Grow yeast to OD 0.5\r\n\n\n- Wash cells \r\n\n\n- Resuspend in TE/LiAc\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "4.",
+        "body": "Batch yeast transformation \r\n\n\n- Prepare Seaprep liquid-gel selection media\r\n\n\n- Multiple transformations of yeast with linear Bait and Prey pDEST-ORF pool\r\n\n\n- Pool together all transformations \r\n\n\n- Plate dilutions for colony counting\r\n\n\n\r\n\n\n \r\n\n\nStep"
+    },
+    {
+        "title": "5.",
+        "body": "Growth in selection media\r\n\n\n- Add transformations to liquid-gel selection media\r\n\n\n- 1 hour on ice\r\n\n\n- Grow at 30ºC for 60 hours\r\n\n\n\r\n\n\nDAY 7 \r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "6.",
+        "body": "Harvest yeast\r\n\n\n- Colony counting\r\n\n\n- Centrifuge liquid-gel selection media with yeast colonies\r\n\n\n- Wash and resuspend in PBS\r\n\n\n- OD660 to calculate concentration of cells\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "7.",
+        "body": "Yeast library DNA isolation\r\n\n\n- For each selection media, Zymoprep™ Yeast Plasmid Miniprep of recombined Bait and Prey fragments \r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "8.",
+        "body": "Covaris shearing\r\n\n\n- Shear DNA to 1,500-bp fragments\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "9.",
+        "body": "Circularisation\r\n\n\n- End repair\r\n\n\n- Mini Elute DNA purification\r\n\n\n- Ligation\r\n\n\n- Heat inactivation\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "10.",
+        "body": "R1/R2 PCR \r\n\n\n- 12 PCR cycles with Q5 polymerase \r\n\n\n- Purification with AMPure beads \r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "11.",
+        "body": "P5/P7 PCR\r\n\n\n- 12 PCR cycles with Q5 polymerase and NEBNext® Multiplex Oligos for Illumina\r\n\n\n- Purification with AMPure beads \r\n\n\n\r\n\n\nDAY 8 onwards\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "12.",
+        "body": "Paired-end sequencing\r\n\n\n- Library quality control\r\n\n\n- MiSeq run\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "13.",
+        "body": "Analysis"
+    }
+]

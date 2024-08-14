@@ -1,0 +1,246 @@
+[
+    {
+        "title": "**Cell lysis**",
+        "body": [
+            "_Erythrocytes_:",
+            {
+                "title": "1.",
+                "body": "Spin down freshly drawn blood at 500 g for 10 min"
+            },
+            {
+                "title": "2.",
+                "body": "Discard plasma and buffy coat"
+            },
+            {
+                "title": "3.",
+                "body": "Wash erythrocytes 3 x in PBS"
+            },
+            {
+                "title": "4.",
+                "body": "Lyse erythrocytes with addition of 3x volume of ACK lysing buffer \\(leading to 4 x original volume), add 1x protease inhibitor \\(PI)"
+            },
+            {
+                "title": "5.",
+                "body": "Nutate lysate at 4 °C for 10 min, spin down at 14,000 g for 10 min \\(pellet contains organelles and membranes and can be discarded), take aliquot \r\n  \r\n\n\n_3D5 cells_:"
+            },
+            {
+                "title": "1.",
+                "body": "Everything is done quickly on ice"
+            },
+            {
+                "title": "2.",
+                "body": "Aspirate medium"
+            },
+            {
+                "title": "3.",
+                "body": "Depending on confluence and size of dish , add 200-100 µl PBS \\(higher confluence, higher volume) + PI"
+            },
+            {
+                "title": "4.",
+                "body": "Scrape plates"
+            },
+            {
+                "title": "5.",
+                "body": "Wash 3 times with PBS + PI \\(meaning spinning cells down for 5 min at 3000 rpm, resuspend in 1 ml PBS + PI and repeat)"
+            },
+            {
+                "title": "6.",
+                "body": "Last washing step: Take up in desired volume PBS + PI \\(to get desired concentration, higher amount of cells leaving to higher amount of PBS + PI)"
+            },
+            {
+                "title": "7.",
+                "body": "Sonicate each sample 3 x 15 s, using micro tip sonicator \\(Fischer Sonic Dismembrator Model 300)  Lysate is placed on ice between each run"
+            },
+            {
+                "title": "8.",
+                "body": "Samples are centrifuged 10 min at 14000g to pellet nuclei, cell debris and mitochondria"
+            },
+            {
+                "title": "9.",
+                "body": "Supernatant is transferred to new cups, pellet is discarded"
+            }
+        ]
+    },
+    {
+        "title": "**Ammonium sulfate precipitation**",
+        "body": [
+            ":",
+            {
+                "title": "1.",
+                "body": "Add 25% \\(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> SLOWLY at 4 °C \\(calculation via http://www.encorbio.com/protocols/AM-SO4.htm)"
+            },
+            {
+                "title": "2.",
+                "body": "stir lysate for 1 h at  4 °C"
+            },
+            {
+                "title": "3.",
+                "body": "Spin down sample at 20,000 g for 20 min"
+            },
+            {
+                "title": "4.",
+                "body": "Keep supernatant, take aliquot"
+            },
+            {
+                "title": "5.",
+                "body": "Discard pellet, take aliquot"
+            },
+            {
+                "title": "6.",
+                "body": "Bring up the supernatant rom 25% to 50% \\(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, by SLOWLY adding at 4 °C \\(calculation via http://www.encorbio.com/protocols/AM-SO4.htm)"
+            },
+            {
+                "title": "7.",
+                "body": "Stir lysate for 1 h at  4 °C"
+            },
+            {
+                "title": "8.",
+                "body": "Spin sample down at 20,000 g for 20 min"
+            },
+            {
+                "title": "9.",
+                "body": "Discard supernatant take aliquot"
+            },
+            {
+                "title": "10.",
+                "body": "Only for erythrocyte lysate: Wash pellet 5-10x with 55% \\(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> in dd water, \\(calculation via http://www.encorbio.com/protocols/AM-SO4.htm), until red color of sup is mostly gone. Washing means nutating the pellet in 55% \\(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> for 10 min at 4 °C, then spinning it down at at 20,000 g for 20 min, keeping the pellet and discarding the supernatant."
+            },
+            {
+                "title": "11.",
+                "body": "Bring washed pellet up in respective chromatography binding buffer \\(see below) by nutating it  for 1 h at  4 °C"
+            },
+            {
+                "title": "12.",
+                "body": "Spin sample own at 20,000 g for 20 min, discard pellet"
+            },
+            {
+                "title": "13.",
+                "body": "Filter supernatant sequentially trough Whatman filter paper and 0.2 µM sterile filter. After filtering, take aliquot"
+            }
+        ]
+    },
+    {
+        "title": "**Bulk purification**",
+        "body": [
+            "_Hydrophobic Interaction Chromatography \\(Äktapurifier and HiTrap Phenyl HP 5 ml)_",
+            {
+                "title": "1.",
+                "body": "Running buffer: 50 mM phosphate, pH 7.0, 1 M \\(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>. Elution buffer: 50 mM phosphate, pH 7.0"
+            },
+            {
+                "title": "2.",
+                "body": "Equilibrate HiTrap Phenyl HP 5 ml \\(GE Healthcare) with binding buffer"
+            },
+            {
+                "title": "3.",
+                "body": "Inject erythrocyte lysate after \\(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> precipitation with 0.5 ml/min flow rate until UV absorption is stable. Collect flow through for analysis"
+            },
+            {
+                "title": "4.",
+                "body": "Elution of protein: Pressure Limit 0,30 MPa, Flow Rate 1,5 ml/min, Fraction Size 1,5 ml, linear gradient 0% to 100% elution buffer for 15 CV. Collect all fractions, take aliquots for analysis"
+            },
+            {
+                "title": "5.",
+                "body": [
+                    "Wash column with MilliQ water  \\(to UV-Absorption =",
+                    {
+                        "title": "0)",
+                        "body": "to reactivate column"
+                    }
+                ]
+            },
+            {
+                "title": "6.",
+                "body": "System, sample loop and column can be washed with 1 x dd water, 1 x 44% formic acid, 1 x dd water in case excess hemoglobin could not be removed"
+            },
+            {
+                "title": "7.",
+                "body": "Analyze fractions via Western blotting for α-Synuclein and Hemoglobin"
+            },
+            {
+                "title": "8.",
+                "body": "Pool α-Synuclein positive / Hemoglobin negative fractions and concentrate using centrifugal filters \r\n  \r\n\n\n\r\n\n\n_Anion Exchange Chromatography \\(Äktapurifier and HitrapQ HP 5ml)_:"
+            },
+            {
+                "title": "1.",
+                "body": "Equilibrate column with binding buffer  \\(20 mM Tris, 25 mM NaCl, pH 8.0)"
+            },
+            {
+                "title": "2.",
+                "body": "Let sample \\(erythrocyte lysate after \\(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> precipitation) run trough column at flow rate of 0.5 ml/min until UV absorption is stable, collect flow-trough"
+            },
+            {
+                "title": "3.",
+                "body": "Elute sample at a flow rate of 1,5 ml/min, Fraction Size 1,5 ml, linear gradient for 10 CV from 0% to 100% elution buffer"
+            },
+            {
+                "title": "4.",
+                "body": [
+                    "Wash column with 1 M NaOH  \\(to UV-Absorption =",
+                    {
+                        "title": "0)",
+                        "body": "to completely elute any remaining protein"
+                    }
+                ]
+            },
+            {
+                "title": "5.",
+                "body": "Analyze fractions via Western blotting for α-Synuclein and Transthyretin"
+            },
+            {
+                "title": "8.",
+                "body": "Pool α-Synuclein positive / Transthyretin negative fractions and concentrate using centrifugal filters \r\n  \r\n\n\n\r\n\n\n_Covalent Chromatography \\(Äktapurifier and Thiopropyl Sepharose 6B packed in a 150 ml XK 16/100 column)_:"
+            },
+            {
+                "title": "1.",
+                "body": "Equilibrate column with PBS"
+            },
+            {
+                "title": "2.",
+                "body": "Load erythrocyte lysate after \\(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> precipitation on Sepharose 6B column, flow 0.2 ml/min, keep flow-trough \\(contains α-Synuclein)"
+            },
+            {
+                "title": "3.",
+                "body": "Sample is concentrated using Centricon Plus 70 to approx. 10 ml \\(avoid concentrating it too much since it will cause aggregation). Take aliquot"
+            },
+            {
+                "title": "4.",
+                "body": "Elute column with 5 column volumes of 25 mM DTT in PBS, flow rate 2.5 ml/min"
+            },
+            {
+                "title": "5.",
+                "body": "Equilibrate column with borate buffer pH 8.0 + 1 mM EDTA, flow rate 2.5 ml/min"
+            },
+            {
+                "title": "6.",
+                "body": "Mix 320 mg dipyridyl disuphide with 400 ml borate buffer, stir at 4 C for 4h  and filter \\(0.2 µm)"
+            },
+            {
+                "title": "7.",
+                "body": "Eluted column with the borate/dipyridil sulfide mixture for 2 CV at 1 ml/min"
+            },
+            {
+                "title": "8.",
+                "body": "Wash column with 5 CV 20% EtOH"
+            }
+        ]
+    },
+    {
+        "title": "**Size Exclusion Chromatography \\(Superdex 200 10/300 GL)**",
+        "body": [
+            ":",
+            {
+                "title": "1.",
+                "body": "Equilibrate column with 50 mM NH<sub>4</sub>Ac pH 8.5"
+            },
+            {
+                "title": "2.",
+                "body": "Inject 250 ul of α-Synuclein positive concentrated fractions, collect fractions at flow rate 0.8 ml/min"
+            },
+            {
+                "title": "3.",
+                "body": "Freeze/lyophilize peak fractions, take aliquot"
+            }
+        ]
+    }
+]

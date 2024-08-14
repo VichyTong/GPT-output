@@ -1,0 +1,257 @@
+[
+    "\nFor general handling instructions refer to the section Materials, the general working recommendations as well as to the respective kit protocols. Storage conditions are described in \"Table 2\":http://www.nature.com/protocolexchange/system/uploads/6417/original/Table2.pdf?1518707766. Regarding safety precautions for specific kit components see \"Table 3\":http://www.nature.com/protocolexchange/system/uploads/6419/original/Table3.pdf?1518707795. Timing refers to the simultaneous processing of 24 samples.",
+    {
+        "title": "1.",
+        "body": "Pre-heat a thermomixer or heated orbital incubator to 56 °C. If a thermomixer or heated orbital incubator is not available, a heating block or water bath can be used instead."
+    },
+    {
+        "title": "2.",
+        "body": "Using a scalpel, trim excess paraffin off the sample block."
+    },
+    {
+        "title": "3.",
+        "body": "Cut one to two sections \\(5 µm thick) from a histologically confirmed tumor tissue block to reach at least 100 mm² tumor surface. Troubleshooting. Critical step: if the sample surface has been exposed to air, discard the first 2-3 sections."
+    },
+    {
+        "title": "4.",
+        "body": "Immediately place the sections in a 1.5 or 2 ml microcentrifuge tube."
+    },
+    {
+        "title": "5.",
+        "body": [
+            "FFPE section deparaffinization can be performed using A) Deparaffinization Solution \\(see steps 6 to 16), or B) xylene-ethanol, or histolemon-ethanol \\(see steps 17 to",
+            {
+                "title": "26).",
+                "body": "A) Deparaffinization using deparaffinization solution\r\n\n\nTiming: 154 min or overnight."
+            }
+        ]
+    },
+    {
+        "title": "6.",
+        "body": "Add 160 µl Deparaffinization Solution \\(Caution: Irritating) and vortex vigorously for 10 seconds."
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge briefly to collect the sample in the bottom of the tube."
+    },
+    {
+        "title": "8.",
+        "body": "Incubate at 56°C for 3 min, then allow to adjust to room temperature \\(15–25°C)."
+    },
+    {
+        "title": "9.",
+        "body": "Add 180 µl Buffer ATL \\(Caution: Irritating) and mix by vortexing."
+    },
+    {
+        "title": "10.",
+        "body": "Centrifuge for 1 min at 11,000 x g. Two phases appear \\(blue and clear)."
+    },
+    {
+        "title": "11.",
+        "body": "Add 20 µl proteinase K \\(Caution: Irritating) to the lower, clear phase by pushing the pipet through the upper phase. Mix gently by pipetting up and down."
+    },
+    {
+        "title": "12.",
+        "body": "Incubate at 56°C ± 3°C for ≥1 hr \\(or until the sample has completely lysed). Pause Point: incubation can also take place overnight."
+    },
+    {
+        "title": "13.",
+        "body": "Critical step: Incubate at 90°C ± 5°C for 1 hr ± 5 min.\r\n   Note: If using only one heating block, leave the sample at room temperature \\(15–25°C) after the 56°C incubation, until the heating block has reached 90°C.\r\n\n\n Troubleshooting: The incubation at 90°C in Buffer ATL partially reverses formaldehyde modification of nucleic acids. Longer incubation times or higher incubation temperatures may result in more fragmented DNA."
+    },
+    {
+        "title": "14.",
+        "body": "Briefly centrifuge the 1.5 ml tube to remove drops from inside the lid."
+    },
+    {
+        "title": "15.",
+        "body": "Transfer the lower clear phase into a new 2 ml microcentrifuge tube. Note: Do not transfer any blue phase."
+    },
+    {
+        "title": "16.",
+        "body": "Continue with step"
+    },
+    {
+        "title": "27.",
+        "body": "B) Deparaffinization using xylene-ethanol or histolemon-ethanol\r\n\n\nTiming: 202 min or overnight."
+    },
+    {
+        "title": "17.",
+        "body": "Add 1 ml xylene \\(Caution: harmful) or histolemon \\(Caution: irritating) to the sample. Close the lid and vortex vigorously for ≥10 secs. Centrifuge at full speed for 2 mins ± 30 seconds at room temperature."
+    },
+    {
+        "title": "18.",
+        "body": "Remove the supernatant by pipetting. Do not remove any of the pellet."
+    },
+    {
+        "title": "19.",
+        "body": "Add 1 ml ethanol \\(96–100%) to the pellet, and mix by vortexing. The ethanol extracts residual xylene from the sample."
+    },
+    {
+        "title": "20.",
+        "body": "Centrifuge at full speed for 2 mins ± 30 seconds at room temperature."
+    },
+    {
+        "title": "21.",
+        "body": "Remove the supernatant by pipetting. Do not remove any of the pellet."
+    },
+    {
+        "title": "22.",
+        "body": "Critical step: Carefully remove any residual ethanol using a small pipet tip \\(e.g. 200 µl tips)."
+    },
+    {
+        "title": "23.",
+        "body": "Critical step: Open the tube and incubate at 15–40°C. Incubate for 10 min ± 1 min or until all residual ethanol has evaporated."
+    },
+    {
+        "title": "24.",
+        "body": "Re-suspend the pellet in 180 µl Buffer ATL. Add 20 µl proteinase K, and mix by vortexing. Incubate at 56°C ± 3°C for ≥1 hr \\(or until the sample has been completely lysed). \r\n   Pause Point: incubation can also take place overnight."
+    },
+    {
+        "title": "25.",
+        "body": "Critical step: incubate at 90°C ± 5°C for 1 hr ± 5 min.\r\n  Note: If using only one heating block, leave the sample at room temperature \\(15–25 °C) after the 56°C incubation, until the heating block has reached 90 °C. The incubation at 90°C in Buffer ATL partially reverses formaldehyde modification of nucleic acids. Longer incubation times or higher incubation temperatures may result in more fragmented DNA."
+    },
+    {
+        "title": "26.",
+        "body": "Briefly centrifuge the 1.5 ml tube to remove drops from the inside lid. \r\n  \r\n\n\nClean-up of proteinase K digestion sample\r\n\n\nTiming: 75 min."
+    },
+    {
+        "title": "27.",
+        "body": "Add 200 µl Buffer AL \\(Caution: Harmful) to the sample and mix thoroughly by vortexing. Then, add 200 µl ethanol \\(96–100%), and mix again thoroughly by vortexing. Critical step: it is essential that the sample, Buffer AL, and ethanol are mixed immediately and thoroughly by vortexing or pipetting to yield a homogeneous solution. Buffer AL and ethanol can be premixed and added together in one step to save time when processing multiple samples. A white precipitate may form by addition of Buffer AL and ethanol. This precipitate does not interfere with the QIAamp procedure."
+    },
+    {
+        "title": "28.",
+        "body": "Briefly centrifuge the tube to remove drops from the inside of the lid."
+    },
+    {
+        "title": "29.",
+        "body": "Critical step: carefully transfer the entire lysate to the QIAamp MinElute® column \\(in a 2 ml collection tube) without wetting the rim, close the lid, and centrifuge at approximately 6000 x g for ≥ 1 min. Place the QIAamp MinElute column in a clean 2 ml collection tube, and discard the collection tube containing the flow-through. If the lysate has not completely passed through the membrane after centrifugation, centrifuge again at a higher speed until the QIAamp MinElute column is empty."
+    },
+    {
+        "title": "30.",
+        "body": "Carefully open the QIAamp MinElute column and add 500 µl Buffer AW1 \\(Caution: harmful) without wetting the rim. Close the lid and centrifuge at approximately 6,000 x g for ≥1 min. Place the QIAamp MinElute column in a clean 2 ml collection tube, and discard the collection tube containing the flow-through."
+    },
+    {
+        "title": "31.",
+        "body": "Carefully open the QIAamp MinElute column and add 500 µl Buffer AW2 without wetting the rim. Close the lid and centrifuge at 6,000 x g for ~1 min. Place the QIAamp MinElute column in a clean 2 ml collection tube and discard the collection tube containing the flow-through. Contact between the QIAamp MinElute column and the flow-through should be avoided. Some centrifuge rotors may vibrate upon deceleration, resulting in the flow-through, which contains ethanol, coming into contact with the QIAamp MinElute column. Take care when removing the QIAamp MinElute column and collection tube from the rotor, so that flow-through does not come into contact with the QIAamp MinElute column."
+    },
+    {
+        "title": "32.",
+        "body": "Centrifuge at 20,000 x g for ~3 min to dry the membrane completely. This step is necessary, since ethanol carryover into the eluate may inhibit the qPCR reactions performed."
+    },
+    {
+        "title": "33.",
+        "body": "Place the QIAamp MinElute column in a clean 1.5 ml microcentrifuge tube, and discard the collection tube containing the flow-through. Carefully open the lid of the QIAamp MinElute column and apply 50 µl Buffer ATE to the center of the membrane."
+    },
+    {
+        "title": "34.",
+        "body": "Close the lid and incubate at room temperature \\(15–25°C) for 5 mins. Centrifuge at 20,000 x g for ≥1 min. \r\n  \r\n\n\nDNA concentration determination\r\n\n\nTiming: 25 min."
+    },
+    {
+        "title": "35.",
+        "body": "The concentration of DNA is determined by measuring absorbance at 260 nm following the instrument procedure using QIAGEN’s QIAxpert, for example \\(QIAamp plug-in: total nucleic acid measurement) or a NanoDrop instrument. Absorbance readings at 260 nm should fall between 0.1 and 1.0 to be accurate. An absorbance of 1 unit at 260 nm corresponds to 50 µg of DNA per ml \\(A260 = 1 = 50 µg/ml). The total amount of DNA purified \\(ng) = concentration of DNA \\(ng/µl) x volume of sample \\(µl). Note: if using the QIAamp plug-in, an internal ATE-blank spectrum is automatically subtracted from the OD values, so no additional blank ATE sample is required with this configuration. Ideally, a minimal gDNA concentration is 10 ng/µl but samples as low as 5 ng/µl may be processed with risk of “Low input” invalid results. Pause point: DNA samples can be stored at -20°C until further use.\r\n  \r\n\n\nBisulfite conversion and bisDNA \\(bisulfite converted DNA) cleanup\r\n\n\nTiming: 232 min."
+    },
+    {
+        "title": "36.",
+        "body": "Thaw DNA to be used in the bisulfite-conversion reactions. Make sure the Bisulfite Solution \\(Caution: irritant) is completely dissolved. Critical step: do not place dissolved Bisulfite Solution on ice."
+    },
+    {
+        "title": "37.",
+        "body": "Prepare the bisulfite reactions in 200 µl PCR tubes \\(not provided). Add each component in the order listed in \"Table 5\":http://www.nature.com/protocolexchange/system/uploads/6423/original/Table5.pdf?1518707899.\r\n  \r\n\n\nNote: The combined volume of DNA and RNase-free water must total 40 µl. \r\n\n\nTo determine the appropriate volume for the gDNA input of interest use the following formula: \r\n\n\ngDNA volume required for a bisulfite conversion \\(µl) = Input of interest \\(ng)/Average gDNA concentration \\(ng/µl). Critical step: when using the therascreen PITX2 RGQ PCR Kit, the “Low concentration” protocol from the EpiTect Fast Bisulfite Conversion Handbook must always be used, even with 1,000 ng input, as the concentration of gDNA purified from FFPE samples is usually low.\r\n\n\nCritical step: the bisulfite mix should be immediately vortexed for 5 sec after adding the DNA Protect Buffer \\(caution: reproductive toxicity, irritant) to protect samples from degradation. Troubleshooting."
+    },
+    {
+        "title": "38.",
+        "body": "Close the PCR tubes and mix immediately the bisulfite reactions thoroughly. Store the tubes at room temperature \\(15–25°C). \r\n   Critical step: DNA Protect Buffer should turn from green to blue after addition to the DNA-Bisulfite Solution mixture, indicating sufficient mixing and correct pH for the bisulfite conversion reaction, or DNA binding to the MinElute DNA spin column. Troubleshooting."
+    },
+    {
+        "title": "39.",
+        "body": "Perform the bisulfite DNA conversion using a thermal cycler. Program the thermal cycler according to \"Table 6\":http://www.nature.com/protocolexchange/system/uploads/6425/original/Table6.pdf?1518707922. The complete cycle should take ~30 min. If using a thermal cycler that does not allow to enter the reaction volume \\(140 µl), set the instrument to the largest volume setting available."
+    },
+    {
+        "title": "40.",
+        "body": "Place the PCR tubes containing the bisulfite reactions into the thermal cycler. Start the thermal cycling incubation. Critical step: because the bisulfite reaction is not overlaid with mineral oil, only thermal cyclers with heated lids are suitable for this procedure. It is important to use PCR tubes that close tightly. Pause Point: converted DNA can be left in the thermal cycler overnight without any loss of qPCR assay performance."
+    },
+    {
+        "title": "41.",
+        "body": "Briefly centrifuge the PCR tubes containing the bisulfite reactions. Then transfer the complete bisulfite reactions to clean 1.5 ml microcentrifuge tubes."
+    },
+    {
+        "title": "42.",
+        "body": "Add 310 µl Buffer BL \\(Caution: harmful) to each sample. Mix the solution by vortexing and then centrifuge briefly."
+    },
+    {
+        "title": "43.",
+        "body": "Add 250 µl ethanol \\(96–100 %) to each sample. Mix the solutions by pulse vortexing for 15 sec and centrifuge briefly to remove the drops from inside the lid."
+    },
+    {
+        "title": "44.",
+        "body": "Transfer the entire mixture from each tube into the corresponding MinElute DNA spin column."
+    },
+    {
+        "title": "45.",
+        "body": "Centrifuge the spin columns at maximum speed for 1 min. Discard the flow-through, and place the spin columns back into the collection tubes."
+    },
+    {
+        "title": "46.",
+        "body": "Add 500 µl Buffer BW \\(wash buffer) to each spin column, and centrifuge at maximum speed for 1 min. Discard the flow-through, and place the spin columns back into the collection tubes."
+    },
+    {
+        "title": "47.",
+        "body": "Add 500 µl Buffer BD \\(desulfonation buffer) to each spin column, and incubate for 15 min at room temperature \\(15–25°C). \\(Caution: corrosive) If there are precipitates in Buffer BD, avoid transferring them to the spin columns. Critical step: the bottle containing Buffer BD should be closed immediately after use to avoid acidification from carbon dioxide in the air. Note: it is important to close the lids of the spin columns before incubation. Troubleshooting"
+    },
+    {
+        "title": "48.",
+        "body": "Centrifuge the spin columns at maximum speed for 1 min. Discard the flow-through, and place the spin columns back into the collection tubes."
+    },
+    {
+        "title": "49.",
+        "body": "Add 500 µl Buffer BW to each spin column and centrifuge at maximum speed for 1 min. Discard the flow-through and place the spin columns back into the collection tubes.\r\n  50 Add 500 µl Buffer BW a second time to each spin column and centrifuge at maximum speed for 1 min. Discard the flow-through and place the spin columns back into the collection tube.\r\n\n\n51 Add 250 µl ethanol \\(96–100%) to each spin column and centrifuge at maximum speed for 1 min.\r\n\n\n52 Place the spin columns into new 2 ml collection tubes, and centrifuge the spin columns at maximum speed for 1 min to remove any residual liquid.\r\n\n\n53 Place the spin columns with open lids into a clean 1.5 ml microcentrifuge tube \\(not provided) and incubate the columns for 5 min at 60°C in a heating block. Critical step: this step ensures the evaporation of any remaining liquid.\r\n\n\n54 Add 15 µl Buffer EB \\(elution buffer) directly onto the center of each spin-column membrane and close the lids gently. Critical step: do not elute with less than 15 µl buffer as the eluate volume would be too small to proceed with the qPCR step. \r\n\n\n55 Incubate the spin columns at room temperature for 1 min.\r\n\n\n56 Centrifuge for 1 min at 15,000 x g \\(12,000 rpm) to elute the DNA. Pause point: we recommend storing purified DNA at 2–8°C for up to 24 hr. When storing purified DNA for longer than 24 hr, we recommend storage at –30 to –15°C.\r\n\n\n\r\n\n\nqPCR set up, run and analysis\r\n\n\nTiming: 105 min.\r\n\n\nThe therascreen PITX2 RGQ PCR Kit must be run on the Rotor-Gene Q MDx 5plex HRM instrument using automated interpretation of results with Rotor-Gene AssayManager v2.1. Take time to familiarize yourself with the Rotor-Gene Q MDx instrument and with the Rotor-Gene AssayManager v2.1 software before starting the protocol. See the respective user manuals for the instrument, Rotor-Gene AssayManager v2.1, and the Gamma Plug-in for details."
+    },
+    {
+        "title": "57.",
+        "body": "Cool a Loading Block 72 x 0.1 ml tubes for 10 min in a deep-freezer or for at least 1 hr at refrigerator temperature."
+    },
+    {
+        "title": "58.",
+        "body": "Thaw all therascreen PITX2 RGQ PCR Kit components and samples in a refrigerator, on ice, on a cooling block or at room temperature for as long as necessary."
+    },
+    {
+        "title": "59.",
+        "body": "Place the thawed products on ice, on a cooling block or in the refrigerator until placing them back into –30 to –15°C after use. Note: therascreen PITX2 RGQ PCR Kit components can be kept at 2–8°C and protected from light for maximum of 6 hr if used several times the same day."
+    },
+    {
+        "title": "60.",
+        "body": "Vortex the tubes \\(10–12 sec), then centrifuge them briefly before use. Except PITX2 RGQ PCR MMx, which is mixed by pipetting up and down as it contains Taq Polymerase."
+    },
+    {
+        "title": "61.",
+        "body": "Prepare PITX2 qPCR reaction mix on ice \\(or using a cooling block) in a 1.5 or 2 ml tube according to the number of samples to be processed.\r\n  \r\n\n\nThe pipetting scheme for the preparation of the PITX2 reaction mix, shown in \"Table 7\":http://www.nature.com/protocolexchange/system/uploads/6427/original/Table7.pdf?1518707942, is calculated to achieve final reaction volumes of 20 µl after addition of 4 µl bisDNA sample or control. Extra volume is included to compensate for pipetting errors and to allow preparation of sufficient reaction mix for four samples tested in duplicate, plus four controls. If less samples are tested, the reaction mix can be prepared accordingly. Remember to allow for the extra volume to compensate for pipetting errors \\(one extra well for up to 10 wells and two extra wells for up to 20 wells). Troubleshooting.\r\n\n\n62 Vortex \\(10–12 sec) and briefly centrifuge the PITX2 qPCR reaction mix. Place the qPCR strip tubes on a pre-cooled Loading Block 72 and dispense 16 µl of the PITX2 qPCR reaction mix per strip tube following the example of loading block setup shown in \"Figure 3\":http://www.nature.com/protocolexchange/system/uploads/6429/original/Figure3.pdf?1518707963.\r\n\n\nThe numbers denote positions in the loading block and indicate final rotor position. The positions of the controls are set in the PITX2 assay profile and cannot be changed. If controls are not placed as indicated, the automated result analysis cannot be performed. REF50: PITX2 RGQ PCR Reference 50; REFlow: PITX2 RGQ PCR Reference Low; NC: PITX2 RGQ PCR Negative Control, NTC: PITX2 RGQ PCR NTC \\(NTC); Sample 1 to 4: bisDNA samples, NA: empty well. Troubleshooting.\r\n\n\n63 Vortex \\(10–12 seconds) and briefly centrifuge bisDNA samples, PITX2 RGQ PCR Reference 50 \\(Ref50), PITX2 RGQ PCR Reference Low \\(RefLow), PITX2 RGQ PCR Negative Control \\(NC) and PITX2 RGQ PCR NTC \\(NTC). Troubleshooting.\r\n\n\n64 Add 4 µl sample or control material into its corresponding tube according to the setup in Figure 4 to obtain a total volume of 20 µl. Mix gently 5 times by pipetting up and down. Note: be careful to change tips between each tube to avoid false-positive results from contamination by any nonspecific template. Troubleshooting.\r\n\n\n65 Close all tubes and check that no bubbles are present at the bottom of the tubes. Troubleshooting.\r\n\n\n66 Return all the therascreen PITX2 RGQ PCR Kit components and samples to the appropriate storage conditions to avoid any material degradation. Pause point: it is highly recommended to start the run as soon as possible after the preparation, however, if the tubes are prepared but cannot be processed directly \\(due to instrument unavailability), it is possible to store the plate at 2–8°C and protected from light up to 24 hrs. Troubleshooting.\r\n\n\n67 Place a 72-Well Rotor on the Rotor-Gene Q MDx rotor holder.\r\n\n\n68 Fill the rotor with strip tubes previously prepared according to the assigned positions, starting at position"
+    },
+    {
+        "title": "1.",
+        "body": [
+            "Critical step: make sure the first tube is inserted into position 1 and the strip tubes are placed in the correct orientation and positions \\(important for run validity and traceability of sample). Always keep the four controls \\(REF50, REFlow, NC and NTC) in positions 1 to 4 so that gain optimization \\(performed on tube position",
+            {
+                "title": "1)",
+                "body": "is always performed on the same control sample. Make sure controls are loaded in the correct order for the automated analysis of the controls \\(an inversion of controls will invalidate the run by the PITX2 assay profile). Troubleshooting.\r\n\n\n69 Fill empty positions with empty, closed tubes to fill the rotor entirely.\r\n\n\n70 Attach the locking ring. \r\n\n\n71 Load the Rotor-Gene Q MDx instrument with the rotor and locking ring. Close the instrument lid.\r\n\n\nCreating a work list and starting the qPCR run\r\n\n\n72 Switch on the Rotor-Gene Q MDx instrument.\r\n\n\n73 Open the Rotor-Gene AssayManager software by clicking the icon: The Rotor-Gene AssayManager window opens, see \"Figure 4\":http://www.nature.com/protocolexchange/system/uploads/6431/original/Figure4.png?1518707982.\r\n\n\n\r\n\n\n74 Log in as a user with the “Operator” role in the closed mode. Click “OK“. The Rotor-Gene AssayManager screen opens \\(Figure"
+            },
+            {
+                "title": "5).",
+                "body": [
+                    "75 Check that the RGQ is correctly detected to the software before launching the run.\r\n\n\n76 Select the “Setup” tab. Note: The overall functionalities of the Setup environment and of “Creating/Editing a Work List” are described in the Rotor-Gene AssayManager v2.1 Core Application User Manual.\r\n\n\n77 Click “New work list” \"Figure 5\":http://www.nature.com/protocolexchange/system/uploads/6433/original/Figure5.png?1518708013.\r\n\n\n1  Setup tab. This tab allows managing or applying work lists.\r\n\n\n2  Check applied work lists. Shows new work lists only. An “applied work list” was already performed.\r\n\n\n3  Approval tab. This tab enables you to find previous experiments.\r\n\n\n4  Archive tab. Allows you to find old experiments that were already approved.\r\n\n\n5  Service Tab. Shows a report of an audit trail of each file generated by the software.\r\n\n\n6  Configuration tab. Allows configuration of all software parameters.\r\n\n\n7  Rotor-Gene Q MDx \\(RGQ) icons: \"Figure 5a\":http://www.nature.com/protocolexchange/system/uploads/6435/original/Figure5a.png?1518708066.\r\n\n\n\r\n\n\n78 Select the PITX2 assay profile from the list of available assay profiles \"Figure 6\":http://www.nature.com/protocolexchange/system/uploads/6437/original/Figure6.png?1518708090.\r\n\n\n79 Transfer the selected assay profile to the list of selected assay profiles by clicking on the arrow \\(to the right of the assay profile name). The assay profile should now be displayed in the selected assay profiles list \"Figure 6\":http://www.nature.com/protocolexchange/system/uploads/6437/original/Figure6.png?1518708090.\r\n\n\n80 In the “Assays” tab, complete the yellow fields: number of samples in accordance with your plate setup \"Figure 7\":http://www.nature.com/protocolexchange/system/uploads/6439/original/Figure7.png?1518708109. Note: the number of samples does not correspond to the number of wells and does not include controls. Samples are tested in duplicates; therefore, one sample corresponds to two wells. For example, the number of samples to be inserted is 4 for the plate of 12 wells presented in \"Figure 3\":http://www.nature.com/protocolexchange/system/uploads/6429/original/Figure3.pdf?1518707963.\r\n\n\n\r\n\n\n81 Select the “Kit Information” tab. Insert the kit information by either selecting “Use kit bar code” \\(and scan the bar code) or selecting “Enter kit information manually” and inserting manually the kit information found on the label of the therascreen PITX2 RGQ PCR Kit box:",
+                    {
+                        "title": "1)",
+                        "body": "Material number"
+                    },
+                    {
+                        "title": "2)",
+                        "body": "Expiry date"
+                    },
+                    {
+                        "title": "3)",
+                        "body": "Lot number\r\n\n\n82 Select the “Samples” tab. A list with the sample details is shown. This list represents the expected layout of the rotor.\r\n\n\n83 Enter the sample identification as well as any optional sample information as a comment for each sample \"Figure 8\":http://www.nature.com/protocolexchange/system/uploads/6441/original/Figure8.png?1518708131.\r\n\n\n84 Select “Properties” and enter a work list name \"Figure 9a\":http://www.nature.com/protocolexchange/system/uploads/6443/original/Figure9.png?1518708150. \r\n\n\n85 Enable the check box “worklist is complete \\(can be applied)” and see \"Figure 9b:http://www.nature.com/protocolexchange/system/uploads/6443/original/Figure9.png?1518708150.\r\n\n\n86 Save the work list \"Figure 9c\":http://www.nature.com/protocolexchange/system/uploads/6443/original/Figure9.png?1518708150. Optional: press “Print work list” to print the work list. Printing the work list may help with the preparation and setup of the run. The sample details are included as part of the work list.\r\n\n\n87 Select the corresponding work list from the work list manager and click “Apply” \"Figure 9d\":http://www.nature.com/protocolexchange/system/uploads/6443/original/Figure9.png?1518708150. Alternatively, if the work list is still open, click “Apply”. Note: check that the Rotor-Gene Q MDx is correctly detected by the software before launching the run.\r\n\n\n88 Enter the experiment name.\r\n\n\n89 Select the cycler to be used in “Cycler Selection”.\r\n\n\n90 Check that the locking ring is correctly attached and confirm on the screen that the locking ring is attached.\r\n\n\n91 Click “Start run”. The qPCR run should start. Troubleshooting.\r\n\n\nRelease and report qPCR results\r\n\n\nThe general functionality of the approval environment is described in the Rotor-Gene AssayManager v2.1 Gamma Plug-in User Manual. After a run has been finished and the cycler has been released, the experiment will be saved in the internal database. The analysis of the acquired data is performed automatically according to the rules and parameter values defined by the assay profile.\r\n\n\n92 When the run has finished, click on “Finish run” to analyze and export data. Critical step: until this step is completed, the experiment is not saved in the internal database.\r\n\n\n93 After clicking “Finish run”, enter the password and click “Release and go to approval” \"Figure 10\":http://www.nature.com/protocolexchange/system/uploads/6445/original/Figure10.png?1518708198.\r\n\n\n\r\n\n\n• For users logged in with the “Approver” role, click “Release and go to approval”. \r\n\n\n• For users logged in with the “Operator” role, click “Release”. \r\n\n\n• If “Release and go to approval” was clicked, the results for the experiment are displayed in the “Approval” environment.\r\n\n\n• If “Release” was clicked by a user with the “Operator” role, someone with an “Approver” role must log in and select the “Approval” environment. Note: in the “Approval” tab, experiments can be analyzed by shifting between each tab \\(i.e., experiment, assay, audit, trail, run control results).\r\n\n\n\r\n\n\n94 Check the amplification curves for each sample, tick the first box on the right side of the “flags” column \\(the box becomes green) \"Figure 11\":http://www.nature.com/protocolexchange/system/uploads/6447/original/Figure11.png?1518708218. Troubleshooting\r\n\n\n\r\n\n\n95 Click “Release/report data” \\(at the bottom right of the window) to create a .pdf report and to save the LIMS file. \\(a copy is automatically saved in C:\\Documents andsettings\\AllUsers\\Documents\\QIAGEN\\RotorGeneAssayManager\\Export\\Reports).\r\n\n\n96 Close the pdf file and return to the Rotor-Gene AssayManager. Click “OK” each time it is asked.\r\n\n\n97 Go to the “Archive” tab to export the .rex file \"Figure 12a\":http://www.nature.com/protocolexchange/system/uploads/6449/original/Figure12.png?1518708235. Check that “start date” and “end date” are correct \"Figure 12b\":http://www.nature.com/protocolexchange/system/uploads/6449/original/Figure12.png?1518708235 and click “apply filter”. \"Figure 12c\":http://www.nature.com/protocolexchange/system/uploads/6449/original/Figure12.png?1518708235 Select the experiment to export \"Figure 12d\":http://www.nature.com/protocolexchange/system/uploads/6449/original/Figure12.png?1518708235 then click on “Show assays” \"Figure 12e\":http://www.nature.com/protocolexchange/system/uploads/6449/original/Figure12.png?1518708235.\r\n\n\n\r\n\n\n98 Export the.rex file \\(the file is saved in C:\\Documents and settings\\AllUsers\\Documents \\QIAGEN\\RotorGeneAssayManager\\Export\\Experiments). Note: the software automatically generated a LIMS file in \r\n\n\nC:\\Documents and settings\\All Users\\Documents\\QIAGEN\\RotorGeneAssayManager\\Export\\LIMS\r\n\n\n99 Unload the Rotor-Gene Q MDx instrument and discard the strip tubes according to your local safety regulations."
+                    }
+                ]
+            }
+        ]
+    }
+]

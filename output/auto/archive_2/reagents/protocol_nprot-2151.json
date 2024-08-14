@@ -1,0 +1,46 @@
+[
+    {
+        "name": "rat 0",
+        "description": "Use thick gloves to take the rat out of cage "
+    },
+    {
+        "name": "rat 1",
+        "description": "And put it into a container with a lid."
+    },
+    {
+        "name": "rat 2",
+        "description": "Put the rat into a glass desiccator with vaporized halothane inside under the hood."
+    },
+    {
+        "name": "rat 3",
+        "description": "Watch carefully not to over-anesthetize the rat.\r\n  "
+    },
+    {
+        "name": "rat 4",
+        "description": "After the breathing rate of the rat slows down, take out the rat from the desiccator, and lay it on its ventral surface with its tail 90 degree towards the investigator on the operating board. \r\n  "
+    },
+    {
+        "name": "rat 5",
+        "description": "By pressing down with the thumb and forefinger just behind the eye and pulling back the skin, the eyeballs are made to protrude.\r\n  "
+    },
+    {
+        "name": "haparinzed hematocrit capillary tube 0",
+        "description": "A haparinzed hematocrit capillary tube \\(35 mm long) is positioned at the inner corner of the eye, beside the eyeball.\r\n  "
+    },
+    {
+        "name": "rat 6",
+        "description": "45 degree angle to the eye) is slid about 5 mm forward gently by twisting but firmly along the side of the orbit to the ophthalmic venous plexus \\(orbital sinus) which lies at the back of the orbit."
+    },
+    {
+        "name": "blood 0",
+        "description": "The blood vessels of the orbital sinus are extremely fragile and rupture on contact with the tube tip, allowing blood to drip into a collecting tube.\r\n  "
+    },
+    {
+        "name": "blood 1",
+        "description": "About 2 mL of blood at a time for a series bleeding for every two weeks is possible.\r\n  "
+    },
+    {
+        "name": "haparinzed hematocrit capillary tube 1",
+        "description": "After bleeding, capillary tube is removed, the eyelid used for bleeding is closed quickly, and some pressure on the eyeball is put with Kimwipes paper for 30 s.\r\n  "
+    }
+]

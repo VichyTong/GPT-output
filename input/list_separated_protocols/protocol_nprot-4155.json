@@ -1,0 +1,311 @@
+[
+    "\nPBMC isolation by Ficoll Hypaque gradient centrifugation",
+    {
+        "title": "1.",
+        "body": "recover the blood sample"
+    },
+    {
+        "title": "2.",
+        "body": "put 15 ml of Ficoll Hypaque in 50 ml falcon and carefully add 30 ml of blood"
+    },
+    {
+        "title": "3.",
+        "body": "repeat it for the whole blood sample"
+    },
+    {
+        "title": "5.",
+        "body": "centrifugate at 400G during 22 minutes without break at RT"
+    },
+    {
+        "title": "6.",
+        "body": "recover and pool the rings containing the PBMC in Baxter medium in 50 ml falcon"
+    },
+    {
+        "title": "7.",
+        "body": "wash and centrifugate at 200G during 13 minutes at 4°C to separate platelet"
+    },
+    {
+        "title": "8.",
+        "body": "recover the PBMC pellet in Baxter medium and count it at 1/100\r\n  \r\n\n\nMagnetic separation of Treg cells"
+    },
+    {
+        "title": "1.",
+        "body": "centrifugate the PBMC at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "2.",
+        "body": "incubate the PBMC with the anti-CD25 beads : 4.5 x 10^8 cells per ml were incubated with 50 µl of beads for 20 min at 4°C in Baxter medium"
+    },
+    {
+        "title": "3.",
+        "body": "wash and centrifugate at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "4.",
+        "body": "resuspend at 2 x 10^8 cells per ml in Baxter medium"
+    },
+    {
+        "title": "5.",
+        "body": "perform the MACS separation using LS column according to Miltenyi protocol"
+    },
+    {
+        "title": "6.",
+        "body": "recover the negative fraction \\(CD25- containing the Teff cells and APC) in a 50 ml falcon and the positive fraction \\(CD25+ containing the Treg cells) in a 5 ml falcon"
+    },
+    {
+        "title": "7.",
+        "body": "Count both fraction\r\n  Note : the protocol can be stopped at this step over night\r\n\n\n\r\n\n\nMagnetic separation of Teff cells"
+    },
+    {
+        "title": "1.",
+        "body": "centrifugate about 100-150M cells from the CD25- fraction at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "2.",
+        "body": "incubate them with the anti-CD4 beads : 1 x 10^8 cells per ml were incubated with 10 µl of beads for 20 min at 4°C in Baxter medium"
+    },
+    {
+        "title": "3.",
+        "body": "wash and centrifugate at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "4.",
+        "body": "resuspend at 2 x 10^8 cells per ml in Baxter medium"
+    },
+    {
+        "title": "5.",
+        "body": "perform the MACS separation using LS column according to Miltenyi protocol"
+    },
+    {
+        "title": "6.",
+        "body": "recover the negative fraction \\(CD25-CD4- containing the APC) in a 50mL falcon and the positive fraction \\(CD25-CD4+ containing the Teff cells) in a 5mL falcon"
+    },
+    {
+        "title": "7.",
+        "body": "Count both fraction\r\n  Note : Teff cells are frozen if they have to be used another day\r\n\n\n\r\n\n\nMagnetic separation and preparation of APC \\(if needed)"
+    },
+    {
+        "title": "1.",
+        "body": "centrifugate the CD25-CD4- fraction at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "2.",
+        "body": "incubate them with the anti-CD14 and anti-CD19 beads : 1 x 10^8 cells per ml were incubated with 10 µl of each bead type for 20 min at 4°C in Baxter medium"
+    },
+    {
+        "title": "3.",
+        "body": "wash and centrifugate at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "4.",
+        "body": "resuspend at 2 x 10^8 cells per ml in Baxter medium"
+    },
+    {
+        "title": "5.",
+        "body": "perform the MACS separation using LS column according to Miltenyi protocol"
+    },
+    {
+        "title": "6.",
+        "body": "recover the positive fraction \\(CD25-CD4-CD14+CD19+, containing the APC) in a 5mL falcon"
+    },
+    {
+        "title": "7.",
+        "body": "wash in culture medium and centrifugate at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "8.",
+        "body": "irradiate the APC at 50 Grey"
+    },
+    {
+        "title": "9.",
+        "body": "wash in culture medium and centrifugate at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "9.",
+        "body": "Count the APC fraction\r\n  \r\n\n\nFACS sorting of Treg cells"
+    },
+    {
+        "title": "1.",
+        "body": "centrifugate the CD25+ fraction at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "2.",
+        "body": "incubate the pellet at 5 x 10^7 cells per ml during 20 minutes at 4°C with the following antibodies :\r\n  anti-CD4 PerCP \\(1/20)\r\n\n\nanti-CD25 PE \\(1/20)\r\n\n\nanti-CD127 BV451 \\(1/40)\r\n\n\nanti-CD45RA PE-Cyanine7 \\(1/10)"
+    },
+    {
+        "title": "3.",
+        "body": "wash and centrifugate at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "4.",
+        "body": "resuspend the pellet at 20 x 10^6 cells per ml, filter the solution and tranfer it in a 5 ml FACS tube"
+    },
+    {
+        "title": "5.",
+        "body": "Sort the Treg cells using Aria accordingly :\r\n  CD4+CD25+IL-7Ra-CD45RA+ for naive Treg cells\r\n\n\nCD4+CD25+IL-7Ra-CD45RA- for memory Treg cells"
+    },
+    {
+        "title": "6.",
+        "body": "after sorting, wash in PBS and centrifugate Treg cells at 400G during 10 minutes at 4°C"
+    },
+    {
+        "title": "7.",
+        "body": "wash the cells with culture medium and transfer them in eppendorf tube"
+    },
+    {
+        "title": "8.",
+        "body": "centrifugate at 300G during 5 minutes"
+    },
+    {
+        "title": "9.",
+        "body": "count both fraction\r\n  Note : from this point Treg cells can be used for suppressive assay or preincubation\r\n\n\n\r\n\n\nTreg cell preincubation \\(if needed)"
+    },
+    {
+        "title": "1.",
+        "body": "count and resuspend the cells at 1-3 x 10^5 cells per 300 ul"
+    },
+    {
+        "title": "2.",
+        "body": "prepare a solution of IL-2 concentrate 5X at 1500 UI/ml \\(300 UI/ml final)"
+    },
+    {
+        "title": "3.",
+        "body": "prepare a solution of TNF concentrate 5X at 250 ng/ml \\(50 ng/ml)"
+    },
+    {
+        "title": "4.",
+        "body": "distribute 300 ul of Treg cells in a 48-well plates"
+    },
+    {
+        "title": "5.",
+        "body": "add 100 ul of the IL-2 or/and the TNF to complete to 500 ul"
+    },
+    {
+        "title": "6.",
+        "body": "incubate at 37°C during 20h to 72h\r\n  \r\n\n\nCFSE labelling of the Teff cells"
+    },
+    {
+        "title": "1.",
+        "body": "wash the Teff cells in PBS and centrifugate them at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "2.",
+        "body": "repeat the step"
+    },
+    {
+        "title": "1.",
+        "body": ""
+    },
+    {
+        "title": "3.",
+        "body": "incubate the Teff cells with 1 uM CFSE at 1 x 10^7 cells per ml in PBS during 5 minutes at RT"
+    },
+    {
+        "title": "4.",
+        "body": "stop the reaction with 1/5 of FCS \r\n  during 1 minute"
+    },
+    {
+        "title": "5.",
+        "body": "wash in Complete medium and centrifugate the cells at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "6.",
+        "body": "repeat step"
+    },
+    {
+        "title": "5.",
+        "body": ""
+    },
+    {
+        "title": "7.",
+        "body": "Count the Teff cells\r\n  \r\n\n\nAll suppressive assays are performed in U-bottom 96-well plates with 10<sup>4 CFSE labelled Teff cells and 10</sup>4 to 1.25 x 10^3 Treg cells \\(1:1 to 1:8) in 200 µl of culture medium at 37°C 5% CO2 during 4 days. Some wells with Teff cells alone are used as positive control of proliferation and are also used to determine the direct effect of TNF on Teff cells.\r\n\n\n\r\n\n\nSuppressive assay with beads"
+    },
+    {
+        "title": "1.",
+        "body": "resuspend the Treg cells at 10^4 cells per 50 ul and make serial dilution \\(1 to 2)"
+    },
+    {
+        "title": "2.",
+        "body": "resuspend the Teff cells at 10^4 cells per 100 ul"
+    },
+    {
+        "title": "3.",
+        "body": "prepare a solution of TNF concentrate 4X at 200 ng/ml \\(50 ng/ml final) if needed"
+    },
+    {
+        "title": "4.",
+        "body": "add anti-CD3/CD28 beads to the Teff cells solution to be at 10^3 beads per 100 ul"
+    },
+    {
+        "title": "5.",
+        "body": "distribute the different solutions : Teffs cells + beads \\(100 ul), Treg cells \\(50 ul) then TNF \\(50 ul) in the appropriate wells in duplicate for each condition.\r\n  \r\n\n\nSuppressive assay with APC and coated anti-CD3"
+    },
+    {
+        "title": "1.",
+        "body": "coat a U-bottom 96-well plate with 0.5 ug/ml of anti-CD3 \\(100 ul per well) during 2h at 37°C"
+    },
+    {
+        "title": "2.",
+        "body": "resuspend the Treg cells at 10^4 cells per 50 ul and make serial dilution \\(1 to 2)"
+    },
+    {
+        "title": "3.",
+        "body": "resuspend the Teff cells at 10^4 cells per 50 ul"
+    },
+    {
+        "title": "4.",
+        "body": "resuspend the APC at 10^5 cells per 50 ul and mix it at equal volume with the Teff cells solution"
+    },
+    {
+        "title": "5.",
+        "body": "prepare a solution of TNF concentrate 4X at 200 ng/ml \\(50 ng/ml final) if needed"
+    },
+    {
+        "title": "6.",
+        "body": "Wash the plates 2 times with 150 ul of PBS without letting the plate dry"
+    },
+    {
+        "title": "7.",
+        "body": "distribute the different solutions : Teffs cells + APC \\(100 ul), Treg cells \\(50 ul) then TNF \\(50 ul) in the appropriate wells in duplicate for each condition.\r\n  \r\n\n\nSuppressive assay with APC and soluble anti-CD3"
+    },
+    {
+        "title": "1.",
+        "body": "resuspend the Treg cells at 10^4 cells per 50 ul and make serial dilution \\(1 to 2)"
+    },
+    {
+        "title": "2.",
+        "body": "resuspend the Teff cells at 10^4 cells per 50 ul"
+    },
+    {
+        "title": "4.",
+        "body": "resuspend the APC at 10^5 cells per 50 ul and mix it at equal volume with the Teff cells solution"
+    },
+    {
+        "title": "5.",
+        "body": "add anti-CD3 to the Teff cells + APC solution to be concentrate 2X at 10 ug/ml \\(5 ug/ml final)"
+    },
+    {
+        "title": "6.",
+        "body": "prepare a solution of TNF concentrate 4X at 200 ng/ml \\(50 ng/ml final) if needed"
+    },
+    {
+        "title": "7.",
+        "body": "distribute the different solutions : Teffs cells + APC + anti-CD3 \\(100 ul), Treg cells \\(50 ul) then TNF \\(50 ul) in the appropriate wells in duplicate for each condition. \r\n  \r\n\n\nFACS Analysis"
+    },
+    {
+        "title": "1.",
+        "body": "centrifugate the U-bottom 96-well plate at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "2.",
+        "body": "incubate the cells in 50 ul of PBS+3%FCS during 15 minutes at 4°C with the anti-CD4 PerCP antibodies Biolegend \\(1/100)"
+    },
+    {
+        "title": "3.",
+        "body": "wash in PBS+3%FCS and centrifugate the plate at 300G during 5 minutes at 4°C"
+    },
+    {
+        "title": "4.",
+        "body": "resuspend in 200 ul of PBS+3%FCS and analyse by FACS\r\n  \r\n\n\nCalcul of the percentage of suppression\r\n\n\nFor each Teff/Treg ratio, the percentage of suppression was calculated with the following formula: \\[Log2\\(y) of \\(Teff cells alone) - Log2\\(y) of \\(Teff + Treg cells]) / Log2\\(y) of \\(Teff cells alone) X 100. The y value corresponds to the mean fluorescent intensity of CFSE of the whole Teff cell population divided by the mean fluorescent intensity of CFSE of undivided Teff cells."
+    }
+]

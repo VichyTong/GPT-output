@@ -1,0 +1,150 @@
+[
+    {
+        "title": "1.",
+        "body": "Harvest bone marrow \\(BM) cells and spleen cells and resuspend them in 1×PBS/2%FCS in 50 ml conical tubes."
+    },
+    {
+        "title": "2.",
+        "body": "Spin down at 1300 rpm for 5 minutes."
+    },
+    {
+        "title": "3.",
+        "body": "Discard liquid completely."
+    },
+    {
+        "title": "4.",
+        "body": "Add 500 μl of ACK buffer, pipet and wait on ice or RT for 1-5 minutes \\(until the solution is clear)."
+    },
+    {
+        "title": "5.",
+        "body": "Add 40 ml of 1×PBS2%FCS and mix."
+    },
+    {
+        "title": "6.",
+        "body": "Spin down at 1300 rpm for 5 minutes."
+    },
+    {
+        "title": "7.",
+        "body": [
+            "Resuspend cells as follows. \\(It is advised to use nylon mesh to filter the single cell suspensions before and after the staining to avoid clogging the FACS machine). \r\n  BM cells from 1 mouse in 100 μl of 1×PBS/2%FCS \\(increase the volume accordingly to the number of the mouse) in a 5 ml tube. \r\n\n\nSpleen cells from 1 mouse in 350 μl of 1×PBS/2%FCS.\r\n\n\n\r\n\n\n",
+            {
+                "title": "**BM cells**",
+                "body": []
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": "Add 3μl of anti CD3-TC Ab, 2μl of anti CD4-TC antibody, 2μl anti CD8a-TC Ab, 2μl anti CD19-TC Ab, 3μl of anti-Ly-6G \\(Gr-1)-TC Ab, 3μl of anti-CD45R \\(B220)-TC Ab."
+    },
+    {
+        "title": "2.",
+        "body": "Mix and incubate for 30 minutes on ice in the dark."
+    },
+    {
+        "title": "3.",
+        "body": "Wash the cells twice with 3ml of 1xPBS/2%FCS."
+    },
+    {
+        "title": "4.",
+        "body": [
+            "Lineage depletion, if necessary \\(if not, can skip this step and combine step 1 and",
+            {
+                "title": "6).",
+                "body": "\\(a) Resuspend BM cells in 100μl 1×PBS/2%FCS and add 70μl of Dynabeads.\r\n\n\n\\(b) Rotate tube in dark at 4°C for 30 minutes.\r\n\n\n\\(c) Add 1×PBS/2%FCS to 4.5 ml and mix.\r\n\n\n\\(d) Put the tube onto Dynal magnetic rack and leave the tube on the rack for 2 miuntes at RT.\r\n\n\n\\(e) Transfer the supernatant containing the lineage negative cells to a new tube with a Pasteur pipet \\(if leaving it overnight, put it in 15-20 ml of 1×PBS/2%FCS at 4°C in the dark.)\r\n\n\n\\(f) Spin down at 1300 rpm for 5 minutes."
+            }
+        ]
+    },
+    {
+        "title": "5.",
+        "body": "Resuspend the BM cells in 100μl 1×PBS/2%FCS."
+    },
+    {
+        "title": "6.",
+        "body": "Add 5μl anti-CD34-FITC Ab, 3μl of anti-FcγRIII/II-PE Ab, 2μl anti-CD117 \\(c-kit)-APC Ab and 2μl anti-Sca-1 \\(Ly-6A/E)-biotin Ab."
+    },
+    {
+        "title": "7.",
+        "body": "Mix and incubate on ice for 30 minutes in dark."
+    },
+    {
+        "title": "8.",
+        "body": "Wash the cells twice with 3 ml of 1×PBS/2%FCS."
+    },
+    {
+        "title": "9.",
+        "body": "Resuspend in 100μl 1×PBS/2%FCS."
+    },
+    {
+        "title": "10.",
+        "body": "Add 2 μl APC-Cy7 conjugate Streptavidin."
+    },
+    {
+        "title": "11.",
+        "body": "Mix and incubate on ice for 30 minutes in dark."
+    },
+    {
+        "title": "12.",
+        "body": "Wash the cells twice with 3 ml of 1×PBS/2%FCS and resuspend the cells \\(the best concentration is 5 × 10<sup>7</sup>/ml for MoFlo)."
+    },
+    {
+        "title": "13.",
+        "body": "Add propidium iodide to stain dead cells \\(final concentration =2μg/ml)."
+    },
+    {
+        "title": "14.",
+        "body": [
+            "Store on ice with no light until the analysis/sorting.\r\n  \r\n\n\n",
+            {
+                "title": "**Spleen cells**",
+                "body": "\\(we use spleen cells for single color staining FACS compensation controls)"
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": "Aliquot spleen cells to 7 tubes \\(50μl each) and mark each tube as #1-#7."
+    },
+    {
+        "title": "2.",
+        "body": "Add the following antibodies to each tube.\r\n  tube #1 no addition\r\n\n\ntube #2 add propidium idodide \\(final concentration =2μg/ml)\r\n\n\ntube #3 1μl of anti-B220-FITC\r\n\n\ntube #4 1μl of anti-B220-PE\r\n\n\ntube #5 1μl of anti-B220-APC\r\n\n\ntube #6 1μl of anti-B220-APC-Cy7\r\n\n\ntube #7 1μl of anti-B220-TC"
+    },
+    {
+        "title": "3.",
+        "body": "Mix and incubate on ice for 30 minutes in dark."
+    },
+    {
+        "title": "4.",
+        "body": "Wash the cells twice with 3ml of 1×PBS/2%FCS."
+    },
+    {
+        "title": "5.",
+        "body": [
+            "Resuspend cells in 500μl of 1×PBS/2%FCS \\(don’t add PI except tube #2).\r\n  \r\n\n\n",
+            {
+                "title": "**RNA preparation**",
+                "body": []
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": "Purify RNA using a RNeasy Micro Kit \\(Qiagen)."
+    },
+    {
+        "title": "2.",
+        "body": "Isolate HSC or myeloid progenitor cells \\(CMP, GMP or MEP) using a DakoCytomation High Speed MoFlo Sorter and then resort directly into a microfuge tube containing 350μl of RLT buffer with β-ME and carrier RNA provided by the manufacturer. Double sorting is necessary to get reliable data."
+    },
+    {
+        "title": "3.",
+        "body": "Lyse the cells by vortexing for 1 minute when the cell number is lower than 1 × 10<sup>5</sup>."
+    },
+    {
+        "title": "4.",
+        "body": "Purify RNA according to the manufacturer’s protocol \\(Qiagen). We use a DNase treatment to avoid contamination with genomic DNA."
+    },
+    {
+        "title": "5.",
+        "body": "Add a DNaseI incubation mix \\(10μl DNase I stock solution plus 70μl Buffer RDD provided by the manufacturer, Qiagen) onto a column and incubate for 15 min between the first and second treatments with RW1 buffer."
+    }
+]

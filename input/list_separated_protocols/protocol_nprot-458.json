@@ -1,0 +1,31 @@
+[
+    "\nThe calculation procedures for CMM are as follows:",
+    {
+        "title": "1.",
+        "body": "Calculate allele frequencies for each locus."
+    },
+    {
+        "title": "2.",
+        "body": "Sample genotype randomly based on the allele frequencies at the missing-data loci for each of the subjects showing missing allele calls of the loci."
+    },
+    {
+        "title": "3.",
+        "body": "Calculate M times M marker covariance matrix \\(M is the number of marker loci)."
+    },
+    {
+        "title": "4.",
+        "body": "Calculate eigenvectors up to the 3rd or 4th largest eigenvalues of the covariance matrix."
+    },
+    {
+        "title": "5.",
+        "body": "Calculate Bayesian information criterions \\(BICs) of the principle components, assuming K normal-distributions mixture models \\(K corresponds to the number of subpopulations)."
+    },
+    {
+        "title": "6.",
+        "body": "Count the inferred subpopulation number K based on minimum BIC."
+    },
+    {
+        "title": "7.",
+        "body": "Iterate the above steps from 2 to 6 \\(we iterated this procedure 200 times in our paper). \r\n  \r\n\n\nThe result on the 5,197 SNP typing data on the Chinese and Japanese population of the HapMap project \\(SNPs were selected by the following criteria: physical distances among the SNPs are more than 500kbp, minor allele frequency more than 3%, and missing genotype call rate less than 5%) are shown in Table 1 and Figure 1."
+    }
+]

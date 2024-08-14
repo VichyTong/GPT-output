@@ -1,0 +1,119 @@
+[
+    "\nDay 1:",
+    {
+        "title": "1.",
+        "body": "Fix sample with 4% formaldehyde in PBST for 10 minutes at RT."
+    },
+    {
+        "title": "2.",
+        "body": "Wash twice with PBST."
+    },
+    {
+        "title": "3.",
+        "body": "For SILAC: Calculate cell number or protein concentration and mix equal amounts into a single tube."
+    },
+    {
+        "title": "4.",
+        "body": "Permeabilize for 7 minutes in PBS with 0.5% triton X-100."
+    },
+    {
+        "title": "5.",
+        "body": "Wash with PBST."
+    },
+    {
+        "title": "6.",
+        "body": "Add H2O2 to 0.5% for 10 minutes, wash twice with PBST."
+    },
+    {
+        "title": "7.",
+        "body": "Block with 1% BSA in PBST for 2 hours, shaking."
+    },
+    {
+        "title": "8.",
+        "body": "Stain with primary antibody \\(for example MAB3211 \\(1:500)) overnight at 4C.\r\n  \r\n\n\nDay 2:"
+    },
+    {
+        "title": "9.",
+        "body": "Wash samples over 1 hour in PBST with at least 3 buffer changes."
+    },
+    {
+        "title": "10.",
+        "body": "Add Secondary HRP antibody at 1:1000 in 1% BSA for 1 hour."
+    },
+    {
+        "title": "11.",
+        "body": "Wash samples over 2 hours in PBST with at least 3 buffer changes."
+    },
+    {
+        "title": "12.",
+        "body": "Pre-incubate with 3ul TSA \\(Tyramide Signal Amplification) reagent for 5 minutes. Replace buffer with 150ul reaction buffer and incubate for 1-7m \\(longer incubation will result in stronger signal, but also more non-specific binders). Stop reaction with 1ml 500 mM sodium ascorbate."
+    },
+    {
+        "title": "13.",
+        "body": "Wash three times with PBST."
+    },
+    {
+        "title": "14.",
+        "body": "Validate labeling by immunofluorescence of subsamples. Add a red secondary fluorescent ab, DAPI, and FITC-streptavidin and incubate for 30 minutes at RT. Wash samples over 1 hour in PBST with at least 3 buffer changes. Mount subsamples on slides with vectashield. Labeling worked if strong green \\(biotin) signal is seen co-localizing with the red signal from the secondary fluorescent antibody."
+    },
+    {
+        "title": "15.",
+        "body": "Adjust volume to 0.1ml PBST, add 30ul of 10% SDS and 20ul of sodium deoxycholate 10% \\(optional), heated for 99C for 1 hour with mild shaking."
+    },
+    {
+        "title": "16.",
+        "body": "Centrifuge at max speed for 5 minutes."
+    },
+    {
+        "title": "17.",
+        "body": "Adjust supernatant volume to 1ml with PBST and add 250ul of pre-washed streptavidin beads. Incubate for 2 hours at RT. Keep unbound. For beads: wash once with PBST, twice with PBST with 1M NaCl, and twice more with PBS \\(Not PBST)."
+    },
+    {
+        "title": "18.",
+        "body": "Move beads to new tube. Reduce volume to 100ul, subsamples \\(~10%) can be used for Western validations. For westerns with streptavidin-HRP, a very strong signal, either of multiple bands or of a smear, is expected."
+    },
+    {
+        "title": "19.",
+        "body": "Precipitate unbound proteins by adding 6 volumes of cold acetone with 10mM NaCl and placing in -20C for 1 hour, followed by centrifugation at 14,000 rpm for 15 minutes.\r\n  \r\n\n\nMass-spectrometry:"
+    },
+    {
+        "title": "20.",
+        "body": "Resuspend beads/pellet in 90 µl 50 mM ABC \\(ammonium bicarbonate) and add 2 µl 500 mM DTT. Incubate beads for 30 minutes at 37C with mixing, unbound for 30 minutes at 56C. For TMT use TAEB instead of ABC."
+    },
+    {
+        "title": "21.",
+        "body": "Spike all samples with 10 µl 550 mM Iodoacetamide and leave a further 20 minutes at RT, with mixing and in the dark."
+    },
+    {
+        "title": "22.",
+        "body": "Pellet beads and wash twice with 200 µl 50 mM ABC. Spike unbound with 20 µl 100 mM DTT."
+    },
+    {
+        "title": "23.",
+        "body": "Resuspend beads in 200 µl of 50 mM ABC containing 2 µg of trypsin and incubate overnight at 37°C with mixing. Add 2 µg of trypsin to unbound.\r\n  \r\n\n\nNext day:"
+    },
+    {
+        "title": "24.",
+        "body": "Add an additional 1 µg of trypsin to each sample and incubate for a further 2 hours at 37°C."
+    },
+    {
+        "title": "25.",
+        "body": "Pellet the beads at low speed and transfer the supernatant to a fresh tube."
+    },
+    {
+        "title": "26.",
+        "body": "Rinse the beads with 150 µl of HPLC-grade H20 and combine with the rest of the supernatant."
+    },
+    {
+        "title": "27.",
+        "body": "\\(Optional - no longer recommended; can rinse again with water instead) Rinse the beads with 150 µl 1% trifluoroacetic acid \\(in H2O) and combine with the rest of the supernatant. Add 5 µl 100% trifluoroacetic acid to the unbound."
+    },
+    {
+        "title": "28.",
+        "body": "Spin the pooled eluant at 14,000 rpm for 2 minutes and transfer supernatant to a fresh tube."
+    },
+    {
+        "title": "29.",
+        "body": "Reduce sample volume in the vacuum centrifuge, Zip Tip.\r\n  Send for mass spec or keep at -80C."
+    }
+]

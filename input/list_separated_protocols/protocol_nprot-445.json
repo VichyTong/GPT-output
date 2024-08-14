@@ -1,0 +1,54 @@
+[
+    {
+        "title": "1.",
+        "body": "Warm 0.06M potassium chloride in a 37°C water bath."
+    },
+    {
+        "title": "2.",
+        "body": "Inject 250µL of 200µg/mL colcemid into the peritoneum of mice and arrest cell cycle for 30 minutes."
+    },
+    {
+        "title": "3.",
+        "body": "Flush bone marrow cells with 30mL pre-warmed 0.06M potassium chloride into 50mL tube through 40µm cell strainer and rock sample tubes gently in 37°C incubator for 20 min."
+    },
+    {
+        "title": "4.",
+        "body": "Make fixative solution \\(methanol \\[100%]:glacial acetic acid=3:1) during hypotonic incubation."
+    },
+    {
+        "title": "5.",
+        "body": "Add 2mL Fixative into samples, mix gently. Centrifuge at 1500rpm for 7 min and discard supernatant."
+    },
+    {
+        "title": "6.",
+        "body": "Resuspend cells thoroughly with 0.5mL 0.06M potassium chloride."
+    },
+    {
+        "title": "7.",
+        "body": "Add few drops of fixative to cells and mix well. Keep adding and mixing fixative drops into cells until reaching 3mL. Add fixative up to 20mL in total, mix by inversion, and incubate at room temperature for 10 min."
+    },
+    {
+        "title": "8.",
+        "body": "Run the sample mixtures through 40µm cell strainer. Centrifuge at 1500rpm for 7 min and discard supernatant."
+    },
+    {
+        "title": "9.",
+        "body": "Resuspend pellets in 20 mL fixative and incubate at room temperature for 10 min. Centrifuge at 1500rpm for 7 min and discard supernatant."
+    },
+    {
+        "title": "10.",
+        "body": "Repeat step 9 once."
+    },
+    {
+        "title": "11.",
+        "body": "Resuspend cell pellets in 2mL fixative and store at -20°C for long-term storage."
+    },
+    {
+        "title": "12.",
+        "body": "To determine chromosome quality, use the flame method or other ways to spread and stain chromosomes on slides. Drop 30µL fixed cells onto pre-cleaned and wet slides tilted at a 45 degree angle. Put slides in burner flame for 2 seconds to allow chromosomes to spread out. Let slides dry."
+    },
+    {
+        "title": "13.",
+        "body": "dilute 20x Giemsa stain with water to 1x Giemsa solution. Stain chromosome spread slides with 1x Giemsa solution for 5 minutes. Wash off Giemsa solution and let slides dry. Check chromosome quality under microscope."
+    }
+]

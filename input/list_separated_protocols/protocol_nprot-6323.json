@@ -1,0 +1,42 @@
+[
+    {
+        "title": "1.",
+        "body": "Anesthetize the rats with an i.p. injection of sodium pentobarbital \\(Oak Pharmaceuticals Inc.; IL, USA)."
+    },
+    {
+        "title": "2.",
+        "body": "After confirming animals are fully anesthetized \\(e.g. no pedal-paw reflex following toe pinch), perform a midline incision to expose the underlying musculature."
+    },
+    {
+        "title": "3.",
+        "body": "After careful dissection of the underling musculature to expose the vertebral column, place the animals into a spinal stabilization unit and perform a T13 laminectomy \\(rostral half) to expose spinal L5. Perform a duratomy by gently scraping the surface of the cord with the bent tip of a 30G x 1/2\" needle. Be careful not to damage the surface of the cord."
+    },
+    {
+        "title": "4.",
+        "body": "Using a stereotaxic device \\(with a pulled and beveled micropipette, outside diameter of 0.30 µm) connected to a pneumatic picopump \\(World Precision Instruments), perform microinjections of HiRet-TRE-EGFP.eTeNT into the intermediate gray matter of spinal L5 \\(0.4 mm mediolateral, 1.4 mm dorsoventral). Four injections should be given, two on each side of the spinal cord, each separated by 1.5 mm rostrocaudal. Injections should be given as two, 0.25 µl boluses with three minute incubations to allow for viral uptake."
+    },
+    {
+        "title": "5.",
+        "body": "Following the injections, close the incision site in layers with sutures and apply surgical stables to seal the wound."
+    },
+    {
+        "title": "6.",
+        "body": "Provide post-operative care, including gentamicin \\(20 mg/kg, s.c.; Boehringer Ingelheim; 7 days), glycopyrrolate \\(0.02 mg/kg, s.c.; Butler Schein), and lactated Ringer’s solution \\(10 c.c, s.c.; Hospira). Provide pain management care as needed \\(buprenorphine \\[10mg/kg, s.c.; Par Pharmaceuticals] every 12 hours for the first 48 hours post-surgery). Animals should recovery voluntary bladder control within 24 hours of surgery."
+    },
+    {
+        "title": "7.",
+        "body": "One week following the L5 intraspinal injections, re-anesthetized the animals \\(ketamine:xylazine; 80 mg/kg:4 mg/kg, i.p.; Hospira; IL, USA; Akorn Animal Health)."
+    },
+    {
+        "title": "8.",
+        "body": "Perform L2 intraspinal injections with the AAV2-CMV-rtTAV16 viral vector. To do this, repeat steps 2-4 described above with the following modifications: \\(a) perform a rostral T12 laminectomy to expose spinal L2, and \\(b) use the mediolateral and dorsoventral coordinates of 0.6 mm and 1.5 mm, respectively."
+    },
+    {
+        "title": "9.",
+        "body": "Repeat steps 5-6 for post-operative care, with the addition of providing the reversal agent Yohimbine at 0.1 mg/kg, i.m. \\(Lloyd Laboratories) to counteract the effects of xylazine."
+    },
+    {
+        "title": "10.",
+        "body": "Animals should recover for at least one week prior to behavioral testing."
+    }
+]

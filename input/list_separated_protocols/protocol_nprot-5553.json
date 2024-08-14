@@ -1,0 +1,70 @@
+[
+    {
+        "title": "1.",
+        "body": "Harvest cell culture medium from 80% confluent cells grown in serum-free medium."
+    },
+    {
+        "title": "2.",
+        "body": "Optional: Spin media at 500-1,000 x g for 10 min."
+    },
+    {
+        "title": "3.",
+        "body": "Pre-clear medium by centrifuging at 2000 x g for 10 min, then filter using a 0.22 µm PES Steriflip membrane and freeze at -80°C until needed."
+    },
+    {
+        "title": "4.",
+        "body": "Thaw 4 mL of cell culture supernatant on ice."
+    },
+    {
+        "title": "5.",
+        "body": "Add 0.8 mL of Exoquick-TC and mix well by inversion 3 times."
+    },
+    {
+        "title": "6.",
+        "body": "Incubate at 4°C overnight."
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge at 16,000 x g for 2 min, remove supernatant and keep the exosome pellet."
+    },
+    {
+        "title": "8.",
+        "body": "Add 350 µL Lysis buffer to pellet, vortex for 15 s, and incubate at room temperature for 5 min."
+    },
+    {
+        "title": "9.",
+        "body": "Add 200 µL of 100% ethanol and vortex for 10 s."
+    },
+    {
+        "title": "10.",
+        "body": "Transfer all \\(600 µL) to spin column and centrifuge at 16,000 x g for 1 min \\(or until the solution has flowed through)."
+    },
+    {
+        "title": "11.",
+        "body": "Discard flow through."
+    },
+    {
+        "title": "12.",
+        "body": "Add 400 µL of wash buffer and centrifuge at 16,000 x g for 1 min, then discard flow-through."
+    },
+    {
+        "title": "13.",
+        "body": "Repeat step 12 once more."
+    },
+    {
+        "title": "14.",
+        "body": "Discard flow-through and centrifuge at 16,000 x g for 2 min to dry column."
+    },
+    {
+        "title": "15.",
+        "body": "Transfer spin column to new collection tube and add 14  µL or 30 µL RNase-free water or Elution buffer directly to the membrane.<sup>1</sup>"
+    },
+    {
+        "title": "16.",
+        "body": "Centrifuge at 400 x g for 2 min.<sup>2</sup>"
+    },
+    {
+        "title": "17.",
+        "body": "Centrifuge at 16,000 x g for 1 min."
+    }
+]

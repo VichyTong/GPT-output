@@ -1,0 +1,180 @@
+[
+    "\nDuring all the experiment, time and temperature are critical. All the steps have to be performed at +4°C if not otherwise stated. Pre-cool all the centrifuges and rotors.\r\n\n\nAn overview of the protocol is shown in Figure",
+    {
+        "title": "1.",
+        "body": [
+            {
+                "title": "**Preparation of zebrafish embryos extracts**",
+                "body": [
+                    {
+                        "title": "1-",
+                        "body": "Collect embryos at the one-cell stage in a 35 mm Petri dish with E3 medium \\(100 embryos per condition at least)."
+                    },
+                    {
+                        "title": "2-",
+                        "body": "Place the embryos at the expected developmental stage into a pre-chilled dounce glass and add 1 ml of ice-cold MB buffer."
+                    },
+                    {
+                        "title": "3-",
+                        "body": "Homogenize for 10 times in ice with a loose-fitting pestle by slowly stroking the pestle up and down until all embryo’s chorions are removed. This step also permits to disrupt the yolk sac of the embryos."
+                    },
+                    {
+                        "title": "4-",
+                        "body": "Let the homogenate settle on ice for 10 minutes."
+                    },
+                    {
+                        "title": "5-",
+                        "body": "Transfer the homogenate into a pre-chilled 1.5 ml microcentrifuge tube and centrifuge at 300 _g_ for 5 min."
+                    },
+                    {
+                        "title": "6-",
+                        "body": "An optional additional centrifugation step can be added. Re-spin the supernatant at 300 _g_ for 5 min to pellet any cells left."
+                    },
+                    {
+                        "title": "7-",
+                        "body": "Resuspend pellet containing the cells with 1 ml of cold-MB buffer."
+                    }
+                ]
+            },
+            {
+                "title": "**Isolation of mitochondria**",
+                "body": [
+                    {
+                        "title": "8-",
+                        "body": "Disrupt the cells with a 1 mL syringe and a 26 G x 2/3 needle 50 times on ice."
+                    },
+                    {
+                        "title": "9-",
+                        "body": "Homogenization can be checked by placing 2 µl on a microscope slide and visualizing cell lysis by phase-contrast microscopy. Few intact cells must be visible, if it is not the case re-disrupt homogenate until all the cells are lysed."
+                    },
+                    {
+                        "title": "10-",
+                        "body": "Centrifuge cell lysate twice at 1,500 _g_ for 10 min to eliminate nuclei."
+                    },
+                    {
+                        "title": "11-",
+                        "body": "Transfer the supernatant containing mitochondria, cytosol and microsomes into a new pre-chilled 1.5 ml centrifuge tube."
+                    },
+                    {
+                        "title": "12-",
+                        "body": "Spin the supernatant twice at 10,600 _g_ for 10 min to pellet mitochondria \\(labeled as mito-I)."
+                    },
+                    {
+                        "title": "13-",
+                        "body": "Remove and store supernatant on ice \\(labeled as ER-I) for endoplasmic reticulum membranes isolation."
+                    },
+                    {
+                        "title": "14-",
+                        "body": "Gently resuspend the mito-I pellet with 1 ml of cold MB buffer."
+                    },
+                    {
+                        "title": "15-",
+                        "body": "Centrifuge again at 10,600 _g_ for 10 min."
+                    },
+                    {
+                        "title": "16-",
+                        "body": "Discard the supernatant and save the pellet as mitochondria."
+                    },
+                    {
+                        "title": "17-",
+                        "body": "Gently resuspend mitochondria in 50 µl of cold MB buffer."
+                    },
+                    {
+                        "title": "18-",
+                        "body": "Determine the protein concentration of the sample \\(Bradford)."
+                    },
+                    {
+                        "title": "19-",
+                        "body": "Store at -20°C for further investigations \\(western blot) if not used immediately."
+                    }
+                ]
+            },
+            {
+                "title": "**Isolation of ER membranes**",
+                "body": [
+                    {
+                        "title": "20-",
+                        "body": [
+                            "Place the ER-I supernatant \\(from step",
+                            {
+                                "title": "13)",
+                                "body": "into a pre-chilled ultracentrifuge tube and equilibrate the rotor carefully."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "21-",
+                        "body": "Spin at 100,000 _g_ for 1 hour at +4°C."
+                    },
+                    {
+                        "title": "22-",
+                        "body": "The pellet is not visible so carefully discard the supernatant and gently resuspend the pellet containing ER membrane in 50 µl of cold MB buffer."
+                    },
+                    {
+                        "title": "23-",
+                        "body": "The amount of microsome proteins is determined \\(Bradford)."
+                    },
+                    {
+                        "title": "24-",
+                        "body": "Store at -20°C for further investigations \\(western blot) if not used immediately."
+                    }
+                ]
+            },
+            {
+                "title": "**Mitochondrial calcium uptake**",
+                "body": [
+                    {
+                        "title": "25-",
+                        "body": [
+                            "Wash twice the mitochondrial pellet mito-I \\(from step",
+                            {
+                                "title": "12)",
+                                "body": "with 1 ml of fresh cold KCL medium."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "26-",
+                        "body": "Centrifuge 10 min at 10,600 _g_ at +4°C."
+                    },
+                    {
+                        "title": "27-",
+                        "body": "Determine the amount of mitochondrial proteins \\(Bradford)."
+                    },
+                    {
+                        "title": "28-",
+                        "body": "Transfer 75 µg of proteins into a new 1.5 ml centrifuge tube and adjust volume to 1 ml with KCL medium."
+                    },
+                    {
+                        "title": "29-",
+                        "body": "Centrifuge 10 min at 10,600 _g_ at +4°C."
+                    },
+                    {
+                        "title": "30-",
+                        "body": "Gently resuspend the pellet with 180 µl of KCL medium containing 1 μM of the cytosolic calcium probe OregonGreen 5N."
+                    },
+                    {
+                        "title": "31-",
+                        "body": "Transfer all the volume in a well of a black 96-well plate with flat and transparent bottom."
+                    },
+                    {
+                        "title": "32-",
+                        "body": "OregonGreen 5N fluorescence intensity is measured using a Mithras LB 940 multimode microplate reader with excitation at 485 nm and emission at 510 nm."
+                    },
+                    {
+                        "title": "33-",
+                        "body": "Fluorescence intensity is measured every 2 s for 5 min."
+                    },
+                    {
+                        "title": "34-",
+                        "body": "After 30 s measurement, 20 µl of KCL buffer supplemented with 200 µM CaCl<sub>2</sub> is injected \\(final concentration of CaCl<sub>2</sub> 20 µM)."
+                    },
+                    {
+                        "title": "35-",
+                        "body": "The decrease of fluorescence intensity following the peak induced by CaCl<sub>2</sub> injection is representative of the mitochondrial calcium uptake."
+                    }
+                ]
+            }
+        ]
+    }
+]

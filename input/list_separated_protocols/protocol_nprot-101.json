@@ -1,0 +1,109 @@
+[
+    {
+        "title": "**1) Differentiation of C2C12 cells:**",
+        "body": [
+            {
+                "title": "a)",
+                "body": "Seed cells in a 24 well plate as described in Figure"
+            },
+            {
+                "title": "b)",
+                "body": "Differentiate C2C12 myoblasts into myotubes by changing to low-serum differentiation medium \\[98% DMEMH/2% \\(v/v) fetal bovine serum/4.0 mM glutamine/25 mM Hepes]. Differentiation medium should be changed daily. By day 3-5, cells will be fully confluent and will be differentiated into multinucleated, contracting myotubes."
+            }
+        ]
+    },
+    {
+        "title": "**2) Preparation:**",
+        "body": [
+            {
+                "title": "a)",
+                "body": "Pre-incubation medium: DMEM, 12mM glucose, 4mM glutamine, 25mM Hepes, 1% FFA-free BSA and 0.25mM oleate \r\n\n\nDry in nitrogen gas for 30 minutes in a 5ml tube. Add 100ul PBS first, shake Add BSA/PBS \\(2mM) to oleate, mix well. Put in refrigerator overnight. Filter \\(0.2um filter), ready for use."
+            },
+            {
+                "title": "b)",
+                "body": "1-14C Oleic acid \\(American Radiolabeled Chemicals) \\(1uCi/ul)"
+            },
+            {
+                "title": "c)",
+                "body": "70% Perchloric acid \\(sigma)."
+            },
+            {
+                "title": "c)",
+                "body": "3M NaOH solution."
+            },
+            {
+                "title": "e)",
+                "body": "Whatman paper #3 \\(VWR): Cut into 2x2 cm square \\(The size should be larger than the well size), need 15 squares for each experiment."
+            }
+        ]
+    },
+    {
+        "title": "**3) Oleic acid oxidation**",
+        "body": [
+            {
+                "title": "a)",
+                "body": "At Day 6, culture cells in serum free DMEM for 2 hours in 37 <sup>o</sup>C tissue culture incubator."
+            },
+            {
+                "title": "b)",
+                "body": "Remove the serum free medium. Add 0.7 ml of the pre-incubation medium \\(DMEM/12mM glucose/4mM glutamine/25mM Hepes/1% FFA-free BSA/0.25mM oleate) in each well; keep in 37 <sup>o</sup>C tissue culture incubator for one more hour."
+            },
+            {
+                "title": "c)",
+                "body": "Make 14C pre-mixture:\r\n\n\n1.4  ml  pre-incubation medium\r\n\n\n11.2  ul 1-<sup>14</sup>C oleic acid stock \\(1uCi/ul)\r\n\n\n---------------\r\n\n\nMix by briefly vortexing."
+            },
+            {
+                "title": "d)",
+                "body": "Label two 1.5 ml screw cap tubes, one with “+ Adiponectin”, one with “no adiponectin”. Add 0.7 ml of 14C pre-mixture into each of the tube."
+            },
+            {
+                "title": "e)",
+                "body": "Add 70 ul of gAdiponectin to the tube labeled with “+ Adiponectin”, and 70 ul of 1xPBS to the tube labeled with “no Adiponectin”. Mix by briefly vortex."
+            },
+            {
+                "title": "f)",
+                "body": [
+                    "Add 100 ul of the mix from the tube labeled with “No Adiponectin” into well # 1,2,3,7,8,and",
+                    {
+                        "title": "9.",
+                        "body": "Final: \\(1uCi/ml)"
+                    }
+                ]
+            },
+            {
+                "title": "g)",
+                "body": [
+                    "Add 100 ul of the mix from the tube labeled with “+ Adiponectin” into well # 4,5,6,10,11,and",
+                    {
+                        "title": "12.",
+                        "body": "Final: \\(1uCi/ml)"
+                    }
+                ]
+            },
+            {
+                "title": "h)",
+                "body": "Immediately cover a piece of square shape Whatman paper on each well, use tape to fix the paper. Keep the plate in 37 <sup>o</sup>C tissue culture incubator for 1.5 hour. \\(Don’t shake and move the plate during the incubation\\!\\!\\!)"
+            },
+            {
+                "title": "i)",
+                "body": "After incubation, move the 24-well plate on the bench. Add 150 to 200 ul of 3M NaOH solution on the paper by loading on the sides of the paper and wait until the paper gets wet."
+            },
+            {
+                "title": "j)",
+                "body": "Inject 100 ul of 70% perchloric acid into the wells with a syringe from the side of the paper. Put the cover of the plate on the top of the paper, and add a weight above the cover."
+            },
+            {
+                "title": "k)",
+                "body": "Collect CO<sub>2</sub> at room temperature for one hour."
+            },
+            {
+                "title": "l)",
+                "body": "Remove the filter paper from the wells, put them in a tray \\(face-up), and dry."
+            },
+            {
+                "title": "m)",
+                "body": "Put each paper in a vial with 5 ml scintillation liquid and count the amount of 14C radioactivity. \r\n\n\n1-12:    Samples\r\n\n\n13-14:  positive ctl \\(spot 5 ul of <sup>14</sup>C pre-mixture)\r\n\n\n15:   negative ctl \\(paper only)"
+            }
+        ]
+    }
+]

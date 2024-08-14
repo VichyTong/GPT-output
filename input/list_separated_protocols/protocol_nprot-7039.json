@@ -1,0 +1,292 @@
+[
+    {
+        "title": "**Transcardial perfusion.**",
+        "body": [
+            "\\(Timing: ~30min)",
+            {
+                "title": "1|",
+                "body": "Weigh the mouse and calculate the anesthetic dosage \\(100mg/kg sodium pentobarbital). Administer the anesthetic via intraperitoneal injection."
+            },
+            {
+                "title": "2|",
+                "body": "After complete anesthesia is achieved \\(the mouse is unresponsive to toe pinch), secure the mouse ventral side up in the dissecting pan. Cut the chest through the sternum and pin open the ribcage to expose the heart."
+            },
+            {
+                "title": "3|",
+                "body": "Make a small incision to the left ventricle. Insert the blunt needle through the cut into the ascending aorta. Clamp the needle to the left ventricle. \\(The needle is attached to a peristaltic pump via tubing. Before inserting the needle, make sure to clear all the bubbles in the tubing and the needle.)"
+            },
+            {
+                "title": "4|",
+                "body": "Immediately cut the right atrium and start the infusion of carbonated aCSF at a flow rate of 10 mL/min. Turn off the pump after the fluid exiting the heart becomes clear. \\(It usually takes about 15 mL buffer to clear the blood)"
+            },
+            {
+                "title": "5|",
+                "body": "Switch the tubing from aCSF to ice-cold PFA fixative without introducing any bubbles. Start the pump and perfuse about 30 mL PFA fixative."
+            },
+            {
+                "title": "6|",
+                "body": "Carefully remove brain from the skull and put it in a vial of fresh PFA fixative on ice."
+            }
+        ]
+    },
+    {
+        "title": "**Slicing and fixation.**",
+        "body": [
+            "\\(Timing: ~24 hours)",
+            {
+                "title": "7|",
+                "body": "Trim the brain if necessary and mount it on the vibratome stage with Krazy Glue. Fill the buffer tray with ice-cold PFA fixative to submerge the brain."
+            },
+            {
+                "title": "8|",
+                "body": "Cut 120 µm-thick brain slices in the desired plane with the vibratome."
+            },
+            {
+                "title": "9|",
+                "body": "Transfer the slices into fresh PFA fixative solution and fix for 24 hours with gentle agitation at 4 °C."
+            }
+        ]
+    },
+    {
+        "title": "**Nanobody staining.**",
+        "body": [
+            "\\(Timing: ~50 hours)",
+            {
+                "title": "10|",
+                "body": "Trim the PFA fixed brain slices into smaller pieces containing the target area. Transfer them to a clean 24-well plate."
+            },
+            {
+                "title": "11|",
+                "body": "Rinse the tissue sections 3 x 5 min in PBS at room temperature."
+            },
+            {
+                "title": "12|",
+                "body": "Add the glycine blocking solution and wait for 20 min."
+            },
+            {
+                "title": "13|",
+                "body": "In the meantime, prepare nanobody staining solutions. \\(see Reagent Setup)"
+            },
+            {
+                "title": "14|",
+                "body": "Remove the blocking solution and add 1 mL of the nanobody staining solution to each well."
+            },
+            {
+                "title": "15|",
+                "body": "Wrap the well plate with aluminum foil and incubate for 48 hours at 4 °C with gentle agitation. \\(In 48 hours, the nanobodies penetrate ~100 µm from each side)"
+            }
+        ]
+    },
+    {
+        "title": "**Nucleus staining.**",
+        "body": [
+            "\\(Timing ~5 hours)",
+            {
+                "title": "16|",
+                "body": "Rinse the tissue sections 3 x 5 min in PBS with gentle agitation at room temperature."
+            },
+            {
+                "title": "17|",
+                "body": "Stain nuclei with Hoechst staining solution for 5 hours at 4 °C."
+            },
+            {
+                "title": "18|",
+                "body": "Rinse the tissue sections 3 x 5 min in PBS with gentle agitation at room temperature. Protect the tissue from light during the entire staining process."
+            }
+        ]
+    },
+    {
+        "title": "**Fluorescence imaging.**",
+        "body": [
+            "\\(Timing: ~3 hours)",
+            {
+                "title": "19|",
+                "body": "Apply a 120 µm secure-seal spacer onto a clean glass coverslip. Transfer the tissue section to the well with a brush and drop the appropriate amount of PBS on the tissue to prevent drying. Put another coverslip on top to seal the tissue. \\(A spacer of the sample thickness is used to protect the samples from compression.)"
+            },
+            {
+                "title": "20|",
+                "body": "Fluorescence imaging of the tissue sections can be performed on any fluorescent microscope that suits the research objective. We demonstrated our protocol on a Zeiss LSM 880 confocal laser scanning microscope equipped with a 40x/1.3 NA oil-objective lens. Acquisition of multicolor fluorescent images was done with appropriate band pass filters for the specific fluorophores to avoid crosstalk."
+            },
+            {
+                "title": "21|",
+                "body": "After imaging, take a low resolution image of the entire sample and mark the regions that have been imaged in high resolution in the low-res image. This can be used as a reference for future sample trimming."
+            },
+            {
+                "title": "22|",
+                "body": "Gently separate the two coverslips. Remove the imaged tissue with a brush and immediately transfer it to the ice-cold glutaraldehyde fixative for post-fixation overnight at 4 °C."
+            }
+        ]
+    },
+    {
+        "title": "**EM staining.**",
+        "body": "\\(Timing: ~ 16 hours)"
+    },
+    {
+        "title": "****",
+        "body": [
+            "A modified ROTO \\(reduced osmium-thiocarbohydrazide-osmium) protocol was applied to stain the sample for EM imaging.",
+            {
+                "title": "23|",
+                "body": "Rinse the sample 3 x 5 min in 150mM sodium cacodylate buffer at room temperature."
+            },
+            {
+                "title": "24|",
+                "body": "Stain the sample in a solution containing 1% w/v OsO4, 1.5% w/v K4Fe\\(CN)6 and 150mM sodium cacodylate at room temperature for 1 hour."
+            },
+            {
+                "title": "25|",
+                "body": "Rinse the sample 3 x 5 min with dH2O."
+            },
+            {
+                "title": "26|",
+                "body": "Incubate the sample in filtered 1% w/v TCH aqueous solution in a 40 °C oven for 30 min."
+            },
+            {
+                "title": "27|",
+                "body": "Wash the sample 3 x 5 min with dH2O."
+            },
+            {
+                "title": "28|",
+                "body": "Stain the tissue with 2% OsO<sub>4</sub> aqueous solution at room temperature for 1 hour."
+            },
+            {
+                "title": "29|",
+                "body": "Rinse the sample 3 x 5 min with dH<sub>2</sub>O."
+            },
+            {
+                "title": "30|",
+                "body": "Transfer the sample to 1% uranyl acetate aqueous solution. Let the sample stay in uranyl acetate solution at 4 °C overnight, protected from light. \r\n\n\nOn the next day, incubate the sample in the same uranyl acetate solution in a 50 °C oven for 1 hour."
+            },
+            {
+                "title": "31|",
+                "body": "Rinse the sample 3 x 5 min with dH<sub>2</sub>O.\r\n\n\n\r\n\n\nResin Embedding. \\(Timing: ~3 days)"
+            },
+            {
+                "title": "32|",
+                "body": "Dehydrate the sample through a graded \\(25, 50, 75, 100%, 5 min each) acetonitrile series and then in anhydrous acetonitrile for 10 min."
+            },
+            {
+                "title": "33|",
+                "body": "Infiltrate the sample with 25% EPON:acetonitrile for 1 hour, 50% EPON:acetonitrile for 2 hours, 75% EPON:acetonitrile for 3 hours, and then 100% EPON overnight on a rotator."
+            },
+            {
+                "title": "34|",
+                "body": "Transfer the resin infiltrated sample to the embedding capsule and incubate in fresh EPON in a 60 °C oven for two days."
+            }
+        ]
+    },
+    {
+        "title": "**Serial ultrathin sections collection with ATUM.**",
+        "body": [
+            "\\(Timing: ~1 day)",
+            {
+                "title": "35|",
+                "body": "Trim the block face of the sample cylinder into a 1.5 x 1.5 mm square containing the ROI imaged by light microscopy. Use the low resolution image taken in step 21 as reference for trimming."
+            },
+            {
+                "title": "36|",
+                "body": "Cut 50 nm serial ultrathin sections using a Leica ultramicrotome and collect on a home-built automated tape collecting system \\(Kasthuri, et. al., Cell, 2015) on Kapton tape that was carbon-coated and plasma-treated."
+            },
+            {
+                "title": "37|",
+                "body": "After collection of the sections, cut the tape into strips with appropriate lengths and mount them onto 100 mm silicon wafers using double sided conductive sticky tape."
+            }
+        ]
+    },
+    {
+        "title": "**EM imaging.**",
+        "body": [
+            "\\(Timing: ~5 days)",
+            {
+                "title": "38|",
+                "body": [
+                    "Image the sections with a scanning electron microscope. We used a Zeiss Sigma SEM with a backscattered electron detector and a Fibics imaging system. \r\n\n\nA few images of the full sections were taken at low resolution in SEM \\(50 nm per pixel) and compared with the light microscopy images to find the region of interest to be imaged in high resolution. \r\n\n\nIn our example, first the layer of granule cell bodies of the dentate gyrus \\(DG) and the pyramidal cell bodies of CA3 were used to locate the LM-imaged region in the low-res EM image. Then, blood vessels with characteristic shape were employed as fiducial markers to pinpoint the region of interest \\(Figure",
+                    {
+                        "title": "3).",
+                        "body": "<a href=\"http://www.nature.com/protocolexchange/system/uploads/7149/original/Figure_3.jpg?1536512666\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7149/thumbnail/Figure_3.png?1536512666\" > </a>"
+                    }
+                ]
+            },
+            {
+                "title": "39|",
+                "body": "Draw the ROIs in each section and set up an imaging workflow using the Zeiss Atlas 5 software."
+            },
+            {
+                "title": "40|",
+                "body": "Acquire the high resolution serial images of the ROIs \\(12k x 12k pixel image, 5 nm per pixel) using the SEM with the working distance of ~7.3 mm, 8 keV incident electron energy and dwell time of 2 µs."
+            }
+        ]
+    },
+    {
+        "title": "**EM image data stack alignment.**",
+        "body": [
+            "\\(Timing: ~1 day)",
+            {
+                "title": "41|",
+                "body": "Align the EM image stack with Fiji. Depending on the size of the final data set, various algorithms are available for image alignment to form a coherent 3D EM volume. Our high-res EM image stack was aligned by Fiji’s plugin “Linear Stack Alignment with SIFT” \\(with affine transformation).\r\n\n\nHowever, Fiji may not be sufficient to align larger image stacks. Aligning such data sets requires specialized algorithms and higher computational power."
+            }
+        ]
+    },
+    {
+        "title": "**LM and EM co-registration.**",
+        "body": [
+            "\\(Timing: several hours)",
+            {
+                "title": "42|",
+                "body": "Load LM images and aligned EM images into VAST separately."
+            },
+            {
+                "title": "43|",
+                "body": [
+                    "Identify characteristic features visible in both image stacks, including nucleoli, blood vessel branch points, and lysosomes. For each feature, record the coordinates in the EM and the LM stack by means of placing dots in VAST \\(Figure",
+                    {
+                        "title": "4).",
+                        "body": "<a href=\"http://www.nature.com/protocolexchange/system/uploads/7151/original/Figure_4.jpg?1536512756\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7151/thumbnail/Figure_4.png?1536512756\" > </a>"
+                    }
+                ]
+            },
+            {
+                "title": "44|",
+                "body": "Export the point coordinates from VAST and analyze them in Matlab. We used the set of corresponding-point pairs to compute a three-dimensional affine transformation, which transforms the coordinates to the EM points to those of the corresponding LM points as closely as possible \\(least-squares). This was done using the Moore-Penrose pseudo-inverse method \\(the Matlab code to do this is available in the supporting files)."
+            },
+            {
+                "title": "45|",
+                "body": [
+                    "Use the resulting affine transformation to translate the LM image stacks to the EM coordinate system. For each pixel in the EM-aligned LM stack, its coordinates are transformed to the corresponding location in the LM stack using the affine transformation, and the LM color is copied from there. \\(Figure",
+                    {
+                        "title": "5)",
+                        "body": "<a href=\"http://www.nature.com/protocolexchange/system/uploads/7153/original/Figure_5.jpg?1536512968\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7153/thumbnail/Figure_5.png?1536512968\" > </a>\r\n\n\nTo improve speed, this process can be performed at a lower resolution and the resulting images can be up-sampled to full resolution afterwards, provided that the processing resolution is high enough to preserve details in the LM images."
+                    }
+                ]
+            },
+            {
+                "title": "46|",
+                "body": "Save the transformed LM images and import them into VAST. Both stacks can then be displayed in VAST together."
+            }
+        ]
+    },
+    {
+        "title": "**Segmentation.**",
+        "body": [
+            "\\(Timing: several weeks)",
+            {
+                "title": "47|",
+                "body": "The microglia, the astrocyte and the blood vessel endothelial cell were traced in VAST. Briefly, VAST allows large image stacks to be loaded and visualized, and users can manually label 3D objects in the stack by painting each cross-section with a label color, similar to a coloring book. Labeled 3D objects then consist of a set of marked voxels \\(3D pixels)."
+            }
+        ]
+    },
+    {
+        "title": "**Imaging processing.**",
+        "body": [
+            "\\(Timing: several hours)",
+            {
+                "title": "48|",
+                "body": "For visualization, the surfaces of the labeled voxel objects were exported as surface meshes using the VastTools script in Matlab \\(see VAST manual) and saved to Wavefront .obj files. \r\n\n\nVastTools can also export isosurfaces of the fluorescence in the LM image stacks and save them in the same way."
+            },
+            {
+                "title": "49|",
+                "body": "The mesh files were loaded into the 3D animation software 3ds Max where colors, shading, lighting and camera were set up and images and videos were rendered."
+            }
+        ]
+    }
+]

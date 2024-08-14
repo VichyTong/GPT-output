@@ -1,0 +1,9 @@
+[
+    "How to predict ",
+    "1.",
+    "Go to \"http://www.imtech.res.in/raghava/mitpred/\":http://www.imtech.res.in/raghava/mitpred/\r\n  2.",
+    "Click on \"Submission Form\" button in left menu\r\n  3.",
+    "Paste the one or more than one sequences in box in FASTA format\r\n  4.",
+    "Select the model\r\n  5.",
+    "Enter your email address if you are using HMM model"
+]

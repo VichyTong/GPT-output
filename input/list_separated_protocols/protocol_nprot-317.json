@@ -1,0 +1,79 @@
+[
+    {
+        "title": "**Plasmid Super-Coiling Assay**",
+        "body": [
+            "<sup>1,2</sup>",
+            {
+                "title": "1.",
+                "body": "In our experiments, we mixed 2 pmol of core histones from HeLa cells \\(see “Preparation of Core Histones by FPLC”) with 4 pmol or 8 pmol of GST or GST-JDP2, respectively, in the assembly buffer \\(tube A).  The instructions that follow refer to a generalized assay."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the reaction mixture at 30 °C for 30 min."
+            },
+            {
+                "title": "3.",
+                "body": [
+                    "In parallel, mix 100 ng of plasmid DNA \\(see Note",
+                    {
+                        "title": "1)",
+                        "body": "and 5 units of topoisomerase I in topoisomerase I reaction buffer and incubate at 37 °C for 30 min \\(tube B)."
+                    }
+                ]
+            },
+            {
+                "title": "4.",
+                "body": "Combine the topoisomerase I-relaxed circular DNA \\(in tube B) and core histones \\(in tube A) that were pre-incubated with, in our experiments, GST or GST-JDP2 in 50 μl of assembly buffer."
+            },
+            {
+                "title": "5.",
+                "body": "Incubate the mixture at 37 °C for 1 h."
+            },
+            {
+                "title": "6.",
+                "body": "Add an equal volume of 2x stop buffer and continue incubation at 37 ʰC for 30 min."
+            },
+            {
+                "title": "7.",
+                "body": "Extract the plasmid DNA with phenol, chloroform and isoamyl alcohol."
+            },
+            {
+                "title": "8.",
+                "body": "Precipitate the DNA in cold ethanol."
+            },
+            {
+                "title": "9.",
+                "body": "Fractionate the purified DNA by electrophoresis on a 1.2% agarose gel \\(see Note 2), and visualize by staining with ethidium bromide \\(Figure 1)."
+            }
+        ]
+    },
+    {
+        "title": "**Nucleosome Assembly on a Fragment of 5S DNA<sup>3</sup>**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare 200 ng of a 197-bp-long fragment of 5S DNA by digestion of pB100-Uless/Strider DNA with EcoR I \\(see Note 3)."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the DNA in 10 μl of reaction buffer at 37 °C for 1 h with or without 200 ng of core histones that have been pre-incubated with increasing concentrations of, for example, either human His-TAF-1or GST-JDP2."
+            },
+            {
+                "title": "3.",
+                "body": "Fractionate samples on a 5% non-denaturing polyacrylamide gel in TBS buffer and visualize reaction products by staining with ethidium bromide or SYBR Gold \\(see Note 4)."
+            },
+            {
+                "title": "4.",
+                "body": "Excise gel portions that correspond to mononucleosomes.  Allow them to equilibrate at room temperature for 15 min in the standard buffer for SDS-PAGE, prepared with 0.1 % SDS."
+            },
+            {
+                "title": "5.",
+                "body": "Transfer proteins to an ImmobilonTM membrane \\(PVPF membrane; Millipore Corp., Bedford, MA, USA)."
+            },
+            {
+                "title": "6.",
+                "body": "Analyze proteins by Western blotting with antibodies against histone H3 \\(Figure 2)."
+            }
+        ]
+    }
+]

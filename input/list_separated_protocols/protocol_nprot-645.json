@@ -1,0 +1,107 @@
+[
+    "\nIsolation and labeling of CTL \\(day",
+    {
+        "title": "1)",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Isolate spleens from CTL-donor mice and generate a single cell suspension by extruding the spleen through a steel sieve with the plunger of a 2 ml syringe and filtering through a Nylon sieve \\(100 µm)."
+            },
+            {
+                "title": "2.",
+                "body": "Centrifuge cell suspension at 300 g for 6 mins, 4°C."
+            },
+            {
+                "title": "3.",
+                "body": "Resuspend cells in 600 µl of MACS buffer, add 20 µl of alpha murine CD8 MicroBeads per spleen and incubate for 15 mins at 4°C."
+            },
+            {
+                "title": "4.",
+                "body": "Centrifuge at 300 g for 6 mins, 4°C."
+            },
+            {
+                "title": "5.",
+                "body": "In the meantime, embed MACS columns \\(1 column per 2-3 spleens) in magnetic field and equilibrate with 3 ml of MACS buffer."
+            },
+            {
+                "title": "6.",
+                "body": "Resuspend cells in 3 ml of cold MACS buffer, then pipette filtered cell suspension on column and wash with 3 ml MACS buffer."
+            },
+            {
+                "title": "7.",
+                "body": "Remove MACS columns from magnetic field and rinse with 4 ml MACS buffer. Capture passage \\(= positive fraction of cells) in a 15 ml tube."
+            },
+            {
+                "title": "8.",
+                "body": "Centrifuge at 300 g for 6 mins, 4°C."
+            },
+            {
+                "title": "9.",
+                "body": "Resuspend cells in 5 ml of PBS in a 15 ml tube and add 2.5 µl of FarRed staining solution into the lid of the tube, and invert tube carefully. Incubate for 20 mins at 37 °C.\r\n  CRITICAL STEP Due to potential cytotoxicity of the staining reagent, do not exceed incubation time of 20 mins."
+            },
+            {
+                "title": "10.",
+                "body": "Stop staining reaction by adding 7 ml of ice-cold PBS and centrifuge at 300 g for 6 mins, 4 °C."
+            },
+            {
+                "title": "11.",
+                "body": "Resuspend cells in PBS and adjust the cell number to 12.5 x 106 cells per ml of PBS. Inject 200 µl \\(2.5 x 106 cells) intravenously into mice of favored genetic background.\r\n  \r\n\n\nAdministration of antigen and adjuvant \\(day"
+            }
+        ]
+    },
+    {
+        "title": "2)",
+        "body": [
+            {
+                "title": "12.",
+                "body": "Inject antigen with or without adjuvant intravenously into mice 16 hrs after adoptive T cell transfer. Injection of antigen alone should be included as a control.\r\n  \r\n\n\nPreparation of cryosections \\(day"
+            }
+        ]
+    },
+    {
+        "title": "2)",
+        "body": [
+            {
+                "title": "13.",
+                "body": "After 10 hrs, isolate spleens from injected mice, rinse them briefly in ice-cold PBS, and embed them directly in Tissue-Tek®."
+            },
+            {
+                "title": "14.",
+                "body": "Store at -20°C over night.\r\n  PAUSE POINT Tissue blocks can be stored at -20°C for up to a week or for longer time after transfer to -80°C.\r\n\n\n\r\n\n\nImmunofluorescence staining and quantification of cell numbers \\(day"
+            }
+        ]
+    },
+    {
+        "title": "3)",
+        "body": [
+            {
+                "title": "15.",
+                "body": "Prepare 5 µm cryosections from frozen tissue blocks by using a microtome/cryostat at a working temperature of -18°C.\r\n  CRITICAL STEP Discard at least two sections between individual slides to avoid staining of the same cells in different sections."
+            },
+            {
+                "title": "16.",
+                "body": "Transfer sections on microscope slides for further treatment.\r\n  PAUSE POINT Dry sections for several hours.\r\n\n\nCAUTION Avoid extended exposure to light."
+            },
+            {
+                "title": "17.",
+                "body": "Fix sections with iced acetone for 10 mins, then air-dry them for some minutes.\r\n  CRITICAL STEP Do not exceed fixation time of 10 mins. Otherwise, tissue integrity might be lost. The fixation might be performed at 4°C."
+            },
+            {
+                "title": "18.",
+                "body": "Apply blocking solution \\(1% BSA in PBS) to samples for 1 h at room temperature."
+            },
+            {
+                "title": "19.",
+                "body": "Stain sections with alpha murine B220-PE antibody for 1 h at room temperature, then wash twice with PBS."
+            },
+            {
+                "title": "20.",
+                "body": "Cover sections with mounting medium \\(Immu-Mount) and cover slides.\r\n  PAUSE POINT Slices can be stored at room temperature for up to one week."
+            },
+            {
+                "title": "21.",
+                "body": "View sections and capture images with a fluorescence microscope. Determine number of labeled cells with appropriate software. We used an Olympus IX71, employing a 10x objective. T cell numbers were counted \\(utilizing the \"Touch count\" mode) and areas analyzed \\(\"Closed polygon\") with Cell F software \\(Olympus). Furthermore, if distinct labels for multiple cell types are used, intercellular contacts can be enumerated."
+            }
+        ]
+    }
+]

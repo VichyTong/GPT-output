@@ -1,0 +1,121 @@
+[
+    {
+        "sentence": "Add 11ul of 100mM DTT in extraction buffer 2 to the tissue lysate.",
+        "result": [
+            {
+                "ADD": {
+                    "emit": [
+                        {
+                            "reagent0": "tissue lysate"
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "reagent1": "tissue lysate"
+                        },
+                        {
+                            "reagent2": "11ul of 100mM DTT in extraction buffer 2"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "Incubate at 56°C for 1hr.",
+        "result": [
+            {
+                "INCUBATE": {
+                    "emit": [
+                        {
+                            "reagent0": "tissue lysate"
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "reagent1": "tissue lysate"
+                        },
+                        {
+                            "temperature": "56°C"
+                        },
+                        {
+                            "time": "1hr"
+                        },
+                        {
+                            "notice": "prior to measurements"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "Leave solution to cool to room temperature before adding 12μl of 550mM IAA in extraction buffer.",
+        "result": [
+            {
+                "LEAVE": {
+                    "emit": [
+                        {
+                            "reagent0": "tissue lysate"
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "reagent1": "tissue lysate"
+                        },
+                        {
+                            "temperature": "room temperature"
+                        },
+                        {
+                            "time": "15-20 minutes"
+                        },
+                        {
+                            "notice": "untouched"
+                        }
+                    ]
+                }
+            },
+            {
+                "ADD": {
+                    "emit": [],
+                    "slot": [
+                        {
+                            "reagent1": "tissue lysate"
+                        },
+                        {
+                            "reagent2": "12μl of 550mM IAA in extraction buffer"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "Incubate at room temperature for 30min in the dark.",
+        "result": [
+            {
+                "INCUBATE": {
+                    "emit": [
+                        {
+                            "reagent0": "protein-DNA complexes"
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "reagent1": "protein-DNA complexes"
+                        },
+                        {
+                            "temperature": "room temperature"
+                        },
+                        {
+                            "time": "30min"
+                        },
+                        {
+                            "notice": "prior to measurements"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]

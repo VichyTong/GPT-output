@@ -1,0 +1,75 @@
+[
+    {
+        "title": "**Expression:**",
+        "body": [
+            "2x500ml Sf9 cells at 2x10<sup>6</sup> cell/ml\r\n\n\n10ml virus\r\n\n\n27 °C\r\n\n\n130rpm",
+            {
+                "title": "1)",
+                "body": "Grow until cells are 30% dead"
+            },
+            {
+                "title": "2)",
+                "body": "Harvest:  2.5krpm, 15min, 4 °C.  Resuspend in 20ml PBS/200mM NaCl\r\n\n\nLN<sub>2</sub> freeze"
+            }
+        ]
+    },
+    {
+        "title": "**Purification:**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Thaw 2x500ml cell pellets.  Add PI tablets w/o EDTA \\(crush 2 Roche tablets in 2ml PBS/200mM NaCl.  Add 1ml/500ml cell pellet)."
+            },
+            {
+                "title": "2)",
+                "body": "Sonicate cells 15-20sec 5-6 times on ice.  Check cells under microscope to see if cells have busted open."
+            },
+            {
+                "title": "3)",
+                "body": "Spin 19krpm, 60min, 4 °C."
+            },
+            {
+                "title": "4)",
+                "body": "Equilibrate 2ml column with Binding buffer 1."
+            },
+            {
+                "title": "5)",
+                "body": "Load column with supernatant."
+            },
+            {
+                "title": "6)",
+                "body": "Wash column with 50ml binding buffer 1."
+            },
+            {
+                "title": "7)",
+                "body": "Wash column with 50ml binding buffer 2."
+            },
+            {
+                "title": "8)",
+                "body": "Wash column with 30ml wash buffer."
+            },
+            {
+                "title": "9)",
+                "body": "Elute with elution buffer.  Collect fractions.  Pool peak.  If protein starts to crash out, use 5 M NaCl to bring back into solution up to 500 mM total."
+            },
+            {
+                "title": "10)",
+                "body": "Concentrate protein to go onto S75 gel filtration column."
+            },
+            {
+                "title": "11)",
+                "body": "Gel filtration with 1xPBS/250mM NaCl/2mM β-ME.  \\(with the S75 column you can load 500 μl sample at a time roughly at 3-5mg/ml)"
+            }
+        ]
+    },
+    {
+        "title": "**Critical**",
+        "body": [
+            ":  if you need to concentrate the protein you will need to go up in NaCl and possible glycerol to stabilize the protein.",
+            {
+                "title": "12)",
+                "body": "SDS PAGE on purification.  Do protein concentration.  LN<sub>2</sub> freeze protein."
+            }
+        ]
+    }
+]

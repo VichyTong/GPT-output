@@ -1,0 +1,193 @@
+[
+    "\nPart A: Cleaning the components \r\n\n\n\r\n\n\nStep",
+    {
+        "title": "1.",
+        "body": "We clean all of the custom machined components such as the collimator holder, fiber holder, main frame, MEMS-alignment holder, microscope-alignment holder with 95% alcohol in the ultrasonic cleaner at ~50°C for 30 mins.\r\n\n\nStep"
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Air all of these components cleaned in",
+            {
+                "title": "Step 1",
+                "body": "in the super clean bench. \r\n\n\nCaution\\! MEMS is sensitive and fragile. Dusts or fragments in the microscope may drop onto the surface of the MEMS and cause permanent damage. Therefore, thoroughly cleaning of all components is essential. Thereafter, we carefully check these components under the stereoscope, making sure that they are free from dusts and fragments.\r\n\n\n\r\n\n\nPart B: Assembling the fiber collimator \r\n\n\n\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": "Peel off the coating layer \\(~3 cm) at the end of the HC-920 fiber by using the fiber stripping tool and cut the end face of the fiber using the fiber cutter.\r\n\n\nCaution\\! Before making the fiber collimator, we need to assure that the laser has been perfectly aligned to the HC-920 fiber. By checking the laser output from the HC-920 with a NIR Detector Card and the optical power meter, a round and Gaussian distributed light spot on the card indicates an efficient coupling between the laser and the fiber, which should be more than 70%.  \r\n\n\nStep"
+    },
+    {
+        "title": "4.",
+        "body": "Carefully inserting the end of processed fiber to the glass fiber holder until ~1-mm-length fiber appearing from the other end of the glass fiber holder \\(Fig. 1a).\r\n\n\nCaution\\! Insertion itself may break down the end of the fiber. We need to double check the laser output from the HC-920 after the insertion. The light spot should be still round. \r\n\n\nStep"
+    },
+    {
+        "title": "5.",
+        "body": "Drop one drop of UV-Curing optical adhesive to the hopper-like gap at one end of the glass holder. Wait for 1~2 mins until the adhesive fill the gap between the glass and the fiber. Then use UV lamp to solidify the adhesive gel \\(about 80 s exposure).\r\n\n\nCaution\\! We monitor the filling of the adhesive under the stereoscope to avoid the fiber output contaminated by the adhesive.\r\n\n\nStep"
+    },
+    {
+        "title": "6.",
+        "body": "Attach the collimating lens to the collimator holder by using a UV-Curing optical adhesive following a protocol similar to that in Step"
+    },
+    {
+        "title": "5.",
+        "body": "Step"
+    },
+    {
+        "title": "7.",
+        "body": "After inserting the fiber holder to the collimator holder, we fix the later to an adjustable fiber clamp on a 3-axis stage. Then we attach the HC-920 fiber to another adjustable fiber clamp on another 3-axis stage \\(Fig. 1b, component list in table 1, and technical drawings in Supplementary Zip files). \r\n\n\nCaution\\! Making sure that the HC-920 fiber can move back and forward smoothly within the hole of the fiber holder by coordinately adjusting two 3-axis stages.\r\n\n\nStep"
+    },
+    {
+        "title": "8.",
+        "body": "Carefully adjusting the distance between the end of the fiber \\(stuck to the fiber holder) and the collimating lens \\(stuck to the collimator holder) with the adjusters of the 3-axis stage until the laser beam from the collimating lens was collimated.\r\n\n\nCaution\\! Monitoring continuously the laser beam with the NIR detector card until the center spot remains unchanged within a long distance. Sometimes several side lobes are observable at large distance. That is normal because of the structure of hollow core fiber.\r\n\n\nStep"
+    },
+    {
+        "title": "9.",
+        "body": [
+            "Firmly attaching the collimator holder to the fiber holder with the UV-Curing optical adhesive \\(similar to that in Step",
+            {
+                "title": "5).",
+                "body": "Part C: Assembling the main body of the microscope headpiece \r\n\n\n\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "10.",
+        "body": "Prepare the assembling setups as shown in Fig. 2a. Different pieces of equipment are listed in Table 2\r\n\n\nStep"
+    },
+    {
+        "title": "11.",
+        "body": [
+            "Assemble the objective lens, dichroic mirror, and scan lens to the main frame of the objective in sequence by using UV-Curing optical adhesive with protocol shown in",
+            {
+                "title": "Step 5",
+                "body": "\\(Fig. 2b). \r\n\n\nCaution\\! By attaching the upper edge of the objective to the locating ring designed in the main frame \\(see the technical drawings in Supplementary Zip files for more details), the distance between the objective lower surface and the main frame surface shall be ~1mm.\r\n\n\nCaution\\! The reflection-coating surface should be rotated to face the laser input under the stereoscope. Be careful upon insertion of the dichroic mirror to the narrow slit on the main frame to avoid damages of the surface coating.\r\n\n\nCaution\\! The alignment of the objective lens, dichroic mirror, scan lens and collection lens critically depends on the mechanical coordination between each component and the Aluminum main frame. High machining accuracy of the main frame and well- alignment of optical components to the main frame are two key factors determining system performance.\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "12.",
+        "body": "Insert the fiber collimator to the main frame and fixing it with a M1.5 screw.\r\n\n\nCaution\\! Do not twist the screw too tight, which may distort the collimator holder.\r\n\n\n\r\n\n\nPart D: Aligning and assembling between the MEMS scanner and the main body of the microscope .\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "13.",
+        "body": "Prepare the alignment setups as shown in Fig."
+    },
+    {
+        "title": "3.",
+        "body": "The necessary pieces of equipment are listed in Table 3 and technical drawings are given in Supplementary Zip files. \r\n\n\nCaution\\! In this step, components 1,2,6,7,8,9,10 and 11 are installed at first. Components 3,4 and 5 are reserved.\r\n\n\nStep"
+    },
+    {
+        "title": "14.",
+        "body": [
+            "Pre-alignment of four irises \\(component 7 in Fig.",
+            {
+                "title": "3)",
+                "body": "to ensure that they are of the same height and collinear to each other.\r\n\n\nCaution\\! These four irises are used to align the position of the main body of the microscope to the MEMS. The positions of these irises shall remain unchanged during the whole assemble and alignment procedure.\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "15.",
+        "body": [
+            "Fix the main body of the microscope headpiece to the microscope-alignment holder by using a M4 screw. Switch on the laser. \r\n\n\nCaution\\! At this moment, because there is no MEMS mirror to reflect the laser to the scan lens, the laser from the collimator will directly penetrate the hole in the main frame \\(see Fig.",
+            {
+                "title": "4).",
+                "body": "Step"
+            }
+        ]
+    },
+    {
+        "title": "16.",
+        "body": [
+            "While adjusting the 6-Axis Kinematic optic mount that holds the microscope-alignment holder \\(the first component 2 in Fig. 3), we observe the laser spot by using the NIR Detector Card until the laser beam penetrating through the first pair of collinear irises \\(Fig.",
+            {
+                "title": "4).",
+                "body": "Rotating the main body of the microscope headpiece to ensure its side-face been horizontal. Visual inspection and estimation of alignment is good enough.\r\n\n\nCaution\\! In this step, the 6-Axis kinematic optic mount holding the MEMS-alignment holder should be removed or it will block the laser output from the collimator.\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "17.",
+        "body": [
+            "Re-install the 6-Axis kinematic optic mount that holds the MEMS-alignment holder \\(the second component 2 in Fig.",
+            {
+                "title": "3).",
+                "body": "Attach the MEMS onto the MEMS-alignment holder by using the double-sided tape.\r\n\n\nCaution\\! The connected wires of the MEMS should be plugged on the PCB attached to the back of the MEMS \\(Fig. 5 and technical drawings in Supplementary Zip files).  \r\n\n\nCaution\\! The protect window on the surface of MEMS should be moved off after the attachment of the MEMS to the holder.\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "18.",
+        "body": "Adjust the MEMS to its center position; observe the laser spot after the MEMS with the NIR Detector Card. Adjust the 6-Axis kinematic optic mount that holds the MEMS-alignment holder until the laser spot become the brightest, measured by the power meter. After this step, the incident laser beam shall be placed at the center of the MEMS. \r\n\n\nStep"
+    },
+    {
+        "title": "19.",
+        "body": [
+            "Keep the MEMS at its center position \\(zero scanning angle). Observe the spot of laser reflected from the MEMS with the NIR Detector Card; adjust the 6-Axis kinematic optic mount that holds the MEMS-alignment holder until the laser beam penetrates through the second pair of collinear irises \\(Fig.",
+            {
+                "title": "6).",
+                "body": "After this step, the incident laser beam shall be 45°related to the surface of MEMS. Eyeballing is good enough in this case.\r\n\n\nCaution\\! Cycle between"
+            },
+            {
+                "title": "Step 18",
+                "body": "and"
+            },
+            {
+                "title": "Step 19",
+                "body": "for several times to yield satisfactory results. \r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "20.",
+        "body": [
+            "Move the one-axis stage that holds the MEMS \\(the component 1 in Fig.",
+            {
+                "title": "3)",
+                "body": "forward to the main body of the microscope headpiece until they almost touch each other \\(Fig."
+            },
+            {
+                "title": "7).",
+                "body": "After this step, you shall expect the incident laser penetrating the objective lens detected by the NIR Detector Card.\r\n\n\nCaution\\! Do not move the stage too rapidly to avoid the crash between the MEMS and main body of the microscope headpiece, which will also destroy the alignment.\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "21.",
+        "body": [
+            "Slightly adjust the relative position between the MEMS and the main body of the microscope headpiece while observing the laser output from the objective lens. Perfect alignment appears when the profile of the output laser from the objective is an ellipse symmetrical to the optics axis of the objective \\(Fig.",
+            {
+                "title": "8).",
+                "body": "Visual inspection and estimation of alignment is good enough.\r\n\n\nCaution\\! If the main frame is manufactured with a sufficient precision, placing its surface onto the MEMS is good enough for alignment.\r\n\n\n\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "22.",
+        "body": "After the preliminary alignment of the MEMS and main body of the microscope headpiece, we scan the MEMS and observe the change of laser direction from the objective. We need to slightly adjust the MEMS position to ensure a stable brightness of the laser during the scanning.\r\n\n\nCaution\\! Repeat step 21 and step 22 until both requirements are satisfied. \r\n\n\nStep"
+    },
+    {
+        "title": "23.",
+        "body": [
+            "Drop the UV-Curing optical adhesive to the gap between the MEMS package and the surface of the main frame attached. Follow the protocol shown in",
+            {
+                "title": "Step 5",
+                "body": ".\r\n\n\nCaution\\! Do not use overdose of adhesive, otherwise it will stick to the surface of the MEMS and cause damage.\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "24.",
+        "body": "After the UV-Curing optical adhesive is cured, we add epoxy glue around the gap, waited for at least 24 hours to stabilize the attachment between the MEMS and the main frame.\r\n\n\nCaution\\! During step 23 and step 24, the main body of the microscope headpiece and the MEMS shall be kept in the MEMS-alignment holder and microscope-alignment holder, respectively.\r\n\n\nStep"
+    },
+    {
+        "title": "25.",
+        "body": "After the epoxy glue is cured, we separate the MEMS from the MEMS-alignment holder first, and then remove the whole assembled microscope headpiece from the microscope-alignment holder.\r\n\n\nStep"
+    },
+    {
+        "title": "26.",
+        "body": "Attach the collection lens to the end of the SFB \\(supple fiber bundle) before inserting them to the main body of the microscope headpiece."
+    }
+]

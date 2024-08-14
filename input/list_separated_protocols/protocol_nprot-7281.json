@@ -1,0 +1,62 @@
+[
+    {
+        "title": "1.",
+        "body": "Collect approximately 5 × 107 cells from yeast exponentially growing cultures"
+    },
+    {
+        "title": "2.",
+        "body": "Pellet cells by centrifugation at 4000xg at 4ºC and wash once with water"
+    },
+    {
+        "title": "3.",
+        "body": "Cells can be stored at -20ºC"
+    },
+    {
+        "title": "4.",
+        "body": "Resuspend cells with 200 μl of Z Buffer + β-mercaptoethanol \\(0.27% \\(v/v)) containing 1mg/mL zymolyase-20T"
+    },
+    {
+        "title": "5.",
+        "body": "Incubate samples 20-30 min at 30ºC to digest cells"
+    },
+    {
+        "title": "6.",
+        "body": "Centrifuge cells at 13400xg for 5 min at 4°C"
+    },
+    {
+        "title": "7.",
+        "body": "Transfer the supernatant to a new eppendorf"
+    },
+    {
+        "title": "8.",
+        "body": "Use 1 or 2 μL of the extract to quantify the amount of protein using the Bradford assay \\(Concentration)"
+    },
+    {
+        "title": "9.",
+        "body": "Mix 180 μl of extract \\(Volume) with 700 μL of Z Buffer + β-mercaptoethanol"
+    },
+    {
+        "title": "10.",
+        "body": "Start the reaction by adding 200 μL of 4mg/mL ONPG \\(o-nitrophenyl- β-D-galactopiranoside"
+    },
+    {
+        "title": "11.",
+        "body": "Incubate samples at 30ºC until they become yellow coloured \\(up to 90 minutes)"
+    },
+    {
+        "title": "12.",
+        "body": "When yellow colour appears \\(Time), stop the reaction with 500 μL of Na2CO3 1M"
+    },
+    {
+        "title": "13.",
+        "body": "Centrifuge cells at 13400xg for 1 min to pellet cells"
+    },
+    {
+        "title": "14.",
+        "body": "Measure A460"
+    },
+    {
+        "title": "15.",
+        "body": "β -galactosidase activity is expressed in arbitrary units \\(U), from the following formula:\r\n\n\nU=\\(A460 x1000)/\\(Time \\(〖min) x Volume \\(µL)x Concentration \\(µg/µL)〗⁡ )"
+    }
+]

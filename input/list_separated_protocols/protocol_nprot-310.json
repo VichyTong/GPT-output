@@ -1,0 +1,42 @@
+[
+    {
+        "title": "1.",
+        "body": "Dialyze the pooled H1-depleted chromatin overnight against buffer A at 4 °C."
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Equilibrate a 20-mL hydroxyapatite column with buffer A and apply H1-depleted chromatin at a flow rate of 2 mL/min in 0% buffer B \\(see Note",
+            {
+                "title": "2).",
+                "body": "Wash the column with the same buffer under the same conditions for 30 min."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": "Elute non-histone proteins with 25% buffer B \\(0.5 M NaCl), at a flow rate of 2 mL/min over 30 min.  Elute the core histones as octamers wth 100% buffer B \\(2 M NaCl) over 15 min \\(collect 2-mL factions).  Determine the concentration of core histones in each fraction from the absorbance \\(OD<sub>230nm</sub> = 4.2 corresponds to 1 mg/mL).  Analyze the proteins in each fraction on an 18% polyacrylamide gel by SDS-PAGE \\(see Note 3)."
+    },
+    {
+        "title": "4.",
+        "body": [
+            "Pool fractions that contain core histones.  Concentrate proteins to greater than 0.1 mg/mL for reconstitution of chromatin, if necessary, using a concentrator \\(MWCO, 10,000) or a CM52 column.  Store at －20 °C in siliconized tubes.\r\n  \r\n\n\n",
+            {
+                "title": "**Further Purification and Concentration of Core Histones**",
+                "body": ""
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": "Dialyze core histones against dialysis buffer at 4 °C."
+    },
+    {
+        "title": "2.",
+        "body": "Prepare a 2-mL CM52 column \\(5 mg histone/mL bed volume) and equilibrate with dialysis buffer."
+    },
+    {
+        "title": "3.",
+        "body": "Apply core histones to the column, wash thoroughly with 15 mL of dialysis buffer and elute with 5 mL of elution buffer.  Measure the absorbance of a small aliquot in water at 230 nm to determine the concentration of histones.  Store at －20 °C in siliconized tubes."
+    }
+]

@@ -1,0 +1,10 @@
+[
+    "To determine LOD in a given past geologic epoch following steps have to be taken:",
+    "1. Set up the velocity of recession expression so as to obtain 3.7cm/y recession in the present time.\r\n  ",
+    "2.Set up the numerical integration of the reciprocal of the Velocity of Recession and spatially intagrate it from a given lunar orbit to the present lunar orbit of 3.884^8m.",
+    "3.",
+    "Through several iterations make the integrand converge to the past geologic epoch time magnitude.",
+    "This gives the desired lunar orbit which existed in the past geologic epoch.\r\n  ",
+    "4. Substitute this desired lunar orbi in LOD expression in hours.\r\n  ",
+    "5.We have obtained the LOD in the given past geologic epoch.t"
+]

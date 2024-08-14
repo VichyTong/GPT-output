@@ -1,0 +1,508 @@
+[
+    {
+        "title": "**Cultivation and harvest of cells followed by high molecular weight \\(HMW) genomic DNA extraction**",
+        "body": [
+            "This step isolates all high molecular weight DNA from human cancer cell lines using magnetic bead-based purification. Purification of all high molecular weight DNA allows for isolation of a broad range of circular DNA species sizes. The method is adapted from the Qiagen MagAttract High Molecular Weight DNA Kit<sup>6</sup>.",
+            {
+                "title": "1.",
+                "body": "Cultivate between 1 x 10<sup>6</sup> and 1.0 x 10<sup>7</sup> cells."
+            },
+            {
+                "title": "2.",
+                "body": "Trypsinize cells and centrifuge a maximum of 1.0 x 10<sup>7</sup> cells at 300 x g for 5 minutes at 25°C. Remove and discard the supernatant, taking care not to disturb the cell pellet. The pellet may be stored at -80°C for future use or may be used immediately. It is recommended to use freshly pelleted cells to avoid cell death by freeze-thaw."
+            },
+            {
+                "title": "3.",
+                "body": "Using the Qiagen HMW DNA Kit, gently resuspend the pellet in 180 µL in 50 mM TrisHCl, 10 mM EDTA and transfer the sample to a 2 mL microcentrifuge tube."
+            },
+            {
+                "title": "4.",
+                "body": "Add 20 µL proteinase K and mix by tapping the tube."
+            },
+            {
+                "title": "5.",
+                "body": "Place the sample in a thermomixer or shaker-incubator. Incubate at 56°C while shaking at 900 rpm for 2 hours. The time required for complete cell lysis depends on the cell-type and cell number."
+            },
+            {
+                "title": "6.",
+                "body": "Add 4 µL RNase A \\(100 mg/mL) and incubate for 2 minutes at 25°C."
+            },
+            {
+                "title": "7.",
+                "body": "Add 150 µL Buffer AL and mix well by pipetting up and down."
+            },
+            {
+                "title": "8.",
+                "body": "Add 280 µL Buffer MB and vortex for 2 minutes."
+            },
+            {
+                "title": "9.",
+                "body": "Add 40 µL of MagAttract Suspension G to the sample and shake at 1400 rpm for 2 minutes. \r\n  \r\n\n\nNote: Vortex Suspension G before adding to the sample to ensure that the magnetic particles are fully resuspended."
+            },
+            {
+                "title": "10.",
+                "body": "Place the sample tube in a magnetic rack and wait approximately 1 minute for bead separation to be complete. Carefully remove all of the supernatant in the tube and avoid disturbing the magnetic bead pellet."
+            },
+            {
+                "title": "11.",
+                "body": "Add 700 µL of Buffer MW1 and shake at 1400 rpm for 2 minutes."
+            },
+            {
+                "title": "12.",
+                "body": "Repeat step 10 by placing sample tube on the magnetic rack, waiting 1 minute for separation, and removing supernatant while avoiding disruption of the magnetic bead pellet."
+            },
+            {
+                "title": "13.",
+                "body": "Add another 700 µL of Buffer MW1 and shake at 1400 rpm for 2 minutes."
+            },
+            {
+                "title": "14.",
+                "body": "Repeat step 10 by placing sample tube on the magnetic rack, waiting 1 minute for separation, and removing supernatant while avoiding disruption of the magnetic bead pellet."
+            },
+            {
+                "title": "15.",
+                "body": "Add 700 µL of Buffer PM and shake at 1400 rpm for 2 minutes."
+            },
+            {
+                "title": "16.",
+                "body": "Place the sample tube in a magnetic rack and wait approximately 1 minute for bead separation to be complete. Carefully remove all of the supernatant in the tube and avoid disturbing the magnetic bead pellet."
+            },
+            {
+                "title": "17.",
+                "body": "Carefully add 700 µL of distilled, nuclease-free water to the sample tube while the tube is on the magnetic rack. Do not add water directly to the bead pellet; carefully pipet the water down the side of the tube facing away from the pellet.  Incubate the tube on the magnetic rack for 1 minute at 25°C and the remove supernatant."
+            },
+            {
+                "title": "18.",
+                "body": "Remove the sample tube from the magnetic rack. Add 200 µL distilled, nuclease-free water and shake at 1400 rpm for 3 minutes."
+            },
+            {
+                "title": "19.",
+                "body": "Place the sample tube back on the magnetic rack and wait 1 minute for bead separation. Transfer the supernatant to a new sample tube. This supernatant contains the high molecular weight gDNA."
+            },
+            {
+                "title": "20.",
+                "body": "Measure the concentration of the DNA."
+            }
+        ]
+    },
+    {
+        "title": "**Optional control - Linearization of circular DNA**",
+        "body": [
+            "This step is optional and should be done with a fraction of the HMW DNA extracted above as it will result in the linearization and thus loss of circular DNA. This step uses the endonuclease MssI/PmeI to hydrolyze mitochondrial and other large circular DNA to create exposed DNA ends and serves as a control to ensure circularity of the DNA. These DNA ends can then be accessed by an exonuclease to hydrolyze any linear DNA in the sample. In case your circular DNA of interest has no MssI site, use a different endonuclease with restrictions sites at your circular DNA.",
+            {
+                "title": "1.",
+                "body": "Treat purified high molecular weight DNA with the rare-cutting endonuclease MssI/PmeI. To digest 5 µg DNA, prepare the following 50 µL reaction: \r\n  \r\n\n\n0.2 µL MssI \\(5 U/µL)\r\n\n\n5 µL 10x Buffer B \r\n\n\nUp to 44.8 µL HMW DNA \\(5 µg)\r\n\n\nFill to 50 µL with distilled, nuclease-free water \\(quantity required for 50 µL total volume) \r\n\n\n\r\n\n\nIncubate the reaction at 37°C for 16 hours and then heat inactivate the endonuclease at 80°C for 5 minutes. \r\n\n\nElimination of linear chromosomal DNA and purification of circular DNA"
+            },
+            {
+                "title": "1.",
+                "body": "Treat the reaction with Plasmid-Safe exonuclease to facilitate digestion of linear DNA. Add the following to the reaction for a total volume of 100 µL: \r\n  \r\n\n\n2 µL Plasmid-Safe ATP-Dependent DNase \\(20 units) \r\n\n\n4 µL ATP \\(25 mM)\r\n\n\n10 µL Plasmid-Safe 10x Reaction Buffer \r\n\n\n34 µL distilled, nuclease-free water \r\n\n\n\r\n\n\nIncubate the reaction at 37°C for 24 hours."
+            },
+            {
+                "title": "2.",
+                "body": "Perform hydrolysis of linear DNA at 37°C for 5 days. After each 24 hour incubation, add the following to each reaction to continue the enzymatic digestion: \r\n  \r\n\n\n2 µL Plasmid-Safe ATP-Dependent DNase \\(20 units) \r\n\n\n4 µL ATP \\(25 mM)\r\n\n\n0.6 µL Plasmid-Safe 10x Reaction Buffer"
+            },
+            {
+                "title": "3.",
+                "body": "After 5 days of digestion, heat inactivate the exonuclease by incubating at 70°C for 30 minutes."
+            },
+            {
+                "title": "4.",
+                "body": "Sample 2 µL of the exonuclease-digested reaction to confirm elimination of linear chromosomal DNA by quantitative polymerase chain reaction \\(qPCR). Use primers to amplify a chromosomal marker such as the β-globin gene HBB."
+            }
+        ]
+    },
+    {
+        "title": "**Quantitative PCR of HBB gene to confirm elimination of linear chromosomal DNA**",
+        "body": "This step uses qPCR of the human beta globin gene, HBB, to assess the fold-reduction of linear chromosomal DNA after exonuclease digestion and MDA. \r\n\n\n\r\n\n\nPrepare each reaction as follows:\r\n\n\n10 µL SYBR Green Master Mix \\(2x) \r\n\n\n1 µL Beta globin forward primer \\(10 µM)\r\n\n\n1 µL Beta globin reverse primer \\(10 µM)\r\n\n\n1.5 µL Sample DNA\r\n\n\n6.5 µL distilled, nuclease free water\r\n\n\n\r\n\n\nRun reactions using a standard protocol on a real-time PCR machine, for example StepOnePlus Real-Time PCR system."
+    },
+    {
+        "title": "**Rolling circle amplification of circular DNA by Multiple Displacement Amplification \\(MDA)**",
+        "body": [
+            "This step amplifies the remaining circular DNA in the reaction by MDA using φ29 DNA polymerase and random hexamer primers. Using the Qiagen REPLI-g Mini Kit7, from which this reaction is adapted, prepare the MDA reaction as follows:",
+            {
+                "title": "1.",
+                "body": "Place 5 µL of the exonuclease-digested sample into a 0.2 mL PCR tube."
+            },
+            {
+                "title": "2.",
+                "body": "Add 5 µL Buffer D1 to the sample. Vortex to mix and centrifuge briefly. Incubate the sample at 25°C for 3 minutes."
+            },
+            {
+                "title": "3.",
+                "body": "Add 10 µL Buffer N1 to the sample. Vortex to mix and centrifuge briefly."
+            },
+            {
+                "title": "4.",
+                "body": "Prepare the REPLI-g DNA Polymerase master mix as follows: \r\n  \r\n\n\n29 µL REPLI-g Mini Reaction Buffer\r\n\n\n1 µL REPLI-g Mini DNA Polymerase"
+            },
+            {
+                "title": "5.",
+                "body": "Add the 30 µL master mix to the 20 µL sample for a total reaction volume of 50 µL. Incubate the reaction at 30°C for 16 hours."
+            },
+            {
+                "title": "6.",
+                "body": "Heat inactivate the reaction at 65°C for 3 minutes."
+            },
+            {
+                "title": "7.",
+                "body": "Measure the quantity of double-stranded DNA obtained from the MDA reaction fluorometrically, for example using a Qubit Fluorometer. \r\n  \r\n\n\nNote: It is not recommended to measure DNA quantity at this step with a spectrophotometer due to the presence of random hexamer primers and φ29 DNA polymerase in the reaction mixture."
+            }
+        ]
+    },
+    {
+        "title": "**Sample Cleanup**",
+        "body": [
+            "This step uses magnetic bead-based purification for removal of random hexamer primers and φ29 DNA polymerase from the reaction mixture. This protocol is adapted from the NEBNext DNA Library Prep Kit for Illumina8.",
+            {
+                "title": "1.",
+                "body": "First, vortex AMPure XP beads vigorously to ensure they are fully resuspended."
+            },
+            {
+                "title": "2.",
+                "body": "Add 86.5 µL of resuspended beads to the sonicated circular DNA sample. Mix well by pipetting up and down a minimum of 10 times. Incubate at 25°C for 5 minutes."
+            },
+            {
+                "title": "3.",
+                "body": "Briefly centrifuge the tube and place it on a magnetic rack. Wait for 5 minutes to allow beads to fully separate from the supernatant. Then, remove and discard the supernatant while being careful not to disturb the magnetic bead pellet."
+            },
+            {
+                "title": "4.",
+                "body": "Add 400 µL of 80% ethanol to the sample while on the rack. Rotate the microcentrifuge tube in the rack to ensure thorough wash. Incubate at 25°C for 30 seconds. Then, carefully remove and discard all of the supernatant while not disturbing the pellet. Use a 10 µL pipet tip if necessary to ensure all residual ethanol is removed."
+            },
+            {
+                "title": "5.",
+                "body": "Repeat the wash described in Step 5, again ensuring that the bead pellet is not disturbed and that all the ethanol is removed."
+            },
+            {
+                "title": "6.",
+                "body": "Open the microcentrifuge tube while on the magnetic rack. Allow bead pellet to air dry for 3 to 5 minutes."
+            },
+            {
+                "title": "7.",
+                "body": "Remove the tube from the magnetic rack and add 58 µL of distilled, nuclease-free water to the bead pellet. Vortex to mix and then incubate at 25°C for 2 minutes."
+            },
+            {
+                "title": "8.",
+                "body": "Briefly centrifuge the tube and place in on the magnetic rack. Wait for 5 minutes to allow beads to fully separate from the supernatant. When the solution is clear, transfer the supernatant containing the DNA to a new tube."
+            }
+        ]
+    },
+    {
+        "title": "**Shearing of Amplified circular DNA**",
+        "body": [
+            "This step shears the amplified circular DNA into fragments of appropriate size for the generation of DNA libraries that may be used for Next Generation Sequencing. \r\n\n\nShear a minimum of 50 ng and up to 2 µg of the amplified circular DNA with a focused ultrasonicator \\(e.g. the Covaris S220 series) for an average target peak size of 150 - 200 bp. Use the following settings for a 50 µL sample in a Covaris 6x16 mm microtube: \r\n\n\n\r\n\n\nPeak power: 175.0 W  \r\n\n\nDuty factor: 10.0 \r\n\n\nCycles/burst: 200 \r\n\n\nTemperature: 6°C\r\n\n\nTime: 6 minutes \r\n\n\n\r\n\n\nTransfer sonicated circular DNA to a new 1.5 mL microcentrifuge tube. \r\n\n\n\r\n\n\n*Library Preparation for Next Generation Sequencing \r\n\n\nEnd-Repair, Adaptor Ligation, and USER Enzyme Digestion Reactions* \r\n\n\n\r\n\n\nThis step prepares DNA libraries for Next Generation Sequencing. First, DNA ends are repaired by the addition of a 3’ adenine nucleotide \\(3’ dA-tailing) and 5’ thymine nucleotide \\(5’ phosphorylation). Then, universal hairpin adaptors are ligated to the DNA fragments. Next, USER enzyme is used to hydrolyze the hairpin loops at a unique uracil residue. This protocol is adapted from the NEBNext DNA Library Prep Kit for Illumina.",
+            {
+                "title": "1.",
+                "body": "Using the NEBNext Ultra DNA Library Prep Kit for Illumina, prepare the end repair reaction for the sheared DNA in a 0.2 mL PCR tube as follows: \r\n  \r\n\n\n3.0 µL End Prep Enzyme Mix\r\n\n\n6.5 µL End Repair Reaction Buffer \\(10X)\r\n\n\n55.5 µL Sheared DNA \\(5 ng – 1 µg) \r\n\n\n\r\n\n\nTotal volume: 65 µL\r\n\n\n\r\n\n\nMix by pipetting up and down and then briefly centrifuge to remove all liquid from the tube sides."
+            },
+            {
+                "title": "2.",
+                "body": "Place the tube in a thermocycler and carry out the end repair reaction by running the following program:\r\n  \r\n\n\n20°C for 30 minutes \r\n\n\n65°C for 30 minutes \r\n\n\n4°C until ready to proceed"
+            },
+            {
+                "title": "3.",
+                "body": "Perform the adaptor ligation reaction by adding the following to the end repair reaction: \r\n  \r\n\n\n15 µL Blunt/TA Ligase Master Mix\r\n\n\n2.5 µL NEBNext Adaptor for Illumina \r\n\n\n1 µL Ligation enhancer    \r\n\n\n\r\n\n\nTotal volume: 83.5 µL\r\n\n\n\r\n\n\nMix by pipetting up and down and then briefly centrifuge to remove all liquid from the tube sides"
+            },
+            {
+                "title": "4.",
+                "body": "Carry out the adaptor ligation reaction by incubating the tube at 20°C for 15 minutes."
+            },
+            {
+                "title": "5.",
+                "body": "Add 3 µL of USER enzyme to the adaptor ligation reaction and mix well. Incubate at 37°C for 15 minutes."
+            }
+        ]
+    },
+    {
+        "title": "**Cleanup of Sample with Size Selection**",
+        "body": [
+            "This step uses magnetic bead-based purification for size selection for 320 bp fragments.",
+            {
+                "title": "1.",
+                "body": "Vortex AMPure XP Beads vigorously to ensure they are fully resuspended."
+            },
+            {
+                "title": "2.",
+                "body": "Add 13.5 µL of distilled, nuclease-free water to the adaptor-ligated sample to bring the total volume up to 100 µL."
+            },
+            {
+                "title": "3.",
+                "body": "Add 55 µL of AMPure XP Beads to the sample. Mix by pipetting up and down at least 10 times. Incubate at 25°C for 5 minutes."
+            },
+            {
+                "title": "4.",
+                "body": "Briefly centrifuge the sample and place it in a magnetic rack. Wait 5 minutes to allow the beads to fully separate from the supernatant. Transfer the supernatant containing the adaptor-ligated sample to a new microcentrifuge tube. Be careful not to disturb the magnetic bead pellet while removing the supernatant. Discard the magnetic bead pellet."
+            },
+            {
+                "title": "5.",
+                "body": "Add 25 µL of AMPure XP Beads to the supernatant. Mix thoroughly and incubate at 25°C for 5 minutes."
+            },
+            {
+                "title": "6.",
+                "body": "Briefly centrifuge the sample and place it in a magnetic rack. Wait 5 minutes to allow the beads to fully separate from the supernatant. Remove and discard the supernatant. Be careful not to disturb the magnetic bead pellet that contains the desire DNA targets."
+            },
+            {
+                "title": "7.",
+                "body": "Add 400 µL of 80% ethanol to the tube while in the magnetic rack. Rotate the tube to ensure the bead pellet is thoroughly washed. Incubate at 25°C for 30 seconds and then remove and discard the supernatant."
+            },
+            {
+                "title": "8.",
+                "body": "Repeat the wash in step"
+            },
+            {
+                "title": "13.",
+                "body": "Use a 10 µL pipet tip if necessary to ensure all residual ethanol is removed from the tube."
+            },
+            {
+                "title": "9.",
+                "body": "Open the sample tube on the magnetic rack and allow to airdry the magnetic bead pellet for 5 minutes."
+            },
+            {
+                "title": "10.",
+                "body": "Remove the sample tube from the magnetic rack. Elute the DNA by adding 17 µL of distilled, nuclease-free water to the magnetic bead pellet. Mix well by vortexing and then incubate at 25°C for 2 minutes."
+            },
+            {
+                "title": "11.",
+                "body": "Briefly centrifuge the tube and then place it on the magnetic rack. Wait 5 minutes for the beads to fully separate from the supernatant. Transfer the supernatant containing the size-selected, adaptor-ligated DNA targets to a new tube."
+            }
+        ]
+    },
+    {
+        "title": "**Amplification of Adaptor-Ligated DNA by PCR**",
+        "body": [
+            "In this step, adaptor-ligated DNA fragments are enriched in the sample by PCR using primers that hybridize to the NEBNext adaptors.",
+            {
+                "title": "1.",
+                "body": "Prepare the PCR reaction to amplify adaptor-ligated DNA by mixing the following in a 0.2 mL PCR tube: \r\n  \r\n\n\n15 µL Adaptor-ligated DNA fragments \r\n\n\n10 µL Index/Universal Primer Mix \r\n\n\n25 µL NEBNext Q5 Hot Start HiFi PCR Master Mix \r\n\n\n\r\n\n\nTotal volume: 50 µL"
+            },
+            {
+                "title": "2.",
+                "body": "Place tube in a thermocycler and carry out the PCR amplification by running the following program: \r\n  \r\n\n\n98°C for 30 seconds \r\n\n\n12 cycles of:\r\n\n\n98°C \\(10 seconds)\r\n\n\n65°C \\(75 seconds) \r\n\n\n1x 65°C for 5 minutes \r\n\n\n4°C until ready to proceed"
+            }
+        ]
+    },
+    {
+        "title": "**Cleanup of PCR Amplified Sample**",
+        "body": [
+            "This step uses magnetic bead-based purification for removal of improperly ligated and amplified DNA fragments.",
+            {
+                "title": "1.",
+                "body": "Vortex AMPure XP Beads vigorously to ensure they are fully resuspended"
+            },
+            {
+                "title": "2.",
+                "body": "Add 45 µL of AMPure XP Beads to the sample. Mix by pipetting up and down at least 10 times. Incubate at 25°C for 5 minutes."
+            },
+            {
+                "title": "3.",
+                "body": "Briefly centrifuge the tube and place it on a magnetic rack. Wait for 5 minutes to allow beads to fully separate from the supernatant. Then, remove and discard the supernatant while being careful not to disturb the magnetic bead pellet."
+            },
+            {
+                "title": "4.",
+                "body": "Add 400 µL of 80% ethanol to the tube while in the magnetic rack. Rotate the tube to ensure the bead pellet is thoroughly washed. Incubate at 25°C for 30 seconds and then remove and discard the supernatant."
+            },
+            {
+                "title": "5.",
+                "body": "Repeat the wash in step"
+            },
+            {
+                "title": "4.",
+                "body": "Use a 10 µL pipet tip if necessary to ensure all residual ethanol is removed from the tube."
+            },
+            {
+                "title": "6.",
+                "body": "Open the sample tube on the magnetic rack and allow to airdry the magnetic bead pellet for 5 minutes."
+            },
+            {
+                "title": "7.",
+                "body": "Remove the sample tube from the magnetic rack. Elute the DNA by adding 33 µL of distilled, nuclease-free water to the magnetic bead pellet. Mix by pitetting up and down 10 times."
+            },
+            {
+                "title": "8.",
+                "body": "Briefly centrifuge and then incubate the tube at 25°C for 2 minutes."
+            },
+            {
+                "title": "9.",
+                "body": "Briefly centrifuge the tube and then place it on the magnetic rack. Wait 5 minutes for the beads to fully separate from the supernatant. Transfer the supernatant containing the size-selected, adaptor-ligated libraries to a new tube. \r\n  \r\n\n\nStore libraries at -20°C"
+            },
+            {
+                "title": "10.",
+                "body": "Dilute 2-3 µL of the library 5-fold with distilled, nuclease-free water and use an Agilent Bioanalyzer high sensitivity chip to verify the size of amplified library fragments."
+            }
+        ]
+    },
+    {
+        "title": "**Next Generation Paired-End Sequencing using Illumina MiSeq Technology**",
+        "body": [
+            "This step uses the Illumina MiSeq NGS platform with a MiSeq v2 kit to perform 150 bp paired-end sequencing. This protocol was adapted from the Illumina MiSeq System Guide9.",
+            {
+                "title": "1.",
+                "body": "Remove tube of buffer HT1 from storage at -20°C and allow to thaw at 25°C. When buffer is thawed, store at 4°C until ready to dilute the denatured libraries."
+            },
+            {
+                "title": "2.",
+                "body": "Remove the reagent cartridge from storage at -20°C. Place in a 25°C water bath with enough water to submerge the reagent cartridge up to the water line. Do not allow the water to rise above the line. Allow the cartridge to thaw in the water bath for approximately 1 hour."
+            },
+            {
+                "title": "3.",
+                "body": "Remove the cartridge from the water bath, gently tap it to remove water from the base, and dry the base of the cartridge. Ensure that no water has splashed on the top of the cartridge."
+            },
+            {
+                "title": "4.",
+                "body": "Invert the reagent cartridge 10 times to mix the reagents and visually inspect that reagents are thawed at all positions."
+            },
+            {
+                "title": "5.",
+                "body": "Carefully inspect position 1 to ensure the reagents are fully mixed and no precipitates have formed."
+            },
+            {
+                "title": "6.",
+                "body": "Gently tap the cartridge on the benchtop to remove air bubbles from the reagents."
+            },
+            {
+                "title": "7.",
+                "body": "Store cartridge at 4°C if not proceeding directly to sample run. For best results, proceed to running samples immediately after preparing the cartridge."
+            },
+            {
+                "title": "8.",
+                "body": "Clean the foil seal over the reservoir labeled “Load Samples” \\(17) with a Kim Wipe."
+            },
+            {
+                "title": "9.",
+                "body": "Pierce the seal above the Load Samples reservoir with a 1000 µL pipette tip."
+            },
+            {
+                "title": "10.",
+                "body": "Pipette up to 600 µL of libraries into the Load Samples reservoir. Do not touch the foil seal."
+            }
+        ]
+    },
+    {
+        "title": "**Setting up a Run with MiSeq Control Software \\(MCS)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Select “Manage Instrument” on the Home screen."
+            },
+            {
+                "title": "2.",
+                "body": "Select “Reboot” to reboot the system software."
+            },
+            {
+                "title": "3.",
+                "body": "Select “Sequence” on the Home screen to begin setting up the run."
+            },
+            {
+                "title": "4.",
+                "body": "From the BaseSpace Options screen which opens, select or clear the checkboxes marked “Use BaseSpace for storage and analysis” and “Use BaseSpace Onsite for storage and analysis”."
+            },
+            {
+                "title": "5.",
+                "body": "Select “Next”"
+            }
+        ]
+    },
+    {
+        "title": "**Cleaning the MiSeq Flow Cell**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Wearing gloves, use plastic forceps to remove the flow cell from its container by gripping it at the base of the plastic cartridge."
+            },
+            {
+                "title": "2.",
+                "body": "Rinse the flow cell with distilled water until all excess salts have been removed from the glass and plastic cartridge."
+            },
+            {
+                "title": "3.",
+                "body": "Clean the flow cell and cartridge with a lint-free lens cleaning tissue. Pat dry the black flow cell port gasket area and adjacent glass. Use care around this area of the flow cell."
+            },
+            {
+                "title": "4.",
+                "body": "Clean the flow cell with an alcohol wipe. Ensure that no streaks, fingerprints, or tissue fibers remain on the glass."
+            },
+            {
+                "title": "5.",
+                "body": "Dry remaining alcohol with a Kim Wipe."
+            },
+            {
+                "title": "6.",
+                "body": "Ensure that the flow cell ports are unobstructed and that the gasket is well-seated around the flow cell ports. Press the gasket back into place if it appears to have become dislodged."
+            }
+        ]
+    },
+    {
+        "title": "**Loading the Flow Cell, Reagents, and Reagent Cartridge**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Open the flow cell compartment door and press the release button on the right of the flow cell latch to open it."
+            },
+            {
+                "title": "2.",
+                "body": "Clean the flow cell stage with ethanol or isopropanol if necessary to remove any debris."
+            },
+            {
+                "title": "3.",
+                "body": "Place the flow cell on the flow cell stage while holding the flow cell by its edges."
+            },
+            {
+                "title": "4.",
+                "body": "Carefully press down on the flow cell latch to close it over the flow cell. An audible click will be heard if the flow cell latch is secure."
+            },
+            {
+                "title": "5.",
+                "body": "Close the flow cell compartment door and select “Next”."
+            },
+            {
+                "title": "6.",
+                "body": "Remove bottle PR2 from storage at 4°C. Mix by inverting the bottle and then remove the lid."
+            },
+            {
+                "title": "7.",
+                "body": "Open the reagent compartment door."
+            },
+            {
+                "title": "8.",
+                "body": "Raise the sipper handle until it locks into place."
+            },
+            {
+                "title": "9.",
+                "body": "Remove the wash bottle and load the PR2 bottle. Discard contents of wash bottle."
+            },
+            {
+                "title": "10.",
+                "body": "Carefully lower the sipper handle. Ensure the sippers are lowered into the PR2 bottle and waste bottle."
+            },
+            {
+                "title": "11.",
+                "body": "Select “Next”."
+            },
+            {
+                "title": "12.",
+                "body": "Open the reagent chiller door."
+            },
+            {
+                "title": "13.",
+                "body": "Slide the reagent cartridge into the reagent chiller until the cartridge stops sliding while holding the cartridge by the end with the Illumina label."
+            },
+            {
+                "title": "14.",
+                "body": "Close the reagent chiller door and the reagent compartment door."
+            }
+        ]
+    },
+    {
+        "title": "**Initiating the Sequencing Run**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Review the experiment name, analysis workflow, read length, and folder locations. Change any of these parameters if necessary. When ready, select “Next”."
+            },
+            {
+                "title": "2.",
+                "body": "The system will perform a pre-run check to ensure all components are properly in place before beginning the run. When the check has finished and all components have passed, select “Start Run”. \r\n  \r\n\n\nNote: As the MiSeq is sensitive to vibration, avoid touching the instrument after initiating the sequencing run."
+            }
+        ]
+    }
+]

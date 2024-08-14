@@ -1,0 +1,35 @@
+[
+    "\nHow to predict the subcellular localization for a protein:",
+    {
+        "title": "1.",
+        "body": "Go to \"http://gpcr.biocomp.unibo.it/bacello/pred.htm\":http://gpcr.biocomp.unibo.it/bacello/pred.htm"
+    },
+    {
+        "title": "2.",
+        "body": "Select the kingdom of the organism expressing your protein\\(s) \\(choosing between Animals, Fungi or Plants)."
+    },
+    {
+        "title": "3.",
+        "body": "Paste the sequences \\(up to five sequences per time) in the corresponding field."
+    },
+    {
+        "title": "4.",
+        "body": [
+            "Submit the request and wait for results.\r\n  \r\n\n\nHow to read results:\r\n\n\n•   The result page will be available for a maximum of 24h\r\n\n\n•   In the result page you will find, for each protein:",
+            {
+                "title": "a)",
+                "body": "the prediction of the subcellular localization"
+            },
+            {
+                "title": "b)",
+                "body": [
+                    "the path along the decision tree \\(Figure",
+                    {
+                        "title": "1).",
+                        "body": "As shown in table 1, the performance depends on the hierarchy of the tree."
+                    }
+                ]
+            }
+        ]
+    }
+]

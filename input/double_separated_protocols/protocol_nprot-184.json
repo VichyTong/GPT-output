@@ -1,0 +1,14 @@
+[
+    "The following procedure describes the determination of 3' terminal nucleosides in yeast tRNA<sup>Phe</sup> and mouse piRNAs as described previously<sup>5</sup>.",
+    "This method can be applied to any RNA molecule that does not possess a 3'-phosphate at its 3' terminus.",
+    "**RNA hydrolysis with RNase T<sub>2</sub>**",
+    "1) Dissolve &gt;0.8 &#xB5;g of yeast tRNA<sup>Phe</sup> or mouse piRNAs in 13.4 &#xB5;l of Milli-Q water.",
+    "2) Add 1.6 &#xB5;l of 500 mM ammonium acetate buffer \\(pH 5.3) and ",
+    "Mix gently",
+    "3) Add 5 &#xB5;l of 5 units/ml",
+    "RNase T<sub>2</sub> and ",
+    "Mix gently",
+    "4) Incubate the mixture at 37 &#xB0;C for 3 hours.",
+    "**LC/MS analysis of the hydrolysate**",
+    "5) Analyze the hydrolysate by using the LC/MS system"
+]

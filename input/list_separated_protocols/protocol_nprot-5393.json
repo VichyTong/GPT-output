@@ -1,0 +1,62 @@
+[
+    {
+        "title": "1.",
+        "body": [
+            "Cell lysis\r\n  Lysis solution:\r\n\n\n0.2% Triton-X \\(Sigma) in DEPC H<sub>2</sub>O 1μL\r\n\n\n0.1mM DTT \\(Life Technologies) 0.05μL\r\n\n\nRnaseOUT \\(Life Technologies) 0.05μL\r\n\n\nPrimer",
+            {
+                "title": "****",
+                "body": "mix 0.4μL \\(PAGE purified from IDT; GAT27dT 1.5uM, GAT275N3G 5uM, GAT275N3T 5uM)\r\n\n\n10Mm each dNTP 0.1μL\r\n\n\n\r\n\n\nPipette single cell in lysis solution, briefly centrifuge, then put on PCR block 72ºC 3min, then quickly put on ice for at least 1min."
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": "Reverse transcription\r\n  \r\n\n\nAdd RT mix containing:\r\n\n\n5X RT buffer \\(Life Technologies) 0.8μL\r\n\n\n0.1mM DTT 0.2μL\r\n\n\nRnaseOUT 0.1μL\r\n\n\nSuperscript III \\(Life Technologies) 0.15μL\r\n\n\nRnase-free H<sub>2</sub>O 1.15μL\r\n\n\n\r\n\n\nMix well by pipetting with low retention tips\r\n\n\n\r\n\n\nRun following program:\r\n\n\n10 cycles of\r\n\n\n8ºC  12s\r\n\n\n15ºC  45s\r\n\n\n20ºC  45s\r\n\n\n30ºC  30s\r\n\n\n42ºC  2min\r\n\n\n50ºC  3min\r\n\n\nEnd cycles\r\n\n\n50ºC  15min\r\n\n\n4 ºC  Forever"
+    },
+    {
+        "title": "3.",
+        "body": "Digestion of primers \r\n  50ºC  1min\r\n\n\nAdd 0.2μL T4 DNA polymerase \\(New England Biolabs) at 37ºC, mix well\r\n\n\n37ºC 40min\r\n\n\n75ºC 20min\r\n\n\n37ºC 40min\r\n\n\n80ºC  20min\r\n\n\n4 ºC  Forever"
+    },
+    {
+        "title": "4.",
+        "body": "RNA digestion\r\n  Add 0.1μL RnaseH \\(New England Biolabs), 0.1μL RnaseI \\(New England Biolabs), mix well\r\n\n\n37ºC 15min\r\n\n\n72ºC 15min\r\n\n\n4 ºC Forever"
+    },
+    {
+        "title": "5.",
+        "body": "Tailing\r\n  make following TdT mix:\r\n\n\n10X TdT buffer \\(New England Biolabs)  0.4μL\r\n\n\n100mM dCTP \\(Life Technologies)  0.4μL\r\n\n\nTdT terminal transferase \\(New England Biolabs)  0.1μL\r\n\n\nH<sub>2</sub>O 3.1μL\r\n\n\n\r\n\n\nAdd the TdT mix into sample, mix well\r\n\n\n37ºC  15min\r\n\n\n72ºC  15min\r\n\n\n4 ºC  Forever"
+    },
+    {
+        "title": "6.",
+        "body": [
+            "Second strand synthesis \r\n  Make following 2nd  stand mix:\r\n\n\n10X Thermopol \\(New England Biolabs)  1.5μL\r\n\n\ndNTP \\(10uM each)  1.25μL\r\n\n\n10uM GAT21 6n3G pimer",
+            {
+                "title": "****",
+                "body": "1.25μL \r\n\n\nH<sub>2</sub>O  12μL\r\n\n\n\r\n\n\nAdd the mix into sample, heat the block to \r\n\n\n95ºC  1min\r\n\n\n48ºC hold, add Deepvent exo- DNA polymerase \\(New England Biolabs) 0.4μL, mix well\r\n\n\n10 cycles of\r\n\n\n48ºC  20s\r\n\n\n72ºC  1min\r\n\n\nEnd  cycles\r\n\n\n72ºC  2min\r\n\n\n4 ºC  Forever"
+            }
+        ]
+    },
+    {
+        "title": "7.",
+        "body": [
+            "Amplification\r\n  \r\n\n\n10X Thermopol Buffer  13μL \r\n\n\n100uM GAT27 primer",
+            {
+                "title": "****",
+                "body": "0.8μL\r\n\n\n10mM each dNTP  3μL\r\n\n\nPCR grade water 116μL\r\n\n\nDeepvent exo- DNA polymerase 3μL\r\n\n\n\r\n\n\nSplit into 4 PCR tubes\r\n\n\n\r\n\n\n95ºC  30s\r\n\n\n24 cycles of\r\n\n\n95 ºC  15s\r\n\n\n62 ºC  20s\r\n\n\n72 ºC  2min\r\n\n\nEnd cycles\r\n\n\n72 ºC  5min\r\n\n\n4 ºC Forever\r\n\n\n\r\n\n\nUse Qiagen PCR purification kit to purify the end product"
+            }
+        ]
+    },
+    {
+        "title": "8.",
+        "body": [
+            "3NGAT24 Double strand conversion \\(For better cluster identification during sequencing)\r\n  \r\n\n\n200ng of amplified cDNA\r\n\n\n10X Thermopol buffer 5μL\r\n\n\ndNTP 1.25μL\r\n\n\n100Mm 3NGAT24 primer",
+            {
+                "title": "****",
+                "body": "0.25μL\r\n\n\nDeepvent exo- DNA polymerase 1μL\r\n\n\nAdd H<sub>2</sub>O to total 50 μL\r\n\n\n\r\n\n\n\r\n\n\n95ºC  30s\r\n\n\n20 cycles of\r\n\n\n62 ºC  20s\r\n\n\n72 ºC  1 min\r\n\n\nEnd cycles\r\n\n\n72 ºC  3min\r\n\n\n95ºC  30s\r\n\n\n20 cycles of\r\n\n\n62 ºC  20s\r\n\n\n72 ºC  1 min\r\n\n\nEnd cycles\r\n\n\n72 ºC  3min\r\n\n\n4 ºC  Forever\r\n\n\n\r\n\n\nUse 1.2X Ampure XP beads \\(60 μL) to purify"
+            },
+            {
+                "title": "****",
+                "body": "Primer sequence \\(Integrated DNA Technologies, PAGE purified):\r\n\n\nGAT27dT: GTG AGT GAT GGT TGA GGA TGT GTG GAG NNNNN TTTTTTTTTTTTTTTTTTTT\r\n\n\nGAT27 5N3G: GTG AGT GAT GGT TGA GGA TGT GTG GAG NNNNN GGG\r\n\n\nGAT27 5N3T: GTG AGT GAT GGT TGA GGA TGT GTG GAG NNNNN TTT\r\n\n\nGAT21 6N3G: GAT GGT TGA GGA TGT GTG GAG NNNNNN GGG\r\n\n\nGAT27 PCR:  GTG AGT GAT GGT TGA GGA TGT GTG GAG\r\n\n\n3NGAT24: NNN AGT GAT GGT TGA GGA TGT GTG GAG"
+            }
+        ]
+    }
+]

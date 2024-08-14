@@ -1,0 +1,137 @@
+[
+    {
+        "title": "**A. Preparation of Agar Plates**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare each culture medium in accordance with the manufacturer’s instructions."
+            },
+            {
+                "title": "2.",
+                "body": "After autoclaving and cooling to 47±2°C, supplement Columbia Agar with 5% v/v defibrinated horse blood."
+            },
+            {
+                "title": "3.",
+                "body": "Pour culture medium into sterile 9cm Petri dishes."
+            },
+            {
+                "title": "4.",
+                "body": "Leave plates to set and dry."
+            }
+        ]
+    },
+    {
+        "title": "**B. Preparation of Culture Plates**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Sub-culture each bacterial or fungal culture from frozen stocks onto the following agar medium: P. aeruginosa, _E.coli_, _S. aureus_, _K. rhizophila_, _E. faecalis_ and _B.subtilis_ on PCA; _M. haemolytica_ and _S. pneumoniae_ on CBA;_ A. brasiliensis_ and _C. albicans_ on SDA."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate plate cultures at 37°C for approximately 24 h \\(bacterial strains), at 30°C for approximately 48 h \\(_C. albicans_) or at 30°C for 7 days \\(_A. brasiliensis_)."
+            },
+            {
+                "title": "3.",
+                "body": "For each strain, with the exception of A. brasiliensis, collect from 3 to 5 colonies on the incubated plate."
+            },
+            {
+                "title": "4.",
+                "body": "Suspend cells in sterile MRD."
+            },
+            {
+                "title": "5.",
+                "body": "Vortex mix cell suspension to produce turbidity equivalent to that of a 0.5 McFarland standard. A suspension adjusted in this way contains approximately 1.0×108 CFU/ ml."
+            },
+            {
+                "title": "6.",
+                "body": "For  _A. brasiliensis_, flood the plate surface with MRD so that fungal hyphae are emulsified in the diluent."
+            },
+            {
+                "title": "7.",
+                "body": "Pipette from the plate into a sterile vial."
+            },
+            {
+                "title": "8.",
+                "body": "Prepare serial decimal dilutions in MRD, to a final level of 10-7 of each bacterial and fungal suspension. Apply dilutions of each bacterial or fungal strain to the surface of the appropriate agar plates using spiral plating and conventional surface spread plating."
+            },
+            {
+                "title": "9.",
+                "body": "For spiral plates use a 50 μl volume of each dilution 10-2, 10-3 and 10-4 on each of the appropriate agar plates."
+            },
+            {
+                "title": "10.",
+                "body": "For spread plates applying a 0.5 ml volume of each dilution 10-5, 10-6 and 10-7 to the appropriate agar plate and distribute the inoculum with a sterile plastic “hockey stick” spreader."
+            },
+            {
+                "title": "11.",
+                "body": "Incubate plate cultures at 37°C for approximately 24 h \\(bacterial strains), at 30°C for approximately 48 h \\(_C. albicans_) or at 30°C for 4 days \\(_A. brasiliensis_) to ensure the formation of discrete colonies."
+            }
+        ]
+    },
+    {
+        "title": "**Automated Colony Counting**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "For each organism, select a single incubated plate from each spiral plate and spread plate series choosing plates where single discrete colonies are obtained."
+            },
+            {
+                "title": "2.",
+                "body": "Place each selected plate on the ProtoCOL 3 stage and configure the instrument in accordance with the manufacturer’s instructions."
+            },
+            {
+                "title": "3.",
+                "body": "For reading CBA plates of _M. haemolytica_ and _S. pneumoniae_, insert the black plate to remove lower illumination."
+            },
+            {
+                "title": "4.",
+                "body": "Adjust software settings to count touching colonies as well as light colonies on a dark background or dark colonies on a light background, as appropriate."
+            },
+            {
+                "title": "5.",
+                "body": "Read spiral plates using the spiral frame setting with two sectors."
+            },
+            {
+                "title": "6.",
+                "body": "Read spread plates using the circular counting frame."
+            }
+        ]
+    },
+    {
+        "title": "**Manual colony counting**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Count colonies on both spiral and spread plates, using the on screen image of the plates produced by ProtoCOL 3."
+            }
+        ]
+    },
+    {
+        "title": "**Comparison of plate counts**",
+        "body": [
+            {
+                "title": "1.",
+                "body": [
+                    "Analyse the manual and automated counts for each plate type \\(spiral and spread Tables 1 and",
+                    {
+                        "title": "2)",
+                        "body": "using a two-tailed t-test for paired samples \\(Microsoft Excel 2010 software)."
+                    }
+                ]
+            },
+            {
+                "title": "2.",
+                "body": "For spiral plate data use the log CFU/ml figures to ensure normally distributed data. Results obtained using the t-test were p = 0.105 for spiral plate data."
+            },
+            {
+                "title": "3.",
+                "body": "For spread plate data, use the count per frame to ensure that the raw colony counts within the circular frame are compared. Results obtained using the t-test p = 0.143 for spread plate data."
+            },
+            {
+                "title": "4.",
+                "body": "The t-test does not identify significant differences between manual and automated colony counting methods, for either plate type, at the 95% confidence level."
+            }
+        ]
+    }
+]

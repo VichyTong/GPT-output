@@ -1,0 +1,29 @@
+[
+    "\nFor transfection, cells are grown to 70% confluency in 12-well plates. , \r\n\n\n\r\n\n\n",
+    {
+        "title": "**Preparation of Transfection Complexes**",
+        "body": [
+            ":",
+            {
+                "title": "1.",
+                "body": "Complex 6 μg DNA with 12 μl of targefect and 24 μl of Virofect. in 0.6 ml of serum-free high glucose DMEM."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate at 37 °C for 20 minutes to form transfection complexes, shake well after each addition.\r\n  \r\n\n\n*Addition of transfection complexes to cell:\r\n\n\nTransfection in 12-well dishes*:"
+            },
+            {
+                "title": "1.",
+                "body": "Dilute 125 ul of complexes in an equal amount of complete medium and add to the cells for 2 hours at 37„aC."
+            },
+            {
+                "title": "2.",
+                "body": "Add 600-800 ul complete medium to cells, and incubate for 24 - 36 hours before assay. Targefect-RAW transfections can be easily scaled for any size plate or dish and are comparable in time and difficulty to other commercial transfection protocols."
+            }
+        ]
+    },
+    {
+        "title": "**Transfection in 6-well dishes**",
+        "body": ": We also recommend  aspirating of all the media from the 6-well dish leaving 500 μl of supernatant on the cells. Add 250 μl of transfection complex to 500 μl of the cell supernatants mix well and incubate overnight \\(the latter condition gave some improvement). Assay at 36-48 hrs post transfection\r\n\n\n\r\n\n\nFor transfection in 24-well dishes transfect as above adding 70 ul of transfeciton complex per well of a 24-well dish"
+    }
+]

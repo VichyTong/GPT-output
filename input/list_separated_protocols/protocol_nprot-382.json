@@ -1,0 +1,53 @@
+[
+    "\nType the following URL in your web browser \"http://www.imtech.res.in/raghava/antibp/\":http://www.imtech.res.in/raghava/antibp. Now a user can choose either to do prediction of antibacterial peptide or map known antibacterial peptides onto his query sequence. \r\n\n\n\r\n\n\nAntibacterial peptide prediction:",
+    {
+        "title": "1.",
+        "body": "Click on \"Submit\" button in menu on the left."
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Now the user is required to fill the submission form as follows:",
+            {
+                "title": "a)",
+                "body": "Name of the Peptide sequence: This field is optional."
+            },
+            {
+                "title": "b)",
+                "body": "Paste your sequence: Paste your query peptide sequence in any of the standard format \\(FASTA, PIR, EMBL etc.) or amino acid sequence in single little code."
+            },
+            {
+                "title": "c)",
+                "body": "Or Upload sequence file: User can also upload the peptide sequence directly from a file."
+            },
+            {
+                "title": "d)",
+                "body": "Terminus: The user shall select a terminus \\(N, C or N+C) for which the prediction shall be made for."
+            },
+            {
+                "title": "e)",
+                "body": "Method: The user must also select the method of prediction to be implemented."
+            },
+            {
+                "title": "f)",
+                "body": "Click the Submit button to get the results.\r\n\n\n\r\n\n\nPeptide Mapping:"
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": "Click on “Peptide mapping” button in the menu on the left."
+    },
+    {
+        "title": "2.",
+        "body": "Paste your peptide sequence in plain single letter amino acid code."
+    },
+    {
+        "title": "3.",
+        "body": "Enter the similarity cut off percentage on which you want to perform the mapping."
+    },
+    {
+        "title": "4.",
+        "body": "Click the submit button."
+    }
+]

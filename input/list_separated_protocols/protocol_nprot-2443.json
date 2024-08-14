@@ -1,0 +1,174 @@
+[
+    {
+        "title": "**Experimental design**",
+        "body": [
+            "For induction of L1C2 adenocarcinoma we recommend the compatible Balbc/J mice, for the induction of B16-F10 melanoma C57BL/6 mice are required. We suggest using 2x10<sup>5</sup> tumour cells per mouse for intravenous injection in the tail vein. The experimental procedure takes approximately 21 days. In case of using other mouse strains than wild type mice, the number of cells for injection and the time duration of the experiment needs to be tested and established first. Intranasal application of antibodies can be performed at different time points as well as in different dosages after tumour cell injection. The amount of antibody depends on the amount of protein you intend to neutralize in the lung. The data sheet of the antibody or previous publications might give a hint. As a possible control animals can be treated with PBS or the corresponding isotype antibody instead of the specific blocking antibody. We suggest the application of the antibody at two time points after tumour cell injection \\(Figure",
+            {
+                "title": "1).",
+                "body": "To analyze the tumour growth, lung tissue can be embedded in paraffin cut into 4 micrometers thick sections which will be then stained with Hemtaoxilin/Eosin \\(H&E) in accordance to standardized histological laboratory protocols. Afterwards the tumour-bearing area can be analyzed. For this purpose, stained sections can be displayed on a computer monitor with a computer linked Nikon Coolscan V ED scanner using the Program SF launcher thereby determining the ratio of the area of the lung section occupied by tumour to the lung section tumour-free area. To classify the tumour type the affected areas the slide must be further analyzed with a light microscope \\(e.g. Zeiss Axio Observer.D1; Axio Vision 4.7 software) using different magnifications."
+            }
+        ]
+    },
+    {
+        "title": "**Tumour induction**",
+        "body": "REAGENT SETUP\r\n\n\nPrepare the cell culture media DMEM +10% FCS, +1% penicillin/streptomycin for B16F10 cells and RPMI +10% FCS, +1% penicillin/streptomycin for L1C2 cells and store it at 4°C.\r\n\n\n\r\n\n\nPROCEDURE\r\n\n\n\r\n\n\nPreparation of reagents"
+    },
+    {
+        "title": "**1**",
+        "body": "Prepare the cell culture media as described above and warm it at 37°C.\r\n\n\n\r\n\n\nTIMING: 5min. \r\n\n\n\r\n\n\nPAUSE POINT\\! Can be stored at 4°C up to 1 month.\r\n\n\n\r\n\n\nThawing tumour cells"
+    },
+    {
+        "title": "**2**",
+        "body": "Transfer the frozen cells from liquid nitrogen into a tube and dissolve them by using media."
+    },
+    {
+        "title": "**3**",
+        "body": "After full thawing, centrifuge the cells at 91g \\(800rpm) for 7 min, 4°C."
+    },
+    {
+        "title": "**4**",
+        "body": "Discard the supernatant completely and resuspend the cells in 10ml media."
+    },
+    {
+        "title": "**5**",
+        "body": "Culture the cells 1-2 days in a 50ml culture flask until 70-80% confluency is achieved \\(Figure 2 a, b).\r\n\n\n\r\n\n\nTIMING: 10-15min.\r\n\n\n\r\n\n\nSplitting the cells"
+    },
+    {
+        "title": "**6**",
+        "body": "Drop off the culture media and wash the cells with 10ml PBS."
+    },
+    {
+        "title": "**7**",
+        "body": "Pipette accutase into the flask and incubate for 1-2min at 37°C.\r\n\n\n• use 0.5ml of accutase for 25cm<sup>2</sup> flasks, 1ml for 75cm<sup>2</sup> and 2ml for 175cm<sup>2</sup> flasks"
+    },
+    {
+        "title": "**8**",
+        "body": "Detach the cells from the flask surface by beating the flask."
+    },
+    {
+        "title": "**9**",
+        "body": "Apply 10ml of media to stop the accutase reaction and transfer the cell suspension into a tube."
+    },
+    {
+        "title": "**10**",
+        "body": "Centrifuge at 91g for 7min, 4°C and discard the supernatant."
+    },
+    {
+        "title": "**11**",
+        "body": "Resuspend the cell pellet in media, cultivate and expand the cells in a 75cm<sup>2</sup> or 175cm<sup>2</sup> flask. \r\n\n\n• use 25ml for 75cm<sup>2</sup> and 50ml media for a 175cm<sup>2</sup> flask.\r\n\n\n\r\n\n\nTIMING: 15min.\r\n\n\n\r\n\n\nCell harvesting and injection"
+    },
+    {
+        "title": "**12**",
+        "body": "Repeat steps 6-10."
+    },
+    {
+        "title": "**13**",
+        "body": "Resuspend the cell pellet in 10ml media."
+    },
+    {
+        "title": "**14**",
+        "body": "Mix 10µl of the cell suspension with 10µl trypan blue."
+    },
+    {
+        "title": "**15**",
+        "body": "Fill 10µl of the mix in the chamber and count the cells in four squares \\(Q1-Q4, see Figure 2c)"
+    },
+    {
+        "title": "**16**",
+        "body": "Calculate the cell number as follows:\r\n\n\n\\(Q1 + Q2 + Q3 +Q4)/4 x 2 \\(trypan blue dilution) x10<sup>4</sup> \r\n\n\n= cell number/ml cell suspension"
+    },
+    {
+        "title": "**17**",
+        "body": "Transfer the calculated cell volume \\(2x10<sup>5</sup> cells per mouse) into a tube and centrifuge at 91g for 7min, 4°C."
+    },
+    {
+        "title": "**18**",
+        "body": "Use sterofundin to resuspend B16-F10 cells or RPMI to resuspend L1C2 cells to a concentration of 1x10<sup>6</sup> cells/ml \\(200µl/ 2x10<sup>5</sup> cells will be injected in a mouse)."
+    },
+    {
+        "title": "**19**",
+        "body": "Prepare an Erlenmeyer flask with hand warm water."
+    },
+    {
+        "title": "**20**",
+        "body": "Fix the mouse in the injection chamber and put the tail into the Erlenmeyer flask for 30 sec.Alternatively, the tail can also be warmed using an infrared lamp."
+    },
+    {
+        "title": "**21**",
+        "body": "Take up 200 µl cell suspension in the syringe."
+    },
+    {
+        "title": "**22**",
+        "body": "Insert the syringe horizontally in the tail vein of the mouse and inject the cell suspension slowly \\(Figure 2d). \r\n\n\n\r\n\n\nTIMING: 30min."
+    },
+    {
+        "title": "**Intranasal application**",
+        "body": [
+            "REAGENT SETUP\r\n\n\n• Prepare the solution for intranasal treatment and store it on ice. For this purpose make-up the stock concentration of the antibody or of the therapeutical molecule according to the manufacturer´s protocol \\(often in buffer containing BSA). Dilutions of antibodies or other therapeutical molecules, to set up the working solution for intranasal delivery, should be done with sterofundin or NaCl. Antibody-working solutions can be stored at -20°C for a few weeks.\r\n\n\nCAUTION\\! The volume for intranasal application should be",
+            {
+                "title": "25-",
+                "body": "40µl.\r\n\n\n• Prepare the anaesthetic"
+            }
+        ]
+    },
+    {
+        "title": "**A)**",
+        "body": "isoflurane ready to use solution"
+    },
+    {
+        "title": "**B)**",
+        "body": "avertin"
+    },
+    {
+        "title": "**b1.**",
+        "body": "Dissolve 1 g 2,2,2-Tribromo-Ethanol in 1 ml t-Amyl-Alcohol"
+    },
+    {
+        "title": "**b2.**",
+        "body": "Ad 39 ml PBS and vortex until total dissolving"
+    },
+    {
+        "title": "**b3.**",
+        "body": "Store the solution protected from light at 4°C"
+    },
+    {
+        "title": "**C)**",
+        "body": "ketamin \\(12mg/ml) /xylazin \\(0,08ml/ml) in PBS, stored at 4°C\r\n\n\n\r\n\n\nKetamin can be stored at 4°C for a few weeks. Avertin can be stored at 4°C for a few days.\r\n\n\n\r\n\n\nCAUTION\\! All experiments should be performed according to national and institutional guidelines for animal care and use.\r\n\n\n\r\n\n\nPROCEDURE"
+    },
+    {
+        "title": "**1**",
+        "body": "Prepare the antibody suspension as described above and store it on ice."
+    },
+    {
+        "title": "**2**",
+        "body": "Anaesthetize the mice. This step can be performed using options A, B or C."
+    },
+    {
+        "title": "**A)**",
+        "body": "inject 200µl avertin intraperitonally \\(i.p) into the mice or"
+    },
+    {
+        "title": "**B)**",
+        "body": "inject 60-70µl ketamin i.p or"
+    },
+    {
+        "title": "**C)**",
+        "body": "use the isoflurane system"
+    },
+    {
+        "title": "**c1.**",
+        "body": "prepare the isoflurane-equipment according to the manufacturer´s instructions"
+    },
+    {
+        "title": "**c2.**",
+        "body": "put the mice in the plastic chamber and anaesthetize the mice by flooding the box with isolflurane/oxygen\r\n\n\nCAUTION\\! Increase the doses of isoflurane slowly"
+    },
+    {
+        "title": "**3.**",
+        "body": "By the time the mouse is immobilized and the heart beat is getting slower, clamp the mouse in the neck and tilt the head back. Pipet the solution carefully, drop-wise into the nose of the mouse, so that the mouse inhales the solution."
+    },
+    {
+        "title": "**4.**",
+        "body": "Wait until the mouse wakes up. After Avertin and Ketamin treatment the mouse needs approximately 30min to get awake. Anaesthesia duration after isoflurane treatment is about 5min. Use an infrared lamp to warm the mouse until it is awake. \r\n\n\n\r\n\n\nCAUTION\\! If you use ketamin or avertin for anaesthesia wait 24h to anaesthetize the mice again. Repeated use might be harmful for the mouse.\r\n\n\n\r\n\n\nTIMING:  10-15min."
+    }
+]

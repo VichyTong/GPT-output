@@ -1,0 +1,219 @@
+[
+    {
+        "title": "**Stage 1: Photolitography**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Design photomask in Coreldraw X18 or Autocad."
+            },
+            {
+                "title": "2.",
+                "body": "Convert file to Gerber format using Linkcad"
+            },
+            {
+                "title": "3.",
+                "body": "Order class 4 photomask, 5” square quartz, 1µ resolution from JD Photo data"
+            },
+            {
+                "title": "4.",
+                "body": "For best results follow the Microchem protocol for SU8-2005"
+            },
+            {
+                "title": "5.",
+                "body": "Take a 4” wafer and bake at 110°C for 5 min. to remove water."
+            },
+            {
+                "title": "6.",
+                "body": "Spin coat SU-8 2005. Ramp to the final speed over 10 sec. and then spin coat at the final speed for 30sec.  For 5µm high structures use 3000 RPM, for 4µm high structures use 5000 RPM, and for 3.5µm structures use 8200 RPM"
+            },
+            {
+                "title": "7.",
+                "body": "Soft bake on hotplate at 95°C for 2 min."
+            },
+            {
+                "title": "8.",
+                "body": "Expose 90 – 105 mJ/cm2 on the EVG mask aligner"
+            },
+            {
+                "title": "9.",
+                "body": "Post exposure bake 95°C for 3 min."
+            },
+            {
+                "title": "10.",
+                "body": "Develop SU-8 in SU-8 Developer"
+            }
+        ]
+    },
+    {
+        "title": "**Stage 2: Silanization of wafers**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place the wafers in a wafer carrier. Place inside a vacuum desiccator inside a fume hood, together with a 15ml Falcon tube. Pipette 20µl of the silane into the falcon tube and eject the tip into it. Be careful with the silane, it is hazardous."
+            },
+            {
+                "title": "2.",
+                "body": "Apply vacuum on the dessicator, at least 0.1 bar."
+            },
+            {
+                "title": "3.",
+                "body": "Seal the desiccator and turn off the vacuum pump to allow the silane to vaporize"
+            },
+            {
+                "title": "4.",
+                "body": "Wait 1h."
+            },
+            {
+                "title": "5.",
+                "body": "Vent the desiccator then put the cap back on the falcon tube and dispose as hazardous waste."
+            },
+            {
+                "title": "6.",
+                "body": "Wafers are now hydrophobic and coated with a monolayer of silane and PDMS will peel off easily."
+            }
+        ]
+    },
+    {
+        "title": "**Stage 3: Curing PDMS devices**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Make a 6”x6” square of aluminum foil."
+            },
+            {
+                "title": "2.",
+                "body": "Shape the aluminium foil around the wafer to make a circular tray. Place the wafer inside the tray and the tray inside a square petri dish."
+            },
+            {
+                "title": "3.",
+                "body": "Pour 10:1 PDMS \\(approximately 50g total) inside a Thinky mixer cup."
+            },
+            {
+                "title": "4.",
+                "body": "Mix the PDMS in Thinky mixer. Mix: 2000 RPM, 2 min., defoam: 2000 RPM, 2min."
+            },
+            {
+                "title": "5.",
+                "body": "Pour the mixed PDMS onto the wafer."
+            },
+            {
+                "title": "6.",
+                "body": "Put wafer in the dish in a vacuum desiccator. Pump out the remaining bubbles.  Vent as necessary to pop the bubbles."
+            },
+            {
+                "title": "7.",
+                "body": "Cover the petri dish and place in oven at 80°C overnight."
+            }
+        ]
+    },
+    {
+        "title": "**Stage 4: Dicing PDMS and plasma bonding**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Cut off all PDMS and foil off the back of the wafer using a razor blade."
+            },
+            {
+                "title": "2.",
+                "body": "Peel off the PDMS carefully. Work with it features facing upward and avoid touching the surface."
+            },
+            {
+                "title": "3.",
+                "body": "Cut the PDMS into small pieces according to the design."
+            },
+            {
+                "title": "4.",
+                "body": "Punch holes in the PDMS with a 2mm Harris Unicore biopsy punch. Alternatively use a 12 gauge blunt sharpened needle."
+            },
+            {
+                "title": "5.",
+                "body": "Clean the PDMS with scotch tape."
+            },
+            {
+                "title": "6.",
+                "body": "Place PDMS devices into beaker containing 70% ethanol"
+            },
+            {
+                "title": "7.",
+                "body": "Sonicate beaker for 5 min., sweep"
+            },
+            {
+                "title": "8.",
+                "body": "Devices are now ready to be plasma cleaned."
+            },
+            {
+                "title": "9.",
+                "body": "Setup a hotplate at approximately 85°C"
+            },
+            {
+                "title": "10.",
+                "body": "Dry PDMS with an airgun. It is critical to make sure you remove all traces of ethanol. Ethanol will inhibit bonding of devices to glass."
+            },
+            {
+                "title": "11.",
+                "body": "Place the PDMS features face up along with #1.5 glass cover slips in plasma cleaner."
+            },
+            {
+                "title": "12.",
+                "body": "Start the vacuum pump and pump down until the plasma appears on high power for 2 min."
+            },
+            {
+                "title": "13.",
+                "body": "Turn off the equipment and remove the glass and PDMS from the plasma machine"
+            },
+            {
+                "title": "14.",
+                "body": "Place cover slips on hot plate. For bonding, slightly press PDMS, features facing downward, onto cover slip. Wait 2h, 85°C."
+            },
+            {
+                "title": "15.",
+                "body": "For additional bonding one can place the bonded devices in the oven overnight at 80°C."
+            },
+            {
+                "title": "16.",
+                "body": "Glue cover slip bound PDMS device to Petri dish with hole using aquarium glue. Let the glue harden over night."
+            }
+        ]
+    },
+    {
+        "title": "**Stage 5: Introduction of cells**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place dish with glued PDMS device into plasma cleaner. Remove the lid of the dish. Apply vacuum for 2 min., and then switch on plasma cleaner to high for another 2 min."
+            },
+            {
+                "title": "2.",
+                "body": "Pipette ~3ml of warm R10 on the PDMS device. Additionally flush the device through the punched holes. Make sure that there are no air bubbles inside the device. Incubate for 1h in a humidified incubator at 37°C/ 5% CO2."
+            },
+            {
+                "title": "3.",
+                "body": "Remove medium from the top of the PDMS device to ensure that liquids pipetted into the holes do not mix on top of the device."
+            },
+            {
+                "title": "4.",
+                "body": "Designate one hole for the chemokine, the other for the cells"
+            },
+            {
+                "title": "5.",
+                "body": "Carefully remove 5µl of medium from the cell hole"
+            },
+            {
+                "title": "6.",
+                "body": "Remove 10µl from the chemokine hole and replace with the same volume of chemokine"
+            },
+            {
+                "title": "7.",
+                "body": "Carefully pipette 5µl of cell suspension \\(50.000 cells) into the hole for the cells"
+            },
+            {
+                "title": "8.",
+                "body": "Put back into incubator. Cells will start to migrate and reach the maze after 2-3h."
+            },
+            {
+                "title": "9.",
+                "body": "Start imaging at microscope of choice."
+            }
+        ]
+    }
+]

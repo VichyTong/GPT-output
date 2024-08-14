@@ -1,0 +1,200 @@
+[
+    {
+        "title": "**Digestion of lumican and enrichment of the sulfated peptides**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Incubate 100 μg of recombinant mouse lumican with 20 mM iodoacetamide in 350 μl PBS in the dark for 20 min"
+            },
+            {
+                "title": "2.",
+                "body": "Dilute the solution to 1 ml using 25 mM NH<sub>4</sub>OAc \\(pH 7.8) and add 20 μl of 100 mM CaCl<sub>2</sub>."
+            },
+            {
+                "title": "3.",
+                "body": "Add 2 μg of trypsin \\(Promega, Madison, WI) and 2 μg of Glu-C \\(Roche Applied Science, Indianapolis, IN) followed by incubation overnight at RT with gentle rocking."
+            },
+            {
+                "title": "4.",
+                "body": "Remove the N-linked glycans by addition of 5 mU peptide:N-glycosidase F \\(Prozyme, San Leandro, CA) and incubation at RT for 3 hrs."
+            },
+            {
+                "title": "5.",
+                "body": "Load the resulting solution onto a weak-anion exchange cartridge \\(Waters, Milford, MA) pre-conditioned with 1 ml methanol and 1 ml 25 mM NH<sub>4</sub>OAc \\(pH 4.2)."
+            },
+            {
+                "title": "6.",
+                "body": "Wash the cartridge three times, each using 1 ml 100 mM NH<sub>4</sub>OAc in methanol and elute using 2 ml of 8 M NH<sub>4</sub>OAc in methanol containing 5 % NH4OH."
+            }
+        ]
+    },
+    {
+        "title": "**Critical step: Since sulfated peptides are highly acidic \\(a result of both the sulfate group and the acidic residues in the flanking sequences), they bind tightly to the anion-exchange resin. Thus a weak anion-exchange SPE cartridge should be used to avoid irreversible binding and the resulting sample loss**",
+        "body": [
+            ".",
+            {
+                "title": "7.",
+                "body": "Extensively lyophilize the eluate to remove NH<sub>4</sub>OAc."
+            },
+            {
+                "title": "8.",
+                "body": "Inject the lyophilized peptides onto a Zorbax C8 column and perform RP-HPLC at 1 ml/min using solvent A \\(20 mM NH<sub>4</sub>OAc, pH 6.8) and solvent B \\(20 mM NH<sub>4</sub>OAc, pH 6.8 in 80/20 acetonitrile/H<sub>2</sub>O)."
+            }
+        ]
+    },
+    {
+        "title": "**Critical step: Tyrosine sulfation is unstable under acidic conditions. Therefore, acidic ion-pairing reagent such as formic acid and trifluoroacetic acid should be avoided**",
+        "body": [
+            ".",
+            {
+                "title": "9.",
+                "body": "Monitor the chromatograms by UV absorbance at 215 nm and manually collect the fractions."
+            },
+            {
+                "title": "10.",
+                "body": "Split the fractions into two Eppendorf tubes and lyophilize them."
+            },
+            {
+                "title": "11.",
+                "body": "Resuspend one half of the fraction in methanol. Analyze by electrospray ionization mass spectrometry. Switch between positive and negative ion mode to identify sulfated peptides."
+            }
+        ]
+    },
+    {
+        "title": "**Critical step: Although tyrosine sulfate is relatively stable during negative electrospray ionization process, loss of sulfate could still occur. It is important to tune the mass spectrometer using a model sulfated peptide to derive parameters allowing for gentle ionization**",
+        "body": [
+            ".",
+            {
+                "title": "12.",
+                "body": "Resuspend the other half in 100 mM NH<sub>4</sub>OAc \\(pH 6.8) and add 2 U of alkaline phosphatase and incubate at RT for 2 hrs. Analyze the resulting solution by electrospray ionization mass spectrometry using negative ion mode detection."
+            },
+            {
+                "title": "13.",
+                "body": "Compare the results of step 11 and"
+            },
+            {
+                "title": "12.",
+                "body": "Loss of 80 Da or multiples of 80 Da during negative/positive ion mode switch indicates a sulfated peptide while loss of 80 Da or multiples of 80 Da as a result of phosphatase treatment indicates a phosphorylated peptide."
+            },
+            {
+                "title": "14.",
+                "body": "Resuspend the fraction corresponding to the N-terminal peptide \\(pyroGlu19-Lys57, containing a total of four sulfotyrosine residues) in 100 mM NH<sub>4</sub>OAc."
+            },
+            {
+                "title": "15.",
+                "body": [
+                    "Add chymotrypsin at an enzyme:substrate ratio of approximately 1:100 and incubate at RT for 2 hrs, which generates two smaller fragments, pyroGlu19-Phe28 \\(tri-sulfated at positions 20, 21 and",
+                    {
+                        "title": "23)",
+                        "body": "and Met29-Tyr52 \\(singly sulfated)."
+                    }
+                ]
+            },
+            {
+                "title": "16.",
+                "body": "Reduce the disulfide bonds by adding 2 mM DTT followed by incubation at 50ºC for 30 min"
+            },
+            {
+                "title": "17.",
+                "body": "Cool to RT, add iodoacetamide to a final concentration of 5 mM and incubate in the dark for 30 min."
+            },
+            {
+                "title": "18.",
+                "body": "Separate these two peptides by using HPLC and collect the fraction corresponding to Met29-Tyr52. Extensively lyophilize the fraction and determine the site of tyrosine sulfation using steps from 27-36."
+            }
+        ]
+    },
+    {
+        "title": "**Sulfation of peptides using human tyrosylprotein sulfotransferases**",
+        "body": [
+            {
+                "title": "19.",
+                "body": "Use the following protocol for determination the sulfotyrosine sites of peptides generated _in vitro_."
+            },
+            {
+                "title": "20.",
+                "body": "Add the peptide substrate, for example the peptide modeled onto the residues 12-20 of CCR8 \\(VTDYYYPDI), at a final concentration of 10 μM, to a solution of 80 μM PAPS in 100 μl 20 mM MOPS, pH 7.5, 100 mM NaCl, 10% glycerol."
+            },
+            {
+                "title": "21.",
+                "body": "Initiate the reaction by addition of 13 μg human TPST-1 or TPST-2."
+            },
+            {
+                "title": "22.",
+                "body": "Incubate the mixture at RT for 1 h."
+            },
+            {
+                "title": "23.",
+                "body": "Inject the reaction mixture onto a Zorbax C8 column and perform RP-HPLC at 1 ml/min using solvent A \\(20 mM NH<sub>4</sub>OAc, pH 6.8) and solvent B \\(20 mM NH<sub>4</sub>OAc, pH 6.8 in 80/20 acetonitrile/H<sub>2</sub>O)."
+            },
+            {
+                "title": "24.",
+                "body": "Monitor the chromatograms by UV absorbance at 215 nm and manually collect the fractions."
+            },
+            {
+                "title": "25.",
+                "body": "Extensively lyophilize the fractions to remove both the organic solvents and ammonium acetate."
+            },
+            {
+                "title": "26.",
+                "body": "Acetylate the unsulfated tyrosines and determine the sites of sulfation using the following procedure."
+            }
+        ]
+    },
+    {
+        "title": "**Derivatization of tyrosine residues**",
+        "body": [
+            {
+                "title": "27.",
+                "body": "Resuspend the tyrosine sulfated peptide in 100 μl of 200 mM HEPES \\(pH 7.0)."
+            },
+            {
+                "title": "28.",
+                "body": "Add 3 mM imidazole and incubate the mixture at 4 ºC \\(Figure 1)."
+            },
+            {
+                "title": "29.",
+                "body": "Quickly weigh sulfosuccinimidyl acetate \\(S-NHSAc), dissolve in 5 μl DMSO and add immediately to the mixture to a final concentration of 30 mM."
+            }
+        ]
+    },
+    {
+        "title": "**Critical step: Since sulfosuccinimidyl acetate readily hydrolyzes, it is important to avoid moisture condensation during handling and storage of this chemical. Prepare fresh solution immediately before use and discard the unused materials. In addition, sulfosuccinimidyl acetate reacts with primary amines. Therefore, it is important not to use any amine-containing buffers. Ammonium salts \\(e.g. ammonium acetate and ammonium bicarbonate) from the previous steps of sample workup should also be removed by extensive lyophilization**",
+        "body": [
+            ".",
+            {
+                "title": "30.",
+                "body": "Vortex the reaction mixture and incubate at 4 ºC overnight."
+            },
+            {
+                "title": "31.",
+                "body": "Desalt the mixture by using Oasis HLB solid-phase extraction cartridges."
+            },
+            {
+                "title": "32.",
+                "body": "Elute peptides using methanol and analyze by electrospray ionization mass spectrometry."
+            }
+        ]
+    },
+    {
+        "title": "**Site-determination of tyrosine sulfation by tandem mass spectrometry**",
+        "body": [
+            {
+                "title": "33.",
+                "body": "Perform mass spectrometric analysis on a mass spectrometer with tandem MS capabilities, for example, LTQ linear ion trap mass spectrometer \\(Thermo Electron, San Jose, CA)."
+            },
+            {
+                "title": "34.",
+                "body": "First analyze the modified peptide using negative ion mode detection. Infuse the peptides in a solution of methanol at a flow rate of 2 μl/min. Maintain the capillary temperature and the spray voltage at 200ºC and 3.6 kV, respectively. Check for complete acetylation of the sulfated peptide."
+            },
+            {
+                "title": "35.",
+                "body": "Switch to positive ion mode and perform tandem mass spectrometry on the desulfated peptide ion. Select the precursor ions using an isolation width of 3 Da and fragment them by setting the normalized collision energy to 25% using helium as the collision gas."
+            },
+            {
+                "title": "36.",
+                "body": "Use a peptide sequencing software, for example, MassLynx \\(Waters, Milford, MA), to generate the _in silico_ tandem MS spectra of the acetylated peptide. When there are several possible sites of sulfation \\(as a result, several potential sequences of the acetylated peptide), generate the theoretical fragment ions for each individual sequence. Compare with the experimental MS/MS spectrum and determine the site of sulfation."
+            }
+        ]
+    }
+]

@@ -1,0 +1,341 @@
+[
+    {
+        "title": "**Cell preparations.**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Isolate PBMCs and generate T cell clones as previously described \\(1)."
+            },
+            {
+                "title": "2.",
+                "body": "Purify CD8+ T cells from PBMCs by positive selection with anti-CD8 mAb coupled to magnetic beads \\(Miltenyi Biotec). In our hands, flow cytometry analysis demonstrated >99% CD8+ cells in the positively purified population and <5% in the CD8-depleted population."
+            },
+            {
+                "title": "3.",
+                "body": "Derive immature DCs from peripheral monocytes purified by positive selection with anti-CD14 mAb coupled to magnetic beads \\(Miltenyi Biotec)."
+            },
+            {
+                "title": "4.",
+                "body": "Culture CD14+ cells for 5 days in RPMI 1640 medium containing 5% fetal calf serum \\(FCS), 2 mM glutamine, 1% nonessential amino acids, 1% sodium pyruvate, 50 μg/ml kanamycin \\(Gibco BRL) \\(complete medium), 50 ng/ml granulocyte macrophage-colony stimulating factor \\(GM-CFS) \\(Novartis Pharma), and 1000 U/ml rIL-4."
+            },
+            {
+                "title": "5.",
+                "body": "Isolate fresh myeloid DCs from PBMCs by two magnetic separation steps, in order to previously  deplete B cells from PBMCs with anti-CD19 mAb coupled to magnetic beads, and then positively select CD1c+ DCs using biotin-labeled anti-CD1c mAb and anti-biotin mAb coupled to magnetic beads \\(Miltenyi Biotec)."
+            },
+            {
+                "title": "6.",
+                "body": "Obtain mature DCs by a 40-h stimulation of iDCs with CD40L-transfected J558L cells \\(at a DC/J558L ratio of 1:1), as previously described, or with soluble r-CD40L molecules \\(Alexis Biochemicals, Alexis Corporation). The definition of monocyte-derived or myeloid DCs was based on their different surface phenotype profile by staining with anti-CD14, anti-CD86 \\(Caltag Laboratories), anti-CD1a, anti-CD1c, anti-CD11c, anti-CD32, anti-CD80 \\(Becton Dickinson, BD PharMingen) mAbs, Annexin-V \\(ApoAlert Apoptosis Kit, Clontech Laboratories Inc), propidium iodide \\(PI) \\(Sigma-Aldrich), and the appropriate secondary labeled antibodies \\(BD PharMingen) \\(Fig. 1)."
+            },
+            {
+                "title": "7.",
+                "body": "After staining, analyse these cells using a FACSCanto flow cytometer \\(Becton Dickinson) and FACSDiva analysis software \\(Becton Dickinson)."
+            }
+        ]
+    },
+    {
+        "title": "**Apoptotic and control cell preparations**",
+        "body": [
+            ".",
+            {
+                "title": "1.",
+                "body": "Plate cloned CD8+CD95+ T cells \\(10-100 x 10<sup>6</sup>) in a 24-well plate and incubate for 1 h at 37°C in the presence or absence of 14 μg/ml caspase 3 inhibitor \\(C3I) \\(Z-DEVD-FMK), C8I \\(Z-IETD-FMK), or a negative caspase control \\(K, Z-FA-FMK) \\(BD Biosciences PharMingen, San Jose, CA, USA), induced to undergo Fas-mediated apoptosis as described \\(2)."
+            },
+            {
+                "title": "2.",
+                "body": "Induce apoptosis of T cell clones by the addition of 500 ng/ml anti-Fas \\(anti-CD95 mAb \\[clone CH11], Upstate Biotechnology) for at least 6 h \\(2)."
+            },
+            {
+                "title": "3.",
+                "body": "Measure apoptosis by Annexin-V \\(ApoAlert Apoptosis Kit, Clontech Laboratories Inc.) and PI \\(Sigma Aldrich) staining and subsequent analysis by flow cytometry."
+            },
+            {
+                "title": "4.",
+                "body": "Purify apoptotoc cells by positive selection using Annexin V-conjugated magnetic microbeads \\(Miltenyi Biotec). As detected by FACS analysis, the positively purified population should consist of >99% Annexin V+ cells.  These will be then used as apoptotic cells in all of the appropriate experiments."
+            },
+            {
+                "title": "5.",
+                "body": "Use as control cells live cloned T cells promptly lysed by repeated freezing and thawing."
+            },
+            {
+                "title": "6.",
+                "body": "Measure spontaneous apoptosis of CD4+ T cells in the peripheral blood of both HIV-infected and healthy individuals by Annexin-V, PI \\(Sigma Aldrich), and phycoerythrin \\(PE)-Cy7-conjugated anti-CD4 mAb \\(Caltag) staining of fresh PBMCs before and after 18-h incubation in complete medium at 37°C."
+            },
+            {
+                "title": "7.",
+                "body": "Use live cloned T cells lysed by repeated freezing and thawing as control."
+            },
+            {
+                "title": "8.",
+                "body": "Measure spontaneous apoptosis of CD4+ T cells in the peripheral blood of both HIV-infected and healthy individuals by Annexin-V, PI \\(Sigma Aldrich) and phycoerythrin \\(PE)-Cy7-conjugated anti-CD4 mAb \\(Caltag) staining of fresh PBMCs before and after 18-h incubation in complete medium at 37°C."
+            }
+        ]
+    },
+    {
+        "title": "**DC phagocytosis**",
+        "body": [
+            ".",
+            {
+                "title": "1.",
+                "body": "Treat cloned CD8+CD95+ T cells with 14 μg/ml of caspase 3 inhibitor \\(Z-DEVD-FMK), caspase 3 inhibitor \\(Z-IETD-FMK), or a negative caspase control \\(K, Z-FA-FMK) \\(BD Biosciences PharMingen), dyed green with PKH27 \\(Sigma-Aldrich)"
+            },
+            {
+                "title": "2.",
+                "body": "Induce the cells to undergo Fas-mediated apoptosis."
+            },
+            {
+                "title": "3.",
+                "body": "Co-culture the apoptotic cells at a 1:1 ratio with iDCs, incubated or not with either rabbit anti-αvβ5 polyclonal antibody \\(Bioline Diagnostici s.r.l.) reacting with a human DC surface integrin implicated in the capture of apoptotic cells \\(3), or the control rabbit Ig, and dyed red with PKH26 \\(Sigma-Aldrich)."
+            },
+            {
+                "title": "4.",
+                "body": "After 12 h at 4°C and 37°C, analyze phagocytosis by flow cytometry, as evidenced by the presence of double-positive cells."
+            }
+        ]
+    },
+    {
+        "title": "**Two-dimensional electrophoresis**",
+        "body": [
+            ".",
+            {
+                "title": "1.",
+                "body": "Collect apoptotic and control cells, wash them twice with phosphate-buffered saline \\(PBS), centrifuge the cells at 1600 rpm for 10 min."
+            },
+            {
+                "title": "2.",
+                "body": "Dissolve the resulting pellets in 300 µl of two-dimensional sample buffer containing 8M urea \\(Sigma-Aldrich), 2% 3-\\[3-\\(cholamidopropyl)-dimethyl-ammonio1-1propanesulphonate] \\(CHAPS; Amersham Biosciences, Uppsala, Sweden), 100mM 1,4-dithio-DL-threitol \\(DTT; Sigma-Aldrich), 0.2% Ampholine pH 3-10 \\(BioRad Laboratories), 1 mM sodium orthovanadate, 1 μg/ml protease inhibitor cocktail, and a trace of bromophenol blue \\(Sigma-Aldrich), that will be subsequently rehydrated into 11-cm nonlinear immobilized pH gradient \\(IPG) strips \\(3-10 NL IPG 11 cm \\[Biorad])."
+            },
+            {
+                "title": "3.",
+                "body": "Perform active sample rehydration into IPG strips at 50 V overnight."
+            },
+            {
+                "title": "4.",
+                "body": "Perform focusing in a Bio-Rad Protean Isoelectric Point Focusing Cell under the following conditions: \\(i) 30 min at 500 V, \\(ii) 30 min at 1000 V, \\(iii) 15 min at 2000 V, \\(iv) 30 min at 3000 V, and \\(v) 7 h at 5000 V."
+            },
+            {
+                "title": "5.",
+                "body": "After isoelectric point focusing, reduce the IPG strips and alkylate them  with 2% w/v DTT and 2.5% w/v iodoacetamide \\(Sigma-Aldrich), respectively, in 10-min incubations in an  equilibration buffer \\(50 mM Tris-HCl pH 8.8, 6 M urea, 30% \\[v/v] glycerol, 2% \\[w/v] SDS \\[Sigma-Aldrich])."
+            },
+            {
+                "title": "6.",
+                "body": "To perform the second dimension, mount each strip on an SDS-PAGE gel containing 12% T and 2.5% C \\(w/v) acrylamide/bis-acrylamide \\(Amersham) and then overlayer it with a solution containing 0.5% w/v agarose and 0.5 M Tris-HCl pH 8.8. The SDS-PAGE gel was electrophoresed at 15 mA/gel for 15 min and at 30 mA/gel for 5 h at 10°C."
+            },
+            {
+                "title": "7.",
+                "body": "Fix the two-dimensional gels with a solution containing 50% ethanol, 2% phosphoric acid for 2 h, wash them in deionizated water for 30 min, and transfer to a solution containing 34% methanol, 17% \\(w/v) ammonium sulphate, and 2% phosphoric acid."
+            },
+            {
+                "title": "8.",
+                "body": "After 1 h, stain gels with Coomassie Brilliant Blue G-250 \\(0.06% \\(w/v) \\(Fluka; Sigma-Aldrich Group)."
+            }
+        ]
+    },
+    {
+        "title": "**MALDI-TOF-MS and database searching**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Excise each 2DE spot of interest and in-gel digest with trypsin, as described \\(4,5)."
+            },
+            {
+                "title": "2.",
+                "body": "Carry out MALDI-TOF-MS of tryptic protein hydrolysates and identify proteins from the peptide mass spectra produced by MALDI-TOF-MS using the peptide mass fingerprinting analysis software PeptIdent, accessed via ExPASy \\(http://us.expasy.org)."
+            },
+            {
+                "title": "3.",
+                "body": "Use the Swiss-Prot database to conduct the searches, allowing for up to one missed cleavage, considering methionine in the oxidized form and cysteine treated with iodoacetamide to form Cys_CAM."
+            }
+        ]
+    },
+    {
+        "title": "**Purification of proteins from 2DE gels**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "To extract protein fragments,  transfer 2DE gels onto nitrocellulose membranes electrophoretically \\(Schleicher & Schuell Bioscience, Inc.)."
+            },
+            {
+                "title": "2.",
+                "body": "Stain the membranes with Ponceau S solution \\(P7170; Sigma), and cut out the spots of interest"
+            },
+            {
+                "title": "3.",
+                "body": "Elute the proteins derived from these spots in a electron-elution solution \\(50 mM Tris-Cl pH 9.5, 1% \\[v/v] Triton X-100, 2% \\[w/v] SDS \\[Sigma-Aldrich]) \\(6)."
+            },
+            {
+                "title": "4.",
+                "body": "After centrifugation at 5000 rpm for 5 min, remove the supernatant, and precipitate the proteins with 25% trichloroacetic acid \\(TCA, Sigma-Aldrich)."
+            },
+            {
+                "title": "5.",
+                "body": "Wash the resulting protein pellet twice with cold acetone and quantify the protein content \\(6) before to conduct the cross-presentation experiments."
+            }
+        ]
+    },
+    {
+        "title": "**Immunoblot of cellular vimentin**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Collect apoptotic cells, CI-treated apoptotic cells, and control cells, wash  twice with PBS, and then centrifuge them at 1600 rpm for 10 min."
+            },
+            {
+                "title": "2.",
+                "body": "Mix the resulting pellets and dissolved them in 50 µl of lysis buffer solution \\(50 mM Tris-HCl pH 7.4, 1% NP-40, 0.25% sodium deoxycholic acid, 150 mM sodium chloride, 1 mM ethylene-glycol-bis\\[2-amino-ethylether]-N,N,N’,N’-tetra-acetic acid \\[EGTA], 1 mM phenylmethanesulfonyl fluoride \\[PMSF], 1 mM sodium orthovanadate, 1 μg/ml protease inhibitor cocktail \\[Sigma-Aldrich])."
+            },
+            {
+                "title": "3.",
+                "body": "Quantify the protein contents and separate proteins by SDS-PAGE."
+            },
+            {
+                "title": "4.",
+                "body": "Transfer each gel to a nitrocellulose membrane \\(Schleicher & Schuell), and immunoblot the proteins for vimentin with a relevant guinea pig polyclonal antibody \\(Research Diagnostics Inc.), which recognize both the entire and fragmented vimentin forms \\(see Fig. 2c), and with the secondary horseradish peroxidase \\(HRP)-conjugated donkey anti-guinea pig IgG antibody \\(Research Diagnostics Inc.)."
+            },
+            {
+                "title": "5.",
+                "body": "Perform chemiluminescent detection \\(SuperSignal West PicoChemiluminescent substrate \\[Pierce]) to visualize the resulting proteins."
+            }
+        ]
+    },
+    {
+        "title": "**Caspase 3 digestion and SDS-PAGE of recombinant vimentin**",
+        "body": [
+            ".",
+            {
+                "title": "1.",
+                "body": "Filter human r-vimentin \\(Research Diagnostic Inc.) by using a Centricon Vivaspin 500 \\(10,000 MWCO PES \\[Sartorius Group]) to remove urea."
+            },
+            {
+                "title": "2.",
+                "body": "Add 1 ml of caspase 3 buffer \\(50 mM Tris-Cl pH 7.4, 100 mM NaCl, 100 mM 1,4-dithioerythritol \\[DTE], 1 mM  ethylenediaminetetracetic acid \\[EDTA], 0.1% CHAPS \\[Sigma-Aldrich]) to the Centricon tubes and centrifuge twice at 4000 rpm for 30 min."
+            },
+            {
+                "title": "3.",
+                "body": "Collect 100 μg of vimentin and incubate with 150 ng of caspase 3 \\(C1224, Sigma-Aldrich, St. Louis, MO, USA) for 1 h at 37°C."
+            },
+            {
+                "title": "4.",
+                "body": [
+                    "Separate the complete vimentin and the digested vimentin proteins on the basis of molecular weight under SDS-PAGE conditions \\(Fig.",
+                    {
+                        "title": "2b)",
+                        "body": "\\(7)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**ELISPOT assay**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Stimulate highly purified CD8+ T cells \\(1 x 10>5) from PBMCs with the different peptides \\(5 μg/ml per single peptide) and irradiated autologous CD8-depleted PBMCs, used as antigen-presenting cells \\(APCs)."
+            },
+            {
+                "title": "2.",
+                "body": "Perform this stimulation directly in 96-well ELISPOT nitrocellulose-backed plates \\(MAHA S4510, Millipore) that had been coated with capture anti-IFN-γ mAb \\(BD PharMingen) \\(ELISPOT plate \\(8)."
+            },
+            {
+                "title": "3.",
+                "body": "Reveal the IFN-γ spot formation after 6 to 8 h at 37°C by using the AID ELISPOT Reader \\(AID GmbH)."
+            },
+            {
+                "title": "4.",
+                "body": "Determine resting CD8+ T cell responses by counting IFN-γ-spots formed by short-term CD8+ T-cell lines obtained after one or two rounds of in vitro stimulation with peptides and irradiated autologous CD8-depleted PBMCs."
+            }
+        ]
+    },
+    {
+        "title": "**Pentamer and intracellular cytokine staining**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Stain PBMCs with allophycocyanin \\[APC]-labeled-HLA-A*0201 pentamers \\(complexed to vimentin78-87 \\[LLQDSVDFSL], non-muscle myosin478-486 \\[QLFNHTMFI], non-muscle myosin741-749 \\[VLMIKALEL], or actin266-274 \\[FLGMESCGI] peptide) \\(Proimmune Limited), APC-Cy7-labeled anti-CD8 mAb \\(BD, PharMingen), fluorescein isothiocyanate \\(FITC)-labeled perforin mAb \\(BD, PharMingen), and PE-labeled granzyme B mAb \\(PeliCluster \\(9)."
+            },
+            {
+                "title": "2.",
+                "body": "Obtain negative controls by staining cells with an irrelevant isotype-matched mAb."
+            },
+            {
+                "title": "3.",
+                "body": "Analyse samples using a FACSCanto flow cytometer and FACSDiva analysis software \\(Becton Dickinson)."
+            },
+            {
+                "title": "4.",
+                "body": "Stimulate part of the pentamer/anti-CD8-stained PBMCs with peptide \\(10 μg/ml) plus anti-CD28 mAb \\(4 μg/ml) \\(BD PharMingen) for 6 h at 37° C."
+            },
+            {
+                "title": "5.",
+                "body": "At the second h, add 10 μg/ml Brefeldin-A \\(Sigma-Aldrich), wash cells with Perm/Wash buffer \\(BD PharMingen and stain intracellularly with phycoerythrin \\(PE)-labeled anti-IFN-γ mAb \\(BD PharMingen) for 30 min at 4°C."
+            },
+            {
+                "title": "6.",
+                "body": "Fix and permeabilize cells using Cytofix/Cytoperm solution \\(BD PharMingen) at 4°C for 20 min, and analyze them by flow-cytometry."
+            },
+            {
+                "title": "7.",
+                "body": "In some experiments, perform pentamer staining after stimulation with peptide \\(50 μg/ml) overnight, in order to determine the degree of TCR down-regulation \\(9)."
+            }
+        ]
+    },
+    {
+        "title": "**Cross-presentation assay**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pulse immature monocyte-derived DCs or myeloid DCs \\(3 x 10>4), as APCs, with increasing concentrations of CI-treated, caspase-treated, untreated, r-vimentin-loaded apoptotic cells, control lysed cells, soluble antigens or peptides, in the presence or absence of 80 mM lactacystin \\(Sigma-Aldrich) in U-bottom 96-well plates for 18 h."
+            },
+            {
+                "title": "2.",
+                "body": "Wash APCs and coculture them with antigen-specific CD8+ T cells \\(2-3 x 10>4)"
+            },
+            {
+                "title": "3.",
+                "body": "Reveal IFN-γ spot formation after 6–8 h at 37°C by an ELISPOT assay\\(8)."
+            },
+            {
+                "title": "4.",
+                "body": "Pulse iDCs with apoptotic or control cells \\(derived from HLA-A2- Epstein-Barr virus \\[EBV]-transformed B cells) previously infected by either WT-VV or NS3Ag-expressing VV \\(5 plaque-forming units/cell) and then cocultured with NS31406-1415-specific CD8+ T cell clones."
+            },
+            {
+                "title": "5.",
+                "body": "After 6 to 8 h at 37°C, reveal IFN-γ spot formation by CD8+ T cells by ELISPOT assay."
+            }
+        ]
+    },
+    {
+        "title": "**Cross-presentation experiments _ex vivo_**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Double-stain PBMCs from patients or HDs with pentamers and anti-CD8 mAb)"
+            },
+            {
+                "title": "2.",
+                "body": "Culture PBMC \\(in the presence of soluble r-CD40L molecules) with autologous iDCs that have been pulsed or not with apoptotic cloned T cells."
+            },
+            {
+                "title": "3.",
+                "body": "After 6–8 h, test PBMC for their capacity to produce IFN-γ by ICSS assay \\(9)."
+            }
+        ]
+    },
+    {
+        "title": "**Peptide synthesis and class I binding**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Identify peptides containing HLA binding motifs."
+            },
+            {
+                "title": "2.",
+                "body": "Synthesize these peptides and test them for class I binding capacity, as described in detail in \\(10)."
+            },
+            {
+                "title": "3.",
+                "body": "Binding data should be presented as 50% inhibitory concentration \\(IC50) nanomolar values. Peptides with binding affinity ≤50 nM may be classified as \"good\" binders, and peptides in the 50 to 500 nM range as \"intermediate\" binders."
+            }
+        ]
+    }
+]

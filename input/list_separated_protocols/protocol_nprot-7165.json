@@ -1,0 +1,184 @@
+[
+    {
+        "title": "**1. Timing of Sampling**",
+        "body": [
+            "Both aerial surveys and biomass harvests should take place at \\(or close to) the seasonal peak biomass of the subject ecosystem \\(peak biomass typically occurs shortly after peak greeness). This is because both the above-ground biomass and the apparent biovolume of most plants changes with the phenological state of the organism. Table 1 presents a non-exhaustive list of peak biomass periods for a selection of areas, although local conditions and climatic variability can cause substantial variability around these times.\r\n\n\n\r\n\n\n_Table",
+            {
+                "title": "1.",
+                "body": "Approximate timing of peak biomass for example ecosystems._\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/7383/original/Table_1.png?1542645516\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7383/thumbnail/Table_1.png?1542645516\" > </a>"
+            }
+        ]
+    },
+    {
+        "title": "**2. Site Selection and Preparation**",
+        "body": []
+    },
+    {
+        "title": "**Ecosystem selection**",
+        "body": [
+            "Structure-from-motion \\(SfM) photogrammetry approaches are particularly well suited to characterisation of plant canopy heights, and thus biomass, where plant canopies are discontinuous, as is common in water-limited ecosystems \"Cunliffe _et al.,_ 2016\":https://www.sciencedirect.com/science/article/pii/S0034425716302206. Figure 1 illustrates some examples where these approaches are either known or expected to yield good results. Our previous work has shown that these approaches can be sensitive to biomass associated with even very small plants, just a few centimeters in height \\(Cunliffe _et al.,_ 2016, _In Prep_). Where observations of the ground can be obtained via another approach \\(e.g. ground-based surveys with high accuracy GNSS surveys, or airborne lidar, etc.), photogrammetric approaches can also work well to measure canopy height in areas with dense canopies.\r\n\n\n\r\n\n\nSurvey extents will depend on the size and distribution of harvest plots, but we expect that extents would typically range from 0.25 ha \\(50 m x 50",
+            {
+                "title": "m)",
+                "body": "1 ha \\(100 m x 100"
+            },
+            {
+                "title": "m)",
+                "body": "per site. Grasslands commonly contain mixed floristic communities, and in such locations it may only be possible to identify the community within harvest patches to the taxonomic level of family, or even plant functional type \\(e.g. C3 or C4 grasses).\r\n\n\n\r\n\n\n_Figure"
+            },
+            {
+                "title": "1.",
+                "body": "Examples of vegetation communities were this photogrammetric approach had either been demonstrated to work well, or is strongly expected to work well. The lower six photographs are from Cunliffe et al. \\(2016)._\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/7373/original/Figure_1.png?1542643988\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7373/thumbnail/Figure_1.png?1542643988\" > </a>"
+            }
+        ]
+    },
+    {
+        "title": "**Ground control markers**",
+        "body": [
+            "To support the high-quality photogrammetric reconstructions necessary for fine-scale measurement of vegetation canopies, it is necessary to constrain the bundle adjustment. The main way the achieve this constraint is to use ground control markers \\(GCM). Please prepare 13 ground control markers for use on each site; each marker should ideally measure ≥ 20 cm x 20 cm, and comprise of black and white segments to facilitate precise detection of the centre point \\(Figure",
+            {
+                "title": "2).",
+                "body": "These markers could be manufactured out of many different materials, though we have found printed corriboard \\(also known as coroplast) and PTFE plastic plates to be low cost, lightweight, robust and suitable for this application. \\(Markers could be obtained from sign printing shops, and it can be helpful to have pre-drilled holes at the corners to facilitate anchoring with pegs).\r\n\n\n\r\n\n\n_Figure"
+            },
+            {
+                "title": "2.",
+                "body": [
+                    "The preferred design for Ground Control Markers \\(GCM): Black and white squares, measuring 20×20 cm in total._\r\n\n\n <a href=\"http://www.nature.com/protocolexchange/system/uploads/7375/original/Figure_2.png?1542644559\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7375/thumbnail/Figure_2.png?1542644559\" > </a> \r\n\n\n\r\n\n\nThe 13 markers should be deployed evenly across the survey site\\(s), distributed to include the edges of the site with several markers across the centre of the site \\(Figure 3), pegged down securely to avoid movement, and then geolocated using survey-grade GNSS equipment, capable of measuring coordinates to subcentimeter relative accuracies. Note that coordinates measured using low \\(±1",
+                    {
+                        "title": "m)",
+                        "body": "precision GNSS units \\(e.g. the Garmin GPSMAP 64 series and similar) are not sufficiently accurate for this application. Consumer drones are now available that are equipped with high precision direct georeferencing systems \\(i.e. RTK or PPK) on board the aircraft. Such systems could be used to accurately measure the position at time of image capture, providing direct georeferencing that can help to reduce the requirements for ground control markers.\r\n\n\n\r\n\n\n\r\n\n\n_Figure"
+                    }
+                ]
+            },
+            {
+                "title": "3.",
+                "body": "Example distribution for ground control markers across the survey sites._\r\n\n\n <a href=\"http://www.nature.com/protocolexchange/system/uploads/7377/original/Figure_3.png?1542644617\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7377/thumbnail/Figure_3.png?1542644617\" > </a>"
+            }
+        ]
+    },
+    {
+        "title": "**3. Aerial Survey**",
+        "body": "Good photographs are essential for generating high-quality 3D models of a subject. Photographs should be correctly exposed, minimally distorted and have sufficient overlap of the subject from different viewpoints. Illumination conditions can influence photogrammetric reconstructions, so for reproducible results, scientists should try to complete surveys within a few hours of solar noon to minimise variation in sun position and shadows etc. Make a note of the average wind speed and cloud conditions during survey flights."
+    },
+    {
+        "title": "**Recommended camera sensor:**",
+        "body": "DJI Phantom 4 Advanced or Pro \\(with built-in camera)\r\n\n\nIdeally, image acquisition should be undertaken using a 20 MP RGB camera, such as those inbuilt on DJI Phantom 4 Advanced or Pro consumer drone systems. Other standard, consumer-grade cameras can also work well, but may have different lens properties and sensor resolution, which can potentially hinder comparisons between datasets."
+    },
+    {
+        "title": "**Recommended ground sampling distance:**",
+        "body": [
+            "0.005 m\r\n\n\nGround sampling distance \\(GSD; also known as spatial resolution, or grain) is an important parameter in photogrammetry. GSD influences the sensitivity of SfM-derived models to ‘feature elements’, such as leaves and branches \\(for further discussion see \"Cunliffe _et al.,_ 2016\":https://www.sciencedirect.com/science/article/pii/S0034425716302206 ; \"Dandois et al., 2017\":http://www.mdpi.com/2072-4292/9/4/355). Based on our experience surveying a range of vegetation structures in different settings, we recommend using the ground sampling distance at the average height of the canopy. Using the camera recommended above \\(DJI Phantom 4 Advanced / Pro), this equates to a flying altitude of ca. 17-22 m above the canopy level. In undulating terrain, it may be necessary to employ a wider range of altitudes, and/or to use terrain following flight modes.\r\n\n\n_Table",
+            {
+                "title": "2.",
+                "body": "Look up table of suggested flying altitudes for different canopy heights for image sensors onboard DJI Phantom 4 Advanced / Pro._\r\n\n\n <a href=\"http://www.nature.com/protocolexchange/system/uploads/7385/original/Table_2.png?1542645560\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7385/thumbnail/Table_2.png?1542645560\" > </a>"
+            }
+        ]
+    },
+    {
+        "title": "**Recommended overlap:**",
+        "body": [
+            "75% x 75% \\(Nadir; 0°) + 75% x 75% \\(Convergent; ~25°)\r\n\n\nParticipants should undertake a first flight with the camera angle set at nadir. Sufficient image overlap is essential to support feature matching and dense reconstructions. A key metric is the number of images capturing each part of the area of interest. In order to facilitate feature matching vegetated scenes with complex texture, we recommend overlap settings of 75% x 75%. Participants should undertake a second flight to acquire convergent \\(non-nadir) images, using a camera angle of ~25° off-nadir. These additional images will \\(i) improve constraints on camera parameter estimation during the image processing, \\(ii) improve characterisation of the ground surface beneath canopies, and \\(iii) facilitate feature matching in complex scenes. The convergent image flights should ideally be undertaken a slightly higher \\(ca.10-15% / 2-3",
+            {
+                "title": "m)",
+                "body": "altitude relative to the nadir survey. If possible, orientate the flight lines so that the camera will face away from the sun \\(i.e. north in the northern hemisphere, and south in the southern hemisphere). Together, these two sets of images yield ca. ≥33 images per \\(unobscured) location."
+            }
+        ]
+    },
+    {
+        "title": "**Additional guidance for planning survey flights with DJI Phantom 4 Advanced/Pro**",
+        "body": [
+            "We can recommend using the free app \"DJI Ground Station Pro\":https://www.dji.com/ground-station-pro to plan and execute survey flight operations; this app is currently supported on Apple tablets \\(e.g. IPad Mini",
+            {
+                "title": "4).",
+                "body": "Other apps can also work well.\r\n\n\n\r\n\n\n● Step"
+            },
+            {
+                "title": "i)",
+                "body": "Demarcate a polygon around the site, either by entering coordinates to the app or by positioning the powered aircraft at each vertex and logging the position.\r\n\n\n● Step ii) Enter the appropriate survey parameters into the App, as recommended in Table"
+            },
+            {
+                "title": "3.",
+                "body": "● Step iii) Review all mission parameters. Review the area of interest as demarcated on the App to check that this is correct. Ensure that ‘Waypoints Qty’ ≤"
+            },
+            {
+                "title": "99.",
+                "body": [
+                    "Review ‘Flight Time est.’, note that if the estimated flight time exceeds the aircraft endurance \\(dependent on battery capacity, health and weather conditions), it will be necessary to pause the survey mission in order to land and change the aircraft’s battery.\r\n\n\n● Step iv) Immediately prior to survey flights, use the DJI Go App to specify/verify camera settings:\r\n\n\nEnsure that the shutter speed \\(‘Tv’) is sufficiently fast to avoid motion blur of the captured photographs \\(ideally the shutter speed should be ≤1/800th second). It may be necessary to adjust the aperture \\(f-stop) or sensor sensitivity \\(ISO) in order to optimize camera settings.\r\n\n\nWe recommend setting the camera’s target exposure to underexpose by -⅓ to -½ of a stop, to optimise image quality and minimise the loss of information in high contrast scenes.\r\n\n\n● Step",
+                    {
+                        "title": "v)",
+                        "body": "confirm that the camera angle is set correctly, currently by using the manual gimbal control \\(to either 0° for nadir or 25° for convergent flights).\r\n\n\n_Table"
+                    }
+                ]
+            },
+            {
+                "title": "3.",
+                "body": "Recommended parameters for survey flights with DJI Phantom 4 Advanced/Pro_\r\n\n\n <a href=\"http://www.nature.com/protocolexchange/system/uploads/7387/original/Table_3.png?1542645597\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7387/thumbnail/Table_3.png?1542645597\" > </a>"
+            }
+        ]
+    },
+    {
+        "title": "**Safe Flight Operations**",
+        "body": "Note also that drone operations should be conducted safely, and in compliance with National Aviation Authority requirements. These requirements differ between jurisdictions and are evolving through time, as authorities seek to improve the safe integration of remotely piloted aircraft into existing airspace systems. Safe operations should include risk assessments, ethical assessments, and site assessments to understand the nature of the airspace being used. It is standard practice to obtain the permission of the landowner prior to flights. For further discussion and information, see \"Cunliffe _et al._ \\(2017)\":https://www.tandfonline.com/doi/abs/10.1080/01431161.2017.1286059 and \"Duffy _et al._ \\(2017)\":https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.58 and \"https://droneregulations.info/\":https://droneregulations.info/."
+    },
+    {
+        "title": "**4. Biomass Harvesting**",
+        "body": [
+            "Inferring AGB from biovolume requires knowledge of the relationship between these variables, which varies with growth form, genus, species, and phenological stage of plants. As these relationships are linear, they can also be expressed as density values, measured in g per m^3 \\( \"Cunliffe _et al._ 2016\":https://www.sciencedirect.com/science/article/pii/S0034425716302206 ). These density values can be inferred from similar datasets, or obtained directly by drone surveys combined with destructive harvests. To apply this allometric approach, it is necessary to undertake destructive harvests to calibrate these density values for growth forms and species and phenological stages. Where the harvests happen, it is necessary to remove whole plant individuals \\(as the biovolume-biomass relationships only hold down to the whole plant scale). However, only a few individuals are needed \\(ideally one would want at least n=16 for each species, but even n=6 can still be informative for species that can grow very large).\r\n\n\n\r\n\n\n_Figure",
+            {
+                "title": "4.",
+                "body": "Examples of harvest areas for \\(a) an isolated shrub where harvest plots should be large enough to encompass the entire individual \\(Juniperus monosperma), and \\(b) vegetation community with a coalesced \\(overlapping) canopy, where harvest plots should be large enough to encompass representative samples of canopy and above-ground biomass \\(Salix richardsonii)._\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/7379/original/Figure_4.png?1542644657\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7379/thumbnail/Figure_4.png?1542644657\" > </a>"
+            }
+        ]
+    },
+    {
+        "title": "**Instructions for harvests**",
+        "body": "●"
+    },
+    {
+        "title": "**Select biomass harvest area\\(s),**",
+        "body": [
+            "in agreement with landowners and other stakeholders. Undertake an aerial survey as described above, and review the acquired image dataset to ensure that the images are of good quality, with no image blurring or exposure issues and that the coverage is appropriate.  Record detailed notes about the harvest site, as noted in Table",
+            {
+                "title": "4.",
+                "body": "●"
+            }
+        ]
+    },
+    {
+        "title": "**Select appropriate dimensions for the harvest plots.**",
+        "body": "Harvest plots should be ≥ 50 cm x 50 cm in area, ideally square, and increase in size increments of 0.1m. In ecosystems characterised by discrete plant individuals, plots should be large enough to completely encompass an entire plant individual, which this may result in harvest plots of 10 m x 10 m or larger in some ecosystems \\(e.g. chaparral shrubland, or juniper woodland, etc.). In ecosystems characterised by coalesced \\(overlapping) plant individuals, plots should be large enough to encompass a representative sample of canopy and stems. This relative size is important, as biovolume-biomass relationships only hold at the scale of plant individuals or greater. For small plants \\(e.g. grasses), harvest areas could be as small as 50 cm x 50 cm. See Figure 3 for an example. It is useful to make a note of the dimension used for each plot.\r\n\n\n●"
+    },
+    {
+        "title": "**Select individual harvest plots.**",
+        "body": "Ideally, a statistically robust sample of n ≥ 16 square harvest plots will be selected for each \\(co-)dominant species; however, this number of samples may not be possible when sampling larger plants, due to limited labour/time/drying facilities. Select plots to include a representative sample of the community, including small, medium, and large individuals. Assign a uniquely ID code to identify each plot.\r\n\n\n●"
+    },
+    {
+        "title": "**Survey the corners of harvest plots with high-precision GNSS.**",
+        "body": "Ensure that the measurement is at the ground surface \\(i.e. do not allow the survey staff to sink into the ground). Fitting a ‘foot’ to survey staffs may help to reduce pressure and reduce sinkage. Measure corner coordinates sequentially around the plot \\(i.e. either clockwise or counterclockwise). These coordinates are essential to digitally ‘clip out’ harvest areas from digital canopy height models.\r\n\n\n●"
+    },
+    {
+        "title": "**Take photographs of each harvest plot.**",
+        "body": [
+            "Using the digital camera, take three photographs for each harvest plot, as a record of vegetation type/plant species, growth form and phenological stage in order to facilitate analysis and interpretation of of the harvest and drone data. The first photo should be of the plot ID code, the second photo should view the plot from any direction, and the third photo should view the plot from a perpendicular direction. Examples are provided in Figure",
+            {
+                "title": "5.",
+                "body": "_Figure"
+            },
+            {
+                "title": "5.",
+                "body": "Example of three photographs of a harvest plot, taken in sequence after the plot corners have been marked out and before harvesting commences._\r\n\n\n <a href=\"http://www.nature.com/protocolexchange/system/uploads/7381/original/Figure_5.png?1542644734\" > <img src=\"http://www.nature.com/protocolexchange/system/uploads/7381/thumbnail/Figure_5.png?1542644734\" > </a>\r\n\n\n\r\n\n\n●"
+            }
+        ]
+    },
+    {
+        "title": "**Complete harvest of plots.**",
+        "body": "All standing biomass within the harvest area should be harvested \\(clipped) to ground level and collected directly into study paper bags or sheeting on the ground. If plant canopies are coalesced \\(i.e. overlapping) or where \\(insignificant) branches extend beyond the harvest plots, only vegetation within the harvest plot should be collected. Collected material should exclude parts of plants that originate within the plot which extend beyond its edges, and can include parts of plants that originate outside of the harvest plot and grow into it. It can be helpful to use a rigid frame to aid harvesters in seeing which parts of plants lie within plot boundaries.\r\n\n\n●"
+    },
+    {
+        "title": "**Harvested biomass should be returned to the laboratory for drying as soon as possible.**",
+        "body": "Harvested biomass can be partitioned between different plant components \\(e.g. woody stems, leaves, grasses and graminoids, etc.), which can both facilitate drying and support more detailed subsequent analysis; however, partitioning step is optional, as it does increase processing time.\r\n\n\n●"
+    },
+    {
+        "title": "**Harvested material should be oven dried at 80°C**",
+        "body": "\\(or 40-80°C); for a minimum of 48 hours, and until there is < 0.2% change in mass over a 24-hour period. Importantly, oven temperatures should remain below a maximum of 80°C, to avoid burning samples. Succulents may take up to 6-10 days to dry, and drying can be facilitated by perforating these plants prior to drying. For convenience, we have set up a spreadsheet to facilitate calculation of dry mass, a template of which is available from in the attachments.\r\n\n\n● Once dried, representative sub-samples of dried matter can be retained for subsequent analysis of carbon contents \\(by flash combustion for measurement of evolved CO 2 in an elemental analyser). Retain three, ca. 10 g subsamples from each partition \\(e.g. leaf matter and woody matter, if applicable), for each species."
+    }
+]

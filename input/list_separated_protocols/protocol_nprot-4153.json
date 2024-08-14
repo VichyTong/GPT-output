@@ -1,0 +1,216 @@
+[
+    {
+        "title": "**Linear Amplification**",
+        "body": [
+            "This step anneals biotinylated primer specific to the mobilized transposon and generates a linearly-extended single strand that spans the genomic junction of the transposon. Sequence of the biotinylated primer is specifically designed to hybridize with a unique sequence of the transposon reporter or transposition-mediated transgene, with the sufficiently long extension time to span the transposition breakpoint. In the case of this protocol designed to identify synthetic piggyBac transposon insertions, the extension time was determined by the 100 nucleotides separating the primer from the DNA transposon ITR \\(Fig. 1A).",
+            {
+                "title": "1.",
+                "body": "Prepare the PCR mixture in GeneMate UltraFlux tubes by mixing:\r\n  \r\n\n\n1 µL of 5 μM Biotinylated primer \\(100 nM)\r\n\n\n4 μL genomic DNA \\(2 μg)\r\n\n\n45 µL Invitrogen Platinum high fidelity SuperMix"
+            },
+            {
+                "title": "2.",
+                "body": "Carry out annealing and linear extension using the following PCR conditions:\r\n   95°C for 5 min\r\n\n\n 30 cycles of : \r\n\n\n  95 °C \\(45 seconds)\r\n\n\n  62 °C \\(45 seconds)\r\n\n\n  72 °C \\(3 min)\r\n\n\n 1 x 72 °C for 10 min\r\n\n\n 4 °C until next step"
+            },
+            {
+                "title": "3.",
+                "body": "Transfer PCR reaction products into Amicon Ultra 0.5 100K filter tubes, add 200 μl of nuclease-free water"
+            },
+            {
+                "title": "4.",
+                "body": "Centrifuge at 12,000 g for 10 minutes at room temperature, 42 μl concentrated purified sample should remain"
+            },
+            {
+                "title": "5.",
+                "body": "Invert the column in clean tubes and centrifuge at 1,000 g for 2 min"
+            }
+        ]
+    },
+    {
+        "title": "**Isolation of Biotinylated Amplicon**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Transfer 3 μL of Dynal magnetic streptavidin beads into GeneMate UltraFlux tubes"
+            },
+            {
+                "title": "2.",
+                "body": "Place the tubes onto DynaMag 96 magnetic holder"
+            },
+            {
+                "title": "3.",
+                "body": "Remove supernatant"
+            },
+            {
+                "title": "4.",
+                "body": "Add 20 µL kilobaseBINDER kit Binding solution"
+            },
+            {
+                "title": "5.",
+                "body": "Place tube onto DynaMag 96"
+            },
+            {
+                "title": "6.",
+                "body": "Remove solution"
+            },
+            {
+                "title": "7.",
+                "body": "Resuspend magnetic beads in 10 μL Binding solution"
+            },
+            {
+                "title": "8.",
+                "body": "Add 5 µL of isolated PCR product from the previous step"
+            },
+            {
+                "title": "9.",
+                "body": "Add 5 μL of nuclease-free water"
+            },
+            {
+                "title": "10.",
+                "body": "Shake tube at room temperature for 3 hours"
+            }
+        ]
+    },
+    {
+        "title": "**Purification of Biotinylated Amplicon**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place tube onto DynaMag 96"
+            },
+            {
+                "title": "2.",
+                "body": "Remove supernatant"
+            },
+            {
+                "title": "3.",
+                "body": "Add 40µL of kilobaseBINDER kit Washing solution"
+            },
+            {
+                "title": "4.",
+                "body": "Place tube onto DynaMag 96"
+            },
+            {
+                "title": "5.",
+                "body": "Remove 40 μL Washing solution"
+            },
+            {
+                "title": "6.",
+                "body": "Add 40 µL of nuclease-free water"
+            },
+            {
+                "title": "7.",
+                "body": "Remove 40 μL water"
+            },
+            {
+                "title": "8.",
+                "body": "Add 20 µL of 0.1M NaOH"
+            },
+            {
+                "title": "9.",
+                "body": "Shake for 30 min at 37 C"
+            },
+            {
+                "title": "10.",
+                "body": "Place tube onto DynaMag 96"
+            },
+            {
+                "title": "11.",
+                "body": "Remove NaOH"
+            },
+            {
+                "title": "12.",
+                "body": "Add 40 μL nuclease-free water"
+            },
+            {
+                "title": "13.",
+                "body": "Place tube on DynaMag 96"
+            },
+            {
+                "title": "14.",
+                "body": "Remove water"
+            }
+        ]
+    },
+    {
+        "title": "**Synthesis of Complementary Strand**",
+        "body": [
+            "This step uses a degenerate primer to anneal and synthesize the complementary strand of the biotinylated amplicons. The sequence of the anchor primer was adapted from Pule et al. \\(1). The primer has a 3’ degenerate sequence and a 5’ adapter sequence that enables the anchor primer to prime to the 3’ end of the linear product of the previous step, containing the unknown genomic sequence flanking the inserted transposon \\(Fig. 1B). \r\n\n\n\r\n\n\nPrepare the PCR buffer mixture by mixing:\r\n\n\n 15 µL nuclease-free water\r\n\n\n 2 µL 10x T7 DNA Polymerase Buffer\r\n\n\n 2 µL of 100 µM Anchor primer \r\n\n\n 1 µL of 10 mM dNTP \\(0.5 mM)",
+            {
+                "title": "1.",
+                "body": "Add 19 µL of this mixture to tube with streptavidin beads and mix by pipetting"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate at 95°C for 1 minute and decrease temperature to 37 °C over 10 minutes"
+            },
+            {
+                "title": "3.",
+                "body": "Centrifuge to collect any condensate and add 1 µL of T7 DNA polymerase"
+            },
+            {
+                "title": "4.",
+                "body": "Incubate at 37 °C for 1 hour\r\n  \r\n\n\nAt this point a linear double stranded DNA product has been synthesized, which spans the transposon terminal repeat as well as the flanking genomic sequence."
+            }
+        ]
+    },
+    {
+        "title": "**Product Amplification**",
+        "body": [
+            "This step uses exponential PCR to amplify the isolated double-stranded DNA sequences using adapter sequences included in the primers used for linear extension and complementary strand synthesis. As a result of this PCR, an amplicon is produced that includes sequences of the transposon terminal repeats and the flanking genomic sequences \\(Fig. 1C). \r\n\n\n\r\n\n\nWash the streptavidin beads to remove remaining anchor primers and carry out PCR:",
+            {
+                "title": "1.",
+                "body": "Place tube on DynaMag 96 and remove supernatant"
+            },
+            {
+                "title": "2.",
+                "body": "Add 40 μL of water"
+            },
+            {
+                "title": "3.",
+                "body": "Place tube on DynaMag 96 and remove supernatant"
+            },
+            {
+                "title": "4.",
+                "body": "Repeat 4 times"
+            },
+            {
+                "title": "5.",
+                "body": "Prepare the PCR mixture:\r\n  \r\n\n\n 1 µL of 25 µM Transposon1 primer \r\n\n\n 1 μL of 25 μM Exponential primer \r\n\n\n 45 µL of Invitrogen Platinum High Fidelity SuperMix"
+            },
+            {
+                "title": "6.",
+                "body": "Add 48 μL of PCR mixture to the beads and mix by pipetting"
+            },
+            {
+                "title": "7.",
+                "body": "Carry out PCR using the following conditions:\r\n  \r\n\n\n 95 °C for 5 minutes \r\n\n\n 35 cycles of: \r\n\n\n  95 °C for 45seconds\r\n\n\n  62 °C for 45seconds\r\n\n\n  72°C for 3 minutes\r\n\n\n 1x 72 °C for 10 minutes\r\n\n\n 4 °C until next step"
+            }
+        ]
+    },
+    {
+        "title": "**Nested Product Amplification**",
+        "body": [
+            "In order to increase the yield of specific amplicons spanning the breakpoint between transposon and flanking human genome, a nested PCR can be used \\(Fig. 1D).",
+            {
+                "title": "1.",
+                "body": "Use PureLink PCR Purification Kit to purify PCR product amplicons. Elute in 50 µL nuclease-free water"
+            },
+            {
+                "title": "2.",
+                "body": "Prepare PCR reaction mixture:\r\n   1 μl of 25 μM Transposon 2 primer \r\n\n\n 1 µl of 25μM Exponential primer \r\n\n\n 45 μl Invitrogen Platinum High Fidelity SuperMix"
+            },
+            {
+                "title": "3.",
+                "body": "Add 3 µl of purified PCR product from previous PCR amplification to 47 μL of PCR mixture in GeneMate UltraFlux tubes"
+            },
+            {
+                "title": "4.",
+                "body": "Carry out PCR using the following conditions:\r\n  \r\n\n\n 95 °C for 5 minutes \r\n\n\n 35 cycles of: \r\n\n\n  95 °C for 45seconds\r\n\n\n  62 °C for 45seconds\r\n\n\n  72°C for 3 minutes\r\n\n\n 1x 72 °C for 10 minutes\r\n\n\n 4 °C until next step"
+            },
+            {
+                "title": "5.",
+                "body": "Purify PCR product and proceed with cloning for capillary Sanger DNA sequencing or library preparation for massively parallel single molecule DNA sequencing."
+            }
+        ]
+    }
+]

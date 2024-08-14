@@ -1,0 +1,141 @@
+[
+    "\nPassaging of hES/iPS cells:\r\n\n\nMaintain WA09 and JCRB1331 cells on feeder layers of mitomycin C-treated primary mouse embryonic fibroblasts \\(PMEF) in gelatin-coated 25 cm2 tissue flasks. Passage colonies every 5-7 days depending on colony growth. Exchange culture medium every day except the day following the passaging.\r\n\n\n\r\n\n\nFreeze stock of hES/iPS Cells:",
+    {
+        "title": "1.",
+        "body": "Remove the differentiated area completely by using the Pasteur pipette in advance."
+    },
+    {
+        "title": "2.",
+        "body": "Examine all the plates containing hES/iPS Cells by inverted phase-contrast microscopy. Cultures used for cryopreservation should show no signs of microbial contamination and should be subconfluent \\(the distance between the colonies is < 10-20% of the average colony diameter). Confluent cultures may be less amenable to freezing."
+    },
+    {
+        "title": "3.",
+        "body": "Label cryogenic vials with the name of the cell line, passage number, lot number and the date."
+    },
+    {
+        "title": "4.",
+        "body": "Remove the culture medium from flasks."
+    },
+    {
+        "title": "5.",
+        "body": "Add 1.5 ml dispase \\(1U/ml) per the T25 flask and incubate for 2-5 min until the edges of the colonies start to curl.\r\n  CRITICAL: Treatment time of dispase varies and depends on the cell lines and quality of colonies used.6. Gently scrape with scraper and pipetting with 10 ml pipette so as not to be small clumps. \r\n\n\nCRITICAL: Cell colonies should not be disrupted in small size."
+    },
+    {
+        "title": "7.",
+        "body": [
+            "Transfer to a 15 ml centrifuge tube and spin at 20 X g, 2 min, 4 °C.\r\n  CRITICAL: It is recommended to centrifuge at low g forces \\(20 x",
+            {
+                "title": "g)",
+                "body": "to prevent feeder cells collecting at the bottom of the tube together."
+            }
+        ]
+    },
+    {
+        "title": "8.",
+        "body": "Carefully aspirate supernatant without disturbing the cell pellet. \r\n  CRITICAL: Finger tap the tube gently to disperse the pellet."
+    },
+    {
+        "title": "9.",
+        "body": "Resuspend the cells in freshly prepared ice-cold freezing medium \\(10% DMSO/culture medium).\r\n  CRITICAL: The freezing medium should be prepared freshly and kept on ice before use."
+    },
+    {
+        "title": "10.",
+        "body": "Transfer 200 µl aliquots into each labeled cryogenic vial.\r\n  CRITICAL: Small volume may result in higher cell survival rates. It is recommended the volume of fluid during cryopreservation is 200 ul rather than 500 ul."
+    },
+    {
+        "title": "11.",
+        "body": "Place the vials on ice for a few minute.\r\n  CRITICAL: Vials are allowed to sit on ice for 15 min. A prolonged storage on ice is likely to cause a further decline of cell viability."
+    },
+    {
+        "title": "12.",
+        "body": "Store them in the freezing container \\(BICELL or Mr.Frosty®) and keep it in a -80 °C deep freezer overnight. \r\n  CRITICAL: It is recommended to finish suspension within 30 min. Prolonged immersion cause decline in cell viability."
+    },
+    {
+        "title": "13.",
+        "body": "Next day transfer the vials to the liquid nitrogen tank \\(in the vapor phase, -150 °C ).\r\n  CRITICAL: Immersion of vials into the liquid phase of liquid nitrogen may lead to viral or cross contamination.\r\n\n\nCRITICAL: It is recommended to abort long term storage in a -80 °C deep freezer. An extended storage at -80 °C causes the decline in cell recovery. Storage in a -80 °C deep freezer within 7 days after transferring from liquid nitrogen tank is permissible.  \r\n\n\nCRITICAL: It is reported that vitrification protocols may be superior to slow freezing. We showed our slow freezing method was equally successful as vitrification method. \r\n\n\nPAUSE POINT: The cells can be stored indefinitely in the vapor phase of liquid nitrogen."
+    },
+    {
+        "title": "14.",
+        "body": "Document the details of vials and storage location in the appropriate inventory.\r\n  \r\n\n\nPreparation of feeder seeded culture flasks before thawing of hES/hiPS cells"
+    },
+    {
+        "title": "15.",
+        "body": "Coat the flasks with 0.1% gelatin \\(3 ml/25 cm2 flask)."
+    },
+    {
+        "title": "16.",
+        "body": "Incubate the flasks for 1 hour at 37 °C or overnight at room temperature."
+    },
+    {
+        "title": "17.",
+        "body": "Rinse the flasks with PBS."
+    },
+    {
+        "title": "18.",
+        "body": "Inoculate mitomycin c-treated primary mouse embryonic fibroblasts \\(PMEF) at 5-7x103 cells/cm2 in DMEM \\(high glucose) containing 10% heat inactivated FBS.\r\n  CRITICAL: Prepare the feeder seeded culture flasks in a few days in advance of the thawing or passaging of hES/hiPS cells, and use them within 5 days.\r\n\n\nCRITICAL: Density of feeder cells should be determined by colony morphology of hES/hiPS cells in advance.\r\n\n\n\r\n\n\nThawing of hES/hiPs cells"
+    },
+    {
+        "title": "19.",
+        "body": "Prior to using of feeder seeded flasks, replace the medium with the human pluripotent cell medium twice."
+    },
+    {
+        "title": "20.",
+        "body": "Pre-warm 10 ml of the human pluripotent cell medium in a 15 ml tube in a 37 °C water bath."
+    },
+    {
+        "title": "21.",
+        "body": "Rapidly thaw out frozen cells by adding the pre-warmed medium directly into a vial with the transfer pipette.\r\n  CRITICAL: In a case of thawing the frozen cells in a 37 °C water bath or in a 37°C incubator, the cells may be seriously damaged."
+    },
+    {
+        "title": "22.",
+        "body": "Gently collect the cells in the 15ml tube and wash vial with the pre-warmed medium."
+    },
+    {
+        "title": "23.",
+        "body": "Centrifuge the tube at 90x g, 2 min, room temperature."
+    },
+    {
+        "title": "24.",
+        "body": "Aspirate the medium and finger tap the tube gently to disperse the pellet."
+    },
+    {
+        "title": "25.",
+        "body": "Resuspend the cells in 5-7 ml of pre-warmed culture medium and transfer the suspension into a 25 cm2 flask."
+    },
+    {
+        "title": "26.",
+        "body": "Gently move the flask several times along horizontal and vertical directions to distribute the cells evenly."
+    },
+    {
+        "title": "27.",
+        "body": "Incubate the flasks in an incubator at 37 °C in a humidified atmosphere of 5% CO2."
+    },
+    {
+        "title": "28.",
+        "body": "Culture medium should be exchanged every other day until hES/hiPS cells are ready for passaging.\r\n  CRITICAL: Do not move the flask on the day following the passaging.\r\n\n\n\r\n\n\nAlkaline phosphatase staining to determine the growth of hiPS/hES cells"
+    },
+    {
+        "title": "29.",
+        "body": "Remove the culture medium and rinse once with PBS for 1 min at room temperature."
+    },
+    {
+        "title": "30.",
+        "body": "Fix the colonies with the fixation buffer for 1 min at room temperature."
+    },
+    {
+        "title": "31.",
+        "body": "Wash twice with DDW."
+    },
+    {
+        "title": "32.",
+        "body": "Start the color reaction by incubating in the reaction buffer blocking off the light."
+    },
+    {
+        "title": "33.",
+        "body": "Stop the reaction after 15 min by washing twice with DDW."
+    },
+    {
+        "title": "34.",
+        "body": "Count the stained colonies."
+    }
+]

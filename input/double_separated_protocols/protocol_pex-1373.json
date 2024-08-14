@@ -1,0 +1,19 @@
+[
+    "<p><strong>NP swab sample preparation.</strong></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;8.3\u00b5L of heat-inactivated NP swab samples was added with 1\u00b5L of Proteinase K </p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;Vortexed for 1 minutes.",
+    "</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;Heat",
+    "inactivate Proteinase K at 95\u00baC for 5minutes.",
+    "</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;2\u00b5L of the treated sample is then used for RT-LAMP amplification.</p><p><strong>&nbsp;</strong></p><p><strong>RT-LAMP reaction (with ACTB internal control)</strong></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;Prepare 10X SARS-CoV2 S primer ",
+    "Mix with 22\u00b5L of water, 2\u00b5L for F3(100\u00b5M), 4\u00b5L for B3(100\u00b5M), 8\u00b5L for FIP(PM)(100\u00b5M), 8\u00b5L for BIP(PM)(100\u00b5M), 8\u00b5L for FIP(tPM-1)(100\u00b5M), 8\u00b5L for BIP(tPM-1)(100\u00b5M), 4\u00b5L for LF(100\u00b5M) and 4\u00b5L for LB(100\u00b5M), 16\u00b5L for s",
+    "Warm F1c(100\u00b5M) and 16\u00b5L for s",
+    "Real time fluorescence can be ",
+    "Measure via FAM channel (Ex:450/90, Em:515/30).</p><p>&nbsp;</p><p><strong>quasiOnePot Cas12a reaction (with ACTB internal control)</strong></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;Pre-complex Cas12a RNP by mixing 0.75\u00b5L of S2(+4DNA)(5\u00b5M), 0.75\u00b5L of S6(+4DNA)(5\u00b5M) and 7.5\u00b5L of enAsCas12a(100ng/\u00b5L)</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;Incubate RNP at 37\u00baC for at least 15minutes.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;Prepare RNP-probe ",
+    "Mix with 32\u00b5L of water, 7.5\u00b5L of&nbsp;10X Tango Buffer, 1.5\u00b5L of&nbsp;Cy5-Quencher reporter(10\u00b5M) and 9\u00b5L of complexed RNP.</p><p>4.&nbsp;&nbsp;&nbsp;&nbsp;Pipette 50\u00b5L of Cas12a-probe ",
+    "Fluorescence detection can be done at Ex: 640/Em: 670.</p><p>&nbsp;</p><p><strong>RT-LAMP reaction (Lateral Flow reaction)</strong></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;Prepare 10X SARS-CoV2 S primer ",
+    "Mix with 22\u00b5L of water, 2\u00b5L for F3(100\u00b5M), 4\u00b5L for B3(100\u00b5M), 8\u00b5L for FIP(PM)(100\u00b5M), 8\u00b5L for BIP(PM)(100\u00b5M), 8\u00b5L for FIP(tPM-1)(100\u00b5M), 8\u00b5L for BIP(tPM-1)(100\u00b5M), 4\u00b5L for LF(100\u00b5M) and 4\u00b5L for LB(100\u00b5M), 16\u00b5L for s",
+    "Warm F1c(100\u00b5M) and 16\u00b5L for s",
+    "Flow readout)</strong></p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;Pre-complex Cas12a RNP by mixing 0.75\u00b5L of S2(+4DNA)(5\u00b5M), 0.75\u00b5L of S6(+4DNA)(5\u00b5M) and 7.5\u00b5L of enAsCas12a (100ng/\u00b5L).</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;Incubate RNP at 37\u00baC for 30minutes.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;Prepare Cas12a-probe ",
+    "</p><p>6.&nbsp;&nbsp;&nbsp;&nbsp;Pipette 75\u00b5L of HybriDetect assay buffer (Milenia Biotec) into the reaction ",
+    "Mix from Step 5.</p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;Insert dipstick into reaction ",
+    "</p><p>8.&nbsp;&nbsp;&nbsp;&nbsp;Allow reaction to ",
+    "Flow up the "
+]

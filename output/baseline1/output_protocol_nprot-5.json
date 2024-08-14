@@ -1,0 +1,152 @@
+[
+    {
+        "operation": "use",
+        "reagent": "bone marrow",
+        "equipment": "None",
+        "condition": "None"
+    },
+    {
+        "operation": "use",
+        "reagent": "interleukin 3",
+        "equipment": "None",
+        "condition": "None"
+    },
+    {
+        "operation": "add",
+        "reagent": "fetal bovine serum, penicillin, streptomycin, L-glutamine, &#x3B2;-mercaptoethanol, HEPES, recombinant murine IL-3, RPMI 1640 medium",
+        "equipment": "None",
+        "condition": "None"
+    },
+    {
+        "operation": "use",
+        "reagent": "Pac-1-/- and Pac-1+/+ mice",
+        "equipment": "None",
+        "condition": "None"
+    },
+    {
+        "operation": "use",
+        "reagent": "anti-DNP IgE mAb",
+        "equipment": "None",
+        "condition": "None"
+    },
+    {
+        "operation": "use",
+        "reagent": "DNP-HSA",
+        "equipment": "None",
+        "condition": "None"
+    },
+    {
+        "operation": "use",
+        "reagent": "cytospin and staining with giemsa and toluidine blue",
+        "equipment": "None",
+        "condition": "None"
+    },
+    {
+        "operation": "use",
+        "reagent": "Flow Cytometry",
+        "equipment": "None",
+        "condition": "None"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "pG5E4D38-Luc plasmid, BMMCs",
+        "equipment": "Amaxa nucleofector device",
+        "condition": "solution T"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "pSG-Gal-Elk-1 plasmid, BMMCs",
+        "equipment": "Amaxa nucleofector device",
+        "condition": "solution T"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "lacZ-expression vector pCMVβ, BMMCs",
+        "equipment": "Amaxa nucleofector device",
+        "condition": "solution T"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "pCMVβ and pNFAT-Luc plasmids, BMMCs",
+        "equipment": "None",
+        "condition": "None"
+    },
+    {
+        "operation": "plate",
+        "reagent": "BMMCs",
+        "equipment": "culture medium",
+        "condition": "None"
+    },
+    {
+        "operation": "supplement",
+        "reagent": "RPMI 1640 medium",
+        "equipment": "fetal bovine serum, penicillin, streptomycin, L-glutamine, &#x3B2;-mercaptoethanol, HEPES, and recombinant murine IL-3",
+        "condition": "None"
+    },
+    {
+        "operation": "sensitise",
+        "reagent": "BMMCs",
+        "equipment": "anti-DNP IgE antibodies",
+        "condition": "None"
+    },
+    {
+        "operation": "stimulate",
+        "reagent": "BMMCs",
+        "equipment": "DNP-HSA",
+        "condition": "None"
+    },
+    {
+        "operation": "lyse",
+        "reagent": "BMMCs",
+        "equipment": "luciferase lysis buffer",
+        "condition": "None"
+    },
+    {
+        "operation": "determine",
+        "reagent": "raw luciferase activities",
+        "equipment": "luciferase activity kit",
+        "condition": "None"
+    },
+    {
+        "operation": "measure",
+        "reagent": "&#x3B2;-galactosidase activities",
+        "equipment": "Galactostar and Galacton reagents",
+        "condition": "None"
+    },
+    {
+        "operation": "use",
+        "reagent": "mock-transfected cells",
+        "equipment": "None",
+        "condition": "background &#x3B2;-gal activity subtraction"
+    },
+    {
+        "operation": "use",
+        "reagent": "transfected BMMCs",
+        "equipment": "None",
+        "condition": "relative &#x3B2;-gal activity calculation"
+    },
+    {
+        "operation": "obtain",
+        "reagent": "standardised luciferase activity",
+        "equipment": "None",
+        "condition": "dividing luciferase activity by corresponding relative &#x3B2;-gal activity"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "WT Pac-1, mast cells",
+        "equipment": "2ug, Amaxa solution T",
+        "condition": "None"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "C257S Pac-1, mast cells",
+        "equipment": "2ug, Amaxa solution T",
+        "condition": "None"
+    },
+    {
+        "operation": "transfect",
+        "reagent": "pMIG vector control, mast cells",
+        "equipment": "2ug, Amaxa solution T",
+        "condition": "None"
+    }
+]

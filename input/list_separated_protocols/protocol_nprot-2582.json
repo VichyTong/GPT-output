@@ -1,0 +1,59 @@
+[
+    "\nProcedure",
+    {
+        "title": "1)",
+        "body": "Perfom DNA extraction and any following step of sample processing \\(diluition, quantification,…) in a dedicated hood for molecular biology in order to avoid any contamination."
+    },
+    {
+        "title": "2)",
+        "body": "Before starting the LAM-PCR procedure, the DNA extracted from the tumor \\(or the control sample) has to be used for the determination of the vector copy number \\(VCN) per diploid genome in the sample of interest as described. Briefly, for LV–transduced samples, quantitative Taqman PCR was performed using control samples with known vector copy number \\(defined with a different approach, such as Southern Blotting) <sup>3</sup>"
+    },
+    {
+        "title": "3)",
+        "body": [
+            "Set up a 50-μl reaction linear PCR initiated from 5′-biotinylated vector-specific primer LTRIa and LTRIb as follows:\r\n\n\n10× Taq polymerase reaction buffer 5 μl \r\n\n\nTemplate DNA \\(0.01–10,000 ng) x μl\r\n\n\ndNTPs \\(200 μM each) 1 μl \r\n\n\nTaq polymerase \\(2.5 U/μl) 0.5 μl\r\n\n\nPrimer LTRIa \\(0.5 pmol/μl) 0.25 μl \r\n\n\nPrimer LTRIb \\(0.5 pmol/μl) 0.25 μl \r\n\n\ndH2O 43 – x μl\r\n\n\n\r\n\n\nTo favor the amplification of integrations occurring in the putatively oligoclonal tumor parenchyma over the ones occurring in the tumoral stroma and contaminating surrounding tissue, we used an ad hoc–designed LAM-PCR amplification protocol that uses limiting amounts of DNA to favor the amplification and retrieval of dominant insertions. The optimal amount of DNA for tumoral samples was defined empirically by using different quantities of DNA from tumors with a previously measured VCN. Since we expect the tumors to be mono or oligoclonal, we chose the minimal DNA quantity that resulted in the generation of few discrete bands, each representing a different LV insertion   <a href=\"http://www.nature.com/protocolexchange/system/uploads/2446/original/Figure_1.pdf?1359456696\" >\\(Fig.1)</a>.   \r\n\n\nAccording to these criteria, for tumor samples we used different amounts of DNA as template for LAM-PCR, according to the VCN that was detected in the sample by qPCR: 100 ng if VCN < 1; 50 ng if VCN ≥ 1 and ≤ 3; 10 ng if VCN >",
+            {
+                "title": "3.",
+                "body": "For nontumoral samples, 100 ng of DNA was always used as template for LAM-PCR."
+            }
+        ]
+    },
+    {
+        "title": "4)",
+        "body": [
+            "Perform the linear amplification \\(assembled as described above) using the following PCR program. \r\n\n\n   Initial denaturation 95°C 5’",
+            {
+                "title": "a)",
+                "body": "Denaturation 95°C 1’"
+            },
+            {
+                "title": "b)",
+                "body": "Annealing 60°C 45’’"
+            },
+            {
+                "title": "c)",
+                "body": "Elongation 72°C 1’30’’\r\n\n\nRepeat from"
+            },
+            {
+                "title": "a)",
+                "body": "to"
+            },
+            {
+                "title": "c)",
+                "body": "for 25 cycles\r\n\n\nFinal Elongation 72°C 10’"
+            }
+        ]
+    },
+    {
+        "title": "5)",
+        "body": "Perform the Magnetic capture, Double-stranded DNA synthesis, Restriction Digest, Linker Ligation, Denaturation and Nested PCR as described in the canonical LAM-PCR protocol<sup>1</sup> using oligos for HIV-derived lentiviral vectors."
+    },
+    {
+        "title": "6)",
+        "body": "For visualization of the LAM-PCR products, separate 5 μl of the second exponential amplification on a high-resolution Spreadex gel according to the manufacturer’s recommendations <a href=\"http://www.nature.com/protocolexchange/system/uploads/2447/original/Figure_2.pdf?1359456775\" >\\(Fig. 2)</a>."
+    },
+    {
+        "title": "7)",
+        "body": "Products of the second exponential amplification were tagged and then sequenced at high throughput with the 454 GS Flx platform \\(Roche). For these oligoclonal hepatocellular carcinomas, an average of 300 sequencing reads for each of the 2 PCR products \\(digested respectively with Tsp509I and HpyCH4IV) were performed, and resulted in the univocal mapping of an average of 6 integrations per sample<sup>4</sup>."
+    }
+]

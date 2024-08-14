@@ -1,0 +1,26 @@
+[
+    {
+        "title": "1.",
+        "body": "Make a frozen stock of subcultures of _Candida albicans_ at -80°C in Sabroud Dextrose Broth containing 15% glycerol."
+    },
+    {
+        "title": "2.",
+        "body": "Plate cultures on Sabouraud dextrose agar plates and grow at 37 °C for 24 hours. The plates can be stored at 4 °C for a maximum of 4 weeks."
+    },
+    {
+        "title": "3.",
+        "body": "Before each experiment, pick a colony from a plate and grow in 5 ml of Sabouraud Dextrose Broth in a 14 ml conical tube at 37 °C for 24 hours in a shaker."
+    },
+    {
+        "title": "4.",
+        "body": "Centrifuge the cells \\(1000 rpm for 5 minutes) and wash the pellet twice with 5 ml of sterile PBS and resuspend in PBS."
+    },
+    {
+        "title": "5.",
+        "body": "Count the cell number using a hemocytometer, and then adjust to the desired concentration."
+    },
+    {
+        "title": "6.",
+        "body": "Inject 2-5 × 10<sup>5</sup> colony-forming units of _C albicans_ dissolved in 200 μl of sterile PBS from tail vein to induce disseminated candidiasis."
+    }
+]

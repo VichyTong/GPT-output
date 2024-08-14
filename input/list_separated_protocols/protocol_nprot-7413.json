@@ -1,0 +1,364 @@
+[
+    {
+        "title": "**Microscopy Setup**",
+        "body": [
+            "A sketch of the experimental setup can be found in Figure",
+            {
+                "title": "2.",
+                "body": "The setup is built around an inverted microscope. A piezo translation stage mounted to the microscope is used for fine-positioning of the trap right before a trapping experiment starts. The beam diameter of a CW laser at a wavelength of 808 nm used for the heating of the chrome ring is increased by a beam expander. Afterwards, the widened laser beam is sent through an acousto-optic deflector \\(AOD) and a lens system which allows for the steering of the laser focus in the sample plane on the circumference of the chrome ring. Fluorescence excitation of the labeled fibrils is done with a 445 nm CW laser which is focused to the back-focal plane of the objective to attain a homogeneous illumination of the sample in the trapping region. Both laser beams are merged by a pellicle beam splitter \\(BS). A dichroic mirror \\(D) is selected according to the excitation and the heating laser wavelengths as well as the emission wavelength of the labeled sample. Reflections of the heating laser in the detection pathway are blocked with a short-pass filter. Fluorescent light of the sample is imaged to an EMCCD after passing a bandpass filter \\(F) as well as a tube lens. The AD/DA converter drives the acousto-optic deflector and the piezo stage. The fluorescence is imaged in real time and the control of the AD/DA converter \\(ADwin) is done with a custom LabVIEW program.\r\n\n\n\r\n\n\n<figure>\r\n\n\n<center>\r\n\n\n<img src=\"http://www.nature.com/protocolexchange/system/uploads/7633/original/Experimental_Setup.png?1552666322\" title=\"Figure 2\" height=\"250px\">\r\n\n\n<figcaption> <font size=\"1\">"
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 2: Sketch of the experimental setup.**",
+        "body": "</font> </figcaption>\r\n\n\n</center>\r\n\n\n</figure>"
+    },
+    {
+        "title": "**UV Lithography**",
+        "body": [
+            "UV lithography is used to provide glass cover slips with the chrome structures. This chrome structure constitutes the traps for the thermophoretic experiments. As the photoresist used for the UV lithography is highly sensitive to visible light in the lower spectral range and UV light, the procedure has to be executed in a specific photolithography room. Commonly, the ambient illumination in these rooms is realized with yellow fluorescent light tubes containing filters blocking all light components which are below 500 nm. A photomask for the UV lithography system was produced according to an AutoCAD file with the designed chrome structures as shown in Figure",
+            {
+                "title": "3.",
+                "body": "<figure>\r\n\n\n<center>\r\n\n\n<img src=\"http://www.nature.com/protocolexchange/system/uploads/7637/original/Trap_Design.png?1552667962\" title=\"Figure 3\" height=\"250px\"></center>\r\n\n\n<figcaption> <font size=\"1\" line-height:\"2px\">"
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 3: CAD images of the chrome structure.**",
+        "body": [
+            "The chrome traps are arranged in arrays. On each quadrant of the cover slip arrays of rings can be found with inner diameters of 8 μm, 10 μm, 14 μm, and 20 μm. They are separated by a cross. The capital \"L\" in the left top corner indicates the upper side on the cover slip.</font> </figcaption>\r\n\n\n</figure>",
+            {
+                "title": "1.",
+                "body": "Thoroughly clean a glass cover slip with acetone and isopropyle."
+            },
+            {
+                "title": "2.",
+                "body": "Dry the clean glass cover slip on the hotplate at 120 °C for 10 min."
+            },
+            {
+                "title": "3.",
+                "body": "During the previous step, switch on the UV lithography system and install the photomask."
+            },
+            {
+                "title": "4.",
+                "body": "Fix the cleaned glass cover slip on the spin coater."
+            },
+            {
+                "title": "5.",
+                "body": "Spin coat 100 μl of the adhesion promoter on the glass cover slip at 3000 rpm for 30 s using dynamic dispense spin coating technique. No residual drops or film of the adhesion promoter should be visible after spin coating."
+            },
+            {
+                "title": "6.",
+                "body": "Bake the adhesion promoter immediately after spin coating at 120 °C on the hotplate for 2 min."
+            },
+            {
+                "title": "7.",
+                "body": "Fix the cover slip on the spin coater."
+            },
+            {
+                "title": "8.",
+                "body": "Spin coat 200 μl of the negative photoresist on the glass cover slip at 3000 rpm for 30 s using dynamic dispense spin coating technique."
+            },
+            {
+                "title": "9.",
+                "body": "Soft-bake the photoresist immediately after spin coating at 110 °C on the hotplate for 60 s."
+            },
+            {
+                "title": "10.",
+                "body": "Fix the cover slip to the UV lithography system and align it with the photomask \\(for optimal exposure)."
+            },
+            {
+                "title": "11.",
+                "body": "Expose the cover slip to the UV laser \\(66 mJ cm<sup>−2</sup>, i-line)."
+            },
+            {
+                "title": "12.",
+                "body": "Dismantle the cover slip from the UV lithography system and bake it at 110 °C for 60 s."
+            },
+            {
+                "title": "13.",
+                "body": "Develop the photoresist for 60 s. For this purpose, fill a 50 ml baker with the developer and wave the cover slip for exactly 60 s in the baker with a tweezer under the exhaustive hood."
+            },
+            {
+                "title": "14.",
+                "body": "Thoroughly rinse the cover slip with Milli-Q water. The future chrome structures should already be visible on the cover slip at this point."
+            },
+            {
+                "title": "15.",
+                "body": "Thermally evaporate a 30 nm chrome layer on the cover slip."
+            },
+            {
+                "title": "16.",
+                "body": "Strip the resist with the remover in the ultrasonic bath for 30 min. The chrome structure remains."
+            },
+            {
+                "title": "17.",
+                "body": "Thoroughly rinse the cover slip with Milli-Q water and dry it with nitrogen."
+            }
+        ]
+    },
+    {
+        "title": "**Fibril Preparation**",
+        "body": []
+    },
+    {
+        "title": "**a) Preparation of buffer solutions**",
+        "body": [
+            "Preparation of phosphate buffer \\(pH 8.8 and pH 9.2):",
+            {
+                "title": "1.",
+                "body": "Dilute a 500 mM Na<sub>2</sub>HPO<sub>4</sub> stock solution with Milli-Q water to a final concentration of 25 mM."
+            },
+            {
+                "title": "2.",
+                "body": "Add the respective amount of NaCl for salt dependent measurements."
+            },
+            {
+                "title": "3.",
+                "body": "Adjust the pH value with NaOH."
+            },
+            {
+                "title": "4.",
+                "body": "Store the buffer solution at room temperature.\r\n  \r\n\n\nPreparation of phosphate buffer \\(pH 7.4):"
+            },
+            {
+                "title": "1.",
+                "body": "Mix 500 mM stock solutions of Na<sub>2</sub>HPO<sub>4</sub> and NaH<sub>2</sub>PO<sub>4</sub> at a ratio of 8.1:1.9."
+            },
+            {
+                "title": "2.",
+                "body": "Dilute the solution with Milli-Q water to a final concentration of 25 mM."
+            },
+            {
+                "title": "3.",
+                "body": "Add the respective amount of NaCl for salt dependent measurements."
+            },
+            {
+                "title": "4.",
+                "body": "Adjust the pH value with NaOH or H<sub>3</sub>PO<sub>4</sub>, respectively."
+            },
+            {
+                "title": "5.",
+                "body": "Store the buffer solution at room temperature.\r\n  \r\n\n\nPreparation of phosphate buffer \\(pH 6.1):"
+            },
+            {
+                "title": "1.",
+                "body": "Mix 500 mM stock solutions of Na<sub>2</sub>HPO<sub>4</sub> and NaH<sub>2</sub>PO<sub>4</sub> at a ratio of 1.5:8.5."
+            },
+            {
+                "title": "2.",
+                "body": "Dilute the solution with Milli-Q water to a final concentration of 25 mM."
+            },
+            {
+                "title": "3.",
+                "body": "Add the respective amount of NaCl for salt dependent measurements."
+            },
+            {
+                "title": "4.",
+                "body": "Adjust the pH value with NaOH or H<sub>3</sub>PO<sub>4</sub>, respectively."
+            },
+            {
+                "title": "5.",
+                "body": "Store the buffer solution at room temperature.\r\n  \r\n\n\nPreparation of TRIS buffer \\(pH 8.0):"
+            },
+            {
+                "title": "1.",
+                "body": "Dissolve TRIS in Milli-Q water to a concentration of 50 mM."
+            },
+            {
+                "title": "2.",
+                "body": "Add the respective amount of NaCl for a 100 mM concentration in the buffer."
+            },
+            {
+                "title": "3.",
+                "body": "Adjust the pH value with HCl."
+            },
+            {
+                "title": "4.",
+                "body": "Store the buffer solution at room temperature."
+            }
+        ]
+    },
+    {
+        "title": "**b) Preparation of fibrils**",
+        "body": [
+            "Preparation of Aβ<sub>40</sub> fibrils:",
+            {
+                "title": "1.",
+                "body": "Dissolve the lyophilized Aβ<sub>40</sub> peptide in 25 mM phosphate buffer \\(pH 8.8) containing 150 mM\r\n  NaCl to a concentration of 1 mg ml<sup>−1</sup>."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the solution at 37 °C while shaking at 450 rpm for at least 12 h."
+            },
+            {
+                "title": "3.",
+                "body": "Store the fibril stock solution at 4 °C.\r\n  \r\n\n\nPreparation of Aβ<sub>42</sub> fibrils:"
+            },
+            {
+                "title": "1.",
+                "body": "Dissolve the lyophilized Aβ<sub>42</sub> peptide in 25 mM phosphate buffer \\(pH 9.2) containing 150 mM\r\n  NaCl to a concentration of 0.25 mg ml<sup>−1</sup>."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the solution at 37 °C while shaking at 450 rpm for 4 days."
+            },
+            {
+                "title": "3.",
+                "body": "Store the fibril stock solution at 4 °C.\r\n  \r\n\n\nPreparation of pGlu<sub>3</sub>-Aβ<sub>3−40</sub> fibrils:"
+            },
+            {
+                "title": "1.",
+                "body": "Dissolve the lyophilized peptide in 50 mM TRIS buffer \\(pH 8.0) containing 100 mM NaCl to a concentration of 0.1 mg ml<sup>−1</sup>."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate the solution at 37 °C while shaking at 450 rpm for 4 days."
+            },
+            {
+                "title": "3.",
+                "body": "Store the fibril stock solution at 4 °C.\r\n  \r\n\n\nPreparation for salt and pH value dependent measurements:\r\n\n\nThe fibril stock solution was dialyzed against the desired buffer solution using a dialysis tube with molecular weight cut-off \\(MWCO) of 1000."
+            },
+            {
+                "title": "1.",
+                "body": "Pipette 1 ml of the fibril solution into the dialysis tube and seal it with a clamp."
+            },
+            {
+                "title": "2.",
+                "body": "Fill 400 ml of the desired buffer into a beaker."
+            },
+            {
+                "title": "3.",
+                "body": "On stirring, dialyze the fibril solution against the desired buffer for 2 h."
+            },
+            {
+                "title": "4.",
+                "body": "Exchange the desired buffer solution in the beaker with a fresh one and dialyze again the fibril solution for 2 h."
+            },
+            {
+                "title": "5.",
+                "body": "Pipette the fibril solution into a microcentrifuge tube and store it a 4 °C."
+            }
+        ]
+    },
+    {
+        "title": "**Sample Preparation**",
+        "body": []
+    },
+    {
+        "title": "**a) Groundwork**",
+        "body": [
+            "Preparation of a 1 mM ThT stock solution:",
+            {
+                "title": "1.",
+                "body": "Weigh the corresponding amount of ThT powder for a 1 mM ThT solution."
+            },
+            {
+                "title": "2.",
+                "body": "Mix the ThT powder with water in a black microcentrifuge tube."
+            },
+            {
+                "title": "3.",
+                "body": "Store the stock solution at 4 °C.\r\n  \r\n\n\nPreparation of a 2 % polystyrene solution as hydrophobic layer:\r\n\n\nA closed polystyrene layer is spin-coated on the cover slips to obtain a defined hydrophobic layer for an optimal adsorption of the blocking agent Pluronic F-127."
+            },
+            {
+                "title": "1.",
+                "body": "Weigh the corresponding amount of polystyrene for a 2 % solution."
+            },
+            {
+                "title": "2.",
+                "body": "Dissolve the polystyrene resin with toluene under an exhaustive hood. Take a storage vial with a toluene resistant cap."
+            },
+            {
+                "title": "3.",
+                "body": "Seal the cap with PARAFILM M for long-time storage at room temperature.\r\n  \r\n\n\nPreparation of a 1 % Pluronic F-127 solution as anti-adsorbent:\r\n\n\nThe Pluronic F-127 is always prepared freshly or at least once per week."
+            },
+            {
+                "title": "1.",
+                "body": "Mix Pluronic F-127 powder with Milli-Q water in a glass beaker to attain a 1 % Pluronic F-127 solution."
+            },
+            {
+                "title": "2.",
+                "body": "Cover the beaker with PARAFILM M to protect the solution from pollution."
+            },
+            {
+                "title": "3.",
+                "body": "Leave the beaker in an ultrasonic bath for 30 min for proper dissolving."
+            },
+            {
+                "title": "4.",
+                "body": "Store the solution at room temperature."
+            }
+        ]
+    },
+    {
+        "title": "**b) Preparation of measurement sample**",
+        "body": [
+            "The fibril solution is confined between two cover slips. One of the cover slips is prepared with the chrome structure for trapping.",
+            {
+                "title": "1.",
+                "body": "Thoroughly rinse the cover slips with acetone, isopropyle and Milli-Q water."
+            },
+            {
+                "title": "2.",
+                "body": "Dry the clean cover slips with a nitrogen gun."
+            },
+            {
+                "title": "3.",
+                "body": "Spin coat 30 μl of the 2 % polystyrene solution on the cover slips at 8000 rpm using dynamic dispense spin coating technique. The cover slip has to face the polystyrene layer with the chrome structure."
+            },
+            {
+                "title": "4.",
+                "body": "Immerse the cover slips in the 1 % Pluronic F-127 solution for 10 min."
+            },
+            {
+                "title": "5.",
+                "body": "Briefly dip the cover slips in Milli-Q water and dry them with nitrogen. Put them aside for the next\r\n  few steps."
+            },
+            {
+                "title": "6.",
+                "body": "Prepare the fibril working solution by diluting 5 μl of the fibril stock solution with 100 μl Milli-Q water containing 0.1 % Pluronic F-127. \\(The amount of water is replaced with a corresponding amount of phosphate buffer or NaCl for pH and salt dependent experiments. 0.1 mg of the peptide monomers are added for growth experiments. The working solution commonly is prepared freshly right before a trapping experiment.)"
+            },
+            {
+                "title": "7.",
+                "body": "Add 2 μl of the 1 mM ThT stock solution to the working solution resulting in a ThT concentration of about 20 μM."
+            },
+            {
+                "title": "8.",
+                "body": "Store the prepared working solution in darkness \\(e.g. using a black microcentrifuge vial or a film canister) at room temperature."
+            },
+            {
+                "title": "9.",
+                "body": [
+                    "Cover the edges of the cover slip \\(from step",
+                    {
+                        "title": "5)",
+                        "body": [
+                            "not containing the chrome structure with a thin PDMS layer for sealing using the cannula \\(cf. Figure",
+                            {
+                                "title": "4).",
+                                "body": "The polystyrene covered side of the cover slip is provided with PDMS here."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "10.",
+                "body": "Pipette 0.35 μl of the final working solution in the middle of the cover slip containing the PDMS for sealing. \\(The amount of liquid used roughly defines the height of the sample during the experiments.)"
+            },
+            {
+                "title": "11.",
+                "body": "Place the other cover slip containing the chrome structure on top with the chrome structure facing towards the solution."
+            },
+            {
+                "title": "12.",
+                "body": "Fix the sample on the microscopy sample holder with the cover slip containing the chrome structure on the top side and start the trapping experiment.\r\n  \r\n\n\n<figure>\r\n\n\n<center>\r\n\n\n<img src=\"http://www.nature.com/protocolexchange/system/uploads/7639/original/Sample_Preparation.png?1552668020\" title=\"Figure 4\" height=\"125px\"></center>\r\n\n\n<figcaption> <font size=\"1\" line-height:\"2px\">"
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 4: Procedure for setting up the measurement sample.**",
+        "body": "The cover slip not containing the chrome structure is provided with PDMS at the edges. 0.35 μl of the sample solution is pipetted in the middle of the cover slip. Finally, the sample is sealed with the cover slip containing the chrome structure resulting in the completed measurement sample.</font> </figcaption>\r\n\n\n</figure>"
+    }
+]

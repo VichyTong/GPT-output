@@ -1,0 +1,49 @@
+[
+    "\n\\(Use autoclaved microcentrifuge tubes and gloves)",
+    {
+        "title": "1-",
+        "body": "Collect 50-100 adult insects \\(for Drosophila, females will give higher yield). Anesthetize on CO2. Keep the flies and 70% EtOh on ice."
+    },
+    {
+        "title": "2-",
+        "body": "Transfer anesthetized flies to the Centrifugal Filter \\(5 or 0.65 micrometer)."
+    },
+    {
+        "title": "3-",
+        "body": "Wash 5 times with 70% ethanol.  Invert the tube a couple of times between washes. This step is to collect as much debris and sterilize the fly surface as much as possible."
+    },
+    {
+        "title": "4-",
+        "body": [
+            "Spin for 5-10 seconds in tabletop microcentrifuge at low speed setting \\(around 1,000",
+            {
+                "title": "g)",
+                "body": "to dispose most of the EtOH"
+            }
+        ]
+    },
+    {
+        "title": "5-",
+        "body": "Wash 3x with sterile H2O."
+    },
+    {
+        "title": "6-",
+        "body": "Spin 5-10 seconds to eliminate most of the water"
+    },
+    {
+        "title": "7-",
+        "body": "Transfer the filter unit to a sterile microcentrifuge tube."
+    },
+    {
+        "title": "8-",
+        "body": "Spin for 3 minutes at around 10,000 g. In case yolk is not desired \\(e.g. for visualization) low speed centrifugation is recommended to avoid disruption of eggs inside females. Speeds can go as low as 1,000 g for 3 minutes."
+    },
+    {
+        "title": "9-",
+        "body": "From 50 to 100 flies the yield is around"
+    },
+    {
+        "title": "10-",
+        "body": "20 µl.  To maximize the bacteria viability, keep on ice all the time. The exudates can be used for transfection into other hosts \\(see “Transfection of Wolbachia into adult hosts”), cell culture or imaging. \r\n\n\n\r\n\n\nThe presence of bacteria can be quickly verified with a DNA stain \\(see “Live imaging of Wolbachia”). As a control, always compare with hemolymph isolated from an uninfected stock."
+    }
+]

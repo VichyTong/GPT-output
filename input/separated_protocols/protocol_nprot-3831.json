@@ -1,0 +1,12 @@
+[
+    "1. Check the sequencing quality of RNA-seq data using 'qualityScores' function in Rsubread package.\r\n  ",
+    "2. Use 'align' function in Rsubread to align the reads.\r\n  ",
+    "3. Use 'featureCounts' function in Rsubread to assign reads to genes.\r\n  ",
+    "4. Use 'voom' function in limma package to normalize read counts and to estimate the mean-variance relationship.\r\n  ",
+    "5. Use 'lmFit' function in limma to fit linear models to genes.\r\n  ",
+    "6. Use 'treat' \\(or 'eBayes') function in limma to compute moderated t statistic for each gene for each comparison.\r\n  ",
+    "7.",
+    "Call differentially expressed genes using the 'decideTests' function in limma.\r\n  ",
+    "The Rsubread package can be downloaded from http://bioconductor.org/packages/release/bioc/html/Rsubread.html.",
+    "The limma package can be downloaded from http://bioconductor.org/packages/release/bioc/html/limma.html"
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "index": 43,
+        "string": "Culturing HUDEP-2 cells as previously described<sup>16</sup>.",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the method or procedure for culturing HUDEP-2 cells that has been mentioned or explained before."
+    },
+    {
+        "index": 59,
+        "string": "Generating HUDEP-2 single cell clones (monoclonal cell population)</p><p>Single cell clones can be established from Lenti A&amp;C-BEmax treated cells containing various genotypes to interrogate the relationships between the genotype and phenotype.</p><p><strong><u>Day 21-22: Seed cell into 96-well</u></strong></p><p>Seed HUDEP-2 cells into 96-well culture plates through limited dilution as previously described<sup>17</sup>.",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the process of seeding HUDEP-2 cells into 96-well culture plates through limited dilution."
+    }
+]

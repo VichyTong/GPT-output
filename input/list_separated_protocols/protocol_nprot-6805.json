@@ -1,0 +1,130 @@
+[
+    {
+        "title": "**JSON Parameter File Preparation**",
+        "body": [
+            "The JSON parameter file contains the parameter of THUNDER, where  typical JSON parameter file is shown as Figure",
+            {
+                "title": "2.",
+                "body": "It follows JSON file standard. The meaning of each attribute of the JSON parameter file is listed below.\r\n\n\n\r\n\n\n _Number of Threads Per Process_\r\n\n\nIt stands the number of threads used in each MPI process. Usually, THUNDER hosts one process in each node, for the purpose of minimizing the usage of memory by sharing memory property of threading. As only one process hosted in each node, occupying all cores of CPU\\(s) in each node is accomplished by threads. This value should be set to the number of cores in each node, in this circumstance.\r\n\n\n\r\n\n\n_2D or 3D Mode_\r\n\n\nIt stands for whether THUNDER acts in 2D or 3D. This attributes only takes string 2D or 3D, for setting THUNDER in 2D mode or 3D mode, respectively. If the user desires to perform 2D classification, this attribute should be set to 2D. On the other hand, if the user aims to perform 3D refinement or 3D classification, this attribute should be set to 3D.\r\n\n\n \r\n\n\n_Global Search_\r\n\n\nIt stands for whether THUNDER performs global search or not.\r\n\n\n\r\n\n\n_Local Search_\r\n\n\nIt stands for whether THUNDER performs local search or not.\r\n\n\n\r\n\n\n_CTF Search_\r\n\n\nIt stands for whether THUNDER refines defocus of each single particle or not.\r\n\n\n\r\n\n\n_Number of Classes_\r\n\n\nIt stands for the number of classes the user desires that the dataset classified into. For refinement, this attribute is set to"
+            },
+            {
+                "title": "1.",
+                "body": "_Pixel Size \\(Angstrom)_\r\n\n\nIt stands for the size of each pixel in Angstrom.\r\n\n\n\r\n\n\n_Radius of Mask on Images \\(Angstrom)_\r\n\n\nIt stands for the radius of mask, which will be masked on each single particle image. This attribute should be set to slightly larger than the radius of the targeted macromolecule.\r\n\n\n\r\n\n\n_Estimated Translation \\(Pixel)_\r\n\n\nIt stands for the standard deviation of in-plane translation of single particle images. As the translation is unknown before running THUNDER, this attribute is estimated by the user. Larger this attribute is, the wider THUNDER will search in in-plane translation, the longer computing time will be.\r\n\n\n\r\n\n\n_Initial Resolution \\(Angstrom)_\r\n\n\nIt stands for the resolution THUNDER starts its iteration. If the user aims to eliminate the bias of initial model, he or she should set this attribute to a low resolution.\r\n\n\n\r\n\n\n_Perform Global Search Under \\(Angstrom)_\r\n\n\nIt stands for the resolution threshold where search type switches from global search to local search.\r\n\n\n\r\n\n\n_Symmetry_\r\n\n\nIt stands for symmetry type of the macromolecule. For example, C5 stands for 5-fold rotation symmetry along Z axis; D7 stands for 7-fold rotation symmetry along Z axis and 2-fold rotation symmetry along X axis; T stands for tetrahedral symmetry; O stands of octahedral symmetry; I stands for icosahedral symmetry. If the macromolecule is asymmetrical, it should be set to C1.\r\n\n\n\r\n\n\n_Initial Mode_\r\n\n\nIt stands for the path where THUNDER reads in the initial model.\r\n\n\n\r\n\n\n_.thu File Storing Paths and CTFs of Images_\r\n\n\nIt stands for the path where THUNDER reads in the .thu File. If THUNDER starts from global search, the path and CTF information of each single particle image will be read in. If THUNDER starts from local search or CTF search, besides path and CTF information, the rotation and translation information of each single particle image will be read in as well.\r\n\n\n\r\n\n\n_Prefix of Particles_\r\n\n\nIt stands for a prefix added before the path of each single particle image, in order to help THUNDER find the correct path of image.\r\n\n\n\r\n\n\n_Prefix of Destination_\r\n\n\nIt stands for a prefix added before the path of output file. It helps THUNDER redirects the output files.\r\n\n\n\r\n\n\n_Calculate FSC Using Core Region_\r\n\n\nIt stands for whether THUNDER calculates FSC of the reference\\(s) masked by a sphere or not.\r\n\n\n\r\n\n\n_Calculate FSC Using Masked Region_\r\n\n\nIt stands for whether THUNDER calculates FSC of the masked region of the reference\\(s), where the mask is provided by the user.\r\n\n\n\r\n\n\n_Particle Grading_\r\n\n\nIt stands for whether THUNDER uses particle grading to weight the contribution of each single particle image during reconstruction.\r\n\n\n\r\n\n\nThe JSON parameter file also contains more parameters. However, those parameters are designed for professional users, as beginners can just use default values. Users can find a full description of parameters in JSON parameter file in THUNDER's website."
+            }
+        ]
+    },
+    {
+        "title": "**.thu File Format**",
+        "body": [
+            "THUNDER uses .thu file for inputing and output information of each image, including CTF parameters, classification, rotation, translation, defocus adjustment and grading weight.\r\n\n\n    \r\n\n\n .thu file is a simple space-separate plain text file with .thu as suffix. Each column of it stands for an attribute, as listed below.",
+            {
+                "title": "1.",
+                "body": "voltage of the electron microscope \\(in volt)"
+            },
+            {
+                "title": "2.",
+                "body": "first defocus value defined in CTFFind<sup>1</sup>"
+            },
+            {
+                "title": "3.",
+                "body": "second defocus value defined in CTFFind"
+            },
+            {
+                "title": "4.",
+                "body": "theta of defocus defined in CTFFind"
+            },
+            {
+                "title": "5.",
+                "body": "spherical aberration in Angstrom\r\n  6.amplitude constrast"
+            },
+            {
+                "title": "7.",
+                "body": "phase shift in radian"
+            },
+            {
+                "title": "8.",
+                "body": "path of the single particle image"
+            },
+            {
+                "title": "9.",
+                "body": "path of the micrograph which the single particle image belong to"
+            },
+            {
+                "title": "10.",
+                "body": "coordinate X in micrograph"
+            },
+            {
+                "title": "11.",
+                "body": "coordinate Y in micrograph"
+            },
+            {
+                "title": "12.",
+                "body": "group ID"
+            },
+            {
+                "title": "13.",
+                "body": "class ID"
+            },
+            {
+                "title": "14.",
+                "body": "1st element of the unit quaternion for rotation"
+            },
+            {
+                "title": "15.",
+                "body": "2nd element of the unit quaternion for rotation"
+            },
+            {
+                "title": "16.",
+                "body": "3rd element of the unit quaternion for rotation"
+            },
+            {
+                "title": "17.",
+                "body": "4th element of the unit quaternion for rotation"
+            },
+            {
+                "title": "18.",
+                "body": "1st standard deviation of rotation"
+            },
+            {
+                "title": "19.",
+                "body": "2nd standard deviation of rotation"
+            },
+            {
+                "title": "20.",
+                "body": "3rd standard deviation of rotation"
+            },
+            {
+                "title": "21.",
+                "body": "translation in X"
+            },
+            {
+                "title": "22.",
+                "body": "translation in Y"
+            },
+            {
+                "title": "23.",
+                "body": "standard deviation of translation in X"
+            },
+            {
+                "title": "24.",
+                "body": "standard deviation of translation in Y"
+            },
+            {
+                "title": "25.",
+                "body": "defocus factor to adjust defocus"
+            },
+            {
+                "title": "26.",
+                "body": "standard deviation of defocus factor"
+            },
+            {
+                "title": "27.",
+                "body": "particle grading score"
+            }
+        ]
+    },
+    {
+        "title": "**Running THUNDER**",
+        "body": "The only file THUNDER directly reads in is the JSON parameter file. By parsing it, THUNDER will fetch .thu file for information of each particle and read in the initial model. Further, THUNDER will try to obtain each image by the path described in .thu file. Those files should should be prepared before running THUNDER.\r\n\n\n\r\n\n\nTHUNDER is a multiple-process software, where at least 3 processes should be assigned for it. Typically, one process should be hosted on each node. Threading is used for occupying all cores in each node.\r\n\n\n    \r\n\n\nMultiple processes should be governed by MPI environment. Users are able to use _mpirun_ or _mpiexec_ tool run MPI jobs of THUNDER. If a job scheduler is available on the cluster, users can entrust it with THUNDER MPI jobs."
+    }
+]

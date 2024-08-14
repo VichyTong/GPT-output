@@ -1,0 +1,175 @@
+[
+    "\nA. In utero labelling",
+    {
+        "title": "1.",
+        "body": "Cross mice, and check vaginal plugs on next morning \\(E0)."
+    },
+    {
+        "title": "2.",
+        "body": "At E5.5-7.5, anesthetise the pregnant female by injecting pentobarbital or xylazine/ketamine.  Inject 100 μL of 25 mg/mL fluorescent dextran from tail vain."
+    },
+    {
+        "title": "3.",
+        "body": "After 30 min, check anaesthesia by foot pad reflection.  Fix the pregnant female by introducing mouse tonic saline \\(c.a. 5 mL) and PFA/PBS into circulation from right ventricle."
+    },
+    {
+        "title": "4.",
+        "body": "Dissect uterus in PFA/PBS, and free embryos from deciduae in PBST in 35 mm dish."
+    },
+    {
+        "title": "5.",
+        "body": "Wash briefly with PBST in a 35 mm dish.  The embryos become less sticky to pipette walls and needles."
+    },
+    {
+        "title": "6.",
+        "body": "Remove Reichert’s membrane by needles."
+    },
+    {
+        "title": "7.",
+        "body": "Fix for 2 hr ~ O/N in PFA/PBS at 4ºC, protect from light."
+    },
+    {
+        "title": "8.",
+        "body": "Wash 2-3 times in PBST in 35 mm dish"
+    },
+    {
+        "title": "9.",
+        "body": "Observe under microscopes \\(see Section D), or process for immunostaining, if necessary \\(Section C).\r\n  \r\n\n\nB.  In vitro labelling: pulse-labelling/chase experiments."
+    },
+    {
+        "title": "1.",
+        "body": "Cross mice, and check vaginal plugs on next morning \\(E0)."
+    },
+    {
+        "title": "2.",
+        "body": "Prepare 4 mL DMEM+RS \\(1:1 mixture of DMEM and rat serum) in 35 mm dish, place in the CO2 incubator."
+    },
+    {
+        "title": "3.",
+        "body": "Prepare 20 mL isolation buffer \\(DMEM+10 % FBS+25 mM Hepes-Na) in 50 mL Falcon tube, tighten cap, and place in the CO2 incubator or 37ºC water bath."
+    },
+    {
+        "title": "4.",
+        "body": "Set up an IVF plate: Mix 16 μL of TRITC-dextran \\(stock soln) and 184 μL of DMEM+RS, in well #1, 16 μL FITC-dextran stock plus 184 μL DMEM+RS in well #3, and 200 μL DMEM+RS \\(no dextrans) in well #2 and #4.  Equilibrate the media in the CO2 incubator."
+    },
+    {
+        "title": "5.",
+        "body": "Make a drop of 0.5 mL DMEM+RS in a 35 mm dish, three or four dishes are required.  Place them in the CO2 incubator."
+    },
+    {
+        "title": "6.",
+        "body": "Prepare four 35 mm dishes of the isolation buffer, place in 37ºC incubator \\(humidified with wet paper towel)."
+    },
+    {
+        "title": "7.",
+        "body": "Prepare 35 mm dishes containing freshly prepared PFA/PBS."
+    },
+    {
+        "title": "8.",
+        "body": "Sacrifice the pregnant mother by cervical dislocation, dissect the embryos as quick as possible in the isolation buffer.  Remove Reichert’s membrane, but not tear the visceral endoderm layer and ectoplacental cone.  Place the embryos into a DMEM+RS drop."
+    },
+    {
+        "title": "9.",
+        "body": "When all the embryos \\(or required numbers of embryos) are ready in DMEM+RS, transfer them into the well #1 of the IVF plate with a minimum volume of no-dye-medium.  Incubate at 30 min in the CO2 incubator."
+    },
+    {
+        "title": "10.",
+        "body": "Transfer the embryos to a drop of DMEM+RS on the 35 mm dish with minimum carry over of the medium. chase in the well #2"
+    },
+    {
+        "title": "11.",
+        "body": "After appropriate chase-duration, transfer them into well #3: incubate 5-15 min in the CO2 incubator, then transfer and wash in a DMEM+RS drop."
+    },
+    {
+        "title": "12.",
+        "body": "Incubate in the well #4, for various duration."
+    },
+    {
+        "title": "13.",
+        "body": "Terminate the labelling/chase by transferring the embryos into PFA/PBS.  Fix for 1 hr on ice."
+    },
+    {
+        "title": "14.",
+        "body": "Proceed for observation \\(IV), or for immunohistochemical staining as described in section C.\r\n  \r\n\n\nC. Immunoglobulins as an endogenous tracer"
+    },
+    {
+        "title": "1.",
+        "body": "Cross mice, and check vaginal plugs on next morning \\(E0)."
+    },
+    {
+        "title": "2.",
+        "body": "At E5.5-7.5, anesthetise the pregnant female by injecting pentobarbital or xylazine/ketamine."
+    },
+    {
+        "title": "3.",
+        "body": "Check anaesthesia by foot pad reflection.  Fix the pregnant female by introducing mouse tonic saline \\(c.a. 5 mL) and PFA/PBS into circulation from right ventricle."
+    },
+    {
+        "title": "4.",
+        "body": "Dissect uterus, wash in PFA/PBS, and free embryos from deciduae in PBST in 35 mm dish."
+    },
+    {
+        "title": "5.",
+        "body": "Wash briefly with PBST in 35 mm dish.  The embryos become less “sticky” to pipette walls and needles."
+    },
+    {
+        "title": "6.",
+        "body": "Remove Reichert membranes by needles."
+    },
+    {
+        "title": "7.",
+        "body": "Fix for 2 hr ~ O/N in PFA/PBS at 4ºC."
+    },
+    {
+        "title": "8.",
+        "body": "Incubate the embryos in PBST+TSA+DS for 12 hr ~ O/N in a microtube."
+    },
+    {
+        "title": "9.",
+        "body": "Transfer the embryos to 100 μL of anti-mouse IgG antibodies in PBST+TSA+DS, and incubate at 4ºC for 12hr~O/N.  For FITC-, Cy3, and Cy5-labelled antibodies, use at 1/100, 1/500, and 1/250 dilutions, respectively."
+    },
+    {
+        "title": "10.",
+        "body": "Wash the embryos with PBST in microtubes or 35 mm dish.  c.a. 5~10 min wash, 5 times, with changing the tubes or dishes twice."
+    },
+    {
+        "title": "11.",
+        "body": "Fix the embryos in PFA/PBS for 20 min.\r\n  \r\n\n\nD. Observation."
+    },
+    {
+        "title": "1.",
+        "body": "Wash 3-times in PBST"
+    },
+    {
+        "title": "2.",
+        "body": "Incubate in 20 % glycerol/PBST for 1 hr"
+    },
+    {
+        "title": "3.",
+        "body": "Incubate in 40 % glycerol/PBST for 1 hr"
+    },
+    {
+        "title": "4.",
+        "body": "Add approximately an equal volume of Vectashield, tap the tube gently."
+    },
+    {
+        "title": "5.",
+        "body": "Store at 4 ºC for several days, but try to record the image ASAP."
+    },
+    {
+        "title": "6.",
+        "body": "Mix 0.2 % gellan gum in 40 % glycerol in PBST, and microwave.  Gellan gum solidifies in the presence of monovlalent or divalent ions."
+    },
+    {
+        "title": "7.",
+        "body": "Pour 500-1000 μL of hot Gellan gum/PBST/glycerol solution into a 35 mm glass-bottom dish.  Once solidified, cool in a refrigerator to harden further.  Used and washed glass-bottom dish gives less fluorescence background."
+    },
+    {
+        "title": "8.",
+        "body": "Under a dissection microscope, make a slit reaching the bottom glass with a dissecting needle.  Embed an embryo into the slit, and adjust its orientation \\(Figure 1)."
+    },
+    {
+        "title": "9.",
+        "body": "View under/on microscopes, and record.  Gellan gum gel sustains the embryos and gel itself even if the dishes set inverted, therefore the samples can be viewed on upright microscopes."
+    }
+]

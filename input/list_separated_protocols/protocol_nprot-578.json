@@ -1,0 +1,52 @@
+[
+    {
+        "title": "**Installation of CalcHEPI Add-in**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Open the Excel program and insert the program CD in drive \\(if the CalcHEPI software is in a CD). \r\n  NOTE: Alternatively the software file \\(115 KB) can be obtained as an e-mail attachment from the author."
+            },
+            {
+                "title": "2.",
+                "body": "In the ‘Tool’ menu of Excel workbook, click on ‘Add-Ins’ and then click on ‘Browse’. Locate your appropriate drive and double click on ‘HEPI’."
+            },
+            {
+                "title": "3.",
+                "body": "The message “Copy HEPI to …” will appear, click ‘Yes’; the appearance of ‘HEPI’ on the menu bar indicates the proper installation of the Add-in."
+            },
+            {
+                "title": "4.",
+                "body": "Remove the software CD \\(if applicable)."
+            },
+            {
+                "title": "5.",
+                "body": "For un-installation, follow all the above steps except selecting ‘HEPI Uninstall’ instead of ‘HEPI’; the removal of ‘HEPI’ from the menu bar will indicate the proper un-installation of the Add-in."
+            }
+        ]
+    },
+    {
+        "title": "**Running the program**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "For computing HEPI score, enter the gene expression data of different groups in separate columns. \r\n  IMPORTANT: Prior to activating the ‘Input’ window, ensure that the data to be compared reside in adjacent columns. \r\n\n\nCAUTION: Since most of the gene signatures are composed of tens to a few hundred specific genes the upper limit of the software has been fixed at 1000 genes to prevent unnecessary system-busy situation due to mistake in data selection. The software will alarm the user if more than 1000 rows are selected in the worksheet."
+            },
+            {
+                "title": "2.",
+                "body": "Once the data entry has been completed, click the ‘HEPI’ button in the menu bar to popup the ‘Input’ window \\(Fig. 1)."
+            },
+            {
+                "title": "3.",
+                "body": "Select the range of data \\(numbers only) without including the header row \\(if any) as shown in Fig."
+            },
+            {
+                "title": "1.",
+                "body": ""
+            },
+            {
+                "title": "4.",
+                "body": "Now clicking the ‘OK’ button executes the software and a comprehensive report is displayed \\(Fig. 2)."
+            }
+        ]
+    }
+]

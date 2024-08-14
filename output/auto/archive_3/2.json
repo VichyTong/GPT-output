@@ -1,0 +1,133 @@
+[
+    {
+        "title": "1",
+        "body": [
+            [
+                {
+                    "ADD": {
+                        "emit": [
+                            {
+                                "reagent0": "tissue lysate with DTT and extraction buffer 2"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "tissue lysate"
+                            },
+                            {
+                                "reagent2": "100mM DTT in extraction buffer 2"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "2",
+        "body": [
+            [
+                {
+                    "INCUBATE": {
+                        "emit": [
+                            {
+                                "reagent0": "tissue lysate with DTT and extraction buffer 2"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "tissue lysate with DTT and extraction buffer 2"
+                            },
+                            {
+                                "temperature": "56\u00b0C"
+                            },
+                            {
+                                "time": "1hr"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "3",
+        "body": [
+            [
+                {
+                    "LEAVE": {
+                        "emit": [
+                            {
+                                "reagent0": "tissue lysate with DTT and extraction buffer 2"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "tissue lysate with DTT and extraction buffer 2"
+                            },
+                            {
+                                "temperature": "room temperature"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "ADD": {
+                        "emit": [
+                            {
+                                "reagent0": "tissue lysate with DTT, extraction buffer 2 and IAA"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "tissue lysate with DTT and extraction buffer 2"
+                            },
+                            {
+                                "reagent2": "550mM IAA in extraction buffer"
+                            },
+                            {
+                                "ratio": "12\u03bcl"
+                            },
+                            {
+                                "concentration": "550mM"
+                            },
+                            {
+                                "notice": "Leave solution to cool to room temperature before adding"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "title": "4",
+        "body": [
+            [
+                {
+                    "INCUBATE": {
+                        "emit": [
+                            {
+                                "reagent0": "tissue lysate with DTT, extraction buffer 2 and IAA"
+                            }
+                        ],
+                        "slot": [
+                            {
+                                "reagent1": "tissue lysate with DTT, extraction buffer 2 and IAA"
+                            },
+                            {
+                                "temperature": "room temperature"
+                            },
+                            {
+                                "time": "30min"
+                            },
+                            {
+                                "environment": "dark"
+                            }
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+]

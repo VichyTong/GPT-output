@@ -1,0 +1,34 @@
+[
+    {
+        "type": "title",
+        "content": "1"
+    },
+    {
+        "type": "string",
+        "content": "Add 11ul of 100mM DTT in extraction buffer 2 to the tissue lysate."
+    },
+    {
+        "type": "title",
+        "content": "2"
+    },
+    {
+        "type": "string",
+        "content": "Incubate at 56°C for 1hr."
+    },
+    {
+        "type": "title",
+        "content": "3"
+    },
+    {
+        "type": "string",
+        "content": "Leave solution to cool to room temperature before adding 12μl of 550mM IAA in extraction buffer."
+    },
+    {
+        "type": "title",
+        "content": "4"
+    },
+    {
+        "type": "string",
+        "content": "Incubate at room temperature for 30min in the dark."
+    }
+]

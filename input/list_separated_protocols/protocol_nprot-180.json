@@ -1,0 +1,109 @@
+[
+    {
+        "title": "**A: Mouse brain**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Homogenize a murine brain in 2 ml LBA lysis buffer"
+            },
+            {
+                "title": "2.",
+                "body": "Spin down at 16,000 g, 10 min, 4<sup>o</sup>C"
+            },
+            {
+                "title": "3.",
+                "body": "Take supernatans and measure protein concentration."
+            },
+            {
+                "title": "4.",
+                "body": "Incubate 1.5 mg protein with protein-G sepharose beads for 30 min at 4<sup>o</sup>C."
+            },
+            {
+                "title": "5.",
+                "body": "Spin samples down at 6,000 g, 5 min, 4<sup>o</sup>C."
+            },
+            {
+                "title": "6.",
+                "body": "Incubate overnight at 4<sup>o</sup>C these pre-cleared supernatans with protein-G Sepharose beads and 5 μg EphB2-Fc \\(precipitate) or Fc \\(control for unspecific protein binding)."
+            },
+            {
+                "title": "7.",
+                "body": "Spin them down at 6,000 g, 5 min, 4<sup>o</sup>C."
+            },
+            {
+                "title": "8.",
+                "body": "Wash beads three times with HNTG buffer"
+            },
+            {
+                "title": "9.",
+                "body": "Add 20 μl Loading buffer"
+            },
+            {
+                "title": "10.",
+                "body": "Boil samples for 5 min. Load in a 9% SDS-PAGE gel and develop by Western blot with the desired antibodies."
+            }
+        ]
+    },
+    {
+        "title": "**B: Hippocampal neurons**",
+        "body": [
+            "B1. Stimulation of hippocampal neurons.",
+            {
+                "title": "1.",
+                "body": "Cluster EphB2- Fc or Fc one hour prior stimulation at RT: Mix EphB2-Fc/Fc 1 μg/ml + 1/10 anti-hFc \\(0.1 μg/ml)"
+            },
+            {
+                "title": "2.",
+                "body": "Wash neurons 2 x with HBSS."
+            },
+            {
+                "title": "3.",
+                "body": "Add EphB2-Fc/Fc clusters to pre-warmed NB medium."
+            },
+            {
+                "title": "4.",
+                "body": "Apply to the neurons and incubate at 37<sup>o</sup>C for 1 hr\r\n  \r\n\n\nB2. Neuron lysates"
+            },
+            {
+                "title": "1.",
+                "body": "Place plates on ice and wash twice with cold PBS."
+            },
+            {
+                "title": "2.",
+                "body": "Lyse cells in PLC buffer; incubate at 4<sup>o</sup>C for 10 min; spin down samples at 16,000 g 10 min 4<sup>o</sup>C."
+            },
+            {
+                "title": "3.",
+                "body": "Take supernatans and measure protein concentration.\r\n  \r\n\n\nB3. EphB2-Fc precipitation"
+            },
+            {
+                "title": "1.",
+                "body": "Incubate 3 mg total protein from the neuron lysates with protein-G Sepharose beads for 1 hr at 4<sup>o</sup>C."
+            },
+            {
+                "title": "2.",
+                "body": "Add 10 μg of EphB2-Fc or Fc to the appropriate sample"
+            },
+            {
+                "title": "3.",
+                "body": "Incubate overnight at 4<sup>o</sup>C."
+            },
+            {
+                "title": "4.",
+                "body": "Spin them down at 6,000 g, 5 min, 4<sup>o</sup>C."
+            },
+            {
+                "title": "5.",
+                "body": "Wash beads three times with HNTG buffer"
+            },
+            {
+                "title": "6.",
+                "body": "Add 20 μl Loading buffer"
+            },
+            {
+                "title": "7.",
+                "body": "Boil samples for 5 min. Resolve in a 7.5% SDS-PAGE gel and develop by Western blot with the desired antibodies."
+            }
+        ]
+    }
+]

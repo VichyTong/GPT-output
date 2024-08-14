@@ -1,0 +1,18 @@
+[
+    {
+        "title": "1)",
+        "body": "Select suppressor mutants from the 31019b yeast strain<sup>\\(1)</sup> carrying the high copy number plasmid pDR-AtAMT1;1Thr460Ala by growing at 28ºC for 8 days on solid YNB medium supplemented with 3% glucose and 2 mM ammonium chloride."
+    },
+    {
+        "title": "2)",
+        "body": "Pick suppressors and amplify in liquid YNB medium supplemented with 3% glucose and 2 mM ammonium."
+    },
+    {
+        "title": "3)",
+        "body": "Isolate plasmid from yeast by CTAB extraction and use for _E. coli_ transformation."
+    },
+    {
+        "title": "4)",
+        "body": "Amplify plasmids in _E. coli_, isolate and sequence."
+    }
+]

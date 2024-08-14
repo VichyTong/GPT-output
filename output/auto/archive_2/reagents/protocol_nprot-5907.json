@@ -1,0 +1,158 @@
+[
+    {
+        "name": "tissue 0",
+        "description": "Digest tissue in 10 mL of lysis buffer.\r\n  "
+    },
+    {
+        "name": "lysis buffer 0",
+        "description": "Make Lysis Buffer:"
+    },
+    {
+        "name": "lysis buffer 1",
+        "description": "0.5% SDS \\(12.5ml 20% SDS)"
+    },
+    {
+        "name": "tissue 1",
+        "description": "Step 1: Place tissue in 50 mL conical tube in 10 mL of Lysis Buffer with 100 ul proteinase K \\(1:100 dilution of a 20mg/ml)."
+    },
+    {
+        "name": "benchmark controls 0",
+        "description": "Step 2: Add \u201cbenchmark\u201d controls to tube. "
+    },
+    {
+        "name": "tissue 2",
+        "description": "Homogenize solution using the TissueMeiser, takes about 15-45 seconds depending on amount of tissue."
+    },
+    {
+        "name": "TissueMeiser 0",
+        "description": "Between every sample, sterilize TissueMeiser in water, followed by bleach, followed by 70% EtOH followed by PBS."
+    },
+    {
+        "name": "water 0",
+        "description": "Change water after every sample, other wash liquids can be used for 3-4 samples."
+    },
+    {
+        "name": "tissue 3",
+        "description": "Place tubes at 55C overnight."
+    },
+    {
+        "name": "tissue 4",
+        "description": "This can be done in a water bath or incubator."
+    },
+    {
+        "name": "tissue 5",
+        "description": "2. Phenol-Chloroform Extract and Precipitate gDNA\r\n  2.1."
+    },
+    {
+        "name": "cell lysate 0",
+        "description": "Take 500ul of the cell lysate from above digestion."
+    },
+    {
+        "name": "cell lysate 1",
+        "description": "\\(Make sure to mix well before taking the 500ul\u2026VORTEX)"
+    },
+    {
+        "name": "cell lysate 2",
+        "description": "Shake 200x spin 14K for 10 mins @ 4C"
+    },
+    {
+        "name": "cell lysate 3",
+        "description": "Transfer 500ul to a new tube"
+    },
+    {
+        "name": "cell lysate 4",
+        "description": "Add 500ul phenol/chloroform/IAA \\(if it is red use another bottle)"
+    },
+    {
+        "name": "cell lysate 5",
+        "description": "Shake 200x spin 5 minutes at 13000rpm"
+    },
+    {
+        "name": "cell lysate 6",
+        "description": "Withdraw top layer, don\u2019t be greedy \\(~400ul)"
+    },
+    {
+        "name": "cell lysate 7",
+        "description": "Add equal volume chloroform"
+    },
+    {
+        "name": "cell lysate 8",
+        "description": "And spin 5 minutes at max"
+    },
+    {
+        "name": "cell lysate 9",
+        "description": "Transfer aqueous top layer \\(really don\u2019t be greedy) to 2.5 vol 100% ethanol \\(1.25ml) 1/30 vol 3M Sodium Acetate pH5.2"
+    },
+    {
+        "name": "cell lysate 10",
+        "description": "Shake to precipitate"
+    },
+    {
+        "name": "cell lysate 11",
+        "description": "Spin 2 minutes at 13000rpm, decant "
+    },
+    {
+        "name": "cell lysate 12",
+        "description": "And wash with 70% Ethanol"
+    },
+    {
+        "name": "cell lysate 13",
+        "description": "Spin 30 seconds at 13000rpm decant, withdraw all liquid, do not air dry too much."
+    },
+    {
+        "name": "cell lysate 13 1",
+        "description": "Nanodrop, note 260/280 and 260/230"
+    },
+    {
+        "name": "Master Mix 0",
+        "description": "Prepare Master Mix:"
+    },
+    {
+        "name": "cell lysate 13 1 1",
+        "description": "Split into 8 individual wells of an 8-strip PCR tube, spin down."
+    },
+    {
+        "name": "PCR Program 0",
+        "description": "Run PCR Program:"
+    },
+    {
+        "name": "cell lysate 13 1 1 1",
+        "description": "        94C 10 min"
+    },
+    {
+        "name": "cell lysate 17",
+        "description": "        32x:"
+    },
+    {
+        "name": "cell lysate 13 1 1 2",
+        "description": "Pool PCR reactions back to 800ul volume"
+    },
+    {
+        "name": "PCR product 0",
+        "description": "Run out 100 ul of your PCR product on a 5% agarose gel."
+    },
+    {
+        "name": "PCR product 1",
+        "description": "Gel extract product using the Qiagen MinElute Gel Purification Kit; Elute in 25 ul H20."
+    },
+    {
+        "name": "PCR product 1 1",
+        "description": "Send samples for BioAnalyzer QC DNA 1000 assay to obtain molar concentration "
+    },
+    {
+        "name": "molar concentration 0",
+        "description": "And confirm product size."
+    },
+    {
+        "name": "cell lysate 13 1 1 2 1",
+        "description": "Pool libraries. "
+    },
+    {
+        "name": "cell lysate 13 1 1 2 2",
+        "description": "You will have to decide how you want to pool your libraries."
+    },
+    {
+        "name": "cell lysate 13 1 1 2 1 1",
+        "description": "You could pool 1:1:1\u2026:1, you could also pool based on tissue weight, etc."
+    }
+]

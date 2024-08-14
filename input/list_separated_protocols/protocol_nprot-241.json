@@ -1,0 +1,59 @@
+[
+    {
+        "title": "**How to predict the PK-specific phosphorylation sites in protein sequences:**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Open the prediction page at \"http://bioinformatics.lcd-ustc.org/gps_web/predict.php\":http://bioinformatics.lcd-ustc.org/gps_web/predict.php ."
+            },
+            {
+                "title": "2.",
+                "body": "One or more protein sequences can be input into the text box of the prediction page of GPS web service, as shown in"
+            }
+        ]
+    },
+    {
+        "title": "**Figure 1**",
+        "body": [
+            ". The sequence data can be in raw or FASTA format.",
+            {
+                "title": "3.",
+                "body": "Choose the protein kinases \\(PKs) for prediction."
+            },
+            {
+                "title": "4.",
+                "body": "Select a proper cut-off value for each PK, or the default parameter will be used."
+            },
+            {
+                "title": "5.",
+                "body": "Click on the “Submit” button and wait for results."
+            }
+        ]
+    },
+    {
+        "title": "**How to interpret the results**",
+        "body": [
+            ":",
+            {
+                "title": "6.",
+                "body": "If a single protein sequence is input in the raw sequence format, i.e. only the amino acid sequence, it will be named as ProteinWithNoName."
+            },
+            {
+                "title": "7.",
+                "body": "If protein sequences are provided in the FASTA format, the results will be separated by the description line, starting with “>”, of each sequence in FASTA format."
+            },
+            {
+                "title": "8.",
+                "body": "The prediction results are organized in tab delimited format. For each predicted phosphorylation site, the position, kinase, flanking peptide, GPS score and Cut-off value are presented. A higher score indicates that the peptide is more probable to be a real phosphorylation site."
+            },
+            {
+                "title": "9.",
+                "body": "The prediction results are downloadable as a text file, as in"
+            }
+        ]
+    },
+    {
+        "title": "**Figure 2**",
+        "body": ", and can be easily accessed with other automatic analyzing programs."
+    }
+]

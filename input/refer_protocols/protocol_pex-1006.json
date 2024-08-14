@@ -1,0 +1,8 @@
+[
+    {
+        "index": 58,
+        "string": "In particular, the minimization problem can be posed as an integer linear program (ILP); thus, it can be provably, optimally solved using conventional ILP solvers.</p><p><br></p><p>- Handling the minimax problem.</p><p><br></p><p>As previously described, our goal is to choose the set of vaccine elements which minimize the log likelihood of no response for each patient.",
+        "phrase": "as previously described",
+        "refer": "In the sentence provided, \"as previously described\" refers to the goal of choosing the set of vaccine elements which minimize the log likelihood of no response for each patient."
+    }
+]

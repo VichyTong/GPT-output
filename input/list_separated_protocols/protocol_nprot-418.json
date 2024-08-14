@@ -1,0 +1,72 @@
+[
+    {
+        "title": "**Amplification**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "100ml o/n LB/amp culture per 800ml culture the next day, 37 °C."
+            },
+            {
+                "title": "2)",
+                "body": "Seed 800ml LB/amp culture with 100ml o/n culture.  Grow at 37 °C. until OD600 = 0.6-1.2.  Induce with 1mM IPTG.  Grow 3hr.  Harvest."
+            },
+            {
+                "title": "3)",
+                "body": "Spin 8krpm, 15min, 4 °C."
+            },
+            {
+                "title": "4)",
+                "body": "Resuspend in His Binding Buffer.  Snap freeze."
+            }
+        ]
+    },
+    {
+        "title": "**Purification**",
+        "body": [
+            {
+                "title": "1)",
+                "body": "Lyse 2x800ml cell pellets with homogenizer."
+            },
+            {
+                "title": "2)",
+                "body": "Spin 16krpm, 30min, 4 °C."
+            },
+            {
+                "title": "3)",
+                "body": "Load sup on to 3ml equilibrated Ni-NTA column."
+            },
+            {
+                "title": "4)",
+                "body": "Wash with 50ml binding buffer."
+            },
+            {
+                "title": "5)",
+                "body": "Wash with 10 column volumes wash buffer."
+            },
+            {
+                "title": "6)",
+                "body": "Elute with elution buffer."
+            },
+            {
+                "title": "7)",
+                "body": "Dialyze protein into dialysis buffer 1."
+            },
+            {
+                "title": "8)",
+                "body": "Concentrate VD1 to 20-30mg/ml."
+            },
+            {
+                "title": "9)",
+                "body": "Dialyze protein into dialysis buffer 2 or end use buffer."
+            },
+            {
+                "title": "10)",
+                "body": "SDS PAGE on purification."
+            },
+            {
+                "title": "11)",
+                "body": "Dialyze protein into appropriate experimental buffer."
+            }
+        ]
+    }
+]

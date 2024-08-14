@@ -1,0 +1,107 @@
+[
+    "\n\\(1) Generation of HeLa TetOff-inducible Ago2 stable clones\r\n\n\nStep",
+    {
+        "title": "1.",
+        "body": "Prepare pLVX-Tight-Constructs expressing GOI \\(e.g., Flag-tagged WT or Mutant Ago2).\r\n\n\nStep"
+    },
+    {
+        "title": "2.",
+        "body": "Test HeLa Tet-Off Advanced Cell Line using pLVX-Tight-Luc control vector \\(determine the minimal concentration of doxycycline to sustain inactive transcription of GOI and test the induction fold of GOI by complete doxycycline removal).\r\n\n\nStep"
+    },
+    {
+        "title": "3.",
+        "body": "Package Lenti-GOI virus in 293T cells.\r\n\n\nDay"
+    },
+    {
+        "title": "0.",
+        "body": "Sub-culture 293T cells in growth medium supplemented with Tet-Approved FBS. The cells should reach 75%-85% confluent at the time of transfection.\r\n\n\nDay"
+    },
+    {
+        "title": "1.",
+        "body": "For each transfection sample, prepare two microcentrifuge tubes by adding reagents in the order listed: \r\n\n\nTube 1 \\(plasmids)                        Tube 2 \\(homemade liposome)\r\n\n\n500 μl Opti-MEM Medium                 500 μl Opti-MEM Medium\r\n\n\n1.5 μg pCMV-VSVG                     13.2 μl homemade liposome                                \r\n\n\n4.5 μg pCMV-dR8.2 dvpr                 Note: Gently mix well and rest at RT for 5-10 min \r\n\n\n6 μg pLVX-Tight-Vector Conrol or GOI \r\n\n\nVortex tube 1 and add mixed plasmids solution into tube"
+    },
+    {
+        "title": "2.",
+        "body": "Immediately mix plasmids-liposome solution well \\(vortex at low speed for 10 sec) and incubate at RT for 20-25 min. During that period, remove normal culture medium from 293T cells and add 4 ml Opti-MEM Medium into each plate. Add the entire plasmids-liposome solution drop-wise to 293T cells. Rock the plate gently to mix well. Incubate the plate for 6 hr at 37 °C. Replace transfection solution with normal culture medium supplemented with Tet-Approved FBS and incubate at 37 °C for 48 hr. \r\n\n\nDay"
+    },
+    {
+        "title": "2.",
+        "body": "Sub-culture HeLa TetOff Advanced cells with normal culture medium supplemented with Tet-Approved FBS. The cell density should reach 25%-35% confluent at the time of infection.\r\n\n\nStep"
+    },
+    {
+        "title": "4.",
+        "body": "Infect targeting cells with lentiviral supernatant.\r\n\n\nDay"
+    },
+    {
+        "title": "3.",
+        "body": "Harvest lentiviral supernatant and filter through 0.45 μm filter to remove cell debris. Mix virus supernatant with fresh normal culture medium supplemented with Tet-Approved FBS \\(the ratio is determined by virus titer) gently. Replace the culture medium of HeLa TetOff Advanced cells \\(targeting cells) with the lentiviral mixture plus 6-10 μg /ml polybrene \\(final concentration). Transduce the targeting cells for 16-24 hr.\r\n\n\nDay"
+    },
+    {
+        "title": "4.",
+        "body": "Remove and discard the lentiviral solution. Replace it with fresh normal culture medium supplemented with Tet-Approved FBS for 24 hr recovery.\r\n\n\nStep"
+    },
+    {
+        "title": "5.",
+        "body": "Keep GOI silence by adding doxycycline and select positive stable transfectants using both G418 and puromycin.\r\n\n\nDay"
+    },
+    {
+        "title": "5.",
+        "body": "Passage cultures in normal medium with 500 ng/ml doxycycline and subject the cells to selection using both G418 \\(500 μg /ml) and puromycin \\(1 μg /ml). \r\n\n\nDay 6-9. Change selection medium every day or passage cultures with selection medium until get stable transfectants \\(keep doxycycline in culture medium). Make cell stocks and test the induction of GOI by doxycycline removal in the generated stable clones \\(please see anticipated result a). \r\n\n\n\r\n\n\n\\(2) Generation of HeLa TetOff-inducible Ago2 stable clones with WT or Mutant Pri-miRNAs\r\n\n\nStep"
+    },
+    {
+        "title": "1.",
+        "body": "Prepare lentiviral constructs \\(with selection marker of CopGFP) for expressing WT or Mutant pri-miRNAs.\r\n\n\nStep"
+    },
+    {
+        "title": "2.",
+        "body": "Prepare HeLa TetOff-inducible Ago2 stable cells for second round lentivirus infection.\r\n\n\nDay 10-15. Maintain stable clones in selection medium with doxycycline \\(500 ng/ml), G418 \\(500 μg/ml) and puromycin \\(1 μg/ml). Rest cells for next round lentivirus infection.\r\n\n\nStep"
+    },
+    {
+        "title": "3.",
+        "body": "Package Lenti-X \\(Vector control, WT or Mutant pri-miRNAs) virus in 293T cells.\r\n\n\nDay"
+    },
+    {
+        "title": "15.",
+        "body": "Co-transfect 293T cells with Lenti-X and package system as describe previously.\r\n\n\nDay"
+    },
+    {
+        "title": "16.",
+        "body": "Subculture targeting cells \\(HeLa TetOff-inducible Ago2 stable clones) using selection medium with doxycycline \\(500 ng/ml), G418 \\(500 μg/ml) and puromycin \\(1 μg/ml). The cell density should reach 25%-35% confluent at the time of infection.\r\n\n\nStep"
+    },
+    {
+        "title": "4.",
+        "body": "Infect targeting cells with lentiviral supernatant.\r\n\n\nDay"
+    },
+    {
+        "title": "17.",
+        "body": "Harvest lentiviral supernatant and filter through 0.45 μm filter to remove cell debris. Mix virus supernatant with fresh normal culture medium \\(the ratio is determined by virus titer) supplemented with 500 ng/ml doxycycline gently. Replace the culture medium of targeting cells with the lentiviral mixture plus 6-10 μg /ml polybrene \\(final concentration). Transduce the targeting cells for 16-24 hr.\r\n\n\nDay"
+    },
+    {
+        "title": "18.",
+        "body": "Remove and discard the lentiviral solution. Replace it with fresh normal culture medium supplemented with 500 ng/ml doxycycline for 24 hr recovery.\r\n\n\nStep5. Keep GOI silence by adding doxycycline and select positive stable transfectants cultured in selection medium by cell sorting twice using flow cytometry.\r\n\n\nDay 19-23. Rest cells in selection medium with 500 ng/ml doxycycline to keep GOI silence.\r\n\n\nDay"
+    },
+    {
+        "title": "24.",
+        "body": "Enrich GFP-positive cells from each stable clone by flow cytometry and continue culture in selection medium with 500 ng/ml doxycycline.\r\n\n\nDay 25-28. Rest and expand the GFP-positive cells from each stable clone in selection medium with 500 ng/ml doxycycline.\r\n\n\nDay"
+    },
+    {
+        "title": "29.",
+        "body": "Enrich GFP-positive cells from each stable clone again by cell sorting using flow cytometry. Continue culture in selection medium with 500 ng/ml doxycycline.\r\n\n\nDay 30-32. Test the exogenous expression of miRNAs in each stable transfectant. Store all the stable transfectants in liquid nitrogen. \r\n\n\n\r\n\n\n\\(3) Determine Ago2-mediated miRNA maturation \\(RNA structure dependent) in response to hypoxic stress\r\n\n\nStep1. Subculture each HeLa TetOff-inducible Ago2 stable clone expressing WT or Mutant pri-miRNA \\(e.g., miR-192 vs. miR-192-3M; miR-21-WT vs. miR-21-3M) into two dishes with identical cell density \\(reach around 35%-45% confluent when move into hypoxia chamber). One was cultured in normal medium supplemented with Tet-Approved FBS plus doxycycline \\(800 ng/ml for complete silencing with no leaky effect), G418 \\(500 μg/ml) and puromycin \\(1 μg/ml). Another one was cultured in normal medium supplemented with Tet-Approved FBS plus G418 \\(500 μg/ml) and puromycin \\(1 μg/ml) with complete removal of doxycycline to induce GOI expression.\r\n\n\nCritical: Trypsinized TetOff-inducible stable clones have to be washed several times with PBS to remove doxycycline completely.  \r\n\n\nStep"
+    },
+    {
+        "title": "2.",
+        "body": "Cells were cultured under normoxia overnight \\(complete adherence and sufficient induction of GOI) before moving into hypoxia chamber \\(INVIV O2 400, setting as 1% O2 and 5% CO2, RUSKINN).\r\n\n\nStep"
+    },
+    {
+        "title": "3.",
+        "body": "Wash cells with PBS twice and immediately lyse cells in TRIzol inside of the hypoxia chamber after incubation for 24 hr.  \r\n\n\nStep"
+    },
+    {
+        "title": "4.",
+        "body": "Extract total RNA using TRIzol \\(Invitrogen) or miRNeasy Mini Kit \\(Qiagen).\r\n\n\nStep"
+    },
+    {
+        "title": "5.",
+        "body": "Subject to Northern-blot analysis or qPCR using TaqMan MicroRNA assay kit \\(Applied Biosystems)."
+    }
+]

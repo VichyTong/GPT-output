@@ -1,0 +1,41 @@
+[
+    "\nTraining",
+    {
+        "title": "1)",
+        "body": "KNIME installation\r\n\n\na. Download: https://www.knime.org/downloads/overview\r\n\n\nb. Installation: https://tech.knime.org/installation-0 \r\n\n\nc. Update extensions: https://www.knime.org/downloads/update"
+    },
+    {
+        "title": "2)",
+        "body": [
+            "Importing workflows \r\n\n\n- Download workflows from http://bioinformatics.iyte.edu.tr/supplements/izmir\r\n\n\n- Open KNIME\r\n\n\n- On the left side of KNIME window, there is a box with LOCAL \\(Local Workspace) \\(Figure 1), right click to that area and “select import KNIME workflow” \\(https://tech.knime.org/workbench)\r\n\n\n- In the pop-up window select the directory where the downloaded workflows are and load them \r\n\n\n- Open the loaded workflow\r\n\n\n- The workflow has the input data \\(human miRNAs as positive and pseudo as negative)\r\n\n\n\r\n\n\nIf you do not want to generate new models or results you can explore already computed results by right clicking on the nodes and choosing the output table for display. \r\n\n\n\r\n\n\nIf you want to make modifications to the workflow you can click on the nodes and change their settings. Some example changes could be:\r\n\n\n- Change input data by clicking on File Reader nodes \\(positive or negative)\r\n\n\n- Change number of iterations for loop by going into Loop x-times meta-node and clicking on Counting Loop Start then setting the number\r\n\n\n- Changing sampling ratio by going into Loop x-times meta-node and in sampling meta-node changing partitioning node’s settings \r\n\n\n- Using your desired feature set; go into Loop x-times/studies. If you want to add another study with different feature set copy paste one of the meta-nodes \\(e.g. Ng) connect it in the same way as the existing ones. Right click and select Reconfigure to change meta-node name. Then go into your meta-node select filter \\(feature selection). Inside that meta-node, there are two column filter nodes; one for learning another for testing data, in these nodes select your choice of features. In classifier and CombineLearnedStats meta-nodes you should do renaming since they would be set to Ng in this instance. \r\n\n\n\r\n\n\nPrediction\r\n\n\nThe prediction workflow requires a column named \"Accession\" for joining. If your data has no such columns you can use RowID node to create unique accession values.\r\n\n\n\r\n\n\nFigures\r\n\n\nFigure",
+            {
+                "title": "1.",
+                "body": "Overall training workflow \r\n\n\n\r\n\n\nFigure"
+            },
+            {
+                "title": "2.",
+                "body": "MCCV and model generation\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nFigure"
+            },
+            {
+                "title": "3.",
+                "body": "Sampling.\r\n\n\n\r\n\n\n\r\n\n\nFigure"
+            },
+            {
+                "title": "4.",
+                "body": "Studies \\(feature groups).\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nFigure"
+            },
+            {
+                "title": "5.",
+                "body": "Feature selection and application of 3 classifiers.\r\n\n\n\r\n\n\nFigure"
+            },
+            {
+                "title": "6.",
+                "body": "Model sorting, selection and saving as PMML files. \r\n\n\nFigure"
+            },
+            {
+                "title": "7.",
+                "body": "Prediction workflow.\r\n\n\n\r\n\n\n\r\n\n\nFigure 8 Prediction Meta-node\r\n\n\n\r\n\n\n \r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nFigure 9 Decision Tree/Naïve Bayes Meta-node\r\n\n\n \r\n\n\n\r\n\n\n\r\n\n\nFigure 10 Consensus Result Meta-node\r\n\n\n \r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nFigure 11 Consensus Model Meta-node\r\n\n\n \r\n\n\n\r\n\n\n\r\n\n\nFigure 12 Visualization Meta-node"
+            }
+        ]
+    }
+]

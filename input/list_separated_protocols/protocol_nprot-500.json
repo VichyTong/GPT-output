@@ -1,0 +1,318 @@
+[
+    {
+        "title": "**Day 1: _In vivo_ formaldehyde cross-linking of samples**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Place 2 grams of leaves in a 50 ml Falcon tube."
+            },
+            {
+                "title": "2.",
+                "body": "Rinse the leaves twice with 40 ml of nanopure water."
+            },
+            {
+                "title": "3.",
+                "body": "Add 37 ml of 1% formaldehyde solution \\(note: make sure leaves are submerged)."
+            },
+            {
+                "title": "4.",
+                "body": "Put tube inside a desiccator and apply vacuum for 10 minutes \\(note: air bubbles should start forming on the leaf surface; gently tap the desiccator to occasionally remove air bubbles)."
+            },
+            {
+                "title": "5.",
+                "body": "Slowly release vacuum after 10 minutes \\(note: leaves should appear translucent)."
+            },
+            {
+                "title": "6.",
+                "body": "Add 2.5 ml of 2 M glycine to a final concentration of 0.125 M glycine to stop cross-linking."
+            },
+            {
+                "title": "7.",
+                "body": "Apply vacuum for another 5 minutes and slowly release vacuum."
+            },
+            {
+                "title": "8.",
+                "body": "Rinse the leaves twice with 40 ml nanopure water."
+            },
+            {
+                "title": "9.",
+                "body": "Dry the leaves with paper towel to remove excess water."
+            },
+            {
+                "title": "10.",
+                "body": "Freeze cross-linked leaves in liquid nitrogen."
+            }
+        ]
+    },
+    {
+        "title": "**Nuclei and chromatin isolation**",
+        "body": [
+            "\\(Note: keep samples cold all the time on ice)",
+            {
+                "title": "11.",
+                "body": "Grind leaves \\(~2 grams) into fine powder with liquid nitrogen in mortar and pestle."
+            },
+            {
+                "title": "12.",
+                "body": "Transfer ground powder into a 50 ml falcon tube and add 30 ml of extraction buffer 1 \\(note: add at least 10-fold volume of extraction buffer relative to the amount of ground samples) and vortex."
+            },
+            {
+                "title": "13.",
+                "body": "Filter through a layer of Miracloth into a new 50 ml falcon tube."
+            },
+            {
+                "title": "14.",
+                "body": "Centrifuge extract at 4,000 rpm for 20 minutes at 4°C."
+            },
+            {
+                "title": "15.",
+                "body": "Gently remove supernatant and resuspend the pellet in 1 ml of extraction buffer 2 by pipetting up and down \\(note: the pellet should be completely resuspended)."
+            },
+            {
+                "title": "16.",
+                "body": "Transfer the solution into a new 1.5 ml microcentrifuge tube."
+            },
+            {
+                "title": "17.",
+                "body": "Centrifuge at 13,000 rpm for 10 minutes at 4°C."
+            },
+            {
+                "title": "18.",
+                "body": "Remove supernatant and resuspend the pellet in 400 μl of extraction buffer 3 by pipetting up and down."
+            },
+            {
+                "title": "19.",
+                "body": "Add 400 μl of extraction buffer in a new 1.5 ml microcentrifuge tube and carefully layer the extract \\(400 μl) on the top of the buffer."
+            },
+            {
+                "title": "20.",
+                "body": "Centrifuge at 13,000 rpm for 1 hour at 4°C."
+            },
+            {
+                "title": "21.",
+                "body": "Remove supernatant and resuspend pellet in 500 μl of cold nuclei lysis buffer \\(note: include 10 mM sodium butyrate in the lysis buffer when analyzing histone acetylation)."
+            },
+            {
+                "title": "22.",
+                "body": "Carefully resuspend the pellet by pipetting up and down \\(note: keep the chromatin solution cold on ice)."
+            },
+            {
+                "title": "23.",
+                "body": "Keep an aliquot \\(10 μl) of the chromatin solution for agarose gel electrophoresis in step 27 \\(note: examine the quality of the isolated chromatin before sonication).\r\n  Sonication"
+            },
+            {
+                "title": "24.",
+                "body": "Sonicate chromatin solution 4 times for 10 seconds \\(continuous) with power output setting at 10 using Fisher sonic 60 dismembrator \\(notes: to prevent from overheating the chromatin solution during sonication, return the solution on ice for at least 1 minute between each sonication; avoid foaming during sonication; chromatin solution can be stored at -20°C after this step)."
+            },
+            {
+                "title": "25.",
+                "body": "Centrifuge chromatin solution at 13,000 rpm for 5 minutes at 4°C to remove debris."
+            },
+            {
+                "title": "26.",
+                "body": "Transfer supernatant into a new 1.5 ml microcentrifuge tube."
+            },
+            {
+                "title": "27.",
+                "body": "Take an aliquot \\(10 μl) of the sonicated chromatin solution for agarose gel electrophoresis with the aliquot from step 23 \\(notes: to determine sonication efficiency; DNA sizes should appear smear at a range of 200-bp to 1-kb range)."
+            },
+            {
+                "title": "28.",
+                "body": "Keep another aliquot \\(30 μl) of sonicated chromatin for input DNA control \\(note: add 470 μl of TE buffer to this aliquot and continue with reverse crosslink in step 55)."
+            }
+        ]
+    },
+    {
+        "title": "**Immunoprecipitation**",
+        "body": [
+            {
+                "title": "29.",
+                "body": "Split the remaining chromatin solution \\(450 μl) into 3 tubes with 150 μl each. Add 1,350 μl ChIP dilution buffer to each tube \\(note: to dilute SDS from 1% to 0.1% in the buffer)."
+            },
+            {
+                "title": "30.",
+                "body": "For each tube from step 29, prepare a 40 μl of 50% salmon sperm DNA/ protein A agarose beads by rinsing three times with 1 ml of ChIP dilution buffer \\(without protease inhibitor or sodium butyrate) and resuspend the beads in 40 μl of ChIP dilution buffer \\(note: after each wash, spin down beads at 6,000 rpm for 2 minutes at 4°C)."
+            },
+            {
+                "title": "31.",
+                "body": "Incubate the chromatin solution \\(1.5 ml) with 40 μl of protein A agarose beads for 1 hour at 4°C in a rotisserie shaker."
+            },
+            {
+                "title": "32.",
+                "body": "Centrifuge at 6,000 rpm for 2 minutes at 4°C to pellet beads from the chromatin solution."
+            },
+            {
+                "title": "33.",
+                "body": "Combine 3 aliquots of chromatin solution into a 14 ml falcon tube \\(note: avoid pipetting pellet protein A agarose beads)."
+            },
+            {
+                "title": "34.",
+                "body": "For each chromatin IP, mix 600 μl pre-cleared chromatin solution with antibody in a 1.5 ml microcentrifuge tube \\(notes: the amount of antibodies used varies among different sources and should be determined empirically; we used 10 μl anti-H3K9Ac, 5 μl anti-H3K9Me2, 5 μg anti-H3K4Me2 or 10 μl anti-CCA1 per IP)."
+            },
+            {
+                "title": "35.",
+                "body": "Set up another chromatin solution \\(600 μl) without antibodies as a control for ChIP."
+            },
+            {
+                "title": "36.",
+                "body": "Incubate chromatin and antibodies overnight at 4°C in a rotisserie shaker."
+            }
+        ]
+    },
+    {
+        "title": "**Day 2: IP complexes pull down and washing**",
+        "body": [
+            {
+                "title": "37.",
+                "body": "Prepare 40 μl of 50% salmon sperm DNA/protein A agarose beads as in step"
+            },
+            {
+                "title": "30.",
+                "body": []
+            },
+            {
+                "title": "38.",
+                "body": "Add 40 μl of protein A agarose beads to the ChIP tube and incubate for 1.5 hours at 4°C in a rotisserie shaker \\(note: pull down the ChIP-complexes formed)."
+            },
+            {
+                "title": "39.",
+                "body": "Centrifuge at 6,000 rpm for 1 minute at 4°C to collect ChIP-beads complexes, discard supernatant."
+            },
+            {
+                "title": "40.",
+                "body": "Add 1 ml of low salt buffer to ChIP-beads complexes."
+            },
+            {
+                "title": "41.",
+                "body": "Wash the complexes for 10 minutes at 4°C with rotation."
+            },
+            {
+                "title": "42.",
+                "body": "Centrifuge at 6,000 rpm for 1 minute at 4°C to collect ChIP-beads complexes, discard supernatant"
+            },
+            {
+                "title": "43.",
+                "body": "Add 1 ml of high salt buffer to ChIP-beads complexes"
+            },
+            {
+                "title": "44.",
+                "body": "Repeat steps 41 and 42"
+            },
+            {
+                "title": "45.",
+                "body": "Add 1 ml of LiCl washing buffer to ChIP-beads complexes"
+            },
+            {
+                "title": "46.",
+                "body": "Repeat steps 41 and 42"
+            },
+            {
+                "title": "47.",
+                "body": "Add 1 ml of TE buffer to IP-beads complexes"
+            },
+            {
+                "title": "48.",
+                "body": "Repeat steps 41 and 42"
+            },
+            {
+                "title": "49.",
+                "body": "Repeat washing with TE buffer \\(steps 47 and 48), collect ChIP-beads complexes and discard supernatant."
+            },
+            {
+                "title": "50.",
+                "body": "Add 250 μl of elution buffer to elute ChIP complexes \\(note: prepare elution buffer prior washing steps and store it at 65°C)."
+            },
+            {
+                "title": "51.",
+                "body": "Vortex briefly and incubate the samples at 65°C for 15 minutes."
+            },
+            {
+                "title": "52.",
+                "body": "Centrifuge the samples at 13,000 rpm for 2 minutes at room temperature."
+            },
+            {
+                "title": "53.",
+                "body": "Carefully transfer the supernatant \\(eluate) to a new 1.5 ml screw cap tube."
+            },
+            {
+                "title": "54.",
+                "body": [
+                    "Repeat elution \\(steps 50 to",
+                    {
+                        "title": "53)",
+                        "body": "and combine the two eluates in a single tube."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**Reverse crosslink and DNA purification**",
+        "body": [
+            {
+                "title": "55.",
+                "body": "Add 20 μl of 5 M NaCl to the eluate and reverse cross-link at 65°C for at least 6 hours to overnight \\(note: also perform reverse-crosslink for input DNA control from step 28)."
+            },
+            {
+                "title": "56.",
+                "body": "Add 10 μl of 0.5 M EDTA, 20 μl of 1 M Tris-HCl \\(pH6.5) and 1 μl of 20 mg/ml proteinase K."
+            },
+            {
+                "title": "57.",
+                "body": "Incubate at 45°C for 1-3 hours."
+            },
+            {
+                "title": "58.",
+                "body": "Add 1 volume of phenol/chloroform/isoamyl alcohol \\(25:24:1)."
+            },
+            {
+                "title": "59.",
+                "body": "Mix and centrifuge the samples at 13,000 rpm for 5 minutes at room temperature."
+            },
+            {
+                "title": "60.",
+                "body": "Transfer the supernatant to a new 1.5 ml microcentrifuge tube and add an equal volume of chloroform/isoamyl alcohol \\(24:1)."
+            },
+            {
+                "title": "61.",
+                "body": "Mix and centrifuge the samples at 13,000 rpm for 5 minutes at room temperature."
+            },
+            {
+                "title": "62.",
+                "body": "Carefully transfer supernatant to a new 2 ml microcentrifuge tube \\(note: avoid residue chloroform as it may affect PCR)."
+            },
+            {
+                "title": "63.",
+                "body": "Add 0.1 of volume 3 M NaoAC \\(pH5.2) and 2 μl of glycoblue \\(15 mg/ml; Ambion) \\(note: the use of glycoblue increases the visibility and recovery of DNA precipitates)."
+            },
+            {
+                "title": "64.",
+                "body": "Add 2.5 volumes of absolute ethanol and precipitate DNA at -80°C for 2 hours \\(note: alternatively, precipitate DNA at -20°C overnight)."
+            },
+            {
+                "title": "65.",
+                "body": "Centrifuge DNA at 13,000 rpm for 15 minutes at 4°C."
+            },
+            {
+                "title": "66.",
+                "body": "Remove the supernatant and wash the pellet with 1 ml of 75% ethanol \\(note: DNA pellet should appear blue with the use of glycoblue)."
+            },
+            {
+                "title": "67.",
+                "body": "Centrifuge DNA at 13,000 rpm for 5 minutes at 4°C."
+            },
+            {
+                "title": "68.",
+                "body": "Air-dry DNA pellet for 10 minutes \\(note: alternatively, dry DNA under vacuum for 3 minutes)."
+            },
+            {
+                "title": "69.",
+                "body": "Resuspend DNA in 50 μl of TE buffer with 10 μg/ml RNaseA."
+            },
+            {
+                "title": "70.",
+                "body": "Use 0.5-1 μl of DNA in a 25 μl PCR reaction \\(note: the amount of DNA needed for PCR depends on ChIP efficiency)."
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    "\nPreparation of MEFs",
+    {
+        "title": "1.",
+        "body": "Isolate mouse embryos at E13.5 \\(embryonic day 13.5) and wash them with DPBS."
+    },
+    {
+        "title": "2.",
+        "body": "Remove heads, tails and visceral tissues from the embryos."
+    },
+    {
+        "title": "3.",
+        "body": "Mince the remaining bodies and then incubate them in 0.25% trypsin-EDTA solution \\(1 ml per embryo) at 37°C for 10–15 min"
+    },
+    {
+        "title": "4.",
+        "body": "After incubation, add an equal volume of MEF medium."
+    },
+    {
+        "title": "5.",
+        "body": "Pipet up and down thoroughly to dissociate the cells."
+    },
+    {
+        "title": "6.",
+        "body": "Transfer cellular suspension into 150 mm dishes \\(three embryos per dish) and culture at 37°C with 5% CO<sub>2</sub>."
+    },
+    {
+        "title": "7.",
+        "body": "Change fresh MEF medium every day from the next day.\r\n  \r\n\n\nPreparation of TTFs"
+    },
+    {
+        "title": "1.",
+        "body": "Cut the tail tips from adult mice."
+    },
+    {
+        "title": "2.",
+        "body": "Peel the tail tips and mince them into 1–2 mm pieces."
+    },
+    {
+        "title": "3.",
+        "body": "Place the pieces on 100 mm dishes \\(two tail tips per dish) and culture in TTF medium."
+    },
+    {
+        "title": "4.",
+        "body": "2 days later, change fresh TTF medium every other day."
+    },
+    {
+        "title": "5.",
+        "body": "After large amounts of TTFs migrate out, remove the pieces by washing with DPBS."
+    },
+    {
+        "title": "6.",
+        "body": "Change fresh TTF medium every day.\r\n  \r\n\n\nReprogramming of fibroblasts"
+    },
+    {
+        "title": "1.",
+        "body": "Maintain Plat-E packaging cells in Plat-E medium."
+    },
+    {
+        "title": "2.",
+        "body": "Split cells into 6-well plates at a density of 8x10<sup>6</sup> cells per plate."
+    },
+    {
+        "title": "3.",
+        "body": "On the next day, transfect Plat-E cells with pMXs plasmids encoding Oct4, Sox2, Klf4 and cMyc individually, using FuGENE HD, according to manufacturer's instruction.\r\n  For each well, dilute 3 μg plasmid and 9 μl FuGENE HD transfection reagent in 200 μl Opti-MEM I Reduced Serum Medium. The DNA/FuGENE HD mixtures are incubated for 30 min at room temperature, and added onto Plat-E cells."
+    },
+    {
+        "title": "4.",
+        "body": "Change fresh Plat-E medium 1 day after transfection."
+    },
+    {
+        "title": "5.",
+        "body": "After an incubation for 24 h, collect virus-containing supernatants, supplement with polybrene \\(1:2000 dilution), and filter the mixtures through 0.45 μM cellulose acetate filters."
+    },
+    {
+        "title": "6.",
+        "body": "Combine and mix Oct4, Sox2, Klf4 and c-Myc viruses with equal volume."
+    },
+    {
+        "title": "7.",
+        "body": [
+            "Incubate MEFs \\(at passage 2 or",
+            {
+                "title": "3)",
+                "body": "or TTFs \\(at passage 1 or"
+            },
+            {
+                "title": "2)",
+                "body": "that are cultured on 0.1% gelatin-coated plates with virus/polybrene-containing supernatants for 24 h."
+            }
+        ]
+    },
+    {
+        "title": "8.",
+        "body": "Change ESC medium after transduction."
+    },
+    {
+        "title": "9.",
+        "body": "Continuously culture reprogramming cells with ESC medium for at least 2 weeks."
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "title": "**Immuno on Cyrostat Sections \\(Cut sections on Cryostat at 14um)**",
+        "body": [
+            "Day 1: \\(keep glass tray on ice)",
+            {
+                "title": "1.",
+                "body": "Fix in 4% Para-PBS 10min at 4C \r\n  for 500 mls: 50 mls 10XPBS, 20g Paraformaldehyde, 11 sodium hydroxide pellets, pH 7.4; filter;)"
+            },
+            {
+                "title": "2.",
+                "body": "1XPBS wash at 4C for 5min \\(repeat wash)"
+            },
+            {
+                "title": "3.",
+                "body": "Dry slides especially around where you will write with immedged pen and then place on upside down 96 well plates.\r\n  Perform the following incubations on the slide itself.  Make sure that slides lie flat and solutions do not flow over the Immedged line.  Draw a boundary using Immedge pen or place gaskets around sections before starting incubations. Fill tray a little with 1XPBS\r\n\n\n\r\n\n\nUse only BSA when just immunohistochemistry \\(no Heparin)"
+            },
+            {
+                "title": "4.",
+                "body": "Blocking Step: 30 min at 4 C on a level surface in a humid chamber\r\n  \r\n\n\nBlocking Solution in PBS. Keep BSA in refrigerator.  \r\n\n\nBSA \\(Sigma, MB grade) make in 1XPBS 2.5% \\(0.5g/20mls) 4.8mls\r\n\n\npipette on 250 ul of BSA blocking solution\r\n\n\nCover tray and place in refrigerator. Place slides back into tray."
+            },
+            {
+                "title": "5.",
+                "body": "Rinse in PBS at 4C     3 x 5min"
+            },
+            {
+                "title": "6.",
+                "body": "Primary antibody:  overnight at 4 C on a level surface in a humid chamber\r\n  \r\n\n\nAntibody solution- in PBS \\(no Heparin if only immunohistochemistry)\r\n\n\nnumber of slides x 300ul = volume for primary antibody                                                                                       primary Ab:\r\n\n\nTriton-X 100       @ 0.1%          \r\n\n\nBSA                @ 1%             \r\n\n\nPrimary antibody                                            1:1000 dilution \\(for 5902 VGF Ab)\r\n\n\n\r\n\n\nDay 2 \\(secondary antibody):"
+            },
+            {
+                "title": "1.",
+                "body": "Wash in PBS @ room temperature \\(RT)   3 X 5 min"
+            },
+            {
+                "title": "2.",
+                "body": "secondary antibody incubate for 1 hour at room temperature on a level surface chamber\r\n  \r\n\n\nSolution in 1XPBS\r\n\n\nBSA  @ 1.0%       \r\n\n\nSecondary antibody 1:250 dilution \\(Alexa anti-rabbit)"
+            },
+            {
+                "title": "3.",
+                "body": "Wash in 1XPBS                                                                                    5min"
+            },
+            {
+                "title": "4.",
+                "body": "Mounting:  wipe off immeged pen around side of slide with a kimwipe, cover slip, and then use Gel/Mount \\(aqueous mounting medium with anti-fading agents from Biomedia Corp. Cat. # M01)"
+            }
+        ]
+    },
+    {
+        "title": "**In Situ Hybridization Protocol**",
+        "body": []
+    },
+    {
+        "title": "**I. T7-PCR based probes for ISH**",
+        "body": [
+            "Making DNA template: \r\n\n\n1.Design Forward primer and Reverse primer; reverse primer has a T7 site inserted into the 5’ end. \\(TAATACGACTCACTATAGG)\r\n\n\n2.PCR product approximately 300 bp\r\n\n\n3.dilute primers to 10 pmol /ul\r\n\n\n4.Use PCR to generate DNA template",
+            {
+                "title": "5.",
+                "body": "take PCR product and add 150 ul of ETOH / salt mixture  \\(300 ul 5 M NaCl \\(use nuclease free water to make up 5 M NaCl) + 20 mls 100% ETOH)"
+            },
+            {
+                "title": "6.",
+                "body": "mix well and place in –20 C freezer overnight"
+            },
+            {
+                "title": "7.",
+                "body": "the next day spin for 15 min at max speed \\(4 C)"
+            },
+            {
+                "title": "8.",
+                "body": "remove supernate by pipetting out"
+            },
+            {
+                "title": "9.",
+                "body": "add 70 % ETOH \\(already stored in –20 C) to pellets; spin for 15 min at max speed \\(4 C)"
+            },
+            {
+                "title": "10.",
+                "body": "remove supernate by pipetting out; resuspend in 50ul 1 X TE buffer;"
+            },
+            {
+                "title": "11.",
+                "body": "heat resuspended PCR products for 15 min to ensure entire pellet is resuspended"
+            }
+        ]
+    },
+    {
+        "title": "**II. ISH Protocol**",
+        "body": [
+            "Fixing Protocol:",
+            {
+                "title": "1.",
+                "body": "4% Paraformaldehyde in 1 X PBS; pH 7.4; filter; 10 minutes at room temperature; \\(for 500 mls: 50 mls 10XPBS, 20g Paraformaldehyde, 11 sodium hydroxide pellets)"
+            },
+            {
+                "title": "2.",
+                "body": "Wash in 1X PBS \\(200 mls for one wash); 1min at room temperature"
+            },
+            {
+                "title": "3.",
+                "body": "Wash in 0.1 M TEA pH 8.0 \\(9gms TEA, 500 ml DEPC H20, 4ml 5M NaOH DEPC treated); 1 min at room temperature"
+            },
+            {
+                "title": "4.",
+                "body": "Wash in 0.1 M TEA pH 8.0 + 0.25% Acetic Anhydride \\(200 mls of 0.1M TEA + 500 ul 0.25% Acetic Anhydride); 15 min on stir plate \\(add acetic anhydride right before slides go in)"
+            },
+            {
+                "title": "5.",
+                "body": "Wash 2 times in 2XSSC \\(2 minutes each wash)"
+            },
+            {
+                "title": "6.",
+                "body": "Dehydrate:\r\n  a. 30% ETOH 2 min\r\n\n\nb. 75% ETOH 2 min\r\n\n\nc. 100% ETOH 2 min"
+            },
+            {
+                "title": "7.",
+                "body": "Air dry on drying rack and freeze –80C or begin In Situ Day 1\r\n  \r\n\n\nHybridization Buffer for In Situs Day 1"
+            },
+            {
+                "title": "1.",
+                "body": "100ul hyb buffer for each slide\r\n  \r\n\n\ncomposition: Hyb Buffer \\(make stock solution and store in freezer); \r\n\n\n\r\n\n\nMaking Hybridization Buffer:\r\n\n\n100 mls Formamide \\(American Bioanalytical)\r\n\n\n24 mls 5M NaCl \\(make with DEPC)\r\n\n\n2 mls 1M Tris HCl pH 7.4 \\(make with DEPC)\r\n\n\n4 mls 50X Denhardts \\(from sigma)\r\n\n\n5 mls tRNA 10 mg/ml \\(from sigma)\r\n\n\nadd 19 mls DEPC water\r\n\n\nMix and pipet out 4 mls into 15 ml falcon tubes \\(store this stock solution in the freezer)\r\n\n\n\r\n\n\n\r\n\n\nPreparing Hybridization Buffer:\r\n\n\n\r\n\n\n10% Dextran Sulfate \\(from a 50% stock solution; so essentially a 80:20 ratio of buffer to dextran sulfate stocks; so for 2ml total volume add 1.6mls hybriization buffer and 0.4mls of dextran sulfate solution)\r\n\n\n\r\n\n\nto this solution add:"
+            },
+            {
+                "title": "1.",
+                "body": "Salmon sperm DNA to final concentration of 0.1mg/ml \\(10mg/ml stock solution); boil salmon sperm DNA for 10 minutes before adding to buffer"
+            },
+            {
+                "title": "2.",
+                "body": "dithiothreitol \\(DTT) to final concentration of 10mM \\(stock of 500mM)"
+            },
+            {
+                "title": "3.",
+                "body": "S35 probe, 2 million counts per 100uL\r\n  \r\n\n\nHeat probe to 85˚C for 5 minutes before adding to buffer\r\n\n\nExample: for up to 15 slides \\(2 mls total)  1.6 mls HYB buffer stock; 400ul 10% dextran; 20 ul SS DNA; 40ul DTT;"
+            }
+        ]
+    },
+    {
+        "title": "****",
+        "body": "also once all reagents in hyb buffer leave in 60-70 C oven to ensure that dextran fully dissolves in buffer"
+    },
+    {
+        "title": "****",
+        "body": [
+            "When putting cover slips on tilt at 45 degree angle\r\n\n\n\r\n\n\nMat Wet Fluid: 10mls 20XSSC; 25mls formamide; make up to 50mls with DEPC H20; use this to keep chambers humid during incubations;\r\n\n\n\r\n\n\nMaking Probe \\(use Mega Shortscript Kit; Ambion Cat # AM1354)\r\n\n\n2ul 10X buffer\r\n\n\n2ul ATP\r\n\n\n2ul GTP\r\n\n\n2ul UTP\r\n\n\n? ul PCR Product \\(1ug)  heat 3x’s amount to 95 C \\(5min) to denature PCR product; then add to master mix\r\n\n\n2ul T7 polymerase \\(enzyme)\r\n\n\n6 ul 35S CTP\r\n\n\nBring up to 20 ul with DEPC water.  \r\n\n\n\r\n\n\nPut into 37 C water bath for 2 hours; Add 1 ul DNAse 1, put back into 37 C water bath for 15 minutes; Then add 45 ul of STE Buffer \\(STE Buffer: RNase Free; 100mM NaCl; 20mM Tris HCl pH 7.5; 10 mM EDTA; make with DEPC water and store at room temperature) to probe; \r\n\n\n\r\n\n\nSpin columns 1 minute to get rid of buffer \\(Set centrifuge at",
+            {
+                "title": "3).",
+                "body": "Add probe to spin column.  Spin 4 min at"
+            },
+            {
+                "title": "3.",
+                "body": "Count 1 ul in Scintillation counter.\r\n\n\n\r\n\n\nSecond Day In Situ, Washes"
+            },
+            {
+                "title": "1.",
+                "body": "Allow coverslips to float off in 2x SSC"
+            },
+            {
+                "title": "2.",
+                "body": "Transfer slides to holder in 2x SSC \\(allow to sit until all slides are finished)"
+            },
+            {
+                "title": "3.",
+                "body": "Wash up and down several times in 2x SSC"
+            },
+            {
+                "title": "4.",
+                "body": "Rnase Treatment:\r\n  a. Transfer slides to 200mLs of Rnase Buffer\r\n\n\nb. Wash up and down several times \r\n\n\nc. Incubate at room temperature for 30 minutes\r\n\n\n \r\n\n\nRNAse Treatment Buffer Composition\r\n\n\n\r\n\n\n        for 200mLs: \r\n\n\n0.5 M NaCl   20 mLs 5M NaCl\r\n\n\n10mM Tris pH 8.0  2 mLs 1M Tris pH 8.0\r\n\n\n1mM EDTA   400 ul 0.5 M EDTA\r\n\n\n20ug/ml Rnase          200 uL of 20ug/ul Rnase A"
+            },
+            {
+                "title": "5.",
+                "body": "Wash in 2x SSC at room temperature \\(10 minutes)"
+            },
+            {
+                "title": "6.",
+                "body": "Wash in 0.2x SSC + 5mM DTT at 60˚C for 20 minutes"
+            },
+            {
+                "title": "7.",
+                "body": "Wash in 0.1x SSC +5mM DTT at 60˚C for 20 minutes"
+            },
+            {
+                "title": "8.",
+                "body": "Wash in 0.1x SSC at room temperature for 1 minute"
+            },
+            {
+                "title": "9.",
+                "body": "Rinse in milliQ H<sub>2</sub>O"
+            },
+            {
+                "title": "10.",
+                "body": "Air dry in drying rack and expose to film \\(film- notch in upper left hand corner)"
+            }
+        ]
+    }
+]

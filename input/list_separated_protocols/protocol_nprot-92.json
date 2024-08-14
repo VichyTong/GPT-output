@@ -1,0 +1,156 @@
+[
+    {
+        "title": "**Preparation of single-cell suspension from DO11.10Rag2<sup>-/-</sup> mice**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Excise spleens from 8–12 week old mice using fine forceps and scissors.  Place the spleen into a 40 µm pore size nylon cell strainer on the top of 50 ml Falcon tube. Use plunger from 3 ml syringe to crush the spleen and force as much as tissue as possible through the cell strainer."
+            },
+            {
+                "title": "2.",
+                "body": "Loose cell strainer from top of Falcon tube to facilitate rinsing. Rinse plunger and cell strainer with 10 ml PBS–0.5% BSA into tube and transfer the whole cell suspension into a 15 ml Falcon tube. \\(The use of 15 ml Falcon tubes for centrifugation steps will lead to lower cell loss during removal of supernatant)."
+            },
+            {
+                "title": "3.",
+                "body": "Centrifuge the cell suspension at 300 x g for 10 min."
+            },
+            {
+                "title": "4.",
+                "body": "Carefully remove supernatant, resuspend pellet in 10 ml PBA–BSA. Count the cells and centrifuge the cell suspension at 300 x g for 10 min."
+            }
+        ]
+    },
+    {
+        "title": "**Purification of CD4 positive T cells using mouse CD4 T cell isolation kit.**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pipette off supernatant completely and resuspend cell pellet in 40 µl of buffer per 10<sup>7</sup> total cells."
+            },
+            {
+                "title": "2.",
+                "body": "Add 10 µl of Biotin-antibody cocktail \\(provided by the kit) per 10<sup>7</sup> total cells."
+            },
+            {
+                "title": "3.",
+                "body": "Mix well and incubate for 10 min at 4°–8°C."
+            },
+            {
+                "title": "4.",
+                "body": "Add 30 µl of buffer and 20 µl of anti–Biotin MicroBeads \\(provided by the kit) per 10<sup>7</sup> total cells."
+            },
+            {
+                "title": "5.",
+                "body": "Mix well and incubate for additional 15 min at 4°–8°C."
+            },
+            {
+                "title": "6.",
+                "body": "Wash cells with buffer by adding 10 x labeling volume and centrifuge at 300 x g for 10 min."
+            },
+            {
+                "title": "7.",
+                "body": "Pipette off supernatant completely."
+            },
+            {
+                "title": "8.",
+                "body": "Resuspend cell pellet in 500 µl of buffer per 10<sup>8</sup> total cells."
+            },
+            {
+                "title": "9.",
+                "body": "Place a LS column in the magnetic field of MidiMACS<sup>TM</sup>   separator."
+            },
+            {
+                "title": "10.",
+                "body": "Prepare the column by rinsing with 3 ml of buffer."
+            },
+            {
+                "title": "11.",
+                "body": "Apply cell suspension onto the column. Allow the cells to pass through and collect effluent as fraction with unlabeled cells, representing the enriched CD4 positive T cell fraction."
+            },
+            {
+                "title": "12.",
+                "body": "Wash column with 3 x 3 ml of buffer and collect the entire effluent in the same tube as effluent of step"
+            },
+            {
+                "title": "11.",
+                "body": ""
+            },
+            {
+                "title": "13.",
+                "body": "Count the cells and centrifuge the cells at 300 x g 10 min. The cells are now ready for nucleofection."
+            }
+        ]
+    },
+    {
+        "title": "**Nucleofection protocol**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Pre-warm the supplemented Nucleofector solution to room temperature."
+            },
+            {
+                "title": "2.",
+                "body": "Prepare 12–well plates by filling 1.5 ml fully supplemented Mouse T Cell Nucleofector Medium per well and pre–equilibrate plates in a humidified 37˚C–5% CO<sub>2</sub> incubator for at least 30 min."
+            },
+            {
+                "title": "3.",
+                "body": "Count the isolated CD4 positive T cells in PBA–0.5% BSA."
+            },
+            {
+                "title": "4.",
+                "body": "Resuspend the cell pellet in room temperature supplemented Nucleofector Solution to a final concentration of 3 x 10<sup>6</sup> purified CD4 positive T cells per 100 µl. Add 3 µg Smad3 shRNA or Luciferase shRNA."
+            },
+            {
+                "title": "5.",
+                "body": "Immediately transfer the sample into an Amaxa cuvette. This step should take no longer than 15 min otherwise, cell viability and gene transfer efficiency is significantly compromised.  Avoid air bubbles while pipetting. Close cuvette with the blue cap."
+            },
+            {
+                "title": "6.",
+                "body": "Select X–01 Nucleofector program. Insert cuvette into the cuvette holder and press the “X” button to start the program."
+            },
+            {
+                "title": "7.",
+                "body": "To avoid damage to the cells remove the samples from the cuvette immediately after the program has finished \\(display showing OK). Take the cuvette out of the holder. Add an aliquot \\(approximately 500 µl) of the pre–equilibrated, fully supplemented Mouse T Cell Nucleofector Medium to the cell suspension in the cuvette, then immediately remove the sample from the cuvette using a plastic pipette \\(provided with kit) and transfer to the prepared 12–well plate."
+            },
+            {
+                "title": "8.",
+                "body": "Press the “X” button to reset the Nucleofector."
+            },
+            {
+                "title": "9.",
+                "body": "Incubate cells in humidified 37˚C–5% CO<sub>2</sub> incubator for 3 hours."
+            }
+        ]
+    },
+    {
+        "title": "**Adoptive transfer of T cells into syngeneic recipients.**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "The cells are collected after 3 hours of culture, counted and immediately transferred into syngeneic recipients \\(3 x 10<sup>6</sup> cells/mouse intravenously using 281/2 gauge needle)."
+            }
+        ]
+    },
+    {
+        "title": "**Immunizations**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "For priming immunization, three hours after adoptive transfer of T cells, the mice are immunized subcutaneously with OVA<sub>323–339</sub> peptide emulsified in IFA."
+            },
+            {
+                "title": "2.",
+                "body": "For tolerizing immunization, three hours after adoptive transfer T cells, the mice are immunized subcutaneously with OVA<sub>323–339</sub> peptide emulsified in IFA along with administration of anti-CD40L \\(250 µg/mouse) plus CTLA4-Ig fusion protein \\(250 µg/mouse)."
+            }
+        ]
+    },
+    {
+        "title": "**Analysis of transfection efficiency**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Five days after immunization, isolate lymphocytes from spleens and perform FACS analysis to determine transfection efficiency and _in vivo_ expansion of TCR transgenic \\(KJ1-26<sup>+</sup>) T cells."
+            }
+        ]
+    }
+]

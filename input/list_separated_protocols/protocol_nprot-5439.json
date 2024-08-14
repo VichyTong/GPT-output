@@ -1,0 +1,89 @@
+[
+    "\nStep",
+    {
+        "title": "1)",
+        "body": "Start cryoSPARC on the GPU computer. \r\n\n\nAfter installation and configuration, the cryosparc command should be available in your PATH. Simply type the following at the command line \\(Figure 1):\r\n\n\n$ cryosparc start\r\n\n\nThis will begin the cryosparc host processes and provide you with a web address where cryoSPARC can be used. Typically it will be http://localhost:38000\r\n\n\n\r\n\n\nStep"
+    },
+    {
+        "title": "2)",
+        "body": [
+            "On the GPU computer or any other computer connected to the same local network as the GPU computer, use the Google Chrome browser to navigate to the web address from step",
+            {
+                "title": "1).",
+                "body": "You will be presented with the cryoSPARC main dashboard \\(Figure"
+            },
+            {
+                "title": "2).",
+                "body": "Step"
+            }
+        ]
+    },
+    {
+        "title": "3)",
+        "body": [
+            "Click on the ‘Datasets’ button in the top navigation bar to arrive at the datasets page \\(Figure",
+            {
+                "title": "3).",
+                "body": "From here, click on ‘New Dataset’ to create a new particle dataset in cryoSPARC \\(Figure"
+            },
+            {
+                "title": "4).",
+                "body": "Click on the Configure tab on the left, and click the ‘Add New File Set’ button to begin adding a new set of particle stack and meta data files to cryoSPARC.\r\n\n\n\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "4)",
+        "body": [
+            "Click on the ‘Browse Bulk Files’ button to browse for a meta data \\(.star, .par, .txt, .emx) file for your dataset. Repeat for the particle stack if necessary \\(.star files contain paths to corresponding .mrcs files). Enter microscope parameters if necessary \\(.star files contain microscope parameters). \r\n\n\nClick on the Visualize tab on the left, and click Launch to have cryoSPARC load your data and display it to verify the integrity of the provided files and the correctness of microscope parameters \\(Figure",
+            {
+                "title": "5).",
+                "body": "Step"
+            }
+        ]
+    },
+    {
+        "title": "5)",
+        "body": [
+            "Click on the Experiment button in the main navigation bar. This will take you to the experiment management page \\(Figure",
+            {
+                "title": "6).",
+                "body": "Click ‘New Experiment’ to start a new experiment. In the New experiment page, select your dataset, then select the task you wish to perform \\(in this case Ab-Initio Heterogeneous Reconstruction). Then click on the parameters page to see default parameters of the experiment \\(Figure"
+            },
+            {
+                "title": "7).",
+                "body": "In this case, you can set the number of classes you wish to reconstruct but for this tutorial we will leave it as 1 class.\r\n\n\n\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "6)",
+        "body": [
+            "Click the Launch tab on the left and select ‘Enqueue’. This will queue your experiment for running in the cryoSPARC scheduler. When the job begins to run, you will see results streaming in real time on the Launch page. This includes plots and result files that are generated \\(Figure",
+            {
+                "title": "8).",
+                "body": "You can directly download result maps and plot data from the interface. In this case, the single class ab-initio reconstruction will yield a medium-resolution structure of the TRPA1 ion channel in approximately one hour. When the job is finished, you may view the final result.\r\n\n\n\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "7)",
+        "body": [
+            "To refine a structure that has been reconstructed by ab-initio reconstruction, return to the experiments page, click ‘New Experiment’ and select your dataset. This time, select Heterogeneous Refinement as the task. In the job parameters, use the ‘Browse previous results’ button to select the output from the previous ab-initio experiment as the starting reference for high-speed refinement \\(Figure",
+            {
+                "title": "9).",
+                "body": "In refinement experiments, every parameter has default values and none need to be changed, except if you wish to enforce symmetry during refinement. In this case we can enforce C4 symmetry.\r\n\n\n\r\n\n\nStep"
+            }
+        ]
+    },
+    {
+        "title": "8)",
+        "body": [
+            "Once again, click on the Launch tab on the left for the refinement experiment, then click Enqueue. The job will begin to run and report results in real time. This refinement will take approximately one hour to reach 4.2A resolution \\(Figure",
+            {
+                "title": "10).",
+                "body": "Results maps both sharpened and unsharpened, along with half-maps, masks, and FSC curves can be downloaded directly from the interface. The resulting structure can be viewed locally using UCSF Chimera \\(Figure 11)."
+            }
+        ]
+    }
+]

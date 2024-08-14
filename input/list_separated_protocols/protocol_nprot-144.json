@@ -1,0 +1,58 @@
+[
+    {
+        "title": "**A. Social behaviour for a 1-min confrontation in male mice.**",
+        "body": [
+            "Day 1: Housing. TIMING 10 min",
+            {
+                "title": "1.",
+                "body": "At age 40–50 d, transfer mice from group to individual housing for 5 d to permit establishment of a home-cage territory.\r\n  CRITICAL STEP 1 \r\n\n\n \r\n\n\nDay 5: Recording investigation time. TIMING 1 min"
+            },
+            {
+                "title": "2.",
+                "body": "Begin the first trial by introducing a stimulus female into the home cage of a male mouse for a 1-min interaction. Record investigation time of the female by the male mouse. At the end of the 1-min trial, remove the stimulus animal and return to an individual holding cage. Score behaviour during experiments and  record behaviour on a videotape.  Scoring should be done by trained raters \\(inter-rater reliability >90%).\r\n  CRITICAL STEP 2\r\n\n\n\r\n\n\nRepeating step 2 TIMING 11 min"
+            },
+            {
+                "title": "3.",
+                "body": "For the second encounter, after a 10-min inter-exposure interval, introduce the same stimulus female to each male for 1 min. Record the investigation time of the female by the male mouse. Remove the stimulus animal and return to the individual holding cage.\r\n  \r\n\n\nRepeating step 2 TIMING 11 min"
+            },
+            {
+                "title": "4.",
+                "body": "For the third recognition trial, after a 10-min inter-exposure interval, introduce the same stimulus animal to each subject for 1 min. Record investigation time of the female by the male mouse.\r\n  CRITICAL STEP 3\r\n\n\n\r\n\n\nRepeating step 2 TIMING 11 min"
+            },
+            {
+                "title": "5.",
+                "body": "For the fourth encounter, after a 10-min inter-exposure interval, introduce the same female to each male.\r\n  \r\n\n\nSame step with a new stimulus TIMING 11 min"
+            },
+            {
+                "title": "6.",
+                "body": "In the fifth “dishabituation” trial, introduce a different stimulus female to the same male mouse for 1 min, after a 10-min inter-exposure interval. Record the investigation time of the female by the male. Remove the stimulus animal to the individual holding cage."
+            }
+        ]
+    },
+    {
+        "title": "**B  Pup retrieval behaviour by dams in home cages.**",
+        "body": [
+            "Day 1: Birth confirmation TIMING 5 min",
+            {
+                "title": "1.",
+                "body": "Record births each morning. First observe each new dam for 5 min with minimal disruption. Confirm that it is capable of building a typical nest and the pups are in the nest and being nurtured by the dam. \r\n  \r\n\n\nDay 2: Retrieving test TIMING 20 min"
+            },
+            {
+                "title": "2.",
+                "body": "Remove all of the pups from the nest and keep temporarily in a holding cage."
+            },
+            {
+                "title": "3.",
+                "body": "Return five of the dam’s own pups to the dam’s cage and place at the opposite side from the nest."
+            },
+            {
+                "title": "4.",
+                "body": "Observe the dam continually, and record latency to retrieve each pup to the nest. Each dam should be observed for up to 3 min."
+            },
+            {
+                "title": "5.",
+                "body": "Repeat step 4 × 3 times.\r\n  CRITICAL STEP 4"
+            }
+        ]
+    }
+]

@@ -1,0 +1,183 @@
+[
+    "\nCell culture and passaging",
+    {
+        "title": "1)",
+        "body": "Culture ES cells either on inactive mouse embryonic fibroblasts \\(MEFs) or on gelatinized plates; TS cells should be cultured on inactive MEFs, and passaged once they reach confluency \\(80%) \\(Figure 1a)."
+    },
+    {
+        "title": "2)",
+        "body": "To passage, rinse cells once with 1x PBS and dissociate them by incubation with Trypsin for 3 minutes at 37 °C in the incubator."
+    },
+    {
+        "title": "3)",
+        "body": "Stop trypsinization with at least 2 volumes of ETX medium."
+    },
+    {
+        "title": "4)",
+        "body": "Pellet cells for 4 minutes at 1000 rpm and resuspend in either ETX-2iLIF or ETX-F42H, as appropriate."
+    },
+    {
+        "title": "5)",
+        "body": "Replate cells at 1:10 or 1:20 onto a new well with inactive feeders. Change media the following day and then every other day\r\n\n\n?Troubleshooting 1"
+    },
+    {
+        "title": "6)",
+        "body": "Culture Xen cells in gelatinized plates with C-ETX medium."
+    },
+    {
+        "title": "7)",
+        "body": "Passage them at 80% confluency in the same manner as ES and TS cells \\(Figure 1a)."
+    },
+    {
+        "title": "8)",
+        "body": "Replate Xen cells at a dilution between 1:5 and 1:10 on a new plate coated with gelatin. Change media the following day and then every other day\r\n\n\n?Troubleshooting 2\r\n\n\n\r\n\n\nC-ETX media preparation:"
+    },
+    {
+        "title": "9)",
+        "body": "Plate 4 millions of inactive mouse embryonic fibroblasts on a 15 cm tissue culture dish coated with gelatin,  in FC media."
+    },
+    {
+        "title": "10)",
+        "body": "The following day, ensure that the cells have attached to the plate and look healthy. \r\n\n\n?Troubleshooting 3"
+    },
+    {
+        "title": "11)",
+        "body": "Wash the dish 2x with 1X PBS"
+    },
+    {
+        "title": "12)",
+        "body": "Aspirate PBS and add 25 mL of ETX medium."
+    },
+    {
+        "title": "13)",
+        "body": "Incubate for 3 days at 37 °C in the incubator."
+    },
+    {
+        "title": "14)",
+        "body": "On day3, collect the media, add 30% v/v of fresh ETX medium, filter sterilize, and store in the freezer at -20 °C until needed."
+    },
+    {
+        "title": "15)",
+        "body": "Add 25 more mL of ETX media to the plate for a second round of conditioning, and proceed as above. After 2 batches of C-ETX medium have been made, discard the plate of MEFs.\r\n\n\nETX embryos generation: \r\n\n\n• AggreWell Setup"
+    },
+    {
+        "title": "16)",
+        "body": "Place a new AggreWell in the biosafety cabinet and aliquot 1 mL of Rinsing Solution in each well to be used."
+    },
+    {
+        "title": "17)",
+        "body": "Spin the plate at 2000 x g for 5 minutes and incubate at room temperature in the biosafety cabinet for 30 minutes."
+    },
+    {
+        "title": "18)",
+        "body": "Following incubation, aspirate the Rinsing Solution and wash each well once with 2 mL of 1x PBS."
+    },
+    {
+        "title": "19)",
+        "body": "Remove PBS and place 500 uL of C-ETX medium for each well to be used, careful not to introduce bubbles."
+    },
+    {
+        "title": "20)",
+        "body": "Check the plate under the microscope. If there are no bubbles, place the plate in the incubator until ready to use. If there are bubbles, spin again at 2000 x g for 5 min.\r\n\n\n\r\n\n\n• Cell Suspension Preparation"
+    },
+    {
+        "title": "21)",
+        "body": "Prepare gelatin-coated wells which will be used to deplete the feeders. For instance, if the cells are grown in 6-well dishes and 1 well of ES cells and 1 well of TS cells will be used for the experiment, coat 2 wells of a 6-well dish with gelatin. If cells are grown in a 12-well dish, coat 2 wells of a 12-well dish and so on."
+    },
+    {
+        "title": "22)",
+        "body": "Leave the plate with gelatin in the hood at room temperature."
+    },
+    {
+        "title": "23)",
+        "body": "Dissociate ESC and TSC colonies to single cells by incubation with 0.05% trypsin-EDTA at 37°C for 3 min. \r\n\n\n? Troubleshooting 4"
+    },
+    {
+        "title": "24)",
+        "body": "Stop the reaction by adding at least 2 volumes of ETX medium."
+    },
+    {
+        "title": "25)",
+        "body": "Pellet cells by centrifugation for 4 min at 1000 rpm"
+    },
+    {
+        "title": "26)",
+        "body": "Aspirate the supernatant carefully in order not to disturb the pellet and resuspend in C-ETX medium. Resuspend in 2 mL for plating in a 6-well dish, 1 mL for a 12-well dish"
+    },
+    {
+        "title": "27)",
+        "body": "Remove gelatin from the previously prepared plate, plate the cell suspension and incubate the plate at 37 °C for 20 minutes."
+    },
+    {
+        "title": "28)",
+        "body": "When there are 10 minutes left to this incubation, dissociate the Xen cells in a similar manner, centrifuge and resuspend them in C-ETX medium. Since they were not grown on MEFs, there is no need to perform a gelatin-enrichment step."
+    },
+    {
+        "title": "29)",
+        "body": "When the 20 minute incubation is complete, collect the supernatant containing the pure population of ES and TS cells in separate 15 mL Falcon tubes. \r\n\n\n?Troubleshooting 5"
+    },
+    {
+        "title": "30)",
+        "body": "Quantify the concentration of ES, TS and Xen cells with a haemocytometer"
+    },
+    {
+        "title": "31)",
+        "body": "Calculate the volume of suspension containing 7200 ES cells, 19200 TS cells and 5400 Xen cells."
+    },
+    {
+        "title": "32)",
+        "body": "Scale up this number of cells according to the number of wells to be used in the experiment. \r\n\n\n\r\n\n\n• AggreWell Plating"
+    },
+    {
+        "title": "33)",
+        "body": "Prepare C-ETX medium with Rock inhibitor Y27632, 1 mL of C-ETX medium with Rock inhibitor \\(at a concentration of 7.5 nM), per well is needed. Addition of 1 mL of this media to the previous 500 uL in the well will bring the final concentration of Rock inhibitor to 5 nM."
+    },
+    {
+        "title": "34)",
+        "body": "Add the correct volume of ES, TS and Xen cells to a 15 mL Falcon tube and centrifuge them for 4 minutes at 1000 rpm."
+    },
+    {
+        "title": "35)",
+        "body": "Remove the supernatant and resuspend in C-ETX medium with Rock inhibitor."
+    },
+    {
+        "title": "36)",
+        "body": "Add 1 mL of cell suspension to each well of the AggreWell plate dropwise and homogenously. Avoid making bubbles. The final volume of media is 1.5 mL/well."
+    },
+    {
+        "title": "37)",
+        "body": "Centrifuge the plate at 100 x g for 3 minutes to collect cells at the bottom of each well. \r\n\n\n? Troubleshooting 6"
+    },
+    {
+        "title": "38)",
+        "body": "Optional: Fill the surrounding empty wells with 1x PBS to prevent media evaporation"
+    },
+    {
+        "title": "39)",
+        "body": "Place the plate in the incubator. This is Day0.\r\n\n\n\r\n\n\n• Experimental course"
+    },
+    {
+        "title": "40)",
+        "body": "The following day \\(Day1) gently perform 1mL media change twice on each well of the AggreWell plate with C-ETX medium without Rock inhibitor. Be very gentle, as the cells will lift off the bottom of the plate if the media change is too vigorous."
+    },
+    {
+        "title": "41)",
+        "body": "On Day2, change only 1 mL of C-ETX medium with more C-ETX medium"
+    },
+    {
+        "title": "42)",
+        "body": "On Day3, prepare IVC1 and equilibrate it for 20 minutes in the incubator. Change media by removing 1.2 mL of C-ETX medium and replacing it gently with 1.5 mL of IVC1"
+    },
+    {
+        "title": "43)",
+        "body": "On Day4, prepare IVC2 and equilibrate it for 20 minutes in the incubator. Change media by removing 1.5 mL of IVC1 and replacing it gently with 1.5 mL of IVC2"
+    },
+    {
+        "title": "44)",
+        "body": "On Day5, prepare more IVC2 as before and replace 1 mL of IVC2 with fresh IVC2"
+    },
+    {
+        "title": "45)",
+        "body": "On Day6, prepare more IVC2 as before and replace 1 mL of IVC2 with fresh IVC2\r\n\n\n? Troubleshooting 7"
+    }
+]

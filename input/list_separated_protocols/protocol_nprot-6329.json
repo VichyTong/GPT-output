@@ -1,0 +1,171 @@
+[
+    "\nIsolation of organoids from mouse mammary tumors:",
+    {
+        "title": "1.",
+        "body": "Wash tumor material in 10 ml PBS \\(in 50 ml tube)"
+    },
+    {
+        "title": "2.",
+        "body": "Spin at 1200 rpm for 3 min and remove supernatant"
+    },
+    {
+        "title": "3.",
+        "body": "Add collagenase solution \\(Advanced DMEM/F12 \\[AdDMEM/F12, Gibco] supplemented with 5% FBS \\[Gibco], 2 mg/mL collagenase type IV \\[Gibco], 2 mg/mL trypsin \\[Difco], 5 ug/mL gentamicin \\[Invitrogen] and 5 ug/mL insulin \\[Sigma]) and dissect tumor pieces with small scissors \\(dissect in petri dish and then transfer back to 50 ml tube)"
+    },
+    {
+        "title": "4.",
+        "body": "Incubate in shaker at 37 oC for 30 min"
+    },
+    {
+        "title": "5.",
+        "body": "Spin at 1500 rpm for 10 min"
+    },
+    {
+        "title": "6.",
+        "body": "Aspirate supernatant and resuspend pellet in 10 ml ADDF+++ \\(AdDMEM/F12 supplemented with 1 M HEPES \\[Sigma], GlutaMAX \\[Invitrogen], penicillin/streptomycin \\[Gibco]) \\(with BSA coated pipette)"
+    },
+    {
+        "title": "7.",
+        "body": "Spin at 1500 rpm for 10 min"
+    },
+    {
+        "title": "8.",
+        "body": "Aspirate supernatant and add 4 ml DNAse solution \\(AdDMEM/F12 supplemented with 20 U/mL DNase \\[Roche])"
+    },
+    {
+        "title": "9.",
+        "body": "Vortex for 3-5 min and add 6 ml ADDF+++"
+    },
+    {
+        "title": "10.",
+        "body": "Spin at 1500 rpm for 10 min"
+    },
+    {
+        "title": "11.",
+        "body": "Aspirate supernatant and resuspend pellet in 10 ml ADDF+++ \\(with BSA coated pipette)"
+    },
+    {
+        "title": "12.",
+        "body": "Filter solution through a 70 um cell strainer into a BSA coated 50 ml tube and transfer into a BSA coated 15 ml falcon tube"
+    },
+    {
+        "title": "13.",
+        "body": "Spin at 1500 rpm for 10 min"
+    },
+    {
+        "title": "14.",
+        "body": "Perform several differential centrifugations \\(up to 4 times, depending on pellet size)\r\n  • Aspirate supernatant\r\n\n\n• Resuspend pellet in 10 ml ADDF+++ \\(with BSA coated pipette)\r\n\n\n• Spin at 1500 rpm for 1 min"
+    },
+    {
+        "title": "15.",
+        "body": "Resuspend pellet in Cultrex Reduced Growth Factor Basement Membrane Extract \\(BME) Type 2 \\(Trevigen, volume according to pellet size) mixed 1:1 with cold mouse mammary gland organoid medium \\(ENR medium, AdDMEM/F12+++ supplemented with B27 \\[Gibco], 125 uM N-acetyl-L-cysteine \\[Sigma], 50 ng/mL murine epidermal growth factor \\[EGF, Invitrogen], 10% Rspo1-conditioned medium and 10% Noggin-conditioned medium)"
+    },
+    {
+        "title": "16.",
+        "body": "Seed on 24-well suspension plates \\(Greiner Bio-One) at 40 ul per well"
+    },
+    {
+        "title": "17.",
+        "body": "Incubate at 37 oC for 30 min \\(or until BME has solidified) and add ENR medium at 0.5 ml per well\r\n  \r\n\n\nCulturing of mouse mammary tumor organoids:\r\n\n\nThe medium is changed twice per week and organoids are passaged 1:4-1:6 once per week."
+    },
+    {
+        "title": "1.",
+        "body": "Carefully aspirate media without disturbing BME-embedded organoids"
+    },
+    {
+        "title": "2.",
+        "body": "Place 2 ml cold ADDF+++ medium in 15 ml tube \\(on ice), take 1 ml using a P1000 pipette and use to collect BME+organoids"
+    },
+    {
+        "title": "3.",
+        "body": "Pre-coat fire-polished glass Pasteur pipette \\(to tighten opening) with cold ADDF+++ medium before using it to disrupt organoids"
+    },
+    {
+        "title": "4.",
+        "body": "Add 6 ml cold ADDF+++ media to each tube and spin at 900 rpm for 5 min"
+    },
+    {
+        "title": "5.",
+        "body": "Remove supernatant, resuspend pellet in BME/ENR media mix and seed as described above"
+    },
+    {
+        "title": "6.",
+        "body": "Incubate at 37 oC and add ENR medium\r\n  \r\n\n\nFor dissociation using TrypLE \\(Gibco):"
+    },
+    {
+        "title": "1.",
+        "body": "Carefully aspirate media and use 1 ml TrypLE to collect BME+organoids"
+    },
+    {
+        "title": "2.",
+        "body": "Incubate at 37 oC for 10 min and use a pre-coated fire-polished glass Pasteur pipette to disrupt organoids"
+    },
+    {
+        "title": "3.",
+        "body": "Add 4 ml cold ADDF+++ media to each tube and spin at 1200 rpm for 5 min"
+    },
+    {
+        "title": "4.",
+        "body": "Remove supernatant, resuspend pellet in BME/ENR media mix and seed as described above"
+    },
+    {
+        "title": "5.",
+        "body": "Incubate at 37 oC and add ENR medium\r\n  \r\n\n\nFor long-term storage, organoid cultures were mixed with Recovery Cell Culture Freezing Medium \\(Gibco) and frozen following the standard procedures. When required, the organoids were thawed using standard thawing procedures, embedded in BME and cultured as described above.\r\n\n\n\r\n\n\nTransduction of mouse mammary tumor organoids:"
+    },
+    {
+        "title": "1.",
+        "body": "Carefully aspirate media and disrupt organoids using TrypLE as described above"
+    },
+    {
+        "title": "2.",
+        "body": "Count cell number, aliquot cell suspension into tubes and centrifuge at 1200 rpm for 5 min"
+    },
+    {
+        "title": "3.",
+        "body": "Discard supernatant and resuspend cell pellet in viral suspension \\(diluted in ENR) supplemented with 8 μg/ml Polybrene \\(Millipore)"
+    },
+    {
+        "title": "4.",
+        "body": "Transfer cell suspensions to a 24-well plate and centrifuge at 600 g for 60 min at room temperature"
+    },
+    {
+        "title": "5.",
+        "body": "Incubate the plate at 37°C for 6 h"
+    },
+    {
+        "title": "6.",
+        "body": "Transfer cell suspensions into tubes and centrifuge at 1200 rpm for 5 min"
+    },
+    {
+        "title": "7.",
+        "body": "Discard the supernatant, resuspend pellet in BME/ENR media mix and seed as described above"
+    },
+    {
+        "title": "8.",
+        "body": "The following day, add media supplemented with the appropriate antibiotic\\(s) for selection of transduced cells \r\n  \r\n\n\nTransplantation of mouse mammary tumor organoids:"
+    },
+    {
+        "title": "1.",
+        "body": "For transplantation, use organoids at a size corresponding to an average of 150-200 cells per organoid"
+    },
+    {
+        "title": "2.",
+        "body": "Carefully aspirate media without disturbing BME-embedded organoids"
+    },
+    {
+        "title": "3.",
+        "body": "Place 2 ml cold ADDF+++ medium in 15 ml tube \\(on ice), take 1 ml using a P1000 pipette and use to collect BME+organoids"
+    },
+    {
+        "title": "4.",
+        "body": "Take small aliquot, disrupt organoids using TrypLE as described above and determine cell number"
+    },
+    {
+        "title": "5.",
+        "body": "Extrapolate cell count to organoid suspension, spin at 900 rpm for 5 min and resuspend appropriately in BME/ENR media mix: for KB1P\\(M) organoids – 10<sup>4</sup>/40 ul, for KB2P organoids – 5x10<sup>4</sup>/40 ul"
+    },
+    {
+        "title": "6.",
+        "body": "Inject 40 ul of organoid suspension into the fourth mammary fat pad of recipient mice"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "title": "1.",
+        "body": "Determine the total lipid concentration in liver lipid extraction or bile.\r\n  *SPE method allows lipid concentration <1.46 mg/100µl."
+    },
+    {
+        "title": "2.",
+        "body": "Prepare new solvent in dispenser from stock solution.\r\n  *Throw away the old solvent because it is easy to evaporate in dispenser than in stock bottle."
+    },
+    {
+        "title": "3.",
+        "body": "Take proper amount of liver lipid extraction or bile. Evaporate under N2. Add 900µl HBA into the tube."
+    },
+    {
+        "title": "4.",
+        "body": "Connect the SPE vacuum apparatus to the negative water pressure system. Switch on the pressure control. \\(Don’t exceed 2)"
+    },
+    {
+        "title": "5.",
+        "body": "Switch the upper part of SPE vacuum apparatus to “Waste” position."
+    },
+    {
+        "title": "6.",
+        "body": "Use 1000 µL automatic pipette to add 600 µL ACW twice to wash the SPE column."
+    },
+    {
+        "title": "7.",
+        "body": "Change the switch on the SPE vacuum apparatus from WASTE to COLLECTIVE."
+    },
+    {
+        "title": "8.",
+        "body": "Use 1000 µL automatic pipette to add 1000 µL hexane twice."
+    },
+    {
+        "title": "9.",
+        "body": "Apply 300 µL lipid HBA \\(LHBA) into the column."
+    },
+    {
+        "title": "10.",
+        "body": "Set up the tubes of CE fraction into the SPE vacuum apparatus."
+    },
+    {
+        "title": "11.",
+        "body": "Use dispenser to add 5 mL hexane into the column to elute CE. Wait until all the solution is eluted."
+    },
+    {
+        "title": "12.",
+        "body": "Change the tubes to TG. Use dispenser to add 5 mL HCA."
+    },
+    {
+        "title": "13.",
+        "body": "Change the tubes to MDG. Use dispenser to add 5 mL CIP."
+    },
+    {
+        "title": "14.",
+        "body": "Change the tubes to FFA. Use dispenser to add 5 mL CMA."
+    },
+    {
+        "title": "15.",
+        "body": "Change the tubes to PL. Use dispenser to add 5 mL MCW."
+    },
+    {
+        "title": "16.",
+        "body": "For PL fraction, add 2 mL water + 1 mL chloroform to separate water in the PL fraction. Shake upside down 3 times. Siphon off the upper layer. Cap tightly and seal it with Teflon tape. Evaporate the lower layer for FA analysis."
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Preparation of single-cell suspension from murine secondary lymphoid tissues 0",
+        "description": "**Preparation of single-cell suspension from murine secondary lymphoid tissues:**"
+    },
+    {
+        "name": "single-cell suspensions 0",
+        "description": "* Prepare single-cell suspensions of murine secondary lymphoid tissues, e.g. lymph nodes or spleen, in PBS."
+    },
+    {
+        "name": "filtered single-cell suspensions 0",
+        "description": "Filter cell suspension through fine mesh."
+    },
+    {
+        "name": "single-cell suspensions 1",
+        "description": "Collect cells in 5ml or 15ml conical tubes."
+    },
+    {
+        "name": "Tfh cells can be assessed in other tissues as well 0",
+        "description": "Tfh cells can be assessed in other tissues as well."
+    },
+    {
+        "name": "single-cell suspensions 2",
+        "description": "Pilot experiments should be performed to ensure that enzymatic digestions needed to release single cell suspensions do not interfere with antibody detection of CXCR5, PD-1 or BCL6._"
+    },
+    {
+        "name": "supernatant 0",
+        "description": "* Spin down cells in centrifuge, discard supernatant, "
+    },
+    {
+        "name": "supernatant 1",
+        "description": "And resuspend pellet in PBS."
+    },
+    {
+        "name": "single-cell suspensions 1 1",
+        "description": "**4.** Count cells."
+    },
+    {
+        "name": "single-cell suspensions 4",
+        "description": "Adjust cell numbers with PBS "
+    },
+    {
+        "name": "96-well round-bottom plate 0",
+        "description": "And add \u22643x10<sup>6</sup> cells in 100\u00b5l per well of a 96-well round-bottom plate."
+    },
+    {
+        "name": "primary antibody 2x mixes 0",
+        "description": "* Prepare primary antibody 2x mixes in flow buffer in 1.5ml Eppendorf tubes."
+    },
+    {
+        "name": "96-well round-bottom plate 1",
+        "description": "Calculate with 20\u00b5l volume to be added per well of the plate \\(40\u00b5l final staining volume)."
+    },
+    {
+        "name": "96-well round-bottom plate 2",
+        "description": "+ 40\u00b5l extra void volume = 240\u00b5l."
+    },
+    {
+        "name": "primary antibody 2x mixes 1",
+        "description": "Include anti-CXCR5-biotin \\(1:25 for 2x mix; final dilution will be 1:50), anti-CD4, and anti-PD-1."
+    },
+    {
+        "name": "compensation control stains 0",
+        "description": "Also prepare compensation control stains if necessary."
+    },
+    {
+        "name": "primary antibody 2x mixes 2",
+        "description": "Keep tubes on ice until needed."
+    },
+    {
+        "name": "primary antibody 2x mixes 3",
+        "description": "Right before use, spin tubes in a microcentrifuge for 3min at full speed to remove excess protein aggregates; only use supernatant._"
+    },
+    {
+        "name": "96-well round-bottom plate 3",
+        "description": "* Spin down plate at 700g for 2min, discard supernatant by quickly flicking the plate, and loosen cell pellet by briefly vortexing the plate on full speed setting \\(add a paper towel on top of the plate to avoid any potential spill-over)"
+    },
+    {
+        "name": "single-cell suspensions 5",
+        "description": "* Wash cells with 200\u00b5l flow buffer \\(for analysis only use flow buffer with 0.05% sodium azide, for sorting viable cells use flow buffer without sodium azide)."
+    },
+    {
+        "name": "96-well round-bottom plate 4",
+        "description": "* Repeat step **8**."
+    },
+    {
+        "name": "blocking solution 0",
+        "description": "Add 20\u00b5l of blocking solution: 5\u00b5g/ml anti-CD16/32 \\(\u201cFc-block\u201d) and 2% normal mouse serum/2% normal rat serum in flow buffer."
+    },
+    {
+        "name": "primary antibody 2x mixes 4",
+        "description": "Incubate for 5min on ice."
+    },
+    {
+        "name": "blocking solution 1",
+        "description": "Add 20\u00b5l of 2x primary antibody mixes \\(from step **7**) on top of the blocking solution \\(don\u2019t wash in between)."
+    },
+    {
+        "name": "primary antibody 2x mixes 5",
+        "description": "Incubate for 30-40min on ice. "
+    },
+    {
+        "name": "flow buffer 0",
+        "description": "Add 160\u00b5l of flow buffer and repeat step **8** and **9** and again **8**."
+    },
+    {
+        "name": "streptavidin-APC 0",
+        "description": "Add 40\u00b5l of streptavidin-APC \\(0.5\u00b5g/ml final concentration in flow buffer) per well "
+    },
+    {
+        "name": "primary antibody 2x mixes 6",
+        "description": "And incubate for 15-20min on ice."
+    },
+    {
+        "name": "single-cell suspensions 6",
+        "description": "Resuspend cells in flow buffer for subsequent analysis on a flow cytometer or for cell sorting."
+    },
+    {
+        "name": "single-cell suspensions 7",
+        "description": "7-AAD) that allows for the exclusion of dead cells, e.g. resuspend cells in 100\u00b5l flow buffer "
+    },
+    {
+        "name": "single-cell suspensions 8",
+        "description": "And add 1\u00b5l of 7-AAD."
+    },
+    {
+        "name": "single-cell suspensions 9",
+        "description": "* Following steps **1** through **6**, add 100\u00b5l of 1:1000-diluted eFluor780 Fixable Viability Dye \\(eBioscience) in PBS \\(no serum/protein, no sodium azide) to the 100\u00b5l of cells."
+    },
+    {
+        "name": "primary antibody 2x mixes 7",
+        "description": "Incubate for 10min on ice."
+    },
+    {
+        "name": "Fixation/Permeabilization solution 0",
+        "description": "* Prepare Fixation/Permeabilization solution as well as Permeabilization buffer from the eBioscience FoxP3 staining buffer set according to the manufacturer\u2019s instructions."
+    },
+    {
+        "name": "Fixation/Permeabilization solution 1",
+        "description": "And add 100\u00b5l Fixation/Permeabilization solution from the eBioscience FoxP3 staining buffer set per well "
+    },
+    {
+        "name": "transcription factor antibody 2x mixes 0",
+        "description": "** Prepare transcription factor antibody 2x mixes in Permeabilization buffer from the eBioscience FoxP3 staining buffer set in 1.5ml Eppendorf tubes."
+    },
+    {
+        "name": "well of the plate 0",
+        "description": "Calculate with 20\u00b5l volume to be added per well of the plate \\(40\u00b5l final staining volume)."
+    },
+    {
+        "name": "well of the plate 1",
+        "description": "+ 40\u00b5l extra void volume = 240\u00b5l."
+    },
+    {
+        "name": "transcription factor antibody 2x mixes 1",
+        "description": "Include anti-BLC6-PE antibody \\(1:25 for 2x mix; final dilution will be 1:50) and/or other transcription factor antibodies."
+    },
+    {
+        "name": "compensation control stains 1",
+        "description": "Also prepare compensation control stains if necessary."
+    },
+    {
+        "name": "tubes 0",
+        "description": "Keep tubes on ice until needed."
+    },
+    {
+        "name": "determined 0",
+        "description": "Note: Optimal dilutions of antibodies should be determined in pilot experiments."
+    },
+    {
+        "name": "protein aggregates 0",
+        "description": "Right before use, spin tubes in a microcentrifuge for 3min at full speed to remove excess protein aggregates; only use supernatant._"
+    },
+    {
+        "name": "well of the plate 2",
+        "description": "Add 100\u00b5l Permeabilization buffer from the eBioscience FoxP3 staining set to the 100\u00b5l of cells per well "
+    },
+    {
+        "name": "protein aggregates 1",
+        "description": "And spin down."
+    },
+    {
+        "name": "well of the plate 3",
+        "description": "** Wash 1x with 200\u00b5l Permeabilization buffer."
+    },
+    {
+        "name": "blocking solution 2",
+        "description": "And add 20\u00b5l of blocking solution: 5\u00b5g/ml anti-CD16/32 \\(\u201cFc-block\u201d) and 2% normal mouse serum/2% normal rat serum in Permeabilization buffer."
+    },
+    {
+        "name": "blocking solution 3",
+        "description": "Add 20\u00b5l of 2x transcription factor antibody mixes \\(from step **21**) on top of the blocking solution \\(don\u2019t wash in between)."
+    },
+    {
+        "name": "well of the plate 4",
+        "description": "**26.** Wash 2x with Permeabilization buffer."
+    },
+    {
+        "name": "cells 0",
+        "description": "Resuspend cells in flow buffer for acquisition on a flow cytometer."
+    }
+]

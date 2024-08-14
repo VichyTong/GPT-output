@@ -1,0 +1,30 @@
+[
+    {
+        "title": "1.",
+        "body": "Prepare PCR reactions \\(\"aqueous phase\") on ice in a total volume of 100µl using 1X Phusion HF buffer, an additional 1mM MgCl<sub>2</sub> , 250 µM dNTPs, 1µM outside primers and 10nM fusion PCR primer, 200 ng genomic DNA and 16 units Phusion polymerase."
+    },
+    {
+        "title": "2.",
+        "body": "Put 200 µl oil phase \\(4.5% v/v Span 80, 0.4% v/v Tween 80 and 0.05% Triton X-100 dissolved in light mineral oil) in a 2 ml Cryo-Vial and stirring at 1000 rpm with a magnetic bar \\(8 x 3mm with a pivot ring)."
+    },
+    {
+        "title": "3.",
+        "body": "Add 1 drop of aqueous phase to oil phase every 5 seconds and continue stirring for 5 minutes after addition of the first drop."
+    },
+    {
+        "title": "4.",
+        "body": "Transfer 125 µl of emulsion to a clean 200 µl, thin wall PCR tube and overlay with 1 drop of mineral oil. Run standard Phusion polymerase PCR cycle."
+    },
+    {
+        "title": "5.",
+        "body": "Transfer completed PCR reactions to a 1.5 ml tube and add 400 µl hexane. Vortex thoroughly and centrifuge at full speed for 3 minutes. Remove and discard hexane layer \\(upper layer). Repeat with 400 µl fresh hexane. \r\n  \r\n\n\nPAUSE POINT: reactions can be stored at -20 <sup>o</sup>C for several days."
+    },
+    {
+        "title": "6.",
+        "body": "Dilute PCR products 100x with water and reamplify in solution omitting the fusion primer."
+    },
+    {
+        "title": "7.",
+        "body": "Separate PCR products using gel electrophoresis."
+    }
+]

@@ -1,0 +1,211 @@
+[
+    "\nThe following details the procedure for creating microfluidic masters, devices and running the experiments. Devices can be prepared ahead of time.  \r\n\n\n \r\n\n\n",
+    {
+        "title": "**I. Microfluidic device fabrication:**",
+        "body": [
+            "_A. Mold fabrication_ – the mold wafers should be fabricated in a Cleanroom environment if possible for a high yield in device fabrication.  Follow Cleanroom protocols and safety precautions. \r\n\n\n• Worm loading layer",
+            {
+                "title": "1.",
+                "body": "Spin-coat SU8-2025 on a silicon wafer at 3000 rpm."
+            },
+            {
+                "title": "2.",
+                "body": "Soft bake the wafer at 95ºC for 5 min and UV-expose the photoresist with a mask \\("
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 2a**",
+        "body": [
+            ")  for the worm loading layer.",
+            {
+                "title": "3.",
+                "body": "Hard bake at 95ºC for 7 min and develop the wafer with SU8 developer."
+            },
+            {
+                "title": "4.",
+                "body": "Spin-coat AZ50XT on the wafer at 2200 rpm."
+            },
+            {
+                "title": "5.",
+                "body": "Use a mask \\("
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 2b**",
+        "body": [
+            ") of AZ features for UV exposure.",
+            {
+                "title": "6.",
+                "body": "After development with AZ 400T developer, heat the wafer at 125 ºC for 5 min to reflow the AZ photoresist.\r\n  • Control layer"
+            },
+            {
+                "title": "1.",
+                "body": "Spin-coat SU8-2050 on a silicon wafer at 3000 rpm."
+            },
+            {
+                "title": "2.",
+                "body": "Soft bake the wafer at 95ºC for 5 min and UV exposure with a mask \\("
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 2c**",
+        "body": [
+            ") for the control layer.",
+            {
+                "title": "3.",
+                "body": "Hard bake at 95ºC for 7 min and develop the wafer with SU8 developer.\r\n  • Filtering device"
+            },
+            {
+                "title": "1.",
+                "body": "Spin-coat SU8-2025 on a silicon wafer at 3000 rpm."
+            },
+            {
+                "title": "2.",
+                "body": "Soft bake the wafer at 95ºC for 5 min and UV exposure with a mask \\("
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 3**",
+        "body": [
+            ").",
+            {
+                "title": "3.",
+                "body": "Hard bake at 95ºC for 7 min and develop the wafer.\r\n  • Treat the two molds and a blank wafer with tridecafluoro-1,1,2,2-tetrahydrooctyl-1-trichlorosilane vapor in a vacuum desiccators at room temperature for at least 4hr. This process needs to be done in a hood because the chemical vapor is toxic.   \r\n\n\n\r\n\n\n_B. PDMS device fabrication_\r\n\n\n• Worm imaging device- The fabrication process is described in"
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 4**",
+        "body": [
+            ".",
+            {
+                "title": "1.",
+                "body": "Prepare Mixture #1 of PDMS \\(A and B in 5:1 ratio) and a mixture #2 of PDMS \\(A and B and Toluene in 20:1:10.5 ratio) in a chemical hood."
+            },
+            {
+                "title": "2.",
+                "body": "Pour Mixture #1 onto the control-layer master to obtain a 5 mm-thick layer in a 15-mm Petri dish and bake the dish for 20 min at 70 ºC to make PDMS layer"
+            },
+            {
+                "title": "1.",
+                "body": ""
+            },
+            {
+                "title": "3.",
+                "body": "Spin-coat Mixture #2 onto the blank wafer to give a  ~20 µm-thick layer and bake to cure for 10 min at 70 ºC ."
+            },
+            {
+                "title": "4.",
+                "body": "Peel off the PDMS layer 1 from the master and place it on the PDMS membrane."
+            },
+            {
+                "title": "5.",
+                "body": "Fully cure the combined PDMS layer for 2 hours at 70 ºC for bonding."
+            },
+            {
+                "title": "6.",
+                "body": "Spin-coat Mixture #1 onto the worm-loading layer master to give a 60 µm-thick layer and bake it for 2 hours at 70 ºC to give PDMS layer"
+            },
+            {
+                "title": "2.",
+                "body": ""
+            },
+            {
+                "title": "7.",
+                "body": "Peel off the PDMS layer 2 from the master and flip it over."
+            },
+            {
+                "title": "8.",
+                "body": "Align the combined PDMS layer and bond it onto the flipped PDMS layer 2 using oxygen plasma treatment \\[ref 2]."
+            },
+            {
+                "title": "9.",
+                "body": "Punch holes and bond it onto the cover glass.\r\n  • Filtering device"
+            },
+            {
+                "title": "1.",
+                "body": "Prepare mixture of PDMS \\(A and B in 10:1 ratio)."
+            },
+            {
+                "title": "2.",
+                "body": "Pour the mixture onto the filtering device master to obtain a 5 mm-thick layer in a 15-mm Petri dish and bake the dish for 2 hours at 70 ºC."
+            },
+            {
+                "title": "3.",
+                "body": "Peel off the PDMS layer, punch holes and bond it onto the cover glass using plasma treatment."
+            }
+        ]
+    },
+    {
+        "title": "**II. _C. elegans_ culture and sample preparation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Bleach adults using bleaching solution for ~5 min \\[ref 3].  Watch the adult animals in the solution; as the bodies start to disintegrate, stop the bleaching by diluting and washing with M9 as not to overbleach the embryos."
+            },
+            {
+                "title": "2.",
+                "body": "Let embryos hatch in M9 buffer for ~12 hr and transfer hatched first larval stage animals on Nematode Growth Medium \\(NGM) plates seeded with _E. coli_ OP50."
+            },
+            {
+                "title": "3.",
+                "body": "Culture the animals to the stage of interest."
+            },
+            {
+                "title": "4.",
+                "body": "Wash out animals from the NGM plate using M9 solution containing 0.5 % wt/vol Bovine Serum Albumin \\(BSA). Spin down and wash three times with the M9 solution to remove _E. coli_ from the worm suspension."
+            },
+            {
+                "title": "5.",
+                "body": "Flow the worm suspension through the filtering device to remove debris."
+            }
+        ]
+    },
+    {
+        "title": "**III. System operation**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Connect tubings and pins to the device properly and mount it on the stage of the microscope."
+            },
+            {
+                "title": "2.",
+                "body": "Prime the device with the buffer solution \\(M9)."
+            },
+            {
+                "title": "3.",
+                "body": "Set up cooling system.  The coolant is pumped through a tubing that is placed adjacent to the Peltier device."
+            },
+            {
+                "title": "4.",
+                "body": "Make sure that there is no leakage, and that the valves work properly.  Check the coolant temperature at the cooling inlet using a thermocouple.  The optimal temperature of the coolant is ~3 °C before going on the chip."
+            },
+            {
+                "title": "5.",
+                "body": "Run the Matlab code."
+            }
+        ]
+    },
+    {
+        "title": "**Fig. 5**",
+        "body": [
+            "shows the valve control configurations and sequences for imaging and sorting.",
+            {
+                "title": "6.",
+                "body": "Inject worm suspension into the device using pressure driven flow.  We use ~8 to 10 psi but the actual pressure will depend on each system setup \\(e.g. the length of the tubing)."
+            },
+            {
+                "title": "7.",
+                "body": "After performing imaging/sorting, flush the lines with enough buffer to collect animals and spin down the suspensions in the collection tubes."
+            },
+            {
+                "title": "8.",
+                "body": "Transfer animals onto NGM plates seeded with _E. coli_ OP50."
+            }
+        ]
+    }
+]

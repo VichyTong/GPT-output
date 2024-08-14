@@ -1,0 +1,38 @@
+[
+    {
+        "title": "1.",
+        "body": "Prepare urokinase standard by dilution of urokinase stock solution to 400 units/ml using water. Dilute urokinase solution \\(400 units/ml) in Tris buffer to 300, 200, 100. 50 units."
+    },
+    {
+        "title": "2.",
+        "body": "Add 200µl of Tris buffer to each well in a 96 well plate and incubate at 37°C for 5min."
+    },
+    {
+        "title": "3.",
+        "body": "Add 25µl of standard and sample \\(media sample from reactor, and eluate post purification)."
+    },
+    {
+        "title": "4.",
+        "body": "Incubate at 37°C for 1-2min"
+    },
+    {
+        "title": "5.",
+        "body": "Add 25µl of substrate to each well and incubate at 37 C for 5 min."
+    },
+    {
+        "title": "6.",
+        "body": "Add 25µl of 20% acetic acid to stop the reaction. Incubate for 5 min"
+    },
+    {
+        "title": "7.",
+        "body": "Simultaneously prepare a solution, following the same procedure, by adding 25µl of Tris buffer instead of standard or sample urokinase."
+    },
+    {
+        "title": "8.",
+        "body": "Mix the solution well and measure absorbance at 405 nm. The color is table for 4h."
+    },
+    {
+        "title": "9.",
+        "body": "Calculate the urokinase activity as  U/l = A x 229 \\(where A is absorbance)"
+    }
+]

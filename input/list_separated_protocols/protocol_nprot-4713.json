@@ -1,0 +1,14 @@
+[
+    {
+        "title": "1.",
+        "body": "Prepare a reaction mixture:  27.5 μL of master mix \\(0.05 units/μL Taq DNA Polymerase), 2.5 μL MgO nanoparticles \\(2.48 mM), 0.4 mM dNTPs, 1 μM of each forward/reverse primer and 20 μL of template DNA per 50 μL reactions."
+    },
+    {
+        "title": "2.",
+        "body": "Keep the reaction mixture in a thermocycler."
+    },
+    {
+        "title": "3.",
+        "body": "Program the thermocycler as follows:\r\n  3.1. Hold the sample at 95 <sup>◦</sup>C for 10 min\r\n\n\n3.2. Denature step at 95 <sup>◦</sup>C for 15 sec\r\n\n\n3.3. Anneal temperature of 65 <sup>◦</sup>C for 25 s \r\n\n\n3.4. Extend at 72 <sup>◦</sup>C for 15 sec\r\n\n\nfollowed by a uniform three-step amplification profile for another 45 cycles, and finally held at 4 <sup>◦</sup>C."
+    }
+]

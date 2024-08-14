@@ -1,0 +1,57 @@
+[
+    {
+        "title": "**1.  Test Compound Control**",
+        "body": ": \r\n\n\nCRITICAL: Prior to performing the cytotoxicity assay with any new test compound, always set up triplicate wells containing the vehicle and the test compound, incubate for the time period \\(1-4 hours) planned for the cytotoxicity assay and record fluorescence at 560/590nm. Performing this step will confirm whether or not the test compound directly reduces \\(or interacts in any other way with) the reagent dye. \r\n\n\nIf it is found that the test compound interferes with the reagent chemistry, it is necessary to perform the modification stated in the cytotoxicity assay protocol below \\(steps 6-8)"
+    },
+    {
+        "title": "**. **",
+        "body": [
+            "If found that the test compound does not interfere in any way with the reagent chemistry and the fluorescence recording between the vehicle and the drug is essentially the same, then the modification stated in the assay protocol below can be omitted, and the manufacture recommended protocol can be followed. \r\n\n\n\\(The current manufacture recommended protocol states that this test compound control step is optional, but based on the findings in the article, we recommend that this step be performed for every new drug tested. \r\n\n\nIf this step is not performed, then the modification in the assay protocol below must be performed always, to counter any potential unknown drug interaction with the reagent chemistry).\r\n\n\nOther controls such as ‘No cell control’, ‘Untreated cell control’ and ‘Positive Control for Cytotoxicity’ can be set up along with the assay protocol, as stated in the manufacture recommended protocol",
+            {
+                "title": "2.",
+                "body": "Set up 96-well assay plates containing cells in culture medium."
+            },
+            {
+                "title": "3.",
+                "body": "Add test compounds and vehicle controls to appropriate wells so the ﬁnal volume is 100µl in each well."
+            },
+            {
+                "title": "4.",
+                "body": "Culture cells for the desired test exposure period."
+            },
+            {
+                "title": "5.",
+                "body": "Remove assay plates from 37°C incubator."
+            }
+        ]
+    },
+    {
+        "title": "**6. For adherent cell lines, gently suction the contents of the well by placing the suction tip at the bottom edge of the well with a low suction pressure**",
+        "body": "."
+    },
+    {
+        "title": "**\\(For non-adherent cell lines, centrifuge the cells at 1200rpm for 5 min before performing steps 6-8, and suction gently.)**",
+        "body": []
+    },
+    {
+        "title": "**7. Add 100ul of Phosphate Buffered Saline \\(PBS) to wash the cells and suction the PBS in the same manner.**",
+        "body": []
+    },
+    {
+        "title": "**8. Add 100uL of fresh media.**",
+        "body": [
+            {
+                "title": "9.",
+                "body": "Add 20µl/well of Cell Titer-Blue Reagent and shake for 10 seconds."
+            },
+            {
+                "title": "10.",
+                "body": "Incubate using standard cell culture conditions for 1–4 hours."
+            },
+            {
+                "title": "11.",
+                "body": "Shake plate for 10 seconds and record ﬂuorescence at 560/590nm."
+            }
+        ]
+    }
+]

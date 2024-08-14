@@ -1,0 +1,71 @@
+[
+    "\nCell culture.",
+    {
+        "title": "1.",
+        "body": "WB cells grow in DMEM supplemented with 10% FBS and 11.1 mM D-glucose, 100 U/ml penicillin, and 100 μg/ml STZ."
+    },
+    {
+        "title": "2.",
+        "body": "INS-1 cells grow in 1640 medium.\r\n  Induction of WB cells into IPCs.\r\n\n\nIn the first step :chromatin remodeling"
+    },
+    {
+        "title": "1.",
+        "body": "6-well plates plate WB cells in a basal medium at a density of 2 x 105 per well containing knockout-serum DMEM and the main components: 1mM β-mercaptoethanol, 1% non-essential amino acids, 1% B27 supplement, 2 mM L-glutamine, 2% N2 supplement, 20 ng/ml fibroblast growth factor, 20 ng/ml epidermal growth factor, 100 U/ml penicillin, and 100 mg/ml STZ."
+    },
+    {
+        "title": "2.",
+        "body": "5 μM 5-AZA treat with Cells for 48 hours.\r\n  3.100 nM TSA treat with cells for 24 hours.\r\n\n\nIn the second step :induction and differentiation"
+    },
+    {
+        "title": "4.",
+        "body": "Cells grow in DMEM with 1 g/L glucose, 1x ITS , 2 μM RA and the main components for 7 days and induce to Pdx-1 expressed cells \\(WB-A cells).\r\n  In the last step \\(maturation)"
+    },
+    {
+        "title": "5.",
+        "body": "10 mM nicotinamide in the main components without fibroblast growth factor and epidermal growth factor treat WB-A cells for 7 days to induce to IPCs.\r\n  Glucose-stimulated insulin release assay in WB-A cells and IPCs in vitro."
+    },
+    {
+        "title": "6.",
+        "body": "Serum-free DMEM with low glucose incubate cells."
+    },
+    {
+        "title": "7.",
+        "body": "Serum-free medium containing 0.5% bovine serum albumin and 5.5 mM glucose starve WB-A cells and IPCs overnight and 25 mM glucose stimulate with for 2 hours.\r\n  TEM in IPCs in vitro."
+    },
+    {
+        "title": "8.",
+        "body": "A single intraperitoneal injection of STZ at 65 mg/kg body weight inject to WB-A cells \\(n=6) and WB \\(n=6) cells and 50 μl PBS \\(n=3)"
+    },
+    {
+        "title": "9.",
+        "body": "When blood glucose reached levels >16.7 mmol/L, DM rats receive 1x 106 WB-A \\(n=6) cells/rat in 50 μl PBS, and negative controls receive 50 μl PBS \\(n=3)."
+    },
+    {
+        "title": "10.",
+        "body": "Samples receive assay of fasting blood glucose levels every 3 days in samples obtained from the tail vein using a blood glucose test meter and strips."
+    },
+    {
+        "title": "11.",
+        "body": "Three of the six WB-A cell-implanted rats undergo nephrectomy at day"
+    },
+    {
+        "title": "36.",
+        "body": "The others undergo nephrectomy at day 60 posttransplantation to assess metabolic activity of the transplanted WB-A cells.\r\n  IPGTT and glucose-stimulated insulin release assay in vivo."
+    },
+    {
+        "title": "12.",
+        "body": "After 6 h of fasting, samples receive assay of fasting glucose and insulin levels from venous blood from small tail clips."
+    },
+    {
+        "title": "13.",
+        "body": "Three groups inject 2 g/kg body glucose intraperitoneally. Blood glucose values were obtained at 15, 30, 60, 90, 120 min. Insulin values were obtained at 30, 60, 90, 120, 150, 180min. \r\n  Histology and immunofluorescence."
+    },
+    {
+        "title": "14.",
+        "body": "4% paraformaldehyde for 48 hours at 4ºC fix explanted tissues and rat pancreas tissues in samples overnight in a 30% sucrose solution, and embedded with embedding medium. Sections were stained with HE."
+    },
+    {
+        "title": "15.",
+        "body": "Cells and sections receive performation of immunofluorescence of insulin."
+    }
+]

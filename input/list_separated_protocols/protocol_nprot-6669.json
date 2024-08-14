@@ -1,0 +1,72 @@
+[
+    {
+        "title": "**Step A: removing non-invertebrate contamination based on BLASTX hits**",
+        "body": [
+            "The input to Step A is an initial genome assembly for a parasitic worm.",
+            {
+                "title": "1.",
+                "body": "Each scaffold of the initial genome assembly is split into 50 kb chunks."
+            },
+            {
+                "title": "2.",
+                "body": "For each 50 kb chunk, BLASTX is run against two in-house sequence databases consisting of \\(i) all invertebrate proteins from GenBank, and \\(ii) all proteins in the full proteomes of representative species from major non-invertebrate taxa \\(bacteria, vertebrates, fungi, plants, etc.), respectively. Only representative species are included here to reduce run-time. The –dbsize BLAST option is used to ensure that the E values from searching databases of different sizes are comparable."
+            },
+            {
+                "title": "3.",
+                "body": "For a particular chunk, if the e-value for its top non-invertebrate hit is 1E+10 fold lower than the e-value of its top invertebrate hit \\(e.g. E-60 versus E-50), the chunk is considered to be contaminant."
+            },
+            {
+                "title": "4.",
+                "body": "If more than half of the chunks of a scaffold are classified as contaminant, the whole scaffold is considered contaminant and is removed from the assembly. \r\n  \r\n\n\nThe output from Step A is a genome assembly from which likely contaminant scaffolds have been removed."
+            }
+        ]
+    },
+    {
+        "title": "**Step B: removing non-invertebrate contamination based on BLASTP hits**",
+        "body": [
+            "The input to Step B is the de-contaminated genome assembly from Step A above, and a set of protein-coding gene predictions for this assembly \\(e.g. from a gene-finding software such as Augustus \\(Hoff & Stanke 2013)), along with their predicted protein sequences.",
+            {
+                "title": "1.",
+                "body": "BLASTP searches \\(using the –dbsize option) of predicted proteins from genes on scaffolds remaining after Step A are run against the search databases listed in Step A above."
+            },
+            {
+                "title": "2.",
+                "body": "For each protein, if its top BLASTP hit is to a non-invertebrate protein, and has an e-value that is 1E+50 times lower than that of the best invertebrate hit, then the gene is considered a putative contaminant gene."
+            },
+            {
+                "title": "3.",
+                "body": "Conversely, if the top hit is to an invertebrate protein, and its e-value is 1E+50 times lower than that of the best non-invertebrate hit, the gene is classified as non-contaminant."
+            },
+            {
+                "title": "4.",
+                "body": "If more than half of the classified genes on a scaffold are considered contaminant, then the scaffold is classified as contaminant and removed from the assembly.\r\n  \r\n\n\nThe output from Step B is a genome assembly from which any additional likely contaminant scaffolds have been removed."
+            }
+        ]
+    },
+    {
+        "title": "**Step C: removing contamination from other invertebrates, based on BLASTP hits**",
+        "body": [
+            "Step C is a more stringent version of Step B, designed to remove contamination originating from other invertebrates \\(for example, flatworm contamination in a nematode assembly), as well as any residual contamination from non-invertebrates \\(e.g. bacteria) not removed by Steps A or B.\r\n\n\n\r\n\n\nThe input to Step C is the de-contaminated genome assembly from Step B above, and a set of protein-coding gene predictions for this assembly.",
+            {
+                "title": "1.",
+                "body": "For the non-contaminant scaffolds that remain after step B, predicted protein sequences for genes on these scaffolds are BLASTP-searched \\(with the –dbsize option) against the database of non-invertebrate proteins used in steps A and B, plus either nematode or flatworm protein sequences from GenBank."
+            },
+            {
+                "title": "2.",
+                "body": "For each query gene on a scaffold from a flatworm species’ assembly, the top ten BLASTP hits in nematodes/non-invertebrates and in the flatworm database are recorded."
+            },
+            {
+                "title": "3.",
+                "body": "If the top five of these ten BLAST hits are to nematodes/non-invertebrates, and the e-value of the worst nematode/non-invertebrate hit is at least 5 orders of magnitude lower than the e-value of the best flatworm hit, the query gene is considered to be a contaminant gene."
+            },
+            {
+                "title": "4.",
+                "body": "Conversely, if the top five of the ten hits are to flatworm, and the e-value of the worst flatworm hit is 5 orders of magnitude lower than that of the best nematode/non-invertebrate hit, the query gene is considered a non-contaminant gene."
+            },
+            {
+                "title": "5.",
+                "body": "If a scaffold has one or more contaminant genes, and no non-contaminant genes, it is considered to be a contaminant scaffold and removed.\r\n  \r\n\n\nThe output from Step C is a genome assembly from which any additional likely contaminant scaffolds have been removed."
+            }
+        ]
+    }
+]

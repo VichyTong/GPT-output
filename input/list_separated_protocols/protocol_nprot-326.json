@@ -1,0 +1,71 @@
+[
+    {
+        "title": "**Histology and immunohistochemical analysis**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Euthanize adult mice \\(C57bl/6 strain) by CO<sub>2</sub> and embed globes in cryomolds containing Tissue-Tek OCT compound and frozen on dry ice."
+            },
+            {
+                "title": "2|",
+                "body": "Cut frozen sections \\(10 µm thickness) with a Leica 3060S cryostat and collect on SuperFrost/ Plus slides and store at -70°C."
+            },
+            {
+                "title": "3|",
+                "body": "Prior to immunolabeling, allow slides to air dry under vacuum for 20 minutes."
+            },
+            {
+                "title": "4|",
+                "body": "Fix sections for 10 minutes in 4% formaldehyde in 1X PBS, wash repeatedly in 1X PBS, prior to blocking in 5% normal goat serum in immunolabeling buffer"
+            },
+            {
+                "title": "5|",
+                "body": "For paraffin embedded sections fix eyes in 10% Formalin \\(overnight)"
+            },
+            {
+                "title": "6|",
+                "body": "Embed globe in paraffin and cut 5μm sections with a microtome"
+            },
+            {
+                "title": "7|",
+                "body": "Paraffinize sections used for antibody staining as follows: \r\n\n\n- Incubate in xylene for 3 minutes each \\(3X). \r\n\n\n- Incubate in 100% ethanol for 2 minutes \\(2X). \r\n\n\n- Hydrate by placing slide in 95% ethanol for 2 minutes \\(2X) \r\n\n\n- Then 70% ethanol for 2 minutes \\(2X)\r\n\n\n- Then 50% ethanol for 2 minutes \\(2X)\r\n\n\n- Then 30% ethanol for 2 minutes \\(2X)\r\n\n\n- Transfer sections to distilled water."
+            },
+            {
+                "title": "8|",
+                "body": "Block with normal rabbit serum for 1 hr."
+            },
+            {
+                "title": "9|",
+                "body": "Dilute rabbit polyclonal antibody to IL-27 to 5 and 10µg/ml in immunolabeling buffer \\(stock antibody =500ug/ml/ working dilutions of 1:50 and 1:100)."
+            },
+            {
+                "title": "10|",
+                "body": "Incubate sections in diluted primary antibody overnight at 4°C in a humidified chamber."
+            },
+            {
+                "title": "11|",
+                "body": "Rinse sections in immunolabeling buffer \\(3X)"
+            },
+            {
+                "title": "12|",
+                "body": "Then incubate in Alexa 568 conjugated goat anti-rabbit secondary antibody containing DAPI \\(1µg/ml) for 1hr at room temperature in an opaque chamber."
+            },
+            {
+                "title": "13|",
+                "body": "Wash sections in immunolabeling buffer \\(3X)"
+            },
+            {
+                "title": "14|",
+                "body": "Then mount in anti-fading agent and cover with cover-slip. Primary antibody was omitted from sections used as negative controls."
+            },
+            {
+                "title": "15|",
+                "body": "Examine sections on a Leica SP2 laser scanning confocal microscope"
+            },
+            {
+                "title": "16|",
+                "body": "All images were collected under identical PMT detector settings."
+            }
+        ]
+    }
+]

@@ -1,0 +1,197 @@
+[
+    "\n_Pre-operation:_",
+    {
+        "title": "1.",
+        "body": "Dissolve LPC in sterile PBS to achieve a final concentration of 1% weight per volume \\(w/v). The solution can be aliquoted and stored at -20°C until use."
+    },
+    {
+        "title": "2.",
+        "body": "Prepare the capillary for LPC injection. Pull the glass micropipette using the Micropipette Puller using following settings: Heat, 815; Pull, 30; Velocity, 50; Delay, 200; Pressure, 200."
+    },
+    {
+        "title": "3.",
+        "body": [
+            "Remove the needle tube of 23-guage injection needle from plastic needle hab. Insert the needle tube \\(non-needle tip side) into the glass micropipette \\(intact side) to a depth of slightly less than 1 cm. Bond the needle tube and glass capillary with adhesive \\(Fig. 1a). Don’t move the apparatus until the adhesive cures. \r\n  ",
+            {
+                "title": "**TIP:**",
+                "body": "Keep straight of needle tube after removal from injection needle. A bent needle tube prevents the adequate volume of LPC injection. \r\n\n\n\r\n\n\n_LPC injection:_\r\n\n\nAdminister anesthetics at least 30 min before surgery. Our labotratory utilizes a mixture of \\(Dormicam, 4 mg/kg; Vetorphale, 5 mg/kg; Domitor 4 mg/kg) administered by intraperitoneal injection."
+            },
+            {
+                "title": "**TIP:**",
+                "body": "Other anesthetics may be used, but timing of injection and dosage should be optimized prior to performing surgery in order to ensure that animals are properly anesthetized."
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": "Set up the instrument for LPC injection. Insert the needle tube \\(needle tip side) conjugated to the glass capillary into the Polyethylene tube. Thirty centimeters of Polyethylene tube is sufficient."
+    },
+    {
+        "title": "2.",
+        "body": "After connecting the Polyethylene tube with a 1 ml syringe using a 23-guage injection needle, fill the injector \\(capillary and tube) with sterile water by using 1 ml syringe. Subsequently, detach the connection of the 1 ml syringe with Polyethylene tube, and connect the tube with a Microsyringe filled with sterile water."
+    },
+    {
+        "title": "3.",
+        "body": [
+            "Hang the glass capillary on the Stereotaxic Micromanipulator \\(Fig. 1b).\r\n  ",
+            {
+                "title": "**TIP:**",
+                "body": "Cut the tip of capillary if the tip is too thin."
+            }
+        ]
+    },
+    {
+        "title": "4.",
+        "body": [
+            "Mouse surgery. Verify that the mouse anesthetized state by checking reflexes using a hind-paw pinch. Shave dorsal body hair and disinfect the skin by iodine tincture. Incise the dorsal skin vertically \\(Fig.",
+            {
+                "title": "1c)",
+                "body": "and expose the vertebral column by cutting the muscle on the column \\(Fig. 1d)."
+            }
+        ]
+    },
+    {
+        "title": "5.",
+        "body": "Carefully remove the bones making up the spinal column \\(laminectomy) using micro forceps \\(Fig. 1e)."
+    },
+    {
+        "title": "6.",
+        "body": "Place the mouse on the plate of the Stereotaxic Instrument \\(Fig. 1f)."
+    },
+    {
+        "title": "7.",
+        "body": [
+            "Absorb LPC into the capillary. Drain the water by pushing the plunger of the Microsyringe. \r\n  ",
+            {
+                "title": "**TIP:**",
+                "body": "Keep the filling water in the glass capillary and Polyethylene tube."
+            }
+        ]
+    },
+    {
+        "title": "8.",
+        "body": "Pull back the plunger on the Microsyringe to the 0.8 μl mark. Confirm the entering air on the tip of capillary."
+    },
+    {
+        "title": "9.",
+        "body": "Drop the proper quantity of LPC solution on parafilm \\(3 - 4 μl). Place the parafilm which put LPC solution under the tip of glass capillary which is set on Stereotaxic Micromanipulator."
+    },
+    {
+        "title": "10.",
+        "body": [
+            "Touch the tip of the glass capillary to LPC solution. Pull back the plunger on the Microsyringe to the end of taking LPC \\(Fig. 1b). \r\n  ",
+            {
+                "title": "**TIP:**",
+                "body": "Do not suck air into the glass capillary. Success of drawing LPC into the glass capillary is confirmed by the moving the bubble which is formed between LPC solution and water. If it is difficult to take LPC solution into the capillary, cut the tip of capillary to draw the liquid more smoothly."
+            }
+        ]
+    },
+    {
+        "title": "11.",
+        "body": [
+            "Before LPC injection, cut the meninges around the target area of LPC injection using a 26-guage injection needle. \r\n  ",
+            {
+                "title": "**TIP:**",
+                "body": "Don’t damage the blood vessel which runs on the surface of the spinal cord."
+            }
+        ]
+    },
+    {
+        "title": "12.",
+        "body": "Insert the glass capillary into the spinal cord. To cause demyelination of the corticospinal tract, a descending motor tract that mainly runs through dorsal column in mouse, insert the glass capillary to 0.5 mm depth from the surface of dorsal spinal cord tissue."
+    },
+    {
+        "title": "13.",
+        "body": "Inject 2 µl of 1% \\(w/v) LPC into the dorsal funiculus of the thoracic spinal cord by pushing the plunger of Microsyringe. To prevent back flow of LPC, take at least 2 minutes for LPC injection."
+    },
+    {
+        "title": "14.",
+        "body": [
+            "Withdraw the glass capillary slowly. Sew up the fascia to cover the spinal cord tissue by surgical suture. Close the cut skin and disinfect the skin by iodine tincture.\r\n  ",
+            {
+                "title": "**TIP:**",
+                "body": [
+                    "To visualize the demyelination, immunohistochemical analysis of spinal cord sections obtained from the mice which received LPC injection may be helpful. Demyelination and subsequent remyelination can be observed around the site of LPC injection \\(Fig.",
+                    {
+                        "title": "2).",
+                        "body": "Confirmation of successful LPC injection into the dorsal spinal cord can also be detected by the behavioral assessment \\(see below)."
+                    }
+                ]
+            },
+            {
+                "title": "**Behavior assessment:**",
+                "body": "_A. Beam walking test_"
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": [
+            "Assemble the equipment for the beam walking test. Fit the wooden beam \\(1 m long) with the appropriate width into the frame, and place the box for the mouse to enter at the edge of the beam. The height of the beam is 15 cm from the ground \\(Fig. 3a and b).\r\n  ",
+            {
+                "title": "**TIP:**",
+                "body": "Keep the beam horizontal."
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Place the mouse at the edge \\(opposite of box), and allow it to walk on the beam toward the box. Usually the mouse should perform three separate walks per trial.\r\n  ",
+            {
+                "title": "**TIP:**",
+                "body": "Record the mouse walking from behind using a video camera."
+            },
+            {
+                "title": "**TIP:**",
+                "body": "We usually subject the mice to pre-training sessions \\(three walks at a time, 2 days)."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": [
+            "Give the score of every footstep of each hindlimb according to the following criteria: 0 = normal, no footslip; 1 = mild footslip, in which a part of foot is seen below the surface of the beam; 2 = severe footslip, in which whole foot is seen below the surface of the beam \\(Fig. 3c). Total scores were created by summing the individual scores. Obtain the data by taking the average of three trials per beam per mouse \\(Fig.",
+            {
+                "title": "3d)",
+                "body": "_B. Ladder walking test_"
+            }
+        ]
+    },
+    {
+        "title": "1.",
+        "body": "Fit the ladder \\(1 m long) into the frame \\(Fig. 3e), and place a refuge \\(home cage) at the end. The ladder should be positioned 15 cm from the ground."
+    },
+    {
+        "title": "2.",
+        "body": "Insert the metal rung \\(3 mm diameter) to create a floor surface with a minimum distance of 6 mm between rungs."
+    },
+    {
+        "title": "3.",
+        "body": [
+            "Place the mouse at the start of ladder, and walk on the ladder toward home cage \\(Fig. 3f). \r\n  ",
+            {
+                "title": "**TIP:**",
+                "body": "Change the arrangement of metal rung, which are not spaced equally, for each trial."
+            },
+            {
+                "title": "**TIP:**",
+                "body": "We usually subjected the mice to pre-training sessions \\(three walks at a time, 2 days)."
+            }
+        ]
+    },
+    {
+        "title": "4.",
+        "body": [
+            "For the test, let mouse transverse the ladder 3 times per trial. \r\n  ",
+            {
+                "title": "**TIP:**",
+                "body": "Record the mouse walking by using video camera. Position the camera at a slight ventral angle to record the movement of all limbs which are reflected by the mirror at the bottom of ladder."
+            }
+        ]
+    },
+    {
+        "title": "5.",
+        "body": "Give the score of every footstep of each hindlimb according to the following criteria: 0 = normal, no footslip; 1 = mild and severe footslip, in which a part of foot or whole foot is seen below the surface of the rung \\(Fig. 3g). Total scores were created by summing the individual scores. Obtain the data by taking the average of three trials per walk per mice \\(Fig. 3h)."
+    }
+]

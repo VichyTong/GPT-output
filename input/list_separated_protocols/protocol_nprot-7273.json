@@ -1,0 +1,75 @@
+[
+    "\nChromatin Immunoprecipitation assay\r\n\n\nCrosslinking and sample collection",
+    {
+        "title": "1.",
+        "body": "Collect approximately 5 × 10<sup>8</sup> cells from a exponentially growing yeast culture"
+    },
+    {
+        "title": "2.",
+        "body": "Crosslink the cells by adding formaldehyde 1% \\(v/v) to the growth medium and incubate 15 min"
+    },
+    {
+        "title": "3.",
+        "body": "Stop crosslinking adding glycine 125 mM and incubate during 5 minutes"
+    },
+    {
+        "title": "4.",
+        "body": "Collect the cells by centrifugation at 4000xg and washed four times with 25 mL of cold TBS buffer at 4ºC"
+    },
+    {
+        "title": "5.",
+        "body": "Cells can be stored at -20ºC \r\n  \r\n\n\nInmunoprecipitation"
+    },
+    {
+        "title": "6.",
+        "body": "Resuspend the cell pellet in 300 μL of Lysis buffer"
+    },
+    {
+        "title": "7.",
+        "body": "Lyse the cells by vortexing with glass beads for 30 min at 4°C with Genie-2 \\(Scientific Ind.) and supplement with lysis buffer to a final volume of 600 μL"
+    },
+    {
+        "title": "8.",
+        "body": "Fragment the chromatin by sonication using a BioRuptor Diagenode with discontinuous pulses during 10 min"
+    },
+    {
+        "title": "9.",
+        "body": "Centrifuge the sample at 13400xg for 15 min at 4°C"
+    },
+    {
+        "title": "10.",
+        "body": "Keep 20 μL from the supernatant as a control of whole-cell extract \\(Input)"
+    },
+    {
+        "title": "11.",
+        "body": "Incubate the remaining volume with orbital rotation for 2 h at 4°C with Dynabeads Protein G \\(Invitrogen) previously bound to a specific antibody"
+    },
+    {
+        "title": "12.",
+        "body": "Wash the beads 4 times in PBS containing 0.02% \\(v/v) Tween 20"
+    },
+    {
+        "title": "13.",
+        "body": "Elute the bound protein with two times 40 μL of Elution buffer by heating at 65°C for 8 min\r\n  \r\n\n\nDeproteinization, DNA purification and qRT-PCR"
+    },
+    {
+        "title": "14.",
+        "body": "Revert the cross-linking by overnight incubation at 65°C shaking"
+    },
+    {
+        "title": "15.",
+        "body": "Digest the eluted sample for 90 min at 37°C with 0.33 mg/mL proteinase K \\(Roche Diagnostics)"
+    },
+    {
+        "title": "16.",
+        "body": "Purify the DNA using the High Pure PCR product purification kit \\(Roche Diagnostics)"
+    },
+    {
+        "title": "17.",
+        "body": "Analyse the co-immunoprecipitated DNA in triplicate by quantitative PCR in a DNA Engine Peltier Termal Cycler \\(Bio Rad) using the SYBR® Premix Ex TaqTM Tli RNase H Plus Green with ROX \\(Takara)"
+    },
+    {
+        "title": "18.",
+        "body": "Binding values indicates the specific enrichment of the analysed promoter region in the immunoprecipitated sample compared to the whole cell extract \\(Input) using the intergenic region as a control, calculated with the ΔΔCT method. Values are relative to the no tag control strain \\(value of 1 equivalent to no specific enrichment of the analysed region)\r\n  \r\n\n\nSchmittgen, T.D. and Litvak, K.J. \\(2008) Analyzing real-time PCR data by the comparative CT method. Nat. Protoc. 3, 1101–1108doi:10.1038/nprot.2008.73\r\n\n\n\r\n\n\n\r\n\n\nGEN PROMOTER ANALYSED REGION\r\n\n\nCLN2 –753 to –428\r\n\n\nRNR1 –725 to –442\r\n\n\nFKS1 –556 to –304\r\n\n\nMNM1 –755 to –456"
+    }
+]

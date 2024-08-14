@@ -1,0 +1,148 @@
+[
+    {
+        "title": "1",
+        "body": [
+            {
+                "sentence": "Add 11ul of 100mM DTT in extraction buffer 2 to the tissue lysate.",
+                "result": [
+                    {
+                        "ADD": {
+                            "emit": [
+                                {
+                                    "reagent0": "tissue lysate"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "extraction buffer 2"
+                                },
+                                {
+                                    "reagent2": "100mM DTT"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "2",
+        "body": [
+            {
+                "sentence": "Incubate at 56\u00b0C for 1hr.",
+                "result": [
+                    {
+                        "INCUBATE": {
+                            "emit": [
+                                {
+                                    "reagent0": "tissue lysate"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "tissue lysate"
+                                },
+                                {
+                                    "temperature": "56\u00b0C"
+                                },
+                                {
+                                    "time": "1hr"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "3",
+        "body": [
+            {
+                "sentence": "Leave solution to cool to room temperature before adding 12\u03bcl of 550mM IAA in extraction buffer.",
+                "result": [
+                    {
+                        "LEAVE": {
+                            "emit": [
+                                {
+                                    "reagent0": "solution"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "solution"
+                                },
+                                {
+                                    "temperature": "room temperature"
+                                },
+                                {
+                                    "time": "<blank>"
+                                },
+                                {
+                                    "environment": "<blank>"
+                                },
+                                {
+                                    "device": "<blank>"
+                                },
+                                {
+                                    "notice": "<blank>"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "ADD": {
+                            "emit": [
+                                {
+                                    "reagent0": "solution"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "solution"
+                                },
+                                {
+                                    "reagent2": "550mM IAA in extraction buffer"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "4",
+        "body": [
+            {
+                "sentence": "Incubate at room temperature for 30min in the dark.",
+                "result": [
+                    {
+                        "INCUBATE": {
+                            "emit": [
+                                {
+                                    "reagent0": "tissue lysate"
+                                }
+                            ],
+                            "slot": [
+                                {
+                                    "reagent1": "tissue lysate"
+                                },
+                                {
+                                    "temperature": "room temperature"
+                                },
+                                {
+                                    "time": "30min"
+                                },
+                                {
+                                    "environment": "dark"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

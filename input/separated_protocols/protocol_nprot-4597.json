@@ -1,0 +1,5 @@
+[
+    "1. Copy the TIF files you want to analyze into the 'data' folder.\r\n  ",
+    "2. Run the 'APos_Segment_and_Track.m' routine.\r\n  ",
+    "3. Run the 'BPos_Evaluate_Stripes.m' routine."
+]

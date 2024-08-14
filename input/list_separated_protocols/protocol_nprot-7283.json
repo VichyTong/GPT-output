@@ -1,0 +1,123 @@
+[
+    "\nSample collection",
+    {
+        "title": "1.",
+        "body": "Collect 5x107 cells from the exponentially growing yeast culture"
+    },
+    {
+        "title": "2.",
+        "body": "Centrifuge the cells at 2300xg for 2 min. Discard the supernatant"
+    },
+    {
+        "title": "3.",
+        "body": "Wash in 1ml of distilled H2O and pass into an eppendorf"
+    },
+    {
+        "title": "4.",
+        "body": "Centrifuge at 2300xg for 2 min. Remove the supernatant with the vacuum.\r\n  *Freeze the cells at -20°C if the protocol will be continued the next day.\r\n\n\nProtein extraction with NaOH"
+    },
+    {
+        "title": "5.",
+        "body": "Add 100μL of distilled H2O to resuspend the cell pellet. Then add 100μL of 0.2M NaOH \\(this treatment disrupts the cell wall) and vortex"
+    },
+    {
+        "title": "6.",
+        "body": "Incubate the sample at room temperature for 5-10 min"
+    },
+    {
+        "title": "7.",
+        "body": "Centrifuge at 13400xg for 1 min. Remove the supernatant with a vacuum pump"
+    },
+    {
+        "title": "8.",
+        "body": "Add 50μL of the 2X SDS-PAGE sample solvent and vortex until to resuspend"
+    },
+    {
+        "title": "9.",
+        "body": "Place the samples on the thermoblock at 95°C for 5 min"
+    },
+    {
+        "title": "10.",
+        "body": "Centrifuge at 800xg for 10 min at 4°C"
+    },
+    {
+        "title": "11.",
+        "body": "Carefully collect the supernatant \\(protein extract) – Do not touch the pellet- and pass it into a new eppendorf. Keep these eppendorfs on ice or at -20°C if the protocol will be continued the next day \r\n  Sample normalization"
+    },
+    {
+        "title": "12.",
+        "body": "Normalization of the samples is performed based on a Bradford assay\r\n        Each eppendorf should contain:\r\n\n\n0.5μL of the protein sample to be quantified\r\n\n\n800μL distilled H2O\r\n\n\n200μL Protein Assay Dye Reagent"
+    },
+    {
+        "title": "13.",
+        "body": "Leave the samples for 5 min at room temperature"
+    },
+    {
+        "title": "14.",
+        "body": "Measure absorbance at A595."
+    },
+    {
+        "title": "15.",
+        "body": "Equivalent amount of each protein sample is loaded into PAGE- gel based on this measurement\r\n  \r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\nElectrophoresis"
+    },
+    {
+        "title": "16.",
+        "body": "Prepare the SDS-PAGE polyacrylamide gels and place them in the electrophoresis system"
+    },
+    {
+        "title": "17.",
+        "body": "Run the electrophoresis at 100V for 2 h approximately depending on the migration you need \r\n  \r\n\n\nMembrane Transfer"
+    },
+    {
+        "title": "18.",
+        "body": "Take a tray and pour Transfer Buffer"
+    },
+    {
+        "title": "19.",
+        "body": "Place the plastic holder required to make the membrane sandwich"
+    },
+    {
+        "title": "20.",
+        "body": "For a wet-BioRad transfer system, place a nitrocellulose membrane in contact with the acrylamide gel between 2 filter papers on top and bottom making sure all have been bathed in transfer buffer. To avoid bubbles being trapped, you may press down with a glass rod. Close the sandwich"
+    },
+    {
+        "title": "21.",
+        "body": "Place the sandwich on the correct direction in the sandwich support. Place the whole apparatus into the transfer system. Ensure to place some ice blocks to avoid over-heating. Fill the container with transfer buffer"
+    },
+    {
+        "title": "22.",
+        "body": "Set the voltage at 100V and run for 45 min\r\n  \r\n\n\nProtein Detection"
+    },
+    {
+        "title": "23.",
+        "body": "Wash the membrane with TBS-T buffer \\(and place it with agitation)"
+    },
+    {
+        "title": "24.",
+        "body": "Incubate with the blocking agent for 1h"
+    },
+    {
+        "title": "25.",
+        "body": "Discard the blocking agent and pour the primary antibody mixture onto the membrane. Incubate the membrane with the primary antibody overnight"
+    },
+    {
+        "title": "26.",
+        "body": "Prepare the secondary antibody mixture with the corresponding dilution required"
+    },
+    {
+        "title": "27.",
+        "body": "Discard the primary antibody mixture. Wash the membranes 3 x 15 min with TBS-T"
+    },
+    {
+        "title": "28.",
+        "body": "Discard TBS-T and add the secondary antibody. Incubate the membranes with the secondary antibody for 1h"
+    },
+    {
+        "title": "29.",
+        "body": "Discard the secondary antibody and again, wash the membranes 3 x 15 min with TBS-T"
+    },
+    {
+        "title": "30.",
+        "body": "Blots are developed using the Supersignal West Femto Maximum Sensitivity Substrate \\(Thermo Scientific). Bands are observed in a ImageQuant™ LAS 4000mini biomolecular imager \\(GE Healthcare).\r\n  \r\n\n\nPRIMARY ANTIBODY  SECONDARY ANTIBODY\r\n\n\nMonoclonal anti-HA peroxidase 3F10 antibody \r\n\n\n\\(Roche Diagnostics, 12013819001)\r\n\n\nDiluted 1:5000 Not required\r\n\n\nMonoclonal anti-c-myc 9E10 antibody \r\n\n\n\\(Roche Diagnostics, 1667149) \r\n\n\nDiluted 1:5000 Goat Anti-mouse IgG \\(H+L) \r\n\n\nHorseradish Peroxidase conjugate  \r\n\n\n\\(170-6516, Pierce Antibody, Thermo Scientific) Diluted 1:20000\r\n\n\nMonoclonal anti-GFP \r\n\n\n\\(Roche Diagnostics, 11814460001) \r\n\n\nDiluted 1:5000 Goat Anti-mouse IgG \\(H+L) \r\n\n\nHorseradish Peroxidase conjugate  \r\n\n\n\\(170-6516, Pierce Antibody, Thermo Scientific) Diluted 1:20000\r\n\n\nMonoclonal anti-FLAG M2 \r\n\n\n\\(Sigma-Aldrich, F3165) \r\n\n\nDiluted 1:10000 Goat Anti-mouse IgG \\(H+L) \r\n\n\nHorseradish Peroxidase conjugate  \r\n\n\n\\(170-6516, Pierce Antibody, Thermo Scientific) Diluted 1:20000\r\n\n\nMonoclonal anti Cdc2 p34 \\(PSTAIRE) \r\n\n\n\\(Santa Cruz Biotechnology Inc. SC-53) \r\n\n\nDiluted 1:2000 Goat Anti-rabbit IgG \\(H+L) \r\n\n\nHorseradish Peroxidase conjugate  \r\n\n\n\\(31460, Pierce Antibody, Thermo Scientific) \r\n\n\nDiluted 1:20000"
+    }
+]

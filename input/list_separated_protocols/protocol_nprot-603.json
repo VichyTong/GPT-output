@@ -1,0 +1,73 @@
+[
+    {
+        "title": "**A. Isolation of embryos**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Dissect out mouse embryos in DMEM + 25 mM HEPES"
+            },
+            {
+                "title": "2.",
+                "body": "Embryos should be staged by somite counting to avoid noise due to normal intra and inter litter variation in development"
+            },
+            {
+                "title": "3.",
+                "body": "If rapid genotyping \\(or assignment of genotype by phenotype) is possible embryos may be pooled, otherwise process separately in microtitre well plates"
+            }
+        ]
+    },
+    {
+        "title": "**B. CMFDG labelling of a single cell suspension**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "In order to reduce background fluorescence block endogenous lysosomal β-galactosidase activity by incubating embryos in 0.3mM chloroquine diluted in DMEM + 25 mM HEPES containing 5% FCS and incubated at 37 °C, 5% CO<sub>2</sub> for 30 minutes"
+            },
+            {
+                "title": "2.",
+                "body": "Rinse embryos three times in PBS, then incubate in 0.25% trypsin in PBS for approximately 30 minutes"
+            },
+            {
+                "title": "3.",
+                "body": "During step 2 dissociate embryos into a single cell suspension by trituration every 5-10 minutes using plastic pipettes, starting with larger tips and moving down to smaller tips"
+            },
+            {
+                "title": "4.",
+                "body": "Spin down the cell suspension at 300 x g for 3 minutes and resuspend in pre-warmed \\(10 minutes at 37 °C) 50 μM CMDFG, 200 μM verapamil in 5% FCS/DMEM + 25 mM HEPES and incubate for 30 minutes at 37 °C, 5% CO2.  \\(Note: the verapamil is used to inhibit efflux of the fluorescent, CMFDG-glutathione adduct from the cells \\(3))"
+            },
+            {
+                "title": "5.",
+                "body": "Place cells on ice and dilute to approximately 1-3 million cells/mL with 5% FCS/DMEM + 25 mM HEPES"
+            },
+            {
+                "title": "6.",
+                "body": "Add 1mM PETG to stop the reaction"
+            },
+            {
+                "title": "7.",
+                "body": "Add 1.5 μM propidium iodide to identify dead cells"
+            },
+            {
+                "title": "8.",
+                "body": "Flow sort as soon as possible \\(standard procedures)"
+            }
+        ]
+    },
+    {
+        "title": "**C. Post FACS Treatment Notes**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "For RNA isolation collect sorted cells immediately at 300 x g for 4 minutes and resuspended in 800 μl Trizol \\(Gibco BRL).  250 μg/ml glycogen \\(Roche) or 50 μg/mL Glycoblue \\(Ambion) can be added as an RNA co-precipitant to improve yield"
+            },
+            {
+                "title": "2.",
+                "body": "Homogenize cells by passing them twice through a 25-gauge needle \\(shears genomic DNA) and store at -80 °C, or process immediately using standard techniques"
+            },
+            {
+                "title": "3.",
+                "body": "For microarray, we found exponential amplification worked well \\(4) and preserved transcript abundance"
+            }
+        ]
+    }
+]

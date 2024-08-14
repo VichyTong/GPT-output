@@ -1,0 +1,131 @@
+[
+    {
+        "sentence": "Mix 50µl water with 50µl QuickExtract.",
+        "result": [
+            {
+                "MIX": {
+                    "emit": [],
+                    "slot": [
+                        {
+                            "reagent1": "50µl water"
+                        },
+                        {
+                            "reagent2": "50µl QuickExtract"
+                        },
+                        {
+                            "ratio": "1:1"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "Add to tick homogenate and mix well.",
+        "result": [
+            {
+                "ADD": {
+                    "emit": [
+                        {
+                            "reagent0": "PCR tube that contains samples and 1st NTC"
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "reagent1": "PCR tube that contains samples and 1st NTC"
+                        },
+                        {
+                            "reagent2": "1 µl lysis buffer (LB)"
+                        }
+                    ]
+                }
+            },
+            {
+                "MIX": {
+                    "emit": [
+                        {
+                            "reagent0": "PCR tube that contains samples and 1st NTC"
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "reagent1": "PCR tube that contains samples and 1st NTC"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "Incubate at 65°C for 6 minutes",
+        "result": [
+            {
+                "INCUBATE": {
+                    "emit": [
+                        {
+                            "reagent0": "protein-DNA complexes"
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "reagent1": "PCR tube that contains samples and 1st NTC"
+                        },
+                        {
+                            "temperature": "65°C"
+                        },
+                        {
+                            "time": "6 minutes"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "Incubate 95°C for 2 minutes.",
+        "result": [
+            {
+                "INCUBATE": {
+                    "emit": [
+                        {
+                            "reagent0": "protein-DNA complexes"
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "reagent1": "protein-DNA complexes"
+                        },
+                        {
+                            "temperature": "95°C"
+                        },
+                        {
+                            "time": "2 minutes"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "sentence": "Cool to room temperature.",
+        "result": [
+            {
+                "COOL": {
+                    "emit": [
+                        {
+                            "reagent0": "protein-DNA complexes"
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "reagent1": "protein-DNA complexes"
+                        },
+                        {
+                            "temperature": "room temperature"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]

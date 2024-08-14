@@ -1,0 +1,63 @@
+[
+    "\nThe samples were prepared according to Boettcher and Angerer \\(2). We describe here how to prepare urine samples to LC-MS/MS.",
+    {
+        "title": "1.",
+        "body": "Thaw urine samples to room temperature and then mix them \\(257 rpm, 5 min)."
+    },
+    {
+        "title": "2.",
+        "body": "4 ml of urine withdrawn from each sample and add 30 μl of the mixture of d3- and d4-internal standard solutions \\(10 mg/L)."
+    },
+    {
+        "title": "3.",
+        "body": "The samples were vortex-mixed and centrifuged \\(3000 rpm, 10 min)."
+    },
+    {
+        "title": "4.",
+        "body": "Purifying on SPE columns:\r\n   Conditioning the column with methanol \\(4 ml), water \\(2 ml) and diluted formic acid \\(2 ml). \r\n\n\n Add 7.5 ml of supernatant of the centrifugated sample solution.\r\n\n\n Wash the column with diluted formic acid \\(2 ml) and 10% methanol in formic acid \\(0.8 ml).\r\n\n\n Elute with 1% formic acid in methanol \\(1.7 ml)."
+    },
+    {
+        "title": "5.",
+        "body": "Evaporate to dryness."
+    },
+    {
+        "title": "6.",
+        "body": "Residue reconstitute in 0.5 ml 0.1 formic acid."
+    },
+    {
+        "title": "7.",
+        "body": [
+            "10 microlitres of this solution inject into LC-MS/MS system.\r\n  \r\n\n\nLC conditions:\r\n\n\n flow rate – 1 mL/min, \r\n\n\n mobile phase \\(A : B – 96 :",
+            {
+                "title": "4)",
+                "body": [
+                    " column temperature – 40°C, \r\n\n\n runtime – 1.5 min. \r\n\n\n\r\n\n\nMS/MS conditions:\r\n\n\n MRM mode,\r\n\n\n curtain gas – nitrogen \\(CUR = 30), \r\n\n\n ion source temperature – 6000C, \r\n\n\n electrospray capillary voltage \\(IS) – - 4.500 V, \r\n\n\n dwell-time – 50 ms,\r\n\n\n collision energy \\(CE):",
+                    {
+                        "title": "a)",
+                        "body": "CE = - 22 for m/z 233/ 104 \\(AAMA) and for m/z 236.9 / 108 \\(d4-AAMA),"
+                    },
+                    {
+                        "title": "b)",
+                        "body": "CE = - 54 for m/z 233 / 58 \\(AAMA),"
+                    },
+                    {
+                        "title": "c)",
+                        "body": "CE = - 24 for m/z 248.9 / 120.1 \\(GAMA) and for m/z 252/ 119.9 \\(d3-GAMA),"
+                    },
+                    {
+                        "title": "d)",
+                        "body": "CE = - 18 for m/z 248.9/ 127.9 \\(GAMA).\r\n\n\n Monitored ions:"
+                    },
+                    {
+                        "title": "a)",
+                        "body": "for the purposes of quantitative determination of AAMA and GAMA levels in the urine: m/z 233  104 \\(AAMA), m/z 236.9 /108 \\(d4-AAMA), m/z 248.9 / 120.1 \\(GAMA) and m/z 252/ 119.9 \\(d3-GAMA),"
+                    },
+                    {
+                        "title": "b)",
+                        "body": "for the purposes of verification of the results obtained:  while m/z 233/ 58 \\(AAMA) and m/z 248.9 / 127.9 \\(GAMA) \\(fig. 1)."
+                    }
+                ]
+            }
+        ]
+    }
+]

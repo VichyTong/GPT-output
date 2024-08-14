@@ -1,0 +1,347 @@
+[
+    "\n<p><strong>Tip: Detailed methodologies for the routine culture of hESc on iMEF feeder layers can be found in the ‘ES Cell International Pte Ltd: Methodology Manual Human Embryonic Stem Cell Culture 2005’ and the ‘Human Embryonic Stem \\(HUES) Cell Collection Instruction Manual Version 1.0 \\(http://mcb.harvard.edu/melton/hues/HUES_manual.pdf). We have progressively modified the protocols in these instruction manuals as we have become more experienced in hESc culture.\r\n\n\n\r\n\n\nCritical: All cell culture procedures are carried out in a microbiological safety cabinet using aseptic technique. Because we do not supplement hESc Medium, hESc Feeder-Free Medium and Directed Differentiation Basal Medium with antibiotics it is essential that particular care is taken to maintain an aseptic environment. The cell culture incubators are cleaned monthly with a stringent biocide and rinsed with 70% \\(vol/vol) ethanol before running an internal autoclave cycle. Humidity within the cell culture incubators is maintained by filling water trays with autoclaved dH2O. The microbiological safety cabinet is cleaned weekly with a stringent biocide and rinsed with 70% \\(vol/vol) ethanol. During processing all reagents and equipment are sprayed liberally with 70% \\(vol/vol) ethanol before transfer into the microbiological safety cabinet and the operator wears a long sleeve Howie style laboratory coat and latex/nitrile gloves at all times. Cells are cultured at 37ºC in 5% Co2, atmospheric O2.</strong></p>\r\n\n\n\r\n\n\n",
+    {
+        "title": "**Preliminary**",
+        "body": [
+            "_hESc culture on Inactivated Mouse Embryonic Fibroblast \\(iMEF) Feeder Cell Layer:_",
+            {
+                "title": "1.",
+                "body": "Transfer 1ml of 0.1% \\(vol/vol) gelatin to 1×35mm culture dish and incubate in a cell culture incubator at 37ºC for 1 hour."
+            },
+            {
+                "title": "2.",
+                "body": "Remove one cryovial of iMEF cells from the liquid nitrogen cell storage dewar and place on ice for transfer to the cell culture suite."
+            },
+            {
+                "title": "3.",
+                "body": "Hold the cryovial by the lid and submerge three quarters of the cryovial in the 37ºC water bath for 2-3 minutes to thaw the cell suspension."
+            }
+        ]
+    },
+    {
+        "title": "**Tip: Swirl the cryovial in the water to facilitate heat transfer. Thaw the iMEF cells until approximately 10% of ice remains, the iMEF cells will continue to thaw during transfer to the microbiological safety cabinet.**",
+        "body": [
+            {
+                "title": "4.",
+                "body": "Draw up 4ml of MEF medium in a 5ml serological pipette and then the 1ml volume of iMEF cell suspension from the cryovial. Transfer the 5ml volume to a sterile 15ml polystyrene centrifuge tube."
+            },
+            {
+                "title": "5.",
+                "body": "Add 90μl of the iMEF cell suspension and 10μl of trypan blue solution to a 1.5ml microfuge tube and mix well by pipetting up and down. Transfer 10μl to each chamber of haemocytometer and perform a viable cell count. MEF cells are seeded at a cell density of 3×104 cells/cm2 which for a 35mm culture dish is 2.92×105 cells; calculate the volume of iMEF cell suspension required: 2.92×105 cells / viable cells/ml = Xml of MEF cell suspension. Transfer the calculated volume to a sterile 15ml polystyrene centrifuge tube and centrifuge at 720 x g for 3 minutes at room temperature. Remove the supernatant and resuspend the cell pellet in 2ml of MEF medium \\(Table 1)."
+            },
+            {
+                "title": "6.",
+                "body": "Take the 35mm culture dish with gelatin from the incubator, remove the gelatin and add the 2ml iMEF cell suspension. Transfer to the cell culture incubator."
+            },
+            {
+                "title": "7.",
+                "body": "Twenty-four hours post-seeding check the iMEF cells under the microscope to ensure that they have adhered to the cell culture surface and formed a homogeneous culture of approximately 80-85% confluence."
+            },
+            {
+                "title": "8.",
+                "body": [
+                    "Thaw hESc and seed onto the iMEF layer. Remove a vial of hESc from liquid nitrogen storage and thaw as for the iMEF cells in steps 3-5 but substitute hESc medium \\(Table",
+                    {
+                        "title": "2)",
+                        "body": "for MEF medium. Centrifuge the hESc at 720 x g for 3 minutes at room temperature and resuspend the cell pellet in 2ml of hESc Medium."
+                    }
+                ]
+            },
+            {
+                "title": "9.",
+                "body": "Remove the iMEF medium from the iMEF cell layer and add the hESc suspension. Transfer the cell culture dish to the cell culture incubator."
+            },
+            {
+                "title": "10.",
+                "body": "Change the hESc medium every 2 days and check the hESc for growth under the microscope. Colonies of hESc can be observed growing between iMEF cells after approximately 2-4 days."
+            },
+            {
+                "title": "11.",
+                "body": "Passage the hESc at a ratio of 1:6 when the culture has grown to approximately 90-95% confluence. Prepare 6 wells of a 6 well culture dish with a iMEF feeder cell layer as described in steps 1-7."
+            },
+            {
+                "title": "12.",
+                "body": "Pre-warm a 10ml aliquot of Trypsin:EDTA and hESc medium by placing in the 37ºC water bath for 30 minutes."
+            },
+            {
+                "title": "13.",
+                "body": "Remove and discard the hESc medium from the hESc culture and add 1ml of Trypsin:EDTA. Incubate in the cell culture incubator at 37ºC and check under the microscope every 2-3 minutes for cell dissociation. iMEF cells are seen to round up whereas hESc can be seen to separate from each other."
+            }
+        ]
+    },
+    {
+        "title": "**Critical: Cell:cell contact is crucial in maintaining the hESc phenotype and so it is important that the hESc are not overexposed to the Trypsin:EDTA. The cells should remain in clumps of approximately 5-10 cells to permit the formation of new hESc colonies.**",
+        "body": [
+            {
+                "title": "14.",
+                "body": "Transfer the hESc suspension to a sterile 15ml polystyrene centrifuge tube and centrifuge at 720 x g for 3 minutes at room temperature. Resuspend the hESc in 12ml of hESc medium."
+            },
+            {
+                "title": "15.",
+                "body": "Remove the MEF medium from the wells of the 6 well culture dish and add 2ml of the hESc cell suspension to each well. Transfer the culture dish to the cell culture incubator."
+            }
+        ]
+    },
+    {
+        "title": "**Tip: We frequently keep 1×6 well cell culture dish of hESc in continuous culture on an iMEF feeder layer. When confluent 1 x well is passaged to another 6 well culture dish with iMEFs, 2 x wells are taken to establish feeder-free cultures and 3 wells are cryopreserved in order to maintain low passage stocks of hESc.**",
+        "body": [
+            "_Feeder-Free hESc Culture:_",
+            {
+                "title": "1.",
+                "body": "Prepare 35mm and 6 well culture dishes by transferring 1ml of 50μg/ml fibronectin to each well and incubating for at least 16 hours at 4ºC."
+            },
+            {
+                "title": "2.",
+                "body": "Remove and discard the hESc medium from 2 x wells of hESc iMEF cultures and rinse twice with DPBS."
+            },
+            {
+                "title": "3.",
+                "body": "Add 500μl of Trypsin:EDTA to each of the 2 wells and transfer to the cell culture incubator."
+            },
+            {
+                "title": "4.",
+                "body": "Check the hESc cultures every 2-3 minutes as if passaging the hESc cultures on to iMEF feeder cell layers. The Trypsin:EDTA can be left longer to permit more thorough dissociation of the hESc."
+            },
+            {
+                "title": "5.",
+                "body": "Transfer the cell suspension to a sterile 15ml polystyrene centrifuge tube and centrifuge at 720 x g for 3 minutes at room temperature."
+            },
+            {
+                "title": "6.",
+                "body": "Discard the supernatant and flick the bottom of the tube to disrupt the cell pellet. Resuspend the cells in a 2ml of hESc Feeder-Free Medium \\(Table 3)."
+            },
+            {
+                "title": "7.",
+                "body": "Remove the 50μg/ml fibronectin from the 35mm culture dish and transfer to sterile 50ml centrifuge tube."
+            }
+        ]
+    },
+    {
+        "title": "**Tip: The 50μg/ml working solution of fibronectin can be reused up to three times if it remains at 4ºC.**",
+        "body": [
+            {
+                "title": "8.",
+                "body": "Add the 2ml volume of hESc cell suspension to the well coated with fibronectin and check under the microscope."
+            }
+        ]
+    },
+    {
+        "title": "**Critical: To establish feeder-free cultures hESc should be kept at a high cell density transferring 2 x wells of a 6 well culture dish to 1×35mm culture dish to account for the inclusion of iMEFs. Cell-cell contact is important to maintain hESc phenotype, which is achieved through high cell density. Groups of 2-3 hESc not separated by the Trypsin:EDTA should still be present, however if large numbers of hESc remain aggregated together this will lead to the formation of embryoid bodies and differentiation.**",
+        "body": [
+            {
+                "title": "9.",
+                "body": "Return the 35mm culture dish to the cell culture incubator."
+            },
+            {
+                "title": "10.",
+                "body": "Check the hESc cultures every 24 hours under the microscope for adherence to the fibronectin-coated plastic and replace the hESc Feeder-Free Medium every 24-48 hours."
+            }
+        ]
+    },
+    {
+        "title": "**Tip: Feeder-free hESc adhere to the tissue culture plastic as colonies with prominent cell-cell contact. hESc appear larger and flatter than those cultured on iMEF feeder cell layers. Individual cells are seen as having characteristic large nucleus and prominent nucleoli. iMEF cells are often seen between hESc colonies.**",
+        "body": [
+            {
+                "title": "11.",
+                "body": "The feeder-free culture should be passaged at confluence after approximately 3-4 days. Remove the hESc Feeder-Free Medium from the well and add 500μl of pre-warmed Trypsin:EDTA. Incubate at room temperature and rock the 35mm culture dish back and forth gently. As soon as the hESc detach add 2ml of hESc Feeder-Free Medium to the well, draw up the hESc suspension and transfer to a sterile 15ml polystyrene centrifuge tube. Add another 2ml of hESc Feeder-Free Medium to the culture dish and rinse out the remaining cells from the well. Pool this with the hESc suspension in the 15ml tube. Centrifuge the hESc suspension at 720 x g for 3 minutes at room temperature and discard the supernatant. Flick the bottom of the centrifuge tube to disrupt the cell pellet and resuspend the hESc in 4ml volume of hESc Feeder-Free Medium. Transfer 2ml each to 2 x well of a 6 well cell culture dish coated with 50μg/ml fibronectin as described in step"
+            },
+            {
+                "title": "1.",
+                "body": "Return the 6 well cell culture dish to the cell culture incubator."
+            }
+        ]
+    },
+    {
+        "title": "**Tip: It is important to maintain a high cell density as the hESc culture becomes established, plate cells at a density of approximately 0.8-1×105cells/cm2. Do not be tempted to passage the feeder-free hESc too early.**",
+        "body": [
+            {
+                "title": "12.",
+                "body": "Repeat steps 10-11 to expand the feeder-free hESc culture. The hESc become adapted to feeder-free culture with increasing passage and as such can be passaged at higher ratios. We routinely passage feeder-free hESc cultures at ratios of 1:3–1:4."
+            },
+            {
+                "title": "13.",
+                "body": "To cryopreserve feeder-free hESc cultures detach the cells as if passaging and resuspend the cell pellet in cryopreservation medium. Use 2ml of cryopreservation medium per 1 x confluent well of a 6-well dish \\(approximately 2×106 cells). Aliquot 1ml volumes into pre-labelled cryovials, place the cryovials into the “Mr Frosty” and transfer to -80ºC. After 24 hours transfer the cryovials to a liquid nitrogen cell storage dewar."
+            }
+        ]
+    },
+    {
+        "title": "**Directed Differentiation Protocol**",
+        "body": [
+            "The directed differentiation protocol is carried out on feeder-free hESc which have been cultured off feeders for at least 3 passages to exclude contaminating iMEFs.",
+            {
+                "title": "1.",
+                "body": "Coat 1×35mm culture dish by adding 1ml of 50μg/ml fibronectin and incubating overnight at 4ºC."
+            },
+            {
+                "title": "2.",
+                "body": "Detach feeder-free hESc from the cell culture plastic using pre-warmed Trypsin:EDTA, centrifuge at 720 x g for 3 minutes at room temperature and resuspend to a cell density of 5×105 cells/ml in hESc Feeder-Free Medium."
+            },
+            {
+                "title": "3.",
+                "body": "Remove the fibronectin solution from the well of the 35mm culture dish and add a 2ml volume of feeder-free hESc suspension."
+            },
+            {
+                "title": "4.",
+                "body": "Return the culture dish to the cell culture incubator."
+            },
+            {
+                "title": "5.",
+                "body": "After 24 hours check the hESc culture under the microscope. DDP should be initiated when the cultures are at approximately 80% confluence. Denote this as Day"
+            },
+            {
+                "title": "1.",
+                "body": []
+            },
+            {
+                "title": "6.",
+                "body": "Prepare Day 1 medium by adding 6.25μl of 10μg/ml mouse recombinant Wnt3a and 12.5μl of 10μg/ml human recombinant Activin-A to 2.5ml of Directed Differentiation Basal Medium \\(Table 4)."
+            },
+            {
+                "title": "7.",
+                "body": "Remove the hESc Feeder-Free Medium, rinse the feeder-free hESc culture three times with DPBS and add 2.5ml of Day 1 medium. Return to the cell culture incubator."
+            },
+            {
+                "title": "8.",
+                "body": "Day 2: add 6.25μl of 10μg/ml mouse recombinant Wnt3a; 6.25μl of 10μg/ml human recombinant Activin-A and 0.5μl of 100μg/ml human recombinant FGF2 to 2.5ml of Directed Differentiation Basal Medium."
+            },
+            {
+                "title": "9.",
+                "body": "Remove the Day 1 medium from the cell culture and replace with 2.5ml of Day 2 medium. Return to the cell culture incubator."
+            },
+            {
+                "title": "10.",
+                "body": "Day 3: add 6.25μl of 10μg/ml mouse recombinant Wnt3a; 2.5μl of 10μl/ml human recombinant Activin-A; 0.5μl of 100μg/ml human recombinant FGF2 and 10μl of 10μg/ml human recombinant BMP4 to 2.5ml of Directed Differentiation Basal Medium."
+            },
+            {
+                "title": "11.",
+                "body": "Remove the Day 2 medium from the cell culture and replace with 2.5ml of Day 3 medium. Return to the cell culture incubator."
+            },
+            {
+                "title": "12.",
+                "body": "Day 4: Analyse Stage 1 cultures if appropriate."
+            },
+            {
+                "title": "13.",
+                "body": "Add 0.5μl of 100μg/ml human recombinant FGF2; 10μl of 10μg/ml human recombinant BMP4; 25μl of 10μg/ml human recombinant follistatin and 0.5μl of 10μg/ml human recombinant NT4 to 2.5ml of Directed Differentiation Basal Medium."
+            },
+            {
+                "title": "14.",
+                "body": "Remove the Day 3 medium from the cell culture and replace with 2.5ml of Day 4 medium. Return to the cell culture incubator."
+            },
+            {
+                "title": "15.",
+                "body": "Transfer 1ml of 50μg/ml fibronectin to each of 5 x wells of a 6 well culture dish and place at 4ºC."
+            },
+            {
+                "title": "16.",
+                "body": "Day 5: add 2μl of 100μg/ml human recombinant FGF2; 40μl of 10μg/ml human recombinant BMP4; 100μl of 10μg/ml human recombinant follistatin and 2μl of 10μg/ml human recombinant NT4 to 10ml of Directed Differentiation Basal Medium."
+            },
+            {
+                "title": "17.",
+                "body": "Remove the Day 4 medium from the cell culture and add 500μl of pre-warmed Trypsin:EDTA. Incubate at room temperature and rock the 35mm culture dish back and forth gently. As soon as the cells detach add 2ml of Directed Differentiation Basal Medium to the well, draw up the cell suspension and transfer to a sterile 15ml polystyrene centrifuge tube. Add another 2ml volume of Directed Differentiation Basal Medium to the culture dish and rinse out the remaining cells from the well. Pool this with the cell suspension. Centrifuge the cell suspension at 720 x g for 3 minutes at room temperature and discard the supernatant. Flick the bottom of the centrifuge tube to disrupt the cell pellet and resuspend the cells in 10ml of Day 5 Medium. Remove the 50μg/ml fibronectin solution and transfer 2ml of the cell suspension to each of the 5 wells. Return the culture dishes to the cell culture incubator."
+            },
+            {
+                "title": "18.",
+                "body": "Day 6: add 2μl of 100μg/ml human recombinant FGF2; 40μl of 10μg/ml human recombinant BMP4; 100μl of 10μg/ml human recombinant follistatin and 2μl of 10μg/ml human recombinant NT4 to 10ml of Directed Differentiation Basal Medium."
+            },
+            {
+                "title": "19.",
+                "body": "Remove the Day 5 medium from the 5 cell culture dishes and replace each with 2ml of Day 6 medium. Return to the cell culture incubator."
+            },
+            {
+                "title": "20.",
+                "body": "Day 7: add 2μl of 100μg/ml human recombinant FGF2; 40μl of 10μg/ml human recombinant BMP4; 100μl of 10μg/ml human recombinant follistatin and 2μl of 10μg/ml human recombinant NT4 to 10ml of Directed Differentiation Basal Medium."
+            },
+            {
+                "title": "21.",
+                "body": "Remove the Day 6 medium from the 5 cell culture dishes and replace each with 2ml of Day 7 medium. Return to the cell culture incubator."
+            },
+            {
+                "title": "22.",
+                "body": "Transfer 10ml of 50μg/ml fibronectin and 10ml of 0.1% \\(vol/vol) gelatin to a sterile 50ml polystyrene centrifuge tube and mix well by pipetting up and down."
+            },
+            {
+                "title": "23.",
+                "body": "Transfer 1ml of the mixed fibronectin:gelatin solution to 20 x wells of 6 well culture dishes and place at 4ºC."
+            },
+            {
+                "title": "24.",
+                "body": "Day 8: add 8μl of 100μg/ml human recombinant FGF2; 160μl of 10μg/ml human recombinant BMP4 and 8μl of 10μg/ml human recombinant NT4 to 40ml of Directed Differentiation Basal Medium."
+            },
+            {
+                "title": "25.",
+                "body": "Remove the Day 7 medium from the cell cultures and add 500μl of pre-warmed Trypsin:EDTA to each of the 5 wells. Incubate at room temperature; rocking the cell culture dish back and forth gently. As soon as the cells detach add 2ml of Directed Differentiation Basal Medium to each cell culture dish, draw up the cell suspension and transfer to a sterile 15ml polystyrene centrifuge tube. Add another 2ml of Directed Differentiation Basal Medium to the culture dishes and rinse out the remaining cells from the well. Pool this with the cell suspension. Centrifuge the cell suspension at 720 x g for 3 minutes at room temperature and discard the supernatant. Flick the bottom of the centrifuge tube to disrupt the cell pellet and resuspend the cells in 40ml of Day 8 Medium. Remove the fibronectin:gelatin solution and transfer 2ml of the cell suspension to each of the 20 wells of the culture dishes. Return the culture dishes to the cell culture incubator."
+            },
+            {
+                "title": "26.",
+                "body": "Day 9: Analyse Stage 2 cultures if appropriate."
+            },
+            {
+                "title": "27.",
+                "body": "Add 8μl of 100μg/ml human recombinant FGF2; 80μl of 10μg/ml human recombinant BMP4; 80μl of 10μg/ml human recombinant GDF5 and 8μl of 10μg/ml human recombinant NT4 to 40ml of Directed Differentiation Basal Medium."
+            },
+            {
+                "title": "28.",
+                "body": "Remove the Day 8 medium from the cell cultures and replace with 2ml of Day 9 medium to each well. Return to the cell culture incubator."
+            },
+            {
+                "title": "29.",
+                "body": "Day 10: add 8μl of 100μg/ml human recombinant FGF2; 80μl of 10μg/ml human recombinant BMP4; 80μl of 10μg/ml human recombinant GDF5 and 8μl of 10μg/ml human recombinant NT4 to 40ml of Directed Differentiation Basal Medium."
+            },
+            {
+                "title": "30.",
+                "body": "Remove the Day 9 medium from the cell cultures and replace with 2ml of Day 10 medium to each of the wells. Return to the cell culture incubator."
+            },
+            {
+                "title": "31.",
+                "body": "Day 11: add 8μl of 100μg/ml human recombinant FGF2; 160μl of 10μg/ml human recombinant GDF5 and 8μl of 10μg/ml human recombinant NT4 to 40ml of Directed Differentiation Basal Medium."
+            },
+            {
+                "title": "32.",
+                "body": "Remove the Day 10 medium from the cell cultures and replace with 2ml of Day 11 medium to each well. Return to the cell culture incubator."
+            },
+            {
+                "title": "33.",
+                "body": "Transfer 1ml of 0.1% \\(vol/vol) gelatin solution to 30 x wells of 6 well cell culture dishes and place at 4ºC."
+            },
+            {
+                "title": "34.",
+                "body": "Day 12: add 12μl of 100μg/ml human recombinant FGF2; 240μl of 10μg/ml human recombinant GDF5 and 12μl of 10μg/ml human recombinant NT4 to 30ml of Directed Differentiation Basal Medium."
+            }
+        ]
+    },
+    {
+        "title": "**Note: This makes a 2 X concentration of Day 12 medium.**",
+        "body": [
+            {
+                "title": "35.",
+                "body": "Remove the Day 11 medium from the cell cultures and add 500μl of pre-warmed Trypsin:EDTA to each well. Incubate at room temperature; rocking the cell culture dishes back and forth gently. As soon as the cells detach add a 2ml volume of Directed Differentiation Basal Medium to each cell culture dish, draw up the cell suspension and transfer in equal volumes to 2 x sterile 50ml polystyrene centrifuge tubes. Add another 2ml volume of Directed Differentiation Basal Medium to the culture dishes and rinse out the remaining cells from the well. Transfer this cell suspension in equal volumes to the 2×50ml centrifuge tubes. Centrifuge the cell suspension at 720 x g for 3 minutes at room temperature and discard the supernatant. Flick the bottom of the centrifuge tube to disrupt the cell pellet and resuspend the cells in 30ml of Directed Differentiation Basal Medium. Remove the 0.1%\\(vol/vol) gelatin solution and transfer 1ml of the cell suspension to each of the 30 wells of the 6 well culture dishes."
+            },
+            {
+                "title": "36.",
+                "body": "Add 1ml of the 2 X Day 12 medium to each of the 30 wells. Return the culture dishes to the cell culture incubator."
+            },
+            {
+                "title": "37.",
+                "body": "Day 13: add 12μl of 100μg/ml human recombinant FGF2; 240μl of 10μg/ml human recombinant GDF5 and 12μl of 10μg/ml human recombinant NT4 to 30ml of Directed Differentiation Basal Medium."
+            }
+        ]
+    },
+    {
+        "title": "**Note: This makes a 2 X concentration of Day 13 medium.**",
+        "body": [
+            {
+                "title": "38.",
+                "body": "Remove the Day 12 medium from the cell cultures and replace with 1ml each of Directed Differentiation Basal Medium to each of the 30 wells of the 6 well cell culture dishes"
+            },
+            {
+                "title": "39.",
+                "body": "Add 1ml each of the 2 X Day 13 medium to each of the 30 wells. Return to the cell culture incubator."
+            },
+            {
+                "title": "40.",
+                "body": "Day 14 terminate the cultures and carry out Stage 3 \\(end point) analyses."
+            }
+        ]
+    }
+]

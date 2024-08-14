@@ -1,0 +1,42 @@
+[
+    {
+        "type": "title",
+        "content": "1"
+    },
+    {
+        "type": "string",
+        "content": "Mix 50µl water with 50µl QuickExtract."
+    },
+    {
+        "type": "title",
+        "content": "2"
+    },
+    {
+        "type": "string",
+        "content": "Add to tick homogenate and mix well."
+    },
+    {
+        "type": "title",
+        "content": "3"
+    },
+    {
+        "type": "string",
+        "content": "Incubate at 65°C for 6 minutes"
+    },
+    {
+        "type": "title",
+        "content": "4"
+    },
+    {
+        "type": "string",
+        "content": "Incubate 95°C for 2 minutes."
+    },
+    {
+        "type": "title",
+        "content": "5"
+    },
+    {
+        "type": "string",
+        "content": "Cool to room temperature."
+    }
+]

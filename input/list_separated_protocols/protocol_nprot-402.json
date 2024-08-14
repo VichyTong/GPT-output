@@ -1,0 +1,68 @@
+[
+    {
+        "title": "1.",
+        "body": "Re-suspend cell pellets at 4 °C in 80 µL of lysis buffer, containing 50 mM NaH<sub>2</sub>PO<sub>4</sub> at pH 8 with 300 mM NaCl, 20 mM imidazole, CelLytic B \\(Sigma), Lysozyme \\(1 mg/mL), Benzonase \\(50 units/mL), proteinase inhibitor cocktail \\(Sigma), and PMSF \\(1 mM/mL)."
+    },
+    {
+        "title": "2.",
+        "body": "Wash Ni-NTA Superflow \\(QIAGEN) twice with water and twice with 50 mM NaH<sub>2</sub>PO<sub>4</sub> at pH 8 with 300 mM NaCl, 20 mM imidazole using centrifugation."
+    },
+    {
+        "title": "3.",
+        "body": "Add 25 μL pre-washed Ni-NTA Superflow \\(QIAGEN) to each well"
+    },
+    {
+        "title": "4.",
+        "body": "Transfer the mixtures into bottom-sealed filter plates \\(Multiscreen Nylon Mesh)"
+    },
+    {
+        "title": "5.",
+        "body": "Seal the filter plates"
+    },
+    {
+        "title": "6.",
+        "body": "Incubated for 1.5 hr at 4 °C with vigorously shaking"
+    },
+    {
+        "title": "7.",
+        "body": "Remove seals"
+    },
+    {
+        "title": "8.",
+        "body": [
+            "Wash the resin-protein complexes 3 times with 250 µL/well of wash buffer I \\(50 mM NaH<sub>2</sub>PO<sub>4</sub> with 300 mM NaCl, 10% glycerol, 20 mM imidazole, 0.01% Triton X-100, at pH",
+            {
+                "title": "8)",
+                "body": "and 3 times with Wash buffer II \\(50 mM NaH<sub>2</sub>PO<sub>4</sub> with 150 mM NaCl, 25% glycerol, 20 mM imidazole, 0.01% Triton X-100, at pH"
+            },
+            {
+                "title": "8)",
+                "body": "using a Q-fill2 \\(Gentix, UK)."
+            }
+        ]
+    },
+    {
+        "title": "9.",
+        "body": "Spin the filter plates"
+    },
+    {
+        "title": "10.",
+        "body": "Add 25 μL of elution buffer \\(50 mM NaH<sub>2</sub>PO<sub>4</sub>/150 mM NaCl/25% glycerol/250 mM imidazole/0.01% Triton X-100, pH 7.5)"
+    },
+    {
+        "title": "11.",
+        "body": "Incubate 15 min at 4 °C"
+    },
+    {
+        "title": "12.",
+        "body": "Elute proteins into 96-well receiver plates by centrifugation."
+    },
+    {
+        "title": "13.",
+        "body": "Repeat 10-12"
+    },
+    {
+        "title": "14.",
+        "body": "Store the proteins in 96-well plates at -80 °C"
+    }
+]

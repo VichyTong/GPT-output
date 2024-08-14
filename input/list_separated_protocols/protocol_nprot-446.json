@@ -1,0 +1,106 @@
+[
+    {
+        "title": "1.",
+        "body": [
+            "Prepare single cell suspension.",
+            {
+                "title": "a)",
+                "body": "Harvest bone marrow cells by flushing femur with ice-cold bone marrow harvesting medium."
+            },
+            {
+                "title": "b)",
+                "body": "Filter the suspended cells through 70µm cell strainer while keeping cells on ice."
+            },
+            {
+                "title": "c)",
+                "body": "Count the cell concentration."
+            },
+            {
+                "title": "d)",
+                "body": "Centrifuge the filtered cells at 1500rpm for 5-10 min."
+            },
+            {
+                "title": "e)",
+                "body": "Resuspend the cells with HBSS+ staining buffer \\(HBSS+, ~2×10^7 cells/mL if possible)."
+            }
+        ]
+    },
+    {
+        "title": "2.",
+        "body": [
+            "Load FDG into cells.",
+            {
+                "title": "a)",
+                "body": "Aliquot 100µl suspended cells for staining. Prepare controls including unstained control, single color controls for FACS compensation."
+            },
+            {
+                "title": "b)",
+                "body": "Prepare 2mM FDG working solution by diluting 20mM FDG stock solution with ice-cold distilled water. Prepare working FDG control solution by diluting FDG control stock solution by 1:10. Aliquote 100µL FDG working solution or control solution to amber tubes."
+            },
+            {
+                "title": "c)",
+                "body": "Prepare 15mL tubes with 2mL HBSS+ buffer and keep on ice."
+            },
+            {
+                "title": "d)",
+                "body": "Make sure all the sets of cell sample tubes, FDG tubes and 2mL HBSS+ tubes are ready for the following steps."
+            },
+            {
+                "title": "e)",
+                "body": "Prewarm cell sample tubes and corresponding FDG \\(or control) tubes in 37ºC water bath for 10min. 2mL HBSS+ tubes are kept on ice during loading."
+            },
+            {
+                "title": "f)",
+                "body": "Follow the FDG loading strategy shown in Figure 1 to load FDG into cells. Transfer prewarmed cells into corresponding FDG tubes. Mix thoroughly. Return to 37ºC bath for exactly 1 min. Stop the FDG loading at the end of one min by transferring mixture into 2mL ice-cold HBSS+."
+            },
+            {
+                "title": "g)",
+                "body": "Keep on ice for 1.5 hours to allow accumulation of FITC release from FDG in LacZ+ cells."
+            },
+            {
+                "title": "h)",
+                "body": "Centrifuge at 1500rpm for 7 minutes, discard supernatant and resuspend cell pellets with 100µL ice-cold HBSS+ buffer."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": [
+            "Stain cells with antibodies.",
+            {
+                "title": "a)",
+                "body": "Add 2µl antibodies to cells and slowly rock at 4ºC for 15 min."
+            },
+            {
+                "title": "b)",
+                "body": "Centrifuge at 1500rpm for 5-10 min, discard supernatants and resuspend cell pellets with 200ul ice-cold HBSS+."
+            },
+            {
+                "title": "c)",
+                "body": "Add 7µl 7-AAD solution to 200µl cells"
+            }
+        ]
+    },
+    {
+        "title": "4.",
+        "body": [
+            "Perform FACS analysis.",
+            {
+                "title": "a)",
+                "body": "Adjust voltage."
+            },
+            {
+                "title": "b)",
+                "body": "Run compensation."
+            },
+            {
+                "title": "c)",
+                "body": "Run samples and collect FACS data."
+            },
+            {
+                "title": "d)",
+                "body": "Analyze your FACS data."
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    "1.",
+    "Down",
+    "Load matlab codes for analysis from http://ofer.hunter.cuny.edu/publications/publications \\(click on the link saying '+ shared protocol for babbling analysis'.",
+    "The codes are in a zipped folder.\r\n  ",
+    "2. Down",
+    "Load infant vocal transcriptions data from http://childes.psy.cmu.edu/browser/index.php?url=Eng-NA/.\r\n  ",
+    "If you would like to repeat the babbling analysis used in the paper, down",
+    "Load the 9 infants listed in the \"Reagents' section from http://childes.psy.cmu.edu/browser/index.php?url=Eng-NA/Davis/.",
+    "Put all data in a folder within the folder containing the matlab codes \\(point 1).",
+    "Name the folder 'English-Davis_CHAT' or update the matlab code accordingly \\(",
+    "See below).",
+    "3. Open matlab and the 'Analysis.m'.",
+    "This script contains two cells.",
+    "The first parses the .cha files from the database and the second produces the graphs presented in the paper."
+]

@@ -1,0 +1,79 @@
+[
+    "\nWritten below is our recommended protocol \\(Protocol",
+    {
+        "title": "1).",
+        "body": [
+            "An older transfection protocol \\(protocol",
+            {
+                "title": "2)",
+                "body": [
+                    "without Virofect which gives lower transfection efficiencies is also given. The efficiencies obtained with the second protocol, though lower than those obtained with Virofect \\(also levels of transgene expression are lower), are still very high \\(about 50% in mouse hepatocytes). \r\n\n\nIt is also possible to transfect hepatocytes in suspension prior to plating. \r\n\n\n\r\n\n\n",
+                    {
+                        "title": "**Transfection Protocol 1**",
+                        "body": ":\r\n\n\nSet up cells to be transfected so that they are about 70-80% confluent at the time of the experiment. Plate out or maintain cells to be transfected in media with 10% serum.)\r\n\n\nPreparation of transfection complexes:\r\n\n\n\r\n\n\nNote: It is important to use high glucose,  serum-free DMEM and clear plastic tubes for complex formation. Vortex the Targefect-Hepatocyte reagent thaw the reagent and vortex at full speed for 30 seconds twice just before transfection.  Add DNA and Targefect and Virofect according to the Table below.  The volume of Virofect to be added is twice the volume of Targefect used."
+                    },
+                    {
+                        "title": "**Table 1**",
+                        "body": [
+                            "Tube # = 1\r\n\n\nHigh glucose DMEM \\(serum free)  =  0.6 ml\r\n\n\nDNA = 6 µg\r\n\n\nTargefect = 12 µl F-1\r\n\n\nEnhancer reagent  = 25 µl Virofect",
+                            {
+                                "title": "1.",
+                                "body": "Add DMEM first, then DNA, mix well by flicking the tube about 12 times to create a vortexing action."
+                            },
+                            {
+                                "title": "2.",
+                                "body": "Add targefect next, mix well again by flicking the tube."
+                            },
+                            {
+                                "title": "3.",
+                                "body": "Add virofect, mix again by flicking the tube 12 times."
+                            },
+                            {
+                                "title": "4.",
+                                "body": "Incubate the tubes at 37 oC for 20 minutes to form the transfection complexes."
+                            },
+                            {
+                                "title": "5.",
+                                "body": "Just before addition of transfection complexes incubate media completely and add transfection complexes to the cells. Add the appropriate amount of transfection complex per well//dish \\(See Table 2 below for amount of complex to be added per well)."
+                            },
+                            {
+                                "title": "6.",
+                                "body": "Swirl the dish to cover cells evenly with transfection complex."
+                            },
+                            {
+                                "title": "7.",
+                                "body": "Incubate at 37 oC  for 4 hrs."
+                            },
+                            {
+                                "title": "8.",
+                                "body": "Aspirate complexes and replace with fresh complete media \\(with serum) . Assay at 24-48 hrs post transfection .  \r\n  \r\n\n\nThe following conditions are applicable even for cells plated on collagen-coated dishes."
+                            }
+                        ]
+                    },
+                    {
+                        "title": "**Table 2 Recommended volumes of transfection complex for performing transfection in different size dishes**",
+                        "body": ":\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/1825/original/in_text_table.png?1305196887\">See figure in Figures section.</a>"
+                    },
+                    {
+                        "title": "**Protocol 2:**",
+                        "body": [
+                            "Hepatocyte transfections without Virofect \\(lower efficiency and lower levels of transgeene expression\r\n\n\nThaw and vortex the Targefect-Hepatocyte reagent at full speed for 30 seconds twice just before starting complex formation. Cells should be about 70 % confluent the day of the experiment.\r\n\n\nPrepare transfection complexes as follows using clear 15 ml conical tubes for complex formation.  \r\n\n\n\r\n\n\nNote: Please use high glucose DMEM \\(serum free DMEM with 4500 mg / liter glucose) as the complexing medium.  We first recommend performing the following optimization experiment to determine the optimal transfection condition for primary hepatocytes used in your lab .  The optimal DNA:Targefect ratios are different for mouse, rat and human hepatocytes and also depend on whether or not you are plating on collagen-coated dishes.  In general for rat and mouse hepatocytes we find that condition 1 works well and condition 3 works well for human hepatocytes\r\n\n\n\r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/1826/original/in-text_table_2.png?1305196906\">See figure in Figures section.</a>\r\n\n\n\r\n\n\nNote: We recommend the earlier Protocol 1 as it gives higher gives good transfection efficiencies. And much higher levels of transgene expression. However, since the above protocol does not use Virofect  and still gives good efficiencies , it may be suitable for many applications and would be more cost-effective",
+                            {
+                                "title": "1.",
+                                "body": "Add DMEM first, and then add DNA mix well by flicking the tube with your hand about 12 times to create a vortexing action, add Targefect-Hepatocyte, and mix well again."
+                            },
+                            {
+                                "title": "2.",
+                                "body": "Wash cells to be transfected with DMEM twice, aspirate second wash completely and add 1 ml of the transfection complex per 35 mm dish, 250µl of transfection complex per well of a 12-well dish or 150 µl of transfection complex per well of a 24-well dish \\(make sure that the complexes cover cells well.)."
+                            },
+                            {
+                                "title": "3.",
+                                "body": "Incubate 37°C for 2-3 hrs. Add 2 ml of complete media with serum \\(we recoomend 10% serum) for a 6-well dish \\(1ml for a 12-well or 24-well dish). Incubate at 37°C \\(CO<sub>2</sub> incubator) and assay at 24-48 hrs post transfection."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,211 @@
+[
+    {
+        "title": "**A. Preparation of rNMPs-embedded genomic DNA**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Extract a minimum of 10 ug of genomic DNA from the cells. Various methods of genomic DNA extraction could be used. Koh et al.1 used S. cerevisiae cells and the protocol “Preparation of Yeast Samples” in the QIAGEN Genomic DNA Handbook."
+            },
+            {
+                "title": "3.",
+                "body": "Use Qubit 2.0 \\(dsDNA HS) to quantify the amount of extracted genomic DNA."
+            }
+        ]
+    },
+    {
+        "title": "**B. Preparation of ds sequencing adaptor**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Resuspend each of oligonucleotides \\(oligos) Adaptor.L and Adaptor.S in DNase/RNase-free water to a concentration of 50 uM and 500 uM, respectively. \\(All subsequent steps of the protocol use DNase/RNase-free water)."
+            },
+            {
+                "title": "2.",
+                "body": "Set up the mixture for annealing Adaptor.L/Adaptor.S as follows:\r\n  \r\n\n\nAnnealing Buffer: 3 uL\r\n\n\n50 uM Adaptor.L: 25 uL\r\n\n\n500 uM Adaptor.S: 12.5 uL\r\n\n\nH<sub>2</sub>O: 9.5 uL\r\n\n\nTotal: 50 uL\r\n\n\n\r\n\n\n5-fold excess of Adaptor.S was added to the mixture to ensure that all Adaptor.L molecules are annealed to Adaptor.S. The remaining single-stranded Adaptor.S will be removed in subsequent purification steps."
+            },
+            {
+                "title": "3.",
+                "body": "Perform annealing by heating the mixture to 95–100 °C and gradually cooling to room temperature. The resulting ds Adaptor.L/Adaptor.S is at a concentration of 25 uM."
+            },
+            {
+                "title": "4.",
+                "body": "Desalt the mixture by using a spin column. Koh et al.1 used illustra MicroSpin G-25 Column."
+            },
+            {
+                "title": "5.",
+                "body": "Use NanoDrop to quantify the amount of desalted ds Adaptor.L/Adaptor.S. Typically, the yielded concentration ranges from 10 to 13 uM. A concentration of 10 uM will be assumed for subsequent steps of the protocol."
+            }
+        ]
+    },
+    {
+        "title": "**C. Fragmentation of rNMPs-embedded genomic DNA**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Set up 2 identical reactions of restriction enzyme digestion of genomic DNA as follows \\(for S. cerevisiae genomic DNA as an example):\r\n  \r\n\n\n10X NEBuffer 2: 12 uL\r\n\n\nGenomic DNA: 5 ug \\(x uL)\r\n\n\n20U/uL DraI: 4 uL\r\n\n\n20U/uL EcoRV: 4 uL\r\n\n\n5U/uL SspI: 4 uL\r\n\n\nH<sub>2</sub>O: 96-x uL\r\n\n\nTotal: 120 uL\r\n\n\n\r\n\n\nGenomic DNA could be digested with a different set of blunt-end resulting restriction enzymes. However, one need to make sure that the restriction sites are well-distributed in the genome and that the digestion results in a population of fragments with an average size of 800–1,500 bp."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate at 37 °C overnight."
+            },
+            {
+                "title": "3.",
+                "body": "Purify the fragmented DNA by using a spin column. Koh et al.1 used the QIAGEN spin column from their PCR Purification Kit. Both reactions can be purified using a single column with elution volume of 30 uL."
+            },
+            {
+                "title": "4.",
+                "body": "Use Qubit 2.0 \\(dsDNA HS) to quantify the amount of fragmented DNA. Typically, the concentration of the resulting DNA is ~200 ng/uL, following the reaction conditions listed above. A concentration of 200 ng/uL will be assumed for subsequent steps of the protocol."
+            },
+            {
+                "title": "5.",
+                "body": "Check the size range of the fragmented DNA by using the Experion DNA 12K Analysis Kit. Typically, with the reaction conditions listed above, the fragmentation results in an average size of ~1,500 bp."
+            }
+        ]
+    },
+    {
+        "title": "**D. dA-tailing and ds sequencing adaptor-ligation of fragmented rNMPs-embedded DNA**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Set up a dA-tailing reaction as follows:\r\n  \r\n\n\n10X NEBuffer 2: 5 uL\r\n\n\n10 mM dATP: 1 uL\r\n\n\n200 ng/uL Fragmented DNA: 25 uL \\(5 ug)\r\n\n\n5U/uL Klenow Fragment \\(3′→5′ exo–): 3 uL\r\n\n\nH<sub>2</sub>O: 16 uL\r\n\n\nTotal: 50 uL"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate at 37 °C for 30 min."
+            },
+            {
+                "title": "3.",
+                "body": "Purify using a spin column. Koh et al.1 used the QIAGEN spin column from their PCR Purification Kit, with elution volume of 30 uL."
+            },
+            {
+                "title": "4.",
+                "body": "Set up a sequencing adaptor-ligation reaction as follows:\r\n  \r\n\n\n10X T4 DNA Ligase Buffer: 5 uL\r\n\n\n10 uM Adaptor.L/Adaptor.S: 5 uL\r\n\n\ndA-tailed DNA: 30 uL\r\n\n\n400U/uL T4 DNA Ligase: 5 uL\r\n\n\nH<sub>2</sub>O: 5 uL\r\n\n\nTotal: 50 uL"
+            },
+            {
+                "title": "5.",
+                "body": "Incubate at 15 °C overnight."
+            },
+            {
+                "title": "6.",
+                "body": "Purify using Agencourt RNAClean XP with elution volume of 30 uL."
+            }
+        ]
+    },
+    {
+        "title": "**E. Alkali treatment of adaptor-ligated rNMPs-embedded DNA**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Set up an alkali-treatment reaction as follows:\r\n  \r\n\n\n2 M NaOH: 7.5 uL\r\n\n\nAdaptor-ligated DNA: 30 uL\r\n\n\nH<sub>2</sub>O: 12.5 uL\r\n\n\nTotal: 50 uL"
+            },
+            {
+                "title": "2.",
+                "body": "Incubate at 55 °C for 2 h."
+            },
+            {
+                "title": "3.",
+                "body": "Neutralize with 2 M HCl to pH"
+            },
+            {
+                "title": "7.",
+                "body": "Use pH Litmus Paper to check the pH. Typically, 7.5–8 uL is needed for neutralization."
+            },
+            {
+                "title": "4.",
+                "body": "Purify using Agencourt RNAClean XP with elution volume of 20 uL."
+            },
+            {
+                "title": "5.",
+                "body": "Heat the resulting solution at 95 °C for 3 min to ensure denaturation of dsDNA and immediately chill on ice."
+            }
+        ]
+    },
+    {
+        "title": "**F. Self-ligation \\(circularization) of rNMP-terminating DNA by AtRNL**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Set up 2 reactions, one without AtRNL \\(AtRNL–) and one with \\(AtRNL+), as follows:\r\n  \r\n\n\nAtRNL–\r\n\n\n10X AtRNL Reaction Buffer: 2 uL\r\n\n\nAlkali-treated DNA: 10 uL\r\n\n\nH<sub>2</sub>O: 8 uL\r\n\n\nTotal: 20 uL\r\n\n\n\r\n\n\nAtRNL+\r\n\n\n10X AtRNL Reaction Buffer: 2 uL\r\n\n\nAlkali-treated DNA: 10 uL\r\n\n\n3.75 uM AtRNL: 5.4 uL\r\n\n\nH<sub>2</sub>O: 2.6 uL\r\n\n\nTotal: 20 uL\r\n\n\n\r\n\n\nFinal reaction concentration of AtRNL is 1 uM."
+            },
+            {
+                "title": "3.",
+                "body": "Incubate all reactions at 30 °C for 1 h."
+            },
+            {
+                "title": "4.",
+                "body": "Purify each reaction using RNAClean XP with elution volume of 30 uL."
+            }
+        ]
+    },
+    {
+        "title": "**G. Removal of linear ssDNA**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Set up 4 reactions, one without \\(AtRNL– T5Exo–; AtRNL+ T5Exo–) and one with T5 Exonuclease \\(AtRNL– T5Exo+; AtRNL+ T5Exo+) for each of AtRNL– and AtRNL+ product, as follows:\r\n  \r\n\n\nAtRNL– T5Exo–\r\n\n\n10X NEBuffer 4: 5 uL\r\n\n\nAtRNL– DNA: 15 uL\r\n\n\nH<sub>2</sub>O: 30 uL\r\n\n\nTotal: 50 uL\r\n\n\n\r\n\n\nAtRNL– T5Exo+\r\n\n\n10X NEBuffer 4: 5 uL\r\n\n\nAtRNL– DNA: 15 uL\r\n\n\n10U/uL T5 Exonuclease: 5 uL\r\n\n\nH<sub>2</sub>O: 25 uL\r\n\n\nTotal: 50 uL\r\n\n\n\r\n\n\nAtRNL+ T5Exo–\r\n\n\n10X NEBuffer 4: 5 uL\r\n\n\nAtRNL+ DNA: 15 uL\r\n\n\nH<sub>2</sub>O: 25 uL\r\n\n\nTotal: 50 uL\r\n\n\n\r\n\n\nAtRNL+ T5Exo+\r\n\n\n10X NEBuffer 4: 5 uL\r\n\n\nAtRNL+ DNA: 15 uL\r\n\n\n10U/uL T5 Exonuclease: 5 uL\r\n\n\nH<sub>2</sub>O: 25 uL\r\n\n\nTotal: 50 uL\r\n\n\n\r\n\n\nT5Exo– samples may not be necessary as dA-tailing and adaptor-ligation reactions are standard steps. However, they do act as positive control for the later PCR reaction."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate all reactions at 37 °C for 2 h."
+            },
+            {
+                "title": "3.",
+                "body": "Purify each reaction using RNAClean XP with elution volume of 20 uL."
+            }
+        ]
+    },
+    {
+        "title": "**H. Removal of 2′-phosphate at the ligation junction**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Set up 4 reactions with Tpt1 for each of AtRNL– T5Exo–, AtRNL– T5Exo+, AtRNL+ T5Exo–, and AtRNL+ T5Exo+ products, as follows:\r\n  \r\n\n\nTpt1+\r\n\n\n10X Tpt1 Reaction Buffer: 4 uL\r\n\n\n50 mM NAD+: 8 uL\r\n\n\nDNA: 20 uL\r\n\n\n37 uM Tpt1: 1.1 uL\r\n\n\nH<sub>2</sub>O: 6.9 uL\r\n\n\nTotal: 40 uL\r\n\n\n\r\n\n\nFinal reaction concentration of Tpt1 is 1 uM. DNA indicates either AtRNL– T5Exo–, AtRNL– T5Exo+, AtRNL+ T5Exo–, or AtRNL+ T5Exo+ product."
+            },
+            {
+                "title": "2.",
+                "body": "Incubate all reactions at 30 °C for 1 hr."
+            },
+            {
+                "title": "3.",
+                "body": "Purify each reaction using RNAClean XP with elution volume of 30 uL."
+            }
+        ]
+    },
+    {
+        "title": "**I. PCR amplification and library verification**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Set up 5 PCR reactions, one without any template \\(Primers-only) and four with each of AtRNL– T5Exo– Tpt1+, AtRNL– T5Exo+ Tpt1+, AtRNL+ T5Exo– Tpt1+, or AtRNL+ T5Exo+ Tpt1+ products, as follows:\r\n  \r\n\n\nPrimers-only\r\n\n\n5X HF Buffer: 10 uL\r\n\n\n10 mM dNTPs: 2 uL\r\n\n\n100% DMSO: 0.5 uL\r\n\n\n40 uM PCR.1.Index: 1 uL\r\n\n\n40 uM PCR.2: 1 uL\r\n\n\n2U/uL Phusion DNA Polymerase: 0.5 uL\r\n\n\nH<sub>2</sub>O: 35 uL\r\n\n\nTotal: 50 uL\r\n\n\n\r\n\n\nTemplate+\r\n\n\n5X HF Buffer: 10 uL\r\n\n\n10 mM dNTPs: 2 uL\r\n\n\n100% DMSO: 0.5 uL\r\n\n\n40 uM PCR.1.Index: 1 uL\r\n\n\n40 uM PCR.2: 1 uL\r\n\n\nDNA: 20 uL\r\n\n\n2U/uL Phusion DNA Polymerase: 0.5 uL\r\n\n\nH<sub>2</sub>O: 15 uL\r\n\n\nTotal: 50 uL\r\n\n\n\r\n\n\nDNA indicates either AtRNL– T5Exo– Tpt1+, AtRNL– T5Exo+ Tpt1+, AtRNL+ T5Exo– Tpt1+, or AtRNL+ T5Exo+ Tpt1+ product. 5–30 uL of each product could be used as template for PCR. Koh et al.1 used 20 uL. For products which were not treated with T5 Exonuclease \\(AtRNL– T5Exo– Tpt1+ and AtRNL+ T5Exo– Tpt1+), 5 uL is sufficient to visualize non-specific amplification."
+            },
+            {
+                "title": "2.",
+                "body": "Run PCR with the following settings:\r\n  \r\n\n\n98 °C for 30 s\r\n\n\n98 °C for 10 s, 65 °C for 20 s, and 72 °C for 30 s \\(repeated for 30 cycles)\r\n\n\n72 °C for 5 m\r\n\n\n4 °C\r\n\n\n\r\n\n\nPCR could be run for 26–32 cycles. Koh et al. used 30 cycles."
+            },
+            {
+                "title": "3.",
+                "body": "Run 6% Non-denaturing PAGE with 10 uL aliquot of each sample. Koh et al. used 100 bp DNA Ladder \\(NEB) as the ladder."
+            },
+            {
+                "title": "4.",
+                "body": "Stain the gel in 1X SYBR Gold \\(Life Technologies) for 30–40 m."
+            },
+            {
+                "title": "5.",
+                "body": "Visualize under UV light. An exemplary gel image is shown in Figure"
+            },
+            {
+                "title": "2.",
+                "body": "AtRNL+ T5Exo+ Tpt1+ sample will be your ribose-seq library while Primers-only and AtRNL– T5Exo+ Tpt1+ samples will be your controls where no amplification should be observed \\(only primer dimers)."
+            },
+            {
+                "title": "6.",
+                "body": "Purify PCR mixtures from Primers-only, AtRNL– T5Exo+ Tpt1+, and AtRNL+ T5Exo+ Tpt1+ using RNAClean XP with elution volume of 15 uL. Controls Primers-only and AtRNL– T5Exo+ Tpt1+ are also purified so that the amount of actual ribose-seq library can be determined and quantitatively confirmed."
+            },
+            {
+                "title": "7.",
+                "body": "Use Qubit 2.0 \\(dsDNA HS) to quantify the amount of ribose-seq library. Confirm that the amount of purified Primers-only product is similar to the amount of AtRNL– T5Exo+ Tpt1+. The amount of the actual ribose-seq library can be calculated by subtracting the amount of AtRNL– T5Exo+ Tpt1+ \\(which should be just primer dimers) from AtRNL+ T5Exo+ Tpt1+. Typically, ~25 nM of the ribose-seq library is resulted."
+            }
+        ]
+    }
+]

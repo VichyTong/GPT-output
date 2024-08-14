@@ -1,0 +1,114 @@
+[
+    {
+        "title": "**Preliminaries**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Treat coverslips with 0.1mg/ml poly-D-lysine and 0.01mg/ml laminin and leave at 37<sup>o</sup>C overnight. The next day remove the coating solution and dry thoroughly."
+            },
+            {
+                "title": "2.",
+                "body": "Prepare the digestion, dissection and cortex media’s as described in Reagents.  Place the dissection media on ice, and the cortex media at 37<sup>o</sup>C."
+            },
+            {
+                "title": "3.",
+                "body": "Prepare the papain solution on the day of culture: Add 1ml 20mM cysteine-HCl and 400U papain to 9ml digestion solution.  Warm the solution at 37<sup>o</sup>C for 20 minutes and then neutralize to pH 7.0 using 0.1M NaOH.  Filter sterilize and keep at room temperature."
+            }
+        ]
+    },
+    {
+        "title": "**Isolation of rat embryonic cortices**",
+        "body": [
+            {
+                "title": "4.",
+                "body": "Sacrifice E17 rat according to institutional ethically approved procedures."
+            },
+            {
+                "title": "5.",
+                "body": "Immediately remove the uterus and place in dissection solution on ice."
+            },
+            {
+                "title": "6.",
+                "body": "Isolate individual embryos, decapitate and remove the whole brain, and place in fresh dissection media."
+            },
+            {
+                "title": "7.",
+                "body": "Dissect the cortices using a dissection microscope being careful to remove the meninges. Collect the cortices in a 50ml tube containing ice-cold dissection solution."
+            }
+        ]
+    },
+    {
+        "title": "**Enzymatic Digestion**",
+        "body": [
+            {
+                "title": "8.",
+                "body": "Remove dissection solution from the cortices and add 10mls papain solution."
+            },
+            {
+                "title": "9.",
+                "body": "Leave at 37<sup>o</sup>C for 25 minutes, gently swirling the cortices every 5 minutes.  Do not shake the tubes during the last 5 minutes of digestion."
+            },
+            {
+                "title": "10.",
+                "body": "Remove the papain solution carefully as cortices become ‘sticky’.  Immediately add 1ml FBS to inhibit any remaining papain."
+            },
+            {
+                "title": "11.",
+                "body": "Wash the cortices by gentle addition and removal of 10ml warm cortical media. Repeat washes four times."
+            },
+            {
+                "title": "12.",
+                "body": "Dissociate the cortices in 10mls cortical media by passing through a 10ml plastic pipette 8 times."
+            },
+            {
+                "title": "13.",
+                "body": "Pass the dissociated culture through a 40µM cell strainer."
+            },
+            {
+                "title": "14.",
+                "body": "Estimate the cell number using a hemocytometer chamber and dilute the culture to 0.5M cells per ml."
+            },
+            {
+                "title": "15.",
+                "body": "Plate 200,000 cells per coated coverslip in a 4-well plate and place in a cell incubator at 37<sup>o</sup>C and 10% CO<sub>2</sub>."
+            }
+        ]
+    },
+    {
+        "title": "**DAF Imaging**",
+        "body": [
+            {
+                "title": "16.",
+                "body": "Perform DAF imaging on cortical neurons at 4 days _in vitro_.  Starve cells 16 hours prior to the following protocol in media containing 3% serum and 50µM DL-AP5."
+            },
+            {
+                "title": "17.",
+                "body": "Load cells with the probe by replacing media with DMEM containing 1mM glutamine, 50µM DL-AP5 and 10 µM DAF-FM-DA and left at 37<sup>o</sup>C for 30 minutes.  Use DMEM free of phenol red as it may affect the fluorescence."
+            },
+            {
+                "title": "18.",
+                "body": "Wash the cells three times using media to remove excess probe.  Replace the cells at 37<sup>o</sup>C for 15 minutes.  This allows intracellular de-esterification of the probe to form the cell impermeable DAF-FM."
+            },
+            {
+                "title": "19.",
+                "body": "Treat the cells as desired.  NO production usually occurs rapidly, within minutes. However, if longer time courses are required then return the cells to 37<sup>o</sup>C."
+            },
+            {
+                "title": "20.",
+                "body": "Upon completion of treatment, replace the media with DMEM containing 2.67ng/ml CellTracker Red CMTPX for 30 minutes to allow visualization of cell morphology."
+            },
+            {
+                "title": "21.",
+                "body": "Wash the cells once in PBS containing Hoescht for 5 minutes."
+            },
+            {
+                "title": "22.",
+                "body": "Wash twice with PBS alone and fix in 4% PFA at room temperature for 15 minutes."
+            },
+            {
+                "title": "23.",
+                "body": "Immediately mount the coverslips and image within 24 hours using a confocal microscope at an excitation/emission maxima of 495/515nm."
+            }
+        ]
+    }
+]

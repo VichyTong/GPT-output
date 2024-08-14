@@ -1,0 +1,203 @@
+[
+    "\nPROCEDURE\r\n\n\nPhotolithography: fabrication of masters and rigid stamps TIMING 1-3 days\r\n\n\nFollow protocols in refs.\\(1),\\(4),\\(5) or:",
+    {
+        "title": "1.",
+        "body": "Design the masks by CAD or other vectorial graphic software.\r\n   CRITICAL STEP Define properly the distances and geometry of the stamp to prevent sagging using soft stamps."
+    },
+    {
+        "title": "2.",
+        "body": "Photomask fabrication:\r\n  A. for low-resolution mask \\(feature size >20 µm), print by a high-resolution printer the features on transparent plastic sheet.\r\n\n\nB. for high-resolution mask \\(feature size 10 µm < Size < 20 µm), print by laser marker to engrave metallic foils. \r\n\n\n CRITICAL STEP: It is important for the metallic layer to be enough thick to shadow the UV light during the photolithography illumination. It is also crucial that material supporting the the thin metallic layer is homogeneouly transparent to the IR laser to avoid artifactual shadowings.\r\n\n\nC. a commercial chrome photomask \\(photomask with micrometric feature can be fabricated in 1-2 week by supplier)"
+    },
+    {
+        "title": "3.",
+        "body": "Clean accurately the substrate supporting the photoresist layer: using a silicon wafer 30 minutes in Piranha solution. Then rinse with ultrapure water and dry with clean gas flow. If it has not to be used immediately, store the substrate in ultrapure water."
+    },
+    {
+        "title": "4.",
+        "body": "Fix the silicon on the spin coater, spread the photoresist and start the chosen program. For SU-8 a two steps program with a first step of 5 seconds at 300 rpm followed by a second one of 50 seconds at 1000 rpm is suitable for a 20 μm layer \\(for 10 μm double the rpm reaching 2000)."
+    },
+    {
+        "title": "5.",
+        "body": "Heat sample to remove the solvent \\(3 min. at 65°C followed by 7 min. at 95°C) before the exposition"
+    },
+    {
+        "title": "6.",
+        "body": "Expose the photoresist film to the UV light using the Mask Aligner, chose times between 6 s for a 40 μm layer and 1 sec. for 1 μm."
+    },
+    {
+        "title": "7.",
+        "body": "Remove the sample from the Mask Aligner and place on the heater for 2 min. at 65°C followed by 4 min. at 95°C."
+    },
+    {
+        "title": "8.",
+        "body": "Develop the sample using the following two solutions: SU-8 developer and isopropanol; the former remove the material and the latter stop the process. The time within the developer can range between 30 s and 3 minutes according to the thickness.\r\n   CRITICAL The substrate holding the photoresist layer must be extremely clean and, during the exposition, the photomask has to adhere well to the photoresist.\r\n\n\n PAUSE POINT The photolithographic fabricated master can also be used both directly of through replica molding of elastomeric stamps for LCW.\r\n\n\n\r\n\n\nElectron beam lithography: fabrication of masters and rigid TIMING 1-2 days\r\n\n\nFollow protocol as in refs.\\(1),\\(5) or"
+    },
+    {
+        "title": "1.",
+        "body": "Spin coat PMMA, 5000rpm for 5 min, on silicon previously cleaned as described for photolithography."
+    },
+    {
+        "title": "2.",
+        "body": "Bake the sample on a hot plate at 180 °C for 60 s to flatten the film, get rid of residual solvent, and enhance the adhesion between PMMA and the substrate."
+    },
+    {
+        "title": "3.",
+        "body": "Insert the PMMA film in the Scanning Electron Microscope chamber and create the vacuum."
+    },
+    {
+        "title": "4.",
+        "body": "Start writing the pattern with the electron beam using respectively Vacc=30kV and IEM=10μA to generate a pattern of holes in a PMMA film and Vacc=30kV and IEM=20μA to generate a pattern of reliefs in the same film."
+    },
+    {
+        "title": "5.",
+        "body": "Optimise the focus gradually until reaching the highest magnification and measure the current in a hole of the Faraday Cup; for a pattern of holes in PMMA IFC ∼0.6 nA, for reliefs IFC ∼4 nA."
+    },
+    {
+        "title": "6.",
+        "body": "Chose the dose \\(this will fix the time you need for patterning the chosen area); for holes in PMMA the Doses must be 500-5000 μC/cm2 for reliefs 5000-50000 μC/cm2."
+    },
+    {
+        "title": "7.",
+        "body": "Remove the sample from the SEM chamber and develop the film: \r\n  A. for a pattern of holes in PMMA use a solution 1:3 methyl isobutylketone:isopropanol \\(MIBK:IPA) at 20°C for 60 s, then rinse in pure IPA for 60 s, and finally dry with nitrogen gas.\r\n\n\nB. for a pattern of reliefs leave the sample for 10-20 s in acetone and then rinse in pure water for 60 s and dry with nitrogen gas.\r\n\n\n PAUSE POINT The EBL fabricated master can also be used both directly of through replica molding of elastomeric stamps for LCW.\r\n\n\n\r\n\n\nReplica molding of a master: fabrication of soft stamps TIMING 6-12 h\r\n\n\nFollow protocols in refs.\\(1),\\(6) or:"
+    },
+    {
+        "title": "1.",
+        "body": "Pipette inside a cup 10 parts of Sylgard 184 base and 1 part of the curing agent \\(w/w)."
+    },
+    {
+        "title": "2.",
+        "body": "Use a spatula or a spoon to carefully mix the base and curing agent for at least 3 min.\r\n   CRITICAL STEP Ensure that the two components are perfectly mixed. Incomplete mixing may affect the curing behaviour, homogeneity and mechanical properties of the resulting stamp."
+    },
+    {
+        "title": "3.",
+        "body": "Place the master on a Petri dish and put on top of it a thickness mask to define size and shape of the stamp \\(e.g. a metallic washer).\r\n   CRITICAL STEP use clean tweezers to manipulate the master avoid touch any feature present on top of the master. Plastic tweezers are preferred for these operations."
+    },
+    {
+        "title": "4.",
+        "body": "Pipette the fluid mixture to the desired thickness inside the washer; remove the bubbles by placing the Petri dish in a box \\(e.g. a desiccator) and connect to the vacuum line of the fume hood for 15 min. \r\n   CRITICAL STEP It is important to complete this step after pouring the mixed PDMS onto the master so that no bubbles will be trapped at the interface between the master and PDMS."
+    },
+    {
+        "title": "5.",
+        "body": "Turn off the vacuum and vent the box."
+    },
+    {
+        "title": "6.",
+        "body": "Curing: Place the Petri dish containing both the master and the PDMS/curing mixture 48 h in the desiccator at room temperature \\(20°C) or, for a faster preparation, in an oven set to 70 °C and cure it for 6 h."
+    },
+    {
+        "title": "7.",
+        "body": "Peel-off the PDMS stamp and the washer from the master. Use a finger or a spatula to remove the PDMS stamp from the washer. \r\n  \r\n\n\n\r\n\n\n\r\n\n\nNanoimprinting: fabrication of semi-rigid stamps TIMING 6-12 h"
+    },
+    {
+        "title": "1.",
+        "body": "Nanoimprinting of polycarbonate: Insert a foil >500 µm thick of polycarbonate in between the plate of a press. A thickness ranging between 0.5 mm and 1mm are ideal for an easy manipulation by tweezers normally the flat side of commercial CD or DVD can work properly \\(Note the unpatterned side of CD or DVD can properly work)."
+    },
+    {
+        "title": "2.",
+        "body": "Place the master on top of the polycarbonate foil with the features in contact with the polymer."
+    },
+    {
+        "title": "3.",
+        "body": "Put the plates of the press in contact, sandwich the polycarbonate and master and apply a low pressure <5 bar. By this operation the master will be conformal with the polycarbonate."
+    },
+    {
+        "title": "4.",
+        "body": "Heat the plates at 130°C; wait the thermalization of the system for 20 min."
+    },
+    {
+        "title": "5.",
+        "body": "Apply a pressure of 75 bar for 1 min."
+    },
+    {
+        "title": "6.",
+        "body": "Deprint the plates."
+    },
+    {
+        "title": "7.",
+        "body": "Remove the master from the polycarbonate foil with the help of a spatula\r\n  \\! CAUTION be sure that the temperature reach above room temperature).\r\n\n\n CRITICAL STEP pay attention to the cleaning of the environment and in particular the interface between the master and the foil, usually for sub-micrometric resolution you can work under laminar wood, in the case of <200 nm feature the use of a clean room is desirable furthermore the stamp surface must be functionalised by anti-adhesion SAM as step 9-12 of the protocol.\r\n\n\n\r\n\n\nVacuum sublimation of metals: stamp metallization TIMING 6-12 h\r\n\n\nStamp metallization is necessary only if you use aggressive solvents, it must be done using vacuum system, which is commercially apparatus. Metallization system it is usually available in common preparation facilities. See also protocol in ref.4"
+    },
+    {
+        "title": "1.",
+        "body": "Fix the stamp on a sample holder with the features exposed."
+    },
+    {
+        "title": "2.",
+        "body": "Put the system in vacuum with pressure<10-6 bar"
+    },
+    {
+        "title": "3.",
+        "body": "Evaporate >50 nm of Au taking the crucible at a temperature suitable for a rate <1 nm/min. \\(thickness ranging between 50 and 100 nm offer adequate protection of the polymer without alter the stamp features) the sample must kept at room temperature. Monitor the growth rate by the quartz microbalance \\(a quartz microbalance tool is usually present in each commercial metallization system). \r\n   CRITICAL POINT the metallization take all polymers impermeable to the solvent, thus in some case it changes the result of your patterning.\r\n\n\n\r\n\n\nMetallic grids and masks fabrication TIMING 1-2 days"
+    },
+    {
+        "title": "1.",
+        "body": "Design the masks by CAD or other vectorial graphic software."
+    },
+    {
+        "title": "2.",
+        "body": "Take a metallic foil thick enough to be self standing, aluminium is the most suitable and easier to find as a commercial product, and let it adhere well and uniformly onto a glass support or onto any other material that is flat and transparent to IR light."
+    },
+    {
+        "title": "3.",
+        "body": "Place the metal+support onto the scanner of a IR marker and start writing \\(Note: the laser intensity and the focus of the beam will define the size of the feature where metal is removed).\r\n    CRITICAL POINT Tuning the laser intensity one has to pay attention to avoid the formation of rims of metal on the border of the engraved areas and to tune the speed of the laser to have the borders of the features as much as possible uniform."
+    },
+    {
+        "title": "4.",
+        "body": "Detach the metallic foil from the support and use this mask for PRINTING.\r\n  \r\n\n\nMetallized stamp from blank CD TIMING 20 min"
+    },
+    {
+        "title": "1.",
+        "body": "Rinse the label layer of the blank CD with ethanol and dry in a stream of nitrogen for 60 s."
+    },
+    {
+        "title": "2.",
+        "body": "Rinse the solid substrate \\(e.g., glass, silicon wafer) with ethanol and dry in a stream of nitrogen for 30 s."
+    },
+    {
+        "title": "3.",
+        "body": "Stick a double-sided tape on the solid substrate and use a razor blade to remove the tape in excess.\r\n   CRITICAL STEP it is important to use a double-sided tape compatible with the solvent used in the next steps."
+    },
+    {
+        "title": "4.",
+        "body": "Stick the substrate on the label layer of the blank CD using the second adhesive layer of the tape and press down with hand to achieve a homogeneous contact. Use a razor blade to cut the label layer of the blank CD along the edges of the substrate."
+    },
+    {
+        "title": "5.",
+        "body": "Peel off the substrate with the metal layer of the blank CD carefully with the aid of a flat head tweezers. \r\n   CRITICAL STEP it is important to peel off the substrate slowly to prevent the breaking of the metal layer."
+    },
+    {
+        "title": "6.",
+        "body": "Rinse the metallic side of the blank CD with ethanol to remove the organic dye and dry in a stream of nitrogen for 30 s.\r\n  \r\n\n\nSoft stamp from blank CD TIMING 8 h"
+    },
+    {
+        "title": "1.",
+        "body": "Peel-off the label \\(and metallic) layer of the CD from its polycarbonate layer using an adhesive tape.\r\n   CRITICAL STEP To facilitate this step, make a little scratch on the border of the label layer with a razor blade."
+    },
+    {
+        "title": "2.",
+        "body": "Rinse the polycarbonate layer of the blank CD with ethanol to remove the organic dye and dry in a stream of nitrogen for 60 s."
+    },
+    {
+        "title": "3.",
+        "body": "Follow fabrication of soft stamp using the polycarbonate side of the CD as master. \\(Note to achieve stamps with a thickness in the range of 0.3-0.5 cm use 25 g of mixture for single CD). \r\n   CRITICAL STEP It is important to peel off the substrate slowly to prevent the breaking of the metal layer.\r\n\n\n\r\n\n\nMetallized stamp from Digital Video Disc \\(DVD) TIMING 10 min"
+    },
+    {
+        "title": "1.",
+        "body": "Separate the two polycarbonate layers of the DVD using spatula and robust tweezers. \r\n   CRITICAL STEP It is important to separate the substrates slowly to prevent the breaking of the metal layer."
+    },
+    {
+        "title": "2.",
+        "body": "Rinse the metallic layer of the blank DVD with ethanol to remove the organic dye and dry in a stream of nitrogen for 60 s."
+    },
+    {
+        "title": "3.",
+        "body": "Cut the metallic layer supported on polycarbonate with a razor blade into stamps with the desired dimensions.\r\n  \r\n\n\nSoft stamp from diffraction grating TIMING 8 h"
+    },
+    {
+        "title": "1.",
+        "body": "Rinse the diffraction grating with the proper solvent and dry in a stream of nitrogen for 60 s.\r\n   CRITICAL STEP It is important to use a solvent that does not damage the diffraction grating."
+    },
+    {
+        "title": "2.",
+        "body": "Follow fabrication of soft stamp using the diffraction grating as master."
+    }
+]

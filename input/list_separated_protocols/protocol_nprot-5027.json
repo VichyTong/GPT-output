@@ -1,0 +1,532 @@
+[
+    {
+        "title": "**Day 1: Cell fixation**",
+        "body": [
+            "Note: centrifugation steps were performed in a bench top centrifuge e.g. Eppendorf 5810R. Once cells have been harvested, work with cells in Falcon tubes.",
+            {
+                "title": "1.",
+                "body": "Grow cells to 70 % confluency\r\n  Note: We suggest using 20 million cells per sample: 10 million for the full procedure and 10 million for a control performed without T4 DNA ligase in the first ligation reaction."
+            },
+            {
+                "title": "2.",
+                "body": "Wash cells with PBS \\(-/-)"
+            },
+            {
+                "title": "3.",
+                "body": "Detach cells using trypsin \\(e.g. HeLa/U2OS) or accutase \\(e.g. NHEKs)"
+            },
+            {
+                "title": "4.",
+                "body": "Add an equal amount of complete growth medium to the detached cells"
+            },
+            {
+                "title": "5.",
+                "body": "Transfer cells to a Falcon tube and centrifuge at 1300 rpm for 5 min at room temperature to pellet the cells"
+            },
+            {
+                "title": "6.",
+                "body": "Remove the supernatant, re-suspend cells in complete medium and count"
+            },
+            {
+                "title": "7.",
+                "body": "Make a single cell suspension \\(by pipetting up and down 10 times) of 1 million cells/1.5 mL in DMEM 10 % FBS \\(maximum of 25 million cells / 50 mL Falcon tube)"
+            },
+            {
+                "title": "8.",
+                "body": "To the single cell suspension add formaldehyde to a final concentration of 2 %"
+            },
+            {
+                "title": "9.",
+                "body": "Rotate \\(7 rpm) at room temperate for 30 min"
+            },
+            {
+                "title": "10.",
+                "body": "Add 2 M glycine to achieve a final concentration of 125 mM"
+            },
+            {
+                "title": "11.",
+                "body": "Rotate \\(7 rpm) for a further 5 min at room temperature"
+            },
+            {
+                "title": "12.",
+                "body": "Chill samples on ice for 10 min\r\n  From this point forward work on ice for the rest of the day unless stated otherwise."
+            },
+            {
+                "title": "13.",
+                "body": "Centrifuge cells at 1200 rpm for 5 min at 4 °C with the break switched off"
+            },
+            {
+                "title": "14.",
+                "body": "Remove the supernatant, tap tube against hand to loosen the pellet and add ice cold PBS \\(same volume as was removed)\r\n  Note: we suggest loosening pellet by tapping, rather than re-suspending using pipettes, to avoid loss of material."
+            },
+            {
+                "title": "15.",
+                "body": "Invert tube 5 times"
+            },
+            {
+                "title": "16.",
+                "body": "Centrifuge the cells at 1200 rpm for 5 min at 4 °C with the break switched off"
+            },
+            {
+                "title": "17.",
+                "body": "Remove the supernatant, tap tube against hand to loosen the pellet and add ice cold PBS \\(same volume as was removed)"
+            },
+            {
+                "title": "18.",
+                "body": "Store fixed cells in PBS at 4 °C over night or alternatively proceed immediately to day 2"
+            }
+        ]
+    },
+    {
+        "title": "**Day 2: Isolation of nuclei**",
+        "body": [
+            "Note: centrifugation steps were performed in a bench top centrifuge e.g Eppendorf 5810R. Work with cells in Falcon tubes. Work on ice unless stated otherwise.",
+            {
+                "title": "19.",
+                "body": "Centrifuge cells at 1200 rpm for 5 min at 4 °C with the break switched off"
+            },
+            {
+                "title": "20.",
+                "body": "Remove supernatant, tap tube against hand to loosen the pellet"
+            },
+            {
+                "title": "21.",
+                "body": "Add chilled Lysis buffer \\(see reagents; 200 μL/10<sup>6</sup> cells)"
+            },
+            {
+                "title": "22.",
+                "body": "Invert tube gently until the pellet is re-suspended"
+            },
+            {
+                "title": "23.",
+                "body": "Incubate for 90 min at 4 °C rotating at 7 rpm"
+            },
+            {
+                "title": "24.",
+                "body": "Centrifuge cells at 1200 rpm for 5 min at 4 °C with the break switched off"
+            },
+            {
+                "title": "25.",
+                "body": "Remove supernatant and tap tube against hand to loosen the pellet \\(image cells, see"
+            }
+        ]
+    },
+    {
+        "title": "**Fig.2b**",
+        "body": [
+            "for representative images of cells at this point)",
+            {
+                "title": "26.",
+                "body": "Add"
+            }
+        ]
+    },
+    {
+        "title": "**room temperature**",
+        "body": [
+            "Nucleus Break buffer \\(see reagents; 200 μl/10<sup>6</sup> cells)",
+            {
+                "title": "27.",
+                "body": "Invert tube gently until the pellet is re-suspended"
+            },
+            {
+                "title": "28.",
+                "body": "Incubate at 37 °C for 45 min whilst gently rotating"
+            },
+            {
+                "title": "29.",
+                "body": "Centrifuge cells at 1200 rpm for 5 minutes at"
+            }
+        ]
+    },
+    {
+        "title": "**room temperature**",
+        "body": [
+            "with the break switched off. Note: room temperature is required to avoid the precipitation of SDS.",
+            {
+                "title": "30.",
+                "body": "Remove the supernatant. Pellet may be loose, remove as much supernatant as possible without disturbing the pellet"
+            },
+            {
+                "title": "31.",
+                "body": "Add chilled 1 × NEBuffer 2 \\(see reagents) + 0.1 % Triton X-100 \\(freshly added) so that the final volume in the tube is equivalent to 10 million cells/mL"
+            },
+            {
+                "title": "32.",
+                "body": "Re-suspend by pipetting up and down and transfer nuclei to 2 ml Eppendorf tubes \\(10 million nuclei/tube i.e. 1 mL/tube)\r\n  Note: familiarise yourself with steps 33-35 before proceeding."
+            },
+            {
+                "title": "33.",
+                "body": "Place samples on ice and add Proteinase K \\(20 mg/ml) to a final concentration of 100 μg/ml"
+            },
+            {
+                "title": "34.",
+                "body": "Vortex samples briefly at minimum power and then incubate for 8 minutes at 37 °C in a water bath"
+            },
+            {
+                "title": "35.",
+                "body": "Work quickly: Place samples on ice and immediately add an equal volume of NEBuffer 2 + 0.1 % Triton X-100 \\(freshly added) + 1:50 PMSF \\(freshly added; filter buffer through 0.2 μm filter before adding)"
+            },
+            {
+                "title": "36.",
+                "body": "Invert tubes to mix \r\n  Note: now that cells are in 2 ml Eppendorf tubes centrifuge samples in a bench top microcentrifuge \\(e.g. Eppendorf 5415R).\r\n\n\nCritical steps applying to all centrifugation steps until the nuclei are lysed: the pellet may not be visible in the tube by eye. Centrifuge with the hinge of the Eppendorf tube facing outwards so that the pellet will accumulate against the wall of the tube at the side with the hinge. Knowing the position of the pellet carefully remove as much of the supernatant as possible \\(approximately 50 μL can be left behind). If the pellet is accidentally removed it may be visible in the pipette tip. Do not discard the supernatant, but transfer it to another Eppendorf tube. Check the supernatant for nuclei \\(see below) – if the supernatant contains nuclei, centrifuge the supernatant again with a spin speed 1000 g greater than the indicated spin speed. Remove the supernatant and add the recovered nuclei back to the original tube \\(this is most easily done by adding the wash buffer or reaction buffer for the subsequent step to the pelleted nuclei and then transferring the nuclei/buffer solution back the original tube. Also make sure that the supernatant from this repeated centrifugation step is free from nuclei. Different cell types behave differently during the centrifugation steps and thus require slightly different spin-speeds. It is important not to loose material during the wash steps so we recommend checking the supernatant for nuclei after each centrifugation step and to re-centrifuge if necessary. Checking for nuclei: mix 10 μL of supernatant with 10 μL trypan blue and visualise nuclei using a light microscope. We use Ibidi slides to aid this process."
+            },
+            {
+                "title": "37.",
+                "body": "Centrifuge the nuclei at 1200 g for 10 min at 4 °C and remove the supernatant"
+            },
+            {
+                "title": "38.",
+                "body": "Add chilled 1 × NEBuffer 2 + 0.1 % Triton X-100 \\(freshly added) \\(100 μL /10<sup>6</sup> cells). Close tube and invert rapidly to re-suspend the pellet"
+            },
+            {
+                "title": "39.",
+                "body": "Centrifuge the nuclei at 1200 g for 10 min at 4 °C and remove the supernatant"
+            },
+            {
+                "title": "40.",
+                "body": "Add chilled 1 × NEBuffer 2 + 0.1% Triton X-100 \\(freshly added) \\(100 μL/10<sup>6</sup> cells). Close tube and invert rapidly to re-suspend the pellet \r\n  Image nuclei: see"
+            }
+        ]
+    },
+    {
+        "title": "**Fig.2c**",
+        "body": [
+            "for representative images of nuclei at this point.",
+            {
+                "title": "41.",
+                "body": "Store nuclei at 4 °C overnight or alternatively proceed immediately to day 3"
+            }
+        ]
+    },
+    {
+        "title": "**Day 3: _In situ_ adapter ligation \\(modified P5 Illumina adapter)**",
+        "body": [
+            "Work on ice unless specified otherwise.\r\n\n\nNote: anneal the modified P5 Illumina adapter with its complement before use \\(see methods in manuscript).",
+            {
+                "title": "42.",
+                "body": "Centrifuge the nuclei at 1200 g for 10 min at 4 °C and remove the supernatant"
+            },
+            {
+                "title": "43.",
+                "body": "Add chilled 1 × Blunting Buffer + 100 μg/ml BSA \\(200 μl/10<sup>6</sup> nuclei). Close tube and invert rapidly to re-suspend the pellet"
+            },
+            {
+                "title": "44.",
+                "body": "Centrifuge the nuclei at 1200 g for 10 min at 4 °C and remove the supernatant."
+            },
+            {
+                "title": "45.",
+                "body": "Add 1 × Blunting Buffer + 100 μg/ml BSA to the pellet to create a final volume of roughly 86 μl/tube, add:\r\n  \r\n\n\n- 10 μl 1 mM dNTPs\r\n\n\n- 4 μl Blunting Enzyme Mix"
+            },
+            {
+                "title": "46.",
+                "body": "Mix gently by pipetting up and down 10 times"
+            },
+            {
+                "title": "47.",
+                "body": "Incubate the nuclei for 45 min at 25 °C, shaking at 800 rpm for 10 sec every 5 min"
+            },
+            {
+                "title": "48.",
+                "body": "Wash the nuclei 3 × in chilled 1 × NEBuffer 2 + 0.1 % Triton X-100 \\(freshly added) \\(100 μl/10<sup>6</sup> nuclei)"
+            },
+            {
+                "title": "49.",
+                "body": "Centrifuge the nuclei at 2200 g for 10 min at 4 °C, between each wash and remove the supernatant. After the addition of wash buffer close the tube and invert rapidly to re-suspend the pellet"
+            },
+            {
+                "title": "50.",
+                "body": "Add chilled 1 × NEBuffer 2"
+            }
+        ]
+    },
+    {
+        "title": "**without**",
+        "body": [
+            "Triton X-100 \\(100 μl/10<sup>6</sup> nuclei). Close tube and invert rapidly to re-suspend the pellet",
+            {
+                "title": "51.",
+                "body": "Centrifuge the nuclei at 2200 g, remove the supernatant and leave behind approximately 50 μl \\(if less than 50 μl was left behind add more 1 × NEBuffer 2 to make volume up to 50 μl, add:\r\n  \r\n\n\n- 0.5 μl 10 mM dATP\r\n\n\n- 3 μl Klenow Fragment exo-"
+            },
+            {
+                "title": "52.",
+                "body": "Mix gently by pipetting up and down 10 times"
+            },
+            {
+                "title": "53.",
+                "body": "Incubate the nuclei at 37 °C for 45 min, shaking at 800 rpm for 10 sec every 10 min"
+            },
+            {
+                "title": "54.",
+                "body": "Wash the nuclei 3 × in chilled 1 × NEBuffer 2 + 0.1% Triton X-100 \\(freshly added) \\(100 μl/10<sup>6</sup> nuclei)"
+            },
+            {
+                "title": "55.",
+                "body": "Centrifuge the nuclei at 2200 g for 10 min at 4 °C between each wash and remove the supernatant. After the addition of wash buffer close the tube and invert rapidly to re-suspend the pellet"
+            },
+            {
+                "title": "56.",
+                "body": "Add chilled 1 × T4 Ligase Reaction Buffer + 0.1 % Triton X-100 \\(freshly added) \\(100 μl/10<sup>6</sup> nuclei), close the tube and invert rapidly to re-suspend the pellet"
+            },
+            {
+                "title": "57.",
+                "body": "Centrifuge nuclei at 2200 g for 10 min at 4 °C"
+            },
+            {
+                "title": "58.",
+                "body": "Remove the supernatant"
+            },
+            {
+                "title": "59.",
+                "body": "Add chilled 1 × T4 Ligase Reaction Buffer"
+            }
+        ]
+    },
+    {
+        "title": "**without**",
+        "body": [
+            "Triton X-100 \\(100 μl /10<sup>6</sup> nuclei), close the tube and invert rapidly to re-suspend the pellet",
+            {
+                "title": "60.",
+                "body": "Centrifuge the nuclei at 2200 g for 10 min at 4 °C. Remove the supernatant, leaving behind approximately 40 μl, add:\r\n  \r\n\n\n- 10 μl 10 μM modified P5 Illumina adapter\r\n\n\n- 0.6 μl T4 DNA Ligase \\(2,000,000 units/mL)"
+            },
+            {
+                "title": "61.",
+                "body": "Prepare one control without ligase \\(10 million nuclei)"
+            },
+            {
+                "title": "62.",
+                "body": "Mix gently by pipetting up and down 10 times"
+            },
+            {
+                "title": "63.",
+                "body": "Incubate at 16 °C for 15-20 h, shaking at 350 rpm, every 45 min for 15 sec."
+            }
+        ]
+    },
+    {
+        "title": "**Day 4: Excess adapter removal and DNA extraction**",
+        "body": [
+            "Work at room temperature unless specified otherwise.",
+            {
+                "title": "64.",
+                "body": "Wash nuclei twice in 1 × W&B buffer + 0.1 % Triton X-100 \\(freshly added) \\(100 μl/10<sup>6</sup> nuclei)"
+            },
+            {
+                "title": "65.",
+                "body": "Centrifuge nuclei at 3500 g for 10 min at 25 °C between each wash and remove the supernatant. After the addition of wash buffer close the tube and invert rapidly to re-suspend the pellet. \r\n  Note: when checking supernatant for nuclei, first dilute the supernatant in water, otherwise aggregates form upon the addition of trypan blue)."
+            },
+            {
+                "title": "66.",
+                "body": "Add 1 × Lambda Exonuclease reaction buffer \\(50 μl/10<sup>6</sup> nuclei), close the tube and invert rapidly to re-suspend the pellet"
+            },
+            {
+                "title": "67.",
+                "body": "Centrifuge nuclei at 3500 g for 10 min at 25 °C"
+            },
+            {
+                "title": "68.",
+                "body": "Remove the supernatant"
+            },
+            {
+                "title": "69.",
+                "body": "Make volume up to 50 μl/10 million cells using 1 × Lambda Exonuclease reaction buffer"
+            },
+            {
+                "title": "70.",
+                "body": "Add 50 units of Lambda Exonuclease"
+            },
+            {
+                "title": "71.",
+                "body": "Mix gently by pipetting up and down 10 times"
+            },
+            {
+                "title": "72.",
+                "body": "Incubate at 37 °C for 30 min \r\n  From here on in work at 4 °C unless specified otherwise."
+            },
+            {
+                "title": "73.",
+                "body": "Add chilled 1 × NEBuffer 2 + 0.1 % Triton X-100 \\(freshly added) \\(100 μl/10<sup>6</sup> nuclei), close the tube and invert rapidly to re-suspend the pellet"
+            },
+            {
+                "title": "74.",
+                "body": "Centrifuge at 4500 g for 10 min at 4 °C"
+            },
+            {
+                "title": "75.",
+                "body": "Remove the supernatant"
+            },
+            {
+                "title": "76.",
+                "body": "Add chilled 1 × NEBuffer 2 + 0.5 % Triton X-100 \\(freshly added) \\(100 μl/10<sup>6</sup> nuclei), close the tube and invert rapidly to re-suspend the pellet \r\n  Note: set aside 5 μl."
+            },
+            {
+                "title": "77.",
+                "body": "Add 20 mg/ml Proteinase K to a final concentration of 200 μg/ml"
+            },
+            {
+                "title": "78.",
+                "body": "Incubate for 30 min at 55 °C, shaking at 800 rpm"
+            },
+            {
+                "title": "79.",
+                "body": "Incubate for 30 min at 65 °C, shaking at 800 rpm\r\n  Note: whilst the nuclei are digesting image the nuclei using the 5 μl that were set aside \\(see"
+            }
+        ]
+    },
+    {
+        "title": "**Fig.2d**",
+        "body": [
+            "for representative images of nuclei at this point).",
+            {
+                "title": "80.",
+                "body": "Centrifuge the sample at maximum speed for 1 min"
+            },
+            {
+                "title": "81.",
+                "body": "Place the samples on ice and divide each tube into 2 \\(500 μl per tube)"
+            },
+            {
+                "title": "82.",
+                "body": "Add 214 μl 1 M potassium acetate per tube"
+            },
+            {
+                "title": "83.",
+                "body": "Vortex for 5 sec"
+            },
+            {
+                "title": "84.",
+                "body": "Add 2 μl GlycoBlue per tube"
+            },
+            {
+                "title": "85.",
+                "body": "Vortex for 5 sec"
+            },
+            {
+                "title": "86.",
+                "body": "Add 500 μl ice cold propan-2-ol per tube"
+            },
+            {
+                "title": "87.",
+                "body": "Vortex at max speed until the aqueous and organic phases have mixed"
+            },
+            {
+                "title": "88.",
+                "body": "Chill samples on ice for 20 min, store at -80 °C overnight \r\n  Note: samples are stable at this point and can be stored for longer periods at -80 °C."
+            }
+        ]
+    },
+    {
+        "title": "**Day 5: DNA fragmentation**",
+        "body": [
+            "Work on ice unless stated otherwise.",
+            {
+                "title": "89.",
+                "body": "Centrifuge samples for 30 min at max speed, 4 °C"
+            },
+            {
+                "title": "90.",
+                "body": "Remove the supernatant"
+            },
+            {
+                "title": "91.",
+                "body": "Add 500 μl ice cold 70 % ethanol per tube"
+            },
+            {
+                "title": "92.",
+                "body": "Vortex for 5 sec"
+            },
+            {
+                "title": "93.",
+                "body": "Centrifuge for 5 min at max speed, 4 °C"
+            },
+            {
+                "title": "94.",
+                "body": "Remove the supernatant"
+            },
+            {
+                "title": "95.",
+                "body": "Add 500 μl ice cold 70 % ethanol per tube"
+            },
+            {
+                "title": "96.",
+                "body": "Vortex for 5 sec"
+            },
+            {
+                "title": "97.",
+                "body": "Centrifuge for 5 min at max speed, 4 °C"
+            },
+            {
+                "title": "98.",
+                "body": "Remove any remaining ethanol"
+            },
+            {
+                "title": "99.",
+                "body": "Air dry pellets\r\n  100. Dissolve each pellet in 90 μl of nuclease-free water\r\n  101. Incubate samples at 55 °C, shaking at 800 rpm for 1 h\r\n  102. Centrifuge for 1 min at maximum speed, pool two tubes of one kind together \\(180 μl total)\r\n  Note: material may be extremely gloopy, this is normal and expected. \r\n\n\n103. Transfer material to a sonication tube and sonicate: we use the Biorupter plus on HIGH setting with parameters: 30 seconds ON; 30 seconds OFF for a total of approx. 25 cycles, with the water bath chilled to 4 °C\r\n  Note: aim for an average fragment length of 200-500 bp. After 15 cycles, image 1 μl DNA on an agarose gel to determine the average fragment length and assess whether further cycles of sonication are necessary.\r\n\n\n104. Once the desired fragment length has been obtained transfer DNA to LoBind Eppendorf tube \r\n  Note: work with DNA in LoBind Eppendorf tubes wherever possible.\r\n\n\n105. Quantify DNA \\(e.g. Qubit fluorimeter) \r\n  106. Store samples at -20 °C or alternatively proceed directly to day 6"
+            }
+        ]
+    },
+    {
+        "title": "**Day 6: Second adapter ligation \\(modified P7 Illumina adapter)**",
+        "body": "Work at room temperature unless specified otherwise.\r\n\n\nNote: anneal the modified P7 Illumina adapter with its complement before use \\(see methods in manuscript).\r\n\n\n\r\n\n\n107. Use 5 μl Dynabeads MyOne Strepdavidin C1 per 50 μg of DNA \r\n  Note: 10 million cells should yield over 50 μg of DNA but if less DNA is available use as much as possible; we have also performed experiments using 20 μg and observed a similar number of peaks \\(see:"
+    },
+    {
+        "title": "**Supplementary Fig. 4c**",
+        "body": "in the manuscript). \r\n\n\n108. Wash beads twice with 1 mL 1 × W&B buffer + 0.1 % Triton X-100 \\(freshly added)\r\n  109. Add an equal volume of 2 × W&B buffer + 0.2% Triton X-100 \\(freshly added) to the DNA to create a 1 × final concentration  \r\n  110. Add the DNA to the beads \\(50 μg of DNA to 5 μl beads/tube, make volume up to 0.6 mL using 1 × W&B buffer + 0.1% Triton X-100 \\(freshly added)) and rotate at 7 rpm for 45 min at 4 °C\r\n  111. Place tubes onto magnetic rack to capture the beads and remove the supernatant \r\n  112. Wash beads 3 × in 1 mL 1 × W&B buffer + 0.1 % Triton X-100 \\(freshly added)\r\n  Critical step: when washing the beads, replace buffer immediately after removing it. Do not let the beads dry.\r\n\n\n113. Re-suspend the beads in 42 μl 1 × Blunting Buffer, add:\r\n  \r\n\n\n- 0.8 μl 10 × Blunting Buffer\r\n\n\n- 0.25 μl BSA \\(20 mg/mL) \r\n\n\n- 5 μl 1 mM dNTPs  \r\n\n\n- 2 μl Blunting Enzyme Mix\r\n\n\n\r\n\n\n114. Incubate for 45 min at 25 °C, shaking at 800 rpm every 5 min for 10 sec \r\n  115. Wash beads 3 × in 1 ml 1 × W&B buffer + 0.1 % Triton X-100 \\(freshly added)\r\n  Critical step: when washing the beads, replace buffer immediately after removing it. Do not let the beads dry.\r\n\n\n116. Re-suspend sample in 23 μl 1 × NEBuffer 2 without Triton X-100, add:\r\n  \r\n\n\n- 0.5 μl 5 mM dATP\r\n\n\n- 1.5 μl Klenow Fragment exo-\r\n\n\n  \r\n\n\n117. Incubate at 37 °C for 45 min, every 10 min shake for 10 sec at 800 rpm\r\n  118. Wash beads 3 × in 1 ml 1 × W&B buffer + 0.1 % Triton X-100 \\(freshly added)\r\n  Critical step: when washing the beads, replace buffer immediately after removing it. Do not let the beads dry.\r\n\n\n119. Re-suspend sample in 39.4 μl 1 × T4 Ligase Reaction Buffer, add:\r\n  \r\n\n\n- 10 μl 10 μM modified P7 Illumina adapter\r\n\n\n- 0.6 μl T4 DNA Ligase \\(2,000,000 units/mL)\r\n\n\n   \r\n\n\n120. Ligate for 15-20 h at 16 °C, every 45 min shake samples for 1 min at 1200 rpm"
+    },
+    {
+        "title": "**Day 7: Library amplification**",
+        "body": [
+            "121. Wash beads 3 × in 1 ml W&B buffer + 0.1 % Triton X-100 at room temperature\r\n  Critical step: when washing the beads, replace buffer immediately after removing it. Do not let the beads dry.\r\n\n\n122. Re-suspend beads in 25 μl nuclease free water\r\n  123. Place samples on ice\r\n  From this point forward work on ice for the rest of the day unless stated otherwise.\r\n\n\n124. Perform PCR: each 25 μl sample will make up 5 reactions\r\n  Note: Multiple PCR R \\(reverse) primers are available \\(see end of protocol). Each has a different barcode sequence to enable multiplexing of samples on the Illumina platform during sequencing. If multiple samples will be sequenced together in one sequencing reaction ensure that each sample is amplified with a different PCR R primer. Ensure to record the AD number of the primer used to amplify each sample. The AD numbers reflect Illumina TruSeq adapter sequences and thus DSBCapture libraries can be sequenced like Illumina TruSeq libraries \\(i.e. single index, 6 bp).\r\n\n\n125. PCR reagents per reaction:\r\n  \r\n\n\n- 1.25 μl 20 μM F primer\r\n\n\n- 1.25 μl 20 μM R primer\r\n\n\n- 5 μl Beads\r\n\n\n- 17.5 μl nuclease free water\r\n\n\n- 25 μl NEBNext High-Fidelity 2 × Master Mix\r\n\n\n\r\n\n\nNote: after the addition of all reagents pipette sample up down, do not centrifuge as this will cause the beads to pellet.\r\n\n\n126. Cycling parameters \\(total of 15 cycles):",
+            {
+                "title": "1.",
+                "body": "98 °C for 30 sec"
+            },
+            {
+                "title": "2.",
+                "body": "98 °C for 10 sec"
+            },
+            {
+                "title": "3.",
+                "body": "65 °C for 30 sec"
+            },
+            {
+                "title": "4.",
+                "body": "72 °C for 30 sec\r\n  Loop back to"
+            },
+            {
+                "title": "2.",
+                "body": "14 times, for a total of 15 cycles"
+            },
+            {
+                "title": "5.",
+                "body": "72 °C for 5 min\r\n  \r\n\n\n127. Centrifuge to pellet the beads and recover PCR product \\(supernatant). Store the PCR product at -80 °C or alternatively proceed directly to day"
+            },
+            {
+                "title": "8.",
+                "body": "Beads can now be discarded."
+            }
+        ]
+    },
+    {
+        "title": "**Day 8: Size selection, quantification and sequencing**",
+        "body": "128. Either pass the PCR sample through a Qiagen MinElute PCR clean up column \\(100 μl PCR product / column) and then load sample into BluePippin gel extraction system \\(1.5 % agarose cassette) and extract 250-1200 bp OR omit PCR clean up step and directly load PCR product into 2 % hand cast agarose gel; manually extract band at 250-1200 bp and then clean up the DNA using Qiagen MinElute gel extraction kit.\r\n  Note: if performing manual gel extraction: the DNA concentration can sometimes be low and therefore the DNA may not always be visible, in such cases cut the gel using the reference ladder as a guide and continue. The DNA will be visible on the subsequent Bioanalyser profile.\r\n\n\n129. Run sample on Bioanalyser or TapeStation \\(high sensitivity chip) to determine the library size. All negative controls should not contain any DNA. See anticipated results \\("
+    },
+    {
+        "title": "**Fig.3**",
+        "body": ")\r\n  130. Quantify DNA using the KAPA Library Quantification Kit \r\n  131. Proceed to sequencing and store excess DNA at -20 °C"
+    },
+    {
+        "title": "**Oligonucleotide sequences**",
+        "body": "Modifications: P = phosphorylated, ==*== = phosphorothioate linkage, Btn = biotin\r\n\n\nOligonucleotides are shown in the 5’-3’ orientation \r\n\n\nOligonucleotides have HPLC purity\r\n\n\n\r\n\n\n• Modified P5 Illumina adapter:\r\n\n\n\r\n\n\nBtnA"
+    },
+    {
+        "title": "**ATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATC**",
+        "body": "T\r\n\n\n\r\n\n\n• Control modified P5 Illumina adapter:  \r\n\n\n\r\n\n\nA"
+    },
+    {
+        "title": "**ATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATC**",
+        "body": "T\r\n\n\n\r\n\n\n• Modified P5 Illumina adapter complement / Control modified P5 Illumina adapter complement: \r\n\n\n\r\n\n\nPGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT\r\n\n\n\r\n\n\n• Modified P7 Illumina adapter: \r\n\n\n\r\n\n\nPGATCGGAAGAGCACACGTCTGAACTCCAGTCAC\r\n\n\n\r\n\n\n• Modified P7 Illumina adapter complement: \r\n\n\n\r\n\n\nGTGACTGGAGTTCAGACGTGTGCTCTTCCGATC*T\r\n\n\n\r\n\n\n• PCR Forward primer: \r\n\n\n\r\n\n\nAATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGA\r\n\n\n\r\n\n\nReverse primers contain Illumina barcodes \\(AD); the number refers to the sequence of the barcode. \r\n\n\nNote: PCR amplify each sample with a different reverse primer to enable multiplexing of samples during sequencing. If only one sample is made choose any PCR R Primer. If two samples are to be sequenced together choose either the combination of AD06 and AD12 or AD05 and AD19. If 3 or more samples are to be sequenced together choose AD06 and AD12 plus any others or AD05 and AD19 plus any others \\(see: TruSeq Library Prep Pooling Guide<sup>2</sup> for more information on multiplexing).\r\n\n\n• PCR R reverse primer AD01: CAAGCAGAAGACGGCATACGAGATCGTGATGTGACTGGAGTTCAGACGTGT\r\n\n\n• PCR R reverse primer AD02: CAAGCAGAAGACGGCATACGAGATACATCGGTGACTGGAGTTCAGACGTGT\r\n\n\n• PCR R reverse primer AD03: CAAGCAGAAGACGGCATACGAGATGCCTAAGTGACTGGAGTTCAGACGTGT\r\n\n\n• PCR R reverse primer AD04: CAAGCAGAAGACGGCATACGAGATTGGTCAGTGACTGGAGTTCAGACGTGT\r\n\n\n• PCR R reverse primer AD05: CAAGCAGAAGACGGCATACGAGATCACTGTGTGACTGGAGTTCAGACGTGT\r\n\n\n• PCR R reverse primer AD06: CAAGCAGAAGACGGCATACGAGATATTGGCGTGACTGGAGTTCAGACGTGT\r\n\n\n• PCR R reverse primer AD12: CAAGCAGAAGACGGCATACGAGATTACAAGGTGACTGGAGTTCAGACGTGT\r\n\n\n• PCR R reverse primer AD19: CAAGCAGAAGACGGCATACGAGATCGTTTCACGTGACTGGAGTTCAGACGTGT"
+    }
+]

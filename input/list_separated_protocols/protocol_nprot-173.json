@@ -1,0 +1,26 @@
+[
+    {
+        "title": "1.",
+        "body": "Stimulate 10-20 x 10<sup>6</sup> OT-1 hybridoma T cells by incubating 5ug/ml/5 X 10<sup>7</sup> cells of anti-CD3 \\(2C11, ATCC CRL-1975) and 20μg anti-CD28 \\(37.51) on ice for 30 minutes.  Crosslink with 50μg goat-anti-hamster antibody \\(MP Biomedicals 55394) at 37<sup>o</sup>C for 30 minutes \\(keeping cells at 5 X 10<sup>7</sup>/ml).  \r\n    \r\n\n\n2.Lyse cells in TNE \\(50 mM Tris \\(pH 7.5), 150 mM NaCl, 1 mM EDTA, 1 µg/ml aprotinin, 1 µg/ml leupeptin, 1 mM PMSF, and 1-5 mM Na<sub>3</sub>VO<sub>4</sub>. Clear lysates by centrifugation at 12,000 X g for 10 minutes at 4<sup>o</sup>C."
+    },
+    {
+        "title": "3.",
+        "body": "Set up immunopreciptations of Dlgh1 using 40 μl of protein G \\(50% slurry so 20μl bead volume) \\(GE Healthcare Bio-Sciences 17-0618-02) and 10 μl \\(2.5μg) of Dlgh1 \\(BD Transduction Lab 610875) or p38 \\(2.0μg) \\(Santa Cruz, C-20, sc-535) antibody. Tumble at 4uC for 1-2 hours. Save some of this supernatant to check efficiency of IP."
+    },
+    {
+        "title": "4.",
+        "body": "Wash once with 500μl of kinase buffer \\(25mM Tris pH 7.5, 5mM B-glycerophosphate, 2mM DTT, 0.1 mM Na<sub>3</sub>VO<sub>4</sub> and 10mM MgCL<sub>2</sub>; Cell signaling 9802)"
+    },
+    {
+        "title": "5.",
+        "body": "In a final volume of 50μl have 1μg of GST-ATF2 \\(Cell signaling, 9224S) and/or 50μM unlabeled ATP \\(Cell signaling, 9804) with immunopreciptates in kinase buffer.  \\(20μl of beads, 1μl of ATP, 29 μl of kinase buffer)  MAKE SURE TO DO ALL OF THIS ON ICE"
+    },
+    {
+        "title": "6.",
+        "body": "Incubate at 30<sup>o</sup>C for 5-20 minutes."
+    },
+    {
+        "title": "7.",
+        "body": "Add  20μl 5X Loading buffer to stop reaction and boil for 5 minutes"
+    }
+]

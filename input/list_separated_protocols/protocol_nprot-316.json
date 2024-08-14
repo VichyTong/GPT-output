@@ -1,0 +1,107 @@
+[
+    {
+        "title": "**_Xenopus_ frogs, Oocytes and Injections**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "For removal of oocytes, a Xenopus frog is anaesthetized for 15-30 min in half a liter of ethyl m-aminobenzoate solution."
+            },
+            {
+                "title": "2.",
+                "body": "The frog is then placed on top of crushed ice covered with wet tissue paper, to avoid the skin from drying out. A small incision is made in the upper skin of about 1 cm length, and a 0.5 cm cut in the inner skin and the muscular layer."
+            },
+            {
+                "title": "3.",
+                "body": "Using forceps, small clumps of oocytes \\(depending on the amount required, usually 500–1500 oocytes) are removed and are treated twice for 90 minutes in collagenase A \\(or D), having low trypsin activity in a calcium free ORII solution, in order to remove follicular layers. Typically, 10 ml of collagenase solution is placed in a sterile 15 ml tube, and after cutting the ovarian lobes into small clusters of oocytes, up to 3 ml of oocytes are added per tube."
+            },
+            {
+                "title": "4.",
+                "body": "The tube is rotated in the dark at 18°C on an orbital rotor spinning at low speed \\(20 rpm) for 90 min. and then replaced by a new collagenase-ORII solution for another 90 min."
+            },
+            {
+                "title": "5.",
+                "body": "The oocytes are then washed thoroughly 5 times with ORII solution, followed by 5 times with modified Barth’s solution."
+            },
+            {
+                "title": "6.",
+                "body": "The oocytes are sorted for morphologically intact, healthy looking stage V–VI oocytes. The oocytes are subsequently maintained in MBS at 18 °C \\(kept in the dark)."
+            },
+            {
+                "title": "7.",
+                "body": "Usually on the next day, healthy looking stage V–VI oocytes are injected with either 50 nl water \\(control) or mRNA \\(at concentrations varying from 0 to 1 µg/µl), using a semiautomatic injector. Oocytes are then kept at 18°C in MBS for 1 to 7 days, with changes of MBS solution every 1–2 days."
+            }
+        ]
+    },
+    {
+        "title": "**Radiotracer uptake assay in _Xenopus_ oocytes**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Oocytes \\(7–10 oocytes per individual data point) are first washed for 1–2 minutes in solution A. This solution is then replaced by 100 µl of solution A supplemented with the desired concentration of substrate \\(eg. 1 mM K2SO4), at the desired specific activity for the isotope. The specific activities for the different substrates used \\(eg. <sup>32</sup>PO<sub>4</sub><sup>2-</sup>, <sup>35</sup>SO<sub>4</sub><sup>2-</sup>) are usually between 10–40 µCi/ml. Uptakes are routinely performed in the presence of sodium \\(100 mM NaCl) or in its absence \\(100 mM choline chloride) and incubated in a water bath at 25°C for various times \\(1–60 min.)."
+            },
+            {
+                "title": "2.",
+                "body": "After the incubation, the uptake solution is removed and the oocytes are washed 3 times with 3 ml of ice cold stop solution \\(solution A)."
+            },
+            {
+                "title": "3.",
+                "body": "Each single oocyte is then placed into a separate scintillation vial, dissolved in 200 µl of 1% SDS \\(allowed to shake vigorously for 45 min at room temp)."
+            },
+            {
+                "title": "4.",
+                "body": "When the ooyctes have completely dissolved, they are supplemented by 2 ml scintillation fluid. Isotopic uptake \\(transport assay) is measured by liquid scintillation spectrometry \\(normally counted for 2 min/vial)."
+            }
+        ]
+    },
+    {
+        "title": "**Construction and Screening of a cDNA Expression Library**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Using a functionally positive unfractionated or size-fractionated mRNA as starting material, a directional cDNA library is constructed using a commercial kit, following the manufacturers protocol \\(in our case the SuperScript plasmid system, pSPORT-1 vector, Gibco/BRL; SuperScript reverse transcriptase having no RNase H activity). The total library, usually in the range of 10<sup>5</sup>–10<sup>6</sup> clones, is subdivided into pools of 1,000 colonies, which are plated onto 9 cm Luria Broth plates \\(containing ampicillin 100 µg/ml)."
+            },
+            {
+                "title": "2.",
+                "body": "When the colonies are visible, two replicas are made onto nitrocellulose or nylon filters with both replica filters being placed on top of LB plates \\(colonies side up) for about 6 hours until colonies are visible \\(1 mm diameter)."
+            },
+            {
+                "title": "3.",
+                "body": "One filter is placed on top of an agar/glycerol plate, with the colonies side up and kept as a master plate at –80°C \\(sealed with parafilm). The second replica is submerged into 10ml Luria Broth containing ampicillin \\(100 µg/ml) and grown overnight at 37°C with shaking \\(300 rpm)."
+            },
+            {
+                "title": "4.",
+                "body": "The cells are pelleted by centrifugation for 1 min and plasmids are isolated using a general plasmid \\(alkaline lysis) method. About 1–2 µg of plasmid are digested with an appropriate restriction enzyme cutting at the 3´ end of the insert \\(in our case NotI). An aliquot is run through an agarose gel to check if the digestion was complete and the rest is extracted twice with a mixture of 0.1 M Tris pH 8 saturated phenol: chloroform: isoamylalcohol \\(25:24:1) and then precipitated with 0.1 volume 3 M sodium acetate and 2.5 volume cold 100% ethanol at –20ºC for 2 hours. Plasmids are then dissolved in 10 µl of water and used for in vitro transcription, using the appropriate RNA polymerase \\(in our case T7)."
+            }
+        ]
+    },
+    {
+        "title": "**In vitro cRNA-synthesis \\(including capping) protocol**",
+        "body": [
+            ".",
+            {
+                "title": "5.",
+                "body": "For in vitro transcription, the whole 10 µl \\(approx. 1 µg) of linearized plasmid DNA is used and is added to 40 µl of the transcription mixture. The reaction is incubated at 37°C for 1 hour."
+            },
+            {
+                "title": "6.",
+                "body": "Then 50 units of RNAase inhibitor and 10 units of DNAase I, RNAase free, are added to the samples and incubated for 15 minutes at 37°C to digest the remaining DNA."
+            },
+            {
+                "title": "7.",
+                "body": "The samples are then extracted twice with phenol:chloroform:isoamylalcohol \\(25:24:1) and precipitated by adding one volume of ammonium acetate 5 M and 2.5 volumes of ethanol, in order to remove free nucleotides. \r\n  Alternatively, after the extractions with phenol: chloroform:isoamyl alcohol, samples can be passed through RNase-free Sephadex G-50 Quick Spin columns to remove free nucleotides, then precipitated with sodium acetate and ethanol as described above."
+            },
+            {
+                "title": "8.",
+                "body": "The samples are precipitated at –80ºC for at least 3 hours and then are centrifuged for 45 min at 4ºC, pellets rinsed with 70% ethanol and vacuum dried for 5 min."
+            },
+            {
+                "title": "9.",
+                "body": "The pellet is resuspended in 15µl of water. 1 µl is used to measure the RNA concentration spectrophotometrically at OD<sub>260</sub> and 1-2 µl is run through a 1% agarose formaldehyde RNA gel, to check for integrity of the transcripts, with the rest being used for injection."
+            },
+            {
+                "title": "10.",
+                "body": "The in vitro transcribed RNA \\(cRNA) is directly injected into oocytes and after 1–6 days post injection, the protein \\(transport) assay can be measured \\(as described above)."
+            }
+        ]
+    }
+]

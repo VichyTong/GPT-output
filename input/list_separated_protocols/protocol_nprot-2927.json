@@ -1,0 +1,40 @@
+[
+    {
+        "title": "1.",
+        "body": "PCR\r\n  \r\n\n\n1.1. Prepare Primary PCR Master Mixes in a 1.5 mL centrifuge tube according to the volumes calculated using Table"
+    },
+    {
+        "title": "2.",
+        "body": "Include enough reactions for DNA controls \\(3D7) and negative \\(no template) controls.\r\n\n\n\r\n\n\n1.2. Label PCR tubes and add 20 µl Primary Master Mix to each tube.\r\n\n\n\r\n\n\n1.3. Add 5 µl of template DNA to each tube. Seal and run PCR in thermocycler according to the conditions listed in Table"
+    },
+    {
+        "title": "3.",
+        "body": []
+    },
+    {
+        "title": "2.",
+        "body": "Nested PCR\r\n  \r\n\n\n2.1. Prepare nested PCR Master Mixes in a 1.5 mL centrifuge tube according to the volumes calculated using Table"
+    },
+    {
+        "title": "4.",
+        "body": "2.2. Label PCR tubes and add 45 µl Secondary Master Mix to each tube. \r\n\n\n\r\n\n\n2.3. Add 5 µl of Primary PCR product to each tube. Seal and run PCR in thermocycler according to the conditions listed in Table"
+    },
+    {
+        "title": "5.",
+        "body": [
+            "2.4. Run an agarose gel of Nested PCR product to ensure amplification has been successful \\(See Section",
+            {
+                "title": "3).",
+                "body": "NOTE: PCR product may be stored at 4 °C for up to 1 week or at – 20 °C or -80 °C for long-term storage."
+            }
+        ]
+    },
+    {
+        "title": "3.",
+        "body": "Agarose gel electrophoresis\r\n  \r\n\n\n3.1. Make a 2% agarose gel: Dissolve 2 grams of agarose and 100 mL of 1X TBE in the microwave. \r\n\n\nCool, then add 4 µL Ethidium bromide and gently swirl to mix.\r\n\n\nPour into assembled gel tray with comb\\(s) and leave at room temperature for 30 minutes to set.\r\n\n\n\r\n\n\n3.2. Load the gel:\r\n\n\nPlace the gel in gel apparatus and fill to line with 1X TBE.\r\n\n\nPlace 2 µL dots of xylene cyanol per sample on Parafilm. \r\n\n\nCarefully pipet 10 µL Nested PCR product to each dot of dye. \r\n\n\nAdd 4-5 µL of size standard.\r\n\n\n\r\n\n\n3.3. Run gel at 100-150 volts for 60 minutes and view using a UV transilluminator.\r\n\n\n\r\n\n\nExpected size: 849 bp \\(Figure 1)."
+    },
+    {
+        "title": "4.",
+        "body": "Sequencing\r\n  \r\n\n\nSend 40 µl of N1 PCR products for sequencing, according to the company’s instructions."
+    }
+]

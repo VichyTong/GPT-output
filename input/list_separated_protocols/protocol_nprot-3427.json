@@ -1,0 +1,413 @@
+[
+    "\nSynthesis of _N_-\\(2-carbomethoxyacetyl)-D-valine methyl ester \\(ZLc-002)  TIMING 20 h\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/3277/original/ZLc-002.JPG?1410323428\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/3277/thumbnail/ZLc-002.png?1410323428\"> </a>",
+    {
+        "title": "1.",
+        "body": "Add _N_-methylmorphinline \\(2 ml, 18.45 mmol) dropwise to a solution of D-valine methyl ester hydrochloride \\(1.50 g, 9 mmol) in CH<sub>2</sub>Cl<sub>2</sub> \\(35 ml) under -15°C."
+    },
+    {
+        "title": "2.",
+        "body": "Add methyl malonyl chloride \\(1 ml, 9.45 mmol) to the resulting reaction mixture while stirring for 30 min under -15°C.\r\n  CAUTION  Methyl malonyl chloride is acrid. Carry out this reaction in a well-ventilated fume hood. Since methyl malonyl chloride is highly sensitive to moisture, the reaction should be carried out under anhydrous conditions."
+    },
+    {
+        "title": "3.",
+        "body": "Allow the reaction to warm to room temperature and stir at room temperature for 12 h."
+    },
+    {
+        "title": "4.",
+        "body": "Remove the solvent under vacuum, dilute the residue with water \\(8 ml), and transfer the solution into a 250-ml separation funnel.\r\n  CAUTION  ZLc-002 is water soluble, if too much water is added, it makes the extraction difficult and results a low yield."
+    },
+    {
+        "title": "5.",
+        "body": "Extract the solution with EtOAc \\(4 × 50 mL) and combine the organic phases."
+    },
+    {
+        "title": "6.",
+        "body": "Wash the solution with 10% citric acid solution \\(10 mL), 5% NaHCO<sub>3</sub> solution \\(10 mL), and saturated NaCl aqueous solution \\(2 × 50 mL) consecutively."
+    },
+    {
+        "title": "7.",
+        "body": "Dry the organic solution over anhydrous Na<sub>2</sub>SO<sub>4</sub> for 0.5 h, filter the Na<sub>2</sub>SO<sub>4</sub> using a fritted Buchner funnel into a 500-mL round-bottomed flask and concentrate under vacuum with a rotary evaporator."
+    },
+    {
+        "title": "8.",
+        "body": "Pack a chromatography column \\(2.8 × 40 cm) with a slurry of silica gel in EtOAc : PE = 1 :"
+    },
+    {
+        "title": "2.",
+        "body": []
+    },
+    {
+        "title": "9.",
+        "body": "Transfer the crude product solution to the column with a Pasteur pipette. Wash the flask with 2 mL of solvent \\(EtOAc : PE = 1 : 2)."
+    },
+    {
+        "title": "10.",
+        "body": "Elute the column with EtOAc : PE = 1 :"
+    },
+    {
+        "title": "2.",
+        "body": []
+    },
+    {
+        "title": "11.",
+        "body": "Collect 25-mL fractions in test tubes. Identify the fractions containing the product using TLC \\(R<sub>f</sub> = 0.5, EtOAc : PE = 1 : 2), and visualize it with iodine.\r\n  Combine fractions which contain the product, and then remove the solvent under a rotary evaporator to yield the product as a crystalline solid.\r\n\n\n\r\n\n\nSynthesis of _N_-\\(3-carbomethoxypropionyl)-D-valine methyl ester \\(ZLc-004) TIMING 20 h\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/3279/original/ZLc-004.JPG?1410323446\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/3279/thumbnail/ZLc-004.png?1410323446\"> </a>"
+    },
+    {
+        "title": "1.",
+        "body": "Add Et<sub>3</sub>N \\(3.42 mL, 24.6 mmol) dropwise to a solution of D-valine methyl ester hydrochloride \\(2 g, 12 mmol) in CH<sub>2</sub>Cl<sub>2</sub> \\(40 ml) under -15°C."
+    },
+    {
+        "title": "2.",
+        "body": "Add methyl succinyl chloride \\(1.55 ml, 12.6 mmol) to the resulting reaction mixture while stirring for 30 min under -15°C.\r\n  CAUTION  Methyl succinyl chloride is acrid. Carry out this reaction in a well-ventilated fume hood. Since methyl succinyl chloride is highly sensitive to moisture, the reaction should be carried out under anhydrous conditions."
+    },
+    {
+        "title": "3.",
+        "body": "Allow the reaction to warm to room temperature and stir at room temperature for 12 h."
+    },
+    {
+        "title": "4.",
+        "body": "Remove the solvent under vacuum, dilute the residue with water \\(20 ml), and transfer the solution into a 250-ml separation funnel."
+    },
+    {
+        "title": "5.",
+        "body": "Extract the solution with EtOAc \\(4 × 60 mL) and combine the organic phases."
+    },
+    {
+        "title": "6.",
+        "body": "Wash the solution with 10% citric acid solution \\(2 × 20 mL), 5% NaHCO<sub>3</sub> solution \\(2 × 20 mL), and saturated NaCl aqueous solution \\(2 × 50 mL) consecutively."
+    },
+    {
+        "title": "7.",
+        "body": "Dry the organic solution over anhydrous Na<sub>2</sub>SO<sub>4</sub> for 0.5 h, filter the Na<sub>2</sub>SO<sub>4</sub> using a fritted Buchner funnel into a 500-mL round-bottomed flask and concentrate under vacuum with a rotary evaporator."
+    },
+    {
+        "title": "8.",
+        "body": "Pack a chromatography column \\(2.8 × 40 cm) with a slurry of silica gel in EtOAc : PE = 2 :"
+    },
+    {
+        "title": "3.",
+        "body": []
+    },
+    {
+        "title": "9.",
+        "body": "Transfer the crude product solution to the column with a Pasteur pipette. Wash the flask with 2 mL of solvent \\(EtOAc : PE = 2 : 3)."
+    },
+    {
+        "title": "10.",
+        "body": "Elute the column with EtOAc : PE = 2 :"
+    },
+    {
+        "title": "3.",
+        "body": []
+    },
+    {
+        "title": "11.",
+        "body": "Collect 25-mL fractions in test tubes. Identify the fractions containing the product using TLC \\(R<sub>f</sub> = 0.65, EtOAc : PE = 1 : 2), and visualize it with iodine."
+    },
+    {
+        "title": "12.",
+        "body": "Combine fractions which contain the product, and then remove the solvent under a rotary evaporator to yield the product as a yellowish solid.\r\n  \r\n\n\nSynthesis of _N_-\\(2-carboxyacetyl)-D-valine methyl ester \\(ZLc-002-1)   TIMING 15 h\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/3271/original/ZLc-002-1.JPG?1410323396\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/3271/thumbnail/ZLc-002-1.png?1410323396\"> </a>"
+    },
+    {
+        "title": "1.",
+        "body": "Weigh out 1.92 g of _N_-\\(2-carbomethoxyacetyl)-D-valine methyl ester \\(ZLc-002, 8.3 mmol) in a 100 mL round-bottomed flask, add 9 ml of methanol."
+    },
+    {
+        "title": "2.",
+        "body": "Cool down to about 0℃ with a ice-water bath."
+    },
+    {
+        "title": "3.",
+        "body": "Add 9.15 mL of NaOH solution \\(1 mol/l, 9.15 mmol), and stir at 0℃ for 15 min."
+    },
+    {
+        "title": "4.",
+        "body": "Remove the ice-water bath and allow the reaction to stir at room temperature for 6 h."
+    },
+    {
+        "title": "5.",
+        "body": "Remove the methanol under reduced pressure."
+    },
+    {
+        "title": "6.",
+        "body": "Adjust the pH to 2~3 by using concentrated HCl solution."
+    },
+    {
+        "title": "7.",
+        "body": "Extract the residue with EtOAc \\(4 × 50 mL) and combine the extracts."
+    },
+    {
+        "title": "8.",
+        "body": "Wash the solution with saturated NaCl aqueous solution \\(2 × 50 mL)."
+    },
+    {
+        "title": "9.",
+        "body": "Dry the organic solution over anhydrous Na<sub>2</sub>SO<sub>4</sub> for 0.5 h, filter the Na<sub>2</sub>SO<sub>4</sub> using a fritted Buchner funnel into a 500-mL round-bottomed flask and concentrate under vacuum with a rotatory evaporator."
+    },
+    {
+        "title": "10.",
+        "body": "Pack a chromatography column \\(2.8 × 40 cm) with a slurry of silica gel in EtOAc : PE : HOAc = 15 : 5 :"
+    },
+    {
+        "title": "1.",
+        "body": []
+    },
+    {
+        "title": "11.",
+        "body": "Transfer the crude product solution to the column with a Pasteur pipette. Wash the flask with 2 mL of solvent \\(EtOAc : PE : HOAc = 15 : 5 : 1)."
+    },
+    {
+        "title": "12.",
+        "body": "Elute the column with EtOAc : PE : HOAc = 15 : 5 :"
+    },
+    {
+        "title": "1.",
+        "body": []
+    },
+    {
+        "title": "13.",
+        "body": "Collect 25-mL fractions in test tubes. Identify the fractions containing the product using TLC \\(R<sub>f</sub> = 0.45, EtOAc : PE : HOAc = 15 : 5 : 1), and visualize it with bromophenol blue."
+    },
+    {
+        "title": "14.",
+        "body": "Combine fractions which contain the product, and then remove the solvent under a rotary evaporator to yield the product as a yellowish liquid.\r\n  \r\n\n\nSynthesis of _N_-\\(2-carboxyacetyl)-D-valine \\(ZLc-002-2)  TIMING 15 h\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/3275/original/ZLc-002-2.JPG?1410323414\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/3275/thumbnail/ZLc-002-2.png?1410323414\"> </a>"
+    },
+    {
+        "title": "1.",
+        "body": "Weigh out 1.16 g of _N_-\\(2-carbomethoxyacetyl)-D-valine methyl ester \\(ZLc-002, 5 mmol)) in a 100 mL round-bottomed flask, and add 10 ml of methanol."
+    },
+    {
+        "title": "2.",
+        "body": "Cool down to about 0℃ with an ice-water bath."
+    },
+    {
+        "title": "3.",
+        "body": "Add 11 mL of NaOH solution \\(1 mol/l, 11 mmol), and stir at 0℃ for 15 min."
+    },
+    {
+        "title": "4.",
+        "body": "Remove ice-water bath and allow the reaction to stir at 30℃ for 6 h."
+    },
+    {
+        "title": "5.",
+        "body": "Remove the methanol under reduced pressure."
+    },
+    {
+        "title": "6.",
+        "body": "Adjust the pH to 2~3 by using concentrated HCl solution."
+    },
+    {
+        "title": "7.",
+        "body": "Extract the residue with EtOAc \\(4× 50 mL) and combine the extracts."
+    },
+    {
+        "title": "8.",
+        "body": "Wash the solution with saturated NaCl aqueous solution \\(2 × 50 mL)."
+    },
+    {
+        "title": "9.",
+        "body": "Dry the organic solution over anhydrous Na<sub>2</sub>SO<sub>4</sub> for 0.5 h, filter the Na<sub>2</sub>SO<sub>4</sub> using a fritted Buchner funnel into a 500-mL round-bottomed flask and concentrate under vacuum with a rotary evaporator."
+    },
+    {
+        "title": "10.",
+        "body": "Pack a chromatography column \\(2.8 × 40 cm) with a slurry of silica gel in EtOAc : PE : HOAc = 10 : 10 :"
+    },
+    {
+        "title": "3.",
+        "body": []
+    },
+    {
+        "title": "11.",
+        "body": "Transfer the crude product solution to the column with a Pasteur pipette. Wash the flask with 2 mL of solvent \\(EtOAc : PE : HOAc = 10 : 10 : 3)."
+    },
+    {
+        "title": "12.",
+        "body": "Elute the column with EtOAc : PE : HOAc = 10 : 10 :"
+    },
+    {
+        "title": "3.",
+        "body": []
+    },
+    {
+        "title": "13.",
+        "body": "Collect 25-mL fractions in test tubes. Identify the fractions containing the product using TLC \\(R<sub>f</sub> = 0.35, EtOAc : PE : HOAc = 10 : 10 : 3), and visualize it with bromophenol blue."
+    },
+    {
+        "title": "14.",
+        "body": "Combine fractions which contain the product, and then remove the solvent under a rotary evaporator to yield the product as a yellowish liquid.\r\n  \r\n\n\nSynthesis of _N_-\\(2-carbomethoxyacetyl)-L-valine methyl ester \\(ZLc-034)  TIMING 20 h\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/3289/original/ZLc-034.JPG?1410323516\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/3289/thumbnail/ZLc-034.png?1410323516\"> </a>\r\n\n\nThis compound was synthesized by the method described for ZLc-002.\r\n\n\n\r\n\n\nSynthesis of _N_-\\(2-carbomethoxyethyl)-D-valine methyl ester \\(ZLc-006)  TIMING 18 h\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/3281/original/ZLc-006.JPG?1410323462\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/3281/thumbnail/ZLc-006.png?1410323462\"> </a>"
+    },
+    {
+        "title": "1.",
+        "body": "Add triethylamine \\(3.24 mL, 24.6 mmol) to a stirring solution of D-valine methyl ester hydrochloride \\(2.0 g, 12 mmol) in methanol \\(50 ml)."
+    },
+    {
+        "title": "2.",
+        "body": "Add methyl 3-bromopropionate \\(1.6 ml, 14.4 mmol) to the reaction solution."
+    },
+    {
+        "title": "3.",
+        "body": "Add small amount of potassium iodide \\(10 mg) as catalyst."
+    },
+    {
+        "title": "4.",
+        "body": "Stir for 20 min at room temperature."
+    },
+    {
+        "title": "5.",
+        "body": "Heat the reaction mixture to refluxing while stirring for 12 h."
+    },
+    {
+        "title": "6.",
+        "body": "Cool down to room temperature."
+    },
+    {
+        "title": "7.",
+        "body": "Remove the solvent with a rotary evaporator."
+    },
+    {
+        "title": "8.",
+        "body": "Add ether \\(30 mL) to the residue to precipitate the produced triethylamine hydrogen bromide salt, wash the filtrate cake with ether \\(2 × 10 mL)."
+    },
+    {
+        "title": "9.",
+        "body": "Remove the solvent with a rotary evaporator."
+    },
+    {
+        "title": "10.",
+        "body": "Pack a chromatography column \\(2.8 × 40 cm) with a slurry of silica gel in EtOAc : PE = 2 :"
+    },
+    {
+        "title": "3.",
+        "body": []
+    },
+    {
+        "title": "11.",
+        "body": "Transfer the crude product solution to the column with a Pasteur pipette. Wash the flask with 2 mL of solvent \\(EtOAc : PE = 2 : 3)."
+    },
+    {
+        "title": "12.",
+        "body": "Elute the column with EtOAc : PE = 2 :"
+    },
+    {
+        "title": "3.",
+        "body": []
+    },
+    {
+        "title": "13.",
+        "body": "Collect 25-mL fractions in test tubes. Identify the fractions containing the product using TLC \\(R<sub>f</sub> = 0.65, CHCl<sub>3</sub>: CH<sub>3</sub>OH : HOAc = 90 : 8 : 2), and visualize it with iodine."
+    },
+    {
+        "title": "14.",
+        "body": "Combine fractions which contain the product, and then remove the solvent under a rotary evaporator to yield the product as a reddish brown liquid.\r\n  \r\n\n\nSynthesis of _N_-\\(2-carbomethoxyacetyl)-D-phenylalanine methyl ester \\(ZLc-011) TIMING 20 h\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/3287/original/ZLc-011.JPG?1410323498\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/3287/thumbnail/ZLc-011.png?1410323498\"> </a>\r\n\n\nThis compound was synthesized by the method described for ZLc-002.\r\n\n\n\r\n\n\nSynthesis of _N_-\\(2-cyanoacetyl)-D-valine methyl ester  TIMING 22 h\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/3269/original/1.JPG?1410323366\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/3269/thumbnail/1.png?1410323366\"> </a>"
+    },
+    {
+        "title": "1.",
+        "body": "Add cyanoacetic acid \\(2.7 g, 59 mmol) to a solution of D-valine methy ester hydrochloride \\(5 g, 56 mmol) in methanol \\(60 ml) under 0℃."
+    },
+    {
+        "title": "2.",
+        "body": "Add DIEA \\(12 mL, 124 mmol) and stir for 5 mim."
+    },
+    {
+        "title": "3.",
+        "body": "Add PyBOP \\(18.6 g, 67 mmol) while stir for 30 min at 0℃."
+    },
+    {
+        "title": "4.",
+        "body": "Remove the ice-water bath, and stir the reaction mixture at room temperature for 12 h."
+    },
+    {
+        "title": "5.",
+        "body": "Remove the solvent with a rotary evaporator."
+    },
+    {
+        "title": "6.",
+        "body": "Dilute the residue with EtOAc 120 mL."
+    },
+    {
+        "title": "7.",
+        "body": [
+            "Transfer the solution to a 500-mL separation funnel, wash the solution with 10% citric acid solution \\(30 mL × 2), 5% NaHCO<sub>3</sub> solution \\(30 mL × 2), and saturated NaCl aqueous solution \\(30 mL ×",
+            {
+                "title": "2)",
+                "body": "consecutively."
+            }
+        ]
+    },
+    {
+        "title": "8.",
+        "body": "Dry the organic solution over anhydrous Na<sub>2</sub>SO<sub>4</sub> for 0.5 h, filter the Na<sub>2</sub>SO<sub>4</sub> using a fritted Buchner funnel into a 500-mL round-bottomed flask and concentrate under vacuum with a rotary evaporator."
+    },
+    {
+        "title": "9.",
+        "body": "Pack a chromatography column \\(2.8 × 40 cm) with a slurry of silica gel in EtOAc : PE = 1 :"
+    },
+    {
+        "title": "1.",
+        "body": []
+    },
+    {
+        "title": "10.",
+        "body": "Transfer the crude product solution to the column with a Pasteur pipette. Wash the flask with 2 mL of solvent \\(EtOAc : PE = 1:1)."
+    },
+    {
+        "title": "11.",
+        "body": "Elute the column with EtOAc : PE = 1 :"
+    },
+    {
+        "title": "1.",
+        "body": []
+    },
+    {
+        "title": "12.",
+        "body": "Collect 25-mL fractions in test tubes. Identify the fractions containing the product using TLC \\(R<sub>f</sub> = 0.62, EtOAc : PE = 1 : 1), and visualize it with iodine."
+    },
+    {
+        "title": "13.",
+        "body": "Combine fractions which contain the product, and then remove the solvent under a rotary evaporator to yield the product as a white solid.\r\n  \r\n\n\nSynthesis of <sub>N</sub>-\\(2-tetrazoylacetyl)-D-valine methyl ester \\(ZLc-008) TIMING 12 h\r\n\n\n<a href=\"http://www.nature.com/protocolexchange/system/uploads/3283/original/ZLc-008.JPG?1410323479\"> <img src=\"http://www.nature.com/protocolexchange/system/uploads/3283/thumbnail/ZLc-008.png?1410323479\"> </a>"
+    },
+    {
+        "title": "1.",
+        "body": "Add N-\\(2-cyanoacetyl)-D-valine methyl ester \\(4.0 g, 20 mmol) to nitrobenzene \\(30 mL)."
+    },
+    {
+        "title": "2.",
+        "body": "Add sodium azide \\(1.69 g, 26 mmol) and triethylamine hydrochloride \\(3.56 g, 26 mmol) to the above solution."
+    },
+    {
+        "title": "3.",
+        "body": "Irradiate the reaction solution with a microwave apparatus at 100oC for 6 h."
+    },
+    {
+        "title": "4.",
+        "body": "Cool to room temperature, extract the solution with water \\(4 × 30 mL)."
+    },
+    {
+        "title": "5.",
+        "body": "Combine the water extracts, wash the solution with ethyl ether \\(2 × 30 mL)."
+    },
+    {
+        "title": "6.",
+        "body": "Acidify the solution with hydrochloride solution \\(2 M) to pH 2~3."
+    },
+    {
+        "title": "7.",
+        "body": "Extract the product with ethyl acetate \\(4 × 30 mL)."
+    },
+    {
+        "title": "8.",
+        "body": "Combine the ethyl acetate extracts and wash the solution with saturated NaCl solution \\(2 × 30 mL)."
+    },
+    {
+        "title": "9.",
+        "body": "Dry the organic solution over anhydrous Na<sub>2</sub>SO<sub>4</sub> for 0.5 h, filter the Na<sub>2</sub>SO<sub>4</sub> using a fritted Buchner funnel into a 500-mL round-bottomed flask and concentrate under vacuum with a rotary evaporator to about 10 mL."
+    },
+    {
+        "title": "10.",
+        "body": "Cool the solution in an ice-water bath, add petroleum ether \\(30 mL) to precipitate the product."
+    },
+    {
+        "title": "11.",
+        "body": "Collect the crystals by filtration, wash with small amount of petroleum ether and dry the product in a desiccator under vacuum for 2 h."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "title": "1.",
+        "body": "Add 500 µL PBS to the AU-0.5 filter, cap, and centrifuge for 10 minutes at 14,000 x g."
+    },
+    {
+        "title": "2.",
+        "body": "Reverse the device and centrifuge for 2 minutes at 1000 x g to remove the residual PBS from the filter."
+    },
+    {
+        "title": "3.",
+        "body": "Aspirate PBS from the collection tube."
+    },
+    {
+        "title": "4.",
+        "body": "Transfer 500 µL sample to the AU-0.5 filter and cap the device."
+    },
+    {
+        "title": "5.",
+        "body": "Centrifuge for 30 minutes at 14,000 x g. There should be ~15 µL sample remaining in the upper chamber."
+    },
+    {
+        "title": "6.",
+        "body": "Remove device from the centrifuge and empty the collection tube."
+    },
+    {
+        "title": "7.",
+        "body": "Add 0.5 mL PBS to the filter device and gently pipette sample multiple times to mix."
+    },
+    {
+        "title": "8.",
+        "body": "Centrifuge for 30 minutes at 14,000 x g."
+    },
+    {
+        "title": "9.",
+        "body": "Place filter upside down in a fresh microcentrifuge tube."
+    },
+    {
+        "title": "10.",
+        "body": "Centrifuge for 2 minutes at 2000 x g<sup>1</sup> to transfer the sample to the collection tube. Discard filter."
+    },
+    {
+        "title": "11.",
+        "body": "Add 700 µL Qiazol sample in the collection tube and isolate RNA using the miRNeasy micro kit \\(starting from step 3)."
+    }
+]

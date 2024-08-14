@@ -1,0 +1,27 @@
+[
+    "\nThe server is available from \"http://crdd.osdd.net/raghava/kidoq\":http://crdd.osdd.net/raghava/kidoq. \r\n\n\n\r\n\n\nThe following steps are used to do prediction of Ki value for a submitted structure",
+    {
+        "title": "1.",
+        "body": "Type the above mentioned URL in your web browser."
+    },
+    {
+        "title": "2.",
+        "body": "Click \"Submit” button on the home page of the server. The home page of KiDoQ server is shown in Figure 1A."
+    },
+    {
+        "title": "3.",
+        "body": "User is required to fill the submission form \\(Figure 1B)"
+    },
+    {
+        "title": "4.",
+        "body": "Use can draw the chemical structure using JME editor or paste/browse the structure file in mol/mol2 format"
+    },
+    {
+        "title": "5.",
+        "body": "If chemical structure is pasted or browsed, user is required to select the type of file format."
+    },
+    {
+        "title": "6.",
+        "body": "Click the Run button to get the results."
+    }
+]

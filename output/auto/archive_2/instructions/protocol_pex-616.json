@@ -1,0 +1,417 @@
+[
+    {
+        "<p>1.": "title or number"
+    },
+    {
+        "Setup perfusion station: Place metal platform within the glass chamber.": {
+            "PLACE": {
+                "slot": {
+                    "object1": "metal platform",
+                    "location": "glass chamber"
+                },
+                "emit": {
+                    "object0": "metal platform 0"
+                }
+            }
+        }
+    },
+    {
+        "Run the tubing through perfusion machine and clamp the end of the tubing with a large binder clip.": ""
+    },
+    {
+        "Attach a butterfly needle to each port.": {
+            "CONNECT": {
+                "slot": {
+                    "device1": "port",
+                    "device2": "butterfly needle"
+                },
+                "emit": {
+                    "device1": "port 0",
+                    "device2": "butterfly needle"
+                }
+            }
+        }
+    },
+    {
+        "[<strong>See Supplementary Picture 1</strong>].</p><p>2.": "error"
+    },
+    {
+        "Place the unclamped end of tubing in the perfusion buffer ": {
+            "PLACE": {
+                "slot": {
+                    "object1": "tubing",
+                    "location": "perfusion buffer"
+                },
+                "emit": {
+                    "object0": "tubing 0"
+                }
+            }
+        }
+    },
+    {
+        "And turn on perfusion machine.": {
+            "TURN": {
+                "slot": {
+                    "device": "perfusion machine",
+                    "state": "on"
+                },
+                "emit": {
+                    "device": "perfusion machine 0"
+                }
+            }
+        }
+    },
+    {
+        "Let the buffer flow until it is seen coming out of each needle, then clamp each butterfly needle tubing.": ""
+    },
+    {
+        "Pause the perfusion machine until ready to use.&nbsp;</p><p>3.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "perfusion machine 0"
+                },
+                "emit": {
+                    "reagent0": "perfusion machine 1"
+                }
+            }
+        }
+    },
+    {
+        "Take anesthetized animal (via IP injection of Avertin) ": {
+            "INJECT": {
+                "slot": {
+                    "reagent1": "Avertin",
+                    "location": "IP"
+                },
+                "emit": {
+                    "reagent0": "anesthetized animal 0"
+                }
+            }
+        }
+    },
+    {
+        "And place supine on metal platform and tape all limbs down.&nbsp;</p><p>4.": ""
+    },
+    {
+        "Remove the abdominal skin, preserving the muscle and peritoneum.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "abdominal skin"
+                },
+                "emit": {
+                    "reagent0": "abdominal skin 0"
+                }
+            }
+        }
+    },
+    {
+        "Open the peritoneum and open the abdominal cavity for full visualization of the liver and abdominal organs.&nbsp;</p><p>5.": {
+            "DISSECT": {
+                "slot": {
+                    "tissue": "abdominal organs"
+                },
+                "emit": {
+                    "tissue0": "abdominal organs 0"
+                }
+            }
+        }
+    },
+    {
+        "Push the stomach and intestines to the right side of the animal and identify the inferior vena cava (IVC) and portal vein (PV).&nbsp;</p><p>6.": {
+            "DISSECT": {
+                "slot": {
+                    "tissue": "inferior vena cava (IVC) and portal vein (PV)"
+                },
+                "emit": {
+                    "tissue0": "inferior vena cava (IVC) and portal vein (PV) 0"
+                }
+            }
+        }
+    },
+    {
+        "Cannulate the IVC with the butterfly needle ensuring that the bevel of the needle is facing up.": ""
+    },
+    {
+        "Use a hemostat to secure the needle within the IVC and tape the tubing down to the metal platform.": ""
+    },
+    {
+        "Unclamp the butterfly needle tubing.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "tubing 0"
+                },
+                "emit": {
+                    "reagent0": "tubing 1"
+                }
+            }
+        }
+    },
+    {
+        "Turn on the perfusion machine.": {
+            "PERFORM": {
+                "slot": {
+                    "procedure": "Turn on",
+                    "equipment": "perfusion machine 0"
+                },
+                "emit": {
+                    "result": "perfusion machine 1 1"
+                }
+            }
+        }
+    },
+    {
+        "If the IVC was successfully cannulated, the liver should begin to engorge and lighten in color.&nbsp;</p><p>7.": ""
+    },
+    {
+        "Immediately identify ": ""
+    },
+    {
+        "And cut the PV.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "inferior vena cava (IVC) and portal vein (PV) 0"
+                },
+                "emit": {
+                    "reagent0": "inferior vena cava (IVC) and portal vein (PV) 1"
+                }
+            }
+        }
+    },
+    {
+        "At this point the animal should rapidly bleed out and perfusion buffer should begin to flow out of the PV.&nbsp;</p><p>8.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "inferior vena cava (IVC) and portal vein (PV) 1"
+                },
+                "emit": {
+                    "reagent0": "inferior vena cava (IVC) and portal vein (PV) 2"
+                }
+            }
+        }
+    },
+    {
+        "Pass at least 100 mL of perfusion buffer through a single mouse.</p><p>9.": {
+            "FLUSH": {
+                "slot": {
+                    "reagent1": "perfusion buffer",
+                    "volume": "100 mL",
+                    "device": "perfusion machine"
+                },
+                "emit": {
+                    "reagent0": "perfusion buffer 0"
+                }
+            }
+        }
+    },
+    {
+        "While the perfusion is running, add the collagenase (transported on ice) to the collagenase buffer ": {
+            "ADD": {
+                "slot": {
+                    "reagent1": "collagenase buffer",
+                    "reagent2": [
+                        "collagenase"
+                    ]
+                },
+                "emit": {
+                    "reagent0": "collagenase buffer 0"
+                }
+            }
+        }
+    },
+    {
+        "And mix well.&nbsp;</p><p>10.": ""
+    },
+    {
+        "Pause the perfusion machine ": ""
+    },
+    {
+        "And switch the tubing to the collagenase buffer.": {
+            "REPLACE": {
+                "slot": {
+                    "item1": "tubing 1",
+                    "item2": "collagenase buffer 0"
+                },
+                "emit": {
+                    "item0": "tubing 2"
+                }
+            }
+        }
+    },
+    {
+        "Resume perfusion ": ""
+    },
+    {
+        "And run through entire volume of collagenase buffer.</p><p>11.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "collagenase buffer 0"
+                },
+                "emit": {
+                    "reagent0": "collagenase buffer 1"
+                }
+            }
+        }
+    },
+    {
+        "When the perfusion is finished, remove the liver by cutting along the vasculature and connective tissue; avoid cutting the liver parenchyma.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "liver",
+                    "method": "cutting along the vasculature and connective tissue"
+                },
+                "emit": {
+                    "item": "liver 0"
+                }
+            }
+        }
+    },
+    {
+        "Place the liver in a petri dish with 10 mL of perfusion buffer.&nbsp;&nbsp;</p><p>12.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "liver 0"
+                },
+                "emit": {
+                    "reagent0": "liver 1"
+                }
+            }
+        }
+    },
+    {
+        "Agitate the liver to dissociate the hepatocytes.&nbsp;</p><p>13.": {
+            "DISSECT": {
+                "slot": {
+                    "tissue": "liver 1",
+                    "reagent": "perfusion buffer"
+                },
+                "emit": {
+                    "tissue0": "liver 2"
+                }
+            }
+        }
+    },
+    {
+        "Using a serological pipette, transfer the dissociated cell suspension to a 70 micron mesh filter over a 50 mL Falcon tube.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "dissociated cell suspension",
+                    "device": "serological pipette"
+                },
+                "emit": {
+                    "reagent0": "dissociated cell suspension 0"
+                }
+            }
+        }
+    },
+    {
+        "Once filtered through, complete the volume with perfusion buffer to dilute the collagenase.&nbsp;</p><p>14.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "collagenase buffer 1"
+                },
+                "emit": {
+                    "reagent0": "collagenase buffer 2"
+                }
+            }
+        }
+    },
+    {
+        "Immediately centrifuge at a minimum speed of 800 rpm for 5 minutes.&nbsp;</p><p>15.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "dissociated cell suspension 0"
+                },
+                "emit": {
+                    "reagent0": "dissociated cell suspension 1"
+                }
+            }
+        }
+    },
+    {
+        "Discard the supernatant.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "supernatant"
+                },
+                "emit": {
+                    "reagent0": "supernatant 0"
+                }
+            }
+        }
+    },
+    {
+        "Resuspend in washing media ": {
+            "RINSE": {
+                "slot": {
+                    "object": "dissociated cell suspension 1",
+                    "rinseMaterial": "washing media"
+                },
+                "emit": {
+                    "object": "dissociated cell suspension 2"
+                }
+            }
+        }
+    },
+    {
+        "And centrifuge again at 800 rpm for 5 minutes.&nbsp;&nbsp;</p><p>16.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "supernatant 0"
+                },
+                "emit": {
+                    "reagent0": "supernatant 1"
+                }
+            }
+        }
+    },
+    {
+        "Discard the supernatant.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "supernatant 0"
+                },
+                "emit": {
+                    "reagent0": "supernatant 2"
+                }
+            }
+        }
+    },
+    {
+        "Resuspend in 10 mL (or 5 mL if the cell pellet is small) of plating media.&nbsp;</p><p>17.": {
+            "REMOVE": {
+                "slot": {
+                    "item": "supernatant 2"
+                },
+                "emit": {
+                    "reagent0": "supernatant 3"
+                }
+            }
+        }
+    },
+    {
+        "Suspended in plating media, the hepatocytes will remain viable for a few hours, until plated.&nbsp;&nbsp;Once plated, place in 37\u00b0C cell incubator.": {
+            "PLACE": {
+                "slot": {
+                    "object1": "supernatant 3",
+                    "location": "37\u00b0C cell incubator"
+                },
+                "emit": {
+                    "object0": "supernatant 3 1"
+                }
+            }
+        }
+    },
+    {
+        "Cells should be plated on a collagen coated surface.&nbsp;</p>": {
+            "COAT": {
+                "slot": {
+                    "object": "surface",
+                    "coatingMaterial": "collagen"
+                },
+                "emit": {
+                    "object": "collagen coated surface 0"
+                }
+            }
+        }
+    }
+]

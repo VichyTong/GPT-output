@@ -1,0 +1,118 @@
+[
+    {
+        "title": "1.",
+        "body": "Set Incubator to 60°C and warm PS Solution A, PS Solution B and PS Solution C for 20 minutes to ensure no precipitates are present."
+    },
+    {
+        "title": "2.",
+        "body": "Add 50 mL of 96-100% ethanol to Wash Solution and check off box on bottle noting addition of ethanol."
+    },
+    {
+        "title": "3.",
+        "body": "Add 10 μl 2-Mercaptoethanol per 1 mL PS Solution B.<sup>1</sup>"
+    },
+    {
+        "title": "4.",
+        "body": "Transfer 200 μl biofluid into a microfuge tube."
+    },
+    {
+        "title": "5.",
+        "body": "Add 40 μl PS Solution A<sup>2</sup> and 360 μl PS Solution B \\(containing 2-Mercaptoethanol)."
+    },
+    {
+        "title": "6.",
+        "body": "Vortex for 15 seconds."
+    },
+    {
+        "title": "7.",
+        "body": "Incubate for 10 min at 60°C."
+    },
+    {
+        "title": "8.",
+        "body": "Add 600 μl 100% Ethanol."
+    },
+    {
+        "title": "9.",
+        "body": "Vortex for 15 seconds."
+    },
+    {
+        "title": "10.",
+        "body": "Centrifuge for 30 seconds at 1,000 rpm at room temperature. Carefully decant supernatant, discarding it. DO NOT disrupt pellet."
+    },
+    {
+        "title": "11.",
+        "body": "To the pellet add 300 μl PS Solution C."
+    },
+    {
+        "title": "12.",
+        "body": "Vortex for 15 seconds."
+    },
+    {
+        "title": "13.",
+        "body": "Incubate for 10 min at 60°C."
+    },
+    {
+        "title": "14.",
+        "body": "Add 300 μl 100% Ethanol."
+    },
+    {
+        "title": "15.",
+        "body": "Vortex for 15 seconds."
+    },
+    {
+        "title": "16.",
+        "body": "Assemble a mini filter Spin Column with a collection tube."
+    },
+    {
+        "title": "17.",
+        "body": "Transfer 650 μL of the mixture to the Filter Column."
+    },
+    {
+        "title": "18.",
+        "body": "Centrifuge for 1 min at 14,000 rpm at room temperature."
+    },
+    {
+        "title": "19.",
+        "body": "Discard Flow-through."
+    },
+    {
+        "title": "20.",
+        "body": "Repeat steps 17-19 until all of the mixture has been added to the Filter Column."
+    },
+    {
+        "title": "21.",
+        "body": "Add 400 μL Wash Solution to the column."
+    },
+    {
+        "title": "22.",
+        "body": "Centrifuge for 1 min at 14,000 rpm at room temperature."
+    },
+    {
+        "title": "23.",
+        "body": "Discard flow-through."
+    },
+    {
+        "title": "24.",
+        "body": "Repeat steps 21-23 two more times for a total of 3 washes."
+    },
+    {
+        "title": "25.",
+        "body": "Open the cap of the column and centrifuge for 3 minutes at 14,000 rpm at room temperature to dry the column. Discard collection tube."
+    },
+    {
+        "title": "26.",
+        "body": "Transfer the spin column to a fresh 1.7 mL elution tube."
+    },
+    {
+        "title": "27.",
+        "body": "Apply 100 μL Elution Solution to the column."
+    },
+    {
+        "title": "28.",
+        "body": "Centrifuge for 2 mins at 2,000 rpm at room temperature to load the solution onto the column."
+    },
+    {
+        "title": "28.",
+        "body": "Centrifuge for  3 min at 14,000 rpm at room temperature to elute the RNA."
+    }
+]

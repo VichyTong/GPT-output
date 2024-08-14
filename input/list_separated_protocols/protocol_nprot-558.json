@@ -1,0 +1,140 @@
+[
+    {
+        "title": "**A. ISOLATION OF PRIMARY SYNOVIAL FIBROBLASTS FROM MOUSE JOINTS**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Euthanize the mice using carbon dioxide and according to guidelines from the Institutional Animal Care and Use Committee of BSRC “Alexander Fleming”."
+            },
+            {
+                "title": "2.",
+                "body": "Rinse microdissecting instruments with 70% Ethanol and then immerse them in an antimicrobial for a few seconds."
+            }
+        ]
+    },
+    {
+        "title": "**\\!CRITICAL STEP**",
+        "body": [
+            "Repeat the decontamination step of the instruments after cutting off the joints of each mouse.",
+            {
+                "title": "3.",
+                "body": "Place the mouse in the face-up position and rinse it with 100% Ethanol."
+            },
+            {
+                "title": "4.",
+                "body": "Peel back the skin and remove soft tissues from the hind legs using scissors and forceps."
+            }
+        ]
+    },
+    {
+        "title": "**\\!CRITICAL STEP**",
+        "body": [
+            "Be careful not to leave any remaining skin covering the toes.",
+            {
+                "title": "5.",
+                "body": "Cut ankle joint off before the tibial muscle including the toes, and spray again with 100% ethanol."
+            },
+            {
+                "title": "6.",
+                "body": "Place ankle joints in a tube filled with HBSS and antibiotics. Repeat steps 4-6 for all joints."
+            }
+        ]
+    },
+    {
+        "title": "**\\!CRITICAL STEP**",
+        "body": [
+            "From this step on work should be done in a laminar flow hood.",
+            {
+                "title": "7.",
+                "body": "Place the cut joints into a 100mm tissue culture plate containing 70% ETOH, for some seconds, and then transfer them to an HBSS-containing dish."
+            },
+            {
+                "title": "8.",
+                "body": "Place one joint in a fresh empty 100mm dish and cut through the joint space with the scalpel. Hold each toe digit with the scalpel and pull with the forceps."
+            }
+        ]
+    },
+    {
+        "title": "**\\!CRITICAL STEP**",
+        "body": [
+            "Avoid smashing the bones so as to prevent contamination by bone marrow cells.",
+            {
+                "title": "9.",
+                "body": "Repeat steps 8-9 for all joints."
+            },
+            {
+                "title": "10.",
+                "body": "Prepare fresh and filtered collagenase IV in HBSS at a high concentration \\(10mg/ml)."
+            },
+            {
+                "title": "11.",
+                "body": "Add 18ml DMEM 10% FCS to the plate containing the processed tissue from 3 mice."
+            },
+            {
+                "title": "12.",
+                "body": "Place the dissected joints and tissue in 50ml tubes with freshly-made and filtered collagenase IV \\(2 ml of 10mg/ml solution) \\[final concentration \\(1mg/ml) in DMEM 10% FBS 1% L-Glutamine, and 1% Pen/Strep]."
+            },
+            {
+                "title": "13.",
+                "body": "Incubate tissues with collagenase solution in the shaking water bath at 37 °C for 50min to 1h, at maximum shaking speed."
+            }
+        ]
+    },
+    {
+        "title": "**\\!CRITICAL STEP**",
+        "body": [
+            "Adjust the time of collagenase digestion according to the enzymatic activity of the lot used. The range of activity of batches used in standardization of this protocol was between 450-600 units/mg.",
+            {
+                "title": "14.",
+                "body": "Following completion of incubation time, vortex vigorously to release cells."
+            },
+            {
+                "title": "15.",
+                "body": "Transfer supernatant to a new 50ml tube. Place 20ml of fresh DMEM in the tube containing the digested joints. Repeat the procedure and add the supernatant to the new tube."
+            },
+            {
+                "title": "16.",
+                "body": "Centrifuge tubes at 1100rpm for 10min at room temperature."
+            },
+            {
+                "title": "17.",
+                "body": "Re-suspend cell pellet in fresh DMEM supplemented with 10% FBS, 1% L-Glutamine, and 1% Pen/Strep."
+            },
+            {
+                "title": "18.",
+                "body": "Seed tissues/cells into 100mm dishes \\(dissected tissue from 1 mouse into one 100mm plate or 75 cm<sup>2</sup> flask) and place in a humidified tissue culture incubator \\(37 °C, 5% CO<sub>2</sub>)."
+            }
+        ]
+    },
+    {
+        "title": "**TIMING: 2.0-2.5h \\(although it might be shorter if cells from less than 6 mice are isolated).**",
+        "body": []
+    },
+    {
+        "title": "**Culture of isolated synovial fibroblasts**",
+        "body": [
+            {
+                "title": "19.",
+                "body": "Monitor isolated cells daily, and change medium every 3 days"
+            }
+        ]
+    },
+    {
+        "title": "**\\!CRITICAL STEP**",
+        "body": [
+            "Be careful not to remove the small pieces of tissue during the first 1 week after isolation.",
+            {
+                "title": "20.",
+                "body": "Once groups of cells are observed, remove the floating pieces of tissue."
+            },
+            {
+                "title": "21.",
+                "body": "Trypsinize when confluence reaches 90-100% of the plate and transfer to a 150mm plate \\(or 175cm<sup>2</sup> flask) \\(split 1:2). Usually cells reach confluency 7-10 days after isolation. After first passage, confluency is reached 3-4 days later."
+            }
+        ]
+    },
+    {
+        "title": "**\\!CRITICAL STEP**",
+        "body": "Avoid long incubations with Trypsin \\(2-4 min incubation with pre-warmed trypsin is effective for fibroblast detachment whereas macrophages that are highly adhesive will remain attached. Thus, it is highly recommended to change flasks/plates in every passage)."
+    }
+]

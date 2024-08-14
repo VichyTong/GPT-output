@@ -1,0 +1,8 @@
+[
+    {
+        "index": 83,
+        "string": "Wash for at least 1 hour prior to immunoprobing.</p><p><br></p><p><strong><u>Immunoprobing:</u></strong></p><p><br></p><p>Immunoprobing, fluorescence imaging (on a Genepix Microarray scanner) and quantitation are all performed as previously described<sup>2</sup>.</p><p><br></p><p>Analysis software can be downloaded <a href=\"https://doi.org/10.5281/zenodo.5091209\" rel=\"noopener noreferrer\" target=\"_blank\">here </a>(DOI: 10.5281/zenodo.5091209)</p>",
+        "phrase": "as previously described",
+        "refer": "as previously described refers to the methods and procedures for immunoprobing, fluorescence imaging, and quantitation that have been mentioned or explained before."
+    }
+]

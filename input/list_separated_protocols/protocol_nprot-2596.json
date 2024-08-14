@@ -1,0 +1,30 @@
+[
+    {
+        "title": "1.",
+        "body": "Pick up individual adult animals expressing Raichu-Ras probe to a bacteria-free NGM plate to remove bacteria. And then, pick up the animal and put them on 4% agarose pad made on a cover glass."
+    },
+    {
+        "title": "2.",
+        "body": "Immobilize the animal on the agarose pad by glue which is delivered through a drawn glass capillary tube. The tip of the animal’s head is always kept free from glue."
+    },
+    {
+        "title": "3.",
+        "body": "Place the cover glass with glued animal in the 35 mm laboratory dish and cover with 4 ml imaging buffer solution."
+    },
+    {
+        "title": "4.",
+        "body": "Capture the images of cell body of the olfactory neuron expressing the probe by a microscope equipped with 40× or 63× objective lens and a digital camera device. During imaging analysis, room temperature is kept at 20-23 <sup>o</sup>C."
+    },
+    {
+        "title": "5.",
+        "body": "During collection of the images, add 20 μl odorants solution to the buffer covering animals using pipetman as the odorant stimuli. The final concentration of the odorants are 5 × 10<sup>-4</sup>, 1 × 10<sup>-3</sup>, 1.5 × 10<sup>-3</sup> after the first, second and third stimulation, respectively."
+    },
+    {
+        "title": "6.",
+        "body": "After the imaging experiment, exclude crosstalk between the YFP and CFP emission spectra using a linear unmixing method to distinguish weak signals representing Ras activity from noise \\(optional)."
+    },
+    {
+        "title": "7.",
+        "body": "Calculate fluorescent intensity using the imaging software."
+    }
+]

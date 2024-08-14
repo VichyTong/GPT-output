@@ -1,0 +1,236 @@
+[
+    {
+        "title": "**scChIC-Seq Supplementary Protocol \\(version from January, 2019)**",
+        "body": []
+    },
+    {
+        "title": "**A. Method for crosslinking antibodies with MNase**",
+        "body": []
+    },
+    {
+        "title": "**Day 1:**",
+        "body": "1.Dialyze antibody \\(Ab) to remove any impurities with the primary amines against 500 mL PBS with EDTA \\(PBSE, PBS \\[magnesium and calcium free] with 1 mM EDTA) in a new plastic bucket as follows. Inject Ab \\(80-200 µL) using syringe with needle into a Slide+A+Lyzer Dialysis Cassette \\(10 k MWCO, 0.5 mL size, Thermo Fisher Scientific), incubate at room temperature for 1 hr while constant stirring using magnetic stirrer, transfer the cassette to the same bucket containing fresh 500 mL PBSE, and continue to stir overnight at 4°C using magnetic stirrer.\r\n\n\n_Note: Each Ab should be independently dialyzed in a separate bucket._"
+    },
+    {
+        "title": "**Day 2:**",
+        "body": "2.Prepare MNase+Traut's Reagent as follows. \r\n\n\n・Pierce Traut's Reagent \\(2-iminothiolane, Thermo Fisher Scientific)  is solubilized in water to 2 mg/mL \\(final conc. at 14.53 mM).\r\n\n\n・MNase \\(16,807 g/mol) is solubilized to 4 mg/mL \\(final conc. at 0.24 mM) in PBS containing 40% glycerol.\r\n\n\n・Mix 6.4 µL 14.53 mM Traut's Reagent and 200 µL 0.24 mM MNase \\(Traut: MNase=2:1) in 1.5 mL tube. \r\n\n\n・Incubate at room temperature for 1 hr. \r\n\n\n・According to the following procedure, the reaction is desalted using four G50 columns per above reaction and pooled desalted products."
+    },
+    {
+        "title": "**Desalting procedure:**",
+        "body": [
+            "・Snap-open the bottom of a column \\(G50 GE ProbeQuant +50 Micro columns, cat# 28+9034+08), loose the cap, spin 750xg for 30 sec.\r\n\n\n・Add 600 µL PBSE, spin 750xg for 30 sec, dump the flow through. \\(Repeat once again)\r\n\n\n・Add 600 µL PBSE, spin 750xg for 1 min. \r\n\n\n・Load 50 µL reaction per a column and spin 750xg for 1 min.\r\n\n\n・Collect the eluent containing desalted reaction products.",
+            {
+                "title": "3.",
+                "body": "After dialysis, Ab is reacted with succinimidyl 4-\\(N-maleimidomethyl)cyclohexane-1-carboxylate \\(SMCC, Thermo Fisher Scientific) at molecular ratio of 1:20 as follows. \r\n  ・Mix 100 µg Ab \\(0.67 nmol) with 1.5 µL 3 mg/mL SMCC \\(8.97 nmol/µL) that is dissolved in DMSO.  \r\n\n\n_Note: Alternatively, to prepare for crosslinking PA with MNase, mix 100 µg PA \\(2.94 nmol) with 6.5 µL 3 mg/mL SMCC \\(8.97 nmol/µL) that is dissolved in DMSO._\r\n\n\n・Incubate at room temperature for 30 min. \r\n\n\n・Desalt using G50 columns, and eluents were pooled."
+            },
+            {
+                "title": "4.",
+                "body": "For each of the desalted"
+            }
+        ]
+    },
+    {
+        "title": "**Ab-SMCC \\(or PA-SMCC)**",
+        "body": ", add the desalted"
+    },
+    {
+        "title": "**MNase-traut**",
+        "body": "at molecular ratio of 1:10, incubate at room temperature for 1 hr, add 1 M Tris \\(pH 7.4) to final concentration at 50 mM to terminate the reaction, add glycerol to final concentration at 40% \\(v/v), and store at -20°C until use."
+    },
+    {
+        "title": "**B. scChIC-Seq protocol for single cells**",
+        "body": []
+    },
+    {
+        "title": "**Day 1 \\(about 4 to 5 hours)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare formaldehyde fixed cells as follows. _\\(about 1 hour)_ \r\n  Before fixing the cells, make sure that the cultured cells were evenly distributed in the cell culture medium. Into the medium, directly add 1/15 volume of 16% formaldehyde solution \\(w/v) methanol-free \\(Pierce prod no.28908). Incubate at room temperature for 5 min while gently mixing using tube-rotator. Then, add 1/10 volume of 1.25 M glycine to terminate the cell fixing. Incubate at room temperature for 5 min while gently mixing using tube-rotator. Centrifuge at 1,320 rpm, 4°C for 7 min to collect the fixed cells. Wash with PBS twice. Remain some PBS and divide into 10<sup>6</sup> cells per 1.5-mL tube. The tubes were snap-frozen on dry-ice, and store at -80°C until use."
+            },
+            {
+                "title": "2.",
+                "body": "Pre-treat the fixed-cells using 1 mL RIPA buffer \\(Tris-EDTA buffer \\[pH7.5]+150 mM NaCl+0.2% SDS+0.1% NaDeoxycholate+1% Triton X-100) for 30 min rotating at room temperature. Rinse with 1 mL binding buffer \\(Tris-EDTA buffer \\[pH7.5]+200 mM NaCl+0.1% Triton X-100) twice, and resuspend in 1 mL binding buffer. _\\(about 40 minutes)_\r\n  _Note: This treatment is required for analysis of heterochromatic marker._"
+            },
+            {
+                "title": "3.",
+                "body": "Form antibody \\(Ab) and ProteinA-MNase \\(PA-MNase) complex \\(Ab+PA-MNase) \\(not needed if using the direct Ab-MNase conjugate \\(Ab-MNase). _\\(30 minutes)_\r\n  In 50 µL binding buffer \\(Tris-EDTA buffer \\[pH7.5]+200 mM NaCl+0.1% Triton X-100), add 0.72 µL PA-MNase \\(about 0.0129 nmol PA crosslink/µL), 0.5 µL Ab \\(for ChIPAb+ Trimethyl-Histone H3 \\[Lys4], Millipore Sigma Cat. # 17-614, Lot # 2726787, for control Normal Rabbit IgG, or for 1 mg/mL Anti-Trimethyl-Histone H3 \\[Lys27], Millipore Sigma Cat. # 07-449, Lot # 2826067). Incubate at 4°C for 30 min."
+            },
+            {
+                "title": "4.",
+                "body": "Add above Ab+PA-MNase or Ab-MNase to the fixed-cells \\(10<sup>6</sup> cells) in the binding buffer, incubate at 4°C and gently mix using the tube-rotator for 30 min.\r\n  _Note: The amount of Ab+PA-MNase or Ab-MNase added to the fixed cells depend on the antibody and the concentration of the active cross-linked molecules. In our case, all of the above Ab+PA-MNase prepared from step 3 or 29.17 µL Ab-MNase glycerol stock was used in a reaction._"
+            },
+            {
+                "title": "5.",
+                "body": "Spin down the cells at 2,000 rpm for 2 min, rotate the tube 180 degree in the centrifuge and spin-down to the opposite side of the tube by centrifugation at 2,000 rpm for 1 min. Remove the supernatant \\(do not over-dry, work with wet pellet by leaving a small quantity of buffer). Add 200 µL wash buffer. Spin down the cells and remove supernatant as before. Repeat twice to do total of three wash. _\\(about 20 minutes)_\r\n  _Note: it is important to remove all excess nucleases._"
+            },
+            {
+                "title": "6.",
+                "body": "Rinse the cells with 1 mL Sorting buffer \\(Tris-EDTA buffer \\[pH7.5]+10 mM NaCl+0.1% Triton X-100). Resuspend in 200 µL Sorting buffer. Filter the cell solution using a cell strainer \\(Falcon® 40 µm Cell Strainer, product no. 352340). Keep sample on ice."
+            },
+            {
+                "title": "7.",
+                "body": "Using FACS, sort cells to a single cell into a 0.2 mL 8-Strip PCR Tubes that contain 20 µL Sorting buffer per tube. After sorting the cells, immediately spin-down to collect a single cell into the solution at the bottom of the tube. Keep samples on ice. _\\(about 1 hour)_"
+            },
+            {
+                "title": "8.",
+                "body": "Activate MNase by adding 100 µL cold RSB per a PCR tube \\(10 mM Tris \\[pH7.5]+10 mM NaCl+0.1% Triton X-100+2 mM CaCl<sub>2</sub>). Incubate at 37°C for 3 min using water bath. _\\(about 20 minutes)_"
+            },
+            {
+                "title": "9.",
+                "body": "Add 100 µL stop buffer \\(20 mM Tris \\[pH8.0] +20 mM NaCl+0.2% SDS+10 mM EGTA) containing 1 µL proteinase K. Mix well and incubate over-night at 65°C. \r\n  _Note: this step is the end of using PCR tube. From here, use 1.5-mL tube._"
+            }
+        ]
+    },
+    {
+        "title": "**Day2 \\(about 9 hours)**",
+        "body": [
+            {
+                "title": "10.",
+                "body": "Purify DNA by Phenol-chloroform extraction. Add 125 µL Phenol-chloroform in 1.5 mL tube containing the reaction mixture from step"
+            },
+            {
+                "title": "9.",
+                "body": "Vortex. Centrifuge for 5 min at 13 krpm. Prepare a new 1.5-mL tube containing 13.5 µL glycogen salt solution \\(1 µL 20 mg/mL Glycogen and 12.5 µL 3 M NaOAc \\[pH5.3]). Transfer the upper phase to the new tube. Add 330 µL 100% ethanol. Incubate on dry-ice for 20 min. Centrifuge for 15 min at 13 krpm at 4°C. Remove the supernatant \\(do not over-dry). Rinse pellets once using 400 µL cold 70% ethanol. Then, the pellet is air-dried briefly \\(do not over-dry) and resuspended in 4 µL Qiagen EB \\(Qiagen). _\\(about 2 hour)_"
+            },
+            {
+                "title": "11.",
+                "body": "End-repair the DNA as follows using End-It™ DNA End-Repair Kit \\(Lucigen) as follows.\r\n  2.75 µL H<sub>2</sub>O \r\n\n\n1 µL 10x dNTP mix\r\n\n\n1 µL 10x ATP mix \r\n\n\n1 µL 10x end-repair enzyme buffer \r\n\n\n0.25 µL End-repair enzyme mix\r\n\n\nAdd 6 µL to each tube and mix well. Incubate at 37°C for 20 min. Stop the reaction by adding 115 µL Tris-EDTA buffer \\[pH 7.5], 125 µL Phenol-Chloroform extraction as above. _\\(about 1 hour)_"
+            },
+            {
+                "title": "12.",
+                "body": "Vortex-mix well, spin as before. Transfer the upper phase to a new tube and precipitate DNA with 13.5 µL of following mixture \\(1 µL of 20 mg/ml Glycogen, 12.5 µL of 3 M NaOAc \\[pH5.3]) and 340 µL ethanol. Incubate on dry ice for 20 minutes and centrifuge at 13 krpm for 15 minutes at 4°C. Remove supernatant and rinse pellet with 400 µL cold 70% ethanol. Remove supernatant and air dry pellets \\(do not over-dry). Resuspend pellet in 5 µL Qiagen EB \\(Qiagen). _\\(about 1 hour)_"
+            },
+            {
+                "title": "13.",
+                "body": "Add A to DNA ends \\(10 µL reaction).\r\n  2.7µL H<sub>2</sub>O\r\n\n\n1 µL 10x NEB2 \r\n\n\n1 µL 10mM dATP\r\n\n\n0.3 µL Klenow Exo-\r\n\n\nAdd 5 µL to each tube and mix, then transfer all to PCR tube. Incubate at 37°C for 20 min, 75°C for 20 min, then 4°C to store. _\\(about 50 minutes)_"
+            },
+            {
+                "title": "14.",
+                "body": "Adaptor ligation \\(15 µL reaction). \r\n  1.8 µL H<sub>2</sub>O \r\n\n\n0.8 µL 10x T4 DNA ligase buffer \r\n\n\n0.8 µL 15 µM Illumina Adaptor Oligo Mix \r\n\n\n0.4 µL 400 U/µL T4 DNA ligase. \r\n\n\n   Add 5 µL to each tube. Incubate at room temperature for 3 hr.  _\\(about 3 hours)_"
+            },
+            {
+                "title": "15.",
+                "body": "PCR amplification: Add 0.4 µL each 10 µM Indexing primer, 15.8 µL 2x Phusion Master Mix, 0.4 µL 10 µM common PCR primer 1.0.  Perform PCR: 98°C, 30 min; 25 cycles \\(98°C, 10 min; 68°C, 30 min; 72°C, 30 min); 72°C, 5 min; 4°C hold. _\\(about 1 hour)_"
+            },
+            {
+                "title": "16.",
+                "body": "Pool PCR products and purify the DNA using MiniElute columns \\(Qiagen). Elute with a total of 40 µL 10 mM Tris, pH7.5. Load 16 µL PCR product onto a 2% E-gel \\(Thermo Fisher Scientific) without dilution, and agarose gel electrophoresis run for 22 min. Isolate the fragments of 140 to 350 bp in size by cutting out the desired gel and transfer them to 1.5-mL Eppendorf tubes. _\\(about 90 minutes)_\r\n  \r\n\n\n<a href=\"#figures\" data-url=\"http://www.nature.com/protocolexchange/system/uploads/7483/original/Figure_1_Protocol_Exchange.png?1548682474\">See figure in Figures section.</a>\r\n\n\n\r\n\n\nFigure"
+            },
+            {
+                "title": "1.",
+                "body": "Shown is typical gel electrophoresis result.\r\n\n\nA. Each sample \\(lane 1-8) was run in individual well. B. Isolate the agarose gel with each DNA sample separately in each tube by cutting out 140-350 bp in size and remove excess agarose gel with no DNA to maximize the DNA purification efficiency in the following steps."
+            },
+            {
+                "title": "17.",
+                "body": "Add 900 µL Buffer QG \\(Qiagen) per tube to solubilize the gel by rotating for 20 min at room temperature. Add 300 µL isopropanol to each tube. Transfer the solution to one Mini Column \\(700 µL first, and spin, and then transfer the remaining solution and spin). Wash once with 500 µl QG. Wash once with 700 µL PE wash buffer \\(with ethanol), spin for 10 sec, discard solution and then spin for 2 min. Elute DNA with 20 µL EB. _\\(about 30 minutes)_"
+            },
+            {
+                "title": "18.",
+                "body": "Measure concentration of DNA sample using a Qubit dsDNA BR Assay Kit \\(Thermo Fisher Scientific) as follows.\r\n  Prepare assay mix:\r\n\n\n200 µL Qubit buffer\r\n\n\n1 µL dye\r\n\n\n\r\n\n\nAdd the assay mix to the control and sample solutions as follows.\r\n\n\nFor 0 ng/µL control: 190 µL assay mix + 10 µL control DNA solution\r\n\n\nFor 10 ng/µL control: 190 µL assay mix + 10 µL control DNA solution\r\n\n\nFor sample: 198 µL above mix + 2 µL DNA sample"
+            },
+            {
+                "title": "19.",
+                "body": "Incubate 1 min at room temperature. Measure by Qubit \\(double stranded DNA HS mode), calibrate DNA concentration by setting the volume mode 2 µL. _\\(about 10 minutes)_"
+            },
+            {
+                "title": "20.",
+                "body": "Run NGS using DNA sample prepared at the desired concentration."
+            }
+        ]
+    },
+    {
+        "title": "**C. ChIC-Seq protocol for small number of cells**",
+        "body": []
+    },
+    {
+        "title": "**Day 1 \\(about 3 hour)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Prepare formaldehyde fixed cells as follows. _\\(about 1 hour)_ \r\n  Before fixing the cells, make sure that the cultured cells were evenly distributed in the cell culture medium. Into the medium, directly add 1/15 volume of 16% formaldehyde solution \\(w/v) methanol-free \\(Pierce prod no.28908). Incubate at room temperature for 5 min while gently mixing using tube-rotator. Then, add 1/10 volume of 1.25 M glycine to terminate the cell fixing. Incubate at room temperature for 5 min while gently mixing using tube-rotator. Centrifuge at 1,320 rpm, 4°C for 7 min to collect the fixed cells. Wash with PBS twice. Remain some PBS and divide into 10<sup>6</sup> cells per 1.5-mL tube. The tubes were snap-frozen on dry-ice, and store at -80°C until use."
+            },
+            {
+                "title": "2.",
+                "body": "Pre-treat the fixed-cells using 1 mL RIPA buffer \\(Tris-EDTA buffer \\[pH7.5]+150 mM NaCl+0.2% SDS+0.1% NaDeoxycholate+1% Triton X-100) for 30 min rotating at room temperature. Rinse with 1 mL binding buffer \\(Tris-EDTA buffer \\[pH7.5]+200 mM NaCl+0.1% Triton X-100) twice, and resuspend in 1 mL binding buffer. _\\(about 40 minutes)_\r\n  _Note: This treatment is required for analysis of heterochromatic marker._"
+            },
+            {
+                "title": "3.",
+                "body": "Form antibody \\(Ab) and ProteinA-MNase \\(PA-MNase) complex \\(Ab+PA-MNase) \\(not needed if using the direct Ab-MNase conjugate \\(Ab-MNase). \\(30 minutes)\r\n  In 50 µL binding buffer \\(Tris-EDTA buffer \\[pH7.5]+200 mM NaCl+0.1% Triton X-100), add 0.72 µL PA-MNase \\(about 0.0129 nmol PA crosslink/µL), 0.5 µL Ab \\(for ChIPAb+ Trimethyl-Histone H3 \\[Lys4], Millipore Sigma Cat. # 17-614, Lot # 2726787, for control Normal Rabbit IgG, or for 1 mg/mL Anti-Trimethyl-Histone H3 \\[Lys27], Millipore Sigma Cat. # 07-449, Lot # 2826067). Incubate at 4°C for 30 min."
+            },
+            {
+                "title": "4.",
+                "body": "Transfer pre-treated cells in binding buffer to desired cell concentration in 50 µL \\(for example, 3,000 cells/50 µL). Add this cell solution and the pre-incubated complex from step3 \\(Ab-PA-MNase or Ab-MNase), so the total volume becomes 100 µL. Incubate at 4°C and gently mix by the tube-rotator for 30 min. \\(30 minutes)\r\n  _Note: The amount of Ab+PA-MNase or Ab-MNase added to the fixed cells depend on the antibody and the concentration of the active cross-linked molecules. In our case, all of the above Ab+PA-MNase prepared from step 3 or 29.17 µL Ab-MNase glycerol stock was used in a reaction._"
+            },
+            {
+                "title": "5.",
+                "body": "Spin down the cells at 2,000 rpm for 2 min, rotate the tube 180 degree in the centrifuge and spin-down to the opposite side of the tube by centrifugation at 2,000 rpm for 1 min. Remove the supernatant \\(do not over-dry, work with wet pellet by leaving a small quantity of buffer). Add 200 µL wash buffer. Spin down the cells and remove supernatant as before. Repeat twice to do total of three wash. \\(about 20 minutes)\r\n  _Note: it is important to remove all excess nucleases._\r\n\n\nWash buffers: \r\n\n\n\\(Tris-EDTA buffer \\[pH7.5]+400 mM NaCl+1% Triton X-100) _use for Ab-PA-MNase reaction_\r\n\n\n\\(Tris-EDTA buffer \\[pH7.5]+150 mM NaCl+0.1% SDS+0.1% NaDeoxycholate+1% Triton X-100) _use for Ab-MNase reaction_"
+            },
+            {
+                "title": "6.",
+                "body": "Rinse with rinsing buffer \\(10 mM Tris \\[pH7.5]+10 mM NaCl+0.1% Triton X-100) as follows. Add 200 µL rinsing buffer, immediately spin at 2,000 rpm for 2 min, rotate tube in centrifuge and spin at 2,000 rpm for another 1 min, and remove supernatant \\(do not over-dry). _\\(about 10 minutes)_"
+            },
+            {
+                "title": "7.",
+                "body": "Activate MNase by adding 40 µL RSB solution \\(RSB solution for MNase: 10 mM Tris \\[pH7.5]+10 mM NaCl+0.1% Triton X-100+2 mM CaCl<sub>2</sub>). Incubate at 37°C for 3 min using water bath. _\\(about 5 minutes)_"
+            },
+            {
+                "title": "8.",
+                "body": "Add 100 µL stop buffer containing 1 µL proteinase K \\(Stop buffer: 20 mM Tris \\[pH8.0] +20 mM NaCl+0.2% SDS+10 mM EGTA), mix well and incubate over-night at 65°C. _\\(about 5 minutes)_\r\n  _Note: this step is the end of using PCR tube. From here, use 1.5-mL tube._"
+            }
+        ]
+    },
+    {
+        "title": "**Day2 \\(about 8 hours)**",
+        "body": [
+            {
+                "title": "9.",
+                "body": "Purify DNA by Phenol-chloroform extraction. Add 125 µL Phenol-chloroform in 1.5 mL tube containing the reaction mixture from step"
+            },
+            {
+                "title": "8.",
+                "body": "Vortex. Centrifuge for 5 min at 13 krpm. Prepare a new 1.5-mL tube containing 13.5 µL glycogen salt solution \\(1 µL 20 mg/mL Glycogen and 12.5 µL 3 M NaOAc \\[pH5.3]). Transfer the upper phase to the new tube. Add 330 µL 100% ethanol. Incubate on dry-ice for 20 min. Centrifuge for 15 min at 13 krpm at 4°C. Remove the supernatant \\(do not over-dry). Rinse pellets once using 400 µL cold 70% ethanol. Then, the pellet is air-dried briefly \\(do not over-dry) and resuspended in 4 µL Qiagen EB \\(Qiagen). _\\(about 1 hour)_"
+            },
+            {
+                "title": "10.",
+                "body": "End-repair the DNA as follows using End-It™ DNA End-Repair Kit \\(Lucigen) as follows.\r\n  2.75 µL H<sub>2</sub>O \r\n\n\n1 µL 10x dNTP mix\r\n\n\n1 µL 10x ATP mix \r\n\n\n1 µL 10x end-repair enzyme buffer \r\n\n\n0.26 µL End-repair enzyme mix\r\n\n\nAdd 6 µL to each tube and mix well. Incubate at 37°C for 20 min. Stop the reaction by adding 115 µL Tris-EDTA buffer \\[pH 7.5], 125 µL Phenol-Chloroform extraction as above. _\\(about 30 minutes)_"
+            },
+            {
+                "title": "11.",
+                "body": "Vortex-mix well, spin as before. Transfer the upper phase to a new tube and precipitate DNA with 13.5 µL of following mixture \\(1 µL of 20 mg/ml Glycogen, 12.5 µL of 3 M NaOAc \\[pH5.3]) and 340 µL ethanol. Incubate on dry ice for 20 minutes and centrifuge at 13 krpm for 15 minutes at 4°C. Remove supernatant and rinse pellet with 400 µL cold 70% ethanol. Remove supernatant and air dry pellets \\(do not over-dry). Resuspend pellet in 5 µL Qiagen EB \\(Qiagen). _\\(about 1 hour)_"
+            },
+            {
+                "title": "12.",
+                "body": "Add A to DNA ends \\(10 µL reaction).\r\n  2.7µL H<sub>2</sub>O\r\n\n\n1 µL 10x NEB2 \r\n\n\n1 µL 10mM dATP\r\n\n\n0.3 µL Klenow Exo-\r\n\n\nAdd 5 µL to each tube and mix, then transfer all to PCR tube. Incubate at 37°C for 20 min, 75°C for 20 min, then 4°C to store. _\\(about 50 minutes)_"
+            },
+            {
+                "title": "13.",
+                "body": "Adaptor ligation \\(15 µL reaction). \r\n  1.8 µL H<sub>2</sub>O \r\n\n\n1.4 µL 10x T4 DNA ligase buffer \r\n\n\n0.8 µL 15 µM Illumina Adaptor Oligo Mix \r\n\n\n1 µL of 400 U/µL T4 DNA ligase. \r\n\n\n   Add 5 µL to each tube. Incubate at room temperature for 3 hr.  _\\(about 3 hours)_"
+            },
+            {
+                "title": "14.",
+                "body": "PCR amplification: Add 0.4 µL each 10 µM Indexing primer, 15.8 µL 2x Phusion Master Mix, 0.4 µL 10 µM common PCR primer 1.0.  Perform PCR: 98°C, 30 min; 18 cycles \\(98°C, 10 min; 68°C, 30 min; 72°C, 30 min); 72°C, 5 min; 4°C hold. _\\(about 1 hour)_"
+            },
+            {
+                "title": "15.",
+                "body": "Load 16 µL PCR product onto a 2% E-gel \\(Thermo Fisher Scientific) without dilution, and agarose gel electrophoresis run for 22 min. Isolate the fragments of 140 to 350 bp in size by cutting out the desired gel and transfer them to 1.5-mL Eppendorf tubes. \\(See a typical agarose gel electrophoresis result in Figure 1.) _\\(about 30 minutes)_"
+            },
+            {
+                "title": "16.",
+                "body": "Add 900 µL Buffer QG \\(Qiagen) per tube to solubilize the gel by rotating for 20 min at room temperature. Add 300 µL isopropanol to each tube. Transfer the solution to one Mini Column \\(700 µL first, and spin, and then transfer the remaining solution and spin). Wash once with 500 µl QG. Wash once with 700 µL PE wash buffer \\(with ethanol), spin for 10 sec, discard solution and then spin for 2 min. Elute DNA with 20 µL EB. _\\(about 30 minutes)_"
+            },
+            {
+                "title": "17.",
+                "body": "Measure concentration of DNA sample using a Qubit dsDNA BR Assay Kit \\(Thermo Fisher Scientific) as follows.\r\n  Prepare assay mix:\r\n\n\n200 µL Qubit buffer\r\n\n\n1 µL dye\r\n\n\n\r\n\n\nAdd the assay mix to the control and sample solutions as follows.\r\n\n\nFor 0 ng/µL control: 190 µL assay mix + 10 µL control DNA solution\r\n\n\nFor 10 ng/µL control: 190 µL assay mix + 10 µL control DNA solution\r\n\n\nFor sample: 198 µL above mix + 2 µL DNA sample"
+            },
+            {
+                "title": "18.",
+                "body": "Incubate 1 min at room temperature. Measure by Qubit \\(double stranded DNA HS mode), calibrate DNA concentration by setting the volume mode 2 µL. _\\(about 10 minutes)_"
+            },
+            {
+                "title": "19.",
+                "body": "Run NGS using DNA sample prepared at the desired concentration."
+            }
+        ]
+    }
+]

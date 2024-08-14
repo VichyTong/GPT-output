@@ -1,0 +1,18 @@
+[
+    "<p>1.",
+    "Mice were head-fixed on stereotaxic ",
+    "Setup (Thorlabs Inc, US).</p><p>2.",
+    "A respiratory mask was placed around the nose and mouth to deliver 1.5 % isoflurane for anaesthetization during surgery, and turned down to 0.5 % isoflurane during electrophysiology recording.</p><p>3.",
+    "The eyes were covered with erythromycin ointment to ",
+    "Block the environmental light.</p><p>4.After removing the scalp, a craniotomy window was created stereotaxically on V1.",
+    "The craniotomy was filled with fresh ",
+    "Warm sterile buffered saline throughout the entire recordings.</p><p>5.",
+    "The dura was carefully removed.</p><p>6.",
+    "The silicon electrode (A4x8-5mm, Neuronexus, US) was slowly inserted into V1 at a depth about 0.4-0.6 mm by a micromanipulator (Scientifica, US).</p><p>7.",
+    "Electrical signals were recorded at 30 kHz and amplified \u00d7 200 by multichannel data acquisition system (Bio-Signal Technologies, China).</p><p>8.",
+    "Spikes were high-",
+    "Pass ",
+    "Filter at 300 Hz, detected as events exceeding a thres",
+    "Hold of 5 \u00d7 s.d. below the noise, raster plot and peri stimulus time histogram (PSTH) were made.</p><p>9.",
+    "The spike waveforms were sorted off-line by OfflineSorter (Plexon, US).</p>"
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "title": "1.",
+        "body": "Pre-warm fixative solution to 37 degrees C."
+    },
+    {
+        "title": "2.",
+        "body": "Remove media from plastic tissue culture dish and rapidly pour on glutaraldehyde fixative."
+    },
+    {
+        "title": "3.",
+        "body": "Leave 15 minutes."
+    },
+    {
+        "title": "4.",
+        "body": "Rinse with buffer or PBS three times over 5 minutes."
+    },
+    {
+        "title": "5.",
+        "body": "Fix in OsO<sub>4</sub>, 15-30 minutes."
+    },
+    {
+        "title": "6.",
+        "body": "Rinse with buffer five times over 10 minutes."
+    },
+    {
+        "title": "7.",
+        "body": "Incubate in freshly made 1% carbohydrazide 10-30 minutes."
+    },
+    {
+        "title": "8.",
+        "body": "Rinse with distilled five times over 15 minutes."
+    },
+    {
+        "title": "9.",
+        "body": "Incubate again in 1% OsO<sub>4</sub>, 15-30 minutes"
+    },
+    {
+        "title": "10.",
+        "body": "Rinse three times with distilled water over 15 minutes.  In the third rinse, cut dishes to fit the critical point dryer.  Using small diagonal wire cutters, clip and remove edge first.  Then cut bottom of dish to size."
+    },
+    {
+        "title": "11.",
+        "body": "Place in another dish."
+    },
+    {
+        "title": "12.",
+        "body": "Dehydrate through ethanol or hexylene glycol series beginning with 30% and changing to solutions of 50%, 70%, 90%, and three times 100%, over 30 minutes."
+    },
+    {
+        "title": "13.",
+        "body": "Dry in critical point dryer."
+    },
+    {
+        "title": "14.",
+        "body": "Sputter coat with 1-2 nm gold-palladium."
+    }
+]

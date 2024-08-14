@@ -1,0 +1,20 @@
+[
+    {
+        "index": 1,
+        "string": "Day 0: Dissociation of rat hippocampal neurons </u></p><p>\u26a0 Dissociated hippocampal neurons from embryonic day 18 (E18) Sprague-Dawley rats embryos of both sexes were prepared in Banker-like cultures as previously described <sup>15</sup> with modifications.",
+        "phrase": "as previously described",
+        "refer": "In this sentence, \"as previously described\" refers to the method of preparing dissociated hippocampal neurons from embryonic day 18 (E18) Sprague-Dawley rats embryos of both sexes in Banker-like cultures."
+    },
+    {
+        "index": 21,
+        "string": "Day 0: Culture of mouse hippocampal slices </u></p><p>\u26a0 Organotypic hippocampal slice cultures from postnatal day 5-7 from C57Bl6/J mice of both sexes were prepared as previously described <sup>16</sup> with modifications.",
+        "phrase": "as previously described",
+        "refer": "as previously described refers to the method of preparing organotypic hippocampal slice cultures from postnatal day 5-7 mice of both sexes."
+    },
+    {
+        "index": 24,
+        "string": "Coronal slices (300\u2009\u00b5m) were cut using a tissue chopper, collected and positioned on interface-style Millicell culture inserts in 6 well culture plates containing 1 mL of sterile OHSC media (see reagents) pre-equilibrated @35\u00baC. Brain slices were incubated @35 \u00b0C under 5% CO2 and the culture medium was changed from the bottom of each well every 2-3 days.</p><p>&nbsp;</p><p><u>Day 11-13: single-cell electroporation</u></p><p>\u26a0 Single-cell electroporation of CA1 pyramidal neurons in OHSC was performed as previously described <sup>17</sup> with modifications.",
+        "phrase": "as previously described",
+        "refer": "None"
+    }
+]

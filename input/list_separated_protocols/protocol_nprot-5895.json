@@ -1,0 +1,99 @@
+[
+    {
+        "title": "**RNA FRAGMENTATION**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Set up the following fragmentation reaction in a thin-walled 200 μl PCR tube. Mix well by vortex and spin down. \r\n\n\n\r\n\n\n<a href=http://www.nature.com/protocolexchange/system/uploads/5485/original/Supplementary_Protocol_1_03152017_table1.pdf?1492068835> <img src=http://www.nature.com/protocolexchange/system/uploads/5485/original/Supplementary_Protocol_1_03152017_table1.pdf?1492068835> </a>"
+            },
+            {
+                "title": "2|",
+                "body": "Incubate at 95 °C for 5 min in a pre-heated thermal cycler block with the heated lid closed. Remove tubes from block and immediately add 2 μl of stop solution. Mix well by vortex and spin down, and place on ice."
+            },
+            {
+                "title": "3|",
+                "body": "Purify fragmented RNA using RNA Clean & Concentraton-5 kit, according to the manufacturer’s instructions. Elute in 15 μl molecular biology grade, RNase-free water. Note that each RNA Clean & Concentrator-5 column is suitable for purification of up to 10 μg RNA."
+            }
+        ]
+    },
+    {
+        "title": "**3’ END REPAIR**",
+        "body": [
+            "4|Set up the following 3’ end repair reaction in a thin-walled 200 μl PCR tube. Mix well by gentle tapping and spin down. \r\n\n\n\r\n\n\n<a href=http://www.nature.com/protocolexchange/system/uploads/5487/original/Supplementary_Protocol_1_03152017_table2.pdf?1492068903> <img src=http://www.nature.com/protocolexchange/system/uploads/5487/original/Supplementary_Protocol_1_03152017_table2.pdf?1492068903> </a>",
+            {
+                "title": "5|",
+                "body": "Incubate at 37°C for 30 minutes."
+            },
+            {
+                "title": "6|",
+                "body": "Purify 3’ end-repaired fragmented RNA using RNA Clean & Concentraton-5 kit, according to the manufacturer’s instructions. Elute in 15 μl molecular biology grade, RNase-free water."
+            }
+        ]
+    },
+    {
+        "title": "**OXIDATION-ELIMINATION-DEPHOSPHORYLATION CYCLES**",
+        "body": [
+            "7|Set up the following oxidation-elimination reaction in a dark tube. Mix well by vortex and spin down. \r\n\n\n\r\n\n\n<a href=http://www.nature.com/protocolexchange/system/uploads/5489/original/Supplementary_Protocol_1_03152017_table3.pdf?1492068926> <img src=http://www.nature.com/protocolexchange/system/uploads/5489/original/Supplementary_Protocol_1_03152017_table3.pdf?1492068926> </a>",
+            {
+                "title": "8|",
+                "body": "Incubate at 37 °C for 30 minutes with shaking."
+            },
+            {
+                "title": "9|",
+                "body": "Quench the reaction by adding 2 μl of ethylene glycol. Mix well and spin down."
+            },
+            {
+                "title": "10|",
+                "body": "Dephosphorylate by adding 5 μl of CutSmart Buffer \\(10X), 2 μl of rSAP enzyme \\(2 units) and 1 μl of molecular biology grade, RNase-free water \\(total reaction volume of 50 μl), mix well and spin down."
+            },
+            {
+                "title": "11|",
+                "body": "Incubate at 37 °C for 30 minutes with shaking."
+            },
+            {
+                "title": "12|",
+                "body": "Purify RNA using RNA Clean & Concentrator-5 kit, according to the manufacturer’s instructions. Elute in 32 μl molecular biology grade, RNase-free water."
+            },
+            {
+                "title": "13|",
+                "body": "Repeat steps 7-12 seven more times."
+            }
+        ]
+    },
+    {
+        "title": "**FINAL OXIDATION-ELIMINATION**",
+        "body": [
+            {
+                "title": "14|",
+                "body": "Repeat steps 7-9 once. Make sure not perform dephosphorylation \\(steps 10-11)."
+            },
+            {
+                "title": "15|",
+                "body": "Purify RNA using RNA Clean & Concentraton-5 kit, according to the manufacturer’s instructions. Elute in 32 μl molecular biology grade, RNase-free water."
+            }
+        ]
+    },
+    {
+        "title": "**5’ PHOSPHORYLATION**",
+        "body": [
+            "16|Set up the following 5’ dephosphorylation reaction. Mix well by gentle tapping and spin down.\r\n\n\n\r\n\n\n<a href=http://www.nature.com/protocolexchange/system/uploads/5491/original/Supplementary_Protocol_1_03152017_table4.pdf?1492068949> <img src=http://www.nature.com/protocolexchange/system/uploads/5491/original/Supplementary_Protocol_1_03152017_table4.pdf?1492068949> </a>",
+            {
+                "title": "17|",
+                "body": "Incubate at 37 °C for 30 minutes."
+            },
+            {
+                "title": "18|",
+                "body": "Purify RNA using RNA Clean & Concentraton-5 kit, according to the manufacturer’s instructions. Elute in 8 μl molecular biology grade, RNase-free water."
+            }
+        ]
+    },
+    {
+        "title": "**LIBRARY PREPARATION FOR MASSIVELY PARALLEL SEQUENCING**",
+        "body": [
+            {
+                "title": "19|",
+                "body": "Use RNA from step 18 to construct a small RNA library using NEBNext® Small RNA Library Prep Set for Illumina, according to the manufacturer’s instruction, with the exception that 3’ adaptor ligation should be performed  overnight at 16 °C."
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "title": "1.",
+        "body": "Thaw samples on ice."
+    },
+    {
+        "title": "2.",
+        "body": "Transfer 500 µL of urine into a 15 mL centrifuge tube. If using the exosomal fraction from ultracentrifugation or Millipore methods, transfer 200 µL."
+    },
+    {
+        "title": "3.",
+        "body": "Add 5x volumes of QIAzol Lysis Reagent.<sup>1</sup>"
+    },
+    {
+        "title": "4.",
+        "body": "Vortex 5 s."
+    },
+    {
+        "title": "5.",
+        "body": "Incubate for 5 min at room temperature."
+    },
+    {
+        "title": "6.",
+        "body": "Add 1x volume chloroform."
+    },
+    {
+        "title": "7.",
+        "body": "Shake \\(do not vortex) vigorously for 15 s."
+    },
+    {
+        "title": "8.",
+        "body": "Incubate for 3 min at room temperature."
+    },
+    {
+        "title": "9.",
+        "body": "Centrifuge sample for 15 min at 12,000 x g at 4°C."
+    },
+    {
+        "title": "10.",
+        "body": "Transfer the upper aqueous phase to a new 15 mL centrifuge tube."
+    },
+    {
+        "title": "11.",
+        "body": "Carefully measure the aqueous phase and add 1.5x volumes of 100% ethanol."
+    },
+    {
+        "title": "12.",
+        "body": "Mix gently and thoroughly. Do not centrifuge and do not delay moving on to the next step."
+    },
+    {
+        "title": "13.",
+        "body": "Assemble a MinElute spin column in a new collection tube."
+    },
+    {
+        "title": "14.",
+        "body": "Load up to 700 µL of the mixture, including any precipitate that may have formed, onto the column."
+    },
+    {
+        "title": "15.",
+        "body": "Spin for 15 s at 1,000 x g<sup>2</sup> at room temperature.<sup>3</sup>"
+    },
+    {
+        "title": "16.",
+        "body": "Discard flow-through."
+    },
+    {
+        "title": "17.",
+        "body": "Repeat steps 14-16 until entire sample has been loaded."
+    },
+    {
+        "title": "18.",
+        "body": "Add 700 μL Buffer RWT to the RNeasy MinElute spin column."
+    },
+    {
+        "title": "19.",
+        "body": "Centrifuge for 15 s at ≥ 8000 x g at room temperature to wash the column."
+    },
+    {
+        "title": "20.",
+        "body": "Discard the flow-through."
+    },
+    {
+        "title": "21.",
+        "body": "Pipet 500 μL Buffer RPE onto the RNeasy MinElute spin column."
+    },
+    {
+        "title": "22.",
+        "body": "Centrifuge for 15 s at ≥ 8000 x g to wash the column."
+    },
+    {
+        "title": "23.",
+        "body": "Discard the flow-through."
+    },
+    {
+        "title": "24.",
+        "body": "Pipet 500 μL fresh 80% ethanol<sup>4</sup> onto the RNeasy MinElute spin column."
+    },
+    {
+        "title": "25.",
+        "body": "Centrifuge for 2 min at ≥ 8000 x g \\(≥10,000 rpm) at room temperature to wash the column.<sup>5</sup>"
+    },
+    {
+        "title": "26.",
+        "body": "Discard the collection tube with the flow-through."
+    },
+    {
+        "title": "27.",
+        "body": "Transfer the RNeasy MinElute spin column into a new 2 mL collection tube \\(supplied)."
+    },
+    {
+        "title": "28.",
+        "body": "Open the lid of the spin column, and centrifuge at full speed for 5 min to dry the membrane.<sup>6</sup>"
+    },
+    {
+        "title": "29.",
+        "body": "Discard the collection tube with the flow-through."
+    },
+    {
+        "title": "30.",
+        "body": "Transfer the RNeasy MinElute spin column into a new 1.5 mL collection tube \\(supplied). Add 14 μL RNase-free water directly to the center of the spin column membrane.<sup>7</sup>"
+    },
+    {
+        "title": "31.",
+        "body": "Centrifuge for 1 min at 100 x g followed by 1 min at full speed to elute the RNA."
+    },
+    {
+        "title": "32.",
+        "body": "Aliquot 5µL into new microcentrifuge tube for QC analyses."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "index": 3,
+        "string": "Isolate PBMCs and generate T cell clones as previously described \\(1). \r\n  ",
+        "phrase": "as previously described",
+        "refer": "In this sentence, \"as previously described\" refers to the process of isolating PBMCs and generating T cell clones."
+    },
+    {
+        "index": 12,
+        "string": "Obtain mature DCs by a 40-h stimulation of iDCs with CD40L-transfected J558L cells \\(at a DC/J558L ratio of 1:1), as previously described, or with soluble r-CD40L molecules \\(Alexis Biochemicals, Alexis Corporation).",
+        "phrase": "as previously described",
+        "refer": "The phrase \"as previously described\" refers to the method of obtaining mature DCs by a 40-h stimulation of iDCs with CD40L-transfected J558L cells or with soluble r-CD40L molecules."
+    }
+]

@@ -1,0 +1,235 @@
+[
+    {
+        "title": "**Epoxysilane-coated slides \\(GPTS slides)**",
+        "body": [
+            {
+                "title": "1|",
+                "body": "Untreated slides \\(20) were washed twice with 100% ethanol for 10 min each and dried by centrifuge at 1000 rpm for 1 min."
+            },
+            {
+                "title": "2|",
+                "body": "Etched by immersion in 10% NaOH overnight."
+            },
+            {
+                "title": "3|",
+                "body": "Followed by sonification for 15 min \\(in the same 10% NaOH)."
+            },
+            {
+                "title": "4|",
+                "body": "Rinsed four times with water for 2 min, washed twice in ethanol for 2 min and dried by centrifuge at 1000 rpm for 1 min."
+            },
+            {
+                "title": "5|",
+                "body": "20 slides were incubated in a solution \\(200 mL) of 10 mL GPTS, 286 μL 100% acetic acid，189 mL 100% ethanol for 3 h, gently shaked."
+            },
+            {
+                "title": "6|",
+                "body": "Followed by sonification for 15 min \\(in the same solution)."
+            },
+            {
+                "title": "7|",
+                "body": "Washed three times in ethanol for 10 min each and dried by centrifuge at 1000 rpm for 10 min immediately."
+            },
+            {
+                "title": "8|",
+                "body": "Finally baked at 37°C for 3 h and kept at 4°C in a desiccator to be ready for following modified surfaces.\r\n\n\nPAUSE POINT Keep the slides with GPTS at 25°C in the dark.\r\n\n\nCRITICAL STEP The efficiency of the method relies on the formation of the chemical bond under slightly acidic condition."
+            }
+        ]
+    },
+    {
+        "title": "**Whole Saliva Preparation**",
+        "body": [
+            "Unstimulated saliva was collected between 9 a.m. and 10 a.m., at least 2 h after the last intake of food, from patients and the healthy groups, respectively.",
+            {
+                "title": "9|",
+                "body": "The mouth was rinsed with physiological saline immediately before collection."
+            },
+            {
+                "title": "10|",
+                "body": "Whole saliva \\(approximately 1 mL) was collected and placed on ice. Protease Cocktail Inhibitor \\(1 μL/mL of whole saliva) was added to the saliva immediately after collection to minimize protein degradation."
+            },
+            {
+                "title": "11|",
+                "body": "Whole saliva was then centrifuged at 12 000 rpm at 4 °C for 10 min to remove the insoluble materials."
+            },
+            {
+                "title": "12|",
+                "body": "The supernatant was collected and ﬁltered with a 0.22 μm pore size against bacteria and microbials, which was immediately used or stored at −80 °C."
+            },
+            {
+                "title": "13|",
+                "body": "The protein concentration was determined by the BCA assay.\r\n\n\nPAUSE POINT Whole saliva \\(about 1 mL) was collected and placed on ice.\r\n\n\nCRITICAL STEP To normalize the differences between subjects and to account for individual variation, 100 μL from each saliva sample was pooled in each group, the other maintained for further validation."
+            }
+        ]
+    },
+    {
+        "title": "**Protein labeling**",
+        "body": [
+            {
+                "title": "14|",
+                "body": "The Cy3 fluorescence dye were dissolved in DMSO for 0.5h at room temperature according to the operating instruction manual."
+            },
+            {
+                "title": "15|",
+                "body": "The extracted protein \\(The mixture of equal parts of protein and 0.1M Na2CO3\\(pH9.3)) was labeled with Cy3 fluorescence dye."
+            },
+            {
+                "title": "16|",
+                "body": "Purified by Sephadex G-25 columns according to the manufacturer's instructions.\r\n\n\nPAUSE POINT Protein labeling was performed in the dark."
+            }
+        ]
+    },
+    {
+        "title": "**Spotting**",
+        "body": [
+            {
+                "title": "17|",
+                "body": "The lectins were dissolved to a concentration of 1 mg/mL in the manufacturer's recommended buffer containing 1 mmol/L appropriate monosaccharide."
+            },
+            {
+                "title": "18|",
+                "body": "The spotting buffer is Millipore water."
+            },
+            {
+                "title": "19|",
+                "body": "Each lectin was spotted in triplicate per block, with triplicate blocks on one slide."
+            },
+            {
+                "title": "20|",
+                "body": "After spotting, all slides are incubated in a humidity-controlled incubator at 50% humidity overnight and then put into a vacuum dryer for 3 h at 37°C to allow lectin immobilization.\r\n\n\nPAUSE POINT  After spotting, all slides are incubated in a humidity-controlled incubator at 50% humidity overnight."
+            }
+        ]
+    },
+    {
+        "title": "**Blocking**",
+        "body": [
+            {
+                "title": "21|",
+                "body": "Unbound lectins were removed from their surface by washing twice with PBST for 5 min and followed by a final rinse in PBS for 5 min, spin to dry."
+            },
+            {
+                "title": "22|",
+                "body": "The slides were blocked with blocking buffer in the chamber at 25 ºC for 1 h in a rotisserie oven set at 4 rpm."
+            },
+            {
+                "title": "23|",
+                "body": "Washed twice with PBST for 5 min, PBS for 5 min, spun to dry to be ready for following incubation.\r\n\n\nPAUSE POINT The temperature of blocking is 25 ºC"
+            }
+        ]
+    },
+    {
+        "title": "**Incubation**",
+        "body": [
+            {
+                "title": "24|",
+                "body": "Appropriate amount of Cy3-labeled protein was diluted in 0.5 mL of incubation buffer and the incubation was performed in the chamber at 25 ºC for 3 h in a rotisserie oven set at 4 rpm."
+            },
+            {
+                "title": "25|",
+                "body": "Washed twice with PBST for 5 min, PBS for 5 min, spun to dry to be ready for following scanning.\r\n\n\nPAUSE POINT The temperature of incubation is 25 ºC."
+            }
+        ]
+    },
+    {
+        "title": "**Scanning and data analysis**",
+        "body": [
+            {
+                "title": "26|",
+                "body": "The microarrays were scanned with a 70% photomultiplier tube and 100% laser power settings using a Genepix 4000B confocal scanner."
+            },
+            {
+                "title": "27|",
+                "body": "The acquired images were analyzed at 532 nm for Cy3 detection by Genepix 3.0 software. The average background was subtracted, and the values less than average background±2 standard deviations \\(SD) were removed from each data point."
+            },
+            {
+                "title": "28|",
+                "body": "The median of the effective data points of each lectin was globally normalized to the sum of medians of all effective data points for each lectin in one block. Each sample was observed consistently by three repeated slides, and the normalized medians of each lectin from 9 repeated blocks were averaged and its SD was calculated."
+            },
+            {
+                "title": "29|",
+                "body": "The normalized data of each clinical group were compared with the healthy groups based upon the fold change according to the following criteria: fold change>1.5 or <0.67 in the pairs indicated up-regulation or down-regulation, respectively, of a certain glycan. Differences between the arbitrary two data sets or multiple data sets were tested by Student’s t-test or one-way ANOVA to each lectin signal using SPSS statistics 19 software.\r\n\n\nPAUSE POINT Each sample was observed consistently by three repeated slides, and the normalized medians of each lectin from 9 repeated blocks were averaged and its SD was calculated."
+            }
+        ]
+    },
+    {
+        "title": "**SDS-PAGE and Lectin blotting**",
+        "body": [
+            {
+                "title": "30|",
+                "body": "SDS-PAGE."
+            }
+        ]
+    },
+    {
+        "title": "**Silver staining**",
+        "body": [
+            {
+                "title": "31|",
+                "body": [
+                    "Fix the gel slab with 100mL fixation fluid to stay overnight \\(at least 2",
+                    {
+                        "title": "h)",
+                        "body": "with gentle shaking at room temperature."
+                    }
+                ]
+            },
+            {
+                "title": "32|",
+                "body": "Incubate the gel in 100mL sensitization fluid with gentle shaking for 30 min at room temperature."
+            },
+            {
+                "title": "33|",
+                "body": "Rinse six times with 100mL washing fluid for 10 min each."
+            },
+            {
+                "title": "34|",
+                "body": "Incubate the gel in 100mL staining solution with gentle shaking for 30 min at room temperature."
+            },
+            {
+                "title": "35|",
+                "body": "Rinse twice with 100mL washing fluid for 1 min each."
+            },
+            {
+                "title": "36|",
+                "body": "Develop in developer under gentle shaking for several minutes at room temperature."
+            },
+            {
+                "title": "37|",
+                "body": "The silver-stained gels are stored in stop buffer.\r\n\n\nPAUSE POINT Proteins can be stored frozen at -20°C for several weeks.\r\n\n\nCRITICAL STEP The background of silver-stained gels will not become sharpness, if you do not thoroughly wash it by step 35 and 36."
+            }
+        ]
+    },
+    {
+        "title": "**Lectin blotting**",
+        "body": [
+            {
+                "title": "38|",
+                "body": "Analyze the Glycoproteins from step 30 by SDS-PAGE."
+            },
+            {
+                "title": "39|",
+                "body": "The proteins in the gels were then transferred to a PVDF membrane with a wet transfer unit for 1.5 h at 100 V."
+            },
+            {
+                "title": "40|",
+                "body": "After transfer, the membranes were washed twice with TBST."
+            },
+            {
+                "title": "41|",
+                "body": "Then blocked for 1 h with Carbo-Free Blocking Solution at room temperature."
+            },
+            {
+                "title": "42|",
+                "body": "The membranes were then washed again and incubated with Cy5-labeled lectins \\(2µg/mL in Carbo-Free Blocking Solution) with gentle shaking overnight at 4°C in the dark."
+            },
+            {
+                "title": "43|",
+                "body": "The membranes were washed twice each for 10 min with TBST."
+            },
+            {
+                "title": "44|",
+                "body": "Scanned on the red fluorescence channel \\(635 nm excitation/650 nm LP emission) with a voltage of 800 PMT using a phosphorimager.\r\n\n\nPAUSE POINT The membranes were incubated with Cy5-labeled lectins \\(2µg/mL in Carbo-Free Blocking Solution) with gentle shaking overnight at 4°C in the dark."
+            }
+        ]
+    }
+]

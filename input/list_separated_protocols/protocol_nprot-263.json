@@ -1,0 +1,46 @@
+[
+    {
+        "title": "1.",
+        "body": "By cardiac puncture of the horseshoe crab, collect the hemolymph into pyrogen-free tubes.  The animals are handled under national and institutional guidelines of \\(National Advisory Committee for Laboratory Animal Research, Singapore).  Only partial bleeding of the horseshoe crab is performed and the animal is returned alive, to its natural habitat \\(the estuary)."
+    },
+    {
+        "title": "2.",
+        "body": "Carefully remove the hemocytes by centrifugation at 150 x g for 10 min at 4 ˚C."
+    },
+    {
+        "title": "3.",
+        "body": "To select plasma from uninfected individuals for further hemocyanin purification, at this juncture, spread 100 μl of the supernatant on nutrient agar plate and culture overnight at 37 ˚C.  Only plasma samples from individuals that showed sterile hemolymph may be used for further HMC/PPO purification."
+    },
+    {
+        "title": "4.",
+        "body": "Further clarify the supernatant at 9000 x g for 10 min at 4 ˚C."
+    },
+    {
+        "title": "5.",
+        "body": "Quick-freeze the second supernatant \\(referred to as plasma) in liquid nitrogen and store at -80 ˚C until further use."
+    },
+    {
+        "title": "6.",
+        "body": "Centrifuge the plasma twice at 40,000 x g for 3 h each at 4 ˚C."
+    },
+    {
+        "title": "7.",
+        "body": "Resuspend the plasma containing enriched HMC/PPO in 0.5 M pyrogen-free NaCl, and further dialyze against 0.1 M Tris-HCl, pH 8.0, 5 mM CaCl<sub>2</sub>, 5 mM MgCl<sub>2</sub>, at 4 ˚C overnight."
+    },
+    {
+        "title": "8.",
+        "body": "Further purify the hemocyanin by gel filtration chromatography through Superdex S200 column \\(2 x 150 cm) using elution buffer containing 0.1 M Tris-HCl, pH 8.0, 5 mM CaCl<sub>2</sub>, 5 mM MgCl<sub>2</sub>.  Collect the eluate in 1 ml fractions."
+    },
+    {
+        "title": "9.",
+        "body": "Analyse the protein profile for each peak by electrophoresis on 12% SDS-PAGE."
+    },
+    {
+        "title": "10.",
+        "body": "Pool the first half of the large leading peak which contains purified hemocyanin."
+    },
+    {
+        "title": "11.",
+        "body": "Determine the concentration of the purified hemocyanin by the method of Bradford using bovine serum albumin \\(Sigma, Fraction V) as standard."
+    }
+]

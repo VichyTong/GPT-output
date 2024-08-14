@@ -1,0 +1,271 @@
+[
+    "\nINJECTION",
+    {
+        "title": "1.",
+        "body": "Prepare 10 mg/mL stock BrdU solution in water. \r\n   Aliquots can be stored at -20°C and can be thawed in 37°C water bath before use."
+    },
+    {
+        "title": "2.",
+        "body": "Equilibrate the syringe with sterile water. \r\n  → Care must be taken not to introduce air into the syringe."
+    },
+    {
+        "title": "3.",
+        "body": "Put 0.2 mg BrdU solution for 1 g of body weight onto a parafilm and slowly take up by the syringe.\r\n  → Amount of BrdU injected was described in \\[5]."
+    },
+    {
+        "title": "4.",
+        "body": "Transfer the fish from aquarium into an insulator ice bucket filled with aquarium water to half-length."
+    },
+    {
+        "title": "5.",
+        "body": "Start adding ice cubes that were made from the aquarium water until the temperature drops to 12°C. \r\n  → At this temperature, the fish ceases its movement but the continues breathing."
+    },
+    {
+        "title": "6.",
+        "body": "Cool your fingertips in the 12°C water and gently handle the fish. Inject the BrdU solution into the abdominal cavity.\r\n  → Fish can be immobilized onto a sponge which has been soaked in 12°C water."
+    },
+    {
+        "title": "7.",
+        "body": "Release the fish into 25°C system water and observe for 10 minutes."
+    },
+    {
+        "title": "8.",
+        "body": "Leave the fish in this tank for 4 to 24 hours.  \r\n  \r\n\n\nFIXATION"
+    },
+    {
+        "title": "9.",
+        "body": "Prepare ice-water mixture: In an ice bucket, add 4 parts of ice and 1 part of water Put the fish into the ice water, fish should be in the 4°C water completely. \r\n   → As suggested by NIH Guidelines \\[6].\r\n\n\n → Fish can stay in the ice-water for up to 1h."
+    },
+    {
+        "title": "10.",
+        "body": "After 10 minutes, when all the movement ceases, fish can be killed by cutting the head with a scalpel."
+    },
+    {
+        "title": "11.",
+        "body": "Put the head into the fixation buffer and incubate at 4°C, overnight.\r\n  \r\n\n\nDISSECTION"
+    },
+    {
+        "title": "12.",
+        "body": "Fill a 10 cm dish with PBS and add the fish or the fish head into the PBS. Perform the dissection by using the dumont tweezers under the dissecting microscope. \r\n  → The brain has to be dissected as a whole by cleaning all the gills and fat tissue. The pigments on the dorsal side of the brain can be removed by peeling the thin membrane."
+    },
+    {
+        "title": "13.",
+        "body": "Add the dissected brain in PBS into a 2 ml tube."
+    },
+    {
+        "title": "14.",
+        "body": "Wash the samples 3 times with PBS-T  for 5 min each by carefully aspirating the medium on top and slowly adding the new medium. Put the tubes on rotator in between washes."
+    },
+    {
+        "title": "15.",
+        "body": [
+            "Perform dehydration series by incubating the brains 4 min in each of the following:",
+            {
+                "title": "a)",
+                "body": "30% methanol in PBS-T"
+            },
+            {
+                "title": "b)",
+                "body": "50% methanol in PBS-T"
+            },
+            {
+                "title": "c)",
+                "body": "70% methanol in PBS-T"
+            },
+            {
+                "title": "d)",
+                "body": "90% methanol in PBS-T"
+            },
+            {
+                "title": "e)",
+                "body": "100% methanol"
+            }
+        ]
+    },
+    {
+        "title": "16.",
+        "body": "Add 100% methanol and incubate at -20°C, overnight. \r\n    → Samples can be left at this stage for long term storage. \r\n\n\n\r\n\n\nEMBEDDING AND SLICING"
+    },
+    {
+        "title": "17.",
+        "body": "Take the brains from -20°C, equilibrate with room temperature methanol by washing once."
+    },
+    {
+        "title": "18.",
+        "body": [
+            "Perform rehydration series by incubating the brains 4 min in each of the following:",
+            {
+                "title": "a)",
+                "body": "90% methanol in PBS-T"
+            },
+            {
+                "title": "b)",
+                "body": "70% methanol in PBS-T"
+            },
+            {
+                "title": "c)",
+                "body": "50% methanol in PBS-T"
+            },
+            {
+                "title": "d)",
+                "body": "30% methanol in PBS-T"
+            },
+            {
+                "title": "e)",
+                "body": "PBS-T"
+            }
+        ]
+    },
+    {
+        "title": "19.",
+        "body": "Wash with PBS-T again and leave on the rotator for 15 min."
+    },
+    {
+        "title": "20.",
+        "body": "Prepare 3% agarose in PBS, allow to cool down to a temperature which the bottle can be hold in hand but still not solidifed."
+    },
+    {
+        "title": "21.",
+        "body": "Transfer agarose into the moulds."
+    },
+    {
+        "title": "22.",
+        "body": "Pick each brain with the tweezers and carefully drop into the agarose."
+    },
+    {
+        "title": "23.",
+        "body": "With the help of bent syringe adjust the orientation of the brains quickly. Brains tend to sink to the bottom, try to prevent it by again touching the agarose with the syringe. Do not touch the brains."
+    },
+    {
+        "title": "24.",
+        "body": "When the agarose has set, release the agarose from the mould."
+    },
+    {
+        "title": "25.",
+        "body": "Cut agarose into a small block in which the brain is at the center. Brain shouldn’t be close the edges."
+    },
+    {
+        "title": "26.",
+        "body": "Attach agarose blocks to vibratome plate by using a strong, water-based adhesive."
+    },
+    {
+        "title": "27.",
+        "body": "Fill the vibratome tank with PBS, mount the plate into the tank."
+    },
+    {
+        "title": "28.",
+        "body": "Start cutting slices of 50μM thickness."
+    },
+    {
+        "title": "29.",
+        "body": "Transfer each slice into a 48-well plate filled with PBS after each cutting. Two slices can be put into one well."
+    },
+    {
+        "title": "30.",
+        "body": "When all slices are obtained, wash twice with PBS-T by aspirating the medium with a glass pasteur pipette, carefully. Do not touch the slices."
+    },
+    {
+        "title": "31.",
+        "body": "Add 180 μL 2N HCl to each well and incubate at 37°C for 30 min without shaking."
+    },
+    {
+        "title": "32.",
+        "body": "Aspirate HCl and wash the wells with borate buffer, once."
+    },
+    {
+        "title": "33.",
+        "body": "Wash 3 times with PBS-T, 5 min each, on a rotator."
+    },
+    {
+        "title": "34.",
+        "body": "Incubate in blocking solution: 3% goat serum in PBS-T for 1 hour, at RT, on the rotator. Add 180μL to each well."
+    },
+    {
+        "title": "35.",
+        "body": "Prepare the anti-BrdU antibody in blocking solution at a 1:500 dilution. Mix well."
+    },
+    {
+        "title": "36.",
+        "body": "Add 180μL antibody to each well except for the no antibody control. To no-primary-antibody control wells, add 180μL of blocking solution."
+    },
+    {
+        "title": "37.",
+        "body": "Leave plates at 4°C, on a rotator, for 24 to 72 hours. Cover the plates with parafilm to prevent evaporation.\r\n  \r\n\n\nMOUNTING"
+    },
+    {
+        "title": "38.",
+        "body": "Take the plates out of fridge and discard the antibodies."
+    },
+    {
+        "title": "39.",
+        "body": "Wash 3 times with PBS-T, 5 min each."
+    },
+    {
+        "title": "40.",
+        "body": "Wash 2 times with PBS-T, 15 min each. Put the tubes on rotator in between washes."
+    },
+    {
+        "title": "41.",
+        "body": "Incubate in blocking solution: 3% goat serum in PBS-T, for 30 min on a rotator."
+    },
+    {
+        "title": "42.",
+        "body": "Prepare the secondary antibody in PBS-T at 1:1000 dilution. Mix well."
+    },
+    {
+        "title": "43.",
+        "body": "Incubate at room temperature, for 2 hours, on the rotator."
+    },
+    {
+        "title": "44.",
+        "body": "Discard the antibodies."
+    },
+    {
+        "title": "45.",
+        "body": "Wash 3 times with PBS-T, 5 min each."
+    },
+    {
+        "title": "46.",
+        "body": "Wash 2 times with PBS-T, 15 min each. Put the tubes on rotator in between washes."
+    },
+    {
+        "title": "47.",
+        "body": "Add 180μL of 7-AAD working solution onto the wells. Incubate for 10 min on a rotator.\r\n  → Applied as recommended in \\[7]"
+    },
+    {
+        "title": "48.",
+        "body": "Wash with PBS-T, twice."
+    },
+    {
+        "title": "49.",
+        "body": "Under a bright light with a black background, fill a 15 cm dish with PBS. Dip one microscope slide into it, wash with PBS."
+    },
+    {
+        "title": "50.",
+        "body": "Incline the slide to the edge of the plate, one end dipped in PBS. Take two slices at a time from the experiment plate with the help of a brush and drop into the PBS in the dish."
+    },
+    {
+        "title": "51.",
+        "body": "With a no:0 brush, align the slices onto the microscope slide. Do not allow slices to wrap or dry. Align up to 8 slices on a slide."
+    },
+    {
+        "title": "52.",
+        "body": "Wipe dry excess water, let the slices air dry but do not let them dry out completely."
+    },
+    {
+        "title": "53.",
+        "body": "Drop minute amounts of Prolong antifade reagent to each slice and also to the bottom of the slide."
+    },
+    {
+        "title": "54.",
+        "body": "Touch the coverslip to the edge of the slide and lower slowly onto the slices."
+    },
+    {
+        "title": "55.",
+        "body": "Leave the slides overnight at room temperature, in the dark."
+    },
+    {
+        "title": "56.",
+        "body": "Seal the edges with nail polish.\r\n  → Slides can now be observed under microscope."
+    }
+]

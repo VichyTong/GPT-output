@@ -1,0 +1,100 @@
+[
+    {
+        "title": "**1. Sonication and size-selection of BAC/genomic DNA \\(Covaris S220)**",
+        "body": "Use 5 µg of BAC/genomic DNA in 130 µl TE per sonication \\(Covaris microTUBE with AFA fiber; Cat No. 520045)\r\n\n\n• For a target size of 1000-1500bp, sonicate for 15sec per 5µg sample with intensity parameters: 2-4-200\r\n\n\n• For a target size of 500-750bp sonicate for 45sec per 5 µg sample with intensity parameters: 5-3-200 \r\n\n\n• Put samples on ice\r\n\n\n• Pool all sonication samples and add the corresponding volume of 6x DNA loading dye\r\n\n\n• Run <sub>60 µl sample per well \\(20 wells total) \\(do not exceed 2.5 µg/well, which results in poor separation) on a 1% agarose gel at 140V for </sub>20-30 minutes \\(min) \\(if possible use SYBR Safe DNA Gel Stain, Invitrogen)\r\n\n\n• Size-select \\(cut) DNA between 1 kb and 1.5 kb\r\n\n\n• Purify size-selected DNA from two lanes per column \\(Gel Extraction Kit, Qiagen, Cat No. 28704). Do not use more than 400 mg agarose per column, do not heat gel slice in lysis buffer to 50ºC, 25ºC should suffice under constant agitation for 10-15 min \\(ensure that gel slice is completely dissolved)\r\n\n\n• Elute in 50 µl EB, repeat elution with eluate\r\n\n\n• Pool the elution fractions of five columns and purify again \\(QIAquick PCR Purification Kit, Qiagen, Cat No.28104)\r\n\n\n• Elute in 50 µl EB, repeat elution with eluate\r\n\n\n• Determine DNA concentration \\(you need 1 µg of fragmented and purified BAC/gDNA per adapter ligation reaction)"
+    },
+    {
+        "title": "**2. Library insert generation**",
+        "body": []
+    },
+    {
+        "title": "**2.1 Adapter ligation of sonicated BAC/genomic DNA**",
+        "body": "The following part of the protocol is based on the manual of NEBNext Ultra™ II DNA Library Prep Kit for Illumina \\(E7645S). Use 1 µg DNA starting material per reaction, perform 1 adapter ligation reaction for focused libraries and 5 for genome-wide libraries, use NEBNext hairpin-adapters from NEB, USER enzyme \\(both contained in NEBNext Multiplex Oligos for Illumina \\(E7335L)) and follow the manufacturer's instructions."
+    },
+    {
+        "title": "**2.2 Cleanup of adaptor-ligated DNA library with Agencourt AMPure XP beads**",
+        "body": "Since the NEBNext Ultra II Ligation Master Mix is very viscous clean up 2x with Agencourt AMPure XP \\(Beckman Coulter; Cat No. A63881)."
+    },
+    {
+        "title": "**AMPure XP bead clean-up:**",
+        "body": "Note: Keep the supernatant until confirmation that the clean-up worked, keep strip on magnet at all time \\(except elution), pipette always onto the magnet opposing tube wall.\r\n\n\n• Bring beads to room temperature and mix thoroughly by vortexing before use\r\n\n\n• Add 90 µl of adaptor ligation reaction to PCR strip\r\n\n\n• Add 1.8 vol. beads \\(162 µl) to 1 vol. DNA \\(90 µl), vortex, pipette up and down 20x \r\n\n\n• Incubate 10 min at room temperature \r\n\n\n• Place PCR strip onto magnetic stand\r\n\n\n• Incubate 10 min on magnet until the solution is clear and all beads are collected at the wall of the tubes\r\n\n\n• Remove all liquid \r\n\n\n• Wash 2x with 250 µl 80% EtOH, incubation time 2 min \r\n\n\n• Air dry beads at room temperature with open lids on magnet until you see cracks \\(usually 2-5 min)\r\n\n\n• Elute with 100 µl RNase-free H2O \\(place strip to 37°C in thermo cycler for 3 min)"
+    },
+    {
+        "title": "**Removal of adaptor dimers using AMPure XP beads:**",
+        "body": "Clean up the entire eluate \\(100 µl) from above again using AMPure XP beads. Follow the protocol “AMPure XP bead clean-up” from above but add 0.8 vol. beads to 1 vol. DNA \\(e.g. for 100 µl DNA use 80 µl beads). Elute in a final volume of 20 µl EB. Pool all 5 cleaned-up adaptor ligation reactions for genome-wide library prior to amplification."
+    },
+    {
+        "title": "**2.3. Amplification of adapter-ligated DNA library**",
+        "body": "Note: It is critical to use KAPA HiFi HotStart ReadyMix \\(2X) \\(Cat No. KK2601). \r\n\n\n \r\n\n\nPrimer sequences \\(the primers below contain homology arms for cloning of the library insert to the STARR-seq screening vector by In-FusionHD cloning – see below):\r\n\n\nin-fusion_fwd\r\n\n\nTAGAGCATGCACCGGACACTCTTTCCCTACACGACGCTCTTCCGATCT\r\n\n\nin-fusion_rev \r\n\n\nGGCCGAATTCGTCGAGTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT"
+    },
+    {
+        "title": "**Test PCR:**",
+        "body": "Aim: determination of the number of PCR cycles that result in a clear & visible product on an agarose gel \\(typically 6-10 cycles), based on band intensity. It is important to avoid over-amplification, which leads to concatemerization of PCR products, which can be seen as smear on gel towards bigger sizes than expected. Perform two reactions, one with 7 and one with 9 cycles. \r\n\n\n\r\n\n\nPCR reaction:\r\n\n\n1 µl adapter-ligated DNA\r\n\n\n2.5 µl library_cloning_fw \\(10 µM)\r\n\n\n2.5 µl library_cloning_rv \\(10 µM)\r\n\n\n25 µl 2x KAPA HiFi Mix\r\n\n\nFill up with H2O to 50 µl\r\n\n\n\r\n\n\nProgram:\r\n\n\n98°C - 45 sec, 5 and 9 cycles of 98°C- 15 sec, 65°C- 30 sec, 72°C- 45 sec, final elongation of 60s at 72°C.\r\n\n\n\r\n\n\nGel analysis with 10 µl PCR + 2 µl 6x DNA loading dye of each test PCR, 1% agarose gel, 140V, 15-30 min."
+    },
+    {
+        "title": "**PCR amplification of adapter-ligated DNA library:**",
+        "body": "Use 1 µl of adapter-ligated DNA library per PCR reaction \\(50 µl), use number of cycles determined during test PCR, perform 30 PCR reactions to amplify adapter-ligated genomic DNA library inserts \\(to guarantee maximal complexity), for focused libraries, 4 PCR reactions are sufficient. Please see test PCR above for PCR reaction and PCR program setup.\r\n\n\n2.4 PCR purification with Agencourt AMPure XP beads\r\n\n\nPool 4 or 10 PCR reactions in DNA LoBind Tubes 1.5 ml \\(Eppendorf; Cat No. 0030108051). Purify DNA sample with AMPure XP beads \\(see above), use 0.8 vol. beads per 1 vol. PCR reaction. Elute in 40 / 100 µl EB.\r\n\n\n2.5 PCR purification \\(QIAquick PCR Purification Kit, Qiagen; Cat No. 74104)\r\n\n\nNote: This step increases cloning efficiency \\(In-FusionHD).\r\n\n\n• Add 5 vol. PB buffer to 1 vol. PCR reaction and mix\r\n\n\n• To bind DNA, apply the sample \\(max 700µl) to the QIAquick column and centrifuge for 60 sec at 18,000g\r\n\n\n• Discard flow-through and place the QIAquick column back in the same tube\r\n\n\n• To wash, add 0.75 ml PE buffer to the QIAquick column, centrifuge for 60 sec at 18,000g\r\n\n\n• Discard flow-through and place the QIAquick column back in the same tube\r\n\n\n• Centrifuge for 2 min at max. speed to remove residual PE buffer\r\n\n\n• Place each QIAquick column in a clean 1.5 ml microcentrifuge tube\r\n\n\n• To elute DNA, add 50 µl EB \\(10 mM Tris·Cl, pH 8.5) to the center of the QIAquick membrane and centrifuge for 1 min at max. speed\r\n\n\n• Re-apply eluate to column and elute again, determine DNA concentration"
+    },
+    {
+        "title": "**3. Library Cloning**",
+        "body": []
+    },
+    {
+        "title": "**3.1 Restriction digest and purification of STARR-seq screening vector**",
+        "body": "Note: The purification steps are critical for cloning efficiency \\(In-Fusion HD)."
+    },
+    {
+        "title": "**Restriction Digest**",
+        "body": "25 µg STARR-seq screening vector \\(5 µg plasmid for focused library)\r\n\n\n25 µl AgeI-HF\r\n\n\n25 µl SalI-HF\r\n\n\n50 µl CutSmart Buffer \\(10x) \r\n\n\nFill up with H2O to 500 µl\r\n\n\nMix thoroughly and distribute 10x 50 µl to PCR strips\r\n\n\n\r\n\n\n• Incubate 2h, 37ºC in PCR machine\r\n\n\n• Heat inactivate for 20 min at 65ºC"
+    },
+    {
+        "title": "**Gel extraction \\(QIAquick Gel Extraction Kit, Qiage, Cat No. 12362)**",
+        "body": "• Add 10 µl of 6x DNA loading dye to digested plasmid DNA\r\n\n\n• Run 60 µl samples per lane on a 1% agarose gel at 160V for 30 min \\(use SYBR® Safe DNA Gel Stain, Invitrogen)\r\n\n\n• Cut out digested plasmid \\(~3 kb) from gel \\(under blue light with SYBR® Safe DNA Gel Stain)\r\n\n\n• Purify digested plasmid DNA from two lanes per column \\(QIAquick Gel Extraction Kit, Qiagen). Do not use more than 400 mg agarose per column\\! \r\n\n\n• Wash 2x with 700 µl PE buffer\r\n\n\n• Elute 2x \\(50 µl & 25 µl) EB"
+    },
+    {
+        "title": "**PCR purification \\(QIAquick PCR Purification Kit, Qiagen, Cat No. 74104)**",
+        "body": "• Pool eluates from gel extraction step and divide into two samples with equal volumes\r\n\n\n• Clean up with 2 QIAquick columns\r\n\n\n• Elute 2x \\(50 µl & 25 µl) EB"
+    },
+    {
+        "title": "**MinElute PCR purification \\(MinElute PCR Purification Kit, Qiagen, Cat No. 28006)**",
+        "body": "• Pool eluates from the PCR purification step and divide into two samples with equal volume\r\n\n\n• Clean up with 2 MinElute columns\r\n\n\n• Elute 2x \\(15 µl & 15 µl) EB"
+    },
+    {
+        "title": "**3.2 In-Fusion HD reaction \\(In-Fusion® HD Cloning Kit, Clontech; Cat No.639650)**",
+        "body": "Use 2:1 molar ratio of insert \\(<sub>1250 bp \\[including adapters]) versus plasmid \\(</sub>3 kb). Set up 40 reactions for a genome-wide library \\(4 reactions can be run pooled). For a focused library set up 4 reactions in total \\(4 reactions can be run pooled)."
+    },
+    {
+        "title": "**In-Fusion HD Cloning Reaction**",
+        "body": "125 ng AgeI-HF/SalI-HF digested plasmid\r\n\n\n2x molar excess PCR amplified, adapter-ligated DNA library\r\n\n\n2 µl In-Fusion HD Enzyme Premix \\(5x)\r\n\n\nFill up with H2O to 10 µl\r\n\n\n• Incubate 15 min at 50ºC in PCR machine\r\n\n\n• Place samples on ice"
+    },
+    {
+        "title": "**Precipitation of cloned DNA library**",
+        "body": "Note: This step is critical for transformation efficiency. Use DNA LoBind Tubes 2 ml \\(Eppendorf; Cat No. 0030108078).\r\n\n\n• Pool 4 cloning reactions \\(total of ~40 µl) \\(if not pooled already)\r\n\n\n• Adjust pooled cloning reactions to 250 µl with EB\r\n\n\n• Add 25 µl 3M NaAc pH 5.2, vortex\r\n\n\n• Add 2 µl Pellet Paint \\(Millipore), vortex\r\n\n\n• Add 750 µl ice-cold \\(-20ºC) 100% EtOH, vortex\r\n\n\n• Incubate at -20ºC 16h\r\n\n\n• Spin 15 min, full speed, 4ºC\r\n\n\n• Vortex\r\n\n\n• Spin again 15 min, full speed, 4ºC\r\n\n\n• Carefully aspirate supernatant\r\n\n\n• Wash 3x with 750 µl ice-cold \\(-20ºC) 70% EtOH \\(mix by inverting tube or vortexing)\r\n\n\n• Spin 15 min, full speed, 4ºC & carefully aspirate supernatant\r\n\n\n• Dry pellet for 30 sec at 37ºC, further dry at room temperature until dry\r\n\n\n• Resuspend pellet of cloning reaction in 12.5 µl EB by pipetting followed by vortexing\r\n\n\n• Incubate for 1-3 h at -80ºC \\(increases transformation efficiency)\r\n\n\n• Store at -20ºC or proceed with transformation \\(after freezing thaw on ice)"
+    },
+    {
+        "title": "**3.3 Transformation of electrocompetent MegaX DH10B \\(Invitrogen; Cat No. C640003)**",
+        "body": [
+            "Note: Start approximately at 4pm, pre-warm \\(1 day in advance) 12 L \\(4 L) LB medium at 37ºC, pre-warm recovery medium at 37ºC, use pre-cooled 20 µl tips \\(-20ºC) to pipet competent cells, perform all steps on ice \\(ideally in cold room), pre-cool DNA LoBind Tubes 1.5 ml \\(Eppendorf; Cat No. 0030108051) and cuvettes \\(Gene Pulser Electroporation Cuvettes, 0.1 cm gap, Bio-Rad; Cat No. 1652089) on ice.\r\n\n\n• Pool eluates of cloning reactions \\(5x 12.5 µl)\r\n\n\n• Thaw 5 tubes \\(1 tube) of electrocompetent E. coli \\(MegaX DH10B™ T1R, Invitrogen) on ice \\(24 transformations for genome-wide library, 3-4 transformations for BAC library) \r\n\n\n• Distribute 2.5 µl aliquots of pooled DNA of cloning reactions \\(for 24 transformations) to pre-cooled LoBind Tubes 1.5 ml\r\n\n\n• Pipet 1 µl transformation control \\(pUC19 – comes with the bacteria) to pre-cooled LoBind Tubes 1.5 ml\r\n\n\n• Add 20 µl MegaX DH10B to each tube\r\n\n\n• Pipette DNA-bacteria mix into pre-cooled cuvettes using pre-cooled 20 µl tips\r\n\n\n• Electroporate at 2 kV, 25µF, 200 ohms with Bio-Rad Gene PulserxCell.\r\n\n\n• Immediately add 1 ml of pre-warmed \\(37ºC) recovery medium \\(comes with MegaX DH10B™ T1R cells). It is critical to immediately add the pre-warmed medium.\r\n\n\n• Recover transformed bacteria in 14 ml \\(polypropylene) round bottom tubes \\(Falcon) while shaking \\(>300 rpm) for 1 h at 37ºC\r\n\n\n• Pool all transformations \\(~22-23 ml)\r\n\n\n• Make a dilution series of pooled bacteria culture from transformation reaction and transformation control to determine efficiency:\r\n\n\n• 1:10 100 µl bacteria culture + 900 µl LB medium\r\n\n\n• 1:50 200 µl from 1:10 dilution + 800 µl LB medium\r\n\n\n• 1:500 100 µl from 1:50 dilution + 900 µl LB medium\r\n\n\n• 1:5000 100 µl from 1:500 dilution + 900 µl LB medium\r\n\n\n• Plate 100 µl of 1:50, 1:500 and 1:5000 dilutions on Ampicillin selection plates \\(100 µg/ml)\r\n\n\n• Add equal volumes \\(~1.8 ml) of bacteria culture from pooled transformation reactions to 2L of pre-warmed \\(37ºC) LB medium with Ampicillin \\(100 µg/ml) in 5 L Erlenmeyer flasks\r\n\n\n• Incubate overnight \\(~13",
+            {
+                "title": "h)",
+                "body": [
+                    "while shaking \\(200 rpm) at 37ºC\r\n\n\n• Measure OD600 \\(OD600 should be between 2 - 2.6)\r\n\n\n• Spin down bacteria culture in 1L bottles, 30 min \\(45 min), 4200 rpm, 4ºC\r\n\n\n• Decant supernatant \\(leave small volume of medium)\r\n\n\n• Resuspend bacteria pellets in remaining medium by vortexing\r\n\n\n• Pool resuspended pellets into one bottle\r\n\n\n• Use 10-15 ml of LB medium \\(per 4 bottles) to clean out remaining pellet remains, unite everything with resuspended pellets and vortex to obtain a homogenous bacteria suspension\r\n\n\n• Distribute bacteria suspension evenly into 8 \\(or up to",
+                    {
+                        "title": "10)",
+                        "body": "50 ml falcon tubes \\(before determining weight of empty tubes)\r\n\n\n• Spin 15 min, 6000g at 4ºC\r\n\n\n• Aspirate supernatant\r\n\n\n• Determine weight of bacteria pellets in falcon tubes\r\n\n\n• Store pellets at -20ºC"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "**4. Purification of cloned DNA library \\(Plasmid Plus Giga Kit, Qiagen, Cat No. 12991)**",
+        "body": [
+            "Note: For Electroporation of cells using the MaxCyte STX transfection system it is critical to have the DNA \\(library) suspended in H2O at a high concentration \\(> 1 µg/µl).\r\n\n\n• Use one pellet \\(max. 7.5",
+            {
+                "title": "g)",
+                "body": "and follow the protocol for the Plasmid Plus Giga Kit\r\n\n\n• Elute with 1 ml H2O, measure concentration\r\n\n\n• Elute again with 0.5 ml H2O, if concentration is > 2 µg/µl add to the 1st elution, if <2 µg discard it and continue only with the 1st elution."
+            }
+        ]
+    }
+]

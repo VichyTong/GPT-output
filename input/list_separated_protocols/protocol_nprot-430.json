@@ -1,0 +1,117 @@
+[
+    {
+        "title": "**Modification of siRNA Vector**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Choose a U6 or H3 promoter siRNA vector like pSilencer 2.0 U6 Hygro."
+            },
+            {
+                "title": "2.",
+                "body": "Use the QuikChange® Site-Directed Mutagenesis Kit to modify the vector according to the manufacturer’s instructions for:\r\n  i. Removing all _EcoR_ I sites and generating a single _EcoR I_ site immediately upstream of the U6 promoter.\r\n\n\nii. Adding _Mfe I_ and _Xho I_ sites to the 5’-terminus of the U6 siRNA cascade as shown in Figure 1."
+            }
+        ]
+    },
+    {
+        "title": "**TIP:**",
+        "body": "_Mfe_ I and _EcoR_ I have matched ends which can be ligated to each other, but cannot be re-cut by either endonuclease after ligation. This will facilitate the repeated insertion of multiple U6-siRNA cascades into the vector. Alternately, the _BamH_ I and _Bgl_ II pair which also have matched ends may be used if one of them is located immediately before the U6 promoter."
+    },
+    {
+        "title": "**Generation of siRNA constructs**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Choose the proper siRNA targeting sequences corresponding to the multiple genes to be targeted for removal. The online service “siDESIGN” of Dharmacon Research, Inc., or other similar programs, may be used for selecting potential targeting sites."
+            },
+            {
+                "title": "2.",
+                "body": "Synthesize forward and reverse chains of oligonucleotides containing 19-21 nt of sense and 19-21 nt of antisense targeting sequences with an intervening “AGAGAACTT” loop. Several extra nucleotides should be designed to generate proper restriction enzyme sites on annealed oligonucleotides \\(which are _BamH_ I and _Hind_ III if the modified pSilencer 2.0 U6 Hygro vector is used)."
+            },
+            {
+                "title": "3.",
+                "body": "Anneal the forward and reverse chains of oligonucleotides."
+            },
+            {
+                "title": "4.",
+                "body": "Digest modified siRNA Vector \\(_BamH_ I and _Hind_ III) and purify it using a 1% agarose gel."
+            }
+        ]
+    },
+    {
+        "title": "**TIP:**",
+        "body": [
+            "Do not use the _Mfe_ I and _Xho_ I sites for inserting the siRNA targeting sequences. These two sites will be used to combine multiple siRNA cascades into one vector.",
+            {
+                "title": "5.",
+                "body": "Insert the annealed oligonucleotides for multiple genes separately into the modified siRNA vector digested with the corresponding restriction enzymes using Quick Ligation Kits."
+            },
+            {
+                "title": "6.",
+                "body": "Transform competent _E. coli_ cells for amplifying each construct."
+            }
+        ]
+    },
+    {
+        "title": "**Generation of siRNA construct for knocking down multiple genes \\(see Figure 1)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Digest one of the siRNA constructs with _Xho_ I and _Mfe_ I and purify the vector using a 1% agarose gel."
+            },
+            {
+                "title": "2.",
+                "body": "Digest a second siRNA construct with _Xho_ I and _EcoR_ I and purify the U6-siRNA cascade fragment \\(the short fragment) on a 1% agarose gel."
+            },
+            {
+                "title": "3.",
+                "body": "Ligate the above purified vector and the short fragment using the Quick Ligation Kit."
+            },
+            {
+                "title": "4.",
+                "body": "Transform competent _E. coli_ cells and amplify the combined U6-siRNA construct."
+            },
+            {
+                "title": "5.",
+                "body": "If more genes are to be targeted, repeat steps 1-4 to generate multiple U6-siRNA cascades into one vector."
+            }
+        ]
+    },
+    {
+        "title": "**Generation of expression vector for gene replacement\\(s)**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Clone the cDNA of genes into a mammalian cell expression vector."
+            },
+            {
+                "title": "2.",
+                "body": "Generate mutations in the siRNA target region of each cDNA using  QuickChange Site-Directed Mutagenesis Kit to circumvent targeting by siRNA."
+            }
+        ]
+    },
+    {
+        "title": "**TIP:**",
+        "body": "If the siRNA target region is located in the open reading frame, make 3-5 mutations in the wobble positions of the codons in the siRNA target region."
+    },
+    {
+        "title": "**Transfection of cells**",
+        "body": [
+            {
+                "title": "1.",
+                "body": "Cells are cultured in the appropriate medium supplemented with 10% fetal bovine serum. Transfections are carried out using Lipofectamine 2000 according to the manufacturer’s instructions."
+            },
+            {
+                "title": "2.",
+                "body": "Proper antibiotics are added to the medium to select for the appropriate multiple siRNA construct following transfection."
+            },
+            {
+                "title": "3.",
+                "body": "Analyze cell extracts for the removal of targeted genes by northern and/or western blotting."
+            },
+            {
+                "title": "4.",
+                "body": "Transfect the siRNA stably transfected cells with the corresponding expression vector\\(s) for gene replacement and function analysis."
+            }
+        ]
+    }
+]
